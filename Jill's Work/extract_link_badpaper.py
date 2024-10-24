@@ -28,6 +28,10 @@ if response.status_code == 200:
     "label": 0  # Fill the "label" column with zeros
     })
 
+    bad_paperdf["doi"] = bad_paperdf["link"].apply(lambda x: x.split('doi.org/')[-1] if 'doi.org/' in x else None)
+
+
+
     #Export this pdf as a csv file
     bad_paperdf.to_csv('bad_paper_link.csv', index=False)
 

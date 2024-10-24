@@ -1,4 +1,4 @@
-# Perovskite Solar Cells Research & Literature Mining Project
+# Perovskite Solar Cells: Literature Mining Project
 
 ### Introduction
 This project aims to optimize the discovery of small molecules that improve the stability of perovskite solar cells. By leveraging literature mining, graph-based molecular representations, and machine learning models, we seek to identify patterns that lead to successful molecules and generate deeper insights into perovskite solar cell performance. The current methods rely heavily on Edisonian experimentation, which is inefficient. Our goal is to automate and streamline this discovery process using data-driven techniques.

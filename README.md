@@ -16,9 +16,9 @@ This project aims to optimize the discovery of small molecules that improve the 
 
 ### Tasks Breakdown
 **Fall 2024**
-- Week 1-3: Paper collection and filtering, schema development
-- Week 4-6: Web scraping, literature mining
-- Week 7-9: Data evaluation and organization
+- Week 1-4: Paper collection and filtering, schema development
+- Week 5: Analyze the Data
+- Week 6-9: Web scraping and literature mining
 - Week 10: Finalize data collection and begin early model development
 
 ### Variables and Schema

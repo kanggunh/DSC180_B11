@@ -1,0 +1,1 @@
+.scholar.google.com TRUE    /   FALSE   XXX GSP ID=XXX:IN=XXX+XXX:CF=4

@@ -24,8 +24,8 @@ if response.status_code == 200:
     
     #Store this result in pandas df
     bad_paperdf = pd.DataFrame({
-    "link": link_list,
-    "label": 0  # Fill the "label" column with zeros
+    "link": link_list
+    # ,"label": 0  # Fill the "label" column with zeros
     })
     #Create a doi row for just the doi in this link column
     bad_paperdf["doi"] = bad_paperdf["link"].apply(lambda x: x.split('doi.org/')[-1] if 'doi.org/' in x else None)
@@ -33,7 +33,7 @@ if response.status_code == 200:
 
 
     #Export this pdf as a csv file
-    bad_paperdf.to_csv("Jill's Work/bad_paper_link.csv", index=False)
+    bad_paperdf.to_csv("Jill's Work/bad_paper_big.csv", index=False)
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")

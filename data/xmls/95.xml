@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">How to cite this article: He, M. et al. Meniscus-assisted solution printing of large-grained perovskite films for high-efficiency solar cells</title>
+				<funder ref="#_N5S9B9j">
+					<orgName type="full">Air Force Office of Scientific Research</orgName>
+				</funder>
+				<funder ref="#_jhgeqNv">
+					<orgName type="full">National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_adQBKMR">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">How to cite this article: He, M. et al. Meniscus-assisted solution printing of large-grained perovskite films for high-efficiency solar cells</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F93A513623249B776A76BEC0E049C9A5</idno>
+					<idno type="DOI">10.1038/ncomms16045</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Element</head><p>Weight % Atom % Br 6. Supplementary The meniscus geometry can be described by a parabolic equation h=a(R-r) b , where R is the distance of the edge of meniscus away from the bulk ink, r is the horizontal distance of the meniscus surface away from the bulk ink, and h is the height of the meniscus at r as shown in Figure <ref type="figure">1b</ref>. We fit the experimentally measured outline of the meniscus curve with the parabolic equation, giving a=0.34, b=2.0, and the corresponding fitted line agreed well the experimental meniscus curve (i.e., the red dashed line in Fig. <ref type="figure">1b</ref>). Thus, we have the mathematical equation to represent the geometric of the meniscus curve as:</p><formula xml:id="formula_0">ℎ = 𝑎𝑎(𝑅𝑅 -𝑟𝑟) b<label>(1)</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(b) Calculate the velocity of the outward convective flow based on the meniscus geometry equation</head><p>By applying the lubrication approximation to Navier-Stokes equation, the evolution equation of the local thickness of meniscus edge can be given by: 1</p><formula xml:id="formula_1">𝜌𝜌 𝑑𝑑ℎ 𝑑𝑑𝑑𝑑 = -𝜌𝜌 1 𝑟𝑟 𝑑𝑑(𝑟𝑟ℎ𝑣𝑣) 𝑑𝑑𝑟𝑟 -𝐽𝐽 e (<label>2</label></formula><formula xml:id="formula_2">)</formula><p>where r is the horizontal distance of the meniscus surface away from the bulk ink, h is the height of meniscus at r, 𝑣𝑣 is the velocity of outward convective flow induced by solvent evaporation, 𝜌𝜌 is the density of the solvent, and J e is the flux of solvent evaporating per unit area unit time. <ref type="bibr">2</ref> Therefore, we have:</p><formula xml:id="formula_3">𝑣𝑣 = 1 𝜌𝜌𝑟𝑟ℎ ∫ �𝜌𝜌𝑟𝑟 𝑑𝑑ℎ 𝑑𝑑𝑑𝑑 + 𝐽𝐽 e 𝑟𝑟� 𝑑𝑑𝑟𝑟 𝑟𝑟 0<label>(3)</label></formula><p>The basic assumptions for calculating the velocity of outward convective flow from Navier-Stokes equation with the lubrication approximation include: 1 (i) vapor recoil is ignored; (ii) Marangoni flow is not induced, because the substrate is heated and maintained at a constant temperature; (iii) 𝑣𝑣 is the height-averaged velocity; and (iv) the shape of the meniscus remains relatively unchanged with time, as the volume of loaded ink is sufficient for completing the printing process. Thus, the ∂h/∂t term can be neglected. Supplementary Equation 3 can be simplified as follows:</p><formula xml:id="formula_4">𝑣𝑣 = 1 𝜌𝜌𝑟𝑟ℎ ∫ 𝐽𝐽 e 𝑟𝑟𝑑𝑑𝑟𝑟 𝑟𝑟 0<label>(4)</label></formula><p>In fact, J e is not a constant and is correlated with the meniscus geometry. The non-equilibrium one-sided (NEOS) model describes the evaporation process of the volatile thin films. It can also be employed for calculating the evaporation flux of a thin droplet. <ref type="bibr">[3]</ref><ref type="bibr">[4]</ref> Different from the uniform thickness of thin film, the thickness of thin droplet changes from the center of droplet to the edge of droplet. The basic assumptions for calculating the evaporation flux J e according to the NEOS model include: (i) the mass flux J e satisfies the Hertz-Knudsen relation; <ref type="bibr">[5]</ref><ref type="bibr">[6]</ref> (ii) the temperature and the pressure obeys the Clausis-Clapeyron law; <ref type="bibr">7</ref> and (iii) it is a reaction-limited evaporation with the interface at non-equilibrium. <ref type="bibr">4</ref> In this context, the evaporative flux J e can be given by: <ref type="bibr">8</ref> 𝐽𝐽 e (ℎ) = 1 ℎ+𝐾𝐾+𝑊𝑊 (5)   where 𝐾𝐾 is the non-equilibrium parameter, <ref type="bibr">4</ref> 𝑊𝑊 is the thermal effect given by 𝑊𝑊 = 𝑘𝑘𝑑𝑑 s 𝑘𝑘 s 𝑑𝑑 0 (𝑘𝑘 is the liquid thermal conductivity, 𝑘𝑘 s is the thermal conductivity of substrate, 𝑑𝑑 0 is the liquid thickness, and 𝑑𝑑 s is the thickness of substrate).</p><p>By Supplementary Equation 4 and 5, the outward flow velocity 𝑣𝑣 as a function of the distance 𝑟𝑟 away from the bulk ink can be obtained:</p><formula xml:id="formula_5">𝑣𝑣 = 1 𝜌𝜌𝑟𝑟ℎ ∫ � 𝑟𝑟 ℎ+𝐾𝐾+𝑊𝑊 � 𝑑𝑑𝑟𝑟 𝑟𝑟 0<label>(6)</label></formula><p>Assuming that R = 400 μm, an example plot of v as a function of the horizontal distance r is shown in Supplementary Figure <ref type="figure">1</ref>, suggesting that the outward convective flow is sharply accelerated at the edge of meniscus (i.e., 350 μm ≤ r ≤ 400 μm) due to the faster solvent evaporation. We note that we are using a radial model above to describe the outward convective flow towards the meniscus front edge. A 2D form of the realistic meniscus geometry will slow down outwards flow, yet will result in a qualitatively equivalent description (i.e., flow is accelerated towards meniscus front edge).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 2: optimal operation window for meniscus-assisted solution printing</head><p>Recently, Janneck et al. have built a physical model to predict the optimal window for the coating speed by estimating the equilibrium front evaporation speed v efe in the evaporation regime of meniscus coating, <ref type="bibr">9</ref> in which v efe is correlated with the substrate temperature T, the solvent boiling point T b , and the solvent density ρ:</p><formula xml:id="formula_6">𝑣𝑣 efe = 𝐴𝐴𝑉𝑉 m 𝑇𝑇 0.7 𝑒𝑒𝑒𝑒𝑒𝑒 �- ∆𝑆𝑆 vap 𝑅𝑅 i 𝑇𝑇 b 𝑇𝑇 � (7)</formula><p>where V m is the molar volume of solvent, ΔS vap is the entropy of vaporization of solvent, R i is the ideal gas constant, ΔS vap /R i is fixed to 10.5 based on Trouton's rule, and A is 1870 μm s -1 mol mL -1 K -0.7 derived from the fitting of Supplementary Equation 7 with varied solvents. We employed this model to further analyze the front evaporation speed of DMSO as a function of the substrate temperature, the boiling point, and the density in meniscus-assisted solution printing (MASP). The calculated v efe of DMSO at 60 o C is 4 μm s -1 (Supplementary Figure <ref type="figure" target="#fig_7">5a</ref>), the optimized coating speed v c we used in MASP was 12 μm s -1 , thus the normalized coating speed 𝑣𝑣̅ c =v c /v efe =3, suggesting that this model may be able to predict the optimal window of the coating speed via estimating the front solvent evaporation rate.</p><p>According to the calculated relationship between v efe and T in Supplementary Figure <ref type="figure" target="#fig_7">5a</ref>, we can easily tune the optimum speed at different temperatures to make MASP work in its optimal speed window. However, we found that there was also an optimal substrate temperature (i.e., T = 60 ± 10 o C) for depositing uniform FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite films by MASP. Because DMSO is a high-boiling-point solvent (e.g., T b =189 o C), a low substrate temperature (T &lt; 50 o C) usually made DMSO not completely evaporated during the MASP process. Thus, the as-deposited film easily formed cracks and holes due to the evaporation of residual DMSO. These structural defects in perovskite films tend to generate unfavorable charge traps and seriously reduce the efficiencies of charge generation and transport. If the substrate temperature was too high (i.e., T &gt; 70 o C), the evaporation of DMSO was largely increased not only at the front edge but also within the bulk meniscus, leading to an increase in solute concentration within the bulk ink, and eventually promoted the direct crystallization of perovskite solutes from the bulk ink.</p><p>Therefore, the optimal operation window for the MASP of uniform perovskite films with high power conversion efficiencies (PCEs) was fixed at the substrate temperature of 60 o C and the coating speed of 12 μm s -1 .</p><p>In the meniscus coating, the film thickness was typically influenced by the geometry of casting setup, the substrate temperature, the coating speed, the solvent property, and the solute concentration. For the meniscus coating in the Landau-Levich regime, a faster coating speed leads to a thicker film. For the meniscus coating in the evaporative regime, a faster coating speed results in a thinner film. <ref type="bibr">10</ref> In our work, we fixed our coating process in an optimal operation window as discussed above. In this case, the setup geometry, the substrate temperature, and the coating speed were fixed, and we can adjust the film thickness by varying the perovskite solute concentration. Supplementary Figure <ref type="figure" target="#fig_7">5b</ref> shows the film thickness of MASP-deposited FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film in relation with the solution concentration.</p><p>Through the model analysis and the numerical simulations, Janneck et al. demonstrated that the dependence of the solvent evaporation rate at the meniscus edge v efe on the meniscus geometrical factor h(θ) was very limited for the droplet length L in the range 4k -1 &lt; L&lt; 20k -1 ,</p><p>where k -1 is the capillary length. For DMSO, its capillary length at 60 o C is 𝑘𝑘 -1 = � 𝛾𝛾 𝜌𝜌 s 𝑔𝑔 = 1.9 𝑚𝑚𝑚𝑚, where γ is the surface tension of DMSO (i.e., ~38.84 mN m -1 at 60 o C), <ref type="bibr">11</ref> ρ s is the DMSO density (i.e., 1.1 g cm -3 ), and g is the gravity. Therefore, the evaporation rate of DMSO was not dependent on the contact angle when the ink droplet length L was controlled in the range of 7.6 mm &lt; L &lt; 38 mm. Janneck et al. studied several different solvents (i.e., dichloromethane, chloroform, hexane, toluene, anisole, etc.) with different contact angles and boiling points for meniscus coating. They found that all these solvents formed a shallow contact angle (θ &lt;10 o ), resulting in similar h(θ) factors. Accordingly, the contact angle is not expected to largely affect the evaporation rate. In addition, the droplet length of the confined ink could be adjusted by the added ink volume and the separation distance between the two plates. In order to maintain the ink droplet length in the range 7.6 mm &lt; L &lt; 38 mm, we did not largely change the separation distance between the two plates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 3: low-temperature crystallization of perovskites</head><p>The MASP enables the direct formation of high-purity perovskite crystals without the need for high-temperature annealing treatments. Since DMSO has a high boiling point, the lower substrate needed to be heated at 60 o C to accelerate the evaporation of DMSO, which in turn generated a driving force for the outward convective flow toward the edge of meniscus, thus forming a supersaturation phase. The trigonal perovskite phase was then directly formed in FA 1-x MA x PbI 3(1-x) Br 3x (0.05 ≤ x ≤ 0.25) with varied chemical compositions, in which no unpurified phases appeared and all films exhibited preferred orientation along the &lt;1 � 20&gt;/&lt;012&gt; direction as shown in Supplementary Figure <ref type="figure" target="#fig_4">12a</ref>. In addition, the position of (2 � 40)/(024) diffraction peak gradually shifted to large 2θ with the increased molar ratio of MAPbBr 3 in FA 1-x MA x PbI 3(1-x) Br 3x (Supplementary Figure <ref type="figure" target="#fig_4">12b</ref>), indicating that the d-spacing of (2 � 40)/(024) plane was decreased with the increased molar ratio of MAPbBr 3 . The d-spacing value and the molar ratio of MAPbBr 3 followed a linear relationship as shown in Supplementary Figure <ref type="figure" target="#fig_4">12c</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Method 1: selected area electron diffraction</head><p>The single crystal diffraction of a trigonal perovskite crystal with the space group P3m1 was simulated using CrystalMaker SingleCrystal TM . The lattice parameters a, b, and c are determined from the d-spacing values of the related (hkl) directions according to the relationship: axis is illustrated in Supplementary Figure <ref type="figure">9c</ref>. <ref type="bibr">12</ref> Moreover, Supplementary Figure <ref type="figure">9d</ref> depicts that the corner-sharing lead halide octahedral can form a long-range ordered network along the &lt;012&gt; orientation, which is beneficial for charge transport throughout the crystal film.</p><formula xml:id="formula_7">𝑑𝑑 ℎ𝑘𝑘𝑘𝑘 = 1 � 4 3 � ℎ 2 +ℎ𝑘𝑘+𝑘𝑘 2 𝑎𝑎 2 �+( 𝑙𝑙 𝑐𝑐 ) 2<label>(</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Method 2: Rietveld refinement XRD simulation</head><p>The X-ray diffraction (XRD) profiles of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film prepared by MASP and the reference sample prepared by spin coating can be readily indexed with the Rietveld refinement simulation of a trigonal perovskite crystal with the space group P3m1. <ref type="bibr">13</ref> The experimental XRD peaks of the spin-coated film agreed well with the Rietveld refinement simulation (Supplementary Figure <ref type="figure" target="#fig_3">11a</ref>), in which the (1 � 11) peak had the highest intensity as observed in previous work. <ref type="bibr">[14]</ref><ref type="bibr">[15]</ref> For the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film crafted by MASP, the intensity of (2 � 40)/(024) peak was significantly increased, suggesting that the MASP film exhibited preferred crystal orientation along the &lt;1 � 20&gt;/&lt;012&gt; direction. The March distribution function is often used for simulating preferred orientation in the Rietveld refinement: 13</p><formula xml:id="formula_8">𝑃𝑃 k = (𝑟𝑟 2 𝑐𝑐𝑐𝑐𝑐𝑐 2 𝑎𝑎 k + 𝑟𝑟 -1 𝑐𝑐𝑠𝑠𝑠𝑠 2 𝑎𝑎 k ) -3 2<label>(9)</label></formula><p>where P k is the modificaion of the diffraction peak intensity due to the preferred orientation, α k is the angle between the preferred orientation vector and the normal to the planes, and r is the refinable parameter in the Rietveld refinement. For r = 1, there is no prefererd orientation in the crystal, and the simulated intensities of diffraction peaks are shown in Supplementary Figure <ref type="figure" target="#fig_3">11a</ref>.</p><p>When we set the preferred orientaion at the &lt;1 � 20&gt;/&lt;012&gt; direction with r = 0.47, the simulated intensities of diffraction peaks agreed well with the experimental result shown in Supplementary Figure <ref type="figure" target="#fig_3">11b</ref>, implying the preferred orientation in the MASP-deposited perovskite film. 16</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Method 3: UV-vis and PL spectra</head><p>The optical bandgap E g of perovskite films was estimated from the Tauc formula: 17</p><formula xml:id="formula_9">(𝑎𝑎ℎ𝑣𝑣) 1/𝑛𝑛 = 𝐴𝐴(ℎ𝑣𝑣 -𝐸𝐸 g ) (<label>10</label></formula><formula xml:id="formula_10">)</formula><p>where a is the absorption coefficient, h is Planck's constant, v is frequency, A is constant, n = 1/2 for direct allowed transitions. The E g was derived from the Tauc plot of the perovskite films (i.e., (ahv) 2 ~ photon energy hv). The increased slope of the UV-Vis absorption edge with the photon energy forms an Urbach tail, which is correlated with the energy transition between the density-of-states tails in the valence band and those in the conduction band. The Urbach behavior of the absorption edge can be described as: 18</p><formula xml:id="formula_11">𝛼 = 𝛼 0 • exp � 𝜎(ℎ𝑣𝑣-𝐸 0 ) 𝑘𝑘𝑇𝑇 � = 𝛼 0 • exp � ℎ𝑣𝑣-𝐸 0 𝐸 U � (<label>11</label></formula><formula xml:id="formula_12">)</formula><p>where σ is the steepness parameter of the absorption edge, E U =Δ(hv)/Δ(ln a) is the Urbach energy, which characterizes the smearing degree of absorption edge caused by compositional and structural disordering. <ref type="bibr">19</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Method 4: space charge-limited current devices</head><p>The space charge-limited current devices were fabricated and evaluated to estimate the charge trap density in perovskite films. The measured current-voltage curve follows the Mott-Gurney's square law: 15</p><formula xml:id="formula_13">𝐽𝐽 D = 9𝜀𝜀𝜀𝜀 0 𝜇𝜇𝑉𝑉 b 2 8𝐿𝐿 3<label>(12)</label></formula><p>where J D is the dark current, ε is the relative dielectric constant, ε 0 is the vacuum permittivity, μ is the charge carrier mobility, V b is the applied bias voltage, and L is the film thickness. The charge trap density N trap was derived from the trap-filled limited voltage V TFL : 20</p><formula xml:id="formula_14">𝑉𝑉 TFL = 𝑒𝑒𝑁𝑁 trap 𝐿𝐿 2 9𝜀𝜀𝜀𝜀 0<label>(13)</label></formula><p>The charge trap density of the spin-coated FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film was estimated to be ~4.04×10 15 cm -3 , which was comparable with that in previous work. <ref type="bibr">15</ref>  Control over morphology and crystallinity of metal halide perovskite films is of key importance to enable high-performance optoelectronics. However, this remains particularly challenging for solution-printed devices due to the complex crystallization kinetics of semiconductor materials within dynamic flow of inks. Here we report a simple yet effective meniscus-assisted solution printing (MASP) strategy to yield large-grained dense perovskite film with good crystallization and preferred orientation. Intriguingly, the outward convective flow triggered by fast solvent evaporation at the edge of the meniscus ink imparts the transport of perovskite solutes, thus facilitating the growth of micrometre-scale perovskite grains. The growth kinetics of perovskite crystals is scrutinized by in situ optical microscopy tracking to understand the crystallization mechanism. The perovskite films produced by MASP exhibit excellent optoelectronic properties with efficiencies approaching 20% in planar perovskite solar cells. This robust MASP strategy may in principle be easily extended to craft other solution-printed perovskite-based optoelectronics. DOI: 10.1038/ncomms16045 OPEN <ref type="bibr">1</ref> School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. <ref type="bibr">2</ref> Laser Dynamics Laboratory, School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, Georgia 30332, USA. <ref type="bibr">3</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ARTICLE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S</head><p>olution printing is widely recognized as an attractive route to cost-effective, high-throughput and large-area thin film optoelectronics <ref type="bibr">[1]</ref><ref type="bibr">[2]</ref><ref type="bibr">[3]</ref> . In this technique, the ink solution containing semiconductor precursors or nanoparticles can be readily deposited on a variety of desirable substrates, offering precise control over stoichiometry and rendering ubiquitous adaptability and compatibility with patterned and flexible substrates <ref type="bibr">4</ref> . As state-of-the-art direct bandgap semiconductors, metal halide perovskites capitalize on superior optoelectronic characteristics such as intense broadband absorption, large ambipolar mobility, long charge carrier lifetime, and low processing cost compared with inorganic counterparts (e.g., silicon, CIGS and CdTe) <ref type="bibr">5,</ref><ref type="bibr">6</ref> . The power conversion efficiency (PCE) of solutionprocessed metal halide perovskite solar cells has rapidly leapfrogged from 3.8% to 22.1% over the past several years <ref type="bibr">7,</ref><ref type="bibr">8</ref> . Notably, top-performing perovskite solar cells have recently been advanced largely by optimizing the crystal morphology of methylammonium lead halides (MAPbX 3 , X ¼ I, Br and Cl), formamidinium lead halides (FAPbX 3 ), and their combinations <ref type="bibr">[9]</ref><ref type="bibr">[10]</ref><ref type="bibr">[11]</ref> . However, the requirement of morphology control has posed a great challenge for solution-printed perovskite films due to the limited understanding of crystallization in dynamic flow of perovskite inks.</p><p>It is important to note that photoluminescence spectroscopy has revealed that the trap-assisted non-radiative charge recombination dominates the efficiency loss in perovskite solar cells <ref type="bibr">12,</ref><ref type="bibr">13</ref> . The existence of charge traps is strongly associated with the disorder of crystals caused by ionized impurities, lattice vacancies and interstices and grain-boundary defects within perovskite film <ref type="bibr">14</ref> . Through improving the crystallization, charge traps inside highcrystallinity perovskites exist at shallow states, yet deep traps are still massively present near the grain boundary region <ref type="bibr">15</ref> . Recently, several solution-processed routes to micrometre-sized perovskite grains by crafting films at high temperatures (for example, spin coating at 180 °C for MAPbI 3(1 À x) Cl 3x and doctor-blading at 145 °C for FA x MA 1 À x PbI 3 , 0rxr1) have been successfully implemented to reduce the areas of grain boundary and minimize the trap-induced energy loss <ref type="bibr">16,</ref><ref type="bibr">17</ref> . One notion behind these effective approaches is that the grain-boundary motion depends strongly on the temperature, and a high temperature can stimulate solute atoms more easily to overcome the diffusion energy barrier, thus resulting in fast grain growth rate <ref type="bibr">18,</ref><ref type="bibr">19</ref> . Nevertheless, solution printing may not be amenable to high-temperature preparative conditions that are close to the boiling point, T bp , of typical solvents used for dissolving perovskites (for example, dimethylformamide (DMF), T bp, DMF ¼ B152 °C; dimethyl sulfoxide (DMSO), T bp, DMSO ¼ B189 °C), as the ink solution is too volatile to render the control over the crystal morphology. In addition to increased energy consumption, high-temperature treatment is also likely to cause thermal degradation and thermo-mechanical fatigue of perovskite and electrode materials, especially for flexible electrodes such as polyethylene terephthalate (PET) and polyethylene naphthalate (PEN) <ref type="bibr">20</ref> . Clearly, a low-temperature strategy for morphological control of solution-printed perovskite films is highly desirable, which has yet to be explored.</p><p>Here we report on a versatile meniscus-assisted solution printing (MASP) strategy to create highly crystallized perovskite films with micrometre-scale grains and preferred crystal orientations at low temperatures for high-efficiency perovskite solar cells. Specifically, a meniscus is formed due to capillary action by constraining the perovskite ink between a lower substrate and an upper plate. The fast solvent evaporation at the edge (that is, the air/perovskite ink/lower substrate three-phase contact line) of the meniscus triggers an outward convective flow to replenish the evaporative loss of solvent and meanwhile transports the perovskite solutes toward the contact line due to the coffee ring effect <ref type="bibr" target="#b40">[21]</ref><ref type="bibr" target="#b41">[22]</ref><ref type="bibr" target="#b42">[23]</ref> . This yields a perovskite supersaturated phase containing continually aggregated solutes, promoting the nucleation and growth of perovskite crystals. Through placing the lower substrate on a programmed translational stage, the receding meniscus can be slowly and progressively swept across the entire lower substrate, thereby printing a continuous perovskite film on the substrate. We note that the MASP deposition is inspired by solution-coating techniques in the field of organic semiconductor processing <ref type="bibr" target="#b43">[24]</ref><ref type="bibr" target="#b44">[25]</ref><ref type="bibr" target="#b45">[26]</ref><ref type="bibr" target="#b46">[27]</ref> . For solution-based coating of metal halide perovskite materials, doctor-blade coating has been widely employed to deposit perovskite thin films or microwires for optoelectronic applications <ref type="bibr" target="#b47">28,</ref><ref type="bibr" target="#b48">29</ref> . In contrast to the deposition of perovskite solutes by doctor-blade coating with which the solvent evaporation is driven by applying high temperatures <ref type="bibr" target="#b47">[28]</ref><ref type="bibr" target="#b48">[29]</ref><ref type="bibr" target="#b49">[30]</ref> , MASP promotes the perovskite crystallization by accelerating the solvent evaporation through the meniscus effect. The crystallization mechanism of perovskite films crafted by MASP is revealed by in-situ optical microscopy investigation into the crystal growth kinetics. As such, it provides insights into the precise control over the crystal morphology and crystallinity of perovskite films. The produced perovskite films possess preferred crystal orientations and enhanced optoelectronic properties. A high PCE approaching 20% is achieved in the planar perovskite solar cells assembled using the MASP-enabled perovskite films as the photoactive layers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outward convective flow within meniscus perovskite ink.</head><p>A complex stoichiometry of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 containing two mixed organic cations (that is, FA 0.85 MA 0.15 ) and two mixed halides (that is, I 2.55 Br 0.45 ) is selected as the perovskite material because of its enhanced efficiency and stability as compared to MAPbI 3 (ref. 31). In particular, FAPbI 3 has a lower bandgap than that of MAPbI 3 and thus is beneficial for increasing light harvesting, and MAPbBr 3 improves the stability of the FAPbI 3 perovskite phase. A scheme of crafting large perovskite crystal grains by MASP is illustrated in Fig. <ref type="figure">1a</ref>. The metal halide perovskite ink FA 0.85 MA 0.15 PbI 2.55 Br 0.45 in DMSO was loaded in a twonearly-parallel-plate geometry where the lower flat substrate can be moved against the upper stationary plate in a programmable manner. The separation distance between these two plates was fixed at 300 mm to form a concave meniscus held by capillary force. An important signature of capillary action is the presence of a meniscus at the edge of the confined ink. Figure <ref type="figure">1b</ref> shows a representative side-view optical micrograph of confined meniscus ink, where the velocity of outward convective flow v induced by solvent evaporation can be described by Navier-Stokes equation with the lubrication approximation (Supplementary Note 1) <ref type="bibr" target="#b41">22,</ref><ref type="bibr" target="#b51">32</ref> :</p><formula xml:id="formula_15">v r; t ð Þ ¼ 1 rrh Z r 0 J e r; t ð Þr þ rr @h @t dr<label>ð1Þ</label></formula><p>where J e is the evaporative flux of solvent, t is time, r is the density of solution, r is the horizontal distance of the meniscus surface away from the bulk ink, and h is the height of the meniscus at r. As the volume of loaded ink is sufficient for completing the printing process, the shape of the meniscus remains relatively unchanged with time, and thus the @h/@t term can be neglected. Equation (1) can then be simplified as:</p><formula xml:id="formula_16">v r ð Þ ¼ 1 rrh Z r 0 J e r ð Þrdr<label>ð2Þ</label></formula><p>We fitted the experimentally measured outline of the meniscus with a parabolic equation h ¼ a Á (R À r) b , where h is dependent on the moving speed of the lower substrate (that is, the coating speed of perovskite). The theoretical fit agreed well the experimental meniscus outline (that is, the red dashed curve in Fig. <ref type="figure">1b</ref>). The evaporative flux J e can be described by the non-equilibrium one-sided (NEOS) model (Supplementary Note 1) <ref type="bibr" target="#b52">33</ref> :</p><formula xml:id="formula_17">J e h ð Þ ¼ 1 h þ K þ W<label>ð3Þ</label></formula><p>where K is the non-equilibrium parameter <ref type="bibr" target="#b53">34</ref> , W is the thermal effect given by W ¼ kds ksd0 (k is the liquid thermal conductivity, k s is the thermal conductivity of substrate, d 0 is the liquid thickness and d s is the thickness of substrate). By combining Equation (3) with Equation (2), the outward flow velocity v as a function of the distance r away from the bulk ink can be obtained:</p><formula xml:id="formula_18">v ¼ 1 rrh Z r 0 r h þ K þ W dr<label>ð4Þ</label></formula><p>According to Equations ( <ref type="formula" target="#formula_3">3</ref>) and ( <ref type="formula" target="#formula_4">4</ref>), we can derive that the outward convective flow increases sharply at the meniscus edge (Supplementary Fig. <ref type="figure">1</ref>), as the solvent evaporation is faster toward the edge of the meniscus ink, correspondingly transporting the solutes to the meniscus front and leading to the perovskite supersaturated phase at the edge.</p><p>Process of meniscus-assisted solution printing. As a result, FA 0.85 MA 0.15 PbI 2.55 Br 0.45 solutes gradually precipitate out from the supersaturated phase and grow into large crystals as the outward flow continuously transport more solutes to the edge of the meniscus. A real-time tracking of the perovskite crystal growth by optical microscopy is shown in Fig. <ref type="figure">1c</ref>, depicting the evolution of a perovskite nucleus into a large-grained microstructure (Supplementary Movie 1). At time t 0 , a relatively small perovskite grain (marked with the white arrow) appeared in the front of meniscus ink with an effective diameter of B4 mm.</p><p>As time progressed (that is, from</p><formula xml:id="formula_19">t 0 þ 1 s, t 0 þ 4 s, to t 0 þ 7 s),</formula><p>the grain underwent a two-dimensional (2D) growth to a large crystal island (Supplementary Fig. <ref type="figure" target="#fig_4">2a</ref>). Eventually, the grain growth slowed down when it was connected with other adjacent grains (that is, t 0 þ 12 s), accompanied by the coalescence of neighbouring grains (Supplementary Fig. <ref type="figure" target="#fig_4">2b</ref>). We note that the perovskite grain growth is expected to initially follow a normal three-dimensional (3D) mode before its size becomes comparable to the film thickness (that is, B900 nm, Supplementary Fig. <ref type="figure" target="#fig_5">3</ref>) <ref type="bibr">18</ref> . However, the grain size at the initial stage was too small to be accurately seen and tracked by optical microscopy. Once the grain size exceeded the film thickness, the perpendicular growth was suppressed due to the specimen thickness effect in thin films <ref type="bibr" target="#b54">35</ref> , resulting in the observed 2D growth.</p><p>The lower substrate mounted on the translational stage was moved at a constant speed of 12 mm s À 1 in the direction opposite to the receding meniscus. As a result, the evaporative front progressively swept across the entire substrate to print a continuous film composed of large perovskite grains (Supplementary Movie 2), and no stick-slip motion was observed. Figure <ref type="figure">1d</ref> shows a representative scanning electron microscopy (SEM) image of the perovskite film crafted by MASP, revealing that FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite grains with a size of 20-80 mm were densely packed together without observable voids at grain boundaries. A low-magnification SEM image in Supplementary Fig. <ref type="figure">4a</ref> further displays a uniform morphology over a few millimetres. We observed that a uniform morphology can only be achieved when the coating speed v c (that is, v c ¼ 12 mm s À 1 ) was close to the receding speed of the meniscus edge due to solvent evaporation. When the coating speed (for example, v c ¼ 2 mm s À 1 ) was slower than the meniscus receding speed, the meniscus edge was found to quickly reach the edge of the upper plate. As a result, the perovskite crystals bridged the upper plate and the lower substrate (Supplementary Fig. <ref type="figure">4b</ref>). On the other hand, when the coating speed (for example, v c ¼ 50 mm s À 1 ) was faster than the meniscus receding speed, a liquid layer rather than a solid film was coated on the substrate. The liquid layer then dried to form discontinuous perovskite crystals as shown in Supplementary Fig. <ref type="figure">4c</ref>. Recently, a physical model has been built to predict the optimal window for the coating speed by estimating the equilibrium front evaporation speed v efe in the evaporation regime of meniscus coating <ref type="bibr" target="#b55">36</ref> . We employ this model to further analyse the influence of the substrate temperature, the boiling point of solvent, the solvent density, and the meniscus geometrical factor in the MASP process on the front evaporation speed of DMSO (Supplementary Note 2). The calculated v efe of DMSO at 60 °C is 4 mm s À 1 (Supplementary Fig. <ref type="figure" target="#fig_7">5a</ref>) and the optimized coating speed v c we used in MASP was 12 mm s À 1 , thus the normalized coating speed v c ¼ v c /v efe ¼ 3, suggesting that this model may be able to predict the optimal window of the coating speed via estimating the front solvent evaporation rate. In addition, we found that there was also an optimal substrate temperature (that is, T ¼ 60±10 °C) for depositing uniform FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite films by MASP. Following this optimal operation window (that is, v c ¼ 12 mm s À 1 and T ¼ 60 °C), the two-nearly-parallel-plate geometry, the substrate temperature, and the coating speed were thus fixed. We can adjust the film thickness by simply varying the perovskite precursor solution concentration. Supplementary Fig. <ref type="figure" target="#fig_7">5b</ref> shows the thickness of MASP-deposited FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film as a function of the solution concentration. We also characterized the morphology of the low-temperature deposition of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite films with high crystallinity, but also facilitate the formation of micrometer-scale perovskite grains with preferred crystal orientations. Conceivably, the resulting perovskite films may demonstrate advantageous optoelectronic properties.</p><p>Growth kinetics of perovskite crystals. To further understand the crystallization mechanism of perovskites crafted by MASP, we turn our attention to scrutinize the growth kinetics of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 crystals by real-time optical microscopy measurement. Figure <ref type="figure" target="#fig_4">2a</ref> depicts the area of the tracked FA 0.85 MA 0.15 PbI 2.55 Br 0.45 crystal island as a function of time. A two-stage crystal growth is observed, namely, a quadratic increase of crystal area with time at the early stage of growth and a linear increase of crystal area with time at the late stage. It is worth noting that this growth pattern is analogous to the vacuum deposition of organic crystals on substrate <ref type="bibr" target="#b58">39,</ref><ref type="bibr" target="#b59">40</ref> , except that the atom transferring medium in MASP is a liquid flow. In this context, we examine the perovskite crystal growth kinetics according to the scaling capture zone model <ref type="bibr" target="#b60">41,</ref><ref type="bibr" target="#b61">42</ref> , in which the crystal growth is essentially governed by the accessible collection area for solutes and the solute diffusion length <ref type="bibr" target="#b60">41</ref> . The accessible collection area of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 crystal island can be estimated by its Voronoi cell that included all solutes closer to this specific island than to any others <ref type="bibr" target="#b62">43</ref> . The central point of each island (that is, red dots in Fig. <ref type="figure" target="#fig_4">2b,</ref><ref type="figure">c</ref>) is labelled as the nucleation centre to diagram the Voronoi cell. The good agreement between the Voronoi cell topographies and the obtained perovskite island shapes suggests a strong correlation between the crystal growth and the accessible collection area <ref type="bibr" target="#b59">40</ref> . At the early growth stage of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite island with its centre labelled as P (Fig. <ref type="figure" target="#fig_4">2b</ref>), the effective radius R eff of the island was relatively small (that is, R eff,t0 ¼ B4 mm at time t 0 ), the Voronoi cell radius R Vor of the island at time t 0 was very large (that is, R Vor,t0 4100 mm) as it was isolated far from other neighbouring crystals. In the case of R eff þ doR Vor , the crystal growth rate was mainly determined by the solute diffusion length d toward the island, and thus a quadratic crystal growth emerged and can be described by dA/dt ¼ k q (2pdR eff þ pd 2 ), where A ¼ pR 2 eff is the island area, and k q is the rate constant <ref type="bibr" target="#b58">39,</ref><ref type="bibr" target="#b63">44</ref> . The value of d was then derived by fitting the measured island size to the quadratic growth equation, yielding d ¼ 4 mm. We note that the EDS measurement showed a uniform elemental mapping of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite island (Supplementary Fig. <ref type="figure">14</ref>), suggesting that the diffusion lengths of various solutes (that is, FA, MA, Pb, I and Br) were possibly comparable and did not generate obvious composition segregation in perovskite crystals during MASP. The evaporation-induced outward convective flow is expected to facilitate the solute diffusion and promote the crystal growth rate at this stage. The relationship R eff þ doR Vor changed to R eff þ d4R Vor, as the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite island grew larger (that is, R eff,t9 ¼ B51 mm at time t 0 þ 9 s). Meanwhile more new adjacent crystals emerged as evidenced in Fig. <ref type="figure" target="#fig_4">2c</ref>, the tracked island had to compete with the neighbours for collecting the perovskite solutes, leading to smaller R Vor (that is, R Vor,t9 ¼ B48 mm at time t 0 þ 9 s). As a result, the crystal growth rate was largely determined by the accessible collection area of the island, giving rise to a linear crystal growth (dA/dt ¼ k l A Vor , where A Vor is the area of the Voronoi cell, and k l is the rate constant) <ref type="bibr" target="#b58">39,</ref><ref type="bibr" target="#b63">44</ref> .</p><p>We also investigate the crystal growth rates of FA 1 À x MA x PbI 3(1 À x) Br 3x perovskites with varied chemical compositions (0.05rxr0.25), and they all follow the two-stage growth kinetics (Supplementary Fig. <ref type="figure" target="#fig_7">15</ref>). In order to further verify the reliability of the observed crystal growth kinetics, we analyse the growth rates of a number of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 crystal islands (that is, a total of 18 islands shown in Fig. <ref type="figure" target="#fig_4">2d</ref>) in a single real-time tracking by optical microscopy. As the islands were isolated far from each other at the early stage, only the growth rates at the late stage were monitored, that is, the crystal growth followed the condition of R eff þ d4R Vor . The average crystal growth rate and the corresponding Voronoi cell area of each island from time t 0 0 to t 0 0 þ 3 s were calculated (Supplementary Fig. <ref type="figure">16</ref>; Supplementary Movie 3). A linear relationship dA/dt ¼ k l A Vor was indeed also observed for these islands with varied sizes and growth rates (Fig. <ref type="figure" target="#fig_4">2e</ref>). The origin of the linear crystal growth is that the solute density varies slowly in the crystallization regime when the solute diffusion rate is comparable with the solute crystallization rate, and the crystallization regime can be approximated as a steady state, thereby enabling the statistics studies of the diffusion equation with appropriate boundary conditions for simple island configuration <ref type="bibr" target="#b61">42</ref> . On the basis of this crystal growth kinetics, it is suggested that the final size of the perovskite crystals yielded by MASP depends strongly on the nucleation density, and a lower nucleation density facilitates the growth of large crystals due to a fewer competitors for solutes. Furthermore, the nucleation density relies on the evaporation-driven outward convective flow (that is, faster outward flow leading to higher nucleation density) within the meniscus ink, which can be tuned by adjusting the meniscus height, the solvent density, the substrate temperature, and the substrate moving speed <ref type="bibr" target="#b55">36,</ref><ref type="bibr" target="#b64">45</ref> .</p><p>Optoelectronic performances of perovskites films. Intrigued by the attractive features of micrometer-sized grains and preferred crystal orientations, we set out to investigate the photophysical properties of MASP-enabled perovskite films. Figure <ref type="figure" target="#fig_5">3a</ref> compares the ultraviolet-visible (UV-Vis) absorption and photoluminescence (PL) spectra of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film crafted by MASP and the film prepared by spin coating (Supplementary Method 3). The PL peak of the MASP film exhibited a B20 meV red-shift compared to that of the spin-coated film (Supplementary Fig. <ref type="figure">17a</ref>). Since the Stokes shifts for both films were almost negligible (that is, B5 meV), accordingly, a red-shift of the absorption onset edge was seen (Supplementary Fig. <ref type="figure">17b</ref> and<ref type="figure">17c</ref>), implying that the MASP film had a slightly lower bandgap than that of the spin-coated film. Moreover, the full width at half maximum (FWHM) of the PL spectrum was narrowed by B26 meV for the MASP film, suggesting that the MASP film contained fewer crystalline defects <ref type="bibr">16,</ref><ref type="bibr" target="#b65">46</ref> . The low Urbach energy (that is, B19 meV, Fig. <ref type="figure" target="#fig_5">3b</ref>) further confirmed the presence of reduced localization disordering within the MASP-enabled FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film <ref type="bibr" target="#b66">47</ref> . The charge carrier lifetime was measured by time-resolved photoluminescence (TRPL) spectroscopy (Fig. <ref type="figure" target="#fig_5">3c</ref>). The charge carrier lifetimes in the MASP perovskite film (that is, t 1 ¼ 70±5 ns and t 2 ¼ 1,104±251 ns) were much longer than the spin-coated film (that is, t ref1 ¼ 41 ± 1 ns and t ref2 ¼ 268 ± 28 ns), indicating a lower trap density within the MASP film. Particularly, the longer lifetime t 2 of the MASP film exceeded 1,000 ns, signifying that the trap-induced carrier recombination was appreciably reduced due to the formation of high-quality and large-sized FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite grains by MASP <ref type="bibr" target="#b67">48</ref> . The charge trap densities within the perovskite films were actually measured from the space charge-limited current (SCLC) devices (Supplementary Method 4) <ref type="bibr" target="#b65">46</ref> . The charge trap density within the MASP film was estimated to be B5.74 Â 10 12 cm À 3 (Fig. <ref type="figure" target="#fig_5">3d</ref>), which was much lower than that of the spin-coated film (that is, B4.04 Â 10 15 cm À 3 ; Supplementary Fig. <ref type="figure">18</ref>), in good agreement with the UV-Vis and PL spectroscopy studies. Taken together, the results noted above substantiate that the MASP method enable the formation of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film with good crystallization and low charge traps, offering the remarkable potential to yield high-performance optoelectronic devices.</p><p>We thus fabricate FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells via MASP, which allows for direct deposition of a perovskite photoactive layer on the top of the functional electrodes. The effect of perovskite film thickness on the photovoltaic performance is investigated. The film thickness of the MASP perovskite film is varied by adjusting the ink concentration (Supplementary Fig. <ref type="figure" target="#fig_7">5b</ref>). The corresponding photovoltaic efficiency with the device architecture of FTO/compact-TiO 2 / Perovskite/PTAA/Ag is studied. Supplementary Fig. <ref type="figure" target="#fig_2">19</ref> compares the current density-voltage (J-V) curves of the devices with the perovskite film thickness ranging from B600 nm to B1,400 nm. The photovoltaic parameters are summarized in Supplementary Table <ref type="table" target="#tab_0">1</ref>. When the film thickness was increased from 620 to 890 nm, the J sc and FF were increased, resulting in the increase in PCE from 15.73 to 18.27%. When the film thickness was further increased to 1,070 nm, the FF tended to decrease. Notably, all photovoltaic parameters decreased when the film thickness reached 1,410 nm, probably due to the increased series resistance and charge recombination in the thick film. Thus, the optimal film thickness was fixed at B900 nm in this work. In this context, the inverted planar solar cells with the device architecture of ITO/PTAA/Perovskite/PCBM/BCP/Ag produced an average PCE of 18.49±0.47% (Supplementary Table <ref type="table" target="#tab_1">2</ref>). The champion cell achieved a PCE of 19.23% with an open-circuit voltage V oc of 1.10 V, short-circuit current J sc of 22.34 mA cm À 2 , and fill factor FF of 78.26% (Fig. <ref type="figure">4a</ref>). A stable output photocurrent density of 20.6 mA cm À 2 and PCE of 19.1% of this champion cell were obtained under the standard sunlight (Fig. <ref type="figure">4c</ref>). Compared to inverted planar devices, higher PCEs were achieved in the standard planar devices with the architecture of FTO/compact-TiO 2 /Perovskite/PTAA/Ag, in which the average PCE was 19.22 ± 0.36% (Supplementary Table <ref type="table" target="#tab_2">3</ref>). The champion cell delivered a V oc of 1.10 V, J sc of 23.20 mA cm À 2 , FF of 78.58% and a PCE of 20.05% (Fig. <ref type="figure">4b</ref>). Similarly, the stable output photocurrent density and PCE of the champion cell reached 21.5 mA cm À 2 and 19.9% (Fig. <ref type="figure">4d</ref>). The integrated current densities from the external quantum efficiency (EQE) measurements were 21.94 and 22.38 mA cm À 2 for champion inverted and standard planar devices (Supplementary Fig. <ref type="figure" target="#fig_4">20</ref>), respectively, which agreed well with the measured J sc values. Compared with those of spin-coated perovskite films (Supplementary Tables <ref type="table" target="#tab_3">4</ref> and<ref type="table" target="#tab_4">5</ref>), the MASP-enabled standard and inverted planar perovskite solar cells displayed not only high efficiencies with inappreciable hysteresis (Supplementary Fig. <ref type="figure" target="#fig_4">21</ref>) but also small s.d. in the average PCEs. This can be attributed to the presence of large-sized, highly-crystallized and preferentially-oriented perovskite grains created by MASP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The stability of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells with the device architecture of FTO/compact-TiO 2 /Perovskite/PTAA/Ag fabricated by MASP and spin coating, respectively, is also investigated. The devices are continuously exposed to AM1.5G solar illumination in ambient environment (temperature ¼ 25 ± 2 °C and relative humidity ¼ 30±8%) without encapsulation. The photovoltaic efficiency is measured at an interval of 12 h. Figure <ref type="figure" target="#fig_7">5</ref> compares the photovoltaic parameters as a function of time for both MASP-deposited and spin-coated devices (the J-V curves were shown in Supplementary Fig. <ref type="figure" target="#fig_4">22</ref>). The spin-coated device started to experience the efficiency drop after 12-h continuous illumination and lost 50% of its initial efficiency in 60 h. In contrast, the MASP-deposited device maintained nearly 90% of its initial efficiency after 60-h continuous illumination in air. The efficiency was then rapidly decreased after 84 h and reached 35% of its initial efficiency in 108 h. The enhanced stability of perovskite films prepared by MASP can be ascribed to the incorporation of FA þ and Br -components which are beneficial for improving the perovskite stability <ref type="bibr" target="#b50">31</ref> , as the unsealed CH 3 NH 3 PbI 3 perovskite solar cells usually lose 70% of their initial efficiencies within 48 h under continuous illumination in air <ref type="bibr" target="#b68">49,</ref><ref type="bibr" target="#b69">50</ref> . Moreover, it is also highly correlated with the high-quality large perovskite grains produced by MASP which are more resistant to light-and moisture-induced degradation. Our ongoing work on further improving the device stability involves the incorporation of Cs þ in the perovskite composition <ref type="bibr" target="#b70">51</ref> and the encapsulation of devices to isolate them from moisture and UV light. These results will be reported elsewhere in the future.</p><p>We also explore the manufacturing of large-area perovskite solar cells by MASP. The large-area device is fabricated with the architecture of FTO/compact-TiO 2 /perovskite/PTAA/Ag and the active-layer area of 1.00±0.02 cm 2 . A showdow mask with the aperture area of 0.980 cm 2 is used to measure the J-V curves. The highest PCE of 18.02% in a backward scanning was obtained (Supplementary Fig. <ref type="figure" target="#fig_5">23</ref>). The hysteresis phenomenon was obvious compared to the standard-area devices (that is, photoactive area ¼ 0.10 cm 2 ). However, it is notable that the MASP process is more complicated for depositing large-area perovskite films, as the crystallization rate tends to change and become unstable at the late printing stage. Such instability is likely to be caued by the change of the mensicus shape during the MASP process as the perovskite ink is consumed. Thus, the MASP apparatus will need to be modified to enable a continuous supply of perovksite ink for maintaining the meniscus shape for  large-area printing. Moreover, the deposition of uniform electron-transport layer and hole-trasnport layer by MASP over large areas is also important in further improving the device efficiency.</p><p>In summary, we develop a robust and convenient MASP strategy to effectively deposit large-grained dense FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite films with enhanced optoelectronic properties for high-efficiency perovskite solar cells. Central to this strategy is the solvent evaporation-triggered outward convective flow that transported the perovskite solutes to the edge of the meniscus, promoting the formation of solutionprinted micrometre-scale perovskite grains with preferred crystal orientations at low temperatures. The insight into the crystal growth kinetics of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite is revealed through the real-time optical microscopy study, from which a two-stage, namely, quadratical followed by linear growth of perovskite crystallization is identified. High photovoltaic PCEs approaching 20% are achieved in planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells, which can be ascribed to low trap-state density and long carrier lifetimes in large-grained perovskite films crafted by MASP. As the optoelectronic properties of perovskite films are closely related to film quality, the ability of the MASP strategy to yield dense and uniform films may open up new avenues for low-cost production of large-area flexible solutionprinted perovskite-based materials and devices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Materials. Formamidinium iodide (H 2 N ¼ CHNH 2 I; FAI) and methylammonium bromide (CH 3 NH 3 Br; MABr) were synthesized according to the reported methods <ref type="bibr" target="#b50">31</ref> , and dried in a vacuum oven at 50 °C for 48 h. Lead iodide (PbI 2 , 99.999%), lead bromide (PbBr 2 , 99.999%), dimethyl sulfoxide (DMSO, Z99.9%) and other materials were purchased from Sigma-Aldrich and used as received.</p><p>Meniscus-assisted solution printing of perovskite films. The perovskite precursor ink was prepared by dissolving FAI, MABr, PbI 2 and PbBr 2 (molar ratio of FAI:MABr:PbI 2 :PbBr 2 ¼ 0.85:0.15:2.55:0.45) in DMSO, and stirred at 60 °C for 2 h to form 0.25 M FA 0.85 MA 0.15 PbI 2.55 Br 0.45 precursor ink. A 20 ml of the ink solution was loaded in a confined geometry composed of two nearly parallel plates (an upper stationary plate of 0.5 cm Â 1 cm and a lower movable substrate of 1.5 cm Â 2.5 cm; the separation distance between these two plates was 300 mm). The lower flat substrate was mounted on a computer-programed translational stage (Parker Hannifin Corp, Mode MX80LVixBL2b) with a resolution of 100 nm. The lower substrate was heated at B60 °C on a Linkam Scientific Precision Temperature Controlled Microscope Stage (Linkam TMS 94 LTS 350) to expedite the evaporation of DMSO. The lower flat substrate placed on the translational stage was moved at a speed of 12 mm s À 1 in the direction opposite to the receding meniscus. Thus, the evaporative front progressively swept across the entire substrate to print a continuous large-grained perovskite film.</p><p>Spin coating of perovskite films. The perovskite precursor solution was prepared by dissolving FAI, MABr, PbI 2 and PbBr 2 (molar ratio of FAI:MABr:PbI 2 :PbBr 2 ¼ 0.85:0.15:2.55:0.45) in DMSO. The solution concentration was 1.2 M. The precursor solution was maintained at 90 °C. It was then spin coated on a pre-heated substrate at 1,000 r.p.m. for 5 s and 4,000 r.p.m. for 30 s, followed by thermal annealing at 150 °C for 20 min to form the perovskite film.</p><p>Fabrication of standard planar perovskite solar cells. The FTO glass substrate was treated by oxygen plasma for 10 min, followed by spin coating 0.15 M titanium diisopropoxide bis(acetylacetonate) solution at 2,000 r.p.m. for 30 s. The titanium-containing precursor film was dried at 125 °C for 10 min and sintered at 500 °C for 30 min. The resulting TiO 2 layer was then immersed in 20 mM TiCl 4 solution at 65 °C for 20 min, followed by sintering at 550 °C for 30 min to produce a compact TiO 2 layer on the FTO glass substrate. FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film was then deposited on the compact-TiO 2 /FTO substrate by MASP in ambient air at B30% relative humidity. 2 ml poly(bis(4-phenyl) (2,4,6-trimethylphenyl)amine) (PTAA) toluene solution (25 mg ml À 1 ) was mixed with 29 ml Li-bis(trifluoromethanesulfonyl) imide (Li-TFSI)/acetonitrile (170 mg ml À 1 ) and 20 ml 4-tert-butylpyridine (TBP). The resulting PTAA solution was spin coated on the perovskite layer at 5,000 r.p.m. for 30 s. Finally, a 200-nm silver layer was thermally evaporated on the PTAA layer.</p><p>Fabrication of inverted planar perovskite solar cells. 10 mg ml À 1 PTAA toluene solution containing the additives of Li-TFSI and TBP was spin coated on the FTO glass substrate at 2,000 r.p.m. for 60 s, followed by thermal annealing at 100 °C for 5 min. FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film was then deposited on the PTAA/FTO substrate by MASP. 50 mg ml À 1 [6,6]-Phenyl C 61 butyric acid methyl ester (PCBM) 1,2-dichlorobenzene solution was spin coated on the perovskite layer at 3,000 r.p.m. for 30 s, followed by storing in a covered Petri dish for 6 h. Finally, a 5-nm bathocuproine (BCP) layer and a 200-nm silver layer were sequentially deposited by thermal evaporation.</p><p>Fabrication of space charge limited current devices. The FTO glass substrate was treated by oxygen plasma for 10 min, followed by thermally depositing a 500-nm indium layer. FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film was deposited on the indium/FTO substrate by MASP. Another 500-nm indium layer was then thermally deposited on the perovskite layer.</p><p>Fabrication of reference devices. For comparison, all reference devices (that is, standard and inverted planar perovskite solar cells) were fabricated in similar ways, except that the perovskite films were prepared by spin coating.</p><p>Characterizations. The film morphology and elemental mapping of perovskite films were characterized using a LEO 1550 scanning electron microscopy (SEM). Selected area electron diffraction (SAED) was performed on a JEOL 100CX transmission electron microscopy (TEM). X-ray diffraction (XRD) profiles were collected by a PANalytical X'Pert PRO X-ray diffractometer using Cu Ka 1 radiation (l ¼ 1.541 Å) operating at 40 kV and 40 mA. UV-Vis spectra were obtained using a Shimadzu UV2600 spectrophotometer with a photometric integrating sphere. Fluorescence spectra were recorded using a PerkinElmer LS 45 Fluorescence Spectrometer. The in situ optical microscopy studies were conducted using a Leica DFC450 C digital microscope camera equipped with a 5 Megapixel CCD sensor. Time-resolved photoluminescence measurements were performed using a Photon Technology International (PTI) LaserStrobe spectrofluorometer equipped with a PTI GL-3300 nanosecond nitrogen laser (l ¼ 337 nm) operating at 11 Hz. X-ray photoelectron spectroscopy (XPS) was measured by Thermo K-Alpha XPS system. Perovskite solar cells were tested under AM1.5G irradiation using a Newport LCS-100 Solar Simulator (100 mW cm À 2 , calibrated with a Newport 91150V Reference Cell System). The current density-voltage (J-V) curves were measured using a Keithley 2601A multisource meter. No preconditioning protocol was used before the characterization. The J-V curves were measured in air (that is, temperature: 25±2 °C, relative humidity: 30±8 %) without encapsulation. The J-V curves were scanned in the forward direction unless specified, and were processed at the rate of 50 mV s À 1 with a sweep delay time of 50 ms. For standard-area solar cells, the active-layer area was 0.10±0.02 cm 2 , and a shadow mask with an aperture area of 0.096 cm 2 was used to define the measured area. For large-area solar cells, the active-layer area was 1.00±0.02 cm 2 and the aperture area of the shadow mask was 0.980 cm 2 . The device stability with the active-layer area of 0.10 ± 0.02 cm 2 and the aperture area of 0.096 cm 2 was measured under continuous AM1.5G solar illumination in ambient environment (that is, temperature ¼ 25 ± 2 °C and relative humidity ¼ 30 ± 8%) without encapsulation. The photovoltaic efficiency was measured in an interval of 12 h. The external quantum efficiency (EQE) measurement was performed using a Newport Quantum Efficiency Measurement Kit.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Supplementary Figure 7 |Supplementary Figure 9 |Supplementary Figure 14 |</head><label>7914</label><figDesc>Elemental mapping of the spin-coated FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film measured by energy-dispersive X-ray spectroscopy. Crystallographic characterizations of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite films casted by meniscus-assisted solution printing. (a) Schematic illustration of a primitive unit cell of the trigonal crystal structure of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskites. (b) Simulated crystal diffraction of a trigonal perovskite crystal with the space group P3m1, projected along various axes. (c) [001] view of a primitive unit cell of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite. (d) Schematic illustration of the ordered, closely packed Supplementary Figure 12 | X-ray diffraction (XRD) characterizations of FA 1-x MA x PbI 3(1-x) Br 3x perovskite films with varied chemical compositions. (a) XRD profiles of FA 1-x MA x PbI 3(1-x) Br 3x perovskite films with varied chemical compositions (0.05 ≤ x ≤ 0.25) prepared by MASP. (b) The shift of the (2 � 40)/(024) diffraction peak with an increased molar ratio of MAPbBr 3 in FA 1-x MA x PbI 3(1-x) Br 3x (0.05 ≤ x ≤ 0.25). (c) Plot of the d-spacing value of FA 1-x MA x PbI 3(1-x) Br 3x (0.05 ≤ x ≤ 0.25) perovskite films as a function of the molar ratio of MAPbBr 3 in FA 1-x MA x PbI 3(1-x) Br 3x . spectra of (b) MASP film, and (e) spin-coated film. Br 3d core level spectra of (c) MASP film, and (f) spin-coated film. Elemental mapping of the meniscus-assisted solution printed FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite crystal island. Supplementary Figure 17 | Photoluminescence and UV-vis characterizations of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite films crafted by meniscus-assisted solution printing. (a) Photoluminescence spectra of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film crafted by MSAP and the reference sample prepared by spin coating. (b) The bandgap E g of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film crafted by MASP estimated from the absorption edge. (c) The estimated bandgap E g of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film prepared by spin coating. Supplementary Figure 20 | External quantum efficiency (EQE) characterizations of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells. The EQE profiles of (a) the inverted planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cell fabricated by meniscus-assisted solution printing (MASP) and (b) the standard planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cell fabricated by MASP.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>S8)The lattice parameters for the MASP-deposited FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite are: a = b = 8.8533 Å, c = 10.8380 Å, α = β = 90 o , γ = 120 o . A primitive unit cell of the trigonal crystal structure of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite is illustrated in Supplementary Figure9a.12  The simulated diffraction patterns projected along various axes are shown in Supplementary Figure9b. The selected area electron diffraction pattern of the MASP-enabled FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film in the inset of Figure1dmatched with the simulation pattern projected along [001] axis, indicating that the (110) plane of the trigonal perovskite crystal was parallel to the substrate. The unit cell of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 trigonal crystal viewed along the[001]  </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Received 19</head><label>19</label><figDesc>Oct 2016 | Accepted 23 May 2017 | Published 7 Jul 2017 Meniscus-assisted solution printing of largegrained perovskite films for high-efficiency solar cells Ming He 1 , Bo Li 1 , Xun Cui 1 , Beibei Jiang 1 , Yanjie He 1 , Yihuang Chen 1 , Daniel O'Neil 2 , Paul Szymanski 2 , Mostafa A. EI-Sayed 2 , Jinsong Huang 3 &amp; Zhiqun Lin 1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>a 1 cFigure 1 |</head><label>11</label><figDesc>Figure 1 | Meniscus-assisted solution printing of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite crystal films. (a) Schematic illustration of the meniscus-assisted solution printing (MASP) of large-grained perovskite films. (b) Optical micrograph of the side-view meniscus ink confined between a lower flat, movable substrate and an upper stationary plate. (c) Optical micrograph of the microstructural evolution of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite grain as a function of time. (d) Scanning electron microscopy (SEM) image of the perovskite film crafted by MASP. A representative selected area electron diffraction (SAED) of the perovskite film is shown as an inset. (e) X-ray diffraction (XRD) profiles of the perovskite film crafted by MASP (upper) and the reference sample prepared by spin coating (lower).</figDesc><graphic coords="30,58.85,381.25,240.94,174.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 2 |</head><label>2</label><figDesc>Figure 2 | Growth kinetics of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite crystals during meniscus-assisted solution printing. (a) Plot of the area of the tracked FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite crystal island as a function of time. The tracked island centre is marked with P in b and c. (b) Voronoi cell diagram of perovskite islands at time t 0 , and the centre of the tracked island is labelled as P. The inset illustrates the topological relationship of R eff þ doR Vor , where R eff is the effective radius of the perovskite island, d is the solute diffusion length, and R Vor is the effective radius of the corresponding Voronoi cell. (c) Voronoi cell diagram of perovskite islands at time t 0 þ 9 s, and the centre of the tracked island is labelled as P. The inset depicts the topological relationship of R eff þ d4R Vor . (d) Eighteen selected perovskite islands and the corresponding Voronoi cells for tracking the perovskite crystal growth rate as a function of the Voronoi cell area for each crystal island from time t 0 0 to t 0 0 þ 3 s. (e) Plot of the average growth rate of the eighteen perovskite crystal islands as a function of their Voronoi cell areas. Error bars denote the s.d. of the data collected from time t 0 0 to t 0 0 þ 3 s.</figDesc><graphic coords="33,121.49,372.01,168.98,126.86" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 3 |</head><label>3</label><figDesc>Figure 3 | Optoelectronic properties of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite films crafted by meniscus-assisted solution printing. (a) Ultravioletvisible (UV-vis) absorption and photoluminescence (PL) spectra of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film crafted by meniscus-assisted solution printing (MASP) and the reference sample prepared by spin coating. (b) Urbach tails of the perovskite films prepared by MASP (solid circles) and spin coating (squares), respectively. (c) Time-resolved photoluminescence (TRPL) decay traces of the perovskite films prepared by MASP (open circles) and spin coating (open squares), respectively. (d) Current-voltage curve of the perovskite film crafted by MASP for space charge limited current (SCLC) analysis. The inset depicts the SCLC architecture.</figDesc><graphic coords="34,166.25,192.37,113.24,92.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>aV 2 FF 2 )Figure 4 |</head><label>224</label><figDesc>Figure 4 | Photovoltaic performances of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells. (a) Current density-voltage (J-V) characteristic of the inverted planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cell. The device architecture is shown as an inset. (b) J-V characteristic of the standard planar perovskite solar cell. The device architecture is shown as an inset. (c) Photocurrent density and the corresponding efficiency of the inverted planar perovskite solar cell measured as a function time at a constant forward bias of 0.925 V under an AM1.5G standard sunlight. (d) Photocurrent density and the corresponding efficiency of the standard planar perovskite solar cell measured as a function time at a constant forward bias of 0.925 V under an AM1.5G standard sunlight.</figDesc><graphic coords="35,164.81,202.09,115.95,94.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 5 |</head><label>5</label><figDesc>Figure 5 | Device stability under continuous working condition. Stability plots of (a) PCE, (b) V oc , (c) J sc and (d) FF as a function of time (left axis). The normalized values are also included for better comparisons (right axis). The device stability was measured under continuous AM1.5G solar illumination in ambient environment without encapsulation.</figDesc><graphic coords="35,161.57,531.37,109.40,88.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,189.00,79.75,233.82,234.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,131.90,74.90,348.16,150.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,127.43,240.90,357.14,197.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,114.48,451.25,383.02,138.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,168.75,118.22,274.10,192.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,143.88,115.75,324.25,244.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,177.75,72.65,256.20,201.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,116.25,373.65,379.20,283.43" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,169.93,75.62,272.15,226.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,159.00,400.45,293.37,240.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 | Photovolatic parameters of FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells with different perovskite film thicknesses.</head><label>1</label><figDesc></figDesc><table><row><cell>Thickness</cell><cell>V oc</cell><cell>J sc</cell><cell>FF</cell><cell>PCE</cell></row><row><cell>(nm)</cell><cell>(V)</cell><cell>(mA cm -2 )</cell><cell>(%)</cell><cell>(%)</cell></row><row><cell>620</cell><cell>1.091</cell><cell>20.53</cell><cell>70.44</cell><cell>15.73</cell></row><row><cell>890</cell><cell>1.092</cell><cell>22.46</cell><cell>74.93</cell><cell>18.27</cell></row><row><cell>1070</cell><cell>1.083</cell><cell>21.45</cell><cell>70.65</cell><cell>16.37</cell></row><row><cell>1410</cell><cell>0.979</cell><cell>15.69</cell><cell>64.97</cell><cell>9.96</cell></row><row><cell>Supplementary</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 | Summary of photovoltaic parameters from a batch of 10 inverted planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells fabricated by meniscus-assisted solution printing.</head><label>2</label><figDesc></figDesc><table><row><cell>Inverted Planar</cell><cell>V oc</cell><cell>J sc</cell><cell>FF</cell><cell>PCE</cell></row><row><cell>Devices</cell><cell>(V)</cell><cell>(mA cm -2 )</cell><cell>(%)</cell><cell>(%)</cell></row><row><cell>1</cell><cell>1.089</cell><cell>22.20</cell><cell>77.17</cell><cell>18.65</cell></row><row><cell>2</cell><cell>1.095</cell><cell>22.23</cell><cell>76.87</cell><cell>18.70</cell></row><row><cell>3</cell><cell>1.084</cell><cell>21.59</cell><cell>76.76</cell><cell>17.97</cell></row><row><cell>4</cell><cell>1.099</cell><cell>21.26</cell><cell>77.40</cell><cell>18.09</cell></row><row><cell>5</cell><cell>1.100</cell><cell>22.34</cell><cell>78.26</cell><cell>19.23</cell></row><row><cell>6</cell><cell>1.093</cell><cell>21.05</cell><cell>78.04</cell><cell>17.95</cell></row><row><cell>7</cell><cell>1.094</cell><cell>22.13</cell><cell>78.03</cell><cell>18.88</cell></row><row><cell>8</cell><cell>1.087</cell><cell>21.54</cell><cell>77.86</cell><cell>18.23</cell></row><row><cell>9</cell><cell>1.087</cell><cell>21.67</cell><cell>76.94</cell><cell>18.12</cell></row><row><cell>10</cell><cell>1.097</cell><cell>22.28</cell><cell>77.86</cell><cell>19.03</cell></row><row><cell>Average</cell><cell>1.092±0.005</cell><cell>21.83±0.47</cell><cell>77.52±0.56</cell><cell>18.49±0.47</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 | Summary of photovoltaic parameters from a batch of 10 standard planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells fabricated by meniscus-assisted solution printing.</head><label>3</label><figDesc></figDesc><table><row><cell>Standard Planar</cell><cell>V oc</cell><cell>J sc</cell><cell>FF</cell><cell>PCE</cell></row><row><cell>Devices</cell><cell>(V)</cell><cell>(mA cm -2 )</cell><cell>(%)</cell><cell>(%)</cell></row><row><cell>1</cell><cell>1.087</cell><cell>22.24</cell><cell>77.41</cell><cell>18.70</cell></row><row><cell>2</cell><cell>1.096</cell><cell>22.52</cell><cell>78.49</cell><cell>19.37</cell></row><row><cell>3</cell><cell>1.085</cell><cell>22.56</cell><cell>78.06</cell><cell>19.10</cell></row><row><cell>4</cell><cell>1.094</cell><cell>22.14</cell><cell>78.45</cell><cell>19.00</cell></row><row><cell>5</cell><cell>1.097</cell><cell>22.87</cell><cell>77.45</cell><cell>19.42</cell></row><row><cell>6</cell><cell>1.096</cell><cell>22.32</cell><cell>78.57</cell><cell>19.22</cell></row><row><cell>7</cell><cell>1.090</cell><cell>22.33</cell><cell>77.67</cell><cell>18.90</cell></row><row><cell>8</cell><cell>1.100</cell><cell>23.20</cell><cell>78.58</cell><cell>20.05</cell></row><row><cell>9</cell><cell>1.092</cell><cell>22.76</cell><cell>77.62</cell><cell>19.29</cell></row><row><cell>10</cell><cell>1.094</cell><cell>22.54</cell><cell>77.56</cell><cell>19.13</cell></row><row><cell>Average</cell><cell>1.093±0.005</cell><cell>22.55±0.32</cell><cell>77.98±0.50</cell><cell>19.22±0.36</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 | Summary of photovoltaic parameters from a batch of 10 inverted planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells fabricated by spin coating.</head><label>4</label><figDesc></figDesc><table><row><cell>Inverted Planar</cell><cell>V oc</cell><cell>J sc</cell><cell>FF</cell><cell>PCE</cell></row><row><cell>Devices</cell><cell>(V)</cell><cell>(mA cm -2 )</cell><cell>(%)</cell><cell>(%)</cell></row><row><cell>1</cell><cell>1.044</cell><cell>19.42</cell><cell>67.62</cell><cell>13.71</cell></row><row><cell>2</cell><cell>1.041</cell><cell>17.08</cell><cell>65.59</cell><cell>11.66</cell></row><row><cell>3</cell><cell>1.066</cell><cell>20.47</cell><cell>64.96</cell><cell>14.17</cell></row><row><cell>4</cell><cell>1.041</cell><cell>18.97</cell><cell>64.50</cell><cell>12.74</cell></row><row><cell>5</cell><cell>1.050</cell><cell>19.19</cell><cell>69.33</cell><cell>13.96</cell></row><row><cell>6</cell><cell>1.067</cell><cell>17.76</cell><cell>65.26</cell><cell>12.37</cell></row><row><cell>7</cell><cell>1.061</cell><cell>17.65</cell><cell>65.51</cell><cell>12.27</cell></row><row><cell>8</cell><cell>1.070</cell><cell>20.61</cell><cell>72.12</cell><cell>15.90</cell></row><row><cell>9</cell><cell>1.052</cell><cell>19.91</cell><cell>70.48</cell><cell>14.77</cell></row><row><cell>10</cell><cell>1.039</cell><cell>18.78</cell><cell>70.92</cell><cell>13.84</cell></row><row><cell>Average</cell><cell>1.053±0.012</cell><cell>18.98±1.20</cell><cell>67.63±2.85</cell><cell>13.54±1.29</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 | Summary of photovoltaic parameters from a batch of 10 standard planar FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite solar cells fabricated by spin coating.</head><label>5</label><figDesc></figDesc><table><row><cell>Standard Planar</cell><cell>V oc</cell><cell>J sc</cell><cell>FF</cell><cell>PCE</cell></row><row><cell>Devices</cell><cell>(V)</cell><cell>(mA cm -2 )</cell><cell>(%)</cell><cell>(%)</cell></row><row><cell>1</cell><cell>1.073</cell><cell>20.43</cell><cell>72.14</cell><cell>15.80</cell></row><row><cell>2</cell><cell>1.071</cell><cell>18.24</cell><cell>69.37</cell><cell>13.56</cell></row><row><cell>3</cell><cell>1.079</cell><cell>20.09</cell><cell>67.93</cell><cell>14.73</cell></row><row><cell>4</cell><cell>1.087</cell><cell>20.57</cell><cell>67.04</cell><cell>15.00</cell></row><row><cell>5</cell><cell>1.087</cell><cell>20.40</cell><cell>71.70</cell><cell>15.90</cell></row><row><cell>6</cell><cell>1.090</cell><cell>21.20</cell><cell>72.45</cell><cell>16.74</cell></row><row><cell>7</cell><cell>1.085</cell><cell>19.24</cell><cell>69.15</cell><cell>14.44</cell></row><row><cell>8</cell><cell>1.074</cell><cell>19.69</cell><cell>69.73</cell><cell>14.74</cell></row><row><cell>9</cell><cell>1.085</cell><cell>20.08</cell><cell>72.38</cell><cell>15.77</cell></row><row><cell>10</cell><cell>1.074</cell><cell>18.56</cell><cell>70.50</cell><cell>14.05</cell></row><row><cell>Average</cell><cell>1.080±0.007</cell><cell>19.85±0.93</cell><cell>70.24±1.92</cell><cell>15.07±0.97</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Derive a mathematical equation to represent the outline of the meniscus</head><label></label><figDesc></figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATURE COMMUNICATIONS | 8:16045 | DOI: 10.1038/ncomms16045 | www.nature.com/naturecommunications</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We thank <rs type="person">Y. Deng</rs> (<rs type="affiliation">University of Nebraska-Lincoln</rs>) for helpful comments on this work. We gratefully acknowledge funding support from the <rs type="funder">Air Force Office of Scientific Research</rs> (<rs type="grantNumber">MURI FA9550-14-1-0037</rs>; <rs type="grantNumber">FA9550-16-1-0187</rs>) and <rs type="funder">National Science Foundation</rs> (<rs type="grantNumber">CMMI-1562075</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_N5S9B9j">
+					<idno type="grant-number">MURI FA9550-14-1-0037</idno>
+				</org>
+				<org type="funding" xml:id="_jhgeqNv">
+					<idno type="grant-number">FA9550-16-1-0187</idno>
+				</org>
+				<org type="funding" xml:id="_adQBKMR">
+					<idno type="grant-number">CMMI-1562075</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data availability. The data that support the findings of this study are available from the corresponding author upon request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 1: outward convective flow in meniscus</head><p>The equations of the solvent evaporation and the velocity of the outward convective flow within the meniscus ink can be derived by including the effect of the meniscus geometry.</p><p>Supplementary References spin-coated FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film as reference.</p><p>The SEM image showed that the spin-coated perovskite film comprised the nanoscale grains with a size of 50-300 nm (Supplementary Fig. <ref type="figure">6a</ref>). The cross-sectional SEM image revealed a typical film thickness of 780 ± 20 nm (Supplementary Fig. <ref type="figure">6b</ref>).</p><p>The elemental mapping of the spin-coated FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film was measured by energy-dispersive X-ray spectroscopy (EDS), verifying that the spin-coated film had a uniform composition dispersion (that is, Pb, Br and I) (Supplementary Fig. <ref type="figure">7</ref>).</p><p>The presence of high-quality micrometre-sized grains within these large FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite grains was corroborated by the well-defined selected area electron diffraction (SAED) pattern (that is, selected area size ¼ 2 mm, Supplementary Fig. <ref type="figure">8</ref>) shown as an inset in Fig. <ref type="figure">1d</ref>, which can be attributed to a trigonal perovskite crystal with the (110) plane preferentially parallel to the substrate (Supplementary Method 1; Supplementary Fig. <ref type="figure">9</ref>) <ref type="bibr" target="#b56">37</ref> . However, the spin-coated FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film showed ring-type SAED patterns (Supplementary Fig. <ref type="figure">10</ref>), implying that there was no preferred crystal orientation and the film had a polycrystalline structure. The X-ray diffraction (XRD) profiles of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film prepared by MASP and the reference sample prepared by spin coating are shown in Fig. <ref type="figure">1e</ref>. All diffraction peak positions of these two films agreed well with the simulated XRD profile of a trigonal perovskite crystal with the space group P3m1. Notably, the relative intensity ratio of ( 240)/(024) to ( 111) was increased for the film prepared by MASP, implying that the MASP film possessed the preferred crystal orientation along the o 1204/o0124 direction (Supplementary Method 2; Supplementary Fig. <ref type="figure">11</ref>). In particular, the o0124-oriented FA 0.85 MA 0.15 PbI 2.55 Br 0.45 trigonal crystal forms a corner-sharing lead halide octahedral network with a long-range order (Supplementary Fig. <ref type="figure">9d</ref>), which is an ideal structure for effective charge transport across the perovskite film <ref type="bibr" target="#b57">38</ref> . It is noteworthy that the high-purity trigonal perovskite crystals were directly formed at a relatively low temperature (that is, 60 °C) by MASP (Supplementary Fig. <ref type="figure">12</ref>), thereby dispensing with the need for high-temperature treatment in the spin-coated films in order to convert the DMSO-incorporated intermediate to perovskite phase (Supplementary Note 3). We also note that the diffraction peak positions of the FA 0.85 MA 0.15 PbI 2.55 Br 0.45 perovskite film prepared by MASP were not completely the same as those prepared by spin coating. For example, there is a small right shift of 2y ¼ 0.26 o for the ( 111) peak in the spin-coated film. The differences in the diffraction peak positions suggested that the stoichiometry of the perovskite films prepared by MASP and spin coating may be slightly different. Thus, X-ray photoelectron spectroscopy (XPS) measurements were performed to identify the chemical composition of perovskite films. Clearly, the perovskite film prepared by MASP had the real chemical composition of (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.14 (Supplementary Fig. <ref type="figure">13</ref>), which was almost consistent with the stoichiometry of the perovskite precursors in the ink. However, for the spin-coated perovskite film, the real chemical composition was found to be (FAPbI 3 ) 0.82 (MAPbBr 3 ) 0.13. The MASP technique not only entail a relatively </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary Information accompanies this paper at <ref type="url" target="http://www.nature.com/naturecommunications">http://www.nature.com/ naturecommunications</ref> Competing interests: The authors declare no competing financial interests.</p><p>Reprints and permission information is available online at <ref type="url" target="http://npg.nature.com/reprintsandpermissions/">http://npg.nature.com/ reprintsandpermissions/</ref> </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Particle Convection in an Evaporating Colloidal Droplet</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="60" to="67" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Self-Assembly of Gradient Concentric Rings via Solvent Evaporation from a Capillary Bridge</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">66104</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Long-scale evolution of thin liquid films</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Bankoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Mod. Phys</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="931" to="980" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">On evaporation of sessile drops with moving contact lines</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Murisic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kondic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fluid. Mech</title>
+		<imprint>
+			<biblScope unit="volume">679</biblScope>
+			<biblScope unit="page" from="219" to="246" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Die maximale verdampfungsgeschwindigkeit des quecksilbers</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Knudsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Phys-berlin</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="697" to="708" />
+			<date type="published" when="1915">1915</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Flow of vapour in a liquid enclosure</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Plesset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prosperetti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fluid. Mech</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="433" to="444" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Atkins&apos; physical chemistry</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Atkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Paula</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>WH Freeman and Company Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Nonlinear stability of evaporating/condensing liquid films</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Burelbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Bankoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fluid. Mech</title>
+		<imprint>
+			<biblScope unit="volume">195</biblScope>
+			<biblScope unit="page" from="463" to="494" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Predictive Model for the Meniscus-Guided Coating of High-Quality Organic Single-Crystalline Thin Films</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Janneck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vercesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Heremans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Genoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rolin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="8007" to="8013" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">From Convective Assembly to Landau-Levich Deposition of Multilayered Phospholipid Films of Controlled Thickness</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Le Berre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Baigl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2554" to="2557" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Measurement and Prediction on the Surface Properties of Dimethyl Sulfoxide/Water Mixtures</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Bao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Res. Chinese. U</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="100" to="105" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Semiconducting Tin and Lead Iodide Perovskites with Organic Cations: Phase Transitions, High Mobilities, and Near-Infrared Photoluminescent Properties</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Malliakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="9019" to="9038" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Powder Diffraction: The Rietveld Method and the Two Stage Method to Determine and Refine Crystal Structures from Powder Diffraction Data</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Will</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Compositional engineering of perovskite materials for high-performance solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">517</biblScope>
+			<biblScope unit="page">476</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">F</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Hsieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Rim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Z</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Single Crystal Formamidinium Lead Iodide (FAPbI(3)): Insight into the Structural, Optical, and Electrical Properties</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2253" to="2258" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Correction of intensities for preferred orientation in powder diffractometry: application of the March model</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Dollase</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="267" to="272" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Optical and Magnetic Investigations of the Localized States in Semiconducting Glasses</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tauc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Menth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Wood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">749</biblScope>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Urbach Rule in Solid State Physics</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Studenyak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kranjec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kurik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Opt. Appl</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="76" to="83" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Theory of Electron Band Tails and the Urbach Optical-Absorption Edge</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Soukoulis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Economou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="1777" to="1780" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grancini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Menelaou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J P</forename><surname>Alcocer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Leijtens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Herz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Petrozza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="341" to="344" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">High-resolution inkjet printing of all-polymer transistor circuits</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sirringhaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">290</biblScope>
+			<biblScope unit="page" from="2123" to="2126" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Inkjet printing of single-crystal films</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Minemawari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">475</biblScope>
+			<biblScope unit="page" from="364" to="367" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Solution coating of large-area organic semiconductor thin films with aligned single-crystalline domains</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Diao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="665" to="671" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">From lab to fab: how must the polymer solar cell materials design change? -an industrial perspective</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Po</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="925" to="943" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">High efficiency perovskite solar cells: from complex nanostructure to planar heterojunction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">Q</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="5994" to="6003" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Monodisperse dual-functional upconversion nanoparticles enabled near-infrared organolead halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed. Engl</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="4280" to="4284" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Organometal halide perovskites as visible-light sensitizers for photovoltaic cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Teshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shirai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="6050" to="6051" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The rapid evolution of highly efficient perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Correa-Baena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="710" to="727" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Growth of CH 3 NH 3 PbI 3 cuboids with controlled size for high-efficiency perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pellet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gratzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="927" to="932" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">High-performance photovoltaic perovskite layers fabricated through intramolecular exchange</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="1234" to="1237" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A mixed-cation lead mixed-halide perovskite absorber for tandem solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Mcmeekin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="151" to="155" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Trap-assisted non-radiative recombination in organic-inorganic perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J A H</forename><surname>Wetzelaer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1837" to="1841" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Hybrid perovskites for photovoltaics: chargecarrier recombination, diffusion, and radiative efficiencies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Herz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="146" to="154" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Halide perovskites: poor man&apos;s highperformance semiconductors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="5778" to="5793" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Impact of microstructure on local carrier lifetime in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dequilettes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="683" to="686" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">High-efficiency solution-processed perovskite solar cells with millimeter-scale grains</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Nie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="522" to="525" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Air-stable, efficient mixedcation perovskite solar cells with cu electrode by scalable fabrication of active layer</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1600372</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Grain growth in polycrystalline thin films of semiconductors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Interface. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="85" to="93" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Microstructures of organometal trihalide perovskites for solar cells: their evolution from solutions and characterization</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Game</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Pang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Padture</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="4827" to="4839" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">High-efficiency robust perovskite solar cells on ultrathin flexible substrates</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">W</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">10214</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Capillary flow as the cause of ring stains from dried liquid drops</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Deegan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="page" from="827" to="829" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Self-assembly of gradient concentric rings via solvent evaporation from a capillary bridge</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">66104</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Learning from &apos;Coffee Rings&apos;: ordered structures enabled by controlled evaporative self-assembly</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">Q</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed. Engl</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1534" to="1546" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Tuning charge transport in solution-sheared organic semiconductors using lattice strain</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">480</biblScope>
+			<biblScope unit="page" from="504" to="508" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Controlled growth of large-area high-performance small-molecule organic single-crystalline transistors by slotdie coating using a mixed solvent system</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Y</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="6442" to="6447" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Solution-printed organic semiconductor blends exhibiting transport properties on par with single crystals</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Niazi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">8598</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Solution-processed semiconductors for next-generation photodetectors</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Arquer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Armin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meredith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Sargent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mater</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">16100</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Scalable fabrication of efficient organolead trihalide perovskite solar cells with doctor-bladed active layers</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Deng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1544" to="1550" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Aligned single-crystalline perovskite microwire arrays for highperformance flexible image sensors with long-term stability</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Deng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2201" to="2208" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Soft-cover deposition of scaling-up uniform perovskite thin films for high cost-performance solar cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="2295" to="2301" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="982" to="988" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Particle convection in an evaporating colloidal droplet</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="60" to="67" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Nonlinear stability of evaporating/ condensing liquid films</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Burelbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Bankoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fluid. Mech</title>
+		<imprint>
+			<biblScope unit="volume">195</biblScope>
+			<biblScope unit="page" from="463" to="494" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">On evaporation of sessile drops with moving contact lines</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Murisic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kondic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Fluid. Mech</title>
+		<imprint>
+			<biblScope unit="volume">679</biblScope>
+			<biblScope unit="page" from="219" to="246" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The effect of thermal grooving on grain boundary motion</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Mullins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Metall</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="414" to="427" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Predictive model for the meniscus-guided coating of high-quality organic single-crystalline thin films</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Janneck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vercesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Heremans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Genoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rolin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="8007" to="8013" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Semiconducting tin and lead iodide perovskites with organic cations: phase transitions, high mobilities, and near-infrared photoluminescent properties</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Malliakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="9019" to="9038" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Conducting layered organic-inorganic halides containing (110)-oriented perovskite sheets</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Mitzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Feild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Chess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Guloy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">267</biblScope>
+			<biblScope unit="page" from="1473" to="1476" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Correlated and non-correlated growth kinetics of pentacene in the sub-monolayer regime</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brinkmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pratontep</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Contal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Surf. Sci</title>
+		<imprint>
+			<biblScope unit="volume">600</biblScope>
+			<biblScope unit="page" from="4712" to="4716" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Growth of solid domains in model membranes: quantitative image analysis reveals a strong correlation between domain shape and spatial position</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Bernchou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Ipsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Simonsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. B</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="7170" to="7177" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Capture-zone scaling in island nucleation: universal fluctuation behavior</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pimpinelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Einstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">226102</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">The origins of island size scaling in heterogeneous film growth</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mulheran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Blackman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Mag. Lett</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="55" to="60" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Domain coarsening in a 2-dimensional binary mixture-growth dynamics and spatial correlations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">Y</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="2284" to="2287" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Kinetically driven self assembly of highly ordered nanoparticle monolayers</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Bigioni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="265" to="270" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Harnessing colloidal crack formation by flow-enabled self-assembly</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed. Engl</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="4554" to="4559" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Single crystal formamidinium lead iodide (FAPbI(3)): insight into the structural, optical, and electrical properties</title>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">F</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2253" to="2258" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Organometallic halide perovskites: sharp optical absorption edge and its relation to photovoltaic performance</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>De Wolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1035" to="1039" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Recombination kinetics in organic-inorganic perovskites: excitons, free charge, and subgap states</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Appl</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">34007</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Is excess PbI 2 beneficial for perovskite solar cell performance?</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Z</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1670040</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Light and oxygen induced degradation limits the operational stability of methylammonium lead triiodide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bryant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1655" to="1660" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Cesium-containing triple cation perovskite solar cells: improved stability, reproducibility and high efficiency</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1989" to="1997" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

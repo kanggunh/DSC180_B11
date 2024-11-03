@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Maximizing and stabilizing luminescence from halide perovskites with potassium passivation</title>
+				<funder ref="#_aTBq2BH #_HHD9MP7">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_uATVdmJ #_Sc7XeYC">
+					<orgName type="full">European Research Council</orgName>
+					<orgName type="abbreviated">ERC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Swedish foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">EPSRC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">the Ministry of Presidential Affairs</orgName>
+				</funder>
+				<funder ref="#_H23E2aU">
+					<orgName type="full">Lloyd&apos;s Register Foundation</orgName>
+				</funder>
+				<funder ref="#_hJ34yQg">
+					<orgName type="full">Swedish research council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Engineering and Physical Sciences Research Council</orgName>
+				</funder>
+				<funder ref="#_bxggtfy">
+					<orgName type="full">Nava Technology Limited and Nyak Technology Limited</orgName>
+				</funder>
+				<funder ref="#_PS2scxr">
+					<orgName type="full">Royal Society and Tata Group</orgName>
+				</funder>
+				<funder ref="#_G5CMTsP">
+					<orgName type="full">Netherlands Organization for Scientific Research</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mojtaba</forename><surname>Abdi-Jalebi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Zahra</forename><surname>Andaji-Garmaroudi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Stefania</forename><surname>Cacovich</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Camille</forename><surname>Stavrakas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Bertrand</forename><surname>Philippe</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Johannes</forename><forename type="middle">M</forename><surname>Richter</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mejd</forename><surname>Alsari</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Edward</forename><forename type="middle">P</forename><surname>Booker</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eline</forename><forename type="middle">M</forename><surname>Hutter</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Pearson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Samuele</forename><surname>Lilliu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><forename type="middle">J</forename><surname>Savenije</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Giorgio</forename><surname>Divitini</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Caterina</forename><surname>Ducati</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Richard</forename><forename type="middle">H</forename><surname>Friend</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Samuel</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+						</author>
+						<title level="a" type="main">Maximizing and stabilizing luminescence from halide perovskites with potassium passivation</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D7F1A780DA6CB5FA8BC8DF18B25610AC</idno>
+					<idno type="DOI">10.1038/nature25989</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Metal halide perovskites are of great interest for various highperformance optoelectronic applications 1 . The ability to tune the perovskite bandgap continuously by modifying the chemical composition opens up applications for perovskites as coloured emitters, in building-integrated photovoltaics, and as components of tandem photovoltaics to increase the power conversion efficiency 2-4 . Nevertheless, performance is limited by non-radiative losses, with luminescence yields in state-of-the-art perovskite solar cells still far from 100 per cent under standard solar illumination conditions 5-7 . Furthermore, in mixed halide perovskite systems designed for continuous bandgap tunability 2 (bandgaps of approximately 1.7 to 1.9 electronvolts), photoinduced ion segregation leads to bandgap instabilities 8,9 . Here we demonstrate substantial mitigation of both non-radiative losses and photoinduced ion migration in perovskite films and interfaces by decorating the surfaces and grain boundaries with passivating potassium halide layers. We demonstrate external photoluminescence quantum yields of 66 per cent, which translate to internal yields that exceed 95 per cent. The high luminescence yields are achieved while maintaining high mobilities of more than 40 square centimetres per volt per second, providing the elusive combination of both high luminescence and excellent charge transport 10 . When interfaced with electrodes in a solar cell device stack, the external luminescence yield-a quantity that must be maximized to obtain high efficiency-remains as high as 15 per cent, indicating very clean interfaces. We also demonstrate the inhibition of transient photoinduced ion-migration processes across a wide range of mixed halide perovskite bandgaps in materials that exhibit bandgap instabilities when unpassivated. We validate these results in fully operating solar cells. Our work represents an important advance in the construction of tunable metal halide perovskite films and interfaces that can approach the efficiency limits in tandem solar cells, coloured-light-emitting diodes and other optoelectronic applications.</p><p>We fabricated a series of passivated triple-cation perovskite thin films on glass 11 ((Cs 0.06 FA 0.79 MA 0.15 )Pb(I 0.85 Br 0.15 ) 3 , where MA = methylammonium, CH 3 NH 3 + and FA = formamidinium, CH 3 (NH 2 ) 2</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>), by diluting the precursor solution with potassium iodide solution. We denote the perovskite as (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 and the passivated samples as x = [K]/([A] + [K]), where A = (Cs, FA, MA); x represents the fraction of potassium ions out of the total monovalent cations in the precursor solution. We note that the standard triple-cation precursor solution recipe (x = 0) has a slight halide deficiency; however, the introduction of potassium iodide leads to samples with a slight excess of halide, along with very small changes to the I/Br ratio (Extended Data Fig. <ref type="figure">1</ref>). The films have uniformly packed grains, each with a size of around 200-400 nm (Extended Data Fig. <ref type="figure">1</ref>). Absorption and photoluminescence measurements reveal a reduction in the optical bandgap of the perovskite film upon increasing addition of potassium iodide, consistent with the selective interaction of the additives with bromide (Extended Data Fig. <ref type="figure" target="#fig_5">2</ref>).</p><p>For a solar cell or light-emitting diode to approach its efficiency limit, all recombination should be radiative and the luminescence should be maximized <ref type="bibr" target="#b11">12</ref> . In state-of-the-art perovskite films, there are still substantial non-radiative losses that originate from charge-carrier trap <ref type="bibr" target="#b0">1</ref> Cavendish Laboratory, Department of Physics, University of Cambridge, JJ Thomson Avenue, Cambridge CB3 0HE, UK. <ref type="bibr" target="#b1">2</ref> Department of Materials Science and Metallurgy, University of Cambridge, 27 Charles Babbage Road, Cambridge CB3 0FS, UK. <ref type="bibr" target="#b2">3</ref> Department of Physics and Astronomy, Uppsala University, Box 516, 75120 Uppsala, Sweden. <ref type="bibr" target="#b3">4</ref> Department of Chemical Engineering, Delft University of Technology, van der Maasweg 9, 2629 HZ Delft, The Netherlands. <ref type="bibr" target="#b4">5</ref> Department of Physics and Astronomy, University of Sheffield, Sheffield S3 7RH, UK. <ref type="bibr" target="#b5">6</ref> The UAE Centre for Crystallography, United Arab Emirates. Figure <ref type="figure">1</ref> | Increased radiative efficiency and charge-carrier mobility upon passivation. a, PLQE of passivated perovskite thin films with increasing fraction of potassium x, measured under illumination with a 532-nm laser at an excitation intensity equivalent to approximately 1 sun (60 mW cm -2 ) after 300 s of illumination. b, Time-resolved photoluminescence decays of the passivated perovskite films, with excitation at 400 nm and a pulse fluence of 0.5 μ J cm -2 (excitation density of approximately 10 16 cm -3 ). c, Maximum photoconductance for each of the potassium contents, extracted from TRMC measurements with an excitation density of approximately 10 14 cm -3 (Extended Data Fig. <ref type="figure">7</ref>).</p><p>Letter reSeArCH states present in the perovskite layer <ref type="bibr" target="#b12">13</ref> . The origin of the trap states is unclear, but they may be associated with ionic defects such as halide vacancies <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> . In Fig. <ref type="figure">1a</ref>, we show the external photoluminescence quantum efficiency (PLQE) of the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite films with increasing potassium content measured at excitation densities equivalent to that of solar illumination. The PLQE shows a substantial increase from 8% when x = 0 to 41% when x = 0.05, reaching a very high PLQE of 66% when x = 0.40. By accounting for photon recycling and light-out-coupling effects <ref type="bibr" target="#b15">16</ref> , these values translate to an internal PLQE that exceeds 95% for the passivated compositions (Fig. <ref type="figure">1a</ref>). Furthermore, the PLQE does not vary considerably with excitation power for the passivated samples, unlike for the x = 0 sample in which the PLQE increases with increasing excitation power owing to filling of the trap states <ref type="bibr" target="#b16">17</ref> (Extended Data Fig. <ref type="figure" target="#fig_5">2</ref>). These results are also observed in micro-photoluminescence measurements (Extended Data Fig. <ref type="figure" target="#fig_7">3</ref>). Time-resolved photoluminescence experiments (Fig. <ref type="figure">1b</ref>) show the removal of the fast non-radiative decay component with passivation, leading to radiative bimolecular recombination (Extended Data Fig. <ref type="figure" target="#fig_2">4</ref>).</p><p>We used time-resolved microwave conductivity (TRMC) to assess the impact of passivation on charge transport in the (Cs,FA,MA) Pb(I 0.85 Br 0.15 ) 3 perovskite thin films <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b17">18</ref> (Extended Data Fig. <ref type="figure" target="#fig_8">5</ref>). In Fig. <ref type="figure">1c</ref>, we show the maximum photoconductance (charge mobility) for each of the fractions of potassium. For x = 0 and x = 0.1, we find that the carrier mobility remains approximately constant at a high value of around Letter reSeArCH 42 cm 2 V -1 s -1 ; this value decreases at higher potassium content, reaching around 30 cm 2 V -1 s -1 when x = 0.4, which could be an effect of decreasing grain sizes when x &gt; 0.2 (see Methods) <ref type="bibr" target="#b18">19</ref> . These results are consistent with lower trap densities <ref type="bibr" target="#b12">13</ref> for the passivated samples, with the elimination of almost all non-radiative channels and the retention of excellent charge transport up to x = 0.1.</p><p>In Fig. <ref type="figure" target="#fig_5">2a</ref>, we show the PLQE from the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 thin films as a function of time, under continuous illumination with intensity equivalent to 1 sun. For the reference film (x = 0), we observed a substantial but slow increase in PLQE with time, associated with photo induced halide migration <ref type="bibr" target="#b19">20</ref> . By contrast, the high values of PLQE for the passivated films are stable under continuous illumination, suggesting that the photoinduced migration processes are substantially inhibited. To investigate the latter claim further, we prepared large-bandgap perovskite films by adding potassium iodide to precursor solutions with higher fractions of bromide; when unpassivated, such films typically show substantial photoluminescence shifts due to photoinduced halide segregation and subsequent emission from low-bandgap iodide-rich components <ref type="bibr" target="#b7">8</ref> . We show that the photoluminescence spectral output of passivated (Cs,FA,MA) Pb(I 0.4 Br 0.6 ) 3 films is very stable at the optimal bandgap for perovskitesilicon tandems <ref type="bibr" target="#b1">2</ref> (1.75 eV) under 1-sun illumination (Fig. <ref type="figure" target="#fig_5">2c</ref>). By contrast, the sample without passivation shows substantial redshifts and bandgap changes over time (Fig. <ref type="figure" target="#fig_5">2b</ref>). In Fig. <ref type="figure" target="#fig_5">2d</ref>, we show that this photostability is also seen across bromide fractions covering the range of idealized wide bandgaps for perovskite-perovskite tandems 2 (1.7-1.9 eV), albeit with slightly reduced stability at the highest bromide fractions (Extended Data Fig. <ref type="figure" target="#fig_2">4</ref>). We also found that the critical bandgaps for tandems can be stabilized even at low passivation levels (x = 0.1, Fig. <ref type="figure" target="#fig_5">2d</ref>). To our knowledge, this is the first report that shows such high stability in mixed halide compositions across a wide range of bandgaps under solar illumination in ambient conditions <ref type="bibr" target="#b2">3</ref> .</p><p>Next, we investigated the chemical composition of the passivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite thin films using scanning transmission electron microscopy-energy dispersive X-ray spectroscopy (STEM-EDX). In Fig. <ref type="figure" target="#fig_7">3a</ref>, we show a cross-sectional view of a lamella of a film of composition x = 0.2. From the STEM-EDX elemental analysis, we observe a potassium-rich phase at the grain boundaries of the perovskite as well as at the interface with the substrate (Fig. <ref type="figure" target="#fig_7">3c</ref> and Extended Data Fig. <ref type="figure">6</ref>). Analysis of the dataset using a non-negative matrix factorization (NMF) algorithm <ref type="bibr" target="#b20">21</ref> highlights the presence of two compositional phases in the specimen, denoted factor 1 and factor 2 in Fig. <ref type="figure" target="#fig_7">3b,</ref><ref type="figure">c</ref>. Factor 1 shows characteristic EDX features of the perovskite phase, including Br L α , Pb M α and I L α lines (Fig. <ref type="figure" target="#fig_7">3d</ref>), whereas factor 2 is rich in bromide and potassium (Fig. <ref type="figure" target="#fig_7">3e</ref>) and, notably, is particularly prominent at the grain boundaries and at the top and bottom surfaces of the perovskite film. This is probably related to a new crystalline phase that is observed in grazing-incidence wide-angle X-ray scattering (GIWAXS) experiments (Extended Data Fig. <ref type="figure">7</ref>). These results are also consistent with hard-X-ray photoelectron spectroscopy (HAXPES) measurements, which reveal a decrease in potassium upon moving from the film surface into the bulk (Extended Data Fig. <ref type="figure" target="#fig_9">8</ref>). Collectively, these results indicate the formation of potassium halide (particularly bromide-rich) passivation layers decorating the surfaces, where the potassium is not incorporated into the perovskite lattice. This is in contrast to previous works <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref> that report the addition of small monovalent cations-including sodium, rubidium or potassium-to the perovskite; these studies proposed that the cations were incorporated into the lattice, although a recent report <ref type="bibr" target="#b25">26</ref> shows that rubidium does not incorporate and suggests the same for potassium.</p><p>In Fig. <ref type="figure" target="#fig_7">3f</ref>, we summarize our interpretation of the collective results. We used potassium iodide to introduce excess iodide into the perovskite precursor solutions, to compensate for any halide vacancies. The excess halides fill these vacancies, thereby passivating the nonradiative recombination pathways and leading to high luminescence The bandgaps are extracted from the onset of the external quantum efficiencies, and the VOC loss is the difference between the bandgap-radiative-limit VOC and the measured VOC. Letter reSeArCH efficiencies. The excess halides are immobilized in the form of benign, potassium-rich, halide-sequestering species at the grain boundaries and surfaces, thereby inhibiting halide migration and suppressing any additional non-radiative decay arising from interstitial halides. At potassium contents greater than x = 0.1, these non-perovskite species perturb charge transport because of their large size (Extended Data Fig. <ref type="figure">6</ref>). This suggests that there is an optimal potassium content of approximately 0.1, which is a compromise between high radiative efficiency and the retention of high charge-carrier mobility. Finally, we propose that potassium selectively depletes bromide from the perovskite crystal structure; this is consistent with the increased lattice parameter, redshifting band-edge, and decreasing Br/I ratio in the bulk observed upon the addition of potassium (Extended Data Figs <ref type="figure" target="#fig_5">2</ref> and<ref type="figure" target="#fig_9">8</ref>). These observations and such substantially enhanced properties are not found in the absence of bromide (Extended Data Fig. <ref type="figure" target="#fig_5">2</ref>). The addition of small fractions of bromide to the perovskite precursor solutions has been shown to improve perovskite film formation <ref type="bibr" target="#b26">27</ref> . However, bromide-rich perovskites typically have increased trap states and inferior charge-carrier mobility compared to their iodide-based counterparts <ref type="bibr" target="#b27">28</ref> . Here we exploit the beneficial properties of bromide in the grain-formation process, while suppressing the formation of bromide-induced defect states in the bulk of the crystal.</p><p>At open circuit in a solar cell, external luminescence should be maximized <ref type="bibr" target="#b11">12</ref> , and any additional non-radiative losses that occur upon the introduction of device electrodes must be minimized. In Fig. <ref type="figure" target="#fig_2">4a,</ref><ref type="figure">d</ref>, we show the time-resolved photoluminescence decays and PLQE, respectively, for the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite with and without potassium passivation when deposited on a standard n-type mesoporous TiO 2 electron-accepting contact (see Extended Data Fig. <ref type="figure">9</ref> for other excitation intensities). We found that charge-carrier recombination in the presence of the electrode is slower and more radiative (higher integrated time-resolved photoluminescence intensity) in the presence of potassium, with the PLQE decreasing by a factor of only 1.7 (to 27.1%), compared to a factor of 6.7 (to 3.0%) without passivation. In Fig. <ref type="figure" target="#fig_2">4b</ref>, we show the time-resolved photoluminescence decays for a perovskite containing a top layer based on a standard p-type hole-accepting contact spiro-OMeTAD (2,2′ ,7,7′ -tetrakis(N,Ndi-p-methoxyphenylamine)-9,9′ -spirobifluorene). We again find that passivation leads to slower charge-carrier recombination and a less notable reduction in PLQE upon introduction of the electrode (Fig. <ref type="figure" target="#fig_2">4d</ref>)-a decrease by a factor of 4.5 (to 10.4%) with passivation, compared to a decrease by a factor of 38 (to 0.5%) without. In Fig. <ref type="figure" target="#fig_2">4c</ref>, time-resolved photoluminescence decays for the full device stack (that is, both electrodes) clearly demonstrate that recombination is slower and the decrease in PLQE is mitigated upon passivation with potassium. The external PLQE of the full stack is 14.5% with the passivating interlayers (a reduction by a factor of 3.2 upon addition of the electrodes), which is an order of magnitude higher than the value of 1.2% for the control stack (reduction by a factor of 17). These results show that the potassium interlayers not only improve the optoelectronic properties of the perovskite material alone, but also lead to vastly improved interfaces with device electrodes.</p><p>To validate our findings, we constructed full solar cells using the device architecture fluorinated-tin oxide/compact-TiO 2 (approximately 30 nm)/thin-mesoporous TiO 2 (approximately 200 nm)/ perovskite (approximately 500 nm)/spiro-OMeTAD (approximately 150 nm)/Au (80 nm). In Fig. <ref type="figure" target="#fig_8">5a</ref>, we show the forward and reverse current-voltage (J-V) curves of the best-performing devices containing the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 absorbers with x = 0 and x = 0.1 under full simulated sunlight, with the extracted parameters given in Table <ref type="table" target="#tab_0">1</ref> (see Extended Data Figs 10 and 11 and Table <ref type="table" target="#tab_0">1</ref> for other potassium compositions, dark J-V curves and device statistics). We found that the device power conversion efficiency (PCE) increases from 17.3% (x = 0) to 21.5% (x = 0.1) upon passivation, with the elimination of hysteresis in the latter case consistent with inhibition of ion migration <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b19">20</ref> . This is also consistent with a rapid increase in stabilized power efficiency to a value of 21.3%, compared to a slower increase to just 17.2% for the control (Fig. <ref type="figure" target="#fig_8">5a</ref>, inset). We observed an increase in open-circuit voltage (V OC ) upon passivation, from 1.05 V (x = 0) to 1.17 V (x = 0.1) (Fig. <ref type="figure" target="#fig_8">5b</ref>); the calculated difference in V OC (obtained from the increase in PLQE of the device stacks from 1.2% to 14.5%, Fig. <ref type="figure" target="#fig_2">4d</ref>) matches within the error of the device statistics. The loss of open-circuit voltage from the radiative limit is only 0.11 V, and is one of the lowest losses reported in a perovskite solar cell so far <ref type="bibr" target="#b4">5</ref> . We also see an increase in the shortcircuit current density (J SC ) upon potassium addition up to a value of x = 0.1 (Fig. <ref type="figure" target="#fig_8">5c</ref>), consistent with the increased carrier mobility and lifetime <ref type="bibr" target="#b28">29</ref> . The optimal device performance at x = 0.1 therefore validates the compromise between radiative efficiency and carrier mobility. We conducted preliminary stability tests and found a negligible drop in shelf-life performance over a month, and the devices retained over 80% of their initial performance after 300 h of continuous operation at maximum power (Extended Data Fig. <ref type="figure" target="#fig_10">10</ref>). We show device results for largerbandgap (Cs,FA,MA)Pb(I 0.4 Br 0.6 ) 3 absorbers (Fig. <ref type="figure" target="#fig_8">5d,</ref><ref type="figure">f</ref>), attaining a PCE of 17.9% with minimal hysteresis for the x = 0.1 composition </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>and stabilized power output of 17.1% (see Table <ref type="table" target="#tab_0">1</ref> and Extended Data Fig. <ref type="figure" target="#fig_11">11</ref> for device statistics). This is one of the highest device efficiencies yet reported for a large-bandgap (1.78 eV) perovskite that is ideally suited for tandem applications <ref type="bibr" target="#b2">3</ref> . These results are particularly notable for two reasons. First, the perovskite films and interfaces are surprisingly tolerant to passivating additives. Here, we have introduced additives at sufficiently high loading levels to passivate surfaces and stabilize luminescence across a range of bandgaps without compromising charge transport or extraction. This tolerance is in contrast to that of conventional semiconductors such as GaAs, which require more complicated passivation approaches such as controlled growth on lattice-matched substrates <ref type="bibr" target="#b29">30</ref> . Second, these results show directly the importance of obtaining high, stable external luminescence yields in full device stacks that contain luminescent absorbers capable of recycling photons <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b30">31</ref> . The internal luminescence yields approaching 100%, along with the small loss in external luminescence yield in the full device stack, shows that perovskites can sustain the necessary photon gas to achieve voltage losses low enough to rival those of GaAs. We note that the perovskite compositions and passivating interlayers used in this work lead to materials with far greater luminescence and broader stability enhancements compared with those containing rubidium or potassium that have been reported previously <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref> . Further investigation into potassium-based passivation will be required, including its efficacy in different perovskite compositions, deposition methods and contacts, and how it could be ultimately exploited (or even mimicked, using other halidesequestering species) to eliminate interfacial non-radiative losses and ionic migration. The combination of high radiative efficiency, excellent charge transport and photostable bandgaps makes these passivation approaches extremely promising in taking perovskite devices to their efficiency limits across a range of bandgaps.</p><p>Online Content Methods, along with any additional Extended Data display items and Source Data, are available in the online version of the paper; references unique to these sections appear only in the online paper. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MeThOds</head><p>Film and device fabrication. All the organic cation salts were purchased form Dyesol, the lead compounds were from TCI, and caesium iodide and potassium iodide were obtained from Alfa Aesar. spiro-OMeTAD was purchased from Borun Chemicals and was used as received. Unless otherwise stated, all other materials were purchased from Sigma-Aldrich.</p><p>The triple-cation-based perovskite Cs 0.06 FA 0.79 MA 0.15 Pb(I 0.85 Br 0.15 ) 3 was prepared by dissolving PbI 2 (1.2 M), formamidinium iodide (1.11 M), methylammonium bromide (0.21 M) and PbBr 2 (0.21 M) in a mixture of anhydrous DMF:DMSO (4:1 volume ratio, v:v) followed by addition of 5 vol% from CsI stock solution (1.5 M in DMSO). The potassium iodide was first dissolved in a mixed solution of DMF:DMSO 4:1 (v:v) to make a stock solution of 1.5 M. We then added the potassium iodide solution into the triple cation perovskite solution in different volume ratios. We spin-coated the perovskite solutions using a two-step program at 2,000 and 6,000 rpm for 10 and 30 s, respectively, adding a 150 μ l drop of chlorobenzene 30 s after the start of the spinning routine. We then annealed the films at 100 °C for 1 h. All the film preparations were performed in a nitrogen-filled glove box. The devices were fabricated following the same procedures for substrate preparation as well as deposition of both electron and hole transport layers (that is, TiO 2 , spiro-OMeTAD) as in ref. 32. Scanning electron microscopy. The surface morphology of the films was examined using a field-emission scanning electron microscope (Merlin). An electron beam accelerated to 3 kV was used with an in-lens detector. Steady-state absorption and photoluminescence characterization. Absorption spectra were recorded with a Perkin-Elmer Lambda 1050 spectrophotometer equipped with an integrating sphere to account for reflected and transmitted light. Photothermal deflection spectroscopy measurements were acquired on a custom-built set-up by monitoring the deflection of a fixed wavelength (670 nm) laser probe beam after absorption of each monochromatic pump wavelength by a thin film immersed in an inert liquid FC-72 Fluorinert (3M).</p><p>Photoluminescence quantum yield measurements were taken by mounting perovskite films or encapsulated device stacks in an integrating sphere and photoexciting with a 532-nm continuous-wave laser. The laser and the emission signals were measured and quantified using a calibrated Andor iDus DU490A InGaAs detector for the determination of photoluminescence quantum efficiency. The external PLQE was calculated as per ref. 33 and the internal PLQE was subsequently determined using the methods described in ref. 16.</p><p>The absorption and photoluminescence (Extended Data Fig. <ref type="figure" target="#fig_5">2a,</ref><ref type="figure">b</ref>) spectra reveal a reduction in the optical bandgap of the perovskite film upon the addition of increasing amounts of potassium iodide. The photoluminescence peaks at 770 nm for x = 0 and redshifts to 807 nm for x = 0.4. From HAXPES measurements, we find that increasing amounts of potassium iodide have no effect on the valence band edge, which suggests that it is the conduction band energy level that must become deeper (Extended Data Fig. <ref type="figure" target="#fig_5">2b,</ref><ref type="figure">inset</ref>). We note that this is in contrast to the case of the bandgap tunability achieved by directly changing mixed halide fractions, in which the valence band was shown to change but the conduction band remained almost fixed <ref type="bibr" target="#b33">34</ref> . Measurements on similar perovskite systems without bromide did not show such a strong redshift upon the addition of potassium (Extended Data Fig. <ref type="figure" target="#fig_5">2f-i</ref>), which suggests that the additives are selectively interacting with the bromide. These results highlight the combination of potassium additives and mixed halides as levers for selectively tuning the bandgap and conduction band. We also note that the samples show a small fraction of material (less than 1%) with a low-bandgap component (Extended Data Fig. <ref type="figure" target="#fig_5">2c</ref>), but the emission is predominantly from the slightly higher energy component. It is currently unclear why the luminescence is not dominated by the low-gap component, but it is possible that these low-concentration, low-bandgap components are electronically isolated from the remaining material, for example being surrounded by potassium-rich passivating material. We also note that the decrease in PLQE for x = 0.6 could be due to the much smaller grain size at these high passivation levels (Extended Data Fig. <ref type="figure">1</ref>). Finally, we note that changes in absorptance due to thickness changes upon potassium iodide addition are negligible over the ranges for our devices (x = 0-0.2), and therefore are not a major cause of the observed enhancements in device performance. Confocal photoluminescence maps. Photoluminescence maps were collected using a WITec alpha 300 s setup. The excitation source was a 405-nm continuous-wave laser (Coherent CUBE), chopped using a Stanford Research SR 540 chopping unit at frequency of 840 Hz. The light was coupled through an optical fibre to the microscope and focused using a 100× Nikon lens (numerical aperture = 0.7). The sample was positioned on an X-Y piezo stage of the microscope. The photoluminescence signal was collected in reflection mode with the same 100× objective and detected using a spectrometer fitted with a CCD (charge-coupled device) detector. A low-pass filter with a cut-off wavelength of 435 nm was fitted before the CCD detector to block the excitation component of transmitted light (405 nm).</p><p>The confocal photoluminescence intensity maps are shown in Extended Data Fig. <ref type="figure" target="#fig_7">3a</ref>-d from perovskite films with x = 0-0.4, with the intensity distributions shown in Extended Data Fig. <ref type="figure" target="#fig_7">3i</ref>. For example, we observe a broad distribution of emission intensity peaking at 2 × 10 4 counts for x = 0.20 compared to a narrower distribution but with a maximum at only 5 × 10 3 counts for the reference film (x = 0). Although the intensity distribution is broader for the x = 0.2 sample, the lowest counts for this sample are as high in number as the highest counts for the reference. We find that the absolute emission intensity increases continuously with increasing content of potassium (Extended Data Fig. <ref type="figure" target="#fig_7">3i</ref>), peaking at x = 0.40 with an order of magnitude enhancement compared with the reference, consistent with the PLQE data in Fig. <ref type="figure">1a</ref>. We also show the centre-of-mass photoluminescence wavelength maps for the same perovskite films in Extended Data Fig. <ref type="figure" target="#fig_7">3e-h</ref>, along with the corresponding histograms in Extended Data Fig. <ref type="figure" target="#fig_7">3j</ref>. This further confirms the redshifting of the microscale photoluminescence upon addition of potassium, consistent with the absorption and bulk photoluminescence data. Notably, we find a statistically significant correlation between the photoluminescence wavelength and the intensity for each local site (that is, the most emissive sites are the most redshifted, see Extended Data Fig. <ref type="figure" target="#fig_7">3k</ref>). This is consistent with the bulk absorption and photoluminescence data, in which the photoluminescence intensity increases and redshifts with increasing potassium content. Time-resolved photoluminescence. Time-resolved photoluminescence measurements were acquired with a gated intensified CCD camera system (Andor iStar DH740 CCI-010) connected to a grating spectrometer (Andor SR303i). Excitation was performed with femtosecond laser pulses which were generated in a homebuilt set-up by second harmonic generation in a β -barium borate crystal from the fundamental output (pulse energy 1.55 eV, pulse length 80 fs) of a Ti:sapphire laser system (Spectra-Physics Solstice). Temporal resolution of the photoluminescence emission was obtained by measuring the photoluminescence from the sample by stepping the intensified CCD gate delay relative to the pump pulse. The gate width was 20 ns.</p><p>For the unpassivated control film (x = 0), there is a considerable initial nonradiative component (Fig. <ref type="figure">1b</ref>). With increasing passivation, this component is gradually removed with a peak 'lifetime' occurring at x = 0.1. In this regime, the recombination is still trap-limited for this excitation density (that is, the carrier density does not exceed the trap density to fill all traps). As the passivation increases, the trap density is further reduced, until the density of excited carriers is greater than the trap density and recombination is radiative and bimolecular. In this regime, the recombination follows a power law and the lifetime is 'faster' with decreasing trap density (increasing passivation, that is, x = 0.2-0.4). We note that the total area under the non-normalized curves in each case matches the increasing PLQE trend. Time-resolved microwave conductivity measurements. The TRMC technique monitors the change in microwave power reflected by the loaded microwave cavity upon pulsed laser excitation. The photoconductance (Δ G) of the perovskite films was deduced from the collected laser-induced change in normalized microwave power Δ P(t)/P = -KΔ G(t), where K is the sensitivity factor. The product of the yield of generated free charges φ and mobility Σm = (m e + m h ) were obtained by: φΣ m = Δ G/(I 0 βeF A ), where I 0 is the number of photons per pulse per unit area, β is a geometry constant of the microwave cell, e is the elementary charge and F A is the fraction of light absorbed by the sample at the excitation wavelength of 600 nm.</p><p>In Extended Data Fig. <ref type="figure" target="#fig_8">5</ref>, we show the Δ G as a function of time after pulsed excitation at 600 nm for different fractions of potassium acquired at different fluences. The TRMC signal depicts a rapid increase, originating from the formation of mobile charges, followed by a decay attributed to charge recombination or immobilization of charge carriers by traps. In Fig. <ref type="figure">1c</ref>, we show that at least up to x = 0.1, the charge transport remains unperturbed with the addition of potassium. That is, in view of the low electric field strength of the microwaves (100 V cm -1 ), the charges are not effectively displaced by this field but instead they are perturbed in their diffusional motion. As a result, the distance R crossed by the charges is limited by the charge-carrier diffusion coefficient and half the oscillation period ν (8.5 GHz), which amounts to: As shown in Extended Data Fig. <ref type="figure">1</ref>, the grain sizes are approximately 200-400 nm and are independent of the potassium concentration for values up to x = 0.1. Therefore, for x &lt; 0.1, the grains are larger than the probing length (80 nm) of the measurement and the TRMC mobility as probed will not be affected by the grain</p><formula xml:id="formula_0">m ν = / = × . × . × . × = . × = - - - R k T e ( )<label>1</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>size. However, smaller grain sizes are observed for x &gt; 0.2, which is most likely the reason for the lower mobilities at higher values of x (ref. 19). Furthermore, we show the resulting half-lives τ 1/2 (time taken to decay to half of the initial value) for the different samples in Extended Data Fig. <ref type="figure" target="#fig_8">5f</ref> across a range of excitation fluences. At low fluence, one of the carriers is trapped, leading to a longlived signal from the untrapped carrier, which recombines following monomolecular kinetics <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b34">35</ref> . At higher fluences in which the traps are filled, the recombination is bimolecular. We find that charge-carrier recombination is substantially slower for the x = 0.1 composition compared to the x = 0 reference, with the low-fluence monomolecular lifetime increasing from 1 μ s (x = 0) to 1.5 μ s (x = 0.1). Scanning transmission electron microscopy-energy dispersive X-ray spectroscopy. A FEI Helios Nanolab dual beam focus ion beam/field emission gun-scanning electron microscope (FIB/FEGSEM) was used to prepare a lamella for STEM imaging and analysis. To preserve the perovskite film during specimen preparation, capping layers of spiro-OMeTAD and platinum were deposited. All imaging was carried out in STEM-HAADF (high-angle annular dark field) mode. STEM-EDX data were acquired in an FEI Tecnai Osiris TEM equipped with a high-brightness Schottky X-FEG gun and a Super-X EDX system composed of four silicon drift detectors, each approximately 30 mm 2 in area and placed symmetrically around the optic axis to achieve a collection solid angle of 0.9 sr. Spectrum images were acquired with a probe current of 0.7 nA, an acceleration voltage of 200 kV, a spatial sampling of 10 nm per pixel and a dwell time of 100 ms per pixel. Data were acquired with a Tecnai Imaging and Analysis system and analysed with Hyperspy.</p><p>In Extended Data Fig. <ref type="figure">6b-e</ref>, we report a cross-section STEM-EDX measurement for a control perovskite thin film (that is, x = 0). We treated the EDX dataset with the NMF algorithm, which led to the identification of two main components in the thin film. Factor 1 is representative of the perovskite layer, whereas factor 2 can be associated with a bromide-and lead-rich phase. This second component shows higher intensity at the interfaces with the spiro-OMeTAD protective capping layer and with the silicon substrate. In contrast to the case of the passivated perovskite film (x = 0.20, Fig. <ref type="figure" target="#fig_7">3</ref>), we do not observe the presence of surface decoration at the grain boundaries. X-ray diffraction. X-ray diffraction was performed using a Bruker X-ray D8 Advance diffractometer with Cu Kα 1,2 radiation (λ = 1.541 Å). Spectra were collected with an angular range of 5° &lt; 2θ &lt; 60° and Δ θ = 0.01227° over 10 min. Measurements were made on as-prepared films. A Le Bail analysis was carried out on film measurements using the Bruker Topas software. Chebyshev polynomials were used to fit the background and the peak shape modelled with a pseudo-Voigt function.</p><p>Grazing incidence wide angle X-ray scattering. GIWAXS measurements were performed on the XMaS facility at the ESRF synchrotron. A fixed-exit, watercooled, double crystal Si(111) monochromator, placed 25 m from the source, was used to monochromatize the X-ray beam coming from a bending magnet (E c = 9.8 keV). The X-ray energy was tuned to 10 keV (1.2398 Å) and a Rh-coated toroidal mirror was used to focus the monochromatic beam horizontally and vertically. The beam flux was approximately 5 × 10 10 photons per second at the sample position. The original beam spot size was 500 (horizontal) × 400 (vertical) μ m 2 at the sample position. We used a set of motorized slits (Huber) immediately before the sample to have a better-defined footprint in the vertical direction. The final beam spot size with slits was 300 (horizontal) × 115 (vertical) μ m 2 . The beam footprint extended 300 μ m horizontally and throughout the perovskite films. The samples were scanned at an out-of-plane incident angle of around 0.3°.</p><p>As shown in Extended Data Fig. <ref type="figure">7a</ref>, d (x = 0 and x = 0.2, respectively), the GIWAXS diffraction patterns collected at an incident angle of 0.3° show the main perovskite diffraction ring at q = 1 Å -1 . A PbI 2 peak can be detected at q = 0.9 Å -1 for the reference film, which probably originates from a small fraction of excess lead iodide in the reference precursor solution. In Extended Data Fig. <ref type="figure">7f,</ref><ref type="figure">g</ref>, we plot the line profiles, azimuthally integrated over the entire image for perovskite films with x = 0-0.4. The PbI 2 peak diminishes with higher potassium content and disappears at x = 0.2. Furthermore, we observe a new diffraction peak at q = 0.7 Å -1 that appears when x ≥ 0.10 and can be assigned to a non-perovskite potassium-rich crystalline phase which grows with increasing potassium. We also observe the growth of new peaks with increasing potassium content in laboratory X-ray diffraction results (highlighted by asterisks in Extended Data Fig. <ref type="figure" target="#fig_5">2d</ref>). Currently, we cannot unambiguously assign these peaks-for example to potassium bromide or potassium iodide-which points to this phase (or phases) having more complicated chemical compositions (such as KBr x I 1-x , K 2 PbI 4 or K 2 PbBr 4 <ref type="bibr" target="#b23">24</ref> ) and crystallinities. However, given the observations in the STEM-EDX experiments (Fig. <ref type="figure" target="#fig_7">3</ref>), we expect that at least one of the phases present is rich in potassium and bromide and is likely to be the halide-sequestering species proposed in our model. Identification of the precise composition of these sequestering species should be the subject of future work in this area. Soft and hard X-ray photoelectron spectroscopy. Photoelectron spectroscopy measurements were performed at the Diamond Light Source using the beamline I09 (Oxfordshire, UK). Both soft (758 eV) and hard (2,200 and 6,600 eV) X-rays were used to illuminate our sample, to provide information from different probing depths. The soft X-ray energy was selected through a plane grating monochromator, whereas a double-crystal monochromator was used in the hard X-ray section. The values of 2,200 and 6,600 eV correspond to the first-and third-order light when the double-crystal monochromator is set at 2,200 eV using a Si(111) crystal. A EW4000 photoelectron analyser (VG Scienta) was used to record the spectra with an analyser slit open to 0.2 mm. No charge neutralization was used and the binding energy scale was calibrated by setting the Au 4f core level of a gold reference sample to 84.0 eV. The quantification tables and intensity ratios were calculated from the experimental results after correction using the photoionization cross-sections for each element at their specific photon energies, according to database values.</p><p>The overview spectra of the perovskite thin films shows all the core-level peaks corresponding to the elements forming the perovskite material, including Cs. The high-resolution spectra of the core-level peaks further confirm the quality of the perovskite films, as there is only a single Pb 5d component without any metallic lead feature <ref type="bibr" target="#b35">36</ref> (Extended Data Fig. <ref type="figure" target="#fig_9">8</ref>). In Extended Data Fig. <ref type="figure" target="#fig_9">8</ref>, we summarize a quantitative analysis of the potassium content in perovskite films with x = 0-0.2 at different photon energies of 758, 2,200 and 6,600 eV, which corresponds to moving from probing the surface (around 2-4 nm) to probing further into the bulk (around 20 nm). We observed that the concentration of potassium decreases when moving from the surface into the bulk for each of the potassium compositions. Notably, we found that the caesium content increases when moving into the bulk, concomitant with the decrease in potassium, suggesting that the potassium pushes the caesium further into the bulk (Extended Data Fig. <ref type="figure" target="#fig_9">8d</ref>). Furthermore, the I/Pb ratio increases at higher potassium content (Extended Data Fig. <ref type="figure" target="#fig_9">8e</ref>), particularly at the surface, consistent with the addition of excess I from the potassium iodide source and in agreement with a previous report showing a higher concentration of iodide at the surface <ref type="bibr" target="#b35">36</ref> . Finally, the Br/I ratio decreases at higher potassium content, particularly deeper in the film (probed with the higher photon energies), consistent with potassium more selectively drawing out the bromide from the lattice (Extended Data Fig. <ref type="figure" target="#fig_9">8f</ref>). These results suggest that potassium is predominantly located at the surfaces, and the addition of potassium iodide also leads to excess halides on the surfaces with a more selective interaction with bromides. Solar-cell characterization. Current-voltage characteristics were recorded by applying an external potential bias to the cell while recording the generated photocurrent with a digital source meter (Keithley Model 2400). The light source was a 450-W xenon lamp (Oriel) equipped with a Schott-K113 Tempax sunlight filter (Präzisions Glas &amp; OptikGmbH) to match the emission spectrum of the lamp to the AM1.5G standard. Before each measurement, the exact light intensity was determined using a calibrated silicon reference diode equipped with an infrared cut-off filter (KG-3, Schott). External quantum efficiency spectra were recorded as a function of wavelength under a constant white-light bias of approximately 5 mW cm -2 supplied by an array of white light-emitting diodes. The excitation beam coming from a 300 W xenon lamp (ILC Technology) was focused through a Gemini-180 double monochromator (Jobin Yvon Ltd) and chopped at approximately 2 Hz. The signal was recorded using a Model SR830 DSP lock-in amplifier (Stanford Research Systems). All measurements were conducted using a nonreflective metal aperture of 0.105 cm 2 to define the active area of the device and avoid light scattering through the sides.</p><p>For stability measurements, the solar cells were transferred to a sealable device holder under nitrogen glove-box conditions. During testing the device holder was continuously purged with dry nitrogen, which had been pre-filtered (SGT Super Clean) to minimize residual oxygen, moisture and hydrocarbon content. A Newport solar simulator with equivalent AM 1.5 G 1-sun output was used to illuminate the entire device substrate; short wavelengths were filtered using a 435 nm long-pass filter (Thor Labs FGL435). Ageing under these conditions resulted in an ambient temperature inside the chamber of approximately 40 °C, which was measured by a thermistor next to the solar-cell device and was reached within 30 min of the experiment commencing. Photocurrent characteristics were recorded close to the maximum power point voltage (as ascertained from an initial J-V curve) using a Keithley 2636 SMU and a custom-written LabView VI code. Devices were stored in a nitrogen-filled glove box in the dark between shelf-life measurements. Pb(I 0.85 Br 0.15 ) 3 thin films, with new peaks arising from increasing potassium labelled with an asterisk. e, Calculated lattice parameters using a Le Bail analysis on the X-ray diffraction data. f, PLQE as a function of excitation power measured by a 532-nm continuous-wave laser for (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite thin films in an ambient atmosphere. g-i, Normalized UV-vis absorption (g), photoluminescence (532-nm continuous-wave excitation) (h) and photothermal deflection (i) spectra of the (Cs,FA,MA)PbI 3 perovskite films with different potassium content. j, Calculated lattice parameters, determined using a Le Bail analysis on X-ray diffraction data, for the (Cs,FA,MA)PbI 3 perovskite thin films (black squares) compared to (Cs,FA,MA)(I 0.85 Br 0.15 ) 3 (red circles). k, PLQE of different passivated perovskite thin films with and without bromide measured under illumination with a 532-nm laser at an excitation intensity equivalent to approximately 1 sun (60 mW cm -2 ) in ambient air. e-h, Centre-of-mass photoluminescence wavelength of the films for x = 0.0 (e), x = 0.10 (f), x = 0.20 (g) and x = 0.40 (h). i, j, Histograms of the absolute photoluminescence intensities (i) and photoluminescence wavelength (j) extracted from the respective maps for x = 0-0.40. k, Correlation between the local photoluminescence intensity and mean wavelength for x = 0.20.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>Extended Data Figure <ref type="figure" target="#fig_2">4</ref> | Time-resolved photoluminescence measurements and photostability of passivated (Cs,FA,MA)Pb(I 1-y Bry) 3 films. a-d, Intensity dependent time-resolved photoluminescence decays of the (Cs,MA,FA)Pb(I 0.85 Br 0.15 ) 3 perovskite films with different fractions of potassium. The pulse fluences of the 407-nm excitation are quoted on the graphs. e-j, Photoluminescence from (Cs,FA,MA)Pb(I 1-y Br y ) 3 films with (e, f) y = 0.4 passivated (x = 0.4, e) and unpassivated (x = 0, f), (g, h) y = 0.8 passivated (x = 0.4, g) and unpassivated (x = 0, h), (i, j) y = 1 passivated (x = 0.4, i) and unpassivated (x = 0, j). The samples were illuminated and the photoluminescence acquired continuously with a 532-nm laser at an excitation intensity equivalent to approximately 1 sun (60 mW cm -2 ) in an ambient atmosphere. k, Centre of mass for the photoluminescence wavelength of the passivated perovskite films (x = 0.4).  e, f, Intensity ratios between different core levels of the perovskite thin films with different fractions of potassium (0.0 ≤ x ≤ 0.20), calculated from experimental results: I/Pb (e) and Br/I (f). We used Pb 5d, K 2p, Cs 4d, I 4d and Br 3d core levels for all energies, with the exception of 6,600 eV, for which K 1s was used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extended</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>Extended Data Figure <ref type="figure">9</ref> | Excitation-dependent photoluminescence quantum efficiency and time-resolved photoluminescence measurements of (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 device stacks. a-c, PLQE of reference (x = 0) and passivated (x = 0.1) (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite thin films with n-type contact (a), p-type contact (b) and both contacts (c), each measured under illumination with a 532-nm laser at different excitation intensities. d-f, Time-resolved photoluminescence decays of encapsulated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 films (x = 0 and x = 0.1) with excitation at 400 nm and pulse fluence of 0.17 μ J cm -2 (5 × 10 15 cm -3 , equivalent to around 3 sun) when the perovskite is interfaced with an n-type electron-collecting electrode (compact-TiO 2 /thin-mesoporous TiO 2 ) (d), a p-type hole-collecting electrode (spiro-OMeTAD) (e), and both electrodes in a full device stack (f).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extended</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>3 Figure 2 |Figure 3 |</head><label>323</label><figDesc>Figure 2 | Stabilized PLQE and inhibition of photoinduced ion migration. a, PLQE time course for (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 films illuminated with a 532-nm laser at an excitation intensity equivalent to approximately 1 sun (60 mW cm -2 ) in an ambient atmosphere. b, c, Photoluminescence from (Cs,FA,MA)Pb(I 1-y Br y ) 3 , with y = 0.6,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 |</head><label>4</label><figDesc>Photoluminescence intensity (a.u.)Photoluminescence intensity (a.u.)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>( 3 ( 3 ( 3 ( 2 )Figure 5 |</head><label>33325</label><figDesc>Figure5| Enhanced solar-cell power conversion efficiency. a, Forward (open symbols) and reverse (closed symbols) J-V curves of the best-performing solar cells with (Cs,MA,FA)Pb(I 0.85 Br 0.15 ) 3 absorbers without (x = 0) and with (x = 0.1) passivation, measured under full simulated solar illumination conditions (AM1.5, 100 mW cm -2 ). Inset, stabilized power output under the same conditions. b, c, Open-circuit voltage (V OC ) (b) and short-circuit current density (J SC ) (c) as functions of potassium fraction x, with error bars representing the standard deviation across ten devices for each composition. d, J-V curves of the best-performing solar cells with (Cs,MA,FA) Pb(I 0.4 Br 0.6 ) 3 absorbers without (x = 0) and with (x = 0.1) potassium passivation. e, f, External quantum efficiencies and integrated short-circuit current for the (Cs,MA,FA)Pb(I 0.85 Br 0.15 ) 3 (e) and (Cs,MA,FA)Pb(I 0.4 Br 0.6 ) 3 (f) devices.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>received 28</head><label>28</label><figDesc>October 2017; accepted 19 January 2018.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>2 42</head><label>2</label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Extended Data Figure 1 |Extended Data Figure 2 |</head><label>12</label><figDesc>Stoichiometries of the precursor solutions, and thickness measurements and scanning electron microscopy images of the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 films. a, Calculated values of [K]/([K]+ [A]) as a function of potassium iodide volume ratio added to the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite precursor solution. b, The halide to lead ratio ([X]/[Pb]) for different fractions of potassium (x) in perovskite films based on stoichiometric calculations. c, The thickness of the films deposited on compact-TiO 2 /thin-mesoporous TiO 2 electrodes for different fractions of potassium. d, The calculated ratios between different elements in the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 films at different fractions of potassium (x); note that X represents halide (that is, the sum of iodide and bromide). e-j, Scanning electron micrographs of (Cs,FA,MA) Pb(I 0.85 Br 0.15 ) 3 perovskite thin films, with potassium fractions (x) ranging from 0.0 to 0.6. The coloured insets show images at higher magnification. Letter reSeArCH Absorption, photoluminescence and X-ray diffraction characteristics of the (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 (bromide-containing) and (Cs,FA,MA)PbI 3 (pure-iodide) films. a, b, Normalized UV-vis absorption (a) and photoluminescence (PL, 532-nm continuous-wave excitation) (b) of the (Cs,FA,MA)(I 0.85 Br 0.15 ) 3 perovskite films with different fractions of potassium (x). The inset of b is a schematic of the change in energy level of the conduction band with increasing values of x. CB, conduction band; VB, valence band. c, The absorption spectra of (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite thin films with different potassium fractions measured by photothermal deflection spectroscopy, showing a decreased sub-gap density of states with potassium passivation. d, X-ray diffraction spectra of the (Cs,FA,MA)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>3 |</head><label>3</label><figDesc>Confocal photoluminescence maps of passivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 films. a-d, Confocal photoluminescence intensity maps with 405-nm excitation measured in ambient atmosphere for (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite thin films with x = 0.0 (a), x = 0.10 (b), x = 0.20 (c) and x = 0.40 (d).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Data Figure 5 |</head><label>5</label><figDesc>Time-resolved microwave conductivity measurements on passivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 films. a-e, Time-resolved microwave conductivity measurements for (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite films with different fractions of potassium (x = 0-0.4) showing the change in photoconductance after pulsed excitation at 600 nm, with excitation densities (photons per cm 2 ) as quoted on the graphs. f, Half-life values extracted from the decays, with the excitation density quoted after accounting for the absorbed fraction and film thickness of each sample. Letter reSeArCH Extended Data Figure 6 | STEM-EDX chemical maps of the passivated and unpassivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 samples. a, The HAADF image and corresponding STEM-EDX quantitative maps for iodine, lead, potassium and bromide in a (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite specimen with a potassium fraction (x) of 0.20. b, STEM-HAADF cross-sectional image of an unpassivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite thin film (x = 0). c, d, NMF decomposition results in factor 1 associated with the perovskite layer (c) and in factor 2 indicating the presence of a lead and bromide-rich phase (d). e, f, STEM-EDX profiles of factor 1 (e) and factor 2 (f).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>8 |</head><label>8</label><figDesc>HAXPES spectra for passivated (Cs,FA,MA) Pb(I 0.85 Br 0.15 ) 3 perovskite thin films. a-c, HAXPES spectra for (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite thin films (0 ≤ x ≤ 0.20) over a binding-energy range of 0 to 85 eV, recorded with a photon energy of 758 eV (a), 2,200 eV (b) and 6,600 eV (c). d, Intensity ratio between core levels ([Cs]/[Pb] and [K]/[Pb]) calculated from the experimental results as a function of photon energy (measurements at 758, 2,200 and 6,600 eV).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Data Figure 10 |</head><label>10</label><figDesc>Current-voltage curves of passivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 devices and tabulated results for the bestperforming (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 and (Cs,FA,MA)Pb(I 0.4 Br 0.6 ) 3 devices. a-d, Forward (open symbols) and reverse (closed symbols) J-V curves of the best-performing solar cells with (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 absorbers with x = 0.00 (a), x = 0.05 (b), x = 0.10 (c) and x = 0.20 (d) measured under full simulated solar illumination conditions (AM1.5, 100 mW cm -2 ) with a scan rate of 15 mV s -1 . The corresponding dark J-V curves are also shown. e, f, Preliminary stability tests of (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 perovskite devices. Shelf-life of devices for x = 0.00 and x = 0.10 stored in a nitrogen glove box over a month and tested regularly under full AM1.5 simulated sunlight (e), and stability of a device with x = 0.10 aged at 0.8 V under continuous ultraviolet-filtered simulated sunlight in a nitrogen atmosphere for over 350 hours (f). g, Device parameters for the passivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 (upper) and (Cs,FA,MA)Pb(I 0.4 Br 0.6 ) 3 (lower) perovskite solar cells measured under full simulated solar illumination conditions (AM1.5, 100 mW cm -2 ).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>11 |</head><label>11</label><figDesc>Device statistics. a-h, Box and whisker plots to summarize the statistics of photovoltaic parameters of ten devices with passivated (Cs,FA,MA)Pb(I 0.85 Br 0.15 ) 3 solar cells (a-d) and eight devices of passivated (Cs,FA,MA)Pb(I 0.4 Br 0.6 ) 3 solar cells (e-h), each measured under full simulated solar illumination conditions (AM1.5, 100 mW cm -2 ) and scanned at a rate of 15 mV s -1 . The boxes represent the interquartile range, with the median represented by the line dividing the boxes, and the whiskers are determined by the 5th and 95th percentiles. The mean is given by the open square symbols, and the cross symbols represent the maximum and minimum values.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,59.54,53.69,471.86,237.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 | Parameters of the best-performing photovoltaic devices</head><label>1</label><figDesc></figDesc><table><row><cell>Potassium</cell><cell>Bandgap</cell><cell>J sc</cell><cell>V OC</cell><cell>Fill</cell><cell>PCE</cell><cell>V OC loss</cell></row><row><cell>fraction, x</cell><cell>(eV)</cell><cell>(mA cm -2 )</cell><cell>(V)</cell><cell>factor</cell><cell>(%)</cell><cell>(V)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>(Cs,MA,FA)Pb(I 0.85 Br 0.15 ) 3</head><label></label><figDesc></figDesc><table><row><cell>0.0</cell><cell>1.59</cell><cell>22.6</cell><cell>1.05 0.73</cell><cell>17.3 0.26</cell></row><row><cell>0.1</cell><cell>1.56</cell><cell>23.2</cell><cell>1.17 0.79</cell><cell>21.5 0.11</cell></row><row><cell>(</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Cs,MA,FA)Pb(I 0.4 Br 0.6 ) 3</head><label></label><figDesc></figDesc><table><row><cell>0.0</cell><cell>1.83</cell><cell>15.3</cell><cell>1.12 0.72</cell><cell>12.3 0.42</cell></row><row><cell>0.1</cell><cell>1.78</cell><cell>17.9</cell><cell>1.23 0.79</cell><cell>17.5 0.27</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements M.A.-J. thanks <rs type="funder">Nava Technology Limited and Nyak Technology Limited</rs> for their funding and technical support. Z.A.-G. acknowledges funding from a <rs type="grantName">Winton Studentship</rs>, and <rs type="grantName">ICON Studentship</rs> from the <rs type="funder">Lloyd's Register Foundation</rs>. This project has received funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Seventh Framework Programme</rs> (FP7/2007-2013) under REA grant agreement number <rs type="grantNumber">PIOF-GA-2013-622630</rs>, the <rs type="funder">European Research Council (ERC)</rs> under the European Union's <rs type="programName">Horizon 2020 research and innovation programme</rs> (grant agreement number <rs type="grantNumber">756962</rs>), and the <rs type="funder">Royal Society and Tata Group</rs> (<rs type="grantNumber">UF150033</rs>). We thank the <rs type="funder">Engineering and Physical Sciences Research Council</rs> (<rs type="affiliation">EPSRC</rs>) for support. XMaS is a mid-range facility at the <rs type="institution" subtype="infrastructure">European Synchrotron Radiation Facility</rs> supported by the <rs type="funder">EPSRC</rs> and we are grateful to the <rs type="institution">XMaS beamline team staff</rs> for their support. We thank <rs type="institution" subtype="infrastructure">Diamond Light Source</rs> for access to beamline I09 and staff member <rs type="person">T.-L. Lee</rs> as well as <rs type="person">U. Cappel</rs> for assistance during the HAXPES measurements. S.C., C.D. and G.D. acknowledge funding from the <rs type="funder">ERC</rs> under grant number <rs type="grantNumber">25961976 PHOTO EM</rs> and financial support from the <rs type="funder">European Union</rs> under grant number <rs type="grantNumber">77 312483 ESTEEM2</rs>. M.A. thanks the president of the <rs type="institution">UAE</rs>'s <rs type="programName">Distinguished Student Scholarship Program</rs>, granted by <rs type="funder">the Ministry of Presidential Affairs</rs>. H.R. and B.P. acknowledge support from the <rs type="funder">Swedish research council</rs> (<rs type="grantNumber">2014-6019</rs>) and the <rs type="funder">Swedish foundation</rs> for strategic research. E.M.H. and T.J.S. were supported by the <rs type="funder">Netherlands Organization for Scientific Research</rs> under the Echo grant number <rs type="grantNumber">712.014.007</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_bxggtfy">
+					<orgName type="grant-name">Winton Studentship</orgName>
+				</org>
+				<org type="funding" xml:id="_H23E2aU">
+					<orgName type="grant-name">ICON Studentship</orgName>
+				</org>
+				<org type="funding" xml:id="_aTBq2BH">
+					<idno type="grant-number">PIOF-GA-2013-622630</idno>
+					<orgName type="program" subtype="full">Seventh Framework Programme</orgName>
+				</org>
+				<org type="funding" xml:id="_uATVdmJ">
+					<idno type="grant-number">756962</idno>
+					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
+				</org>
+				<org type="funding" xml:id="_PS2scxr">
+					<idno type="grant-number">UF150033</idno>
+				</org>
+				<org type="funding" xml:id="_Sc7XeYC">
+					<idno type="grant-number">25961976 PHOTO EM</idno>
+				</org>
+				<org type="funding" xml:id="_HHD9MP7">
+					<idno type="grant-number">77 312483 ESTEEM2</idno>
+					<orgName type="program" subtype="full">Distinguished Student Scholarship Program</orgName>
+				</org>
+				<org type="funding" xml:id="_hJ34yQg">
+					<idno type="grant-number">2014-6019</idno>
+				</org>
+				<org type="funding" xml:id="_G5CMTsP">
+					<idno type="grant-number">712.014.007</idno>
+				</org>
+			</listOrg>
+
+			<listOrg type="infrastructure">
+				<org type="infrastructure">					<orgName type="extracted">European Synchrotron Radiation Facility</orgName>
+					<orgName type="full" lang="en">European Synchrotron Radiation Facility</orgName>
+					<orgName type="full" lang="fr">Source Européenne de Rayonnement Synchrotron</orgName>
+				</org>
+				<org type="infrastructure">					<orgName type="extracted">Diamond Light Source</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Code availability. The Hyperspy and LabView VI codes used in this work are available from the corresponding author upon reasonable request. Data availability. The data that support the findings of this study are available from the corresponding author on reasonable request, and at <ref type="url" target="https://www.repository.cam.ac.uk/handle/1810/271801">https://www.repository. cam.ac.uk/handle/1810/271801</ref>.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>f, g, The high-resolution line profiles azimuthally integrated over the entire GIWAX profile for different fractions of potassium at 0.5 ≤ q ≤ 0.8 (f) and 0.8 ≤ q ≤ 1.1 (g).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Metal-halide perovskites for photovoltaic and light-emitting devices</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="391" to="402" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Perovskite-perovskite tandem photovoltaics with optimized band gaps</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="861" to="865" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A mixed-cation lead mixed-halide perovskite absorber for tandem solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Mcmeekin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="151" to="155" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">23.6%-efficient monolithic perovskite/silicon tandem solar cells with improved stability</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bush</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17009</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Incorporation of rubidium cations into perovskite solar cells improves photovoltaic performance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="206" to="209" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Efficient vacuum deposited p-i-n and n-i-p perovskite solar cells employing doped charge transport layers</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Momblona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3456" to="3463" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nonradiative losses in metal halide perovskites</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1515" to="1525" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Reversible photo-induced trap formation in mixed-halide hybrid perovskites for photovoltaics</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Hoke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="613" to="617" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Defect-assisted photoinduced halide segregation in mixed-halide perovskite thin films</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Barker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1416" to="1424" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Correlation between photoluminescence and carrier transport and a simple in situ passivation method for high-bandgap hybrid perovskites</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Stoddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Eickemeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Katahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Hillhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="3289" to="3298" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cesium-containing triple cation perovskite solar cells: improved stability, reproducibility and high efficiency</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1989" to="1997" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Strong internal and external luminescence as solar cells approach the Shockley-Queisser limit</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yablonovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Kurtz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE J. Photovoltaics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="303" to="311" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Recombination kinetics in organic-inorganic perovskites: excitons, free charge, and subgap states</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Appl</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">34007</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The role of intrinsic defects in methylammonium lead iodide perovskite</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Hong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1312" to="1317" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Strong covalency-induced recombination centers in perovskite solar cell material CH 3 NH 3 PbI 3</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Agiorgousis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="14570" to="14575" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Enhancing photoluminescence yields in lead halide perovskites by photon recycling and light out-coupling</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Richter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">13941</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">High photoluminescence efficiency and optically pumped lasing in solution-processed mixed halide perovskite semiconductors</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Deschler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1421" to="1426" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Direct-indirect character of the bandgap in methylammonium lead iodide perovskite</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Hutter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="115" to="120" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Grain-size-limited mobility in methylammonium lead iodide perovskite thin films</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kopidakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rumbles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="561" to="565" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Photo-induced halide redistribution in organicinorganic perovskite films</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dequilettes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">11683</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Nonnegative matrix factorization for spectral data analysis</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P</forename><surname>Pauca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Piper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Plemmons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Linear Algebra Appl</title>
+		<imprint>
+			<biblScope unit="volume">416</biblScope>
+			<biblScope unit="page" from="29" to="47" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Impact of monovalent cation halide additives on the structural and optoelectronic properties of CH 3 NH 3 PbI 3 perovskite</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abdi-Jalebi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1502472</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Hysteresis-free perovskite solar cells made of potassium-doped organometal halide perovskite</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">12183</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Improved carriers injection capacity in perovskite solar cells by introducing A-site interstitial defects</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="7905" to="7911" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Potassium incorporation for enhanced performance and stability of fully inorganic cesium lead halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Nam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2028" to="2033" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Phase segregation in Cs-, Rb-and K-doped mixed-cation (MA) x (FA) 1-x PbI 3 hybrid perovskites from solid-state NMR</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kubicki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="14173" to="14180" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Understanding the impact of bromide on the photovoltaic performance of CH 3 NH 3 PbI 3 solar cells</title>
+		<author>
+			<persName><forename type="first">Ibrahim</forename><surname>Dar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="7221" to="7228" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">High photoluminescence quantum yield in band gap tunable bromide containing mixed halide perovskites</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Sutter-Fella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="800" to="806" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths exceeding 1 micrometer in an organometal trihalide perovskite absorber</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="341" to="344" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The opto-electronics which broke the efficiency record in solar cells</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yablonovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. Conference on Lasers and Electro-Optics 2012 CF2J</title>
+		<meeting>Conference on Lasers and Electro-Optics 2012 CF2J</meeting>
+		<imprint>
+			<publisher>Optical Society of America</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Photon recycling in lead iodide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Pazos-Outón</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="1430" to="1433" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Impact of a mesoporous titania-perovskite interface on the performance of hybrid organic-inorganic perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abdi-Jalebi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="3264" to="3269" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">An improved experimental determination of external photoluminescence quantum efficiency</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>De Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Wittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Friend</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="230" to="232" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Chemical engineering of methylammonium lead iodide/bromide perovskites: tuning of opto-electronic properties and photovoltaic performance</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="21760" to="21771" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Charge carriers in planar and meso-structured organic-inorganic perovskites: mobilities, lifetimes, and concentrations of trap states</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Hutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Savenije</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="3082" to="3090" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Chemical distribution of multiple cation (Rb + , Cs + , MA + , and FA + ) perovskite materials by photoelectron spectroscopy</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Philippe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="3589" to="3596" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Identifying defect-tolerant semiconductors with high minority-carrier lifetimes: beyond hybrid lead halide perovskites</title>
+				<funder ref="#_y8umDbF">
+					<orgName type="full">U.S. Department of Energy, Office of Science, Basic Energy Sciences</orgName>
+				</funder>
+				<funder ref="#_StsUPeA">
+					<orgName type="full">National Science Foundation</orgName>
+					<orgName type="abbreviated">NSF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Riley</forename><forename type="middle">E</forename><surname>Brandt</surname></persName>
+							<email>rbrandt@alum.mit.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<addrLine>77 Massachusetts Avenue</addrLine>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<addrLine>77 Massachusetts Avenue</addrLine>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vladan</forename><surname>Stevanovic</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Renewable Energy Laboratory</orgName>
+								<address>
+									<addrLine>15013 Denver West Parkway</addrLine>
+									<postCode>80401</postCode>
+									<settlement>Golden</settlement>
+									<region>Colorado</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">S</forename><surname>Ginley</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Colorado School of Mines</orgName>
+								<address>
+									<addrLine>1500 Illinois Street</addrLine>
+									<postCode>80401</postCode>
+									<settlement>Golden</settlement>
+									<region>Colorado</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tonio</forename><surname>Buonassisi</surname></persName>
+							<email>buonassisi@mit.edu</email>
+							<affiliation key="aff3">
+								<orgName type="institution">National Renewable Energy Laboratory</orgName>
+								<address>
+									<addrLine>15013 Denver West Parkway</addrLine>
+									<postCode>80401</postCode>
+									<settlement>Golden</settlement>
+									<region>Colorado</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<addrLine>77 Massachusetts Avenue</addrLine>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Identifying defect-tolerant semiconductors with high minority-carrier lifetimes: beyond hybrid lead halide perovskites</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FA9C309B0099EE390DF1E4D982DAB828</idno>
+					<idno type="DOI">10.1557/mrc.2015.26</idno>
+					<note type="submission">Received 27 March 2015; accepted 23 April 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The emergence of methyl-ammonium lead halide (MAPbX 3 ) perovskites motivates the identification of unique properties giving rise to exceptional bulk transport properties, and identifying future materials with similar properties. Here, we propose that this "defect tolerance" emerges from fundamental electronic-structure properties, including the orbital character of the conduction and valence band extrema, the chargecarrier effective masses, and the static dielectric constant. We use MaterialsProject.org searches and detailed electronic-structure calculations to demonstrate these properties in other materials than MAPbX 3 . This framework of materials discovery may be applied more broadly, to accelerate discovery of new semiconductors based on emerging understanding of recent successes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Many semiconductors have been studied over the last century for their possible use in photovoltaics (PVs), light-emitting diodes (LEDs), computing devices, sensors, and detectors. Of these, only a select few have achieved sufficient optoelectronic performance to transition into industrial manufacturing, and their identification and development have been slow and mostly empirical. Recently, high-throughput computation and a deeper understanding of the physics-based requirements for high performance have created the potential for an accelerated identification of functional materials with manufacturing potential. For example, materials screening criteria have been proposed to better focus the search for novel candidate PV materials; they include the optical band-gap energy <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref> and abruptness of absorption onset, <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref> in addition to boundary conditions of elemental abundance, <ref type="bibr" target="#b4">[5]</ref> and manufacturing cost. <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref> However, many materials have met these criteria and yet have not achieved industrially relevant conversion efficiencies (in excess of 10-15%) due to low minority-carrier lifetimes or diffusion lengths, e.g., in the case of Cu 2 ZnSn(S,Se) 4 , <ref type="bibr" target="#b7">[8]</ref> SnS, <ref type="bibr" target="#b8">[9]</ref> and others. <ref type="bibr" target="#b9">[10]</ref> Meanwhile, PV devices have emerged based on methyl-ammonium lead iodide (MAPbI 3 ) and closely related halides (herein referred to as MAPbX 3 ). MAPbI 3 is a semiconductor, which has demonstrated exceptional minority-carrier lifetimes of 280 ns (in the mixed iodide-chloride composition) <ref type="bibr" target="#b10">[11]</ref> and diffusion lengths up to 175 μm, <ref type="bibr" target="#b11">[12]</ref> comparable with the best single-crystal semiconductors. This, in addition to meeting the criteria above, has resulted in a dramatic realization of PV conversion efficiencies up to 20.1% <ref type="bibr" target="#b12">[13,</ref><ref type="bibr">14]</ref> in 2015, from &lt;4% in 2009. <ref type="bibr" target="#b13">[15]</ref> This paper examines whether the dramatic success of MAPbX 3 in PVs can be used as a basis to expand design criteria to identify new potential high-performance optoelectronic materials. One of the most compelling questions engendered by MAPbX 3 as an optoelectronic material is the degree to which it is unique, and whether its success can lead to the identification of materials with improved stability and lower toxicity, yet similar high performance. Clearly, as in previous design criteria the high optical absorption coefficient is important, but also essential are the long carrier diffusion lengths observed in MAPbX 3 , enabled by high minority-carrier lifetime (τ) and mobility (μ). <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b14">16,</ref><ref type="bibr" target="#b15">17]</ref> The importance of τ and μ for device performance has been established <ref type="bibr" target="#b16">[18]</ref> for the most highly performing PV materials, including silicon, <ref type="bibr" target="#b17">[19]</ref> cadmium telluride, <ref type="bibr" target="#b18">[20,</ref><ref type="bibr" target="#b19">21]</ref> copper indium gallium diselenide, <ref type="bibr" target="#b20">[22]</ref> and gallium arsenide. <ref type="bibr" target="#b21">[23]</ref> Oddly, these more direct transport parameters, τ and μ, are not traditionally considered essential screening criteria for novel candidate PV materials. This may be partially a consequence of the difficulty in measuring and/or calculating these parameters. The direct measurement of minority carrier τ and μ requires ultrafast electronic or optical sensors to capture transients, <ref type="bibr" target="#b22">[24]</ref><ref type="bibr" target="#b23">[25]</ref><ref type="bibr" target="#b24">[26]</ref><ref type="bibr" target="#b25">[27]</ref> or strong steady-state signals, <ref type="bibr" target="#b26">[28,</ref><ref type="bibr" target="#b27">29]</ref> and must be performed with PV-device-relevant illumination conditions, electrical fields, and transport directions. Calculating τ and μ from first-principles is even more challenging, given the lack of well-established and high-throughput methods to directly calculate electron-phonon interactions and/or trap capture cross-sections. Although it is possible to obtain some information about carrier mobility from effective masses, and maximum radiative lifetime from the band structure, these are known to be insufficient and can be misleading when point and structural defects limit these transport properties. <ref type="bibr" target="#b16">[18]</ref> In this paper, we use established recombination models to identify the underlying electronic-structure parameters of MAPbX 3 that are likely to underpin the high experimentally observed τ and μ, including: dielectric constant, effective mass, band bonding character, and band dispersion (i.e., band extrema relative to vacancy levels). We illustrate how these parameters can be computationally accessible using established variants of density functional theory (DFT). Using the basic properties of MAPbX 3 to define a set of search criteria, we discuss the potential to identify other novel materials with "defecttolerant" transport properties, starting with the database at MaterialsProject.org. <ref type="bibr" target="#b28">[30]</ref> This may yield materials with similar performance, but enhanced stability and lower toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Redefining search criteria for defect-tolerant semiconductors</head><p>This section discusses the emerging explanations for high performance in MAPbI 3 and closely related materials, focusing on the unique aspects that make their performance exceptional: specifically their long non-radiative minority-carrier lifetime, even in the presence of defects. A "defect tolerant" material is expected to either (a) form relatively few intrinsic or structural defects under high-throughput, low-temperature processing conditions, and/or more importantly (b) the extrinsic, intrinsic, or structural defects that do form have a very minimal effect on μ and τ. We discuss models of how a material may achieve this defect tolerance, and suggest by example that the underlying electronic-structure properties may not be unique to MAPbX 3 , but rather be shared in a broader class of compounds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Explanations for high performance in methylammonium lead iodide and related materials</head><p>Many authors have proposed explanations for the success of MAPbX 3 as a PV material. These include its large absorption coefficient, long electron and hole diffusion lengths, low exciton-binding energies, low effective masses and high mobilities, and the presence of only shallow defects in the band gap. <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b14">16,</ref><ref type="bibr" target="#b15">17,</ref><ref type="bibr" target="#b29">31,</ref><ref type="bibr" target="#b30">32]</ref> The existence of only shallow defects, and the disperse valence band, have both been tied to the presence of filled Pb 6s orbitals, deriving from the partial oxidation of Pb relative to its Pb 4+ oxidation state. This orbital character has been identified by several authors, and explains both the shallow binding energy of defects and the atypical dependence of band gap on strain or temperature in MAPbI 3 . <ref type="bibr" target="#b31">[33]</ref><ref type="bibr" target="#b32">[34]</ref><ref type="bibr" target="#b33">[35]</ref> This model for explaining the defect-tolerance and shallow defects has direct analogy to those developed earlier for CuInSe 2 [ 36]   and Cu 3 N, <ref type="bibr" target="#b35">[37]</ref> where instead the Cu + cation contributes 3d Cu antibonding states to the valence band.</p><p>In addition, device-level observations support the claims that MAPbI 3 has excellent transport properties, including long carrier diffusion lengths significantly exceeding 1 μm, <ref type="bibr" target="#b10">[11]</ref> and recently, up to 175 μm in single crystals. <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b36">38]</ref> Low nonradiative minority-carrier recombination rates are also supported by measurements of high photoluminescence quantum yield, <ref type="bibr" target="#b37">[39]</ref> long carrier lifetimes, <ref type="bibr" target="#b38">[40]</ref> and the high open-circuit voltage (V OC ) demonstrated by many devices. These properties are made more exceptional by the way in which MAPbI 3 is processed: low-temperature solution processing results in equal or better performance to vacuum synthesis, which runs contrary to the higher purity, higher temperature, and more equipment-intensive fabrication strategies used to obtain high performance in conventional crystalline semiconductor materials.</p><p>We substantiate these earlier reports by applying DFT to MAPbI 3 . In the model pioneered by Zhang, <ref type="bibr" target="#b34">[36]</ref> as well as Lany and Zakutayev, <ref type="bibr" target="#b35">[37]</ref> defect tolerance emerges from having bonding orbitals at the conduction band minimum (CBM), and antibonding orbitals at the valence band maximum (VBM). This band structure is markedly different than that in most semiconductors, where the valence band is composed predominantly of bonding states, whereas the conduction band is composed of wavefunctions with dominant antibonding character. The defect tolerance that emerges from such an electronic structure is easily described using atomic vacancies as examples. Namely, if predominantly antibonding orbitals occur at the VBM and bonding at the CBM, the dangling (broken) bonds that are formed upon creating the vacancy (of any kind) will likely appear as resonances inside the bands, leaving the band gap free of deep states that could act as carrier traps. As shown in Fig. <ref type="figure" target="#fig_0">1</ref> for the valence band of MAPbI 3 , this is a consequence of the position of valence atomic orbitals relative to the bonding and antibonding bands formed due to interactions. Analogous arguments are also valid for other types of intrinsic defects, such as interstitials and/or antisites, as well as for structural defects such as grain boundaries, which consist of many strained and dangling bonds. Extrinsic impurities could, however, still introduce deep traps inside the band gap depending on the position of their atomic orbitals relative to the energy bands of the host material.</p><p>These situations, in particular the antibonding character of the VBM, can frequently be found in metal-non-metal systems with partially oxidized cations such as binary group-III halides or group-IV chalcogenides in 1:1 stoichiometry (e.g., TlBr and SnTe). Owing to the partial oxidation of Pb, the MAPbI 3 compound also exhibits similar electronic-structure features. <ref type="bibr" target="#b39">[41]</ref> As shown in Fig. <ref type="figure" target="#fig_0">1</ref>, there are three types of interactions that contribute to the valence band in MAPbI 3 . The first results from the overlap of Pb(6p)-I(5p) atomic orbitals leading to the creation of the deeper portion of the valence band, which is predominantly of I(5p) character, and the bottom part of the conduction band, which is composed mostly of Pb(6p) atomic orbitals. This interaction is responsible for chemical bonding as it implies charge transfer from the Pb(6p) to the I(5p) orbitals. In addition, Pb(6s)-I(5p) interaction leads to the creation of two bands: a deeper valence band (bonding), and the antibonding maximum of the valence band. Finally, only one of the I(5p) orbitals is oriented along the Pb-I bond, which is a favorable direction to interact with Pb(6s) and Pb(6p). The other two, oriented orthogonally, can only interact with the 5p orbitals from other iodine atoms forming the middle of the valence band as shown in Fig. <ref type="figure" target="#fig_0">1</ref>.</p><p>As a result of these interactions, the electronic band gap is formed between the antibonding top of the valence band originating from the Pb(6s)-I(5p) interactions and the antibonding CBM resulting from the Pb(6p)-I(5p) interactions. Bondingtype defect-tolerance arguments can therefore only be applied to the defects that would tend to create valence band-derived states such as cation (Pb or MA) vacancies. On the other hand, if anion (iodine) vacancies form, the resulting dangling bonds will appear as resonances inside the conduction band only if the bandwidth and the dispersion of the conduction band are such that the CBM falls well below the energy of the Pb(6p) atomic orbitals. In the case of Pb, contrary to Sn and Ge compounds for example, this condition is more likely due to relativistic <ref type="bibr" target="#b41">[43]</ref> SO interaction effects that increase the width of the Pb(6p) conduction band by ∼2 eV based on our calculations. Thus, the fact that vacancy-type defects in MAPbI 3 are resonant in the bands is attributed to: (a) the presence of antibonding orbitals within the valence band that push the VBM energy up, and (b) relativistic effects which push the CBM energy down.</p><p>In summary, an emerging conclusion from both experimental measurements and first-principles calculations is that MAPbX 3 benefits from an inherently defect-tolerant electronic structure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Modeling electronic transport in the presence of defects</head><p>To provide physical context for the claims above, and to translate them into electronic-structure design criteria, we focus on transport models in defective materials: in particular, models for defect-assisted μ and τ. These are semiconductor models (distinct from the Langevin recombination model, which is inappropriate for MAPbI 3 ). <ref type="bibr" target="#b38">[40]</ref> Defect-limited, monomolecular, or trap-assisted nonradiative recombination, U SRH , is modeled by Shockley-Read-Hall (SRH) recombination statistics:</p><formula xml:id="formula_0">U SRH = np -n 2 i t 0,h (n + n 1 ) + t 0,e ( p + p 1 ) ,<label>(1)</label></formula><p>where n, p, and n i are the electron, hole, and intrinsic carrier concentrations, respectively. <ref type="bibr" target="#b42">[44]</ref> The low-injection electron and hole lifetimes τ 0,e and τ 0,h , which we seek to maximize, are:</p><formula xml:id="formula_1">t 0,h = 1 N t s t,h v th,h and t 0,e = 1 N t s t,e v th,e ,<label>(2)</label></formula><p>where N t is the trap density, σ t is the capture cross-section for electrons or holes, and v th is the drift velocity of carriers. At low injection conditions, the hole and electron lifetimes tend toward τ h = τ 0,h and τ e = τ 0,e , respectively; at high-injection conditions, both hole and electron lifetimes tend toward τ h = τ e = τ 0,h + τ 0,e . The terms n 1 and p 1 reflect the occupancy of trap states, where E t is the energy level of the trap state and E i the Fermi level in the intrinsic material (near mid-gap):</p><formula xml:id="formula_2">n 1 = n i exp E t -E i kT and p 1 = n i exp E t -E i kT .<label>(3)</label></formula><p>From this model, three conditions are necessary to limit SRH (trap-assisted) recombination: defect energy levels far from mid-gap, as these exponentially impact lifetime; low trap density N t ; and low capture cross-sections σ. Operating in highinjection conditions is helpful (where photogenerated carrier concentrations greatly exceed background doping densities), especially when strongly injection-dependent defects limit lifetime. E t and N t may be calculated from first-principles; however, this calculation is computationally expensive, so we seek more fundamental electronic properties accessible by highthroughput screening.</p><p>The first, and most important property is the relative static permittivity, or dielectric constant ε r . A higher dielectric constant indicates a greater ability to screen charge, and may arise from electronic or ionic contributions, as well as the methylammonium molecular dipoles in the lattice. <ref type="bibr" target="#b43">[45]</ref> This screening means that the capture cross-section of a charged defect will be influenced by the dielectric constant. Assuming a Coulombic model for capture cross-section, a capture event will occur when the electrostatic potential energy from a charged defect exceeds the thermal energy, kT, which occurs at a specific radius, <ref type="bibr" target="#b44">[46]</ref> therefore:</p><formula xml:id="formula_3">s t = q 16p (1 r 1 0 kT ) 2 , (<label>4</label></formula><formula xml:id="formula_4">)</formula><p>where q is the elementary charge, and ε 0 is the vacuum permittivity. MAPbI 3 has demonstrated a large static dielectric constant of 60-70 or higher, <ref type="bibr" target="#b14">[16,</ref><ref type="bibr" target="#b45">47,</ref><ref type="bibr" target="#b46">48]</ref> due to electronic, ionic, and molecular dipole contributions from the organic cation. <ref type="bibr" target="#b47">[49]</ref> This charge screening is very beneficial, given the inverse square dependence of carrier capture cross-section, and in turn recombination rate, on the dielectric constant.</p><p>In addition, for a simple "hydrogenic" defect under Effective Mass Theory, the energy level of the defect sits deeper in the gap for lower dielectric constants, <ref type="bibr" target="#b42">[44]</ref> i.e. the binding energy of a donor relative to the conduction band, E C is:</p><formula xml:id="formula_5">E t -E C = m * e 1 r 2 q 4 2(4p1 0 h -) 2 ,<label>(5)</label></formula><p>where m* e is the effective mass of an electron, and h is the reduced Planck constant. Similar charge screening behavior has been used to explain the low binding energy of excitons in MAPbI 3 <ref type="bibr" target="#b43">[45]</ref> and shallow effective mass-like states. <ref type="bibr" target="#b48">[50]</ref> More important, however, is the energy level of non-effective-mass like traps formed by vacancies and structural defects. As discussed above, band structures containing antibonding orbitals in the VBM, bonding in the CBM, and/ or high dispersion within a band can lead to shallower defects, as defect energy levels are resonant with the conduction or valence bands. A second model proposed to explain the lack of deep trap states is that MAPbI 3 is more ionic than other semiconductors, <ref type="bibr" target="#b48">[50]</ref> resulting in shallower or fewer defect states associated with dangling bonds. Analogous arguments have been made to explain defect tolerance in GaN <ref type="bibr" target="#b49">[51]</ref> and (Cd, Zn)Te. <ref type="bibr" target="#b50">[52]</ref> The second critical transport property is the minority-carrier mobility, which is influenced by the effective masses of free carriers and by the frequency of scattering events. The lower the effective mass, or the more disperse the band edges, the higher the mobility. However, in typical polycrystalline materials at room temperature, the mobility will not reach this intrinsic limit due to several forms of scattering.</p><p>One way in which the mobility will be limited is by charged defect scattering, either at ionized impurities or grain boundaries. Again, a high dielectric constant reduces the spatial extent and the potential barrier of a charged defect, lowering its propensity to scatter free carriers. For ionized impurities, the mobility μ H,ii is given by:</p><formula xml:id="formula_6">m H,ii = r H,ii 128 2p √ 1 r 1 0 ( ) 2 (kT ) 3/2 m * N t Z 2 e 3 ln(1 + b) - b 1 + b -1 ,<label>(6)</label></formula><p>where r H,ii is the Hall coefficient for ionized impurity scattering, Z is the charge on the ionized site, N t is the trap density, b = 24m*kT/ h -2 β S 2 , and β S is the inverse screening length. <ref type="bibr" target="#b51">[53]</ref> Thus, to reduce the impact of ionized impurities on mobility, it is again ideal to have a high dielectric constant, low effective mass, and low trap density. Grain boundary scattering is also reduced for larger dielectric constants, and when the defect levels associated with grain boundaries become shallower. <ref type="bibr" target="#b52">[54]</ref> Alternatively, the mobility limit may come from phonon scattering. The phonon-limited mobility is generally smaller in softer materials, given their higher concentration of phonons at a given temperature-the bulk modulus, B, and phononlimited mobility μ ph are correlated, <ref type="bibr" target="#b53">[55]</ref> where A 0 is a constant:</p><formula xml:id="formula_7">m ph = A 0 B(m * ) -2.5 . (<label>7</label></formula><formula xml:id="formula_8">)</formula><p>MAPbI 3 is a relatively soft material, with a bulk modulus predicted to be 22.2 GPa for the cubic phase. <ref type="bibr" target="#b54">[56]</ref> This may explain why its mobility, measured about 10 cm 2 /V/s, <ref type="bibr" target="#b38">[40]</ref> is not large relative to III-V and group IV semiconductors. Claims of "high" mobilities may be relative to dyes and organic absorber materials from which much of the perovskite PV work derived. Thus, similar to the absorption coefficient of MAPbI 3 , its mobility is necessary but insufficient to explain its high performance.</p><p>To compare these proposed performance criteria for PV, the ratio of the diffusion length to the absorption length in an absorber material must be maximized to produce high photocurrent in a PV device, as in this non-dimensional figure of merit <ref type="bibr" target="#b55">[57]</ref> :</p><formula xml:id="formula_9">n = k B T q mta 2 ,<label>(8)</label></formula><p>while historical PV screening approaches have focused on maximizing α; here instead we focus on τ. Given that the mobility and absorption coefficient are good, but not exceptional for MAPbI 3 , we suggest that it is the minority-carrier lifetime of MAPbI 3 that is most strongly responsible for its exceptional performance. Finally, it is worth mentioning that beyond point and structural defects, a disordered crystal structure can limit the conversion efficiency by introducing defect states near the band edges (Urbach tail). MAPbI 3 demonstrates a very small Urbach tail energy. <ref type="bibr" target="#b56">[58]</ref> This may be due to its low melting temperature, such that the material develops more crystalline order at lower processing temperatures (high homologous temperatures). <ref type="bibr" target="#b14">[16]</ref> To review, we summarize the priorities for highperformance PV absorbers in Fig. <ref type="figure" target="#fig_1">2</ref>. While prior work has focused on screening for optical properties, we focus specifically on electronic-structure properties that have a direct impact on transport, highlighted in bold.</p><p>Toward ideal electronic structure: the importance of partially oxidized, heavy post-transition metals Materials that contain a lone 6s 2 or 5s 2 pair of electrons on the cation have the potential to share the high dielectric constant, low effective masses, and VB antibonding character that lead to defect tolerant transport properties. As a broad class, these are compounds formed from partially oxidized post-transition metals including In, Sn, Sb, Tl, Pb, and Bi. In the case of MAPbI 3 , the partially oxidized Pb atom in its Pb 2+ charge state lends these beneficial properties-a large, polarizable cation leads to high Born effective charge and therefore large dielectric constants, <ref type="bibr" target="#b33">[35]</ref> as well as a conduction band with greater bandwidth due to SO coupling, while filled 6s orbitals lead to a disperse valence band (low effective mass) <ref type="bibr" target="#b30">[32]</ref> and antibonding orbital character in the VBM.</p><p>Other partially oxidized post-transition metals including In + , Sn 2+ , Sb 3+ , Tl + , Pb 2+ , and Bi 3+ share these properties, and are present in a wide variety of materials. This N-2 oxidation state is more commonly observed for compounds of Tl, Pb, and Bi, due to relativistic effects leading to tighter binding of the remaining s electrons; however, lighter cations may also be stabilized in these oxidation states. Given their many beneficial properties, these cations appear increasingly in many optoelectronic applications: PbS and lead halide perovskites in PV; TlBr, PbI 2 , and BiI 3 in x-ray detectors and scintillators <ref type="bibr" target="#b57">[59]</ref> ; Sn 2+ -based TCOs <ref type="bibr" target="#b58">[60]</ref> ; and Pb-and Bi-based ferroelectrics, photoferroelectrics, <ref type="bibr" target="#b59">[61]</ref> piezoelectrics, <ref type="bibr" target="#b60">[62]</ref> and thermoelectrics. For the thallous halides, analogous 6s 2 6p 0 orbital explanations for low effective mass, antibonding VBM states, and a high dielectric constant were offered several years before similar work on MAPbX 3 . <ref type="bibr" target="#b61">[63,</ref><ref type="bibr" target="#b62">64,</ref><ref type="bibr" target="#b63">65]</ref> To identify promising materials in this class, we developed a script to search through all materials in the Materials Project. org (MP) database. <ref type="bibr" target="#b28">[30]</ref> This is implemented using the Materials Project API and the pymatgen library, to access information on calculated crystal and electronic structure for all compounds in the database. <ref type="bibr" target="#b64">[66]</ref> This search examines approximately 27,000 non-metallic inorganic compounds with full band structures calculated, and extracts information on crystallographic point group, stability, band structure, and in particular the fractional DOS by element and orbital. To screen for the properties described above, we calculate the s-orbital fraction in the top 1 eV of the valence band DOS. This metric is a rough filter, and may mistakenly identify materials with band-inversion, as well as many metal hydrides and Au -compounds, wherein the anion species contributes a filled s orbital at the valence band edge.</p><p>In Fig. <ref type="figure" target="#fig_2">3</ref>, we compare a random subset of the materials identified in this broad search, and note the stark differences in VBM DOS character for different classes of materials. Conventional tetrahedrally coordinated III-V and II-VI compounds all demonstrate almost exclusive p-orbital character at the VBM, as do the majority of compounds. Other defect tolerant Cu-chalcogenide semiconductors, such as CuInSe 2 , demonstrate a large d-orbital character in the valence band due to full 3d cation orbitals. Meanwhile, the inorganic I-II-VII 3 family of perovskites sit along the bottom axis, reflecting their larger s-orbital fraction in the valence band DOS. However, they are not unique in this property. In addition, we plot a random fraction (30%) of the Materials Project Sn-cation compounds on these axes as well, separating them by those with Sn 2+ and Sn 4+ cations. The Sn 2+ cation-compounds cluster in the same region as the halide perovskites, whereas Sn 4+ compounds resemble the vast majority of semiconductors with anion p-orbital or transition metal cation d-orbital character.</p><p>Finding good candidate semiconductors with the N-2 oxidation state is not straightforward, for several reasons. Firstly, the use of more electronegative anions (oxygen, fluorine, and chlorine) tends to fully oxidize these cations. By pairing them with sulfur, selenium, iodine, and bromine, or by including a less electronegative cation such as an alkali metal, it is possible to stabilize the lower oxidation state. Secondly, the lone s orbitals are often stereochemically active, <ref type="bibr" target="#b65">[67]</ref> leading to lower symmetry point groups, and a higher likelihood of indirect gaps. For example, for Sn compounds from the Materials Project database, only 29% of those with Sn 2+ are found to have direct band gaps, whereas for Sn 4+ , 47% have direct band gaps. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prospective Article</head><p>Anisotropic crystal structures may also lead to anisotropic transport properties and surface potentials, <ref type="bibr" target="#b66">[68]</ref> which may adversely influence device performance. Lastly, these cations may convert to the higher oxidation states inadvertantly, when exposed to oxidizers such as oxygen or moisture. In CsSnI 3 and MASnI 3 , this Sn 4+ formation results in metallic behavior with very high carrier concentrations. <ref type="bibr" target="#b32">[34,</ref><ref type="bibr" target="#b67">69]</ref> Lastly, we note that all of the materials identified in the MaterialsProject.org search are inorganic, and we recognize the important role that the asymmetric, molecular cations such as methylammonium play in achieving large dielectric constants in these materials. Converting the inorganic materials identified herein into hybrid organic-inorganic analogues could lead to improved defect tolerance, but the presence of MA or other molecular cations is not the most important criteria in achieving defect tolerance. Thus, replacement of Pb in MAPbX 3 with transition metal cations may not yield highperforming semiconductors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outlook: identifying other promising materials classes with excellent transport properties</head><p>By filtering the materials data drawn from the Materials Project database, we focus on several interesting classes that may share the beneficial properties identified above. Our search first identifies the class of halide perovskites (CsPbI 3 , CsSnI 3 , RbPbBr 3 , etc.); to our knowledge prior optoelectronic screening efforts have not identified these as promising materials.</p><p>In the list below, we exclude Pb 2+ and Tl + -containing compounds based on toxicity; there are many promising optoelectronic materials containing these atoms. Unfortunately, the beneficial properties of Pb 2+ and Tl + are also connected to their toxicity, as they mimic the large ionic sizes of Ca 2+ and K + in the human body. This excludes the binary lead and thallium halides and chalcogenides such as TlBr, as well as a number of ternary chalcohalides or chalcogenides such as TlBiS 2 .</p><p>In addition, this search is limited to materials existing in the MaterialsProject.org database. New materials may be discovered or designed using the present framework, for example the recently discovered Bi 2 FeCrO 6 perovskite, <ref type="bibr" target="#b68">[70]</ref> which achieves an unusually small band gap for a complex oxide ferroelectric, and promising PV performance.</p><p>We compute the electronic structure from first-principles for several classes of materials, which were identified through the broad computational survey. These classes are described below:</p><p>(i) Binary chalcogenides and halides (BiI 3 , Bi 2 S 3 , SbI 3 , Sb 2 S 3 , SnI 2 , InI, etc.): There are many binary iodides, sulfides, and selenides formed with ns 2 np 0 cations, several of which have band gaps in the range of interest for PV. Those with band gaps 1.7 eV and greater, such as BiI 3 , PbI 2 , and TlBr, have been demonstrated successfully in x-ray detecting and scintillator applications, with high μτ products. <ref type="bibr" target="#b57">[59,</ref><ref type="bibr" target="#b61">63,</ref><ref type="bibr" target="#b69">71]</ref> (ii) Binary halides, sulfides, and selenides stabilized in cubic structures such as NaCl and CsCl: Given the anisotropic transport properties that result from stereochemically active lone pairs in materials such as SnS, more promising materials may result by stabilizing them in higher symmetry phases. Recently, it was demonstrated that SnS and SnSe may be stabilized in the NaCl structure by alloying with CaS. <ref type="bibr" target="#b70">[72]</ref> Similarly, TlI may be stabilized in the CsCl phase by alloying, <ref type="bibr" target="#b71">[73]</ref> suggesting a possible similar route with InI. (iii) Chalcohalides (BiOI, BiSI, BiSeI, SbSI, SbSeI, BiSBr, BiSeBr, etc.): The ns 2 np 0 chalcohalides (V-VI-VII compounds) range over visible to UV band gaps, <ref type="bibr" target="#b72">[74]</ref> and many demonstrate ferroelectric behavior at lower temperatures as well. Both Sb-and Bi-containing varieties have demonstrated photoconductive or PV effects. <ref type="bibr" target="#b73">[75]</ref><ref type="bibr" target="#b74">[76]</ref><ref type="bibr" target="#b75">[77]</ref><ref type="bibr" target="#b76">[78]</ref> SbSI and SbSeI have recently been identified for their potential applications as photoferroelectrics <ref type="bibr" target="#b77">[79]</ref> ; however, those in the paraelectric phase may still demonstrate large Born effective charge, and a large static dielectric constant. (iv) Ternary alkali chalcogenides (LiBiS 2 , NaBiS 2 , KBiS 2 , RbBiS 2 , CsBiS 2 , etc.): Similar to the formation of I-III-VI 2 analogues of the zincblende II-VI compounds, one may form I-III-VI 2 rocksalt compounds based on the PbS and PbSe rocksalt phases. <ref type="bibr" target="#b78">[80]</ref><ref type="bibr" target="#b79">[81]</ref><ref type="bibr" target="#b80">[82]</ref> These include Pb-free chalcogenides with an octahedrally coordinated Bi 3+ cation. (v) Ternary halides: (In 3 SnI 5 , InAlI 4 , etc.): In + and Tl + may be stabilized by several non-coordinating molecular anions such as AlI 4 -. <ref type="bibr" target="#b81">[83]</ref> In addition, multiple cations can be stabilized in their lower oxidation states together, as in Sn <ref type="bibr">2+</ref> and In + in the case of In 3 SnI 5 . (vi) In + -II-VII 3 ternary halides (CdInBr 3 , CaInBr 3 , etc.): In + is also stabilized in a number of In-II-VII 3 compounds, which appear to have band gaps outside of the range for PV, but which may exhibit similar defect tolerant properties. (vii) Bismides and antimonides (e.g., KSnSb): Sn 2+ and other partially oxidized cations are stabilized in several bismides and antimonides, most of which have band gaps too small for PV absorbers under 1-Sun illumination. (viii) Octahedrally coordinated metal halides (Cs 3 Bi 2 I 9 , Rb 3 Bi 2 I 9 , K 3 Bi 2 I 9 , Cs 3 Sb 2 I 9 , etc.): Bi 3+ and Sb 3+ form III 2 X 9 3-anions that consist of edge or face-sharing octahedra, bonding with alkali metals to form a variety of materials with different band gaps, crystal structures, and ferroelectric phase transitions. <ref type="bibr" target="#b82">[84]</ref><ref type="bibr" target="#b83">[85]</ref><ref type="bibr" target="#b85">[86]</ref><ref type="bibr" target="#b86">[87]</ref> (ix) Cs-containing compounds substituting 1+ molecular cations [e.g., (MA) 3 Bi 2 I 9 , (FA) 3 Bi 2 I 9 , etc.]: Lastly, we can identify a variety of Cs-containing materials, which could be converted to hybrid materials by the substitution of the Cs with an alkylammonium or other molecular cation. <ref type="bibr" target="#b85">[86,</ref><ref type="bibr" target="#b87">88]</ref> A simple example is the family containing (MA) 3 Bi 2 I 9 or (FA) 3 Bi 2 I 9 (with formamidinium as the organic cation). A number of other molecular cations may be substituted as well based on size, analogous to the substitution explored in MAPbX 3 , <ref type="bibr" target="#b88">[89,</ref><ref type="bibr" target="#b89">90]</ref> to tune the band gap or to form lower-dimensional structures.</p><p>As an illustration, we perform first-principles (DFT) calculations on some of the above-listed materials to probe whether these materials have low effective masses and high static dielectric constants, in addition to containing cation antibonding orbitals in the VB, and compare these results with those of MAPbI 3 . These DFT results are summarized in Table <ref type="table">I</ref>, including the band gap (E G ), relative valence band (E V ) and conduction band energies (E C ), effective masses m* for holes and electrons from the DOS, the band degeneracy at the CBM and VBM extrema, and the ionic dielectric constant. DFT calculations are performed with SO coupling; we compare the band extrema energies with and without SO coupling to demonstrate the relativistic effects. DFT is known to consistently under-predict the band gap, thus, we do not present the electronic component of the dielectric constant. Instead, we present only the ionic dielectric constant computed from density functional perturbation theory. In addition, the band-gap values, both the minimum and the direct gap, are given to provide an indication of the type of optical transition at the lowest energy gap. The larger the difference between the minimal and the direct gap, the weaker the absorption onset is. More information on these calculations is supplied in the Methods section.</p><p>It is important to draw attention to several conclusions from this table. Firstly, many of these materials are relatively ionic, like MAPbI 3 , making it difficult to achieve smaller band gaps (note again that the band gaps presented here are underestimated, and many will be &gt;2 eV in reality). Secondly, anisotropic crystal structures with stereochemically active lone pairs often lead to higher hole effective masses. Thirdly, most of the materials presented here demonstrate large ionic dielectric constants, independent of whether they have a polar space group. It is clear that MAPbI 3 offers an unusual mix of ionicity, high dielectric constant, low effective masses, and a lower band gap for PV; few semiconductors can claim excellent performance across all categories.</p><p>Another conclusion consistent with prior observations is that compounds formed with 6p block cations show a significantly larger contribution of SO coupling in the conduction band, versus those formed from the 5p block. While Pb and Tl compounds are not included here, the Bi compounds show a much stronger SO contribution than do the In, Sn, and Sb compounds. This may suggest that the Bi-containing compounds are most suitable for achieving similarly shallow anion vacancy levels as in MAPbI 3 .</p><p>To illustrate the similarities in band structure to MAPbI 3 , the band orbital diagrams and DOS are presented in Fig. <ref type="figure" target="#fig_3">4</ref> for a handful of materials. As anticipated, they all demonstrate the same cation antibonding s-orbital contributions at the VBM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary</head><p>In this perspective piece, we have proposed new search criteria for the discovery of semiconductors for optoelectronic applications. This strategy builds upon the recent success of methylammonium lead iodide as a PV material, which achieves excellent device efficiencies in the presence of defects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prospective Article</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MRS COMMUNICATIONS</head><formula xml:id="formula_10">• VOLUME 5 • ISSUE 2 • www.mrs.org/mrc ▪ 271</formula><p>Table <ref type="table">I</ref>. DFT-computed band structures, band dispersion (with SO coupling), effective masses, and ionic dielectric constants for several compounds of interest, as compared with the (MA)BX 3 family of perovskites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Formula</head><p>Space Group (International S.</p><p>G. number) While calculating defect-limited minority-carrier mobility and lifetime is challenging, we propose that more fundamental electronic-structure properties are indicative of defect tolerance, demonstrated by models for defect-assisted recombination and scattering. These models are consistent with emerging experimental and theoretical observations of MAPbX 3 , as well as other semiconductor systems, which share defect tolerance. Most importantly, MAPbX 3 is not unique in these properties, and we identify a broad class of semiconductors containing partially oxidized cations, as well as several specific instances that may share these properties. To demonstrate this, we search through the MaterialsProject.org database of materials, and establish a set of criteria for future identification of promising defect-tolerant semiconductors.</p><formula xml:id="formula_11">E G (eV) (DFT+SO) E G direct (eV) (DFT + SO) E G (DFT + SO)- E G (DFT) E V (DFT + SO)- E V (DFT) E C (DFT + SO)- E C (DFT) m* h ,<label>(</label></formula><p>Many fields would benefit from the development of semiconductors of a wide range of band gaps that can achieve low nonradiative recombination rates and good transport-green LEDs, thin-film PV, and photodetectors, to name a few. We hope that this framework will provide a new direction for materials discovery in these fields, and in doing so, bring understudied semiconductors to the fore to help build the next generation of energy-generating, light-emitting, sensing, and computing devices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>All DFT and related calculations are performed using VASP computer code. <ref type="bibr" target="#b90">[91]</ref> The Perdew-Burke-Ernzerhof (PBE) functional form <ref type="bibr" target="#b91">[92]</ref> of the generalized gradient approximation (GGA) to density functional theory has been employed in this work, together with the projector-augmented wave formalism. <ref type="bibr" target="#b92">[93]</ref> Full atomic, volume, and cell shape relaxations are performed at the GGA-PBE level using the numerical setup, including k-point sampling and various cutoffs, following Ref. 94. For the various electronic-structure properties reported in Table <ref type="table">I</ref>, such as band gaps, SO interaction contributions to band edges, DOS effective masses and band degeneracies; the denser k-point grid is used. For compatibility between different calculations, the number of k-points per atom was kept fixed at N atoms *N kpts = 6000, which leads to the convergence of relevant electronic-structure properties. <ref type="bibr" target="#b53">[55]</ref> The SO interaction is included at the level of first-order perturbation to the DFT results. Ionic dielectric tensors are computed from the interatomic force constants obtained using the density functional perturbation theory. <ref type="bibr" target="#b94">[95]</ref> The dielectric constants reported in Table <ref type="table">I</ref> are computed as one-third of the trace [Tr(ε)/3] of the dielectric tensors. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. (a) Crystal structure of cubic (high T ) phase MAPbI 3 , including the MA cation at the cage center; (b) bonding (σ)/ antibonding (σ*) orbitals in MAPbI 3 demonstrating the formation of energy bands relative to isolated p and s atomic orbital energies; (c) DOS of MAPbI 3 separated into cation and anion s-and p-orbital contributions. The DOS is computed using DFT, including the effects of SO interactions, with the band gap adjusted to the value reported in Ref. 42 (1.85 eV computed using the many body GW method with SO included). The MA + cation does not introduce states at the band edge.</figDesc><graphic coords="3,95.95,74.15,420.04,134.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure2. Screening criteria for high-performance PV materials, focusing on the properties that enable excellent bulk transport in the presence of defects. Optical properties and scalability concerns have previously been emphasized in screening, and are important but insufficient to achieve high performance.</figDesc><graphic coords="5,64.51,471.44,227.98,197.89" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure3. Ternary plots demonstrating the partial DOS of the VBM by orbital type, for a wide range of randomly selected materials. Overlayed on the left are the conventional zincblende and wurtzite semiconductors for PV, as well as Cu-chalcogenides showing higher d-orbital fraction, and the halide perovskites with higher s-orbital fraction. On the right, Sn-containing compounds demonstrate a distinct split along two axes, with Sn 2+ compounds demonstrating similar character to the halide perovskites.</figDesc><graphic coords="6,68.65,74.15,474.73,210.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. DOS plotted for three materials identified here, including (a) InI, (b) SbSI, and (c) BiSI. The partial DOS are separated into their atomic orbital contributions, with anions on the positive y-axis and cations on the negative axis. The cation s states separate into bonding σ (lower energy) and antibonding σ* (higher energy) orbitals.</figDesc><graphic coords="9,64.51,74.15,227.98,221.20" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>MRS COMMUNICATIONS• VOLUME 5 • ISSUE 2 • www.mrs.org/mrc ▪ 265</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>MRS COMMUNICATIONS• VOLUME 5 • ISSUE 2 • www.mrs.org/mrc ▪ 267</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This work was supported as part of the <rs type="institution">Center for Next Generation Materials by Design (CMGMD)</rs>, an <rs type="grantName">Energy Frontier Research Center</rs> funded by the <rs type="funder">U.S. Department of Energy, Office of Science, Basic Energy Sciences</rs>. R.E.B. acknowledges an <rs type="funder">NSF</rs> <rs type="grantName">GRFP fellowship</rs>. The authors thank <rs type="person">R. Jaramillo</rs>, <rs type="person">R. Chakraborty</rs>, <rs type="person">V. Steinmann</rs>, and <rs type="person">R. Kurchin</rs> (<rs type="affiliation">MIT</rs>) as well as <rs type="person">S. Lany</rs> and <rs type="person">A. Zakutayev</rs> (<rs type="affiliation">NREL</rs>) for helpful conversations.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_y8umDbF">
+					<orgName type="grant-name">Energy Frontier Research Center</orgName>
+				</org>
+				<org type="funding" xml:id="_StsUPeA">
+					<orgName type="grant-name">GRFP fellowship</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Detailed balance limit of efficiency of p-n junction solar cells</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shockley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Queisser</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1736034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="510" to="519" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Silicon solar energy converters</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Prince</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1722034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="534" to="540" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Identification of potential photovoltaic absorbers based on first-principles spectroscopic screening of materials</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zunger</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevLett.108.068701</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page">68701</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Inverse design of high absorption thin-film photovoltaic materials</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Kokenyesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Keszler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zunger</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aenm.201200538</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="43" to="48" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Materials availability expands the opportunity for large-scale photovoltaics deployment</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wadia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Alivisatos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kammen</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/es8019534</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="2072" to="2077" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Crystalline silicon photovoltaics: a cost analysis framework for determining technology pathways to reach baseload electricity costs</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Winkler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Needleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buonassisi</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C2EE03489A</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="5874" to="5883" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Crystal growth and materials research in photovoltaics: progress and challenges</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Surek</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jcrysgro.2004.10.093</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cryst. Growth</title>
+		<imprint>
+			<biblScope unit="volume">275</biblScope>
+			<biblScope unit="page" from="292" to="304" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Indications of short minority-carrier lifetime in kesterite solar cells</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Repins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Moutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kanevce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuciauskas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dippo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Beall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carapella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dehart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Wei</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4819849</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page">84507</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A path to 10% efficiency for tin sulfide devices</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Mangan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Steinmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jaramillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Poindexter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buonassisi</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/PVSC.2014.6925404</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE 40th Photovoltaic Specialists Conf. PVSC</title>
+		<imprint>
+			<biblScope unit="page" from="2373" to="2378" />
+			<date type="published" when="2014">2014. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Schock: Nonconventional (non-silicon-based) photovoltaic materials</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Unold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-matsci-062910-100437</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Mater. Res</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="297" to="321" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths exceeding 1 micrometer in an organometal trihalide perovskite absorber</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grancini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Menelaou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J P</forename><surname>Alcocer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Leijtens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Herz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Petrozza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1243982</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="341" to="344" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths &gt;175 μm in solution grown CH 3 NH 3 PbI 3 single crystals</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mulligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aaa5760</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="967" to="970" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Compositional engineering of perovskite materials for high-performance solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature14133</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">517</biblScope>
+			<biblScope unit="page" from="476" to="480" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Organometal halide perovskites as visible-light sensitizers for photovoltaic cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Teshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shirai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ja809598r</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="6050" to="6051" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The emergence of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ho-Baillie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nphoton.2014.134</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="506" to="514" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Semiconducting tin and lead iodide perovskites with organic cations: phase transitions, high mobilities, and near-infrared photoluminescent properties</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Malliakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ic401215x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="9019" to="9038" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Finite mobility effects on the radiative efficiency limit of pn-junction solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mattheis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rau</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.77.085203</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page">85203</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Mollenkopf: Impurities in silicon solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Davis</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rohatgi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Blais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rai-Choudhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Mccormick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename></persName>
+		</author>
+		<idno type="DOI">10.1109/T-ED.1980.19922</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans. Electron Devices</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="677" to="687" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Study of CdTe/CdS solar cells using CSS CdTe deposited at low temperature</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Moutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Dhere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Al-Jassim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ballif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Levi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Swartzlander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Kazmerski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE 28th Photovoltaic Specialists Conf. PVSC</title>
+		<imprint>
+			<biblScope unit="page" from="646" to="649" />
+			<date type="published" when="2000">2000. 2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Tailoring impurity distribution in polycrystalline CdTe solar cells for enhanced minority carrier lifetime</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kranz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gretener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Perrenoud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jaeger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S A</forename><surname>Gerstl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Buecheler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Tiwari</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aenm.201301400</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1301400</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Measured minority-carrier lifetime and CIGS device performance</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Repins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Metzger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Contreras</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/PVSC.2009.5411126</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE 34th Photovoltaic Specilists Conf. PVSC</title>
+		<imprint>
+			<biblScope unit="page" from="978" to="000983" />
+			<date type="published" when="2009">2009. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Strong internal and external luminescence as solar cells approach the Shockley-Queisser limit</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yablonovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Kurtz</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/JPHOTOV.2012.2198434</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE J. Photovolt</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="303" to="311" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Hole mobilities and the physics of amorphous silicon solar cells</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Schiff</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jnoncrysol.2005.11.074</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non-Cryst. Solids</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="1087" to="1092" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Time-resolved photoluminescence studies of CdTe solar cells</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Metzger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Albin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Levi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Keyes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Ahrenkiel</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1597974</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="3549" to="3555" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Determining the minority carrier lifetime in epitaxial silicon layers by micro-wave-detected photoconductivity measurements</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Walter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rosenits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kopp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Warta</surname></persName>
+		</author>
+		<idno type="DOI">10.4229/25thEUPVSEC2010-2CV.3.1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">25th Eur</title>
+		<meeting><address><addrLine>Valencia, Spain</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="2078" to="2083" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Electron transport in hydrogenated amorphous silicon: drift mobility and junction capacitance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tiedje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Wronski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Abeles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cebulka</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0379-6787(80)90034-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sol. Cells</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="301" to="318" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Quasi-steady-state photoconductance, a new method for solar cell material and device characterization</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sinton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cuevas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stuckings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEEE 25th Photovoltaic Specialists Conf</title>
+		<meeting><address><addrLine>Washington, D.C.</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="457" to="460" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Hillhouse: Quasi-Fermi level splitting and subbandgap absorptivity from semiconductor photoluminescence</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Katahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4898346</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page">173504</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Persson: Commentary: the Materials Project: a materials genome approach to accelerating materials innovation</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Ong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hautier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dacek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cholia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Skinner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ceder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4812323</idno>
+	</analytic>
+	<monogr>
+		<title level="j">APL Mater</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">11002</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Unusual defect physics in CH 3 NH 3 PbI 3 perovskite solar cell absorber</title>
+		<author>
+			<persName><forename type="first">W.-J</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yan</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4864778</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">63903</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Unique properties of halide perovskites as possible origins of the superior solar cell performance</title>
+		<author>
+			<persName><forename type="first">W.-J</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yan</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/adma.201306281</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4653" to="4658" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Near-band-edge optical responses of solution-processed organicinorganic hybrid perovskite CH 3 NH 3 PbI 3 on mesoporous TiO 2 electrodes</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Endo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wakamiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kanemitsu</surname></persName>
+		</author>
+		<idno type="DOI">10.7567/APEX.7.032302</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Express</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">32302</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Principles of chemical bonding and band gap engineering in hybrid organic-inorganic halide perovskites</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walsh</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jp512420b</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="5755" to="5760" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Efficient carrier transport in halide perovskites: theoretical perspectives</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Du</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C4TA01198H</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="9091" to="9098" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Defect physics of the CuInSe 2 chalcopyrite semiconductor</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zunger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Katayama-Yoshida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page">9642</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Defect tolerant semiconductors for solar energy conversion</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zakutayev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Caskey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Fioretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ginley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stevanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lany</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jz5001787</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1117" to="1125" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Adinolfi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Comin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Alarousu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hoogland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rothenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Katsiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Losovyj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Dowben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">F</forename><surname>Mohammed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Sargent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Bakr</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.aaa2725</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="519" to="522" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Radiative efficiency of lead iodide based perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tvingstedt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Malinkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Deibel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Dyakonov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Bolink</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep06071</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">6071</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">High charge carrier mobilities and lifetimes in organolead trihalide perovskites</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Mercado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Luther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stevanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van De Lagemaat</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/adma.201305172</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1584" to="1589" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Electronic structures of lead iodide based low-dimensional crystals</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Umebayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Asai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nakao</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.67.155405</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page">155405</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Substrate-controlled band positions in CH 3 NH 3 PbI 3 perovskite films</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Mercado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Saha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Luther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stevanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van De Lagemaat</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C4CP03533J</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="22122" to="22130" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Angelis: Relativistic solar cells</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Umari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mosconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">4467</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Sze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Kwok</surname></persName>
+		</author>
+		<title level="m">Physics of Semiconductor Devices</title>
+		<meeting><address><addrLine>Hoboken, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Atomistic origins of high-performance in hybrid halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Frost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Brivio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Hendon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Schilfgaarde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="2584" to="2590" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Bube</surname></persName>
+		</author>
+		<title level="m">Photoelectronic Properties of Semiconductors</title>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Electro-optics of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Armin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C R</forename><surname>Nagiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Burn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meredith</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nphoton.2014.284</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="106" to="112" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Photoinduced giant dielectric constant in lead halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Juarez-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Badia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garcia-Belmonte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mora-Sero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bisquert</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jz5011169</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2390" to="2394" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Structural and electronic properties of hybrid perovskites for high-efficiency thin-film photovoltaics from firstprinciples</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Brivio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walsh</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4824147</idno>
+	</analytic>
+	<monogr>
+		<title level="j">APL Mater</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">42111</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The role of intrinsic defects in methylammonium lead iodide perovskite</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-H</forename><surname>Hong</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jz500370k</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1312" to="1317" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">High dislocation densities in high efficiency GaN-based light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Lester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Ponce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Craford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Steigerwald</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.113252</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page">1249</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Single-crystal II-VI on Si single-junction and tandem solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carmody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mallick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Margetis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kodama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Biegala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bechmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Garland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sivananthan</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.3386529</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">153502</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Hall mobility of cuprous oxide thin films deposited by reactive direct-current magnetron sputtering</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Winkler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Siah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buonassisi</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.3589810</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page">192115</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The electrical properties of polycrystalline silicon films</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y W</forename><surname>Seto</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.321593</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page">5247</biblScope>
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Material descriptors for predicting thermoelectric performance</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gorai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Barnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stevanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Toberer</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C4EE03157A</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Env. Sci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="983" to="994" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Mechanical properties of hybrid organic-inorganic CH 3 NH 3 BX 3 (B = Sn, Pb; X = Br, I) perovskites for solar cell absorbers</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Feng</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4885256</idno>
+	</analytic>
+	<monogr>
+		<title level="j">APL Mater</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">81801</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Nonradiative lifetimes in intermediate band photovoltaics-absence of lifetime recovery</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Krich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Halperin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aspuru-Guzik</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4732085</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page">13707</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Organometallic halide perovskites: sharp optical absorption edge and its relation to photovoltaic performance</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">De</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-J</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Löper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Niesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ledinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F.-J</forename><surname>Haug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Yum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ballif</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jz500279b</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1035" to="1039" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Thick film compound semiconductors for X-ray imaging applications</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Sellin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nima.2006.01.110</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Instrum. Methods Phys. Res. A</title>
+		<imprint>
+			<biblScope unit="volume">563</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Identification and design principles of low hole effective mass p-type transparent conducting oxides</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hautier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miglio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ceder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G.-M</forename><surname>Rignanese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Gonze</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ncomms3292</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">2292</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Photovoltaic properties of Bi 2 FeCrO 6 epitaxial thin films</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nechache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Harnagea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Licoccia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Traversa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruediger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pignolet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rosei</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.3590270</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page">202902</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Perspective on the development of lead-free piezoceramics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rödel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T P</forename><surname>Seifert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E.-M</forename><surname>Anton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Granzow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Damjanovic</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1551-2916.2009.03061.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Ceram. Soc</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1153" to="1177" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Thallium halides -new aspects of the stereochemical activity of electron lone pairs of heavier main-group elements</title>
+		<author>
+			<persName><forename type="first">A.-V</forename><surname>Mudring</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ejic.200600975</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="page" from="882" to="890" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Enhanced born charge and proximity to ferroelectricity in thallium halides</title>
+		<author>
+			<persName><forename type="first">M.-H</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page">144114</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Enhanced born charges in III-VII, IV-VII 2 , and V-VII 3 compounds</title>
+		<author>
+			<persName><forename type="first">M.-H</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.82.045203</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">45203</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Python materials Genomics (pymatgen): a robust, open-source python library for materials analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Ong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hautier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kocher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cholia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Chevrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Persson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ceder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.commatsci.2012.10.028</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="314" to="319" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Stereochemistry of post-transition metal oxides: revision of the classical lone pair model</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Payne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Egdell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Watson</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c1cs15098g</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">4455</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Variations of ionization potential and electron affinity as a function of surface orientation: the case of orthorhombic SnS</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stevanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jaramillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramanathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buonassisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Graf</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4879558</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">211603</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">CsSnI 3 : semiconductor or metal? High electrical conductivity and strong near-infrared photoluminescence from a single material. High hole mobility and phase-transitions</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Androulakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Malliakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Kenney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ja301539s</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="8579" to="8587" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Bandgap tuning of multiferroic oxide solar cells</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nechache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Harnagea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cardenas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chakrabartty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rosei</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nphoton.2014.255</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="61" to="67" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Characterization of bismuth tri-iodide single crystals for wide band-gap semiconductor radiation detectors</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Lintereur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Nino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baciak</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nima.2010.12.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Instrum. Methods Phys. Res. A</title>
+		<imprint>
+			<biblScope unit="volume">652</biblScope>
+			<biblScope unit="page" from="166" to="169" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Structural and electronic modification of photovoltaic SnS by alloying</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kokenyesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tate</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4868974</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page">113507</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Structure stabilization: locking-in fast cation conductivity phase in TlI</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Secco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0022-3697(94)00172-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Solids</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="251" to="254" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Photoconduction in ternary V-VI-VII compounds</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nitsche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Merz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Solids</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="154" to="155" />
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Mullins: n-BiSI thin films: selenium doping and solar cell behavior</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J E</forename><surname>Rettie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Beal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Fullon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename></persName>
+		</author>
+		<idno type="DOI">10.1021/jp3088397</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="24878" to="24886" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">BiSI micro-rod thin films: efficient solar absorber electrodes?</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Self</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Mullins</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jz300515p</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1571" to="1576" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Low-temperature synthesis and high visible-light-induced photocatalytic activity of BiOI/TiO 2 heterostructures</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jp900812d</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="7371" to="7378" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">The first BiOI-based solar cells</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.elecom.2008.12.041</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="612" to="615" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Ferroelectric materials for solar energy conversion: photoferroics revisited</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Frost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walsh</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C4EE03523B</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="838" to="848" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">calculated with allowance for the difference between the M-S and Bi-S bond lengths</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Gabrel'yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Lavrentiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">Y</forename><surname>Nikiforov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Sobolev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">; M =</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Na</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">)</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/s10947-008-0140-2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Electronic energy structure of MBiS</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="788" to="794" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Synthesis and characterization of sodium bismuth sulfide (NaBiS 2 ) under hydrothermal condition</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Facile</surname></persName>
+		</author>
+		<idno type="DOI">10.5012/bkcs.2014.35.6.1887</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Korean Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1887" to="1890" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Molten salt synthesis and properties of three new solid-state ternary bismuth chalcogenides, beta.-CsBiS 2 , gamma.-CsBiS 2 , and K 2 Bi 8 Se 13</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Ngeyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Degroot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Kannewurf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/cm00027a016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="331" to="340" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Mudring: Indium(I) Tetraiodoaluminate</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Timofte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-V</forename></persName>
+		</author>
+		<idno type="DOI">10.1002/zaac.200700525</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Z. Anorg. Allg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">634</biblScope>
+			<biblScope unit="page" from="622" to="623" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Ferroelectric phase transition in Cs 3 Bi 2 I 9</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Mel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Zaitsev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Solid State</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1652" to="1654" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Y</forename><surname>Peresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Sidei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">I</forename><surname>Gaborets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">V</forename><surname>Zubaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Stercho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Barchii</surname></persName>
+		</author>
+		<title level="m">Influence of the average atomic number of the A 2 TeC 6 and A 3</title>
+		<meeting><address><addrLine>B 2 C 9 (A = K, Rb, Cs, Tl(I)</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">I) compounds on their melting point and band gap</title>
+		<author>
+			<persName><surname>B = Sb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">; C =</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Br</surname></persName>
+		</author>
+		<idno type="DOI">10.1134/S0020168514010166</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Mater</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="101" to="106" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title level="m" type="main">Phase transitions in alkylammonium halogenoantimonates and bismuthates. Phase Transit</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jakubas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sobczyk</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01411599008206873</idno>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="163" to="193" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Structural overview and structureproperty relationships of iodoplumbate and iodobismuthate</title>
+		<author>
+			<persName><forename type="first">L.-M</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X.-T</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ccr.2009.08.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Coord. Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">253</biblScope>
+			<biblScope unit="page" from="2787" to="2804" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Specific heat of (NH 2 (CH 3 ) 2 ) 3 Bi 2 I 9</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Plackowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wlosewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Tomaszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Marchewka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Phys. Pol. A</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="635" to="641" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Solid-state principles applied to organic-inorganic perovskites: new tricks for an old dog</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kieslich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Cheetham</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/C4SC02211D</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="4712" to="4715" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Steric engineering of metal-halide perovskites with tunable optical band gaps</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Filip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Giustino</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ncomms6757</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5757</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Efficient iterative schemes for ab initio totalenergy calculations using a plane-wave basis set</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Furthmüller</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.54.11169</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="11169" to="11186" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevLett.77.3865</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="3865" to="3868" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Projector augmented-wave method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blöchl</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.50.17953</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="17953" to="17979" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Correcting density functional theory for accurate predictions of compound enthalpies of formation: fitted elemental-phase reference energies</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Stevanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zunger</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.85.115104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">115104</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Systematic treatment of displacements, strains, and electric fields in density-functional perturbation theory</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vanderbilt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Hamann</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevB.72.035105</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page">35105</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

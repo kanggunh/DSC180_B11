@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">ACEC0A3C34983E86217F6DB6933A9263</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. S4</head><label>S4</label><figDesc>Fig. S4 Evolution of viscosity of the MAPbBr 3 precursor fluid with increasing concentration.</figDesc><graphic coords="3,41.37,47.39,302.18,231.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,42.18,210.45,323.33,247.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,41.05,468.17,326.74,250.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,72.00,94.49,266.65,226.77" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting information</head><p>Emergence of lead halide perovskite colloidal dispersions through aggregation and fragmentation: Insights from the nanoscale to the mesoscale Shambhavi Pratap, a,b Elisabeth Keller, a and Peter Müller-Buschbaum a,c Electronic Supplementary Material (ESI) for Nanoscale. This journal is © The Royal Society of Chemistry 2019</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>UV-vis measurements</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DLS measurements</head><p>Fig. <ref type="figure">S3</ref> Auto-correlation functions exhibiting the decay times for the different precursors at 1M. MAPbBr 3 exhibits two distinct decays signifying the presence of two structures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parameters</head><p>MAPbBr 3 MAPbI 1.50 Br 1.50 MAPbI 3 DLS scattering intensity 170 kHz 440 kHz 430 kHz Tab. S1 Scattering intensities from DLS from precursors at 1M.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Refractometry measurements</head><p>A Krüss Optronic Abbe refractometer from A.KRÜSS Optronic GmbH (Hamburg, Germany) was used to determine the refractive index of the individual solvents and the solvent mixture 4:1::DMF:DMSO, for obtaining the hydrodynamic radii from the DLS data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Solvent media</head><p>Refractive index DMF 1.4285 @ 20°C DMSO 1.4767 @ 20°C 4:1::DMF:DMSO 1.4385 @ 20°C Tab. S2 Refractive indices of solvent systems</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viscosity measurements</head><p>An 'Automated Micro Viscometer' from Anton Paar GmbH (Graz, Austria) was used to determine the dynamic viscosity at 20°C and an angle of 70°. The viscosity was determined to be 1.02794 mPa @ 20°C. Underneath is also a measurement representing the evolution of viscosity of the precursor fluid (MAPbBr 3 ) with increasing concentration.</p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

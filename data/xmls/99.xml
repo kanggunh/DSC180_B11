@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Zeta Potentials of Magnetite Particles and Alloy 690 Surfaces in Alkaline Solutions</title>
+				<funder ref="#_VNMJXNk">
+					<orgName type="full">government of the Republic of Korea</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+				<funder ref="#_QjDDNec">
+					<orgName type="full">Korea government</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Research Foundation</orgName>
+					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2018-11-02">2 November 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ji-Min</forename><surname>Lee</surname></persName>
+							<idno type="ORCID">0000-0002-8744-9649</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Safety Technology Development Division</orgName>
+								<orgName type="institution">Korea Atomic Energy Research Institute</orgName>
+								<address>
+									<addrLine>Deadeok-Daero Yuseong-gu</addrLine>
+									<postCode>989-111 34057</postCode>
+									<settlement>Daejeon</settlement>
+									<country>Korea;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dong-Seok</forename><surname>Lim</surname></persName>
+							<idno type="ORCID">0000-0002-8744-9649</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Safety Technology Development Division</orgName>
+								<orgName type="institution">Korea Atomic Energy Research Institute</orgName>
+								<address>
+									<addrLine>Deadeok-Daero Yuseong-gu</addrLine>
+									<postCode>989-111 34057</postCode>
+									<settlement>Daejeon</settlement>
+									<country>Korea;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="laboratory">Nuclear Materials Research Division</orgName>
+								<orgName type="institution">Chungnam National University</orgName>
+								<address>
+									<addrLine>99 Daehak-ro Yuseong-gu</addrLine>
+									<postCode>34134</postCode>
+									<settlement>Daejeon</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Soon-Hyeok</forename><surname>Jeon</surname></persName>
+							<idno type="ORCID">0000-0003-0344-9068</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Safety Technology Development Division</orgName>
+								<orgName type="institution">Korea Atomic Energy Research Institute</orgName>
+								<address>
+									<addrLine>Deadeok-Daero Yuseong-gu</addrLine>
+									<postCode>989-111 34057</postCode>
+									<settlement>Daejeon</settlement>
+									<country>Korea;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Do</forename><forename type="middle">Haeng</forename><surname>Hur</surname></persName>
+							<email>dhhur@kaeri.re.kr</email>
+							<idno type="ORCID">0000-0002-1763-6625</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Safety Technology Development Division</orgName>
+								<orgName type="institution">Korea Atomic Energy Research Institute</orgName>
+								<address>
+									<addrLine>Deadeok-Daero Yuseong-gu</addrLine>
+									<postCode>989-111 34057</postCode>
+									<settlement>Daejeon</settlement>
+									<country>Korea;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Geun</forename><forename type="middle">Dong</forename><surname>Song</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Haeng</forename><surname>Hur</surname></persName>
+							<idno type="ORCID">0000-0002-1763-6625</idno>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Korea Atomic Energy Research Institute</orgName>
+								<address>
+									<addrLine>989beon-gil Yuseong-gu</addrLine>
+									<postCode>111 34057</postCode>
+									<settlement>Deadeok-daero Daejeon</settlement>
+									<country>Korea;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Zeta Potentials of Magnetite Particles and Alloy 690 Surfaces in Alkaline Solutions</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-11-02">2 November 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">326235533F9445F507601EBF657137DE</idno>
+					<idno type="DOI">10.3390/ma13183999</idno>
+					<note type="submission">Received: 11 August 2020; Accepted: 8 September 2020; Received: 10 October 2018; Accepted: 26 October 2018;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>zeta potential</term>
+					<term>magnetite</term>
+					<term>Alloy 690</term>
+					<term>steam generator</term>
+					<term>water chemistry</term>
+					<term>pH</term>
+					<term>pH agent</term>
+					<term>NaCl galvanic corrosion</term>
+					<term>steam generator</term>
+					<term>magnetite</term>
+					<term>copper</term>
+					<term>lead</term>
+					<term>electrodeposited film</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Magnetite particles deposited on the secondary side of a steam generator (SG) can degrade the integrity and performance of pressurized water reactors. Therefore, it is necessary to produce the data of fundamental interfacial electrokinetic properties of magnetite particles and SG tube materials. This study investigated the zeta potentials of magnetite nanoparticles and Alloy 690 surfaces, which were dependent on the pH value, pH agent, and the presence of NaCl. The zeta potentials of the magnetite nanoparticles increased in the negative direction as the pH increased, regardless of the pH agent. At the same pH value, the absolute values of the zeta potentials with different pH agents were: ethanolamine &lt; ammonia &lt; morpholine. In the presence of NaCl, the zeta potentials of the particles further increased negatively. The meaning of the measured zeta potentials was discussed in terms of the dispersion stability and the agglomeration of the particles. Based on the relationship between the zeta potentials of the particles and Alloy 690 surfaces, the magnetite deposition on Alloy 690 was also discussed. Furthermore, the empirical formulas for the pH-dependent zeta potentials of magnetite particles in each alkaline solution were suggested.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Corrosion products of carbon steel and other structural materials in pressurized water reactors (PWRs) are released to the secondary water as a result of flow-accelerated corrosion <ref type="bibr">[1,</ref><ref type="bibr">2]</ref>. These corrosion product particles are transported to steam generators (SGs) and attached to SG tubes to form deposits with a porous structure. The majority of these deposits are composed of magnetite <ref type="bibr">[3]</ref>. These magnetite deposits reduce the heat transfer efficiency, hinder the normal water flow, accelerate the corrosion of the SG tube materials owing to the galvanic effect, and even act as a site where aggressive impurities can accumulate <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref>. Therefore, mitigating and inhibiting such magnetite deposition is a key to controlling the chemistry of secondary water for reliable PWR operation.</p><p>To achieve this goal, it is essential to produce fundamental dispersion property data of magnetite particles suspended in secondary water. The degree of dispersion stability of colloidal particles in an aqueous solution can be evaluated by determining the zeta potential, which is the principal electrokinetic property of the particles and governs their agglomeration, dispersion, and deposition on metal surfaces <ref type="bibr">[7,</ref><ref type="bibr">8]</ref>. The degree of zeta potential is typically measured in mV and determines the degree of electrostatic repulsion between adjacent particles. For example, as the zeta potential approaches zero, the particles tend to agglomerate; however, the repulsive force of each particle increases as the zeta potential increases, thereby increasing the dispersion stability in the solution. On the other hand, like particles in suspension, any metal surface in an aqueous environment can acquire a zeta potential. Accordingly, the metal surface can interact with the adjacent charged particles. Recent studies have demonstrated that the number of particles deposited on a metal surface is strongly affected by the difference in the zeta potentials of the particles and metal surfaces <ref type="bibr">[9,</ref><ref type="bibr" target="#b9">10]</ref>. Therefore, comparing the zeta potentials of magnetite particles and SG tube materials could prove useful for studying magnetite deposition behavior in the secondary side of SGs.</p><p>The secondary side of PWRs is managed by a thorough pH control to suppress the corrosion of the structural materials of the secondary system. In general, the pH has been controlled to approximately 9.0-10.0 with ammonia, morpholine, or ethanolamine (ETA), which are the most widely used pH control agents. Although the zeta potential data of magnetite particles in the PWRs are critical, numerous previous studies have only reported the zeta potentials of magnetite particles in alkaline solutions using NaOH or KOH, which are not used in the nuclear industry. In addition, NaCl, which can be introduced to secondary water by condenser in-leakage, can cause stress corrosion cracking or pitting corrosion of SG tubes <ref type="bibr">[11,</ref><ref type="bibr">12]</ref>; therefore, its concentration has been strictly regulated less than 5 ppb for Na and 10 ppb for Cl, based on the water chemistry guideline values during SG operation <ref type="bibr">[13,</ref><ref type="bibr">14]</ref>. However, few studies have been conducted on how NaCl affects the zeta potential of magnetite particles in nuclear water chemistry. Furthermore, a literature survey showed that there have been few studies on the surface zeta potential of SG tube materials in secondary water.</p><p>Thus, in this study, when the pH was controlled with ammonia, morpholine, or ETA, the pH-dependent zeta potentials of magnetite nanoparticles were measured and compared. The effect of the addition of NaCl on the zeta potential of magnetite nanoparticles was also investigated. Accordingly, the meaning of the measured zeta potentials was qualitatively discussed in terms of the dispersion stability and the agglomeration of the particles. Additionally, the surface zeta potentials of Ni-based thermally treated Alloy 690 were measured, which is the primary SG tube material used in PWRs because of its excellent corrosion resistance. Subsequently, the magnetite deposition on Alloy 690 was discussed by comparing the measured zeta potentials of magnetite particles and Alloy 690 surfaces.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Zeta Potential Measurement</head><p>Figure <ref type="figure" target="#fig_0">1</ref> shows a schematic of the zeta potential measurement using a Zetasizer (Nano ZS90) equipped with an automatic pH-titrator (MPT-2) (Malvern Panalytical Ltd., Worcestershire, UK). Initially, we prepared a sample solution by dispersing magnetite nanoparticles in deionized water at a concentration of 25 mg/L. The magnetite nanoparticles were purchased from Sigma-Aldrich Co. (St. Louis, MO, USA), whose size ranged from 4 nm to 6 nm with an average of 5 nm. Additionally, a diluted alkaline solution of ammonia, morpholine, or ETA was prepared. The basic properties of these three pH agents used in this study are presented in Table <ref type="table" target="#tab_0">1</ref>. Subsequently, the alkaline solution was injected into the sample solution using a programmable micrometering pump, and the pH of the sample was titrated in real-time. Afterwards, when the pH reached the target value, the sample was automatically transferred to the zeta potential measurement cell. After the stabilization time, the electric field was applied through an electrode pair mounted on both sides of the cell. The charged magnetite particles were then attracted toward the oppositely charged electrode with a velocity proportional to the field strength and charge. The electrophoretic mobility of the particles was measured by the electrophoretic light scattering (ELS) technique that is known as the most suitable method for determining the zeta potential of particles fine enough to stay suspended in a solution <ref type="bibr">[7]</ref>. The measured mobility was then converted to the zeta potential (ζ) through Henry's equation <ref type="bibr">[15]</ref> expressed as:</p><formula xml:id="formula_0">ζ = ηU E ε r ε 0 f (κa)<label>(1)</label></formula><formula xml:id="formula_1">f (κa) = 2 3              1 + 1 2 1 + 2.5 κa{1+2 exp(-κa)} 3              (2)</formula><p>where η is the viscosity of the solution, U E is the electrophoretic mobility, ε r is the relative permittivity of the solution, ε 0 is the permittivity of vacuum, f (κa) is the Henry's function for a spherical colloidal particle of radius a, and κ is the reciprocal of the Debye length. In this study, κa was assumed to be sufficiently large; therefore, the f (κa) value was set to 1. The refractive index and absorption of the magnetite particles were set to 2.420 and 0.01, respectively. The principle for measuring the zeta potential is presented in detail <ref type="bibr">[16]</ref>. After the measurement was finished, the solution in the cell was automatically transferred back to the sample container. The zeta potential measurements were automatically repeated from the second step by increasing the pH value from 9.0 to 10.0. No acid solution was used during the test. The magnetite nanoparticles remained thermodynamically stable during the zeta potential measurements in this study. Furthermore, to compare the zeta potential of magnetite nanoparticles with and without the addition of NaCl, we prepared an additional sample solution by dispersing the magnetite nanoparticles with an average size of 5 nm in deionized water at a concentration of 25 mg/L. High-purity NaCl (99.99%) was added to the solution at a concentration of 6.6 mg/L. The pH of the solution was automatically titrated from 9.0 to 10.0 with diluted ETA. The test procedure was the same as that described above, and all observations were carried out at 25 • C. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Surface Zeta Potential Measurement</head><p>Particles in the suspension become charged and move under electrophoresis upon application of the electric field. Using these suspended particles as tracers, the surface zeta potential of metal can be estimated by measuring the electrophoretic mobility of the particles located at multiple distances from the metal surface.</p><p>Figure <ref type="figure" target="#fig_1">2</ref> shows a schematic of the surface zeta potential measurement kit. Initially, we prepared rectangular samples of Alloy 690, which were not larger than 5 mm (length) × 4 mm (width) × 1 mm (thickness). To minimize the effect of surface conditions on the zeta potential <ref type="bibr" target="#b9">[10]</ref>, the sample surfaces were carefully ground to obtain a similar roughness. The sample was then attached to a sample holder and immersed in a solution in a cuvette, as shown in Figure <ref type="figure" target="#fig_1">2</ref>. The solution was the same as that used to measure the zeta potential of magnetite nanoparticles as described in Section 2.1, and the pH was either 9.0 or 10.0. When an electric field is applied through a pair of Pd electrodes, the electrophoresis of tracer particles begins. We measured the apparent tracer electrophoretic mobility at four different distances from the sample surface by rotating a screw for adjusting the sample height. The surface zeta potential of Alloy 690 was then derived by the linear extrapolation method. All data were obtained at 25 • C; additional details have been described elsewhere <ref type="bibr">[17]</ref>. Furthermore, surface zeta potential measurements using Alloy 690 were conducted to compare the results obtained with and without the addition of NaCl. The concentrations of magnetite particles and NaCl in the solution were the same as those of the solution used to measure the zeta potential, as described in Section 2.1. The pH was maintained at 9.5, with diluted ETA. The test procedure was the same as that mentioned above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Effect of pH Control Agents</head><p>Figure <ref type="figure" target="#fig_2">3</ref> shows the zeta potentials of magnetite nanoparticles as a function of pH value that is controlled with the addition of ETA, ammonia, or morpholine at 25 • C. According to previous studies, the zeta potential is dependent on the solution pH, and the relationship between zeta potential and pH is empirically expressed as <ref type="bibr">[18,</ref><ref type="bibr">19]</ref>:</p><formula xml:id="formula_2">ζ = k(IEP -pH) (<label>3</label></formula><formula xml:id="formula_3">)</formula><p>where k is a constant, and IEP is the isoelectric point, i.e., the pH value at which the zeta potential is equal to zero. In general, the zeta potential decreases as the pH increases. A decrease in the negative zeta potential to a more negative value implies greater repulsion to a negatively charged surface or particle <ref type="bibr">[19]</ref>. The solid lines in Figure <ref type="figure" target="#fig_2">3</ref> show the linear regression fits of the measured zeta potentials in the solution of each pH agent based on Equation (3). The pH-dependent zeta potentials of magnetite nanoparticles at 25 • C can be expressed by the following empirical equations:</p><formula xml:id="formula_4">ζ E = -9.0 × pH + 57.5 (R 2 = 0.81) ζ A = -10.2 × pH + 61.9 (R 2 = 0.81) ζ M = -12.3 × pH + 77.8 (R 2 = 0.93)<label>(4)</label></formula><p>where ζ E , ζ A , and ζ M are for the solutions of ETA, ammonia, and morpholine, respectively. These equations are valid at pH values ranging from 9.0 to 10.0. In the future, if these equations are further upgraded by reflecting the effects of variables such as temperature, particle size, and shape, it is expected to be used in various ways as basic interfacial properties of magnetite particles suspended in secondary water. As shown in Figure <ref type="figure" target="#fig_2">3</ref>, the magnetite nanoparticles were negatively charged under all conditions. Regardless of the pH agent, when the pH value increased from 9.0 to 10.0, the zeta potentials of the particles increased in the negative direction, which seems because the activity of hydroxyl groups (OH -) increases with increasing pH value. This result implies that as the pH increases, the repulsive force between the particles increases, leading to an increase in dispersion stability and a decrease in the agglomeration. In addition, the zeta potential of the particles varied depending on the pH agent. At the same pH value, the absolute value of the zeta potential was the lowest when using ETA and the highest when using morpholine. According to a previous investigation <ref type="bibr">[20]</ref>, the electrical conductance of the magnetite column in the solutions increased in the order: ETA &lt; ammonia &lt; morpholine. This result implies that electrical properties of the particles vary depending on which solutions the particles are dispersed in; therefore, it is thought that the zeta potential of the particles appears to be high in the morpholine solution because the electrical conductance of the particles increases. Unfortunately, exactly what mechanism causes the zeta potential to be different depending on pH agent was not found in the literature. In fact, there are few studies comparable to our results with the exception of one previous investigation by Essi et al. <ref type="bibr" target="#b20">[21]</ref>. They reported that the zeta potentials of magnetite were approximately -16 mV, -25 mV, and -36 mV when the pH was controlled at 9.2 with ETA, ammonia, and morpholine, respectively <ref type="bibr" target="#b20">[21]</ref>. According to our results using Equation (4), the zeta potentials were calculated to be -25.3 mV, -32.0 mV, and -35.4 mV when the pH was 9.2 for the solutions of ETA, ammonia, and morpholine, respectively. The results for morpholine were almost similar, but the results for ETA and ammonia were evaluated to be greater in absolute values than those in the literature <ref type="bibr" target="#b20">[21]</ref>. These differences may be caused by that the zeta potentials were measured by the streaming potential technique with a magnetite column made of 500 nm-sized magnetite powders in the previous study, whereas the zeta potentials were measured by the ELS technique with 5 nm-sized magnetite nanoparticles dispersed in the solutions in this study. On the other hand, based on the zeta potential results in this study, it is expected that the size of the magnetite particles should be the largest in the case of ETA, followed by ammonia and morpholine. This is because the lower the absolute value of zeta potential, the greater the tendency of particles to agglomerate. Figure <ref type="figure" target="#fig_3">4</ref> shows the relationship between the zeta potentials of magnetite nanoparticles and Alloy 690 surfaces at pH values of 9.0 and 10.0, depending on the pH agent, at 25 • C. For all cases, the magnetite nanoparticles and Alloy 690 surfaces were negatively charged, thereby indicating that a repulsive force exists between them. As shown in Figure <ref type="figure" target="#fig_3">4</ref>, the differences in the zeta potentials between the magnetite nanoparticles and Alloy 690 surfaces (∆ZP) could be calculated. When the pH increased from 9.0 to 10.0, ∆ZP increased regardless of the pH agent. Furthermore, ∆ZP indicates the electrostatic repulsive force between the particles and Alloy 690 surfaces; hence, the greater the ∆ZP, the more is the energy required to attach the particles to the surfaces. Accordingly, it is expected that the amount of magnetite deposition on the Alloy 690 surfaces will decrease as the pH increases from 9.0 to 10.0, regardless of the pH agent. In addition, at the same pH value, ∆ZP was the smallest in the ETA solution and the largest in the ammonia solution. Consequently, it is expected that the number of magnetite deposits will be the highest in ETA and the lowest in ammonia solution. However, the deposition behavior on the hot surface of operating SG tubes may not be fully explained by our results because the zeta potentials in this study were all measured at 25 • C. Nevertheless, considerable recent efforts have been made to improve this approach for a reliable description of the deposition behavior, along with the zeta potential measurement <ref type="bibr">[9,</ref><ref type="bibr" target="#b9">10]</ref>.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Effect of NaCl Addition</head><p>Figure <ref type="figure" target="#fig_4">5</ref> shows the effect of the addition of NaCl on the zeta potential of magnetite nanoparticles in solutions with pH values adjusted with ETA at 25 • C. As shown in the figure, even when NaCl was added, the magnetite particles were negatively charged, and the zeta potential increased further in the negative direction. Moreover, the zeta potential of the magnetite nanoparticles increased negatively as the pH increased from 9.0 to 10.0. Accordingly, the addition of NaCl increases the repulsive forces between the colloidal magnetite particles, thereby increasing the dispersion stability. Therefore, it is also expected that the agglomeration of the particles will be suppressed, which is also supported by the previous experimental results where the size of synthesized magnetite nanoparticles was found to decrease with increasing NaCl concentration <ref type="bibr" target="#b21">[22]</ref>. Figure <ref type="figure" target="#fig_5">6</ref> shows the relationship between the zeta potential of magnetite nanoparticles and the Alloy 690 surfaces at a pH of 9.5 controlled with ETA at 25 • C. The particles and surfaces were all negatively charged and the zeta potentials increased in the negative direction with the addition of NaCl. As shown in the figure, ∆ZP was calculated to be 5.1 mV and 15.9 mV without and with NaCl addition, respectively. These results indicate that the repulsive force between the particles and Alloy 690 surfaces increases with the addition of NaCl. Therefore, it is predicted that the deposition of magnetite particles on Alloy 690 surfaces requires more energy, leading to a decrease in the number of magnetite deposits owing to the presence of NaCl. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>The zeta potentials of magnetite nanoparticles and Alloy 690 surfaces were measured at 25 • C. Based on the experimental results, the following conclusions were drawn:</p><p>1.</p><p>The empirical formulas for the zeta potentials of magnetite nanoparticles derived in the pH range from 9.0 to 10.0 at 25 The zeta potentials of the magnetite nanoparticles increased in the negative direction as the pH increased from 9.0 to 10.0, regardless of the pH agent. This result indicates that as the pH increases, the repulsive force between the particles increases, thereby leading to an increase in the dispersion stability. At the same pH value, the absolute value of the zeta potential increased in the order: ETA &lt; ammonia &lt; morpholine, meaning that the dispersion stability of the particles also increases in the same order.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>The difference in the zeta potentials between the magnetite nanoparticles and Alloy 690 surfaces increased with increasing pH from 9.0 to 10.0, regardless of the pH agent. At the same pH value, the difference was the largest in ammonia. From these results, it is expected that the amount of magnetite deposited on the Alloy 690 surfaces will decrease as the pH increases from 9.0 to 10.0, and will be the smallest in the ammonia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4.</head><p>The zeta potentials of magnetite nanoparticles increased in the negative direction by the addition of NaCl. In addition, the difference in the zeta potentials between the magnetite nanoparticles and Alloy 690 surfaces increased by approximately three times by the addition of NaCl. These results suggest that NaCl plays a role in increasing the repulsive force between the particles and Alloy 690 surfaces.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>In nuclear power plants, Fe ions were released from the surface of carbon steel piping and were combined with dissolved oxygen to form a magnetite in a secondary coolant system of the pressurized water reactors (PWRs). The magnetite particles are transported into the steam generators (SGs) from the carbon steel piping and deposited on the surface of SG heat exchanger tubes, top of tube sheet, and tube support structures <ref type="bibr">[1]</ref>. The magnetite adhering to the SG structures causes an acceleration of the corrosion of the various SG materials <ref type="bibr">[2,</ref><ref type="bibr">3]</ref>.</p><p>Recently, many investigations on the galvanic effect by magnetite on the corrosion behavior of secondary coolant system materials such as nickel-based alloys <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref> and carbon steel <ref type="bibr">[7]</ref><ref type="bibr">[8]</ref><ref type="bibr">[9]</ref> have been reported. It is well known that the SG deposits mainly consist of magnetite and are porous in nature <ref type="bibr" target="#b9">[10,</ref><ref type="bibr">11]</ref>. Unlike hematite, magnetite has a high electrical conductivity of 0.025 µs/cm at room temperature <ref type="bibr">[12]</ref>. Hence, an electric contact between SG structural materials and magnetite deposits could be occurred. In various secondary environments, it was reported that the corrosion potential of magnetite was higher than those of secondary system materials and the corrosion rate of the SG materials was greatly increased due to the shift in their potentials to the anodic direction <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref><ref type="bibr">[9]</ref>. Through the galvanic effect of magnetite on the SG materials, the mechanism on the galvanic corrosion of the secondary system materials coupled to magnetite is well established.</p><p>Although the magnetite mainly composed of SG tube deposits, metallic Cu and Pb particles were also constituted the SG tube deposits in secondary coolant systems <ref type="bibr">[13,</ref><ref type="bibr">14]</ref>. In particular, Cu and Pb particles were concentrated within the micro-pores the SG deposits due to the boiling behavior. Consequently, the surface of SG materials is in electrical contact with the metallic Cu and Pb particles and thus would affect in the corrosion behavior of SG materials. Therefore, a need exists to know about the galvanic corrosion behavior between SG materials and corrosion products such as metallic Cu and Pb in secondary water of PWRs. However, there are few studies for the effect of Cu and Pb on the galvanic corrosion of SG materials in the simulated secondary water of PWRs. In addition, there is no research comparing the degree of galvanic effect by the various corrosion products (magnetite, Cu, and Pb) constituting SG deposits.</p><p>To characterize the SG deposits in nuclear power plants, many researches have been performed. The Electric Power Research Institute (EPRI) technical report issued in 1996 showed an overview of the nature and characteristics of SG deposits <ref type="bibr">[13]</ref>. Recently, Diego and Merino <ref type="bibr">[15]</ref> presented the microstructural characterization of SG deposits and studied the effect of different mitigation methods, in order to avoid the formation of hard SG deposit. Some researchers investigated the effect of the porosity and thickness of SG tube deposit on the thermal conductivity <ref type="bibr">[16]</ref>. However, they could not show the microstructure and porosity of the cross-section of SG deposits because the fracture surfaces of SG deposits were too rough. In particular, the investigation on the impurity concentration within the micro-pores formed on the SG deposits has not been conducted.</p><p>In this study, the micro-galvanic corrosion behavior of SG materials (SG heat exchanger tube materials: Alloy 600 and Alloy 690, SG tube sheet materials: SA508 Gr.3) in pores formed on the magnetite flakes was investigated in an alkaline solution. The magnetite flake samples taken from an operating SG of PWR were analyzed to identify the various corrosion products accumulated in the pores of the flakes. In addition, we analyzed the impurity concentration within the micro-pores of SG deposit and thermodynamically calculated the stable phases of impurities such as Cu and Pb. To simulate the real magnetite accumulated on the surface of SG materials, the magnetite films were electrodeposited on the surface of Alloy 690 substrate from a Fe(III)-TEA electrolyte using potentiostatic technique. Then, the electrochemical corrosion parameters of SG materials and the corrosion products (magnetite, Cu, and Pb) were measured in the alkaline solution through the various electrochemical corrosion techniques.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Materials</head><p>SG structural materials (SG heat exchanger tube materials: Alloy 600 and Alloy 690, SG tube sheet materials: SA508 Gr.3) and corrosion products (purity 99.99% Cu and Pb plates) were cut into a size of 10 mm × 5 mm × 1 mm for electrochemical corrosion tests. The specimens were ground using silicon carbide papers down to #1000. The chemical composition of the various SG materials is given in Table <ref type="table" target="#tab_0">1</ref>. Magnetite flake samples were collected from the outer surface of SG tubes of the operating PWR after Cycle 27 during sludge lancing. The SG model is a Westinghouse model-F and the material of SG heat exchanger tubes is thermally treated Alloy 600. The samples taken from the sludge lancing were dried in an inert atmosphere at approximately 80 • C for 12 h. In Electric Power Research Institute (EPRI) report <ref type="bibr">[17]</ref>, it is recommended that temperatures over 100 • C should be avoided during the drying to prevent the decomposition of any resin fines or beads in the sample. It is generally not advisable to SG deposit samples in air due to the potential for conversion of typical deposit species (e.g., magnetite, metallic copper, etc.) to more oxidized phases (e.g., hematite, copper oxide, etc.), which are not representative of species predicted in a steam generator of PWR <ref type="bibr">[17]</ref>. After the drying, the samples were separated into different deposit types such as tube scale, powder sludge, and hard top of the tube-sheet sludge. Separated samples were stored in an vacuum desiccator. The elemental composition of the magnetite flakes was analyzed by induced coupled plasma atomic emission spectroscopy (ICP-AES) using a Thermo Scientific iCAP 7000 (Thermo Scientific, Cambridge, UK) series for quantitative analysis. Calibration was conducted with external standards. Standard solutions were produced by diluting a 1000 mg/L single-element solution (Plasma CAL, SCP Science, Baie D'Urfè, QC, Canada). The samples were dissolved in 20 mL aqua regia (5 mL concentrated nitric acid + 15 mL concentrated hydrochloric acid).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Electrodeposition of the Mmagnetite Film</head><p>In this work, the magnetite flakes collected from the operating PWR are not suitable for conducting the electrochemical experiments because the flake samples are too brittle to fabricate the electrochemical specimens. Hence, to evaluate the electrochemical corrosion behavior of magnetite itself, it is necessary to make a rigid and dense magnetite electrode. Therefore, a thick magnetite layer was electrochemically deposited on the substrate. An electrodeposition solution was mixed with 2 M NaOH, 0.1 M triethanolamine (TEA) and 0.043 M Fe 2 (SO 4 ) 3 . The electrodeposition of magnetite film was performed using a PAR273 potentiostat (Ametek, Berwyn, PA, USA) with the Power suite software (version 2.58, Ametek, Berwyn, PA, USA) and a three-electrode cell system. A saturated calomel electrode (SCE) was used as a reference electrode and a platinum wire was used as a counter electrode. Magnetite films were electrodeposited on the Alloy 690 substrate at an applied potential of -1.05 V SCE at 80 • C for 2 h. After electrodeposition, the magnetite electrodes were carefully rinsed with deionized water and dried in an oven at 60 • C for 10 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Microstructural Analysis</head><p>The SG deposit flakes were ion-milled by a focus ion beam (FIB) to observe the cross-section of the flakes. The corrosion products constituting the SG deposit flakes and chemical impurities within the pores of flakes were analyzed by a scanning electron microscopy (SEM) equipped with an energy-dispersive X-ray spectrometer (EDS) analysis. The phase distribution map and preferred orientation of the flakes were also analyzed by a SEM combined with electron back-scatter diffraction (EBSD) analyzer.</p><p>To verify that a pure magnetite film was produced, the microstructure of electrodeposited magnetite films were analyzed by high resolution X-ray diffraction (HR-XRD) using a Rigaku SmartLab (Rigaku, Tokyo, Japan) apparatus with Cu-Ka radiation. The morphology of the electrodeposited magnetite films was analyzed to examine that the Alloy 690 substrate was exposed to the solution before and after the electrochemical tests using a SEM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Electrochemical Tests</head><p>Two different electrochemical techniques were used to study galvanic corrosion of SG materials in simulated secondary water of PWRs: potentiodynamic polarization test and polarization resistance measurement. The potentiodynamic polarization tests were carried out using a PAR273 potentiostat (EG&amp;G) with Power suite software. The potentiodynamic polarization test was conducted in deaerated aqueous solution at 80 • C. The pH of the test solution was adjusted to be 9.0 at 25 • C with ethanolamine (ETA), which is used as a major organic reagent to control the pH of secondary water in PWRs. Test solutions were deaerated by continuously purging with high-purity (99.98%) nitrogen gas at a rate of 100 cc/min during the tests. This test environment was chosen to simulate a secondary water chemistry of PWRs. An SCE and a platinum wire were used as a reference electrode and counter electrode, respectively. After the open circuit potential (OCP) was stabilized, polarization scans for Metals 2018, 8, 899 4 of 14 SG materials and corrosion products started from 10 mV below the OCP to the anodic direction or from 10 mV above the OCP to the cathodic direction. The scan rate of the test was 1 mV/s. Each anodic and cathodic polarization curve was finally combined in one graph.</p><p>The corrosion rates of SG materials were estimated by means of the Tafel extrapolation of the cathodic and anodic curve between 50 and 100 mV away from the corrosion potential (E corr ). The galvanic potential (E couple ) and the galvanic current density (i couple ) of the galvanic couple were obtained from the potentiodynamic polarization curves based on the mixed potential theory.</p><p>If the E couple is closed to the E corr of the materials acting as an anode, i couple will be slightly different from the measured anodic current density of the anode because the measured anodic current density is greatly influenced by the cathodic current density in this region. In other words, the measured anodic current density during the polarization scan is different from the actual anodic current density in potential range close to the corrosion potential (weak polarization region) as seen in Equation ( <ref type="formula" target="#formula_0">1</ref>) below.</p><formula xml:id="formula_5">i a = i measured a + i c<label>(1)</label></formula><p>where i measured a is the anodic current density measured by using the potentiostat. i a and i c are the current density for real anodic and cathodic reaction, respectively.</p><p>To more accurately obtain the E couple and the i couple of the SG materials coupled to the corrosion products, the measured anodic polarization curve were estimated by using Equation ( <ref type="formula" target="#formula_0">1</ref>) and ( <ref type="formula" target="#formula_6">2</ref>). Here, i c can be obtained from the following Equation (2):</p><formula xml:id="formula_6">η c = β c log i c i corr<label>(2)</label></formula><p>where η c is the overpotential (∆E) and i corr is the corrosion current density obtained from potentiodynamic curve. β c is Tafel constant for cathodic reaction. From the cathodic polarization curve, β c of Alloy 600, Alloy 690, and SA508 could be derived as -0.135, -0.130, and -0.183 V/decade, respectively. By using Equations ( <ref type="formula" target="#formula_0">1</ref>) and ( <ref type="formula" target="#formula_6">2</ref>), real anodic current density i a were obtained and thus, more accurate the i couple of the SG materials at E couple could be estimated. In galvanic couple, the E couple and the i couple are determined by the intersection of the re-calculated anodic curve of SG materials and the measured cathodic curve of corrosion products, according to the mixed potential theory.</p><p>In addition, polarization resistance of the SG materials was derived from the slope of current against potential in the stepped-up polarization from E corr -10 mV to E corr + 10 mV at a scan rate of 0.2 mV/s. All electrochemical tests were conducted at least three times on separate specimens to verify reproducibility. Good reproducibility was confirmed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Characterization of the SG Tube Deposit Flakes Collected From the SG</head><p>The elemental composition of the SG flake samples obtained using ICP-AES (Thermo Scientific, Cambridge, UK) is given in Table <ref type="table" target="#tab_4">2</ref>. The values were measured except for O. As determined by ICP-AES, the main element in the samples was Fe. Trace elements such as Mn, Ni, Cu, Ti, Al, Cr, Si, Mg, and Ca were also observed. Figure <ref type="figure" target="#fig_0">1</ref> shows the SEM micrographs of the SG flakes. As shown in Figure <ref type="figure" target="#fig_7">1a</ref>, the flake sample showed a curvature compatible with the outer surface of the SG tube. The concave side of the flake was originally in contact with the outer surface of SG tubes (tube side). On the other hand, the convex side Metals 2018, 8, 899 5 of 14 of the flake exposed to the high-temperature secondary water of the SG (high-temperature water side). The cross-sectional images of the SG flake showed that the thickness was about 120~130 µm (Figure <ref type="figure" target="#fig_7">1b</ref>). A large number of the pores were observed throughout the flake sample. The number of pores and pore size increased from the tube side to the water side. These results may be closely related to the boiling behavior such as bubble growth and boiling chimney <ref type="bibr">[13,</ref><ref type="bibr">14]</ref>. Based on the observation of many numbers of micro-pores, it is concluded that the high-temperature water could be exposed to the surface of SG tubes through the pores and caused the various corrosion phenomena such as pitting corrosion and stress corrosion cracking. Figure <ref type="figure" target="#fig_1">2</ref> shows the EBSD data on the tube side of the SG flakes. As shown in Figure <ref type="figure" target="#fig_11">2a</ref>, the analyzed region is containing of the number of the micro-pores. A first map based on the image quality pattern (IQ) data reveals a contrast related to local variations of surface quality, crystallinity, and orientation (Figure <ref type="figure" target="#fig_11">2b</ref>). In the 001 inverse pole figure (IPF) orientation map (Figure <ref type="figure" target="#fig_11">2c</ref>), a random orientation was observed (predominant orientation color did not appear). Figure <ref type="figure" target="#fig_11">2d</ref> shows the phase distribution map. Four phases such as magnetite (Fe3O4), trevorite (Ni2FeO4), jacobsite (Mn2FeO4), Cu, and zero solutions (black regions) were observed and randomly distributed in all the analyzed regions. The detailed phase fractions of the flakes are presented in Table <ref type="table" target="#tab_5">3</ref>. These results indicated that the flake samples were mainly composed of magnetite and contained only small amounts of trevorite, jacobsite, and metallic Cu particle. In these EBSD results, the micro-pores could be represented to the zero solutions (black regions). In general, zero solutions are points in the scan for which no indexing solution could be found for the corresponding pattern <ref type="bibr">[18]</ref>. From the EBSD results in this work, it could be confirmed that not only Cu particles were precipitated on the tube surface but also the particles were precipitated on the inside of pores. Figure <ref type="figure" target="#fig_1">2</ref> shows the EBSD data on the tube side of the SG flakes. As shown in Figure <ref type="figure" target="#fig_11">2a</ref>, the analyzed region is containing of the number of the micro-pores. A first map based on the image quality pattern (IQ) data reveals a contrast related to local variations of surface quality, crystallinity, and orientation (Figure <ref type="figure" target="#fig_11">2b</ref>). In the 001 inverse pole figure (IPF) orientation map (Figure <ref type="figure" target="#fig_11">2c</ref>), a random orientation was observed (predominant orientation color did not appear). Figure <ref type="figure" target="#fig_11">2d</ref> shows the phase distribution map. Four phases such as magnetite (Fe 3 O 4 ), trevorite (Ni 2 FeO 4 ), jacobsite (Mn 2 FeO 4 ), Cu, and zero solutions (black regions) were observed and randomly distributed in all the analyzed regions. The detailed phase fractions of the flakes are presented in Table <ref type="table" target="#tab_5">3</ref>. These results indicated that the flake samples were mainly composed of magnetite and contained only small amounts of trevorite, jacobsite, and metallic Cu particle. In these EBSD results, the micro-pores could be represented to the zero solutions (black regions). In general, zero solutions are points in the scan for which no indexing solution could be found for the corresponding pattern <ref type="bibr">[18]</ref>. From the EBSD results in this work, it could be confirmed that not only Cu particles were precipitated on the tube surface but also the particles were precipitated on the inside of pores. that the samples were mainly composed of magnetite and contained only small amounts of trevorite, jacobsite, and metallic Cu particle. In these EBSD results, the micro-pores could be represented to the zero solutions (black regions). In general, zero solutions are points in the scan for which no indexing solution could be found for the corresponding pattern <ref type="bibr">[18]</ref>. From the EBSD results in this work, it could be confirmed that not only Cu particles were precipitated on the tube surface but also the particles were precipitated on the inside of pores.  Figure <ref type="figure" target="#fig_2">3</ref> presents the SEM-EDS analysis of the impurities within the micro-pores on the tube side of the SG flakes. It is well known that the impurities were predominantly concentrated within the pores due to the boiling behavior. The quantitative EDS mapping results are given in Table <ref type="table" target="#tab_7">4</ref>. Some impurities such as Cu, Pb, P, S, and Cl were detected within the micro-pores of the deposits. In particular, it could be seen that Cu and Pb concentrations was high.   Figure <ref type="figure" target="#fig_2">3</ref> presents the SEM-EDS analysis of the impurities within the micro-pores on the tube side of the SG flakes. It is well known that the impurities were predominantly concentrated within the pores due to the boiling behavior. The quantitative EDS mapping results are given in Table <ref type="table" target="#tab_7">4</ref>. Some impurities such as Cu, Pb, P, S, and Cl were detected within the micro-pores of the deposits. In particular, it could be seen that Cu and Pb concentrations was high.    The pH of the secondary water of SG (pH adjusting agent: ETA, temperature: 280 • C, pH 9.5 at 25 • C) is about 6.14, which was calculated using the MULTEQ code, which was developed by the Electric Plant Research Institute (EPRI). In the secondary system, the preferred ionic form of Cu is Cu(OH) + and Pb is Pb(OH) + <ref type="bibr">[13]</ref>. Under the secondary water condition, Cu(OH) + and Pb(OH) + can further react to form Cu(OH) 2 and Pb(OH) 2 <ref type="bibr">[13]</ref>. These soluble Cu and Pb species within the micro-pore of magnetite flake could be electrochemically reduced on the outer surface of SG materials through the following reactions ( <ref type="formula" target="#formula_2">3</ref>) and (4).</p><formula xml:id="formula_7">Cu(OH) 2 (aq.) + 2H + + 2e → Cu (s) + 2H 2 O (3) Pb(OH) 2 (aq.) + 2H + + 2e → Pb (s) + 2H 2 O<label>(4)</label></formula><p>The thermodynamic calculation using the HSC Chemistry 6 software <ref type="bibr">[19]</ref> gives ∆G 280 • C = -75.1 kJ/mol for reaction <ref type="bibr">(1)</ref> and ∆G 280 • C = -67.2 kJ/mol for reaction <ref type="bibr">(2)</ref>. Based on the results, it is concluded that the formation reactions of metallic Cu and Pb are thermodynamically spontaneous in the secondary system of SG. Therefore, Cu and Pb are expected to exist in a metallic form in the micro-pores of the magnetite flakes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Microstructural Analysis of the Electrodeposited Magnetite Films</head><p>Figure <ref type="figure" target="#fig_3">4</ref> presents the HR-XRD patterns of the electrodeposited magnetite film on Alloy 690 substrate. The electrodeposited magnetite film shows the highly crystalline, and the position and relative intensity of the diffraction peaks of the film sample matched well with the standard XRD data for magnetite (PDF No. 01-080-6406). The peaks of any other phases were no observed in HR-XRD patterns, indicating the high purity of the magnetite products. </p><p>The thermodynamic calculation using the HSC Chemistry 6 software <ref type="bibr">[19]</ref> gives ∆G280 °C = -75.1 kJ/mol for reaction <ref type="bibr">(1)</ref> and ∆G280 °C = -67.2 kJ/mol for reaction <ref type="bibr">(2)</ref>. Based on the results, it is concluded that the formation reactions of metallic Cu and Pb are thermodynamically spontaneous in the secondary system of SG. Therefore, Cu and Pb are expected to exist in a metallic form in the micro-pores of the magnetite flakes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Microstructural Analysis of the Electrodeposited Magnetite Films</head><p>Figure <ref type="figure" target="#fig_3">4</ref> presents the HR-XRD patterns of the electrodeposited magnetite film on Alloy 690 substrate. The electrodeposited magnetite film shows the highly crystalline, and the position and relative intensity of the diffraction peaks of the film sample matched well with the standard XRD data for magnetite (PDF No. 01-080-6406). The peaks of any other phases were no observed in HR-XRD patterns, indicating the high purity of the magnetite products. Figure <ref type="figure" target="#fig_4">5</ref> shows SEM micrographs of the surface and cross section of electrodeposited magnetite films on Alloy 690 substrate before and after the potentiodynamic polarization tests. As shown in Figure <ref type="figure" target="#fig_19">5a</ref>, the magnetite films had highly faceted particle morphologies before the electrochemical test. The diameters of the magnetite particles were in range of about 2~4 μm. The thickness of the magnetite films was approximately 6 μm (Figure <ref type="figure" target="#fig_19">5b</ref>). After the electrochemical test, the magnetite films seemed to be slightly dissolved. However, it still had the highly faceted morphologies (Figure <ref type="figure" target="#fig_19">5c</ref>). The thickness of the dissolved magnetite films was approximately 5 μm (Figure <ref type="figure" target="#fig_19">5d</ref>). Before and after the conducting the electrochemical test, the magnetite films were all very compact and adherent to the Alloy 690 substrate. In addition, no defects such as holes, gaps, or cracks could be observed at Figure <ref type="figure" target="#fig_4">5</ref> shows SEM micrographs of the surface and cross section of electrodeposited magnetite films on Alloy 690 substrate before and after the potentiodynamic polarization tests. As shown in Figure <ref type="figure" target="#fig_19">5a</ref>, the magnetite films had highly faceted particle morphologies before the electrochemical test. The diameters of the magnetite particles were in range of about 2~4 µm. The thickness of the magnetite films was approximately 6 µm (Figure <ref type="figure" target="#fig_19">5b</ref>). After the electrochemical test, the magnetite seemed to be slightly dissolved. However, it still had the highly faceted morphologies (Figure <ref type="figure" target="#fig_19">5c</ref>). The thickness of the dissolved magnetite films was approximately 5 µm (Figure <ref type="figure" target="#fig_19">5d</ref>). Before and after the conducting the electrochemical test, the magnetite films were all very compact and adherent to the Alloy 690 substrate. In addition, no defects such as holes, gaps, or cracks could be observed at the interface between the magnetite layers and the Alloy 690 substrate, which confirms that the magnetite films were tightly bonded to the Alloy 690 substrate after performing the electrochemical test. Consequently, these results indicate that the electrodeposited magnetite film electrode is very effective and proper to measure the electrochemical corrosion behavior of magnetite itself and its effect on the galvanic corrosion behavior of SG materials, without the exposure of the Alloy 690 substrate to the test solutions. Figure <ref type="figure" target="#fig_4">5</ref> shows SEM micrographs of the surface and cross section of electrodeposited magnetite films on Alloy 690 substrate before and after the potentiodynamic polarization tests. As shown in Figure <ref type="figure" target="#fig_19">5a</ref>, the magnetite films had highly faceted particle morphologies before the electrochemical test. The diameters of the magnetite particles were in range of about 2~4 μm. The thickness of the magnetite films was approximately 6 μm (Figure <ref type="figure" target="#fig_19">5b</ref>). After the electrochemical test, the magnetite films seemed to be slightly dissolved. However, it still had the highly faceted morphologies (Figure <ref type="figure" target="#fig_19">5c</ref>). The thickness of the dissolved magnetite films was approximately 5 μm (Figure <ref type="figure" target="#fig_19">5d</ref>). Before and after the conducting the electrochemical test, the magnetite films were all very compact and adherent to the Alloy 690 substrate. In addition, no defects such as holes, gaps, or cracks could be observed at the interface between the magnetite layers and the Alloy 690 substrate, which confirms that the magnetite films were tightly bonded to the Alloy 690 substrate after performing the electrochemical test. Consequently, these results indicate that the electrodeposited magnetite film electrode is very effective and proper to measure the electrochemical corrosion behavior of magnetite itself and its effect on the galvanic corrosion behavior of SG materials, without the exposure of the Alloy 690 substrate to the test solutions. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Electrochemical Corrosion Behavior of the SG Materials</head><p>To elucidate the electrochemical corrosion behavior between the SG materials (Alloy 690, Alloy 600, and SA 508 Gr.3) and corrosion products (magnetite, Cu, and Pb) existed in the SG deposit flakes, the Ecorr of the SG materials and the corrosion products was measured by using potentiostat. Figure <ref type="figure" target="#fig_5">6</ref> presents the Ecorr of the SG materials and the corrosion products in the alkaline solution at 80 °C as a function of time. The Ecorr of the test materials is ranked in the following order: Cu &gt; magnetite &gt; Pb &gt; Alloy 600 &gt; Alloy 690 &gt; SA 508 Gr.3. Compare with the Ecorr of the SG materials, the Ecorr of the all corrosion products was higher than that of SG materials.</p><p>To cause the galvanic corrosion between the two or more dissimilar materials, a potential difference (usually &gt; 50 mV <ref type="bibr">[20]</ref>) has to exist between the different materials. The potential difference between the Pb (the corrosion product with the lowest potential among the three corrosion products) and Alloy 600 (the highest potential materials among the three SG materials) exceeds about 60 mV. Accordingly, when the corrosion products and SG materials are electrically contacted and exposed the same electrolyte, all corrosion products will behave as the cathode of the galvanic couple, while all SG materials will be acted as the anode and is expected to undergo excessive corrosion. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Electrochemical Corrosion Behavior of the SG Materials</head><p>To elucidate the electrochemical corrosion behavior between the SG materials (Alloy 690, Alloy 600, and SA 508 Gr.3) and corrosion products (magnetite, Cu, and Pb) existed in the SG deposit flakes, the E corr of the SG materials and the corrosion products was measured by using potentiostat. Figure <ref type="figure" target="#fig_5">6</ref> presents the E corr of the SG materials and the corrosion products in the alkaline solution at 80 • C as a function of time. The E corr of the test materials is ranked in the following order: Cu &gt; magnetite &gt; Pb &gt; Alloy 600 &gt; Alloy 690 &gt; SA 508 Gr.3. Compare with the E corr of the SG materials, the E corr of the all corrosion products was higher than that of SG materials.</p><p>difference (usually &gt; 50 mV <ref type="bibr">[20]</ref>) has to exist between the different materials. The potential difference between the Pb (the corrosion product the lowest potential among the three corrosion products) and Alloy 600 (the highest potential materials among the three SG materials) exceeds about 60 mV. Accordingly, when the corrosion products and SG materials are electrically contacted and exposed the same electrolyte, all corrosion products will behave as the cathode of the galvanic couple, while all SG materials will be acted as the anode and is expected to undergo excessive corrosion. Figure <ref type="figure" target="#fig_22">7</ref> shows the potentiodynamic polarization curves of the SG materials and the corrosion products. The icorr of SG materials and the corrosion products were calculated by cathodic Tafel extrapolation of polarization curved in Figure <ref type="figure" target="#fig_10">8</ref>. The icorr of the test materials is ranked in the following order: Cu (0.36 μA/cm 2 ) &gt; Alloy 690 (1.05 μA/cm 2 ) &gt; magnetite (1.24 μA/cm 2 ) &gt; Pb (1.52 μA/cm 2 ) &gt; Alloy 600 (1.62 μA/cm 2 ) &gt; SA 508 Gr.3 (5.11 μA/cm 2 ). The various electrochemical corrosion parameters of SG materials are summarized in Table <ref type="table" target="#tab_9">5</ref>. To cause the galvanic corrosion between the two or more dissimilar materials, a potential difference (usually &gt; 50 mV <ref type="bibr">[20]</ref>) has to exist between the different materials. The potential difference between the Pb (the corrosion product with the lowest potential among the three corrosion products) and Alloy 600 (the highest potential materials among the three SG materials) exceeds about 60 mV. Accordingly, when the corrosion products and SG materials are electrically contacted and exposed the same electrolyte, all corrosion products will behave as the cathode of the galvanic couple, while all SG materials will be acted as the anode and is expected to undergo excessive corrosion.</p><p>Figure <ref type="figure" target="#fig_22">7</ref> shows the potentiodynamic polarization curves of the SG materials and the corrosion products. The i corr of SG materials and the corrosion products were calculated by cathodic Tafel extrapolation of polarization curved in Figure <ref type="figure" target="#fig_10">8</ref>. The i corr of the test materials is ranked in the following order: Cu (0.36 µA/cm 2 ) &gt; Alloy 690 (1.05 µA/cm 2 ) &gt; magnetite (1.24 µA/cm 2 ) &gt; Pb (1.52 µA/cm 2 ) &gt; Alloy 600 (1.62 µA/cm 2 ) &gt; SA 508 Gr.3 (5.11 µA/cm 2 ). The various electrochemical corrosion parameters of SG materials are summarized in Table <ref type="table" target="#tab_9">5</ref>.   Figure <ref type="figure" target="#fig_10">8</ref> present the polarization resistance (Rp) of the SG materials as a function of time calculated during linear polarization test. Although the value of Rp was slightly increased at the early stage, the increase of Rp value was not large. The mean value of Rp becomes smaller in order of Alloy 690 &gt; Alloy 600 &gt; SA 508 Gr. 3 (Table <ref type="table" target="#tab_9">5</ref>). The corrosion current density icorr. pr calculated from polarization resistance test are similar to those of icorr. In secondary coolant system, the magnetite particles are accumulated on the heated surfaces of SG heat exchanger tube and thus, the deposits are very porous in nature due to boiling behavior on SG tube surface <ref type="bibr">[14,</ref><ref type="bibr">15]</ref>. Among the aggressive impurities, the metal ions such as Cu and Pb ions are concentrated within the pores formed on the magnetite layer and will be in the metallic particle form by electrochemical reduction reaction. When the corrosion products such as Cu and Pb and SG  Figure <ref type="figure" target="#fig_10">8</ref> present the polarization resistance (R p ) of the SG materials as a function of time calculated during linear polarization test. Although the value of R p was slightly increased at the early stage, the increase of R p value was not large. The mean value of R p becomes smaller in order of Alloy 690 &gt; Alloy 600 &gt; SA 508 Gr. 3 (Table <ref type="table" target="#tab_9">5</ref>). The corrosion current density i corr. pr calculated from polarization resistance test are similar to those of i corr .</p><p>In secondary coolant system, the magnetite particles are accumulated on the heated surfaces of SG heat exchanger tube and thus, the deposits are very porous in nature due to boiling behavior on SG tube surface <ref type="bibr">[14,</ref><ref type="bibr">15]</ref>. Among the aggressive impurities, the metal ions such as Cu and Pb ions are concentrated within the pores formed on the magnetite layer and will be in the metallic particle form by electrochemical reduction reaction. When the corrosion products such as Cu and Pb and SG materials are electrically contacted within the micro-pores of magnetite flake, a galvanic corrosion between SG materials and corrosion products (magnetite, Cu, and Pb) will occur because magnetite, Cu, and Pb has a high electrical conductivity. Therefore, the polarization curves of Figure <ref type="figure" target="#fig_10">8</ref> were rearranged in Figure <ref type="figure" target="#fig_26">9</ref> to predict the galvanic corrosion behavior between SG materials and corrosion products using the mixed potential theory. As mention above, in order to more accurately obtain the E couple and the i couple of the SG materials, the measured polarization curve were re-calculated by using Equations ( <ref type="formula" target="#formula_0">1</ref>) and (2). In galvanic couple, the E couple and the i couple are determined by the intersection of the calculated anodic curve of SG materials and the measured cathodic curve of corrosion products. The galvanic corrosion parameters are presented in Table <ref type="table" target="#tab_11">6</ref>. As shown in Figure <ref type="figure" target="#fig_26">9</ref> and Table <ref type="table" target="#tab_11">6</ref>, when SG materials and corrosion products are galvanically coupled in equal area (area ratio (AR) of cathode/anode = 1), the E couple of the all galvanic couple is expected to shift in the positive direction and the i couple of all SG materials is significantly increased by the coupling.</p><p>Equations ( <ref type="formula" target="#formula_0">1</ref>) and ( <ref type="formula" target="#formula_6">2</ref>). In galvanic couple, the Ecouple and the icouple are determined by the intersection of the calculated anodic curve of SG materials and the measured cathodic curve of corrosion products. The galvanic corrosion parameters are presented in Table <ref type="table" target="#tab_11">6</ref>. As shown in Figure <ref type="figure" target="#fig_26">9</ref> and Table <ref type="table" target="#tab_11">6</ref>, when SG materials and corrosion products are galvanically coupled in equal area (area ratio (AR) of cathode/anode = 1), the Ecouple of the all galvanic couple is expected to shift in the positive direction and the icouple of all SG materials is significantly increased by the coupling.   In general, the surface of SG tube is typically covered with the magnetite layer under the alkalized reducing conditions of PWRs. This magnetite layer contains many micro-pores. As shown in Figure <ref type="figure" target="#fig_28">10</ref>, Metals 2018, 8, 899 12 of 14 the small surface area of SG tube is exposed to the reducing secondary water due to the micro-pores at the oxide/steel interface. In this case, the exposed surface of SG tube is galvanically coupled to a relatively large area of magnetite, metallic Cu and Pb particles. Consequently, the corrosion is accelerated from the small surface area of SG tube owing to the galvanic coupling with magnetite, Cu and Pb particles. Hence, the AR effect on the corrosion acceleration of SG materials should be elucidated.</p><p>corrosion is accelerated from the small surface area of SG tube owing to the galvanic coupling with magnetite, Cu and Pb particles. Hence, the AR effect on the corrosion acceleration of SG materials should be elucidated.</p><p>To evaluate the AR effect on the galvanic corrosion, polarization curves of corrosion products with an area of 12 cm 2 (AR = 10) were rearranged and calculated by the polarization curves of those with an area of 1.2 cm 2 (AR = 1). The changes in the corrosion current density of SG materials caused by the galvanic coupling and AR (1 → 10) were summarized in Figure <ref type="figure" target="#fig_30">11</ref>. In the case of AR = 1, the degree of galvanic effect of Alloy 600 and SA 508 Gr.3 is ranked in the following order: Cu &gt; magnetite &gt; Pb. In addition, that of Alloy 690 is in the following order: Pb &gt; Cu &gt; magnetite. The accelerated corrosion of SG materials becomes more severe due to the increased AR from 1 to 10. In the case of AR = 10, The degree of galvanic effect of Alloy 600 and SA 508 Gr.3 is ranked in the following order: Cu &gt; magnetite &gt; Pb. In addition, that of Alloy 690 is in the following order: Cu &gt; Pb &gt; magnetite. In the case of AR = 10, Cu has the largest galvanic effect on all SG materials.  To evaluate the AR effect on the galvanic corrosion, polarization curves of corrosion products with an area of 12 cm 2 (AR = 10) were rearranged and calculated by the polarization curves of those with an area of 1.2 cm 2 (AR = 1). The changes in the corrosion current density of SG materials caused by the galvanic coupling and AR (1 → 10) were summarized in Figure <ref type="figure" target="#fig_30">11</ref>. In the case of AR = 1, the degree of galvanic effect of Alloy 600 and SA 508 Gr.3 is ranked in the following order: Cu &gt; magnetite &gt; Pb. In addition, that of Alloy 690 is in the following order: Pb &gt; Cu &gt; magnetite. The accelerated corrosion of SG materials becomes more severe due to the increased AR from 1 to 10. In the case of AR = 10, The degree of galvanic effect of Alloy 600 and SA 508 Gr.3 is ranked in the following order: Cu &gt; magnetite &gt; Pb. In addition, that of Alloy 690 is in the following order: Cu &gt; Pb &gt; magnetite. In the case of AR = 10, Cu has the largest galvanic effect on all SG materials. As reported in many previous studies <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref><ref type="bibr">[9]</ref>, this work again confirmed that magnetite accelerates the corrosion rate of SG materials by galvanic coupling. In addition, the results in this work had shown that metallic Cu and Pb as well as magnetite increased the corrosion rate of SG materials. Furthermore, when the AR was increased, Cu has the largest galvanic corrosion effect. Based on these results, the galvanic effect of corrosion products on the SG material should take into account not only the magnetite but also the metal form of Cu and Pb. Therefore, even if trace amount of Cu particles are present in the SG tube deposits, the Cu removal process should be included in the chemical cleaning process. As reported in many previous studies <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref><ref type="bibr">[9]</ref>, this work again confirmed that magnetite accelerates the corrosion rate of SG materials by galvanic coupling. In addition, the results in this work had shown that metallic Cu and Pb as well as magnetite increased the corrosion rate of SG materials. Furthermore, when the AR was increased, Cu has the largest galvanic corrosion effect. Based on these results, the galvanic effect of corrosion products on the SG material should take into account not only the magnetite but also the metal form of Cu and Pb. Therefore, even if trace amount of Cu particles are present in the SG tube deposits, the Cu removal process should be included in the chemical cleaning process.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>The galvanic corrosion of SG materials (Alloy 690, Alloy 600, SA 508 Gr.3) within the micro-pores of magnetite flakes was investigated in an alkaline solution using the electrochemical corrosion tests. In addition, the magnetite flake samples removed from an operating SG were characterized to identify the various corrosion products accumulated in the pores of the flakes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>1.</head><p>Based on the EBSD results, the flake samples were mainly composed of magnetite and contained only small amounts of trevorite, jacobsite, and metallic Cu particle. 2.</p><p>SEM-EDS results showed that some impurities such as Cu, Pb, P, S, and Cl were concentrated in the micro-pores of the deposits. In particular, Cu and Pb are expected to exist in a metallic form in the micro-pores of the magnetite flakes because the formation reactions of metallic Cu and Pb are thermodynamically spontaneous in the secondary system of SG.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>The all SG materials considered in this study were act as an anode of the galvanic couple with the each corrosion products (magnetite, copper, and lead) and the corrosion rate of all SG materials was significantly increased. When the AR was increased 1 to 10, Cu has the largest galvanic corrosion effect to all SG materials. 4.</p><p>The galvanic effect of metallic copper and lead as well as the magnetite should be considered in the corrosion behavior of SG tube contacted to the corrosion products.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Schematic of zeta potential measurement setup using an automatic pH titration system.</figDesc><graphic coords="3,156.52,288.25,282.24,164.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Schematic of a surface zeta potential measurement kit.</figDesc><graphic coords="4,194.44,220.72,206.40,207.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Zeta potentials of magnetite nanoparticles as a function of pH value, controlled with ethanolamine (ETA), ammonia, or morpholine at 25 • C.</figDesc><graphic coords="6,164.05,140.63,267.19,200.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Relationship between the zeta potentials of magnetite nanoparticles and Alloy 690 surfaces at a pH of 9.0 and 10.0, depending on the pH agent at 25 • C.</figDesc><graphic coords="6,148.29,379.62,298.70,219.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Zeta potentials of magnetite nanoparticles in solutions with and without NaCl addition as a function of pH value, controlled with ETA at 25 • C.</figDesc><graphic coords="7,145.48,127.12,304.32,232.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Relationship between the zeta potentials of magnetite nanoparticles and Alloy 690 surfaces at a pH of 9.5, controlled with ETA at 25 • C.</figDesc><graphic coords="7,157.48,520.88,280.32,201.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Metals 2018, 8 ,Figure 1 .</head><label>81</label><figDesc>Figure 1. SEM micrographs of SG flakes: (a) overall appearance and (b) cross section of flake.</figDesc><graphic coords="14,104.83,211.31,187.44,139.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. SEM micrographs of SG flakes: (a) overall appearance and (b) cross section of flake.</figDesc><graphic coords="14,303.07,211.31,187.44,139.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. EBSD data on the tube side of the SG flakes: (a) SEM micrograph; (b) IQ index representation; (c) 001 IPF orientation map; and (d) phase distribution map.</figDesc><graphic coords="15,303.63,232.64,181.68,127.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Metals 2018, 8 ,</head><label>8</label><figDesc>x FOR PEER REVIEW 6 of 13</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. EBSD data on the tube side of the SG flakes: (a) SEM micrograph; (b) IQ index representation; (c) 001 IPF orientation map; and (d) phase distribution map.</figDesc><graphic coords="15,111.39,232.88,181.68,127.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. SEM-EDS analysis of the impurities within the pores on the tube side of the SG flakes.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Table 4 .</head><label>4</label><figDesc>Chemical composition of impurities in the pores formed on tube side of SG flakes using SEM-EDS analysis (wt.%). the potential-pH diagram (Pourbaix diagram) of the Cu-H2O and Pb-H2O systems at 280 °C, which was calculated using the FACT-SAGE software, Cu and Pb are soluble in secondary water</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. SEM-EDS analysis of the impurities within the pores on the tube side of the SG flakes.</figDesc><graphic coords="15,191.19,498.80,212.88,148.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. HR-XRD patterns of the electrodeposited magnetite film on Alloy 690 substrate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. HR-XRD patterns of the electrodeposited magnetite film on Alloy 690 substrate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. HR-XRD patterns of the electrodeposited magnetite film on Alloy 690 substrate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. SEM micrographs of the surface and cross section of electrodeposited magnetite films on Alloy 690 substrate before and after the potentiodynamic polarization tests: (a) the surface before the test and (b) the cross section before the test; (c) the surface after the test; and (d) the cross section after the test.</figDesc><graphic coords="17,122.40,390.49,170.40,124.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. SEM micrographs of the surface and cross section of electrodeposited magnetite films on Alloy 690 substrate before and after the potentiodynamic polarization tests: (a) the surface before the test and (b) the cross section before the test; (c) the surface after the test; and (d) the cross section after the test.</figDesc><graphic coords="17,303.36,390.49,170.40,124.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Corrosion potentials of the SG materials and the corrosion products constituting the SG flakes in alkaline solution at 80 °C: (a) the SG materials and (b) the corrosion products.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Corrosion potentials of the SG materials and the corrosion products constituting the SG flakes in alkaline solution at 80 • C: (a) the SG materials and (b) the corrosion products.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_22"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Potentiodynamic polarization curves of the SG materials and the corrosion products in alkaline solution at 80 °C: (a) the SG materials and (b) the corrosion products.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_23"><head>2 )Figure 7 .</head><label>27</label><figDesc>Figure 7. Potentiodynamic polarization curves of the SG materials and the corrosion products in alkaline solution at 80 • C: (a) the SG materials and (b) the corrosion products.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_24"><head>Figure 8 .</head><label>8</label><figDesc>Figure 8. Polarization resistances of the SG materials calculated during linear polarization test in alkaline solution at 80 °C.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_25"><head>Figure 8 .</head><label>8</label><figDesc>Figure 8. Polarization resistances of the SG materials calculated during linear polarization test in alkaline solution at 80 • C.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_26"><head>Figure 9 .</head><label>9</label><figDesc>Figure 9. Calculated anodic curves of the SG materials and galvanic corrosion behavior between the SG materials (calculated anodic curves) and the corrosion products (cathodic polarization curves) in alkaline solution at 80 °C.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_27"><head>3 Figure 9 .</head><label>39</label><figDesc>Figure 9. Calculated anodic curves of the SG materials and galvanic corrosion behavior between the SG materials (calculated anodic curves) and the corrosion products (cathodic polarization curves) in alkaline solution at 80 • C.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_28"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10. Schematics of the galvanic corrosion process between SG materials and corrosion products exposed to the secondary water.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_29"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10. Schematics of the galvanic corrosion process between SG materials and corrosion products exposed to the secondary water.</figDesc><graphic coords="21,177.67,180.84,240.00,170.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_30"><head>Figure 11 .</head><label>11</label><figDesc>Figure 11. Change in the anodic dissolution rate of the SG materials by the AR of corrosion products in alkaline at 80 °C: (a) AR = 1 and (b) AR = 10.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_31"><head>Figure 11 .</head><label>11</label><figDesc>Figure 11. Change in the anodic dissolution rate of the SG materials by the AR of corrosion products in alkaline at 80 • C: (a) AR = 1 and (b) AR = 10.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Basic properties of three pH agents used in this study.</figDesc><table><row><cell>pH Control Agents</cell><cell>Chemical Formula</cell><cell>Density (g/cm 3 )</cell><cell>Boiling Point ( • C)</cell><cell>Molar Mass (g/mol)</cell></row><row><cell>Ammonia solution, 30%</cell><cell>NH 3 +H 2 O</cell><cell>0.89</cell><cell>36</cell><cell>17.0</cell></row><row><cell>Morpholine</cell><cell>C 4 H 9 NO</cell><cell>1.01</cell><cell>129</cell><cell>87.1</cell></row><row><cell>Ethanolamine (ETA)</cell><cell>C 2 H 7 NO</cell><cell>1.01</cell><cell>170</cell><cell>61.1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>• C were as follows: ζ E = -9.0 × pH + 57.5 for ETA; ζ A = -10.2 × pH + 61.9 for ammonia; ζ M = -12.3 × pH + 77.8 for morpholine. 2.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 1 .</head><label>1</label><figDesc>Chemical composition of the SG materials of the PWR (wt.%).</figDesc><table><row><cell>SG Materials</cell><cell>C</cell><cell>Cr</cell><cell>Fe</cell><cell>Si</cell><cell>Mn</cell><cell>Ti</cell><cell>Al</cell><cell>Mo</cell><cell>Ni</cell></row><row><cell>Alloy 600</cell><cell>0.02</cell><cell>15.7</cell><cell>10.0</cell><cell>0.1</cell><cell>0.3</cell><cell>0.1</cell><cell>0.1</cell><cell>-</cell><cell>Bal.</cell></row><row><cell>Alloy 690</cell><cell>0.02</cell><cell>28.0</cell><cell>10.2</cell><cell>0.1</cell><cell>0.3</cell><cell>0.1</cell><cell>0.1</cell><cell>-</cell><cell>Bal.</cell></row><row><cell>SA508 Gr.3</cell><cell>0.20</cell><cell>0.2</cell><cell>Bal.</cell><cell>0.1</cell><cell>1.5</cell><cell>-</cell><cell>-</cell><cell>0.6</cell><cell>1.0</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2 .</head><label>2</label><figDesc>Elemental composition of the flakes collected from the operating SG using ICP-AES (wt.%).</figDesc><table><row><cell>Fe</cell><cell>Mn</cell><cell>Ni</cell><cell>Cu</cell><cell>Ti</cell><cell>Al</cell><cell>Cr</cell><cell>Si</cell><cell>Mg</cell><cell>Ca</cell></row><row><cell>95.97</cell><cell>2.23</cell><cell>0.84</cell><cell>0.43</cell><cell>0.23</cell><cell>0.12</cell><cell>0.08</cell><cell>0.04</cell><cell>0.04</cell><cell>0.02</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 3 .</head><label>3</label><figDesc>Phase fraction of the tube side of the SG flakes using EBSD analysis.</figDesc><table><row><cell>Structure</cell><cell>Phase Fraction (%)</cell></row><row><cell>Magnetite (Fe 3 O 4 )</cell><cell>71.03</cell></row><row><cell>Jacobsite (Mn 2 FeO 4 )</cell><cell>4.55</cell></row><row><cell>Trevorite (Ni 2 FeO 4 )</cell><cell>3.79</cell></row><row><cell>Metallic Cu</cell><cell>1.72</cell></row><row><cell>Zero solutions (black regions)</cell><cell>18.91</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 3 .</head><label>3</label><figDesc>Phase fraction of the tube side of the SG flakes using EBSD analysis.</figDesc><table><row><cell>Structure</cell><cell>Phase Fraction (%)</cell></row><row><cell>Magnetite (Fe3O4)</cell><cell>71.03</cell></row><row><cell>Jacobsite (Mn2FeO4)</cell><cell>4.55</cell></row><row><cell>Trevorite (Ni2FeO4)</cell><cell>3.79</cell></row><row><cell>Metallic Cu</cell><cell>1.72</cell></row><row><cell>Zero solutions (black regions)</cell><cell>18.91</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 4 .</head><label>4</label><figDesc>Chemical composition of impurities the pores formed on tube side of SG flakes using SEM-EDS analysis (wt.%). Pourbaix diagram) of the Cu-H 2 O and Pb-H 2 O systems at 280 • C, which was calculated using the FACT-SAGE software, Cu and Pb are soluble in secondary water of SG.</figDesc><table><row><cell>Element</cell><cell>Spectrum 1</cell><cell>Spectrum 2</cell></row><row><cell>Cu</cell><cell>3.13</cell><cell>0.19</cell></row><row><cell>Pb</cell><cell>-</cell><cell>0.26</cell></row><row><cell>Cl</cell><cell>-</cell><cell>0.03</cell></row><row><cell>S</cell><cell>0.03</cell><cell>0.03</cell></row><row><cell>P</cell><cell>-</cell><cell>0.04</cell></row><row><cell>From the potential-pH diagram (</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>Table 5 .</head><label>5</label><figDesc>Measured values of anodic and cathodic Tafel constants βa and βc, corrosion potential Ecorr, corrosion current density icorr obtained from potentiodynamic polarization curves, polarization resistance Rp, and corrosion current density icorr. pr obtained from polarization resistance test.</figDesc><table><row><cell>Corrosion Parameters</cell><cell>Alloy 600</cell><cell>SG Materials Alloy 690</cell><cell>SA508 Gr.3</cell></row><row><cell>βa (V/decade)</cell><cell>0.100 ± 0.008</cell><cell>0.092 ± 0.005</cell><cell>0.142 ± 0.007</cell></row><row><cell>βc (V/decade)</cell><cell>0.135 ± 0.009</cell><cell>0.130 ± 0.004</cell><cell>0.183 ± 0.010</cell></row><row><cell>Ecorr (VSCE)</cell><cell cols="3">-0.611 ± 0.004 -0.687 ± 0.005 -0.756 ± 0.009</cell></row><row><cell>icorr (μA/cm 2 )</cell><cell>1.62 ± 0.10</cell><cell>1.05 ± 0.12</cell><cell>5.11 ± 0.18</cell></row><row><cell>Rp a (Ω/cm 2 ),</cell><cell>15880 ± 636</cell><cell>21580 ± 647</cell><cell>8698 ± 435</cell></row><row><cell>icorr. pr (μA/cm 2 )</cell><cell>1.57 ± 0.04</cell><cell>1.08± 0.12</cell><cell>4.00 ± 0.13</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 5 .</head><label>5</label><figDesc>Measured values of anodic and cathodic Tafel constants β a and β c , corrosion potential E corr , corrosion current density i corr obtained from potentiodynamic polarization curves, polarization resistance R p , and corrosion current density i corr. pr obtained from polarization resistance test. R p = (β a • β c )/{i corr. pr × 2.303 (β a + β c )}.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>SG Materials</cell><cell></cell></row><row><cell cols="2">Corrosion Parameters</cell><cell>Alloy 600</cell><cell>Alloy 690</cell><cell>SA508 Gr.3</cell></row><row><cell cols="2">β a (V/decade)</cell><cell>0.100 ± 0.008</cell><cell>0.092 ± 0.005</cell><cell>0.142 ± 0.007</cell></row><row><cell cols="2">β c (V/decade)</cell><cell>0.135 ± 0.009</cell><cell>0.130 ± 0.004</cell><cell>0.183 ± 0.010</cell></row><row><cell cols="2">E corr (V SCE ) i corr (µA/cm 2 )</cell><cell>-0.611 ± 0.004 1.62 ± 0.10</cell><cell>-0.687 ± 0.005 1.05 ± 0.12</cell><cell>-0.756 ± 0.009 5.11 ± 0.18</cell></row><row><cell>R p</cell><cell>a (Ω/cm 2 ),</cell><cell>15880 ± 636</cell><cell>21580 ± 647</cell><cell>8698 ± 435</cell></row><row><cell cols="2">i corr. pr (µA/cm 2 )</cell><cell>1.57 ± 0.04</cell><cell>1.08± 0.12</cell><cell>4.00 ± 0.13</cell></row></table><note><p>a</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_11"><head>Table 6 .</head><label>6</label><figDesc>Measured values of galvanic corrosion potential E coupled and galvanic corrosion current density i coupled of SG materials coupled to corrosion products obtained from the measured cathodic and calculated anodic polarization curves by using mixed potential theory (AR = 1).</figDesc><table><row><cell>Galvanic Coupling</cell><cell>SG Materials</cell><cell>Galvanic Corrosion Parameters</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>E couple (V SCE ) i couple (µA/cm 2 ) i couple /i corr (Times)</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>Alloy 600</cell><cell>-0.564 ± 0.007</cell><cell>3.69 ± 0.10</cell><cell>2.28</cell></row><row><cell>Coupled to magnetite</cell><cell>Alloy 690</cell><cell>-0.507 ± 0.006</cell><cell>1.32 ± 0.13</cell><cell>1.26</cell></row><row><cell></cell><cell>SA508 Gr.3</cell><cell>-0.697 ± 0.006</cell><cell>9.34 ± 0.20</cell><cell>1.83</cell></row><row><cell></cell><cell>Alloy 600</cell><cell>-0.394 ± 0.005</cell><cell>4.48 ± 0.11</cell><cell>2.77</cell></row><row><cell>Coupled to copper</cell><cell>Alloy 690</cell><cell>-0.318 ± 0.006</cell><cell>1.63 ± 0.12</cell><cell>1.55</cell></row><row><cell></cell><cell>SA508 Gr.3</cell><cell>-0.691 ± 0.007</cell><cell>12.62 ± 0.26</cell><cell>2.47</cell></row><row><cell></cell><cell>Alloy 600</cell><cell>-0.593 ± 0.009</cell><cell>2.08 ± 0.08</cell><cell>1.28</cell></row><row><cell>Coupled to lead</cell><cell>Alloy 690</cell><cell>-0.599 ± 0.008</cell><cell>2.26 ± 0.12</cell><cell>2.15</cell></row><row><cell></cell><cell>SA508 Gr.3</cell><cell>-0.713 ± 0.010</cell><cell>6.63 ± 0.15</cell><cell>1.30</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Funding: This work was supported by the <rs type="funder">National Research Foundation (NRF)</rs> grant funded by the <rs type="funder">government of the Republic of Korea</rs> (<rs type="grantNumber">NRF-2017M2A8A4015159</rs>). Funding: This work was supported by the <rs type="funder">National Research Foundation of Korea (NRF)</rs> grant funded by the <rs type="funder">Korea government</rs> (No. <rs type="grantNumber">2017M2A8A4015159</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_VNMJXNk">
+					<idno type="grant-number">NRF-2017M2A8A4015159</idno>
+				</org>
+				<org type="funding" xml:id="_QjDDNec">
+					<idno type="grant-number">2017M2A8A4015159</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Steam Generator Management Program: Effects of Different pH Control Agents on Pressurized Water Reactor Plant Systems and Components</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Electric Power Research Institute</publisher>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Corrosion product transport and fouling in nuclear steam generators</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Khumsa-Ang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Steam Generators for Nuclear Power Plants</title>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Woodhead Publishing</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Characteristics of steam generator tube deposits in an operating pressurized water reactor</title>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-C</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jnucmat.2018.05.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nucl. Mater</title>
+		<imprint>
+			<biblScope unit="volume">507</biblScope>
+			<biblScope unit="page" from="371" to="380" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Galvanic corrosion of steam generator materials within pores of magnetite flakes in alkaline solutions</title>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Micro</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/met8110899</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Metals</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">899</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Hideout, hideout return and crevice chemistry in nuclear steam generators</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mckay</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Woodhead Publishing</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note>In Steam Generators for Nuclear Power Plants. Chapter 10</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Steam Generator Management Program: Steam Generator Deposit Removal Strategies Sourcebook</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wolfe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Electric Power Research Institute (EPRI)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Factors affecting zeta potential of iron oxides</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Carlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Kawatra</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08827508.2011.604697</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Miner. Process. Extr. Metall</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="269" to="303" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Surface properties of magnetite in high temperature aqueous electrolyte solutions: A review</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Vidojkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Rakin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cis.2016.08.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">245</biblScope>
+			<biblScope unit="page" from="108" to="129" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effects of pH control agents on magnetite deposition on steam generator tubes</title>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.anucene.2020.107486</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Nucl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<date type="published" when="2020">2020. 107486</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Effect of aluminum oxide coated on fuel cladding surface on crud deposition in simulated PWR primary water</title>
+		<author>
+			<persName><forename type="first">H.-S</forename><surname>Shim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Baek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.anucene.2018.08.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Nucl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="607" to="614" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Experimental simulation of Na and Cl hideout in steam generator crevices</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Bahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kasza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Shack</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nucengdes.2012.05.019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Eng. Des</title>
+		<imprint>
+			<biblScope unit="volume">250</biblScope>
+			<biblScope unit="page" from="156" to="166" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Steam Generator Reference Book</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P N</forename><surname>Paine</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="volume">1</biblScope>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Electric Power Research Institute (EPRI)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Pressurized Water Reactor Secondary Water Chemistry Guidelines-Revision 8</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fruzzetti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Electric Power Research Institute (EPRI)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">PWR secondary water chemistry guidelines in Japan-Purpose and technical background</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kawamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shoda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Terachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Katsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Uchida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mizuno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Muroya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tsuzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Umehara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hirano</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pnucene.2019.01.027</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Nucl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="121" to="137" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohshima</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zeta Potential</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-642-20665-8_162</idno>
+		<title level="m">Encyclopedia of Colloid and Interface Science; Tadros</title>
+		<meeting><address><addrLine>Berlin/Heidelberg, Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">High-concentration zeta potential measurements using light-scattering techniques</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaszuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Corbett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rsta.2010.0175</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phil. Trans. R. Soc. A</title>
+		<imprint>
+			<biblScope unit="volume">368</biblScope>
+			<biblScope unit="page" from="4439" to="4451" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Measuring surface zeta potential using phase analysis light scattering in a simple dip cell arrangement</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C W</forename><surname>Corbett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mcneil-Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Jack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howarth</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.colsurfa.2011.12.065</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. A Physicochem. Eng. Asp</title>
+		<imprint>
+			<biblScope unit="volume">396</biblScope>
+			<biblScope unit="page" from="169" to="176" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Multivariable Assessment of Flow Accelerated Corrosion and Steam Generator Fouling</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fruzzetti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Literature Review</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Electric Power Research Institute (EPRI)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Characterization of PWR Steam Generator Deposits</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Varrin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Electric Power Research Institute (EPRI)</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The Effect of Temperature on the Zeta Potential of Magnetite Particles in Ammonia, Morpholine and Ethanolamine Solutions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Essi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Espoo, Finland</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Aalto University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Master&apos;s Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Determining Zeta Potential of Magnetite Particles in PWR Secondary Side Water Treated with Ammonia or Ethanolamine by Using Streaming Potential Technique</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Essi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Konsta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Timo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 20th NPC International Conference</title>
+		<meeting>the 20th NPC International Conference<address><addrLine>Brighton, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016-10-07">2-7 October 2016</date>
+			<biblScope unit="page">151</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Salt effects on the physical properties of magnetite nanoparticles synthesized at different NaCl concentrations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Baek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.colsurfa.2010.06.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. A Physicochem. Eng. Asp</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="41" to="46" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effects of curative and preventive chemical cleaning processes on fouled steam generator tubes in nuclear power plants</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Goujon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pauporté</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bescond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mansour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Delaunay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-L</forename><surname>Bretelle</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nucengdes.2017.07.022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Eng. Des</title>
+		<imprint>
+			<biblScope unit="volume">323</biblScope>
+			<biblScope unit="page" from="120" to="132" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Applicability of chemical cleaning process to steam generator secondary side, (I) outline of the investigation and cleaning effectiveness</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fujiwara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kawamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kanbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Takiguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shibata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ishigura</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/18811248.2004.9715456</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nucl. Sci. Techonol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="44" to="54" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Applicability of chemical cleaning process to steam generator secondary side, (III) effect of chemical cleaning on long term integrity of steam generator tube after chemical cleaning process</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kawamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fujiwara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kanbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hirano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Takiguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shibata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ishigura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nucl. Sci. Techonol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="665" to="668" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Corrosion behavior of Alloy 600 coupled with electrodeposited magnetite in simulated secondary water of PWRs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.2320/matertrans.M2015322</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Trans</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="2078" to="2083" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Galvanic corrosion between Alloy 690 and magnetite in alkaline aqueous solutions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/met5042372</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Metals</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2372" to="2382" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Synergistic effect of chloride ions and magnetite on the corrosion of Alloy 690 in alkaline solutions</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.5006/2257</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Corrosion</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="899" to="913" />
+			<date type="published" when="2017">2017. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Electrodeposition of magnetite on carbon steel in Fe(III)-triethanolamine solution and its corrosion behavior</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.2320/matertrans.M2015016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Trans</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1107" to="1111" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effect of polyacrylic acid on the corrosion behavior of carbon steel and magnetite in alkaline aqueous solutions</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.5006/2018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Corrosion</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="1010" to="1120" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Galvanic effect of magnetite on the corrosion behavior of carbon steel in deaerated alkaline solutions under flowing conditions</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Son</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Corros. Sci</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="71" to="80" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Magnetite dissolution and corrosion behavior in high temperature EDTA solvents</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Han</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0029-5493(02)00252-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Eng. Des</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<biblScope unit="page" from="11" to="16" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Simulating porous magnetite layer deposited on Alloy 690TT steam generator tubes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Son</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">I</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ma11010062</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Materials</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Electronic Conduction in Oxides</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tsuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nasu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fujimori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Siratori</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Berlin/Heidelberg</publisher>
+			<pubPlace>Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Characterization of PWR Steam Generator Deposits</title>
+		<idno>EPRI-TR-106048</idno>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">EPRI</biblScope>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Characteristics of steam generator tube deposits in an operating pressurized water reactor</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Hur</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jnucmat.2018.05.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nucl. Mater</title>
+		<imprint>
+			<biblScope unit="volume">507</biblScope>
+			<biblScope unit="page" from="371" to="380" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Microstructural characterization of sludge steam generator from Spanish NPP&apos;s</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Diego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Merino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 20th International Conference on Water Chemistry in Nuclear Reactor System</title>
+		<meeting>the 20th International Conference on Water Chemistry in Nuclear Reactor System<address><addrLine>Brighton, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016-10-07">2-7 October 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Thermal resistance of steam-generator tube deposits under single-phase forced convection and flow-boiling heat transfer</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Klimas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Brideau</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cjce.5450780109</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem. Eng</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="53" to="60" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Steam Generator Management Program: PWR Steam Generator Deposit Characterization Sourcebook</title>
+		<idno>EPRI-TR-3002002794</idno>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">EPRI</biblScope>
+			<pubPlace>Palo Alto, CA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Introduction and comparison of new EBSD post-processing methodologies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Nowell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Lindeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Camus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Graef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jackson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ultramic.2015.08.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ultramicroscopy</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="81" to="94" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">6, version 6.12</title>
+		<author>
+			<orgName type="collaboration">HSC Chemistry</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+		<respStmt>
+			<orgName>Outotec Research Oy: Pori, Filand</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K.-H</forename><surname>Tostmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Korrosion</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wiley-Vch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Weinheim</publisher>
+			<pubPlace>Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

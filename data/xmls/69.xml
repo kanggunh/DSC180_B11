@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Supporting Information Impact of Processing Conditions on the Film Formation of Lead-Free Halide Double</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Perovskite</forename><surname>Cs2agbibr6</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Maged</forename><surname>Abdelsamie</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Sciences Division</orgName>
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kevin</forename><surname>Cruse</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Sciences Division</orgName>
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nobumichi</forename><surname>Tamura</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Advanced Light Source</orgName>
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gerbrand</forename><surname>Ceder</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Sciences Division</orgName>
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Molecular Foundry Division</orgName>
+								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Carolin</forename><forename type="middle">M</forename><surname>Sutter- Fella</surname></persName>
+							<email>csutterfella@lbl.gov</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Berkeley</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Supporting Information Impact of Processing Conditions on the Film Formation of Lead-Free Halide Double</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BB17050460E05B28215458B79E28EB9B</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure</head><label></label><figDesc>FigureS1(a) Raman spectra of annealed Cs2AgBiBr6 (black) and Cs3Bi2Br9 films (red). The Raman features in these spectra agree with previously reported spectra for Cs2AgBiBr6 films and Cs3Bi2Br9 phases. 1 (b) Raman spectra of the as-cast Cs2AgBiBr6 films prepared with different conditions; reference sample, with dropping IPA at 12 s from the start of spin coating, and with adding 3% vol HBr to precursor solution are shown as black, red, and blue lines, respectively.</figDesc><graphic coords="2,72.00,354.72,467.89,157.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure</head><label></label><figDesc>Figure S2 (a) Time-evolution of absorbance at 439 nm extracted from in situ absorption measurements during spin coating of Cs2AgBiBr6 precursor solution. (b-c) Absorbance spectra of Cs2AgBiBr6: (b) as-cast films and (c) annealed films.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure</head><label></label><figDesc>Figure S3 Time-resolved absorbance spectra during the initial 15 s of thermal annealing of Cs2AgBiBr6 at 285 °C; reference sample in (a) and sample prepared with dropping IPA at 12 s from the starting spin coating at 5000 rpms in (b).</figDesc><graphic coords="3,72.00,72.00,468.00,200.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure</head><label></label><figDesc>Figure S4 (a-c) SEM images of Cs2AgBiBr6 thin films prepared with the addition of 3% vol HBr to the precursor solution using different coating conditions: (a) prepared with pre-annealing (hotcasting) at 80 ⁰C and spin coating at 5000 RPM, (b) room-temperature (RT) spin-coating at 5000 RPM, and (c) RT spin-coating at 2000 RPM. The scale bar is 2 µm.</figDesc><graphic coords="3,72.00,358.55,468.00,154.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure</head><label></label><figDesc>Figure S5 (a) Time-resolved absorbance spectra during spin coating of a Cs2AgBiBr6 precursor solution with the addition of 3%vol H2O. (b) 2D color plots of in situ absorption measurements for the experiments shown in (a).</figDesc><graphic coords="4,72.00,72.00,468.00,163.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure S6</head><label>S6</label><figDesc>Figure S6 Colloidal hydrodynamic size distribution via dynamic light scattering (DLS) of Cs2AgBiBr6 precursor solution without HBr (reference) and with the addition of 3% vol HBr; shown in black and red lines, respectively.</figDesc><graphic coords="4,186.60,322.10,238.77,197.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure S7</head><label>S7</label><figDesc>Figure S7Time evolution of the scattering intensities at selected q-value corresponding to the (004) scattering peak during spin-coating of Cs2AgBiBr6; prepared without solution engineering (reference sample), with dropping IPA at 12 s, and with adding 3%vol HBr to the precursor solution.</figDesc><graphic coords="5,146.63,72.00,318.75,252.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure</head><label></label><figDesc>Figure S8 (a-b) False-color plots of in situ GIWAXS during thermal annealing of spin-coated Cs2AgBiBr6 thin films; prepared with (a) adding HBr to precursor solution and (b) dropping IPA at 12 s from the start of the spin coating.</figDesc><graphic coords="5,72.00,425.70,468.00,200.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure S9</head><label>S9</label><figDesc>Figure S9Integrated scattering intensity of GIWAXS measurements of the as cast and annealed Cs2AgBiBr6 films prepared without IPA/HBr, with dropping IPA at 12 s during spin coating, and with the addition of HBr to precursor solution. The brown line shows scattering of the bare substrate and from the PEEK dome used for the closed chamber during in situ GIWAXS measurements. The scattering from the PEEK dome gives rise to the broad peaks centered around ~ 1.57, 1.73, 1.89, and 2.4 Å -1 (marked as asterisks). The simulated Cs2AgBiBr6 perovskite peaks are shown and labeled in green.</figDesc><graphic coords="6,84.85,72.00,442.30,369.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure</head><label></label><figDesc>Figure S10 2D GIWAXS images of the as cast (a-c) and annealed (d-f) Cs2AgBiBr6 thin films; (a, d) reference sample, (b, e) prepared with dropping IPA at 12 s during spin coating,and (c, f) prepared with the addition of HBr to the precursor solution. Samples in (a-f) were prepared by annealing in a custom-made inert N2-chamber at the beamline during in situ GIWAXS measurements. (g-h) 2D GIWAXS images of Cs2AgBiBr6 thin films annealed in an inert glovebox (N2); (g) reference sample, (h) prepared with dropping IPA at 12 s during spin coating, and (i) prepared with the addition of HBr to the precursor solution. It is worth noting that samples in (af) and samples in (g-h) were measured with and without the PEEK dome, respectively.</figDesc><graphic coords="7,72.00,72.00,468.00,362.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure</head><label></label><figDesc>Figure S11 2D GIWAXS images of bare substrate, showing the scattering from the PEEK dome used for the inert chamber during in situ GIWAXS measurements. The scattering from the PEEK dome gives rise to the broad peaks centered around ~ 1.57, 1.73, 1.89, and 2.4 Å -1 .</figDesc><graphic coords="8,183.75,72.00,244.20,161.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table S1</head><label>S1</label><figDesc>Thickness measurements of the as cast and annealed Cs2AgBiBr6 thin films</figDesc><table><row><cell>Samples</cell><cell>As-cast Thickness (nm)</cell><cell>Annealed Thickness (nm)</cell><cell>Retained volatiles (vol% per unit area)</cell></row><row><cell>Reference</cell><cell>184.6</cell><cell>157.4</cell><cell>14.7</cell></row><row><cell>Dropping IPA at 12 s</cell><cell>166.3</cell><cell>155.4</cell><cell>6.6</cell></row><row><cell>With 3% vol HBr</cell><cell>189.1</cell><cell>160.2</cell><cell>15.3</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Advanced Raman Spectroscopy of Cs2AgBiBr6 Double Perovskites and Identification of Cs3Bi2Br9 Secondary Phases</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pistor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meyns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A L</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Alcobé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cabot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Izquierdo-Roca</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scriptamat.2020.03.040</idno>
+		<ptr target="https://doi.org/10.1016/j.scriptamat.2020.03.040" />
+	</analytic>
+	<monogr>
+		<title level="j">Scr. Mater</title>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="page" from="24" to="29" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

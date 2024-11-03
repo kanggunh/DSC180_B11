@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Cesium-containing Triple Cation Perovskite Solar Cells: Improved Stability, Reproducibility and High Efficiency</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Michael</forename><surname>Saliba</surname></persName>
+							<email>michael.saliba@epfl.ch</email>
+						</author>
+						<author>
+							<persName><forename type="first">Taisuke</forename><surname>Matsui</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory" key="lab1">Advanced Research Division</orgName>
+								<orgName type="laboratory" key="lab2">Materials Research Laboratory</orgName>
+								<orgName type="institution">Panasonic Corporation</orgName>
+								<address>
+									<postCode>1006 571-8501</postCode>
+									<settlement>Kadoma Kadoma City</settlement>
+									<region>Osaka</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ji-Youn</forename><surname>Seo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Chemical Sciences and Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Konrad</forename><surname>Domanski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Chemical Sciences and Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Juan-Pablo</forename><surname>Correa-Baena</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photomolecular Science (LSPM) École polytechnique fédérale de Lausanne (EPFL)</orgName>
+								<address>
+									<postCode>1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mohammad</forename><forename type="middle">Khaja</forename><surname>Nazeeruddin</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
+								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shaik</forename><forename type="middle">M</forename><surname>Zakeeruddin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Chemical Sciences and Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wolfgang</forename><surname>Tress</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Chemical Sciences and Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Abate</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Chemical Sciences and Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anders</forename><surname>Hagfeldt</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photomolecular Science (LSPM) École polytechnique fédérale de Lausanne (EPFL)</orgName>
+								<address>
+									<postCode>1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Grätzel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Chemical Sciences and Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Cesium-containing Triple Cation Perovskite Solar Cells: Improved Stability, Reproducibility and High Efficiency</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">17191E304E613009C687346209AE0115</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Nippon Sheet Glass 10 Ω/sq was cleaned by sonication in 2% Hellmanex water solution for 30 min. After rinsing with deionised water and ethanol, the substrates were further cleaned with UV ozone treatment for 15 min. Then, 30 nm TiO2 compact layer was deposited on FTO via spray pyrolysis at 450 °C from a precursor solution of titanium diisopropoxide bis(acetylacetonate) in anhydrous ethanol. After the spraying, the substrates were left at 450 °C for 45 min and left to cool down to room temperature. Then, a mesoporous TiO2 layer was deposited by spin coating for 20 s at 4000 rpm with a ramp of 2000 rpm s -1 , using a 30 nm particle paste (Dyesol 30 NR-D) diluted in ethanol to achieve 150-200 nm thick layer. After the spin coating, the substrates were dried at 100 °C for 10 min and then sintered again at 450 °C for 30 min under dry air flow.</p><p>Li-doping of mesoporous TiO2, as described elsewhere, 1 is accomplished by spin coating a 0.1 M solution of Li-TFSI in acetonitrile at 3000 rpm for 10 s followed by another sintering step at 450 °C for 30 min. After cooling down to 150 °C the substrates were immediately transferred in a nitrogen atmosphere glove box (MBraun with pressure varying from 5-6 mbar) for depositing the perovskite films.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perovskite precursor solution and film preparation</head><p>The organic cations were purchased from Dyesol; the lead compounds from TCI; CsI from abcr GmbH. The "mixed" perovskite precursor solutions were deposited from a precursor solution containing FAI (1 M), PbI2 (1.1 M), MABr (0.2 M) and PbBr2 (0.2 M) in anhydrous DMF:DMSO 4:1 (v:v). We note that this composition contains a lead excess as reported elsewhere. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> </p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Then CsI, predissolved as a 1.5 M stock solution in DMSO, was added to the mixed perovskite precursor to achieve the desired triple cation composition.</p><p>The perovskite solution was spin coated in a two steps program at 1000 and 6000 rpm for 10 and 20 s respectively. During the second step, 100 μL of chlorobenzene was poured on the spinning substrate 5 s prior to the end of the program. Films with Cs-containing perovskite turned dark immediately after spin coating. The substrates were then annealed (usually at 100 °C) for 1 h in a nitrogen filled glove box.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hole transporting layer and top electrode</head><p>After the perovskite annealing, the substrates were cooled down for few minutes and a spiro-OMeTAD (Merck) solution (70 mM in chlorobenzene) was spin coated at 4000 rpm for 20 s.</p><p>Spiro-OMeTAD was doped with bis(trifluoromethylsulfonyl)imide lithium salt (Li-TFSI, Sigma-Aldrich), tris(2-(1H-pyrazol-1-yl)-4-tert-butylpyridine)-cobalt(III) tris(bis(trifluoromethylsulfonyl)imide) (FK209, Dynamo) and 4-tert-Butylpyridine (TBP, Sigma-Aldrich). The molar ratio of additives for spiro-OMeTAD was: 0.5, 0.03 and 3.3 for Li-TFSI, FK209 and TBP respectively.</p><p>Finally, 70-80 nm of gold top electrode was thermally evaporated under high vacuum.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photovoltaic device testing</head><p>The solar cells were measured using a 450 W xenon light source (Oriel). The spectral mismatch between AM1.5G and the simulated illumination was reduced by the use of a Schott K113</p><p>Tempax filter (Präzisions Glas &amp; Optik GmbH). The light intensity was calibrated with a Si photodiode equipped with an IR-cutoff filter (KG3, Schott), and it was recorded during each measurement. Current-voltage characteristics of the cells were obtained by applying an external voltage bias while measuring the current response with a digital source meter (Keithley 2400). The usual voltage scan rate was at 10 mV s -1 (slow) and no device preconditioning, such as light soaking or forward voltage bias applied for long time, was applied before starting the measurement. The starting voltage was determined as the potential at which the cells furnishes 1 mA in forward bias, no equilibration time was used.</p><p>The cells were masked with a black metal mask (0.16 cm 2 ) to fix the active area and reduce the influence of the scattered light. The photocurrent density was scaled to 1000 W/m 2 .</p><p>Aging under maximum power point tracking was carried out on masked devices which were mounted on a temperature controlled plate. The aging was performed under nitrogen atmosphere and 1-sun equivalent illumination provided by an array of white LEDs. The devices were aged by means of keeping them under maximum load under illumination. The maximum power point was updated every 60 s by measuring the current response to a small perturbation in potential. Additionally, a full JV scan was taken every 15 min (at a scan rate of 100 mV s -1 starting from forward bias) which was used to extract the displayed parameters for the aging data.</p><p>UV-vis measurements were performed on a Varian Cary 5.</p><p>Scanning electron microscopy (SEM) was performed on a ZEISS Merlin HR-SEM.</p><p>X-ray powder diffractions were recorded on an X'Pert MPD PRO (Panalytical) equipped with a ceramic tube (Cu anode, λ = 1.54060 Å), a secondary graphite (002) monochromator and a RTMS X'Celerator (Panalytical).in an angle range of 2θ = 5° to 60°.</p><p>Photoluminescence spectra were obtained with Florolog 322 (Horiba Jobin Ybon Ltd) with the range of wavelength from 620 nm to 850 nm by exciting at 460 nm. The samples were mounted at 60° and the emission recorded at 90° from the incident beam path. The data agrees well with the fact that the addition of Br stabilizes perovskite films as reported by Misra et al. who show that MAPbI3 degrades rapidly under 100 suns and elevated temperature whereas MAPbBr3 remains stable when treated under these accelerated aging conditions. <ref type="bibr" target="#b3">4</ref> This is explained with the stronger and shorter Pb-Br bond as compared to Pb-I (due to Br being more electronegative than I). This is also consistent with the data presented by Seok and co-workers who show that MAPb(I1-xBrx)3 perovskites are significantly more stable against humidity with increasing Br content. <ref type="bibr" target="#b4">5</ref> Therefore we conclude that Cs increases the thermal stability for a fixed halide ratio and also note that an increased Br content improves the thermal stability irrespective of the cation.  <ref type="table" target="#tab_0">S1</ref>. The voltage scan rate for all scans was 10 mV s -1 and no device preconditioning, such as light soaking or forward voltage bias applied for a long time, was applied before starting the measurement.applied for a long time, was applied before starting the measurement. With three cations present, the parameter space for possible compositions is increased accordingly (especially considering that the halide ratio could be tuned as well). Thus, we look at compositions of the smaller cations, Cs and MA, and their influence on a fixed FA ratio. Consequently, the compositions are of the form AxFA(1-x)Pb(Br0.17I0.83)3 where A = CsyMA(100-y). As a first example, we investigated theCs10M composition where the ratio of Cs:MA:FA is ~10:15:75, i.e. in the above formalism x = 25% and y = 10%. Varying the ratio of Cs:MA with respect to FA helps improving the interplay of the three cations. In Fig. <ref type="figure" target="#fig_2">S5</ref> and Table <ref type="table" target="#tab_1">S2</ref>, we show a series with a fixed x = 25% where y is varied from 0 (no Cs) to 25% (no MA). We can already observe that the pure MA/FA ratio does not work well for these compositions (with relatively low current densities and fill factors) which is in good agreement with the fact that the optimum for this composition was found to be at ratios of MA:FA of 17:83 instead of 25:75. However, the Cs/FA compound (y = 25%) does not perform significantly better (with higher current densities that are counteracted by lowered voltages). The optimum of this series is at y = 15% where both Cs and MA is present (which coincides closely with the Cs10M composition). Here, the fill factor shows improvement (0.75) and the overall PCE is close to 17% showing that the presence of both Cs and MA is highly relevant. We speculate that the small size of Cs is particular effective at tuning the tolerance factor such that a black phase of FA is stabilized at room temperature. MA, on the other hand, slows down the crystallisation process, which is important for growing defectfree films. In addition, the MA lowers the size discrepancy between Cs and the effective MA/FA cation, which could otherwise lead to a large lattice mismatch. Thus, fine-tuning the ratio of Cs/MA serves to supress the yellow phase of FA perovskite and get defect-free films.</p><p>We ascribe this effect to the suppression of yellow phase impurities which, even in small amounts, can hamper charge transport and extraction due to the different energy levels with the black phase perovskite (acting effectively as recombination centres). This is consistent with the device performance where Cs5M is outperforming Cs0M due to significantly higher short circuit current and an exceptionally high fill factor of ~0.8, which is a value rarely reached even for the highest performing perovskite solar cells.  <ref type="table" target="#tab_1">S2</ref>. The voltage scan rate for all scans was 10 mV s -1 and no device preconditioning, such as light soaking or forward voltage bias applied for a long time, was applied before starting the measurement. Table <ref type="table">S4</ref> Open-circuit voltage (Voc), short circuit current-density (Jsc), fill factor (FF) and power conversion efficiency (PCE) of the best performing Cs 5M in Fig. <ref type="figure">5a</ref>. The curves were recorded at a scan rate of 10 mV s -1 from forward bias (FB) to the short circuit condition (SC), and the other way around. Devices were masked with a metal aperture of 0.16 cm 2 to define the active area. No device preconditioning, such as light soaking or forward voltage bias applied for long time, was applied before starting the measurement.   <ref type="table">S6</ref>. The inset shows the power output under maximum power point tracking for 60 s, starting from forward bias and resulting in a stabilized power output of 20% (reached at 900 mV).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scan direction</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Jsc</head><p>Table <ref type="table">S5</ref> Device parameters of the JV curves in Fig. <ref type="figure">S6a</ref>.  Fig. <ref type="figure">S9</ref> PCE, FF, Jsc and Voc for long-term aging of a high performance Cs5M device (with a starting PCE of 20%) in nitrogen atmosphere at room temperature under constant illumination and maximum power point tracking. The maximum power point was updated every 60 s by measuring the current response to a small perturbation in potential. A JV scan was taken periodically to extract the device parameters. This aging test resembles sealed devices under realistic operational conditions (as opposed to "shelf stability" of devices kept in a dry atmosphere in the dark). The red curve for the PCE is a biexponential fit as reported in Table <ref type="table">S7</ref>. The long-lived component (t2*ln2) is 5032 h which is one of the most promising stability values reported for high efficiency perovskite solar cells.</p><formula xml:id="formula_0">perovskite</formula><p>Table <ref type="table">S7</ref> Fitting parameters of the PCE curve in Fig. <ref type="figure">S8</ref> for a biexponential equation of the form y = A1*exp(-x/t1) + A2*exp(-x/t2) + y0.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adj</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. S1</head><label>S1</label><figDesc>Fig. S1 Top view scanning electron microscope (SEM) images of the CsxM series with (a) Cs0M, (b) Cs5M, (c) Cs10M and (d) Cs15M</figDesc><graphic coords="6,72.00,72.00,460.80,310.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. S4 JV</head><label></label><figDesc>Fig. S4 JV characteristics for different Cs ratios. (a) JV scans and inset table with short circuit current-density (Jsc), open-circuit voltage (Voc), fill factor (FF) and power conversion efficiency (PCE) of the triple cation perovskite compounds CxM with x = 0, 5, 10, and 15%. More data is presented in TableS1. The voltage scan rate for all scans was 10 mV s -1 and no device preconditioning, such as light soaking or forward voltage bias applied for a long time, was applied before starting the measurement.applied for a long time, was applied before starting the measurement.</figDesc><graphic coords="9,72.00,72.00,451.68,364.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. S5</head><label>S5</label><figDesc>Fig. S5 Different Cs:MA:FA ratios. JV scans and inset table with performance parameters for perovskite compounds of the form AxFA(100-x)Pb(Br0.17I0.83)3 where A = CsyMA(100-y) with fixed x = 25%, and y = 0, 1, 15, 20, and 25%. More data is presented in TableS2. The voltage scan rate for all scans was 10 mV s -1 and no device preconditioning, such as light soaking or forward voltage bias applied for a long time, was applied before starting the measurement.</figDesc><graphic coords="12,72.00,72.00,451.56,364.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. S6 JV</head><label></label><figDesc>Fig.S6JV and stability characteristics (a) Current-voltage scans for the best performing Cs10M device and the Cs0M control (from the same batch) alongside the extracted performance parameters in the table (inset) showing PCEs close to 21%.The voltage scan rate for all scans was 10 mV s -1 and no device preconditioning, such as light soaking or forward voltage bias applied for a long time, was applied before starting the measurement. The full hysteresis loop is reported in TableS5. The short circuit current is in agreement with the EQE measurement in Fig S7.(b) High performing Cs5M device. The scan from forward bias to short circuit gives 20.6% and the reverse scan shows 19.5%. The full hysteresis loop parameters are reported in TableS6. The inset shows the power output under maximum power point tracking for 60 s, starting from forward bias and resulting in a stabilized power output of 20% (reached at 900 mV).</figDesc><graphic coords="16,72.00,72.00,456.72,181.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. S7 Fig</head><label>S7</label><figDesc>Fig. S7 External quantum efficiency of the device in Fig. S6a. The integrated short circuit current density of 21.8 mA cm -2 follows the JV scans from the solar simulator.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. S10</head><label>S10</label><figDesc>Fig.S10Device parameters for long-term aging for 3 different high performing Cs0M control devices in nitrogen atmosphere at room temperature under constant illumination and maximum power point tracking. This aging test resembles sealed devices under realistic operational conditions (as opposed to "shelf stability" of devices kept in a dry atmosphere in the dark). The current decreases significantly for all three control devices.</figDesc><graphic coords="21,72.00,72.00,481.08,316.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,74.64,159.36,445.92,354.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,72.00,72.00,450.72,369.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,86.52,72.00,422.28,341.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table S1</head><label>S1</label><figDesc>Open-circuit voltage (Voc), short circuit current-density (Jsc), fill factor (FF) and power conversion efficiency (PCE) of the triple cation perovskite compounds CxM</figDesc><table><row><cell>Supplementary Note 2</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>CsxM</cell><cell>Voc (mV)</cell><cell>Jsc (mA cm -2 )</cell><cell>FF</cell><cell>PCE (%)</cell></row><row><cell>15%</cell><cell>1134</cell><cell>20.0</cell><cell>0.64</cell><cell>14.5</cell></row><row><cell>15%</cell><cell>1088</cell><cell>19.4</cell><cell>0.69</cell><cell>14.6</cell></row><row><cell>10%</cell><cell>1130</cell><cell>22.0</cell><cell>0.77</cell><cell>19.1</cell></row><row><cell>10%</cell><cell>1120</cell><cell>21.9</cell><cell>0.76</cell><cell>18.6</cell></row><row><cell>5%</cell><cell>1095</cell><cell>22.5</cell><cell>0.72</cell><cell>17.7</cell></row><row><cell>5%</cell><cell>1109</cell><cell>22.7</cell><cell>0.74</cell><cell>18.6</cell></row><row><cell>0%</cell><cell>1103</cell><cell>21.4</cell><cell>0.70</cell><cell>16.5</cell></row><row><cell>0%</cell><cell>1071</cell><cell>22.1</cell><cell>0.71</cell><cell>16.8</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table S2</head><label>S2</label><figDesc>Open-circuit voltage (Voc), short circuit current-density (Jsc), fill factor (FF) and power conversion efficiency (PCE) of the triple cation perovskite compounds AxFA(100-x)Pb(Br0.17I0.83)3 where A = CsyMA(100-y). y = 0% is a Cs-free perovskite. y = 10% corresponds to Cs10M and y = 25% is an MA-free perovskite.</figDesc><table><row><cell></cell><cell>y</cell><cell cols="2">Voc (mV) Jsc (mA cm -2 )</cell><cell>FF</cell><cell>PCE (%)</cell></row><row><cell>x = 25%</cell><cell>25%</cell><cell>1045</cell><cell>20.7</cell><cell>0.66</cell><cell>14.3</cell></row><row><cell></cell><cell>25%</cell><cell>1021</cell><cell>20.9</cell><cell>0.58</cell><cell>12.4</cell></row><row><cell></cell><cell>21%</cell><cell>1054</cell><cell>20.4</cell><cell>0.74</cell><cell>15.9</cell></row><row><cell></cell><cell>21%</cell><cell>1022</cell><cell>20.7</cell><cell>0.72</cell><cell>15.2</cell></row><row><cell></cell><cell>15%</cell><cell>1050</cell><cell>20.9</cell><cell>0.73</cell><cell>16</cell></row><row><cell></cell><cell>15%</cell><cell>1060</cell><cell>21.1</cell><cell>0.75</cell><cell>16.8</cell></row><row><cell></cell><cell>10%</cell><cell>1076</cell><cell>21.0</cell><cell>0.66</cell><cell>14.9</cell></row><row><cell></cell><cell>10%</cell><cell>1049</cell><cell>20.7</cell><cell>0.75</cell><cell>16.3</cell></row><row><cell></cell><cell>5%</cell><cell>913</cell><cell>17.9</cell><cell>0.52</cell><cell>8.5</cell></row><row><cell></cell><cell>0%</cell><cell>906</cell><cell>18.6</cell><cell>0.60</cell><cell>10.1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table S3 "</head><label>S3</label><figDesc>Bad batch". Open-circuit voltage (Voc), short circuit current-density (Jsc), fill factor (FF) and power conversion efficiency (PCE) of the triple cation perovskite compounds AxFA(100-x)Pb(Br0.17I0.83)3 where A = CsyMA(100-y) with x = 17%. y = 0% corresponds to Cs0M, i.e. it contains only MA/FA and no Cs. y = 17% contains only Cs/FA and no MA.</figDesc><table><row><cell>y</cell><cell>Voc (mV)</cell><cell>Jsc (mA cm -2 )</cell><cell>FF</cell><cell>PCE (%)</cell></row><row><cell>17%</cell><cell>1061</cell><cell>20.4</cell><cell>0.73</cell><cell>15.8</cell></row><row><cell>17%</cell><cell>1059</cell><cell>20.5</cell><cell>0.71</cell><cell>15.4</cell></row><row><cell>14%</cell><cell>1105</cell><cell>20.4</cell><cell>0.71</cell><cell>16</cell></row><row><cell>14%</cell><cell>1083</cell><cell>20.9</cell><cell>0.72</cell><cell>16.3</cell></row><row><cell>10%</cell><cell>1078</cell><cell>20.9</cell><cell>0.72</cell><cell>16.2</cell></row><row><cell>10%</cell><cell>1071</cell><cell>21.0</cell><cell>0.72</cell><cell>16.2</cell></row><row><cell>5%</cell><cell>1044</cell><cell>19.4</cell><cell>0.72</cell><cell>14.6</cell></row><row><cell>5%</cell><cell>1092</cell><cell>20.3</cell><cell>0.7</cell><cell>15.5</cell></row><row><cell>0%</cell><cell>1079</cell><cell>18.8</cell><cell>0.66</cell><cell>13.4</cell></row><row><cell>0%</cell><cell>1034</cell><cell>18.9</cell><cell>0.66</cell><cell>12.9</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Scan direction Jsc (mA cm -2 )</head><label></label><figDesc>TableS6Device parameters of the JV curves in Fig.S6b.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Voc</cell><cell>FF</cell><cell>PCE</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(mV)</cell><cell></cell><cell>(%)</cell></row><row><cell>Cs10M</cell><cell>FB to SC</cell><cell>23.2</cell><cell>1132</cell><cell>0.797</cell><cell>20.96</cell></row><row><cell></cell><cell>SC to FB</cell><cell>23.3</cell><cell>1146</cell><cell>0.747</cell><cell>19.95</cell></row><row><cell>Cs 0M</cell><cell>FB to SC</cell><cell>21.7</cell><cell>1141</cell><cell>0.704</cell><cell>17.42</cell></row><row><cell></cell><cell>SC to FB</cell><cell>21.7</cell><cell>1115</cell><cell>0.716</cell><cell>17.31</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>. R-Square 0.764</figDesc><table><row><cell></cell><cell>Value</cell><cell>Standard Error</cell></row><row><cell>y0</cell><cell>0</cell><cell>0</cell></row><row><cell>A1</cell><cell>1.51311</cell><cell>0.08411</cell></row><row><cell>t1</cell><cell>1.68658</cell><cell>0.14526</cell></row><row><cell>A2</cell><cell>18.38261</cell><cell>0.00868</cell></row><row><cell>t2</cell><cell>7258.93022</cell><cell>179.66342</cell></row><row><cell cols="2">Fast half-life constant = t1*ln2 = 1.2 h</cell><cell></cell></row><row><cell cols="2">Slow half-life constant = t2*ln2 = 5032 h</cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 1</head><p>In Fig. <ref type="figure">S2</ref>, we present XRD data with Cs0M and Cs10M films at different times during the 130 °C aging procedure. As stated in the manuscript the Cs-containing films degrade less quickly than the non-Cs films.  <ref type="bibr" target="#b2">3</ref> In order to relate our result with this finding, we investigated the less bromine containing Cs0.10FA0.90Pb(I0.83Br0.17)3, which is the MA-free version of our champion recipe. In Fig. <ref type="figure">S3</ref>, the XRD data reveals that after 4 h at 130 °C, the films start to degrade severely with the clear presence of a PbI2 peak.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Giordano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Correa Baena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Zakeeruddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Nazeeruddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hagfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Graetzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Commun</title>
+		<imprint>
+			<date type="published" when="2016">2016, 7, 10379</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Dar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Renevier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schenk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abate</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Giordano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Correa Baena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Decoppet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Zakeeruddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Nazeeruddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gratzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hagfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Adv</title>
+		<imprint>
+			<date type="published" when="2016">2016, 2, e1501170</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Mcmeekin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sadoughi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Rehman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Horantner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Haghighirad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Korte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Herz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="151" to="155" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Misra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aharon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mogilyansky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Visoly-Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Etgar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Katz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Phys Chem Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="326" to="330" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Mandal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1764" to="1769" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

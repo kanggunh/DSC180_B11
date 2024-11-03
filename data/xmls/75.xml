@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Compositional engineering of perovskite materials for high-performance solar cells</title>
+				<funder>
+					<orgName type="full">Global Frontier R&amp;D Program of the Center for Multiscale Energy System</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Research Foundation in Korea</orgName>
+				</funder>
+				<funder ref="#_nsWYW4s">
+					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nam</forename><forename type="middle">Joong</forename><surname>Jeon</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Jun</roleName><forename type="first">Hong</forename><surname>Noh</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Woon</forename><forename type="middle">Seok</forename><surname>Yang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Young</forename><forename type="middle">Chan</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Seungchan</forename><surname>Ryu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jangwon</forename><surname>Seo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sang</forename><forename type="middle">Il</forename><surname>Seok</surname></persName>
+						</author>
+						<title level="a" type="main">Compositional engineering of perovskite materials for high-performance solar cells</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5C525A89A14E2958DBC547DDEC7A6BD1</idno>
+					<idno type="DOI">10.1038/nature14133</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:23+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Of the many materials and methodologies aimed at producing lowcost, efficient photovoltaic cells, inorganic-organic lead halide perovskite materials <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> appear particularly promising for next-generation solar devices owing to their high power conversion efficiency. The highest efficiencies reported for perovskite solar cells so far have been obtained mainly with methylammonium lead halide materials <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> .</p><p>Here we combine the promising-owing to its comparatively narrow bandgap-but relatively unstable formamidinium lead iodide (FAPbI 3 ) with methylammonium lead bromide (MAPbBr 3 ) as the light-harvesting unit in a bilayer solar-cell architecture <ref type="bibr" target="#b12">13</ref> . We investigated phase stability, morphology of the perovskite layer, hysteresis in current-voltage characteristics, and overall performance as a function of chemical composition. Our results show that incorporation of MAPbBr 3 into FAPbI 3 stabilizes the perovskite phase of FAPbI 3 and improves the power conversion efficiency of the solar cell to more than 18 per cent under a standard illumination of 100 milliwatts per square centimetre. These findings further emphasize the versatility and performance potential of inorganic-organic lead halide perovskite materials for photovoltaic applications.</p><p>An inorganic-organic lead halide perovskite is any material that crystallizes into an AMX 3 (where A is an organic ammonium cation, M is Pb or Sn, and X is a halide anion) structure. The size of cation A is critical for the formation of a close-packed perovskite structure; in particular, cation A must fit into the space composed of four adjacent cornersharing MX 6 octahedra. Of the various inorganic-organic lead halide perovskite materials, methylammonium lead iodide (MAPbI 3 ), with a bandgap of about 1.5-1.6 eV and a light absorption spectrum up to a wavelength of 800 nm, has been extensively used as a light harvester in solar cells. Several methods, including a one-step spin-coating method <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b5">6</ref> , a two-step sequential method <ref type="bibr" target="#b3">4</ref> , and vapour deposition in a high-vacuum chamber <ref type="bibr" target="#b4">5</ref> , have been used to prepare MAPbI 3 materials. Additionally, different device architectures such as planar <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b9">10</ref> and mesostructured cells <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b6">7</ref> have also been proposed. The highest power conversion efficiency <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b10">11</ref> (PCE) so far, of 16% to 17%, was achieved for solution-processed MAPbI 3, although 19.3% in a planar device architecture was recently obtained from a reverse-bias current-voltage (I-V) curve <ref type="bibr" target="#b11">12</ref> . We note that a PCE measured <ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref> via a reverse-bias scan with the solar cells exhibiting a large-hysteresis I-V curve can be highly overestimated.</p><p>We have already showed that chemical modification of the X site anions (for example, substitution of I with Br) of MAPbI 3 can tune the bandgaps to range between 1.5 eV and 2.3 eV by incorporating MAPbBr 3 (2.3 eV bandgap); this resulted in colour variation and PCE modulation <ref type="bibr" target="#b5">6</ref> . In contrast, HC(NH 2 ) 2 PbI 3 , which contains formamidinium (FA) cations instead of methylammonium (MA) cations at the 'A' site of the AMX 3 perovskite structure, has a bandgap of 1.48 eV, with an absorption edge of 840 nm (refs 16-18). We expect that this reduced bandgap may allow absorption of photons over a broader solar spectrum. The structural and opto-electrical differences of MAPbI 3 and FAPbI 3 are likely to originate from the difference in ionic radius of the MA (1.8 A ˚) and FA ions (1.9-2.2 A ˚). In fact, the relative ionic radii of A, M and X in the AMX 3 perovskite structure have been widely used as a method of establishing the distortion of the MX 6 octahedron; in particular, a relatively smaller ion radius for X favours the formation of cubic structures <ref type="bibr" target="#b17">18</ref> . However, the photovoltaic performance of FAPbI 3 has been reported to be lower than that of MAPbI 3 (refs 16, 17). In addition, the black perovskite-type polymorph (a-phase), which is stable at relatively high temperatures (above 160 uC), was observed to turn into the yellow FAPbI 3 polymorph (d-phase) in an ambient humid atmosphere <ref type="bibr" target="#b16">17</ref> . However, considering their suitable bandgap (which is lower than that in MAPbI 3 ), the performance of FAPbI 3 solar cells can be considerably improved by stabilizing the FAPbI 3 phase, improving the crystallinity, and optimizing the cell architecture. In this regard, Pellet et al. <ref type="bibr" target="#b18">19</ref> demonstrated an improved PCE using mixed cation lead iodide perovskites by gradually substituting MA with FA cations-which increases the absorption range by shifting it redwards, allowing for a higher current density-but the performance was still dominated by MAPbI 3 rather than FAPbI 3 . We have recently reported a 16.2% certified PCE obtained from the combination of MAPbI 3 and MAPbBr 3 with a bilayer architecture consisting of perovskite-infiltrated mesoporous-TiO 2 electrodes, and an extremely uniform and dense upper perovskite layer obtained by solvent engineering techniques <ref type="bibr" target="#b12">13</ref> ; the absorption edge was below 770 nm. A strategy for extending the absorption range of solar light is thus to replace MAPbI 3 with FAPbI 3 in the combined composition of MAPbI 3 and MAPbBr 3 .</p><p>Here we report the overall PCE and structural stability of (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x , with the mole ratio x ranging between 0 and 0.3. We investigated the performance of systems containing different amounts of MAPbBr 3 incorporated into FAPbI 3 -that is, (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x -by measuring their current density versus voltage (J2V). Figure <ref type="figure" target="#fig_0">1a</ref> shows the PCEs obtained from the J2V curves for different (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x systems under standard air-mass 1.5 global (AM1.5G) illumination. The PCEs were averaged from the reverse (from the open-circuit voltage V oc to the short-circuit current I sc ) and forward (from I sc to V oc ) sweeps, because perovskite solar cells may experience a dependence of the measured efficiency on the scan direction. However, the hysteresis of the cells fabricated from FAPbI 3 and FAPbI 3 incorporating 15 mol% MAPbBr 3 was not relevant, even after collecting J2V curves with the relatively short scanning delay time of 40 ms (Fig. <ref type="figure" target="#fig_0">1b</ref>). In addition, the small discrepancies related to the scan direction for the FAPbI 3 /MAPbBr 3 systems disappeared at longer delay times (above 100 ms). That the hysteresis observed in FAPbI 3 -based systems is negligible compared to the hysteresis in MAPbI 3 (Fig. <ref type="figure" target="#fig_0">1b</ref> inset) may be related to the balance between electron and hole transport within the perovskite layer.</p><p>As reported, the electron-diffusion length in MAPbI 3 (,130 nm) is 1.4 times larger than the hole-diffusion length (,90 nm) <ref type="bibr" target="#b19">20</ref> , while FAPbI 3 has a hole-diffusion length (,813 nm) that is 4.6 times longer than the electron-diffusion length (,177 nm) <ref type="bibr" target="#b15">16</ref> . In addition, Kanatzidis et al. <ref type="bibr" target="#b17">18</ref> showed, by measuring the Seebeck coefficient, that MAPbI 3 and FAPbI 3 display an n-type and a p-type character, respectively. Since the incident light of the FTO/TiO 2 /perovskite/PTAA/Au (where FTO is fluorine-doped tin oxide and PTAA is poly(triarylamine)) cell configuration reaches the perovskite through the FTO side, more carriers are generated on the perovskite near TiO 2 than on the perovskite near PTAA. Therefore, many more holes than electrons should travel a long distance through the perovskite layer to the PTAA layer. This indicates that the balance between electron and hole transport in cells should be considered in compositional engineering for highly efficient perovskite solar cells. Data in Table <ref type="table" target="#tab_0">1</ref> show that the solar cell annealed at 100 uC with x 5 0 exhibits considerably low J sc , V oc and fill factor (FF) values. In contrast, the overall PCE, including J sc , V oc and FF, noticeably increased when annealing was performed at 150 uC. The trend of PCE as a function of x in the cells fabricated with FAPbI 3 -MAPbBr 3 showed that J sc increases from 19.0 mA cm 22 (at x 5 0.05) to a maximum value of 22 mA cm 22 (at x 5 0.15); after this point, J sc decreases to 20 mA cm 22 (at x 5 0.30). In this range, V oc increases from 1.0 V to 1.12 V. Interestingly, the FF showed exactly the same J sc behaviour with a maximum value of 73% at x 5 0.15.</p><p>The ultraviolet-visible absorption spectra displayed in Fig. <ref type="figure" target="#fig_0">1c</ref> show a systematic shift of the absorption band edge to shorter wavelengths when the MAPbBr 3 content is increased. The reduction of J sc observed with x larger than 0.15 is directly related to the blue-shift of absorption onset, which in turn is responsible for the reduced light-harvesting efficiency. As expected, the external quantum efficiency (EQE) spectrum shown in Fig. <ref type="figure" target="#fig_0">1d</ref> is blue-shifted when x is increased, resulting in the reduction of J sc . However, a relatively lower J sc , below x 5 0.15, indicates that the charge-collection efficiency is also low, because J sc is proportional to the product of the charge-collection efficiency and the light-harvesting efficiency. The fact that the FF has a trend similar to that of J sc supports this, as confirmed by the considerably high series resistance shown below x 5 0.15 (with annealing at 100 uC). The increase of V oc over the entire range studied in this work may be attributed to the widening of the bandgap, which occurs when x increases. Most importantly, the PCE of the solar cells fabricated in this study exhibits a maximum value of 17.3% at x 5 0.15, owing to the simultaneous enhancement of J sc and FF, while V oc continues to increase (because the PCE is determined from the products of J sc , V oc and FF).</p><p>To further elucidate possible reasons for such low values of J sc and FF below x 5 0.15, we examined the phase stability of FAPbI 3 . It is known that FAPbI 3 is characterized by a reversible phase transition between two polymorphs, that is, a black perovskite with trigonal symmetry (space group P3m1) and a yellow non-perovskite with hexagonal symmetry (P6 3 mc) <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> . The latter contains linear chains of [PbI 6 ] octahedrons with face-sharing, while the former consists of a three-dimensional network of corner-sharing octahedrons.</p><p>Figure <ref type="figure" target="#fig_1">2a</ref> shows the results of the differential scanning calorimetry (DSC) and thermogravimetric analysis of a yellow FAPbI 3 powder heated at 300 uC. An endothermic peak around 160 uC was found with the DSC analysis, which appears without any weight loss up to 250 uC in the thermogravimetric analysis. The X-ray diffraction (XRD) spectra of the yellow powder measured in situ (Extended Data Fig. <ref type="figure" target="#fig_0">1</ref>) suggest that the endothermic peak can be assigned to the phase transition from yellow non-perovskite to black perovskite, in agreement with previous studies <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b20">21</ref> . This indicates that the yellow non-perovskite phase for the pure FAPbI 3 material is likely to be thermodynamically stable. This phase transition was also found to be reversible in air, that is, the prepared yellow non-perovskite phase changed to the black perovskite phase when annealing was performed at 170 uC; the black powder turned yellow again after being stored in air for 10 days (Extended Data Fig. <ref type="figure" target="#fig_1">2</ref>).</p><p>This unintentional phase transition in FAPbI 3 solar cells may reduce the photovoltaic performance, because the yellow phase is characterized by a large optical bandgap (Fig. <ref type="figure" target="#fig_0">1c</ref>) and an inferior charge-transporting ability due to the linear chain-like [PbI 6 ] octahedron structure. Notably, AMX 3 (where A is Rb, Cs, MA or FA, M is Pb or Sn, and X is Cl, Br or I) metal trihalide materials exist as either two polymorphs (perovskite and non-perovskite) or only one of the two, depending on the atomic size of values for cells using (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x materials, which were annealed at 100 uC for 10 min (black line); the red diamond indicates the PCE value for the cell fabricated using pure FAPbI 3 (x 5 0); annealing was performed at 150 uC for 10 min to form the black perovskite phase. b, J-V curves for cells constructed from FAPbI 3 , (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.15 and MAPbI 3 (inset) films measured with a 40 ms scanning delay in reverse (from V oc to I sc ) and forward (from I sc to V oc ) modes under standard AM 1.5 G illumination. Pure FAPbI 3 (x 5 0) was then annealed at 150 uC. c, Ultraviolet-visible absorption spectra of (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x films (with x 5 0, dark yellow; x 5 0.05, red; x 5 0.15, green; x 5 0.25, blue) annealed at 100 uC on fused silica substrates; the black line indicates absorption spectra for the pure FAPbI 3 film (perovskite phase) annealed at 150 uC; the dark yellow line indicates a nonperovskite FAPbI 3 form. d, EQE spectra for cells using (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x materials (with x 5 0, black; x 5 0.05, red; x 5 0.15, green; x 5 0.25, blue). Pure FAPbI 3 (x 5 0) was annealed at 150 uC. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LETTER RESEARCH</head><p>the components <ref type="bibr" target="#b21">22</ref> . For example, in contrast to CsSnI 3 , which has two polymorphs, MASnI 3 , with larger MA 1 cations, shows only a perovskite phase and no phase transition near room temperature (,25 uC). RbSnI 3 , with smaller Rb 1 cations, shows only a non-perovskite phase <ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> .</p><p>Therefore, the atomic combination of the A and X sites may lead to the stabilization of the FAPbI 3 perovskite structure.</p><p>Figure <ref type="figure" target="#fig_1">2b</ref> shows the XRD spectra of the prepared FAPbI 3 , (FAPbI 3 ) 1 2 x (MAPbI 3 ) x , (FAPbI 3 ) 1 2 x (FAPbBr 3 ) x , and (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x films (with x 5 0.15) on mesoporous-TiO 2 / blocking-TiO 2 /FTO glass substrates, after annealing at 100 uC for 10 min; these were prepared using the solvent-engineering process with precursor solutions of the desired compositions as previously reported <ref type="bibr" target="#b12">13</ref> . The XRD spectrum of the pure FAPbI 3 thin film shows the typical diffraction pattern of a hexagonal non-perovskite polymorph of FAPbI 3 (P6 3 mc) <ref type="bibr" target="#b17">18</ref> ; this can be detected from DSC (Fig. <ref type="figure" target="#fig_1">2a</ref>), because the temperature of the annealing (100 uC) is much lower than the temperature (160 uC) at which the phase transition occurs. However, when FA 1 cations in FAPbI 3 are substituted by 15 mol% of MA 1 cations, a strong (111) diffraction peak at 13.9u for the trigonal perovskite phase (P3m1) appears in spite of the annealing at 100 uC. The same diffraction peaks are also observed in systems containing Br 2 ions (15 mol%), although the secondary phase coexists in the film.</p><p>Surprisingly, a simultaneous introduction of 15 mol% of both MA 1 cations and Br 2 anions in FAPbI 3 to obtain (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.15 leads to a synergetic effect that stabilizes the perovskite phase. Interestingly, this is sufficient to form a FAPbI 3 perovskite phase even after incorporating 5 mol% of MAPbBr 3 (Extended Data Fig. <ref type="figure">3</ref>), although the single MA 1 or Br 2 can only partially form a perovskite phase. We also found that a highly crystalline perovskite layer is formed with values of x larger than 0.15, according to the full width of half maximum (FWHM) of the (2111) diffraction peak (Fig. <ref type="figure" target="#fig_1">2c</ref>). Therefore, we surmise that the enhancement of the phase stability and crystallinity results in an improvement of PCE in the x range of 0 to 0.15. The perovskite phase stabilization caused by the introduction of MAPbBr 3 to FAPbI 3 was also confirmed by an analysis carried out on the synthesized powders, which were prepared at room temperature by precipitation from solutions of FAPbI 3 , (FAPbI 3 ) 1 2 x (MAPbI 3 ) x , (FAPbI 3 ) 1 2 x (FAPbBr 3 ) x , and (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x with x 5 0.15. Photographs of the asprepared powders shown in Extended Data Fig. <ref type="figure">4</ref> indicate that a black powder like as-prepared MAPbI 3 is obtained only for (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.15 . In addition, the XRD spectra of the powders revealed that (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.15 , in contrast to FAPbI 3 , shows a pure perovskite phase (Extended Data Fig. <ref type="figure">5</ref>), with no endothermic DSC peaks (Fig. <ref type="figure" target="#fig_1">2a</ref>). This finding confirms that the co-substitution of MA to FA and Br to I can efficiently stabilize the perovskite phase. However, further investigation is required to determine the energetics of the perovskite and non-perovskite formation and to establish the composition of the stable form in perovskite halide materials.</p><p>We recently successfully fabricated a complete bilayer on a mesoporous-TiO 2 using the solvent-engineering technology; our findings confirmed that surface coverage and morphology of perovskite materials is critical <ref type="bibr" target="#b12">13</ref> . For this reason, here we analysed the surfaces deposited with different x values for MAPbBr 3 /FAPbI 3 using the solvent-engineering process. Figure <ref type="figure" target="#fig_1">2d</ref> shows the surface scanning electron microscope (SEM) images </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH LETTER</head><p>of (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x , with x 5 0, 0.05 and 0.15, on a 200-nmthick mesoporous-TiO 2 /blocking-TiO 2 /FTO annealed for 10 min at 150 uC (x 5 0) and 100 uC, respectively. Our results showed that the surface of FAPbI 3 exhibits an irregular morphology with bumpy roughness. Incorporating MAPbBr 3 into FAPbI 3 (with x 5 0.15) considerably smoothed the surface; however, systems characterized by x 5 0.05 still presented large voids between crystal boundaries. The rough surface of FAPbI 3 may be due to the transition from non-perovskite to perovskite phases and to the high temperature required for the formation of the perovskite phase. Indeed, manipulating the composition of FAPbI 3 by adding MAPbBr 3 led to the stabilization of the perovskite phase with a uniform and dense morphology as well as well-developed crystallites, which are responsible for the highly improved cell performance.</p><p>On the basis of these results, we repeated the fabrication procedure, fixing x to a value of 0.15 to enhance further the performance of the FAPbI 3 -MAPbBr 3 system with an architecture as follows: FTO/blocking-TiO 2 (70 nm)/mesoporous-TiO 2 :perovskite composite layer (200 nm)/ perovskite upper layer (300 nm)/PTAA (50 nm)/Au (100 nm). Of the devices obtained, Fig. <ref type="figure">3a</ref> shows the J-V curves measured via reverse and forward bias sweep for one of the best-performing solar cells. The J sc , V oc and FF values averaged from the J-V curves of this device are 22.5 mA cm 22 , 1,105 mV and 73.2%, respectively; these correspond to a PCE of 18.4% under standard AM1.5G conditions. The PCE value is in agreement with that obtained from the stabilized power output near the maximum power point, reflecting the device performance in the working condition more closely (Extended Data Fig. <ref type="figure">6</ref>).</p><p>In the case of the cell using thinner mesoporous-TiO 2 layer (80 nm), as shown in Extended Data Fig. <ref type="figure">7</ref>, although an unprecedented PCE of 20.3% was measured via reverse bias scan, the PCE of around 17.3% obtained from an average J-V curve and steady-state current measurement is far lower than that from the best cell using a 200-nm-thick mesoporous-TiO 2 layer, owing to the low PCE of 15.5% with forward bias scan. This result is similar to those of ref. 12 and implies that substantial PCE values should be obtained from J-V curves averaged with reverse and forward bias sweep. Figure <ref type="figure">3b</ref> shows the EQE spectrum for one of the best-performing solar cells. A very broad EQE plateau of over 80% between 400 nm and 750 nm was observed. The J sc value integrated from EQE was found to be in good agreement with that measured by J-V. The highly performing devices exhibiting PCEs of 18.0% with very small hysteresis was certified by the standardized method in the photovoltaic calibration laboratory, confirming a PCE of 17.9% under AM1.5G full sun (Extended Data Fig. <ref type="figure">8</ref>). To the best of our knowledge, such a PCE value is the highest ever reported for a perovskite-based solar cell, excluding the value overestimated by reverse bias scan.</p><p>We have described the compositional engineering of (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x for efficient perovskite solar cells. (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.15 has many advantages over other systems such MAPbI 3 , FAPbI 3 , and MAPb(I 0.85 Br 0.15 ) 3 . This strategy may lead to more efficient and cost-effective inorganic-organic hybrid perovskite solar cells.</p><p>Online Content Methods, along with any additional Extended Data display items and Source Data, are available in the online version of the paper; references unique to these sections appear only in the online paper. LETTER RESEARCH</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head><p>Materials. Unless stated otherwise, all materials were purchased from Sigma-Aldrich or Junsei Organics and used as received. PTAA was purchased from EM Index. Synthesis of the TiO 2 paste. The TiO 2 nanoparticles used in the paste were prepared by hydrothermal treatment at 250 uC for 12 h from aqueous solutions of the peroxotitanium complex, as described elsewhere <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> . The peroxotitanium complex solutions were synthesized via a reaction between hydrogen peroxide and the TiO(OH) 2 wet cake. The wet cake was obtained by the dropwise addition of a NH 4 OH solution into 0.33M TiOCl 2 aqueous solution obtained by the hydrolysis of TiCl 4 . The resulting cake was purified by repeated washing with deionized water until no Cl 2 ions were detected. Then, 200 ml of 35 wt% hydrogen peroxide was added into 300 ml of a 2 wt% TiO(OH) 2 -dispersed aqueous solution such that the H 2 O 2 /Ti 41 ratio was ,40; the solution was constantly stirred in an ice bath. Once the addition of H 2 O 2 was completed, the colour of the precipitate changed from white to turbid yellowish, and finally light orange-or reddish-coloured transparent solutions were formed within 1 h. The TiO 2 -nanoparticle (average diameter 50 nm, anatase) slurry obtained by the hydrothermal treatment was stirred for 1 h, while several drops of concentrated nitric acid were added to obtain a colloidal dispersion solution. Then the TiO 2 nanoparticles were collected by the centrifugal method. The TiO 2 wet cake was re-dispersed and centrifuged in absolute ethanol by ultrasonic irradiation. The process with absolute ethanol was repeated for three cycles. The collected TiO 2 nanoparticles were dispersed in 100 ml of absolute ethanol, 4.5 g (per 1 g of TiO 2 ) of a 10 wt% ethanolic solution of ethyl cellulose (Fluka, 46070), and 4.4 g (per 1 g of TiO 2 ) of terpineol. After the addition of each component, the mix was stirred for 10 min and homogenized by ultrasonic irradiation. The paste was finally produced by a three-rollermill grinder (EXAKT) after concentrating the mixture solution in a rotary evaporator. Synthesis of the inorganic-organic mixed perovskite. CH 3 NH 3 I and NH 2 CH 5 NH 2 I were first synthesized by reacting 30 ml hydroiodic acid (57% in water, Aldrich), 27.86 ml CH 3 NH 2 (40% in methanol, Junsei Chemical), and 15 g formamidine acetate (Aldrich) in a 250 ml round-bottomed flask at 0 uC for 2 h with stirring. The precipitates were recovered by evaporating the solutions at 50 uC for 1 h. The products were dissolved in ethanol, recrystallized using diethyl ether, and finally dried at 60 uC in a vacuum oven for 24 h. Similarly, CH 3 NH 3 Br and NH 2 CH 5 NH 2 Br were prepared using hydrobromic acid (48 wt% in water, Aldrich) according to a reported procedure <ref type="bibr" target="#b26">27</ref> . The desired solutions of FAPbI 3 , (FAPbI 3 ) 1 2 x (MAPbI 3 ) x , (FAPbI 3 ) 1 2 x (FAPbBr 3 ) x , and (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x (with x 5 0-0.30) were prepared by dissolution of the CH 3 NH 3 I, CH 3 NH 3 Br, NH 2 CH 5 NH 2 I, and NH 2 CH 5 NH 2 Br powders with PbI 2 (Aldrich) and PbBr 2 (Aldrich) in the c-butyrolactone:DMSO mixed solvent (7:3, volume ratio) at 60 uC for 10 min. Solar cell fabrication. A dense blocking layer of TiO 2 (60 nm, blocking-TiO 2 ) was deposited onto an F-doped SnO 2 (FTO, Pilkington, TEC8) substrate by spray pyrolysis using a 20 mM titanium diisopropoxide bis(acetylacetonate) solution (Aldrich) at 450 uC; this was done to prevent a direct contact between FTO and the holeconducting layer. A 200-nm-thick mesoporous-TiO 2 was spin-coated onto the blocking-TiO 2 /FTO substrate using TiO 2 pastes diluted in 2-methoxyethanol (1 g in 5 ml) and calcinated at 500 uC for 1 h in air to remove the organic components.</p><p>The inorganic-organic lead halide perovskite solutions were then coated onto the mesoporous-TiO 2 /blocking-TiO 2 /FTO substrate by two consecutive spin-coating steps, at 1,000 rpm and 5,000 rpm for 40 s and 20 s, respectively. During the second spin-coating step, 1 ml toluene was poured onto the substrate, according to the procedure reported in ref. 13. To obtain a uniform and flat intermediate-phase film, toluene should be quickly cast in one-shot mode on a rapidly rotating (at 5,000 rpm) substrate to wash out the surplus of DMSO molecules that did not participate in the formation of the PbI 2 -NH 2 CH 5 NH 2 I-DMSO complex. The substrate was then dried on a hot plate at 100 uC or 150 uC for 10 min. A solution of PTAA (EM Index, [Mn] 5 17,500 g mol 21 )/toluene (10 mg ml <ref type="bibr" target="#b20">21</ref> ) with an additive of 7.5 ml Li-bis(trifluoromethanesulphonyl) imide/acetonitrile (170 mg ml <ref type="bibr" target="#b20">21</ref> ) and 4 ml 4-tert-butylpyridine was spin-coated on the perovskite layer/mesoporous-TiO 2 /blocking-TiO 2 /FTO substrate at 3,000 rpm for 30 s. Finally, an Au counter electrode was deposited by thermal evaporation; the active area of this electrode was fixed at 0.16 cm 2 . The different inorganic-organic lead halide triiodide powders were prepared by precipitation using toluene at room temperature from the desired compositional solutions obtained by dissolving CH 3 NH 3 I, CH 3 NH 3 Br, NH 2 CH 5 NH 2 I and NH 2 CH 5 NH 2 Br powders with PbI 2 and PbBr 2 in c-butyrolactone. Characterization. The XRD spectra of the prepared films were measured using a Rigaku SmartLab X-ray diffractometer; the in situ XRD experiment of the as-prepared FAPbI 3 yellow powder was performed using a Rigaku Ultima IV with an X-ray tube (Cu Ka, wavelength l 5 1.5406 A ˚). Ultraviolet-visible absorption spectra were recorded on a Shimadzu UV 2550 spectrophotometer in the 300-800 nm wavelength range at room temperature. The morphology of the films was observed using a field-emission SEM (MIRA3 LMU, Tescan). Thermogravimetric and DSC analyses of the as-prepared powders were performed with a heating rate of 2 uC min 21 from room temperature up to 300 uC under a nitrogen atmosphere using TA Instruments SDT 2960 and DSC 2910, respectively. EQE was measured by a power source (Newport 300W Xenon lamp, 66920) with a monochromator (Newport Cornerstone 260) and a multimeter (Keithley2001). The J-V curves were measured using a solar simulator (Newport, Oriel Class A, 91195A) with a source meter (Keithley 2420) at 100 mA cm 22 AM1.5G illumination and a calibrated Si-reference cell certified by the National Renewable Energy Laboratory, USA. The J-V curves were measured by reverse scan (forward bias (1.2 V) R short circuit (0 V)) or forward scan (short circuit (0 V) R forward bias (1.2 V)). The step voltage was fixed at 10 mV and the delay time, which is a delay set at each voltage step before measuring each current, was modulated. The J-V curves for all devices were measured by masking the active area with a metal mask (area of 0.096 cm 2 ).</p><p>Extended Data Figure <ref type="figure" target="#fig_0">1</ref> | In situ XRD spectra (heating from 100 6C to 170 6C) for FAPbI 3 yellow powders prepared at room temperature. LETTER RESEARCH</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 |</head><label>1</label><figDesc>Figure 1 | Characterization of materials. a, PCE</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 |</head><label>2</label><figDesc>Figure 2 | Characterization of materials. a, DSC and thermogravimetric curves of the as-prepared yellow FAPbI 3 powder under an Ar atmosphere with a heating rate of 2 uC min 21 from room temperature to 300 uC. The green line indicates the DSC results for (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.15 powder, which was prepared at room temperature by precipitation from the same compositional solution. b, XRD spectra of solvent-engineering-processed FAPbI 3 , (FAPbI 3 ) 1 2 x (MAPbI 3 ) x , (FAPbI 3 ) 1 2 x (FAPbBr 3 ) x , and (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x films with x 5 0.15, on mesoporous-TiO 2 /blocking-TiO 2 /FTO glass substrates after annealing at 100 uC for 10 min. a, d and # denote the identified diffraction peaks corresponding to the perovskite and non-perovskite polymorphs of FAPbI 3 and FTO, respectively. c, FWHM of the (2111) peak for (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x films as a function of x from XRD spectra of solvent-engineering-processed (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x films (see Extended Data Fig.4for further details). d, SEM plane view images of (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x films with x 5 0, 0.05 and 0.15.</figDesc><graphic coords="3,86.15,562.81,142.10,106.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>4 Figure 3 |</head><label>43</label><figDesc>Figure3| J-V and IPCE characteristics for the best cell obtained in this study. a, J-V curves of forward and reverse bias sweep and their averaged curve for the solar cell using the (FAPbI 3 ) 0.85 (MAPbBr 3 ) 0.15 perovskite active layer. b, EQE spectrum and integrated J sc .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Hexagonal non-perovskite FAPbI 3 (P6 3 mc) converted into a trigonal perovskite phase (P3m1) near 150 uC. The (2111) diffraction peak for perovskite FAPbI 3 at 2h 5 14.3u appeared at a temperature of 150 uC; simultaneously the main peak of non-perovskite FAPbI 3 at 11.6u disappeared.RESEARCH LETTERMacmillanPublishers Limited. All rights reserved ©2015 Extended Data Figure 2 | XRD spectra of FAPbI 3 powders. The as-prepared yellow FAPbI 3 powder shows a non-perovskite phase and is converted to perovskite phase by annealing at 170 uC. The perovskite FAPbI 3 black powder returned to the yellow non-perovskite powder after being stored in air for 10 h; the yellow powder reversibly changed to black perovskite phase by re-annealing at 170 uC. LETTER RESEARCH Macmillan Publishers Limited. All rights reserved ©2015 Extended Data Figure 3 | XRD spectra of (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x cells as a function of x. XRD spectra of solvent-engineering processed (FA 1 2 x MA x )Pb(I 1 2 x Br x ) 3 films on the mesoporous-TiO 2 /blocking-TiO 2 / FTO glass substrate after annealing at 100 uC for 10 min. a, a-phase of FAPbI3; #, peaks diffracted from FTO. RESEARCH LETTER Macmillan Publishers Limited. All rights reserved ©2015 Extended Data Figure 4 | Photographs of inorganic-organic hybrid halide powders. Photographs show the colour of the as-prepared MAPbI 3 , annealed FAPbI 3 at 170 uC, FAPbI 3 , (FAPbI 3 ) 1 2 x (MAPbI 3 ) x , (FAPbI 3 ) 1 2 x (FAPbBr 3 ) x , and (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x powders with x 5 0.15 (from left to right). The (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x powder is the only black powder among the as-prepared FAPbI 3 -based materials. LETTER RESEARCH Macmillan Publishers Limited. All rights reserved ©2015 Extended Data Figure 5 | XRD spectra of the as-prepared powders at room temperature. XRD spectra of the as-prepared FAPbI 3 , (FAPbI 3 ) 1 2 x (MAPbI 3 ) x , (FAPbI 3 ) 1 2 x (FAPbBr 3 ) x , and (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x powders with x 5 0.15 (from left to right). Only the (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x powder shows a pure perovskite phase. a, black perovskite-type polymorph; d, yellow non-perovskite polymorph. RESEARCH LETTER Macmillan Publishers Limited. All rights reserved ©2015 Extended Data Figure 6 | Steady-state current measurement. Steady-state current measured at a maximum power point (0.89 V) and stabilized power output.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,44.05,57.77,249.22,232.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,145.30,57.77,298.94,274.11" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,101.08,57.77,398.72,159.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,145.36,57.77,298.89,278.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,38.44,57.77,249.11,333.13" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,122.06,57.77,356.77,222.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 |</head><label>1</label><figDesc>Photovoltaic parameters from (FAPbI 3 ) 1 2 x (MAPbBr 3 ) x</figDesc><table><row><cell>x</cell><cell>J sc (mA cm 22 )</cell><cell>Voc (V)</cell><cell>FF</cell><cell>PCE (%)</cell><cell>Series resistance</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(V cm 2 )</cell></row><row><cell>0 (150 uC)</cell><cell>22.0</cell><cell>0.88</cell><cell>0.70</cell><cell>13.5</cell><cell>5.7</cell></row><row><cell>0</cell><cell>1.10</cell><cell>0.88</cell><cell>0.51</cell><cell>0.5</cell><cell>345</cell></row><row><cell>0.05</cell><cell>17.1</cell><cell>1.02</cell><cell>0.65</cell><cell>11.3</cell><cell>6.0</cell></row><row><cell>0.10</cell><cell>21.0</cell><cell>1.04</cell><cell>0.66</cell><cell>14.5</cell><cell>4.8</cell></row><row><cell>0.15</cell><cell>22.0</cell><cell>1.08</cell><cell>0.73</cell><cell>17.3</cell><cell>3.9</cell></row><row><cell>0.20</cell><cell>21.5</cell><cell>1.09</cell><cell>0.71</cell><cell>16.7</cell><cell>4.3</cell></row><row><cell>0.25</cell><cell>21.0</cell><cell>1.10</cell><cell>0.69</cell><cell>15.9</cell><cell>4.9</cell></row><row><cell>0.30</cell><cell>20.0</cell><cell>1.12</cell><cell>0.69</cell><cell>15.4</cell><cell>5.7</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Division of Advanced Materials, Korea Research Institute of Chemical Technology, 141 Gajeong-Ro, Yuseong-Gu, Daejeon 305-600, South Korea.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Department of Energy Science, 2066 Seoburo, Jangangu, Sungkyunkwan University, Suwon 440-746, South Korea.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Macmillan Publishers Limited. All rights reserved</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>Macmillan Publishers Limited. All rights reserved ©2015</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements This work was supported by the <rs type="institution">Global Research Laboratory (GRL) Program</rs>, the <rs type="funder">Global Frontier R&amp;D Program of the Center for Multiscale Energy System</rs>, funded by the <rs type="funder">National Research Foundation in Korea</rs>, and by a grant from the <rs type="funder">Korea Research Institute of Chemical Technology</rs> (<rs type="programName">KRICT) 2020 Program for Future Technology in South Korea</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_nsWYW4s">
+					<orgName type="program" subtype="full">KRICT) 2020 Program for Future Technology in South Korea</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions N.J.J., J.H.N. and S.I.S. conceived the experiments and analysed and interpreted the data. N.J.J., Y.C.K., J.H.N. and J.S. performed the fabrication of devices, device performance measurements and characterization. N.J.J., W.S.Y. and S.R. carried out the synthesis of materials for perovskites, and S.I.S. prepared TiO 2 particles and pastes. The manuscript was mainly written and revised by S.I.S. and J.H.N. The project was planned, directed and supervised by S.I.S. All authors discussed the results and commented on the manuscript.</p><p>Author Information Reprints and permissions information is available at www.nature.com/reprints. The authors declare no competing financial interests. Readers are welcome to comment on the online version of the paper. Correspondence and requests for materials should be addressed to S.I.S. (seoksi@krict.re.kr or seoksi@skku.edu).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESEARCH LETTER</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Efficient hybrid solar cells based on meso-superstructured organometal halide perovskites</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="643" to="647" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Lead iodide perovskite sensitized all-solid-state submicron thin film mesoscopic solar cell with efficiency exceeding 9%</title>
+		<author>
+			<persName><forename type="first">H.-S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Efficient inorganic-organic hybrid heterojunction solar cells containing perovskite compound and polymeric hole conductors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Photon</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="486" to="491" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sequential deposition as a route to high-performance perovskite-sensitized solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burschka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">499</biblScope>
+			<biblScope unit="page" from="316" to="319" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Efficient planar heterojunction perovskite solar cells by vapor deposition</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">501</biblScope>
+			<biblScope unit="page" from="395" to="398" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Chemical management for colorful, efficient, and stable inorganic-organic hybrid nanostructured solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Mandal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1764" to="1769" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Low-temperature processed mesosuperstructured to thin-film solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1739" to="1743" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Methoxy substituents in Spiro-OMeTAD for efficient inorganicorganic hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="7837" to="7840" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Voltage output of efficient perovskite solar cells with high open-circuit voltage and fill factor</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2614" to="2618" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Perovskite solar cells employing organic charge-transport layers</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Malinkiewicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Photon</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="128" to="132" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High-efficiency perovskitesolar cells based on the black polymorph of HC(NH 2 ) 2 PbI 3</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4991" to="4998" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Interface engineering of highly efficient perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="542" to="546" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Solvent engineering for high-performance inorganic-organic hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Mater</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="897" to="903" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Anomalous hysteresis in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1511" to="1515" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Parameters affecting I-V hysteresis of CH 3 NH 3 PbI 3 perovskite solar cells: effect of perovskite crystal size and mesoporous TiO 2 layer</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N.-G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2927" to="2934" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Formamidinium lead halide: a broad tunable perovskite for efficient planar heterojunction solar cells</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="982" to="988" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Formamidinium-containing metal-halide: an alternative material for near-IR absorption perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Koh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="16458" to="16462" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Semiconducting tin and lead iodide perovskites with organic cations: phase transition, high mobilities, and near-infrared photoluminescent properties</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="9019" to="9038" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Mixed-organic-cation perovskite photovoltaics for enhanced solarlight harvesting</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pellet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="3151" to="3157" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Long-range balanced electron and hole-transport lengths in organicinorganic CH 3 NH 3 PbI 3</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="344" to="347" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Crystal preparation and properties of cesium tin(II) trihalides</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Scaife</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Solid State Chem</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="308" to="314" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">CsSnI 3 : semiconductor or metal? High electrical conductivity and strong near-infrared photoluminescence from a single material. High hole mobility and phase-transitions</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Chung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="8579" to="8587" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Charge-transport in tin-iodide perovskite CH 3 NH 3 SnI 3 : origin of high conductivity</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Takahashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dalton Trans</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="5563" to="5568" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Cation-induced band-gap tuning in organohalide perovskites: interplay of spin-orbit coupling and octahetra tilting</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Amat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="3608" to="3616" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Facile preparation of large aspect ratio ellipsoidal anatase TiO 2 nanoparticles and their application to dye-sensitized solar cell</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Baek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="909" to="912" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Colloidal TiO 2 nanocrystals prepared from peroxotitanium complex solutions: phase evolution from different precursors</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interf. Sci</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="66" to="71" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">NH 2 CH5NH 2 PbI 3 : an alternative organolead iodide perovskite sensitizer for mesoscopic solar cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1485" to="1491" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>LETTER RESEARCH</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E14E0305BF6704C3B9533CBAEF737289</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:39+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sign In Sign In</head><p>The Homepage</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>pubs.aip.org</head><p>Explore AIP Publishing and our portfolio by logging into your account profile. Access published articles, information about our partnerships, individual publications, and submit your next manuscript.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Searching the Platform</head><p>From the homepage you can conduct a basic, advanced, or citation search across our content platform.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Search Results</head><p>When search results appear, you can:</p><p>• Filter by format, topic, subject, or journal   In the left-hand column, you can view the cover image, jump to a specific type of article, or view articles by topic.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Accessing an Article</head><p>Institutional customers access content via registered IP ranges. If you try to view content from an unauthorized IP address, you will be asked to select your method of access as shown here.</p><p>If you do not have access through your institution, you have the option to log in as an individual subscriber, purchase standard PPV, or view the article via Open Athens or Shibboleth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sign In</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viewing an Article</head><p>IP authenticated users can access articles without creating a profile. However to benefit from all tools available we encourage users to create a profile.</p><p>From an article, users can:</p><p>• Save searches</p><p>• Sign up for RSS feeds</p><p>• View in a split screen</p><p>• Download an article as a PDF</p><p>• Sign up for journal alerts</p><p>• View author affiliations and ORCID, where provided</p><p>• View and download article citations</p><p>• Add to your "favorites"</p><p>• "Share" the article through social media and Reddit</p><p>• View article metrics</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>• Access related articles</head><p>Most articles are accessible as HTML or PDF.</p><p>If only one format is available, the navigation bar will be updated to reflect the version offered. If available, supplementary data will be displayed in the left navigation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article Icons</head><p>The blue circle icons next to certain article titles indicate if it is a:</p><formula xml:id="formula_0">• Featured Article • Editor's Pick • Scilight</formula><p>A Scilight, a science highlight, is a professional summary of significant developments in a particular field of research. The articles that are chosen for Scilight are recommended by the research-active editors of AIP Publishing's journals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sign In</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article Figures &amp; Split Screen Option</head><p>Select "views" to toggle between "figures &amp; tables" and "article contents". Article "figures &amp; tables" can be downloaded directly as a PowerPoint presentation with citations or as a High-res image.</p><p>The newly added split screen feature offers readers a way to read an article and view the figures, references, and related content alongside each other.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article Metrics &amp; Citations</head><p>When available, article metrics can be viewed by selecting "View Metrics" in the upper right-corner of the page. As articles receive "views" and "citations" they will be calculated and updated daily.</p><p>(Note: article metrics are cumulative from 12/13/2016 onwards).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sign In Sign In</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sign In</head><p>Article citations can be viewed by selecting "Web of Science" or "Crossref"</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Related Content</head><p>A list of related content is found to the right of the article under "Related Content".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sharing an Article</head><p>Click on the share button to share an article via Twitter, Facebook, Reddit, or LinkedIn.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sign In</head><note type="other">Sign In 10 Navigating Books</note><p>Our books are fully integrated with our journals and are designed to help researchers at every stage of their career to discover new developments, investigate new techniques, and explore key concepts in emerging areas of science.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Select the book to view titles within each category</head><p>Accessing the Books Homepage</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>pubs.aip.org/books</head><p>Browse: Access our books by publication date, type, or author</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Book Title Page</head><p>The title page offers an easy to navigate overview with a description, short links to the book information, access options, and metrics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Buy this Book: purchase a PDF version of this book</head><p>Abstract: read the book abstract</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PDF: download individual book chapters</head><p>Share, Tools, Cite: share via social media or Reddit, and download citation information.</p><p>Buy Print: offers individual an option to purchase a personal softcover copy of this book myBook: offers readers at institutions with an active license an exclusive option to purchase a discounted B&amp;W copy</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>•</head><label></label><figDesc>Publishers: Learn about AIP Publishing and our publishing partners • Publications: View our journals, Physics Today magazine, conference proceedings and our books • Special Topics: Access the latest special topics across our publications • Authors: View author resources and learn about publishing • Librarians: View librarian resources and learn about access options • About: Learn about our mission Most Recent: View some of the most recently published articles across our journal portfolio Submit your article: Find the right journal to share your latest discovery worldwide Sign up for Alerts: register for journal and topic alerts to be delivered right to your inbox • Search box: Search the platform by keyword, phrase, DOI, ISBN, author name, etc. • Magnifying glass: Click to run your search • Advanced search: simultaneously search by several parameters to tailor your results • Citation search: Search by journal, volume and page number Sign In Basic Search: search the platform by a specific phrase or term Advanced Search: the search options below will appear, allowing you to utilize more than one search term or phrase, and apply filters to your search.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Article Search by Citation from Journal HomepageFrom the top of the journal homepage, you can search by citation. For the most accurate results, fill in the journal name, volume and page number.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,36.19,320.44,540.38,378.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>• Sort by relevance or publication date Sign In Sign In Citation Search: select</head><label></label><figDesc></figDesc><table /><note><p>the journal name and include the volume and page number.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>After clicking on "Browse" you are directed to the current issue and can navigate to previously published issues. Here you can view an article's abstract or the article in full.</figDesc><table><row><cell>Browse: Viewing the Latest Issue</cell><cell></cell></row><row><cell>From the navigation bar you can access:</cell><cell></cell></row><row><cell>• Home: navigate to journal homepage by clicking here • Browse: view the latest issue • Collections: view special issues, press releases, tutorials, and more</cell><cell>Learn about the journal and the editorial board, and access the current issue</cell></row><row><cell>• For Authors: information on preparing and submitting a manuscript • About: learn about the journal, its scope, editorial board and development team, and more.</cell><cell>Submit your article Sign up for journal alerts</cell></row><row><cell>Select articles of interest</cell><cell></cell></row><row><cell>View some of the most recently published articles</cell><cell>Access "most read" articles</cell></row><row><cell></cell><cell>Sign In</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viewing a Book Chapter</head><p>Additional tools and features are available for each chapter. Read the first chapter of any title for free. </p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

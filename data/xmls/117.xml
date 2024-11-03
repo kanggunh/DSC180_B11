@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Stress gradient analysis by noncomplanar x-ray diffraction and corresponding refraction correction</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Andrei</forename><surname>Benediktovitch</surname></persName>
+							<email>andrei.benediktovitch@atomicus.by</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Theoretical Physics</orgName>
+								<orgName type="institution">Belarusian State University</orgName>
+								<address>
+									<addrLine>Nezavisimosti Avenue 4</addrLine>
+									<settlement>Minsk</settlement>
+									<country key="BY">Belarus</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tatjana</forename><surname>Ulyanenkova</surname></persName>
+							<email>btatjana.ulyanenkova@rigaku.com</email>
+							<affiliation key="aff1">
+								<orgName type="department">Rigaku Europe SE</orgName>
+								<address>
+									<addrLine>Am Hardtwald 11</addrLine>
+									<settlement>Ettlingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jozef</forename><surname>Keckes</surname></persName>
+							<email>jozef.keckes@gmail.com</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">The University of Leoben</orgName>
+								<address>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alex</forename><surname>Ulyanenkov</surname></persName>
+							<email>dalex.ulyanenkov@rigaku.com</email>
+							<affiliation key="aff1">
+								<orgName type="department">Rigaku Europe SE</orgName>
+								<address>
+									<addrLine>Am Hardtwald 11</addrLine>
+									<settlement>Ettlingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Stress gradient analysis by noncomplanar x-ray diffraction and corresponding refraction correction</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EF2909C0876AC70A2DBB87471B12D90A</idno>
+					<idno type="DOI">10.4028/www.scientific.net/AMR.996.162</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>noncomplanar diffraction geometry</term>
+					<term>residual stress depth profiles</term>
+					<term>refraction and absorption</term>
+					<term>DWBA</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>X-ray residual stress analysis is a widespread nondestructive technique to investigate the residual stress and residual stress gradient in thin films and protective coatings. In the present contribution we introduce a new method based on the noncomplanar measurement geometry that allow to span large area of sin 2 ψ and penetration depth values without sample inclination. The refraction correction and absorption is considered in details for the noncomplanar measurements. The proposed technique is applied to determine stress gradients of blasted hard TiN coatings.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>To investigate residual stresses nondestructively, X-ray diffraction (XRD) analysis based on the sin 2 ψ method (dependence of the deformations from the sin 2 ψ value <ref type="bibr" target="#b0">[1]</ref>) is usually used. In the traditional sin 2 ψ plots each ψ value corresponds to different penetration depth and in the case of thin layers with the presence of stress gradient resulting in deviation from linear behavior. From these nonlinearities one can in principle extract the information about stress gradient, see e.g. <ref type="bibr" target="#b1">[2]</ref>, however, due to interplay between various kinds of uncertainties the reliability of results is not high <ref type="bibr" target="#b2">[3]</ref>. During the last decades a different modifications of this method appeared.</p><p>Using special set-up with help of so called scattering vector method <ref type="bibr" target="#b3">[4]</ref> one may perform the stress measurements at fixed penetration depth, i.e. can obtain more reliable results. At synchrotron facilities there are a number of additional techniques available, e.g. energy-dispersive methods, through-surface strain scanning, see <ref type="bibr" target="#b4">[5]</ref> and references there, or cross-sectional nano-diffraction <ref type="bibr" target="#b5">[6]</ref>, and other direct methods.</p><p>At the laboratory diffractometer the stress measurements (sin 2 ψ scans) at fixed penetration depth can be done by varying at the same time three goniometer angles (incidence, 2θ and inclination angles) <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. This allows to obtain a series of sin 2 ψ plots each corresponding to a fixed information depth; from this dataset stress profile in Laplace space can be directly obtained. However, in parallel-beam experimental geometry it is not favorable to move to high inclination angles due to increased beam footprint effect. Also, in case of heavy samples or in-situ measurements involving various sample attachments (like high-temperature stress measurements <ref type="bibr" target="#b8">[9]</ref>) it is not favorable to incline the sample stage. In this case one can achieve the same arrangement of sample normal and scattering vector by means of noncomplanar diffraction if the diffractometer is equipped with in-plane arm, like Rigaku SmartLab, Fig. <ref type="figure">1a</ref>.</p><p>The noncomplanar measurements utilizing in-plane arm enable to record complete pole figures in case of texture measurements <ref type="bibr" target="#b9">[10]</ref>, in case of residual stress measurements one can see that with the help of in-plane detector arm rotations and the combination of a several reflections it is possible to a)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>b)</head><p>Fig. <ref type="figure">1</ref>: a). In-plane diffractometer, where angle θ s is the angle between the line connecting sample and x-ray source and the plane of the sample holder; angle θ d is the angle between the axis of in-plane arm rotation and the plane of the sample holder (in case of no in-plane arm rotation θ d is the angle between the line connecting sample and detector and the plane of the sample holder); angle 2θχ is the angle of the in-plane arm rotation; angle χ is the angle of the sample tilt against the plane of the sample holder; angle ϕ is the angle of the sample rotation around the sample normal. b). A sketch of refraction in noncomplanar case for zero sample tilt. span large area of sin 2 ψ and penetration depth values even without sample inclination <ref type="bibr" target="#b10">[11]</ref>. However, the correct analysis of the obtained data requires handling of bulky trigonometric expressions that replace simple relations familiar in the usual complanar case. The expressions for factors influencing peak positions <ref type="bibr" target="#b13">[14]</ref> should be modified for noncomplanar case as well.</p><p>The residual stress analysis is sensitive to the precision of measured peak positions. The Lorentzpolarization, atomic scattering and absorption factors are important for wide 2θ scans involving number of Bragg peaks. For residual stress measurements only vicinity of a single Bragg peak is investigated, in this area the above mentioned factors are smooth functions and their influence on peak positions are minor <ref type="bibr" target="#b13">[14]</ref>. The refraction correction cause systematic Bragg shift that is essential especially at grazing angles when is important to get information about the stress in surface layer. The dependence of refraction Bragg shift on ψ angle can be interpreted as a fake residual stress and should be corrected for.</p><p>In the present contribution we give basic expressions for quantities of interest in noncomplanar case and discuss the refraction correction for this geometry. The conclusions derived are illustrated by depth resolved residual stress measurements of TiN hard coatings blasted by Al 2 O 3 particles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Basic equations for noncomplanar x-ray residual stress analysis</head><p>Below we will focus on diffractometer system depicted on Fig. <ref type="figure">1a</ref>. It is characterized by angle θ s defining the x-ray source position, by angles θ d and 2θχ defining the detector position, and angles χ, ϕ defining the sample tilt and rotation. In terms of these angles in the specimen reference frame the components of the wavevector k s corresponding to the incoming wave are:</p><formula xml:id="formula_0">k s (θ s , χ, ϕ) =k 0 (sin θ s sin χ sin ϕ + cos θ s cos ϕ, cos θ s sin ϕ -sin θ s sin χ cos ϕ, -sin θ s cos χ),<label>(1)</label></formula><p>and the components of the wavevector k d corresponding to the wave going from the sample to the detector are:</p><formula xml:id="formula_1">k d (θ d , 2θχ, χ, ϕ) =k 0 (cos θ d cos 2θχ,<label>(2)</label></formula><formula xml:id="formula_2">-cos χ sin 2θχ + cos 2θχ sin θ d sin χ, cos 2θχ cos χ sin θ d + sin 2θχ sin χ).</formula><p>With help of these expressions one can determine the quantities needed for residual stress analysis. Namely, the Bragg angle is expressed as</p><formula xml:id="formula_3">2θ B = arccos(cos 2θχ cos (θ s + θ d )),<label>(3)</label></formula><p>the ψ angle between scattering vector and surface normal is</p><formula xml:id="formula_4">ψ = arccos cos χ(cos 2θχ sin θ d + sin θ s ) + sin θ s sin χ √ 2 -2 cos(θ d + θ s ) cos 2θχ<label>(4)</label></formula><p>and penetration depth (without refraction correction) is given as</p><formula xml:id="formula_5">τ = 1 µ sin α sin β sin α + sin β , sin α = sin θ s cos χ, sin β = cos 2θχ cos χ sin θ d + sin 2θχ sin χ. (5)</formula><p>In the case of no sample tilt, χ = 0, for given Bragg angle, ψ angle and penetration depth τ one can find corresponding source and detector positions defined by angles θ s , θ d and 2θχ:</p><formula xml:id="formula_6">θ s = arcsin [( cos ψ - √ cos 2 ψ -2τ µ cos ψ csc θ B ) sin θ B ] , (<label>6</label></formula><formula xml:id="formula_7">)</formula><formula xml:id="formula_8">θ d = arccos 1 + P sin θ s √ 1 + P 2 + 2P sin θ s , 2θχ = arccos cos 2θ B cos θ s + θ d , P = ( cos ψ + √ cos 2 ψ -2τ µ cos ψ csc θ B ) sin θ B cos 2θ B .</formula><p>Based on Eq. ( <ref type="formula" target="#formula_6">6</ref>) one can determine accessable regions of angle ψ and penetration depth τ and set sin 2 ψ measurements at fixed penetration depth τ . To expand the range of sin 2 ψ-τ area one can combine several Bragg reflections. For more detailed analysis and experimental verification see <ref type="bibr" target="#b10">[11]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Refraction correction and absorption in noncomplanar geometry</head><p>The refraction correction in complanar case was considered in a number of papers, see e.g. <ref type="bibr" target="#b11">[12]</ref>, <ref type="bibr" target="#b12">[13]</ref>, <ref type="bibr" target="#b13">[14]</ref>. The expressions in <ref type="bibr" target="#b11">[12]</ref>, <ref type="bibr" target="#b13">[14]</ref> in the notations of angles θ s , θ d (and 2θχ = χ = 0) (see Fig. <ref type="figure">1b</ref>) are</p><formula xml:id="formula_9">∆2θ B = -δ ( cot θ d + cot θ s + 2 tan θ d + θ s 2 ) (7)</formula><p>here the refraction index is n = 1 -δ -iβ. This expression is approximate, as one can see that at θ s → 0 or θ d → 0 or at θ d + θ s → 180 • it goes to infinity. Expression that remains finite in the limits of small angles are given in <ref type="bibr" target="#b12">[13]</ref> and were checked experimentally. Below we extent the derivation given in <ref type="bibr" target="#b12">[13]</ref> to noncomplanar case. Figure <ref type="figure" target="#fig_0">2</ref> shows a drawing of refraction in noncomplanar case.</p><p>The basics of x-ray residual stress analysis is the Bragg law that which gives connection between peak position and interplanar spacing. It is consequence of kinematical theory of x-ray diffraction, in which x-rays in matter are described by plane waves same as in vacuum <ref type="bibr" target="#b14">[15]</ref>. In order to take into account the refraction one has to use Distorted Wave Born Approximation (DWBA), which treats the propagation of x-rays in averaged polycrystalline medium in exact way but treats scattering due to periodic part of polycrystalline matter polarizability in perturbative way <ref type="bibr" target="#b14">[15]</ref>. Hence, as a first step we have to find the wave field in the polycrystalline matter neglecting its crystalline periodicity. Assuming that a plane wave with a wave vector k is impinging on a semiinfinite sample with surface normal N the wave vector in matter is found based on the conservation of wave vector component k || parallel to the sample surface (Snell law) and dispersion equation for wave in the matter <ref type="bibr" target="#b14">[15]</ref>:</p><formula xml:id="formula_10">k ref r = k || ± N √ k 2 n 2 -k 2 || (<label>8</label></formula><formula xml:id="formula_11">)</formula><p>164 Residual Stresses IX here signs ± correspond to transmitted and refracted waves in matter. Below we limit our discussion to transmitted wave only which is justified for semiinfinite media. In stratified media, however, at grazing angles there is also refracted wave with which would also contribute to scattering and would lead to appearance of a shifted peak. Naturally, such effects can be expected to be significant only at angles close to the angle of total external reflection, but it may be quite interesting to try to detect this splitting experimentally. From Eq. ( <ref type="formula" target="#formula_10">8</ref>) performing some algebra one can find that normal component of the refracted wavevector k ref r ⊥ is</p><formula xml:id="formula_12">k ref r ⊥ = √ √ 4β 2 + (k 2 ⊥ -2δ) 2 + k 2 ⊥ -2δ √ 2 + i √ √ 4β 2 + (k 2 ⊥ -2δ) 2 -(k 2 ⊥ -2δ) √ 2 . (<label>9</label></formula><formula xml:id="formula_13">)</formula><p>According to DWBA one has to consider incoming wave and "time reversed" outgoing wave <ref type="bibr" target="#b14">[15]</ref>. As result the intensity is given as</p><formula xml:id="formula_14">I ∼ | ∫ drExp(iRe(k drefr -k srefr )r)Exp(-Im(k drefr ⊥ + k srefr ⊥ )z)V HKL (r)| 2 , (<label>10</label></formula><formula xml:id="formula_15">)</formula><p>here V HKL (r) is periodic part of crystallite scattering potential corresponding to reflex HKL. From Eq. ( <ref type="formula" target="#formula_14">10</ref>) one can see that the real part transmitted wavevector in the medium is responsible for Bragg peak formation and imaginary part is responsible for absorption. The magnitude of transmitted wavevector is usually described by Bragg angle calculated for wavevector k 0 of the radiation in vacuum. Determined in this way, Bragg angle corresponding to Eq. ( <ref type="formula" target="#formula_14">10</ref>) is</p><formula xml:id="formula_16">2θ B refr = arccos(1 -q 2 refr /2k 0 ), q = Re(k drefr -k srefr ).<label>(11)</label></formula><p>Combining together Eqs. ( <ref type="formula" target="#formula_16">11</ref>), ( <ref type="formula" target="#formula_12">9</ref>), ( <ref type="formula" target="#formula_10">8</ref>), ( <ref type="formula" target="#formula_0">1</ref>), ( <ref type="formula" target="#formula_1">2</ref>) after some algebra one obtain</p><formula xml:id="formula_17">2θ B refr = arccos ( cos 2θχ cos (θ s + θ d ) + 1<label>2</label></formula><formula xml:id="formula_18">( (k s⊥ + k d⊥ ) 2 -(k s⊥refr + k d⊥refr ) 2 ) ) , (<label>12</label></formula><formula xml:id="formula_19">)</formula><p>k s⊥ = sin(θ s ) cos(χ), k d⊥ = sin(θ d ) cos(θχ) cos(χ) + sin(θχ) sin(χ),</p><formula xml:id="formula_20">k s,d ⊥refr = √ √ 4β 2 + ( k s,d ⊥ 2 -2δ ) 2 + k s,d ⊥ 2 -2δ √ 2 .</formula><p>In the frame of current approach Eq. ( <ref type="formula" target="#formula_18">12</ref>) is exact. It gives finite values at all angles including grazing case, where it takes into account refraction as well as at 2θ → 180 • where it gives correction proportional to √ δ. Considering a practical case of nongrazing angles one can neglect the imaginary part β of the refraction index and consider δ as a small quantity. Expanding Eq. ( <ref type="formula" target="#formula_18">12</ref>) in series over δ one get</p><formula xml:id="formula_21">∆2θ B refr = -δ (2 + ks ⊥ k d⊥ + k d⊥ ks ⊥ ) √ 1 -cos 2 (θ d + θ s ) cos 2 2θχ . (<label>13</label></formula><formula xml:id="formula_22">)</formula><p>One can see that this expression has a crossover to Eq. ( <ref type="formula">7</ref>) in complanar case. Figure <ref type="figure" target="#fig_0">2a</ref> demonstrates this correction.</p><p>In the same way one can see that the penetration depth is given by</p><formula xml:id="formula_23">τ refr = 1 2Im(k drefr ⊥ + k srefr ⊥ ) , Imk s,d refr⊥ = k 0 √ √ 4β 2 + ( k s,d 2 ⊥ -2δ ) 2 -(k s,d 2 ⊥ -2δ) √ 2 ,<label>(14)</label></formula><p>Performing the expanding in series over δ one comes to Eq. ( <ref type="formula">5</ref>), here µ = 2k 0 β. Figure <ref type="figure" target="#fig_0">2b</ref> demonstrates this. In the same way one can find corrections to Eq. ( <ref type="formula" target="#formula_4">4</ref>), however, they are much smaller than experimental uncertainties connected with peak position determination and can be neglected. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental details</head><p>In order to check the approach of stress gradients measurements outlined above and evaluate importance of refraction corrections we have investigated residual stress state in the hard TiN coating. The polycrystalline TiN coating was deposited on WC/Co substrate using CVD at 900 • C. The reactant gases were N 2 , H 2 , and TiCl 4 . The final coating thickness was 11.5 µm. The coating was wet blasted using a pressure equal to 4.0•10 5 Pa. The diameter of the Al 2 O 3 particles used for the blasting process was approximately 50 µm.</p><p>The XRD experiments were performed on a five-circle SmartLab diffractometer from Rigaku equipped with a 9 kW rotating anode using Cu Kα radiation (λ = 1.54056 Å). X-ray diffraction stress measurements were carried out in parallel-beam geometry using in-plane diffractometer arm rotation without sample tilt (see Fig. <ref type="figure">1</ref>). The parallel beam optic was used to avoid any influence of the sample surface quality on the peak position. The diffractometer was carefully aligned and checked on the LaB 6 standard sample. The diffractometer is equipped with cross-beam optic (CBO, patented Rigaku Corp.) collimating the incident beam and equatorial divergence of the diffracted beam is controlled by a 0.5 • PSA. For lateral collimation the 0.5 • in-plane PSC (parallel slit collimator -a set of vertical plates) were used.</p><p>In the used technique to perform x-ray residual stress measurements with depth resolution the 2θ values should be varied close to Bragg angle to find peak position, this scan should be done at different sin 2 ψ values at fixed penetration depth. From the sin 2 ψ plots measured at various penetration depths the values of residual stress corresponding to different penetration depths might be found.</p><p>We used the 2θ scanning in 6 degree interval by changing θ s and θ d in equal steps. A step width on 2θ was chosen to be △2θ = 0.02 • and the rate during the measurements was equal to 0.02 • min -1 . During such scans at non zero 2θχ angle the detector traverses the Debye ring at, in general, arbitrary angle to the Debye ring normal.</p><p>To perform the depth resolved measurements the peak positions were measured at 84 sets of initial θ s , θ d , 2θχ angles, corresponding to points in sin 2 ψτ µ space. For the calculation of these points the set of TiN reflections with Bragg angles equal to 36.6, 42.0, 61.8, 93.17 and 104.68 were used. The angle values were calculated according to formalism above for the case of no sample tilt (χ = 0).</p><p>The diffraction elastic constants S hkl 1 and 1/2S hkl 2 were calculated by means of the Neerfield-Hill model (arithmetical average of Reuss and Voight model). In the evaluation procedure, the stress state of the hard coatings was assumed to be biaxial.</p><p>It is known the texture affect the results of residual stress measurements. Pole figures for (111), ( <ref type="formula">200</ref>) and (220) reflections were measured with the same in-plane setup.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>166</head><p>Residual Stresses IX Fig. <ref type="figure">3</ref>: Results of stress evaluation at different penetration depthes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and discussion</head><p>The measured pole figures indicate the TiN thin films posses {110} axial texture. The fraction of isotropic component was found to be about 70%, the textured component was found to be quite broad. Together with Zener anisotropy ration close to 1 for TiN the texture effects can be neglected. The dependencies between a(hkl, ψ, τ ) and sin 2 ψ demonstrated on Fig. <ref type="figure">3</ref> show linear behavior. This plots demonstrate two set of data (before and after correction on refraction). Due to small sin 2 ψrange covering the calculated stress values have large error bar. From the linear fit σ(τ ) the stress values are obtained for fixed penetration depth τ , see Fig. <ref type="figure" target="#fig_1">4</ref>. One can see that for small penetration depth the refraction causes a "fake" stress that is comparable to actual stress in the sample. As it should be, the correction becomes negligible for larger penetration depth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>A method for residual stress profiling in the µm scale based on the X-ray diffractometer equipped with in-plane arm (like Rigaku SmartLab) is applied to characterize stress gradients in blasted TiN coatings. The in-plane arm usage was shown to increase the accessible region in sin 2 ψτ space providing the sin 2 ψ plots in wider range, that improves the reliability of residual stress measurements. The effect of refraction at the sample surface which may cause the shift in Bragg peak position and therefore influences on the result of stress state determination is considered. It is demonstrated the importance of accounting for the refraction effect in accurate measurements of lattice constant before stress calculations using small incidence angles.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 :</head><label>2</label><figDesc>Fig. 2: a). The quantity 2θ -2θ B according to Eq. (12) (black) and according to Eq. (5) (red) for conventional θ -θ scan. Dashed line is limiting value of 2 √ 2δ. Refraction index is taken for TiN. b). The penetration depth according to Eq. (13) (black) and according to Eq. (5) (red) for conventional θ -θ scan. Dashed line is limiting value of 1/2µ.</figDesc><graphic coords="5,88.30,72.86,418.70,135.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 4 :</head><label>4</label><figDesc>Fig. 4: Stress in laplace space without (blue line) and with (black line) refraction correction.</figDesc><graphic coords="7,79.05,72.80,254.36,159.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,69.01,72.92,457.42,381.06" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><surname>Welzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ligot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lamparter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Vermeulen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Mittemeijer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1" to="29" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ruppersberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Detemple</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Krier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica Status Solidi</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">681687</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Behnken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hauk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Materials Science and Engineering: A</title>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="41" to="51" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Genzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica Status Solidi</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">629637</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><surname>Ch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Genzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Denks</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Klaus</surname></persName>
+		</author>
+		<title level="m">Modern Diffraction Methods</title>
+		<meeting><address><addrLine>Weinheim</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-VCH</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="127" to="154" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stefenelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Todt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Riedl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burghammer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J.Keckes. J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1378" to="1385" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Welzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Mittemeijer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="633" to="64638" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Th</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Erbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vhhringer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="377" to="385" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartosik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pitonak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keckes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Eng. Mat</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="705" to="711" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nagao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kagami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rigaku Journal</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="6" to="14" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benediktovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ulyanenkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keckes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ulyanenkov</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>JAC, sent</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Parrish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bellotto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Lim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Cryst</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="193" to="197" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Toney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brennan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="7963" to="7966" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wroński</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wierzbanowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baczmański</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lodini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ch</forename><surname>Braham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Seiler</surname></persName>
+		</author>
+		<idno>Suppl. 24 (S1) 2009 S11-S15</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Powder Diffraction</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benediktovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Feranchuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ulyanenkov</surname></persName>
+		</author>
+		<title level="m">Theoretical Concepts of X-ray Nanoscale Analysis. Theory and Applications</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">318</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benediktovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Guerault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Feranchuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Uglov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ulyanenkov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Material Sci. Forum</title>
+		<imprint>
+			<biblScope unit="volume">681</biblScope>
+			<biblScope unit="page" from="121" to="126" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">168 Residual Stresses IX</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

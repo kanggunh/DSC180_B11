@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Facet-dependent photovoltaic efficiency variations in single grains of hybrid halide perovskite</title>
+				<funder ref="#_S4Wrt2K">
+					<orgName type="full">DOE</orgName>
+				</funder>
+				<funder ref="#_z2SP6vj">
+					<orgName type="full">Office of Science of the US Department of Energy</orgName>
+				</funder>
+				<funder ref="#_Ebp8hcv">
+					<orgName type="full">Laboratory Directed Research</orgName>
+				</funder>
+				<funder ref="#_7ybJkpE">
+					<orgName type="full">National Science Foundation Graduate Research Fellowship</orgName>
+				</funder>
+				<funder ref="#_3RMr8JM">
+					<orgName type="full">US Department of Energy, Office of Science, SBIR/STTR Program Office</orgName>
+				</funder>
+				<funder ref="#_rWuf7tR">
+					<orgName type="full">US Department of Energy</orgName>
+					<orgName type="abbreviated">DOE</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sibel</forename><forename type="middle">Y</forename><surname>Leblebici</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Linn</forename><surname>Leppert</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yanbo</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sebastian</forename><forename type="middle">E</forename><surname>Reyes-Lillo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sebastian</forename><surname>Wickenburg</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ed</forename><surname>Wong</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jiye</forename><surname>Lee</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mauro</forename><surname>Melli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dominik</forename><surname>Ziegler</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">K</forename><surname>Angell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Frank</forename><surname>Ogletree</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><surname>Ashby</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Francesca</forename><forename type="middle">M</forename><surname>Toma</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><forename type="middle">B</forename><surname>Neaton</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ian</forename><forename type="middle">D</forename><surname>Sharp</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alexander</forename><surname>Weber-Bargioni</surname></persName>
+						</author>
+						<title level="a" type="main">Facet-dependent photovoltaic efficiency variations in single grains of hybrid halide perovskite</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FB774A49B754ECBD0ED8EE16FDF51E1C</idno>
+					<idno type="DOI">10.1038/NENERGY.2016.93</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Proper illumination of the tip apex/sample area was ensured using the following methods: We employed AdvancedTEC ContPt AFM probes (Nanosensors) tips, often referred to as elephant tips, since the tip protrudes from the end of the cantilever such that the tip apex is in the line of sight of the top objective. The 0.4 NA objective was used to focus the light onto the tip apex/sample from top down with a 24 degree half angle, ensuring uniform illumination of the tip/sample region. In addition, we obtained similar results using a second AFM with bottom illumination, however, with more lateral drift. Employing a traditional rectangular AFM cantilever with top down illumination did show shadowing effects in the form of reduced signalto-noise ratio.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Calculating mean of current variance and histogram</head><p>Variance, rather than standard deviation, was used to determine the spread in the ISC values within grains because the current distribution is not Gaussian due to the lower limit of 0 pA at short circuit conditions. To eliminate outliers from the variance calculation, a Gaussian blur (1.5) was applied to the ISC map. Then, for each facet area, the outlier current values (pixels) above and below the 75 th and 25 th percentile, respectively, were removed from the distribution. The variance was calculated for the remaining current values in the facet. Then, the mean was taken of the calculated variance values for each facet.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The following describes the details of how the histogram in Figure <ref type="figure">3c</ref> was calculated to establish the significant of the mean current variance in the facets. First, the number of facets identified from the gradient image and the number of pixels in each facet was determined. Then, for each identified facet, a square having an equivalent number of pixels was placed in a random position on the ISC; this was done for all the equivalent 'facets' at once. The variance was calculated for ISC values in each of the squares and their mean was calculated. This process represents each data point plotted in the histogram. The process of randomly placing all the squares, calculating the variance of the current in each, and then taking the mean of the variances was performed 2000 times to generate all the data in the histogram.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>First principles calculations</head><p>To understand the consequences of internal electric fields on the atomic and electronic structure of (CH3NH3)PbI3, we performed first principles density functional theory (DFT) calculations including spin-orbit coupling (SOC). Microscopically, (CH3NH3)PbI3 takes up a perovskite-like phase, consisting of corner-sharing PbI6 octahedra with the methylammonium (MA) ions on the A sites <ref type="bibr">[3]</ref><ref type="bibr">[4]</ref><ref type="bibr">[5]</ref> . At room temperature, the MA molecules are randomly-oriented and explore several local energy minima separated by small energy barriers on the order of 10 meV <ref type="bibr">6,</ref><ref type="bibr">7</ref> , resulting, on average, in a vanishingly small macroscopic polarization and a centrosymmetric phase. However, at room temperature, an external electric field would be expected to simultaneously align the MA molecules and off-center the Pb ion in the inorganic cage. The displacement of the Pb cation relative to the I6 octahedra causes a polar distortion in the structure that leads to the emergence of a significant polarization along the direction of the field.</p><p>The description of the experimental structure in the regime of low electric fields requires special attention. We use the experimentally reported room temperature tetragonal structure <ref type="bibr">3,</ref><ref type="bibr">8</ref> and compute the electronic band structure for antiparallel alignments of the MA ions in [001],</p><p>[100] and [111] direction (structures 1-3). It is important to note that, given the rotational freedom of MA molecules at room temperature <ref type="bibr">7</ref> , none of these structures is expected to represent the actual experimental structure under a small or zero electric field. Finite temperatures, which play an important role in determining structural properties of MAPbI3 <ref type="bibr">3</ref> , are not considered in our calculations. Hence, we approximate the room temperature ground state of MAPbI3 using locally stable low-energy structures in which the alignment of the MA molecule results in a small or vanishing polarization. We performed geometry optimizations of three structures with parallel alignment of the MA ions in [001], [100] and [111] direction to represent the regime of high internal electric fields (structures 4-6).</p><p>The total polarization was calculated using the modern theory of polarization <ref type="bibr">9</ref> as implemented in VASP. The macroscopic polarization of the polar structure 4 was calculated with respect to the experimentally observed room-temperature tetragonal structure 1 <ref type="bibr">3,</ref><ref type="bibr">8</ref> . The path connecting the polar and the non-polar structures was subdivided in 20 structures. For three of these structures (with MA alignment angles α of 45°, 90° and 135°) we additionally determined the effective masses as described above. We compute a total polarization of 12.5 μC/cm 2 , in agreement with previous calculations <ref type="bibr">10</ref> . We further estimated the contribution of the methylammonium (MA) molecules to the polarization by constructing a path connecting structures with parallel and antiparallel alignment of MA (without octahedral rotations of the iodine cage). We calculate the molecular contribution to the macroscopic polarization to be 5.3 μC/cm 2 and use this value to estimate the electric field Ec required to align the MA molecules to be 10 5 V/cm using the relationship EcP ~ ΔE/V, where the volume V and polarization P are obtained from our first principles calculations and ΔE is an estimation of the energy that has to be overcome to polarize the system <ref type="bibr">6,</ref><ref type="bibr">7</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 1</head><p>At each measurement position, the fill factor and ISC could vary; thus, only VOC values relative to the applied bias can be determined. Ideally, VOC would be determined by measuring local current-voltage curves with cAFM or using scanning potentiometry, but neither of these techniques were successful nor reproducible on MAPbI3-xClx: Applying a moderate bias between the FTO and the sharp AFM tip results in very large electric fields, which degrades of the MAPbI3-xClx surface and the AFM tip when the tip is at a single point for more than one second. The relative bias of 0.6 V was selected for the image in Figure <ref type="figure">2c</ref> in the main text because at 0.6 V the average current measured with the Pt/Ir coated AFM tip was approximately zero.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 2</head><p>Ion migration is mitigated in the measurement of ISC because no bias is applied. And, the electric field applied to measure VOC opposes the built-in electric field, thus reducing the effective internal electric field even further, ensuring that the probed system remains far from the regime in which ion migration defines optoelectronic properties. Additionally, the tip is in contact with the sample for less than 2 ms, which is not long enough for ion migration at the biases used. Ion migration is expected to be reduced in these samples because the hysteresis is minimal (Supplementary Fig. <ref type="figure" target="#fig_2">4</ref>), the current is stable at the maximum power point, and the VOC is stable (Supplementary Fig. <ref type="figure" target="#fig_3">5</ref>). These results suggest that ion migration in our films is not dominant in the bias range measured here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Alternative mechanisms for ISC and VOC heterogeneity</head><p>The observed heterogeneity could be explained by local variations in surface potential, local doping, variations in mobility along different crystallographic directions, and variations in conductivity of the FTO and TiO2 layers. We measured the surface potential using Kelvin probe force microscopy (KPFM) and did not observe any heterogeneity, but these measurements were performed under ambient conditions. Other reports of KPFM on perovskites also do not observe grain or facet dependent heterogeneity <ref type="bibr" target="#b8">1,</ref><ref type="bibr">2</ref> . Thus, it is highly unlikely that variations in the surface potential exist. We also considered local variations in doping or carrier concentrations but these variations would manifest as heterogeneity between grains rather than within a grain. Thus, variation in doping does not describe the facet dependence. We carefully considered variations in mobility to describe the facet dependent heterogeneity; however, there are two main reasons why mobility variations are found to not be responsible for the observed heterogeneity. (1) First principles density functional theory was used to calculate the effective masses along different crystallographic directions. The effective mass varies by less than a factor of two along different crystallographic directions. (2) Without extreme variations in mobilities along different directions, the current should flow along a direct path between the TiO2 and the AFM tip due to the electric field. Thus, variations in mobility would be observed as inter-grain rather than intragrain heterogeneity. Finally, we considered the TiO2 and FTO layers. The FTO has a much larger grain structure than the heterogeneity we observe in the perovskite. TiO2 conformally coats the FTO layer, and the grains are much smaller than those in the perovskite. For both layers the length scales of the grains do not match the observed VOC and ISC heterogeneity in the perovskite.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Alternative mechanisms for high bias drift current heterogeneity</head><p>Drift current is defined as: 𝐽𝐽 𝑑𝑑 = 𝑞𝑞𝑞𝑞µ𝐸𝐸 = 𝑞𝑞𝑞𝑞 𝑞𝑞𝑞𝑞 𝑚𝑚 * 𝐸𝐸, where q is the charge of an electron, n is the carrier concentration, µ is the carrier mobility, E is the magnitude of the electric field, τ is the scattering time, and m * is the effective mass. If the carrier concentration, n, was responsible H ybrid organic-inorganic halide perovskites are a fascinating and highly promising class of materials for optoelectronic applications, since they are straightforward to fabricate<ref type="foot" target="#foot_0">foot_0</ref>-<ref type="foot" target="#foot_2">foot_2</ref> and have tunable direct bandgaps <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref> . After only a few years of active research, polycrystalline thin-film perovskite photovoltaic (PV) devices <ref type="bibr">[7]</ref><ref type="bibr">[8]</ref><ref type="bibr">[9]</ref> have reached power conversion efficiencies (PCEs) exceeding 22% (ref. 10) and have potential applications as lightemitting diodes (LEDs) <ref type="bibr">8,</ref><ref type="bibr" target="#b17">11</ref> , laser gain media <ref type="bibr" target="#b18">12</ref> , and photodetectors <ref type="bibr" target="#b19">13</ref> . For PV devices, the rapid increase in PCE is astounding, considering that the origins of the highly efficient photovoltaic effect, as well as efficiency loss mechanisms, are not fully understood. Systematic optimization of efficiency requires understanding these fundamental processes at their native length scales.</p><p>Previous work on the macroscopic optoelectronic mechanisms revealed high charge-carrier mobilities <ref type="bibr" target="#b20">[14]</ref><ref type="bibr" target="#b21">[15]</ref><ref type="bibr" target="#b22">[16]</ref> and long lifetimes <ref type="bibr" target="#b23">17</ref> , suggesting homogeneous performance within the active layer <ref type="bibr" target="#b24">18</ref> . At the nanoscale, studies of charge separation processes concluded that devices are analogous to p-i-n junctions <ref type="bibr" target="#b25">19,</ref><ref type="bibr" target="#b26">20</ref> , and another study reported enhanced photocurrent along grain boundaries <ref type="bibr" target="#b27">21</ref> . Recent studies found surprisingly strong inter-grain photoluminescence (PL) <ref type="bibr" target="#b28">22</ref> and cathodoluminescence <ref type="bibr" target="#b29">23</ref> heterogeneity, which suggests that optoelectronic properties, such as open-circuit voltage (V OC ), may also exhibit strong local variations <ref type="bibr" target="#b30">24</ref> . These results highlight the pressing need to study local PV characteristics, such as V OC and short-circuit current (I SC ), to understand the factors affecting efficiency in these systems. However, while inorganic and polymer PV materials have been studied on the nanoscale using scanning probe techniques <ref type="bibr" target="#b31">[25]</ref><ref type="bibr" target="#b32">[26]</ref><ref type="bibr" target="#b33">[27]</ref> , no studies have yet determined the governing optoelectronic properties for perovskite PV devices at their native length scales (10-100 nm) or what limits their efficiency.</p><p>Here, we locally probe and map the parameters that determine PV device performance-V OC , I SC , and dark drift current (I D )close to their native length scales. This was accomplished by employing a customized conductive atomic force microscopy (cAFM) technique to provide insight into these critical PV performance-determining parameters with nm-scale resolution. Density functional theory (DFT) calculations on perovskite electronic structure were carried out to support the interpretation of experimental data. We find significant intra-grain heterogeneities, which arise from facet-dependent variations of surface defect states that strongly impact device-level PCE. As a result, the macroscopic PV and LED performance of lead halide perovskites could be optimized by controlling the crystal orientation and facets at interfaces for both polycrystalline and single-crystal devices <ref type="bibr" target="#b22">16</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photocurrent microscopy to probe local e ciency</head><p>We used two sets of methylammonium lead iodide chloride (MAPbI 3-x Cl x ) thin films, which were processed in parallel. One set was used to fabricate planar solar cells by depositing a hole transport layer (HTL, spiro-OMeTAD) and a gold top contact, resulting in an average PCE of 15.7% (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>). The second set was used as a half-cell for scanning probe analysis, omitting the HTL and top electrode to directly access the bare MAPbI 3-x Cl x surface. The large surface roughness of the perovskite material, together with strong tip-sample interactions, pose significant challenges for reproducible cAFM using contact mode scanning (Supplementary Fig. <ref type="figure">2</ref>). Hence, we employed a modified cAFM technique in which, at each pixel, the tip approaches the surface, measures the photocurrent, retracts from the surface and moves to the next pixel, as shown in Fig. <ref type="figure" target="#fig_0">1a</ref>. In contrast to conventional cAFM, this technique eliminates friction, which reduces tip-sample deterioration and material transfer, and maintains a constant contact area while measuring current. Figure <ref type="figure" target="#fig_0">1b</ref> shows a representative topography measurement of the MAPbI 3-x Cl x surface; the average surface roughness is 19.1 nm and grain size is 142 ± 38 nm.</p><p>I SC , V OC and I D were measured in this order on MAPbI 3-x Cl x solar cells under appropriate illumination and bias conditions: I SC under illumination at 0 V; V OC relative to a reference bias under illumination at forward reference biases between 0.1 and 0.7 V; and I D in the dark at 2 and 3 V forward bias. The V OC is segmented relative to an applied reference bias. That is, when the photocurrent measured by cAFM is negative, positive, or approximately zero, the V OC is less than, greater than, or approximately equal to the applied reference bias. This method of characterizing V OC was chosen because alternative techniques, such as collecting local current-voltage curves or scanning potentiometry maps, do not provide reproducible results on hybrid halide perovskites (see Supplementary Note 1). It is important to note that the conditions used to map I SC and V OC mitigate ion migration <ref type="bibr" target="#b34">28</ref> because the tip is in contact with the sample for less than 2 ms, while electrical current from analogous macroscale devices is stable for at least hundreds of seconds (see Supplementary Note 2 and Supplementary Figs <ref type="figure" target="#fig_2">4</ref> and<ref type="figure" target="#fig_3">5</ref>). Furthermore, we note that the maximum internal electric field is actually given by the built-in field at zero bias and is reduced as the tip bias approaches V OC .</p><p>The topography image in Fig. <ref type="figure">2a</ref> displays individual crystal grains and various crystal facets within these grains. The range of different grain shapes observed in the topography image is due to the lack of preferential grain orientation in these MAPbI 3-x Cl x films, as we have shown in a previous study using X-ray diffraction <ref type="bibr">3</ref> . These measurements are reproducible (Supplementary Fig. <ref type="figure">6</ref>) and free of artefacts from topography and tip-sample interactions, as we illustrate in detail in Supplementary Note 3.</p><p>Surprisingly, I SC and V OC (Fig. <ref type="figure">2b,</ref><ref type="figure">c</ref>) show not only strong local inter-grain but also intra-grain heterogeneity, which appear to be associated with the facets of individual grains. The photocurrent varies by up to an order of magnitude within individual grains (I SC map Fig. <ref type="figure">2b</ref>). Importantly, we find that the average I SC for individual grains does not depend on grain size (Supplementary Fig. <ref type="figure">7</ref>). This result contrasts with that of Nie et al. <ref type="bibr" target="#b35">29</ref> and suggests that grain-sizedependent I SC may be different for the regime studied here, in which the grain size is smaller than the ∼1 µm carrier diffusion length <ref type="bibr" target="#b20">14</ref> . To ensure that the measured heterogeneity is not due to tip-sample interaction artefacts, we verified that I SC was not correlated with crystal height, different regions of constant topographic slope, or lateral and adhesion forces (Supplementary Fig. <ref type="figure">8</ref>).</p><p>The V OC map shown in Fig. <ref type="figure">2c</ref> also reveals intra-grain heterogeneity. This segmented map was obtained by measuring current at a forward reference bias of 0.6 V, which is near the macroscale V OC (0.51 V) obtained on a device with a Pt top contact in place of the HTL/Au to mimic the Pt cAFM tip-sample contact. As a result, all V OC values in the map are reported relative to the applied 0.6 V reference bias, as described above. As in the case of I SC , the observed variation of V OC is most pronounced within individual grains, rather than between different grains.</p><p>As a metric for local PV performance, we define the efficiency indicator, which is assigned as 'high' in regions having a combination of high V OC and I SC and 'low' in regions of low V OC and I SC . Note that, contrary to PCE, this efficiency indicator does not contain the fill factor. We could not make quantitative PCE maps, since this would require current-voltage curves at each pixel, for the experimental reasons described above. The efficiency indicator map in Fig. <ref type="figure">2d</ref> was generated by overlaying topography, in grey scale, with pixels representing high efficiency in blue (V OC &gt; 0.6 V and I SC &gt; 12 pA) and low efficiency in red (V OC ≤ 0.6 V and I SC &lt; 5 pA). Considerable intra-grain heterogeneity can be seen. To exclude tipsubstrate effects as a cause for the heterogeneity, we repeated I SC and V OC scans over the same region and observed no change in the heterogeneity; used tips of different materials and observed similar heterogeneity (Supplementary Fig. <ref type="figure">9</ref>); and performed cAFM experiments on samples following deposition of a thin HTL layer of spiro-OMeTAD on the MAPbI 3-x Cl x (Supplementary Fig. <ref type="figure" target="#fig_0">10</ref>) and observed again similar heterogeneity in I SC . These tests clearly indicate that the observed spatial variation is an inherent feature of these PV devices and not an artefact of interactions between the tip and the sample material.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grain facet-dependent heterogeneity</head><p>The observed intra-grain heterogeneity in I SC , V OC and efficiency indicator maps appear to be facet dependent when compared to the topography map. To test this observation statistically, the variance of I SC within facets was determined and compared to the I SC variance of facet-sized areas that were randomly placed over the I SC map. The facets were identified by calculating the azimuthal gradient from the measured topography image (Fig. <ref type="figure">3a</ref>), as shown in Fig. <ref type="figure">3b</ref>. From the gradient image, the facets were individually identified on the basis of their constant gradient using segmentation and watershed algorithms (Supplementary Fig. <ref type="figure" target="#fig_0">11</ref>).</p><p>The variance of I SC values within each facet was calculated, and then averaged, yielding a mean of variances of 5.69 pA <ref type="bibr">2</ref> . Details of the variance calculation are available in the Supplementary Methods. To determine the significance of this mean value, the same calculation was performed on randomly selected areas of the I SC map that mimic the number and size of the identified facets. This process of randomly selecting areas was completed 2,000 times to generate the histogram of the mean of current variances shown in Fig. <ref type="figure">3c</ref>, with  the majority of randomly placed areas exhibiting a mean variance of 7.5 pA 2 . Since the current within the crystal facets has a mean variance significantly lower than the range of mean variance for randomly selected areas, the correlation of I SC heterogeneity with the crystal facets is statistically confirmed (p-value = 0.02). The same calculation was performed on another set of topography and I SC images for MAPbI 3-x Cl x , and again the mean current variance for the facets was significantly less than for randomly selected areas (Supplementary Fig. <ref type="figure" target="#fig_0">12</ref>). From this analysis, we conclude that the intra-grain variations in I SC and V OC are indeed facet dependent.</p><p>While the I SC heterogeneity on the length scale probed here might be partially compensated by long charge-carrier diffusion lengths, V OC inhomogeneity is the performance-determining factor for macroscale solar cells: MAPbI 3-x Cl x grains can be approximated as individual PV elements wired in parallel, where the lowest V OC will significantly reduce the macroscopic V OC (refs 19,30). If simply considering two adjacent grains, charges will flow from the high-to the low-V OC grain, reducing the overall V OC . Hence, we investigated V OC variation in more detail by collecting consecutive photocurrent maps of the same area at forward reference biases from 0.1 to 0.7 V, with increments of 0.1 V, shown in Fig. <ref type="figure" target="#fig_2">4a</ref>. These images were aligned, and the voltage values assigned based on two factors: if the photocurrent is approximately zero, V OC is set equal to the applied reference bias. If the current switches from positive (V OC higher than applied bias) to negative (V OC lower than applied bias) from one map to the next, V OC is between the two bias values. Values of V OC above 0.7 V are marked in white. Some areas are likely to have a higher V OC than 0.7 V, but we were not able to measure consecutive photocurrent maps for an applied bias range greater than 0.1 V to 0.7 V without tip modification. Any tip modification can change the tip-substrate contact area and tip work function, making quantitative current and voltage comparisons unreliable. We find a surprisingly large local variation in V OC -over a range of 0.6 V-that has a dramatic impact on the macroscopic V OC and, hence, PCE. Again, the variation in V OC is correlated with the crystal facet that is being measured (Supplementary Fig. <ref type="figure" target="#fig_0">13</ref>).</p><p>The spatial correlation between V OC and I SC indicated in Fig. <ref type="figure">2</ref> becomes more apparent when the full V OC range map in Fig. <ref type="figure" target="#fig_2">4a</ref> is compared to the I SC map for that area (Supplementary Fig. <ref type="figure" target="#fig_0">13</ref>), as illustrated in Fig. <ref type="figure" target="#fig_2">4b</ref>. Higher V OC correlates with higher I SC . Approximately 5% of the measured area was non-functioning with zero I SC and V OC , while 35% of the area produced V OC greater than 0.7 V, suggesting that the efficiency in those areas is very high. If one were to assume a uniform fill factor, and gauge PCE only by the product of V OC and I SC , high efficiency facets would perform up to 50% better than average, which would mean that some grains with specific facets could approach the theoretical PCE limit.</p><p>So far, we have not been able to specifically index the high-and low-efficiency facets: electron backscatter diffraction mapping gave no meaningful results on facet orientation due to damage from the electron beam. Furthermore, spatially resolved elemental analysis by energy dispersive X-ray spectroscopy and by scanning Auger microscopy (Supplementary Fig. <ref type="figure" target="#fig_2">14</ref>) failed to find differences in chemical composition, with no detectable trace of chlorine across the surface, consistent with prior reports <ref type="bibr" target="#b37">[31]</ref><ref type="bibr" target="#b38">[32]</ref><ref type="bibr" target="#b39">[33]</ref> . We considered a range of hypotheses to explain the observed heterogeneity, but most could not describe the experimentally observed facet dependence (see Supplementary Discussion). However, we note that recent findings from deQuilettes et al. <ref type="bibr" target="#b28">22</ref> showed that inter-grain variation of PL intensity and lifetime are due to variations in trap state concentrations and that the traps can be passivated by surface treatment. Because PL efficiency is related to V OC (ref. 24), we hypothesize that our observed intra-grain heterogeneity in V OC is a consequence of variations in trap state concentrations among crystal facets: a high density of trap states lowers V OC due to Fermi level pinning and reduces I SC due to higher recombination rates. This hypothesis is further supported by Noel et al. <ref type="bibr" target="#b40">34</ref> showing that surface passivation enhances SC , V OC , and fill factor in PV devices equivalent in material and performance to those studied here. The simultaneous negative effect of trap states on V OC and I SC explains the strong spatial correlation we observe.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Facet impact on internal electric fields and drift current</head><p>To confirm that the observed heterogeneity in V OC and I SC is not related to differences in mobility, we mapped the local drift current (I D ), which is proportional to mobility. We also note that I D is an important parameter for LED applications. The I D maps at 2 V and 3 V applied bias in Fig. <ref type="figure" target="#fig_3">5a,</ref><ref type="figure">b</ref> show that there is greater heterogeneity at 3 V compared to 2 V. An applied bias above 2 V provides sufficiently large electric fields across the perovskite film to ensure that current is dominated by electronic transport (Supplementary Fig. <ref type="figure" target="#fig_3">15</ref>) rather than recombination at trap states <ref type="bibr" target="#b25">19,</ref><ref type="bibr" target="#b41">35,</ref><ref type="bibr" target="#b42">36</ref> . The I D map at 2 V shows very little heterogeneity throughout individual grains and between grains, which indicates a relatively constant mobility at these length scales and bias conditions. This observation indicates that variations of mobility are not the cause of the I SC and V OC heterogeneity. However, at 3 V forward bias the heterogeneities become much more pronounced and reveal a reoccurrence of facet-dependent heterogeneity (Fig. <ref type="figure" target="#fig_3">5b</ref>). To ensure reproducibility, we measured at 2 V, 3 V, and back to 2 V, showing no difference in the 2 V I D maps or topography (Supplementary Fig. <ref type="figure" target="#fig_0">16</ref>). The enhancement of I D heterogeneity when moving from 2 to 3 V forward bias is illustrated in a histogram where the number of pixels is plotted versus the relative drift currents for an individual grain (Fig. <ref type="figure" target="#fig_3">5c</ref>). The blue histogram represents I D at 3 V, the red histogram at 2 V. Due to the difference in I D magnitude measured at 2 and 3 V, the current values in the histograms are shifted and normalized to the respective mean currents and the histogram amplitudes are normalized to unity for easy comparison. The I D histogram at 3 V (blue) is very broad, with I D values ranging over an order of magnitude for different pixels. It shows two distinct peaks at -0.22 and -0.15 nA, which stem from two different facets within one grain, with one facet allowing 1.5 times higher I D . In contrast, the 2 V histogram (red) is narrow and has only one peak at -65 pA, representing the spatial homogeneity of the measured mobility. Previously, ion migration was observed at comparable applied electric fields, which was indicated by modification of the topography <ref type="bibr" target="#b43">37</ref> . However, due to our measurement technique, the sample is exposed to the maximum electric field for only 1.6 mstoo brief for ion migration <ref type="bibr" target="#b34">28</ref> -when the tip is on the sample surface. The field is one order of magnitude lower during the next 10 ms, when the tip retracts, moves to the next pixel, and re-approaches. Based on the Einstein relation, which describes ion motion under an external force, and a diffusion coefficient of 10 -12 cm 2 s -1 (ref. 38), iodine ions will drift only 0.062 nm under a bias of 3 V across a 300 nm film over 1.6 ms. Hence, we would not expect topographic or I D modification for biases up to 3 V, consistent with our observations. We did not apply a bias over 3 V due to modifications in sample morphology at higher bias. While the I D homogeneity at 2 V supports the hypothesis that facetdependent surface defect state concentrations give rise to local PV performance differences, the question remains: what causes the appearance of facet-dependent heterogeneity of I D at higher bias?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NATURE ENERGY</head><p>To address this question, we investigated the effect of large electric fields on the electronic structure of lead halide perovskites using first-principles DFT calculations including spin-orbit coupling (SOC). For electric fields larger than ∼10 5 V cm -1 , corresponding to 3-4 V across our thin films, we find that the methylammonium (MA) ions align with the electric field (see Supplementary Methods). This alignment is accompanied by displacements of the Pb ions relative to the I 6 octahedra in each unit cell, leading to an overall polarization of the crystal lattice (Fig. <ref type="figure" target="#fig_3">5d</ref>) <ref type="bibr" target="#b45">[39]</ref><ref type="bibr" target="#b46">[40]</ref><ref type="bibr" target="#b47">[41]</ref><ref type="bibr" target="#b48">[42]</ref> . As shown in Fig. <ref type="figure" target="#fig_3">5e</ref>, this polarization results in an increase in the effective mass of electrons and holes along the direction of the electric field by a factor between 1.3 and 1.8 for the three directions of MA alignment examined. Assuming a constant charge density, I D is proportional to mobility and, thus, inversely proportional to the reduced effective mass, which increases under sufficiently large electric fields according to our DFT calculations.</p><p>The internal electric field in MAPbI 3-x Cl x films is approximately equal to (V app -V OC )/d, where V app is the applied forward bias and d is the film thickness. Hence, we suggest that at a bias of 3 V, only facets with low V OC (higher trap state density) have an internal electric field sufficiently high to induce complete MA alignment and the corresponding polar Pb and I displacements. The 1.3 to 1.8 times increase in effective mass, as predicted by our calculations, explains the experimentally observed reduction in I D of 1.5 times between different facets on the same grain. On facets characterized by high V OC , the internal electric fields do not surpass the necessary threshold, and the mobility remains high. This model explains the facet-dependent heterogeneity in I D at large bias and its spatial correlation with V OC (Supplementary Fig. <ref type="figure" target="#fig_0">17</ref>). We did consider other hypotheses to describe the heterogeneity at high bias, such as variations in carrier concentration, scattering time, and ion migration, but our model based on the DFT calculations provides the best agreement with the experimental results (see Supplementary Discussion). Ion migration may influence the measured magnitude of I D , but its effect is probably very small (Supplementary Fig. <ref type="figure" target="#fig_0">16</ref>). Facets with high trap state density can modify local I D , an important insight for LED operation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In conclusion, we show significant intra-grain heterogeneity in short-circuit current, open-circuit voltage, and high bias drift current, as well as spatial correlation between these parameters, in</p><formula xml:id="formula_0">NATURE ENERGY | VOL 1 | AUGUST 2016 | www.nature.com/natureenergy</formula><p>state-of-the-art MAPbI 3-x Cl x solar cell materials. The intra-grain heterogeneity in V OC and I SC is indicative of facet-dependent defect concentrations in these polycrystalline films. V OC heterogeneity has a direct effect on macroscale solar cell performance, but can also indirectly affect mobility due to local polarization at high forward bias, which might also impact LED applications. Based on these results, the efficiency of single-crystal and polycrystalline halide perovskite solar cells and LEDs can be systematically improved by controlling the growth direction of the grains and the orientation of the facets at interfaces with electron and hole conducting layers, as well as by chemical passivation of interfacial defect states. We are currently working toward growing high-quality MAPbI 3-x Cl x films with different preferential crystal orientations to measure changes in heterogeneity with cAFM for correlation with macroscopic PCE. Our findings described here suggest that reproducible performance of devices at the scale of individual grains will rely on control of facet-specific defect properties.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Conductive atomic force microscopy. cAFM allows for the simultaneous measurement of current and topography. Measurements were performed using a Park Systems NX10 AFM encased in a nitrogen-filled glovebox to prevent sample degradation. Samples can be stored at least one week in the nitrogen atmosphere without degradation. All measurements were conducted with relative humidity less than 1%. The gentle PinPoint mode was the key to acquiring reproducible and reliable topography and cAFM images on the rough MAPbI 3-x Cl x surfaces: the tip approached over a period of 5 ms to achieve an interaction force of 2 nN, the force was held constant while the current was sampled 80 times at 50 kHz, then the tip retracted over a period of 5 ms (Fig. <ref type="figure" target="#fig_0">1a</ref>) and moved to the next pixel. The height at constant force is also recorded to generate a simultaneous topographic image. This method differs significantly from tapping mode because a contact mode tip is used, the tip is not oscillating, and the tip retracts and approaches at each pixel rather than adjusting the tip height to maintain a constant oscillation amplitude. This scan mode does require more time (approximately 2 h for a 512 × 512 pixel image), but results in highly reproducible images. The drift on our Park NX10 microscope was typically 10 nm h -1 in equilibrium (Supplementary Fig. <ref type="figure">3</ref>), and successive current scans were digitally aligned using the topographic image channel; thus, drift did not complicate interpretation of the results presented here. We chose these approach-retract conditions to achieve reproducible photocurrent measurements and to avoid effects of ion migration 28 (see Supplementary Notes 2 and 3) since the tip is in contact for less than 1.6 ms with the sample-too fast for ion migration to play a role. In our cAFM set-up, the bias is applied to the fluorine-doped tin oxide (FTO) electrode, while the Pt tip is at virtual ground. The current is measured directly after the tip using a preamplifier with a gain of 10 10 V/A. Because of this electrical configuration, negative voltage forward biases the cell and I SC has a positive value. Short-circuit current density (J SC ) values were not calculated for the nanoscale measurements, because determining the contact area between the AFM tip and the sample at each pixel would be a gross approximation. For the photocurrent maps, the sample is illuminated from above with a white LED having an output from 375 to 800 nm and an integrated power density of 2.73 mW cm -2 (see Supplementary Fig. <ref type="figure" target="#fig_0">18</ref> for the spectrum). Since initial light exposure modifies the performance of lead halide perovskites, we light-soaked the samples for an hour before characterizing the local performance under steady state conditions. AdvancedTEC ContPt AFM probes (Nanosensors) were employed because the tetrahedral tip protrudes from the end of the cantilever, which provides direct optical access to the point of contact between the tip apex and the sample (see Supplementary Methods). Shading of the sample by the cantilever was also prevented by using a 0.4 numerical aperture objective, which focuses the light with a 24-degree half-angle. These tips have a 25 nm radius of curvature and a 0.2 N m -1 force constant. Many tips were used to ensure that the tips were sharp and not contaminated by material from the perovskite surface. As soon as any tip modification was observed, we exchanged the tip. Data taken while the tip apex was modified were not considered for analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample preparation and device performance.</head><p>The two-step low-pressure vapour-assisted solution process to fabricate the MAPbI 3-x Cl x is described as follows <ref type="bibr">3</ref> . First, a PbI 2 /PbCl 2 solution is spin coated onto titanium dioxide (TiO 2 ) coated FTO glass substrates. Second, the film is converted to MAPbI 3-x Cl x by annealing the film in CH 3 NH 3 I vapour at low pressure for 2 h. This fabrication technique creates continuous films and reduced hysteresis effects in a planar PV device architecture. Planar solar cells with the structure FTO/dense TiO 2 /MAPbI 3-x Cl x /2,20,7,70-tetrakis(N,N-di-p-methoxyphenylamine)-9,9spirobifluorene (spiro-OMeTAD)/Au have an average PCE of 15.7%, V OC of 1.0 V, and short-circuit current density (J SC ) of 21.3 mA cm -2 (ref. 3). A representative current density-voltage curve is shown in Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>. For the cAFM measurement, the MAPbI 3-x Cl x surface must be exposed to correlate morphology and current. To directly access the perovskite surface, the spiro-OMeTAD hole transport layer (HTL) and Au contact are omitted and the Pt-coated AFM tip acts as the electrode. A macroscale solar cell with a structure mimicking the cAFM measurement (FTO/TiO 2 /MAPbI 3-x Cl x /Pt) has a V OC of 0.51 V and J SC of 16.2 mA cm -2 (see Supplementary Fig. <ref type="figure" target="#fig_2">4</ref> for a representative current-voltage curve). The significantly reduced V OC is the result of removing the MAPbI 3-x Cl x /spiro-OMeTAD heterojunction, so only the TiO 2 /MAPbI 3-x Cl x heterojunction contributes to the V OC (ref. 19).</p><p>Python image analysis. The Python code utilizes the Oriented FAST and Rotated BRIEF (ORB) binary descriptor to match objects in the images, and the RANSAC method is use to filter the matches to determine the transform <ref type="bibr" target="#b49">43</ref> . Image registration allowed for careful comparisons of I D , I SC and V OC of the exact same region. To compare I SC to the grain size, we used the watershed method to identify crystal grains and calculate the average I SC per grain.</p><p>First-principles calculations. To understand the consequences of internal electric fields on the atomic and electronic structure of (CH 3 NH 3 )PbI 3 , we perform first-principles DFT calculations including spin-orbit coupling (SOC). DFT calculations were performed using the Perdew-Burke-Ernzerhof (PBE) exchange correlation functional <ref type="bibr" target="#b50">44</ref> and the projector augmented wave (PAW) <ref type="bibr" target="#b51">45</ref> formalism as implemented in the Vienna ab initio Simulation Program (VASP) <ref type="bibr" target="#b52">46</ref> . The tetragonal phase is described by a √ 2 × √ 2 × 2 unit cell with four formula units, corresponding to a total of 48 atoms. We performed geometry optimizations of three structures with parallel alignment of the MA molecules in [100] and [111] directions, using a 4 × 4 × 4 -centred k-point mesh and an energy cutoff of 500 eV. Starting from experimental lattice parameters 3 , we performed full structural relaxations where lattice constants, and internal degrees of freedom were allowed to relax. No symmetry constraints were imposed in these calculations, and forces were converged until smaller than 0.01 eV Å -1 . Band structures were calculated from charge densities obtained using a denser 6 × 6 × 6 -centred k-point mesh, including semi-core states and spin-orbit interaction. Total energies and lattice parameters of all structures that we considered are shown in Supplementary Table <ref type="table">1</ref>. From the band structures, we calculated the effective electron and hole masses by parabolic band fitting around the conduction band minimum (CBM) and the valence band maximum (VBM), respectively, along the crystallographic high-symmetry directions. In the main text, we report the factor by which the reduced effective mass changes along the direction of MA alignment, since we assume that transport takes place along the direction of the applied electric field. For example, we show the factor by which the reduced effective mass changes along the crystallographic [001] direction on aligning the MA ions along this direction. This factor is defined as m α, * 001 / m α=0 • , * 001 , where m α, * 001 = m e 001 m h 001 /(m e 001 + m h 001 ) is the reduced effective mass for alignment angle α, and m e 001 and m h 001 are the respective electron and hole effective masses along the crystallographic [001] direction. The effective masses of all structures that we considered can be found in Supplementary </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 |</head><label>1</label><figDesc>Figure 1 | cAFM experiment on the surface of a MAPbI 3-x Cl x cell. a, The entire sample surface is illuminated while a conductive AFM tip measures the photocurrent. Bias is applied to the fluorine-doped tin oxide (FTO) electrode and current is collected through the platinum-coated AFM tip at virtual ground. The arrows describe the approach-retract scan mode in which the tip approaches, measures, and retracts at each pixel, thereby minimizing potentially damaging tip-sample interactions. b, A representative topography image of a MAPbI 3-x Cl x thin film illustrates the large surface roughness. The scale bar is 1 µm.</figDesc><graphic coords="26,100.82,90.63,207.73,52.59" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 |Figure 3 |</head><label>23</label><figDesc>Figure 2 | Intra-grain heterogeneity of I SC , V OC , and e ciency indicator. a, Topography image corresponding to all current maps. Individual crystal grains and their facets are clearly visible. The scale bar is 500 nm. b, I SC map measured at 0 V bias under illumination. Similar I SC maps were measured on samples that included a thin HTL layer of spiro-OMeTAD on the MAPbI 3-x Cl x (Supplementary Fig.10). c, Segmented V OC map measured under illumination relative to a forward reference bias of 0.6 V. Grey areas have V OC close to the reference bias, white areas above and black areas below. d, To compare heterogeneity of I SC and V OC to facets, areas in blue (high V OC and I SC ) and areas in red (low V OC and I SC ) are overlaid on the local topography, indicating that many grains have a specific crystal facet that provides higher performance. For enlarged images with marked grains see Supplementary Fig.19.</figDesc><graphic coords="27,225.90,497.53,96.46,96.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 |</head><label>4</label><figDesc>Figure 4 | Heterogeneity in V OC and its correlation to I SC . a, Local V OC map generated by consecutively measuring photocurrent maps at reference biases from 0.1 to 0.7 V in increments of 0.1 V in the same area, and then aligning the images to assign V OC values to individual pixels. The scale bar is 500 nm. b, Box plot revealing the I SC range for each V OC interval in a. The top and bottom of each box indicate the first and third quartiles, respectively, and the dark horizontal lines indicate the median. Larger V OC correlates with higher I SC . Inset: Area histogram of V OC intervals.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 5 |</head><label>5</label><figDesc>Figure 5 | Heterogeneity in drift current due to changes in e ective mass. a, Dark drift current (I D ) map measured at a forward bias of 2 V indicates homogeneous electrical transport within grains. The scale bar is 500 nm. b, I D map measured at a forward bias of 3 V and in the same area reveals significant heterogeneity. The scale bar is 500 nm. c, Histogram of the relative drift currents at each pixel within a representative grain measured at 2 and 3 V, showing increased heterogeneity at 3 V. d, Application of su ciently high electric fields results in alignment of the MA molecules along the electric field direction and a displacement of the Pb cations relative to I 6 octahedra. Grey, green, black, light blue, and white spheres represent Pb, I, C, N, and H atoms, respectively. The MA molecules are aligned in parallel at an alignment angle of α = 180 • . Enlarged images of these e ects in Supplementary Fig. 20. e, The electron and hole e ective masses increase as both the Pb ions are displaced and as the MA become more aligned with the electric field. The e ective mass can increase by up to a factor of 1.8, depending on the electric field direction.</figDesc><graphic coords="29,235.50,176.46,66.73,52.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,144.94,69.78,288.00,220.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,87.02,52.43,403.92,349.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,56.40,54.51,432.00,137.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,116.18,30.46,345.60,230.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,54.98,312.22,432.00,155.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,53.89,52.97,432.00,191.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,53.89,312.17,432.00,126.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,107.42,48.67,363.12,499.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,87.60,48.72,401.64,175.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,72.60,296.64,432.00,170.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,74.23,54.07,432.00,313.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,54.98,55.02,432.00,142.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,191.49,51.01,192.00,331.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,54.98,53.85,468.00,160.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,72.98,284.49,432.00,233.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,143.40,294.07,293.40,211.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,54.98,51.67,432.00,390.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="20,147.89,57.35,295.44,227.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2 .</head><label>2</label><figDesc>Effective electron and hole masses and reduced effective masses (in units of the free electron mass me) for structures 1 -6. The table lists the values for the crystallographic high symmetry directions and averages. See text for computational details.</figDesc><table><row><cell>1</cell><cell>-204.94</cell><cell>8.876</cell><cell>8.876</cell><cell>12.67</cell><cell>998.19</cell></row><row><cell>2</cell><cell>-205.47</cell><cell>8.876</cell><cell>8.876</cell><cell>12.67</cell><cell>998.19</cell></row><row><cell>3</cell><cell>-205.45</cell><cell>8.876</cell><cell>8.876</cell><cell>12.67</cell><cell>998.19</cell></row><row><cell>4</cell><cell>-206.26</cell><cell>9.078</cell><cell>9.088</cell><cell>12.816</cell><cell>1057.44</cell></row><row><cell>5</cell><cell>-206.49</cell><cell>9.203</cell><cell>8.865</cell><cell>12.565</cell><cell>1025.08</cell></row><row><cell>6</cell><cell>-206.42</cell><cell>9.044</cell><cell>9.043</cell><cell>12.586</cell><cell>1027.70</cell></row><row><cell cols="3">Supplementary structure 1, antiparallel alignment [001]</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>me*</cell><cell>mh*</cell><cell></cell><cell>μ</cell></row><row><cell>Γ → A</cell><cell></cell><cell>0.11</cell><cell>0.13</cell><cell></cell><cell>0.060</cell></row><row><cell>Γ → X</cell><cell></cell><cell>0.12</cell><cell>0.14</cell><cell></cell><cell>0.065</cell></row><row><cell>Γ → Z</cell><cell></cell><cell>0.08</cell><cell>0.09</cell><cell></cell><cell>0.042</cell></row><row><cell>Γ → R</cell><cell></cell><cell>0.10</cell><cell>0.11</cell><cell></cell><cell>0.052</cell></row><row><cell>Γ → M</cell><cell></cell><cell>0.12</cell><cell>0.17</cell><cell></cell><cell>0.070</cell></row><row><cell>Avg</cell><cell></cell><cell>0.11</cell><cell>0.13</cell><cell></cell><cell>0.058</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>structure 2, antiparallel alignment [100] me</head><label></label><figDesc></figDesc><table><row><cell cols="2">structure 3, antiparallel alignment [111]</cell><cell></cell><cell></cell></row><row><cell></cell><cell>me*</cell><cell>mh*</cell><cell>μ</cell></row><row><cell>Γ → A</cell><cell>0.10</cell><cell>0.12</cell><cell>0.055</cell></row><row><cell>Γ → X</cell><cell>0.11</cell><cell>0.13</cell><cell>0.060</cell></row><row><cell>Γ → Z</cell><cell>0.09</cell><cell>0.10</cell><cell>0.047</cell></row><row><cell>Γ → R</cell><cell>0.10</cell><cell>0.12</cell><cell>0.055</cell></row><row><cell>Γ → M</cell><cell>0.12</cell><cell>0.13</cell><cell>0.062</cell></row><row><cell>Avg</cell><cell>0.10</cell><cell>0.12</cell><cell>0.056</cell></row><row><cell cols="2">structure 4, parallel alignment [001]</cell><cell></cell><cell></cell></row><row><cell></cell><cell>me*</cell><cell>mh*</cell><cell>μ</cell></row><row><cell>Γ → A</cell><cell>0.11</cell><cell>0.16</cell><cell>0.065</cell></row><row><cell>Γ → X</cell><cell>0.13</cell><cell>0.18</cell><cell>0.072</cell></row><row><cell>Γ → Z</cell><cell>0.12</cell><cell>0.15</cell><cell>0.067</cell></row><row><cell>Γ → R</cell><cell>0.11</cell><cell>0.16</cell><cell>0.065</cell></row><row><cell>Γ → M</cell><cell>0.12</cell><cell>0.19</cell><cell>0.074</cell></row><row><cell>Avg</cell><cell>0.12</cell><cell>0.17</cell><cell>0.069</cell></row><row><cell cols="2">structure 5, parallel alignment [100]</cell><cell></cell><cell></cell></row><row><cell></cell><cell>me*</cell><cell>mh*</cell><cell>μ</cell></row><row><cell>Γ → A</cell><cell>0.15</cell><cell>0.22</cell><cell>0.089</cell></row><row><cell>Γ → X</cell><cell>0.14</cell><cell>0.21</cell><cell>0.084</cell></row><row><cell>Γ → Z</cell><cell>0.19</cell><cell>0.23</cell><cell>0.104</cell></row><row><cell>Γ → R</cell><cell>0.16</cell><cell>0.24</cell><cell>0.096</cell></row><row><cell>Γ → M</cell><cell>0.15</cell><cell>0.22</cell><cell>0.089</cell></row><row><cell>Avg</cell><cell>* 0.16</cell><cell>mh* 0.22</cell><cell>μ 0.092</cell></row><row><cell>Γ → A</cell><cell>0.11</cell><cell>0.13</cell><cell>0.060</cell></row><row><cell cols="2">Γ → X structure 6, parallel alignment [111] 0.12</cell><cell>0.13</cell><cell>0.062</cell></row><row><cell>Γ → Z</cell><cell>0.08 me*</cell><cell>0.10 mh*</cell><cell>0.044 μ</cell></row><row><cell>Γ → R Γ → A</cell><cell>0.10 0.16</cell><cell>0.11 0.27</cell><cell>0.052 0.100</cell></row><row><cell>Γ → M Γ → X</cell><cell>0.12 0.17</cell><cell>0.13 0.28</cell><cell>0.062 0.106</cell></row><row><cell>Avg Γ → Z</cell><cell>0.11 0.16</cell><cell>0.12 0.18</cell><cell>0.056 0.085</cell></row><row><cell>Γ → R</cell><cell>0.16</cell><cell>0.21</cell><cell>0.091</cell></row><row><cell>Γ → M</cell><cell>0.16</cell><cell>0.36</cell><cell>0.111</cell></row><row><cell>Avg</cell><cell>0.16</cell><cell>0.26</cell><cell>0.099</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>PUBLISHED: 4 JULY 2016 | ARTICLE NUMBER: 16093 | DOI: 10.1038/NENERGY.2016.93 Facet-dependent photovoltaic e ciency variations in single grains of hybrid halide perovskite Sibel Y. Leblebici 1,2 , Linn Leppert 1,3 , Yanbo Li 4 , Sebastian E. Reyes-Lillo 1,3 , Sebastian Wickenburg 1 , Ed Wong 1 , Jiye Lee 1 , Mauro Melli 1 , Dominik Ziegler 1,5 , Daniel K. Angell 1 , D. Frank Ogletree 1 , Paul D. Ashby 1 , Francesca M. Toma 4 , Je rey B. Neaton 1,3,6 , Ian D. Sharp 4 * and Alexander Weber-Bargioni 1 * Photovoltaic devices based on hybrid perovskite materials have exceeded 22% e ciency due to high charge-carrier mobilities and lifetimes. Properties such as photocurrent generation and open-circuit voltage are influenced by the microscopic structure and orientation of the perovskite crystals, but are di cult to quantify on the intra-grain length scale and are often treated as homogeneous within the active layer. Here, we map the local short-circuit photocurrent, open-circuit photovoltage, and dark drift current in state-of-the-art methylammonium lead iodide solar cells using photoconductive atomic force microscopy. We find, within individual grains, spatially correlated heterogeneity in short-circuit current and open-circuit voltage up to 0.6 V. These variations are related to di erent crystal facets and have a direct impact on the macroscopic power conversion e ciency. We attribute this heterogeneity to a facet-dependent density of trap states. These results imply that controlling crystal grain and facet orientation will enable a systematic optimization of polycrystalline and single-crystal devices for photovoltaic and lighting applications.</head><label></label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2 .</head><label>2</label><figDesc>See Supplementary Methods for more details of the DFT calculations.</figDesc><table><row><cell>Received 4 December 2015; accepted 26 May 2016;</cell></row><row><cell>published 4 July 2016</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>The Molecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Department of Materials Science and Engineering, University of California, Berkeley, California 94720, USA.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>Department of Physics, University of California, Berkeley, California 94720, USA.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>Joint Center for Artificial Photosynthesis and Chemical Science Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, California 94720, USA.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p>Scuba Probe Technologies LLC, 255 Lina Ave, Alameda, California 94501, USA.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_5"><p>Kavli Energy NanoSciences Institute at Berkeley, Berkeley, California 94720, USA. *e-mail: idsharp@lbl.gov; afweber-bargioni@lbl.gov NATURE ENERGY | VOL 1 | AUGUST 2016 | www.nature.com/natureenergy 1 © Macmillan Publishers Limited . All rights reserved</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This material is based on work supported by the <rs type="funder">National Science Foundation Graduate Research Fellowship</rs> under Grant No. (<rs type="grantNumber">NSF DGE 1106400</rs>) and by the <rs type="institution">Joint Center for Artificial Photosynthesis</rs>, a <rs type="institution">DOE Energy Innovation Hub</rs>, supported through the <rs type="funder">Office of Science of the US Department of Energy</rs> under Award Number <rs type="grantNumber">DE-SC0004993</rs>. L.L. thanks the <rs type="institution">AvH foundation</rs> for financial support through the <rs type="programName">Feodor-Lynen program</rs>. D.Z. acknowledges support by the <rs type="funder">US Department of Energy, Office of Science, SBIR/STTR Program Office</rs>, under Award Number <rs type="grantNumber">DE-SC0013212</rs>. A.W.-B., M.M., J.L. and S.Y.L. were supported by a <rs type="funder">DOE</rs> <rs type="grantName">Early Career Grant</rs>. Work at the Molecular Foundry was supported by the <rs type="funder">US Department of Energy (DOE), Office of Basic Energy Sciences, Scientific User Facilities Division</rs>, under contract no. <rs type="grantNumber">DE-AC02-05CH11231</rs> and user proposal 4233. J.B.N., S.E.R.-L. and F.M.T. acknowledge support from the <rs type="funder">Laboratory Directed Research</rs> and <rs type="programName">Development Program</rs> at the <rs type="institution">Lawrence Berkeley National Laboratory</rs> under Contract No. <rs type="grantNumber">DE-AC02-05CH11231</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_7ybJkpE">
+					<idno type="grant-number">NSF DGE 1106400</idno>
+				</org>
+				<org type="funding" xml:id="_z2SP6vj">
+					<idno type="grant-number">DE-SC0004993</idno>
+					<orgName type="program" subtype="full">Feodor-Lynen program</orgName>
+				</org>
+				<org type="funding" xml:id="_3RMr8JM">
+					<idno type="grant-number">DE-SC0013212</idno>
+				</org>
+				<org type="funding" xml:id="_S4Wrt2K">
+					<orgName type="grant-name">Early Career Grant</orgName>
+				</org>
+				<org type="funding" xml:id="_rWuf7tR">
+					<idno type="grant-number">DE-AC02-05CH11231</idno>
+				</org>
+				<org type="funding" xml:id="_Ebp8hcv">
+					<idno type="grant-number">DE-AC02-05CH11231</idno>
+					<orgName type="program" subtype="full">Development Program</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 3</head><p>We have observed three main artifacts that convolute the current measurement when employing traditional contact mode AFM for conductive AFM measurements, which could lead to substantial misinterpretation of local photocurrent maps. In the following, we describe the main artifacts of traditional contact AFM for other researchers to be aware of. In one case, the tip dragging on the surface causes the tip to become coated with material due to frictional forces. This material is likely some form of precursor because it is non-conductive and thus causes the AFM tip to be non-conductive. We imaged the AFM tips via scanning electron microscopy before and after measuring the perovskite samples by traditional cAFM, and observed large transferred pieces of material on the tip after scanning. The other two artifacts are both due to changes in the electrical contact area between the tip and the sample and can be seen in the error signal image. In the first artifact, if the integral gain is too high, the tip oscillates on the surface and more current is measured. In the second artifact, if the set point is such that the error signal varies significantly due to changes in the topography, no current is measured in areas with low error signal. In contrast, when measuring in PinPoint mode, these artifacts do not exist and there are almost no features in the error signal. Examples of these artifacts are shown below in Supplementary Figure <ref type="figure">2</ref>. for the heterogeneity, we would observe this effect at low biases and, as described above, it would not be a facet dependent effect. Thus, we can eliminate variations in carrier concentration as the cause of heterogeneity. The DFT calculations show that variations in mobility at high bias can explain the effect we observe here. Ion migration may play a role, though, based on Supplementary Fig. <ref type="figure">16</ref>, we expect it to be a minor effect below 3 V.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTARY INFORMATION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTARY INFORMATION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Tables</head><p>Supplementary Table <ref type="table">1</ref>. Total energies, lattice parameters and cell volume of structures 1 -6. The total energy refers to a single point calculation including SOC and a 6x6x6 k-point mesh.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information is available online. Reprints and permissions information is available online at www.nature.com/reprints. Correspondence and requests for materials should be addressed to I.D.S. or A.W.-B.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing financial interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Why Lead Methylammonium Tri-Iodide Perovskite-Based Solar Cells Require a Mesoporous Electron Transporting Scaffold (but Not Necessarily a Hole Conductor)</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Edri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1000" to="1004" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Structural Study on Cubic-Tetragonal Transition of CH3NH3PbI3</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kawamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mashiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hasebe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1694" to="1697" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Synthesis and crystal chemistry of the hybrid perovskite (CH3NH3)PbI3 for solid-state sensitised solar cell applications</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Baikie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="5628" to="5641" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Dynamic disorder in methylammoniumtrihalogenoplumbates (II) observed by millimeter-wave spectroscopy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poglitsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="6373" to="6378" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Methylammonium Rotational Dynamics in Lead Halide Perovskite by Classical Molecular Dynamics: The Role of Temperature</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mattoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Filippetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Saba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Delugas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="17421" to="17428" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The dynamics of methylammonium ions in hybrid organic-inorganic perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M A</forename><surname>Leguy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7124</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Fabrication of planar heterojunction perovskite solar cells by controlled lowpressure vapor annealing</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="493" to="499" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Theory of polarization of crystalline solids</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>King-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vanderbilt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1651" to="1654" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note>References</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Sequential deposition as a route to high-performance perovskite-sensitized solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burschka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">499</biblScope>
+			<biblScope unit="page" from="316" to="319" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Morphological control for high performance, solution-processed planar heterojunction perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Burlakov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Docampo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goriely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Fabrication of planar heterojunction perovskite solar cells by controlled low-pressure vapor annealing</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="493" to="499" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Chemical management for colorful, efficient, and stable inorganic-organic hybrid nanostructured solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Mandal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1764" to="1769" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Comparative study on the excitons in lead-halide-based perovskite-type crystals CH 3 NH 3 PbBr 3 CH 3 NH 3 PbI 3 . Solid State Commun</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tanaka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="619" to="623" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Anomalous band gap behavior in mixed Sn and Pb perovskites enables broadening of absorption spectrum in solar cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="8094" to="8099" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Advancements in perovskite solar cells: photophysics behind the photovoltaics</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mathews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2518" to="2534" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Bright light-emitting diodes based on organometal halide perovskite</title>
+		<author>
+			<persName><forename type="first">Z.-K</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Nanotech</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="687" to="692" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Perovskite as light harvester: a game changer in photovoltaics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kazim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Nazeeruddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grätzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ahmad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="2812" to="2824" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Efficient light-emitting diodes based on nanocrystalline perovskite in a dielectric polymer matrix</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2640" to="2644" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Low-temperature solution-processed wavelength-tunable perovskites for lasing</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Mater</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="476" to="480" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">High-performance flexible broadband photodetector based on organolead halide perovskite</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="7373" to="7380" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths exceeding 1 micrometer in an organometal trihalide perovskite absorber</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="341" to="344" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Long-range balanced electron-and hole-transport lengths in organic-inorganic CH 3 NH 3 PbI 3</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="344" to="347" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths &gt;175 µm in solution grown CH 3 NH 3 PbI 3 single crystals</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="967" to="970" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">High charge carrier mobilities and lifetimes in organolead trihalide perovskites</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wehrenfennig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Herz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1584" to="1589" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Improved understanding of the electronic and energetic landscapes of perovskite solar cells: high local charge carrier mobility, reduced recombination, and extremely shallow traps</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Oga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saeki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ogomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hayase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="13818" to="13825" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Elucidating the charge carrier separation and working mechanism of CH 3 NH 3 PbI 3-x Cl x perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Edri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">3461</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Real-space observation of unbalanced charge distribution inside a perovskite-sensitized solar cell</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">W</forename><surname>Bergmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5001</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Benefit of grain boundaries in organic-inorganic halide planar perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="875" to="880" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Impact of microstructure on local carrier lifetime in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dequilettes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="683" to="686" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Heterogeneous charge carrier dynamics in organic-inorganic hybrid materials: nanoscale lateral and depth-dependent variation of recombination rates in methylammonium lead halide perovskite thin films</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Bischak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Sanehira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Precht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Luther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Ginsberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="4799" to="4807" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Predicting the open-circuit voltage of CH 3 NH 3 PbI 3 perovskite solar cells using electroluminescence and photovoltaic quantum efficiency spectra: the role of radiative and non-radiative recombination</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tress</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1400812</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Cross-sectional electrostatic force microscopy of thin-film solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ballif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Moutinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Al-Jassim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="1418" to="1424" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Understanding the beneficial role of grain boundaries in polycrystalline solar cells from single-grain-boundary scanning probe microscopy</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Visoly-Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gartsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruzin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cahen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="649" to="660" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Heterogeneity in polymer solar cells: local morphology and performance in organic photovoltaics studied with scanning probe microscopy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Groves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">G</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ginger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="612" to="620" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Impact of capacitive effect and ion migration on the hysteretic behavior of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="4693" to="4700" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">High-efficiency solution-processed perovskite solar cells with millimeter-scale grains</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="522" to="525" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">On the diffusion length and grain size homogeneity requirements for efficient thin-film polycrystalline silicon solar cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Gestel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V</forename><surname>Wichelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Maes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burgelman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page">45105</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Role of chloride in the morphological evolution of organo-lead halide perovskite thin films</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="10640" to="10654" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Crystallization of methyl ammonium lead halide perovskites: implications for photovoltaic applications</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tidhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="13249" to="13256" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The role of chlorine in the formation process of &apos;CH 3 NH 3 PbI 3 -xClx&apos; perovskite</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="7102" to="7108" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Enhanced photoluminescence and solar cell performance via Lewis base passivation of organic-inorganic lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Noel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="9815" to="9821" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Electrical field profile and doping in planar lead halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guerrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Juarez-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bisquert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mora-Sero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garcia-Belmonte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page">133902</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Low-temperature processed meso-superstructured to thin-film perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1739" to="1743" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Photovoltaic switching mechanism in lateral structure hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1500615</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Ionic transport in hybrid lead iodide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Eames</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7497</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The dynamics of methylammonium ions in hybrid organic-inorganic perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M A</forename><surname>Leguy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7124</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Molecular alignment and Rashba splitting in organometal halide perovskite CH 3 NH 3 PbI 3 absorbers</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Haney</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/PVSC.2015.7355729</idno>
+		<ptr target="http://dx.doi.org/10.1109/PVSC.2015.7355729" />
+	</analytic>
+	<monogr>
+		<title level="m">Photovoltaic Specialist Conference (PVSC)</title>
+		<imprint>
+			<date type="published" when="2015">2015. 2015</date>
+			<biblScope unit="volume">42</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Polarization switching and light-enhanced piezoelectricity in lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Coll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1408" to="1413" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Atomic structures of CH 3 NH 3 PbI 3 (001) surfaces</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>She</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1126" to="1131" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">scikit-image: image processing in Python</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van Der Walt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PeerJ</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">453</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="3865" to="3868" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Projector augmented-wave method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blöchl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="17953" to="17979" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Furthmüller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="11169" to="11186" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

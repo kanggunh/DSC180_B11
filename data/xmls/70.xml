@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Supporting Information for &quot;Aggregation of superparamagnetic colloids in magnetic fields: the quest for the equilibrium state&quot;</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-01-17">January 17, 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Andreu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dept. de Física</orgName>
+								<orgName type="institution">Universitat Autònoma de Barcelona</orgName>
+								<address>
+									<addrLine>Campus UAB</addrLine>
+									<postCode>E-08193</postCode>
+									<settlement>Bellaterra</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)</orgName>
+								<address>
+									<addrLine>Campus UAB</addrLine>
+									<postCode>E-08193</postCode>
+									<settlement>Bellaterra</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Camacho</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dept. de Física</orgName>
+								<orgName type="institution">Universitat Autònoma de Barcelona</orgName>
+								<address>
+									<addrLine>Campus UAB</addrLine>
+									<postCode>E-08193</postCode>
+									<settlement>Bellaterra</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">J</forename><surname>Faraudo</surname></persName>
+							<email>jfaraudo@icmab.es</email>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)</orgName>
+								<address>
+									<addrLine>Campus UAB</addrLine>
+									<postCode>E-08193</postCode>
+									<settlement>Bellaterra</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Supporting Information for &quot;Aggregation of superparamagnetic colloids in magnetic fields: the quest for the equilibrium state&quot;</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-01-17">January 17, 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B05DADBFED87C7F78E10036ABD72D33C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The algorithm employed in our simulations is based on the Langevin stochastic equation of motion for each colloidal particle, as implemented in the LAMMPS program by the socalled Langevin thermostat <ref type="url" target="http://lammps.sandia">http://lammps.sandia</ref>. gov/doc/fix_langevin.html. This method is based on a mesoscopic description, in which the colloids are simulated explicitly and the solvent molecules are treated implicitly. The force over a colloidal particle is given by the sum of three forces of different origin: (i) the interaction with other colloids and external fields F c , (ii) the viscous resistance F f due to the solvent (treated as a continuum media) and (iii) the thermal fluctuations of the colloid due to collisions with individual solvent molecules F r . Then, the equation of motion for each colloid within this description is given by:</p><formula xml:id="formula_0">F c + F f + F r = m a.<label>(1)</label></formula><p>The force F f is the viscous resistance experienced by the colloid in the solvent fluid, treated as a continuum medium. In its simplest version, is proportional to the velocity of the colloid v as given by the Stokes formula:</p><formula xml:id="formula_1">F f = -3πηd v = - m τ v. (<label>2</label></formula><formula xml:id="formula_2">)</formula><p>where d is the diameter of the colloid, η is the viscosity of the solvent. The so-called dumping parameter τ is given by:</p><formula xml:id="formula_3">τ = m 3πηd ,<label>(3)</label></formula><p>it has units of time and it gives the typical timescale for the relaxation of the colloid to a stationary state with velocity v = (τ /m) F c . The F r contribution in Eq.( <ref type="formula" target="#formula_0">1</ref>) takes into account the discrete nature of the solvent, i.e. it accounts for the collisions between solvent molecules and the colloid. It is an stochastic or random force corresponding to a white noise with zero average (it does not contribute to the mean velocity or the mean displacement of the colloid, which is purely deterministic). Our simulation algorithm, as implemented in LAMMPS, makes use of the fluctuation-dissipation theorem. The value of each component of F r at a given time is obtained by generating a random number between -1 and 1 and multiplying it by the quantity:</p><formula xml:id="formula_4">k B T m τ dt 1/2 ,<label>(4)</label></formula><p>as described in <ref type="bibr" target="#b0">[1]</ref> (dt is the integration time step employed in the simulation). In this way, the diffusion coefficient generated by the combined action of the random force and the friction is given by the Einstein relation:</p><formula xml:id="formula_5">D = k B T 3πηd .<label>(5)</label></formula><p>The purely diffusive motion is obtained in absence of external forces and colloidal interactions ( F c = 0). In this case, the average displacement of the particles is zero and the fluctuations in particle positions obey the diffusive relation:</p><formula xml:id="formula_6">&lt; r(t) 2 &gt;= 6Dt.<label>(6)</label></formula><p>Let us now comment on the F c term in Eq.( <ref type="formula" target="#formula_0">1</ref>), which is the sum of interaction forces with all other colloids (and external fields if present). In our case, two different contributions have been included and can be written as</p><formula xml:id="formula_7">F c = -∇U LJ -∇U dd .</formula><p>In order to avoid particle overlapping, and as a first approximation, we have modeled our colloids as soft dipolar spheres by considering a 6-12 Lennard-Jones potential truncated at r LJ c = σ p = d:</p><formula xml:id="formula_8">U LJ = 4 p σ p r 12 - σ p r 6 , r &lt; r LJ c .<label>(7)</label></formula><p>which produces an effect quite similar to hard spheres of diameter σ p = d.</p><p>The second contribution to the external force is due to the magnetic dipole-dipole interaction between colloidal particles. In all the simulations presented in this work, the magnetic dipole of each colloidal particle is fixed along a unique direction with a fixed magnetization corresponding to the saturation magnetization of the superparamagnetic colloids. This mimics the real situation in which the magnetic moment of the superparamagnetic particles align along a strong uniform external magnetic field, with a saturation magnetization M sat . Then, a magnetic force between colloids arise from the dipoledipole interaction with an interaction energy given by:</p><formula xml:id="formula_9">U dd = 1 r 3 ij ( p i • p j ) -3( p i • rij )( p j • rij ) . (<label>8</label></formula><formula xml:id="formula_10">)</formula><p>where p i is the dipole corresponding to the i colloid and r ij is the vector joining the two dipole centers. More details about how this dipole-dipole interaction is implemented in LAMMPS can be found at <ref type="url" target="http://lammps.sandia">http://lammps.sandia</ref>. gov/doc/pair_dipole.html. In simulation is often convenient to rescale our system magnitudes to reduced dimensionless quantities. In the LAMMPS program the only dimensionless option for units is implemented by the units lj directive <ref type="url" target="http://lammps.sandia.gov/doc/units.html">http:// lammps.sandia.gov/doc/units.html</ref>. The dimensionless quantities are defined as follows. One defines a set of basic quantities which will be used to convert from dimensionless units to real units. These basic quantities are: an energy scale 0 , a length scale σ 0 and a unit mass m 0 . This choice also fixes the time scale, which is given by:</p><formula xml:id="formula_11">t 0 = σ 0 m 0 /ε 0 .<label>(9)</label></formula><p>In a completely equivalent way, one may select three of the four basic quantities 0 , σ 0 , m 0 and t 0 to construct a complete set and compute the remaining one using Eq.( <ref type="formula" target="#formula_11">9</ref>). The quantities evaluated in this dimensionless system are denoted here with a * superscript. Once we have selected our basic unit set, any other quantity of interest can be written in this new set of units.</p><p>In our case we have selected as the basic scales of our units system those parameters close to a molecule of water (our implicit solvent). Thus , m 0 = 3.0 × 10 -26 kg, σ 0 = 3.0 Å and ε 0 = 2.60 × 10 -23 J. With this election, the resulting time scale is t 0 = 1.01 × 10 -11 s.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SIMULATION PARAMETERS</head><p>All the simulations performed in this work can be grouped in two different sets. A first set of simulations with the same concentration of magnetic colloids and with different values of the magnetic strength an a second set in which the colloids have the same magnetization but they are present in different concentrations. Tables <ref type="table" target="#tab_1">I</ref> and<ref type="table" target="#tab_3">II</ref> summarize the values used in defining these simulations. In table I we present the complete set of parameters common in all these simulations and in table II are presented all the parameters involved in the definition of different magnetic regimes and concentrations.</p><p>All the simulations consist of 8000 colloidal dipolar particles immersed in (implicit) water as a solvent at a constant temperature of T = 300K. The mass of the colloidal particles has been chosen to obtain a density close to the water density at that temperature to avoid any possible sedimentation effect of the colloidal particles in the simulation.</p><p>In the numerical integration of Eq.( <ref type="formula" target="#formula_0">1</ref>) in time steps of value dt, we have to keep in mind that the diffusive motion in a dt should be of a reasonable order of magnitude in order to produce an observable (but not too large) diffusive motion. However, the dipolar interactions between colloids can also cause the particles to overlap in excess. This could produce a too large repulsive force over the colloidal particles, resulting in a large velocity (after integration) due to the repulsive part of the Lennard-Jones potential and leading the system to an unphysical situation, which could make the integration procedure to fail. Then, the time step has to be large enough to reproduce the diffusion of the colloidal particles but small enough to avoid too large forces between particles whenever they overlap. In our case, we selected an integration time step of ∼ 1ns for all simulations where the magnetic interactions were present.</p><p>Regarding the Lennard-Jones interactions, the selected cutoff have been set to r LJ c = d = 100nm. In this way, the particles only interact through this repulsive force when they do overlap. The Lennard-Jones parameters σ p , p have been set to obtain a relatively hard sphere colloid, in which the distance between colloidal particles in contact is close to the original diameter of the particle (no overlapping).</p><p>Since the magnetic dipole-dipole interaction is a relatively long range force (∼ 1/r 3 ) its computation is one of the most time consuming parts in these simulations. Unfortunately, there is no available method in LAMMPS package that could be applied to reduce the computing time when accounting for this interactions (similar to the Ewald summation method used to compute the electrostatic interactions in charged systems). Then, we evaluated this interaction by direct summation of the forces in the real space, but limited to a certain region surrounding the particle defined with a cutoff (r dd c ). The selected cutoff for all simulations is ten times the particle diameter r dd c = 10d which results, in the worst case, in an error in the magnetic energy per particle smaller than 0.05k B T ( see table <ref type="table" target="#tab_3">II</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SIMULATION ANALYSIS</head><p>We started the simulations by placing the 8000 particles following a cubic lattice arrangement inside the simulation box. The lattice constant was set according to the initial volume fraction φ 0 desired in each case. Then, the system was equilibrated at T = 300K with the magnetic interactions switched off for a total simulation time of 0.1 s, with an integration time step of 1.01×10 -10 s. In this situation, the expected diffusion  coefficient for the colloids can be evaluated from the expression 5. In the other hand, this diffusion coefficient can be also obtained from simulation by evaluating the mean squared displacement (msd) calculated through the expression 6. In the case of φ 0 = 5.23 × 10 -4 the diffusion coefficient obtained from simulation is D sim = 4.29 × 10 -12 m 2 s -1 (the fitting is shown in figure <ref type="figure">1</ref>). As it was expected, this value does agree with the theoretical value D theory = 4.39 × 10 -12 m 2 s -1 predicted through relation 5. FIG. <ref type="figure">1</ref>: Mean squared displacement obtained from simulation without magnetic interactions. In this case, the volume fraction was set to φ0 = 5.23×10 -4 and the diffusion coefficient was obtained through the expression 6.</p><p>Once the system was equilibrated without the magnetic interactions, we used the last configuration obtained to restart the simulations but with the magnetic interactions switched on. These simulations were run for a total time between 1 and 3 s, depending on the simulation.</p><p>Some thermodynamical quantities such the potential energy, kinetic energy, etc. were stored in order to ensure the good performance of the simulation. Moreover, we have stored for each simulation the configuration of the system (positions, velocities, etc...) every 0.51 ms in real time (equiv-alent to store it every 500000 time steps). These files have been used to calculate any other quantity of interest presented in this work, such as the distribution of aggregates, the mean chain length, etc.</p><p>In order to quantify the aggregation phenomena found in the simulations, we had to define a criteria for the aggregation of two colloidal particles. According to typical experimental resolution in image processing techniques used to analyze the aggregating phenomena in such systems <ref type="bibr" target="#b2">[3]</ref> we have defined a contact distance between colloids (i.e. the distance at which two colloids are joined together) as d c ≡ 1.15d. With this selection, we got a good compromise between the statistical noise and the computed number of aggregates.</p><p>Prior to evaluate any equilibrium quantity from the simulations, we had to identify when our system was reaching equilibrium. By analyzing the time evolution of the potential energy, we could define a time interval in which we can assume that the system has -with reasonable approximationreached an equilibrium state. In figure <ref type="figure">2</ref> the time evolution of the potential energy is shown for different simulations and table III summarizes the different selected ranges corresponding to each simulation. We have also computed the average particle density function around each colloid (i.e. the colloid-colloid correlation function), Figure <ref type="figure" target="#fig_1">3</ref>. In this figure the finite size of the colloids can be clearly appreciated (the density vanishes for separations smaller than the colloid size). Also, it shows how the colloids arrange themselves in chains in the z axis, with small fluctuations around the contact position. These details are also clearly observed in the accompanying movies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FINITE SIZE EFFECTS AND CUTOFF ANALYSIS</head><p>Here let us emphasize that finite size effects, effects of cutoff and in general the effect of long range interactions has been considered in detail prior to perform our production runs. We have considered simulations with 1000, 8000 and 10000 particles as well as cut-off values from 10 to 5 times the of the colloids and different values for the radius of neighbor list.</p><p>As an example, we show here the results form the same simulation employing four different schemes with the parameters indicated in the Table <ref type="table" target="#tab_6">IV</ref>. The meaning of the parameters is as follows: cutoff is the cut off of the magnetic interactions as explained before, "every" indicates a build of neighbor list every this many steps, "page" indicates the number of pairs stored in a single neighbor page, "one" the maximum number of neighbors of one atom. The "page" and "one" options affect how memory is allocated for the neighbor lists and, though the default settings are fine for most simulations is recommended to boost them when dealing with large systems and/or large cut-off values.  These test simulations were performed using 1000 colloids, Γ = 10 and φ 0 = 5.23 × 10 -4 using a 4-processors grid in parallel. The results (Figure <ref type="figure">4</ref>) show that a reduction of the employed cut off to half the value employed in the production runs does not affect the obtained results. Hence, the choice of this parameter is not as critical as one may think provided that one selects a value giving a truncation error in the magnetic energy much smaller than the thermal energy (as always is in our simulations, see Table <ref type="table" target="#tab_3">II</ref>. In spite of this, our choices were highly conservative and we always employed in the production runs large cut off to minimize numerical errors in spite of the extremely high computational time required by these calculations.</p><p>The comparisons shown in Figure <ref type="figure">4</ref> and Table III also demonstrate that the simulation time depends crucially on the combination of the different parameters controlling the neighbors list, without affecting the precision of the results.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIG. 3 :</head><label>3</label><figDesc>FIG.3: Average particle density function corresponding to Γ = 10 and φ0 = 5.23 × 10 -4 . The evaluation has been carried out by averaging the last 1000 configurations corresponding to the last 0.5 s of simulation.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE I :</head><label>I</label><figDesc>Common simulation parameters for all simulations. The simulations units have been obtained by rescaling the real values using the basic units set presented in the previous section.</figDesc><table><row><cell>Parameter</cell><cell>real units</cell><cell>sim. units  *</cell></row><row><cell>T</cell><cell>300 K</cell><cell>159</cell></row><row><cell>mp</cell><cell cols="2">5.24 -19 Kg 1.75 × 10 7</cell></row><row><cell>τ</cell><cell>55.6 ns</cell><cell>54.9</cell></row><row><cell>dt</cell><cell>1.01 × 10 -9 s</cell><cell>100</cell></row><row><cell>σ LJ</cell><cell>100 nm</cell><cell>333.3</cell></row><row><cell>LJ</cell><cell>1.30 × 10 -20 J</cell><cell>500</cell></row><row><cell>r LJ c</cell><cell>100 nm</cell><cell>333.3</cell></row><row><cell>r dd c</cell><cell>1 µm</cell><cell>3333.3</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE II :</head><label>II</label><figDesc>Simulation parameters for the two sets of simulations presented in this work.</figDesc><table><row><cell cols="2">Sim-ID Γ</cell><cell>φ</cell><cell>Msat</cell><cell cols="2">magnetic dipole</cell><cell>axis box length -Edd(r dd c )</cell></row><row><cell>-</cell><cell>-</cell><cell>-</cell><cell cols="4">[emu/g] [×10 -17 J/T] [*] [µm]</cell><cell>[*]</cell><cell>[kBT ]</cell></row><row><cell>1</cell><cell cols="3">3 0.52 × 10 -3 15.1</cell><cell>0.79</cell><cell cols="2">94075 20.0 66666.7 0.3 × 10 -2</cell></row><row><cell>2</cell><cell cols="3">10 0.52 × 10 -3 27.5</cell><cell>1.44</cell><cell cols="2">171756 20.0 66666.7 1.0 × 10 -2</cell></row><row><cell>3</cell><cell cols="3">10 1.05 × 10 -3 27.5</cell><cell>1.44</cell><cell cols="2">171756 15.7 52913.4 1.0 × 10 -2</cell></row><row><cell>4</cell><cell cols="3">10 2.62 × 10 -3 27.5</cell><cell>1.44</cell><cell cols="2">171756 11.7 38986.9 1.0 × 10 -2</cell></row><row><cell>5</cell><cell cols="3">10 5.23 × 10 -3 27.5</cell><cell>1.44</cell><cell cols="2">171756 9.3 30943.9 1.0 × 10 -2</cell></row><row><cell>6</cell><cell cols="3">11 0.52 × 10 -3 28.8</cell><cell>1.51</cell><cell cols="2">180139 20.0 66666.7 1.1 × 10 -2</cell></row><row><cell>7</cell><cell cols="3">12 0.52 × 10 -3 30.1</cell><cell>1.58</cell><cell cols="2">188149 20.0 66666.7 1.2 × 10 -2</cell></row><row><cell>8</cell><cell cols="3">15 0.52 × 10 -3 33.7</cell><cell>1.76</cell><cell cols="2">210358 20.0 66666.7 1.5 × 10 -2</cell></row><row><cell>9</cell><cell cols="3">40 0.52 × 10 -3 55.0</cell><cell>1.58</cell><cell cols="2">343512 20.0 66666.7 4.0 × 10 -2</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE III :</head><label>III</label><figDesc>Different time intervals and number of samples used when calculating the average chain length from simulations. These time intervals have been selected according to the time evolution of the potential energy, shown in figure2and the time evolution of n shown in Figs. 2-3 in the main paper.</figDesc><table><row><cell cols="9">Supplementary Material (ESI) for Soft Matter</cell><cell></cell><cell></cell></row><row><cell cols="11">This journal is (c) The Royal Society of Chemistry 2010</cell></row><row><cell></cell><cell>-20 0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Γ=3 Γ=10 Γ=11 Γ=12 Γ=15 Γ=40</cell></row><row><cell>Potential Energy [kJ/mol]</cell><cell>-80 -60 -40</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>-100</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>-120</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="11">0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6 2.8 3.0</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>time[s]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Γ=10, c=0.5g/l Γ=10, c=1.0g/l Γ=10, c=2.5g/l Γ=10, c=5.0g/l</cell></row><row><cell></cell><cell>-5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potential Energy [kJ/mol]</cell><cell>-15 -10</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>-20</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>-25</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.0</cell><cell>0.2</cell><cell>0.4</cell><cell>0.6</cell><cell>0.8</cell><cell>1.0</cell><cell>1.2</cell><cell>1.4</cell><cell>1.6</cell><cell>1.8</cell><cell>2.0</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>time[s]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="12">FIG. 2: Potential energy time evolution for all simulations. Different</cell></row><row><cell cols="12">Γ values and φ0 = 5.23×10 -4 (top panel) and Γ = 10 and different</cell></row><row><cell cols="6">volume fractions (bottom panel).</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Sim-ID Γ tmin tmax samples</cell><cell>n</cell><cell>error (2σ)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell>-[s] [s]</cell><cell>-</cell><cell>[particles] [particles]</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1</cell><cell>3 0.5 1.0 1000 1.00217 0.00005</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell>10 1.0 2.0 2000</cell><cell>1.6814</cell><cell>0.0006</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell>10 1.2 2.0 1600</cell><cell>2.614</cell><cell>0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>4</cell><cell>10 1.2 1.7 1000</cell><cell>4.742</cell><cell>0.006</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>5</cell><cell>10 0.7 1.2 1000</cell><cell>6.77</cell><cell>0.01</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>6</cell><cell>11 1.8 2.0 400</cell><cell>3.238</cell><cell>0.003</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>TABLE IV :</head><label>IV</label><figDesc>Summary of schemes used in different test simulations to check the overall performance of the simulations and the effects of different cutoff and neighbor list parameters. The average computing velocity for each scheme has been calculated as the number of simulation steps over the total elapsed time. FIG. 4: Potential energy as a function of time (top) and mean number of colloid per aggregate (bottom) obtained considering a contact distance of 108nm.</figDesc><table><row><cell></cell><cell cols="8">Supplementary Material (ESI) for Soft Matter</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="10">This journal is (c) The Royal Society of Chemistry 2010</cell></row><row><cell></cell><cell>0.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">scheme A</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">scheme B</cell></row><row><cell></cell><cell>-1.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">scheme C scheme D</cell></row><row><cell></cell><cell>-2.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Potential Energy [kJ/mol]</cell><cell>-6.0 -5.0 -4.0 -3.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>-7.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>-8.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>-9.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.00</cell><cell>0.05</cell><cell>0.10</cell><cell>0.15</cell><cell>0.20</cell><cell>0.25</cell><cell>0.30</cell><cell>0.35</cell><cell>0.40</cell><cell>0.45</cell><cell>0.50</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>time [s]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.6</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;N&gt;</cell><cell>1.3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">scheme A</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">scheme B</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">scheme C</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">scheme D</cell></row><row><cell></cell><cell>1.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.00</cell><cell>0.05</cell><cell>0.10</cell><cell>0.15</cell><cell>0.20</cell><cell>0.25</cell><cell>0.30</cell><cell>0.35</cell><cell>0.40</cell><cell>0.45</cell><cell>0.50</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>time [s]</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Material (ESI) for Soft Matter</head><p>This journal is (c) The Royal Society of Chemistry 2010</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dunweg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Paul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J of Modern Physics C</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">817</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Calero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Faraudo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. E</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page">42601</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Domínguez-García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Melle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Pastor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. E</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">51403</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Present status and future prospects of perovskite photovoltaics</title>
+				<funder ref="#_9yJnd6j">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">EPSRC, UK</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2018-04-23">23 April 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">Present status and future prospects of perovskite photovoltaics</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-04-23">23 April 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6FF8BD22FC4F20165BC1CD1A0DA91EA6</idno>
+					<idno type="DOI">10.1038/s41563-018-0071-z</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Solar cells based on metal halide perovskites continue to approach their theoretical performance limits thanks to worldwide research efforts. Mastering the materials properties and addressing stability may allow this technology to bring profound transformations to the electric power generation industry.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>M</head><p>etal halide perovskites have fascinated the research community over the past six years, largely due to a combination of their high-quality optoelectronic properties -unexpected for materials processed from solution and at low temperature -and the apparent ease with which they can be employed as absorber layers in highly efficient photovoltaic (PV) devices <ref type="bibr" target="#b0">1</ref> . Perovskites typically adopt a 3D crystal structure composed of three primary ions with a stoichiometry of ABX 3 . For the all-inorganic compounds, caesium is the A-cation, and either lead or tin are the B cation, with halides of chlorine, bromine or iodine as the X anion. The 'hybrid' perovskite compounds, which have shown most promise so far, have either methylammonium (MA) or formamidinium (FA) as the A cation. Some of the most efficient and stable compounds even have multiple mixtures of ions at the A and X sites <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> . The rich variety of compositions and the multitude of ways in which they can be investigated have fostered burgeoning interest in perovskites and related compounds.</p><p>Since the first reports in 2012, metal halide perovskites were well on their way to deliver high PV performance <ref type="bibr" target="#b0">1</ref> , and now single-junction cells are already approaching power conversion efficiency (PCE) of 23% <ref type="bibr" target="#b5">6</ref> . Yet, beyond high efficiency, other critical factors are required for a PV 'concept' to transition from the laboratory to real-world deployment and use, with ambition to reach TW-scale production capacity. These include low materials and manufacturing costs, high stability and independence from rare elements. The major components in the perovskite compounds, lead and iodine, are abundant materials, and low cost appears to be preordained. Demonstrating long-term stability, however, has raised major concerns <ref type="bibr" target="#b4">5</ref> .</p><p>In general, there is a sense that the properties that make perovskites such remarkable semiconductors, which are yet to be fully understood, may also be the properties that are more challenging to control for long-term stability <ref type="bibr" target="#b6">7</ref> . However, if progress in materials and device engineering will enable long-term PV module deployment, then such improved operational stability, combined with the ease of formation of high-quality materials and devices, will place perovskites at the ideal spot to trigger profound transformation in the PV market.</p><p>In this Comment, the present status in research and directions where further research effort is required will be discussed, but not comprehensively reviewed, along with the status and challenges for technology transfer and commercialization of perovskite PVs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Status in research</head><p>Researchers have demonstrated how to routinely obtain perovskite solar cells with efficiency beyond 20%, through changes in materials composition, processing conditions and device architectures. Reaching the maximum theoretical performance in single-and multi-junction solar cells and demonstrating stability over 25 years require further understanding of the optoelectronic properties of metal halide perovskite devices and of how they can be controlled with further chemistry and device architecture optimization. Solar cells with high external radiative efficiency. Miller, Yablonovitch and Kurtz 8 popularized the notion that a good solar cell must also be a good light-emitting diode. When all non-essential charge recombination paths are eliminated, such as trap-assisted recombination at defect or impurity sites, charges present in the active material can only recombine through radiation of light. Thus, bright electroluminescence from a PV cell operating in forward bias (Fig. <ref type="figure" target="#fig_0">1a</ref>), typically measured when the dark recombination current equals the shortcircuit photocurrent under sunlight, is a signature that a smaller and smaller fraction of recombination occurs via non-radiative channels. The external radiative efficiency (ERE) of a PV cell -which is the fraction of total dark recombination current that results in the emission of light -is a good indicator of how close to perfection the cell is. Single-digit ERE numbers, such as the ~2% value that can be estimated for the record 26.7% PCE silicon cells <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> , are already very good, and the even higher ERE of ~22% reached by 28% PCE GaAs cells <ref type="bibr" target="#b8">9</ref> suggests that photon recycling (multiple reabsorption and reconversion in free charges of photons emitted by charge recombination in the active layer) starts to contribute to both charge transport and voltage gain (Fig. <ref type="figure" target="#fig_0">1b</ref>). In general, high ERE values correspond to open-circuit voltages V oc approaching the theoretical limits.</p><p>The high luminescence efficiency of metal halide perovskites was recognized early on <ref type="bibr" target="#b10">11</ref> . At present, the best perovskite solar cells have an ERE of 1-4% 3 , and photon recycling has been suggested to occur in these devices <ref type="bibr" target="#b11">12</ref> . Another closely related indicator of loss in a solar cell is the 'operational loss' , which is defined as the difference between the optical band gap of the absorber (in eV) and the maximum power point voltage when the cell is operating under sunlight <ref type="bibr" target="#b12">13</ref> . In Fig. <ref type="figure" target="#fig_0">1c</ref>, the operational loss is shown for a number of different PV technologies, including perovskite solar cells; PCE improvements have corresponded to marked reduction in loss for this technology. The high ERE and reduced operational loss indicate that V oc can reach high values in perovskite devices; however, the PCE is still lower than that of silicon solar cells with comparable ERE because other device parameters determining the PV efficiency, such as the fill factor and the short-circuit current density, are affected by resistive losses and optical losses, respectively <ref type="bibr" target="#b12">13</ref> . Improving the optical design of the cells is important to move towards and beyond 25% efficiency. It is also noted that the external radiative comment efficiency of isolated perovskite films, here measured as the fraction of emitted to absorbed light, is as high as 70% <ref type="bibr" target="#b10">11</ref> , thus there is a possibility of achieving much higher EREs in complete solar cells. Importantly, this indicates that when a perovskite absorber layer is sandwiched between charge-selective contacts in a PV device, further recombination losses are introduced. Although various methodologies -such as molecular passivation of the perovskite surface <ref type="bibr" target="#b13">14</ref> or reducing the interfacial contact between the charge extraction layers and perovskite absorber <ref type="bibr" target="#b14">15</ref> -have shown progress in reducing such losses, our present understanding of recombination at these heterointerfaces is limited, and there remains more than 100 mV to be gained in V oc , by minimizing these losses.</p><p>As discussed above, several optoelectronic parameters indicate that the average quality of metal halide perovskites films is already high, which is surprising considering that these are usually deposited through solution processes and have high densities of crystalline defects -this is the reason why these materials have been labelled as defect tolerant <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b16">17</ref> . Yet, it is expected that minimization of electronic defects through materials improvements will be important to progress towards the thermodynamic efficiency limits. An important aspect relates to the chemical processes that occur when depositing perovskite films. Although the solutions used obviously contain A, B and X precursors, these ions are incorporated into many forms such as colloids, dissolved ions and complexes <ref type="bibr" target="#b17">18</ref> ; and the solutions also contain additives, whose role in the chemical reactions and quality of the synthesized perovskites needs further understanding <ref type="bibr" target="#b18">19</ref> . Often crystallization proceeds through an intermediate crystalline precursor phase <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21</ref> ; however, there is no consensus yet as to what are the needed 'building blocks' to obtain an ideal crystalline perovskite film.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Beyond single-junction solar cells.</head><p>A more substantial efficiency boost will be obtained by moving to advanced concepts beyond single-junction PV cells. These may include multi-exciton generation, singlet fission, hot-carrier collection and even intermediate band gap cells. <ref type="bibr" target="#b21">22</ref> Results suggesting that some of these processes may occur in perovskite films have been reported, although these have not yet been translated into devices with higher PCE values.</p><p>A near-term means to move to higher efficiencies is to employ multi-junction concepts <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23</ref> , in which perovskite films are combined with silicon or other materials to expand the absorption spectral range (and thus the amount of solar radiation converted into electricity), and convert the solar photons into electrical potential energy at a higher voltage <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> . The success of this approach hinges upon the possibility to tune the optical bandgap of the perovskite layers, ideally from 2 eV to below 1.2 eV, depending on the absorption properties of the materials they are combined with <ref type="bibr" target="#b25">26</ref> . Although bandgap tuning has been demonstrated by changing the chemical composition or leveraging quantum confinement, at present only cells with a gap in the 1.5-1.7 eV range deliver appropriately high efficiency and stability.</p><p>Stability-related issues. These perovskite compounds are largely held together through ionic bonding, and this is likely to be one of the factors central to both the high tolerance to crystalline defects, and the ease at which highly crystalline films can be fabricated at low temperature <ref type="bibr" target="#b26">27</ref> .</p><p>However, this also results in low decomposition temperatures, which make these materials intrinsically less thermally stable than silicon. The use of organic A-site cations, which can withstand much lower temperatures than the inorganic counterparts, is also an intrinsic limit; yet, such cations, being larger than any inorganic ion in the periodic table, are necessary to form a stable octahedral framework in the 3D perovskite structure <ref type="bibr" target="#b27">28</ref> . A few potential routes have emerged to stabilize these frameworks with inorganic ions <ref type="bibr" target="#b28">29</ref> , but more work is required to confirm if these, or other approaches, can lead to long-term stable inorganic perovskites.</p><p>Aging causes electronic degradation in silicon arising from the 'un-passivation' of dangling bonds on the surface or at grain boundaries. For perovskites, the defect chemistry and physics is still not well understood, but the defects are thought to have energies close to, or inside, the energy bands <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b26">27</ref> . Therefore, defects emerging during aging should be less problematic, as suggested by the high efficiency of perovskite solar cells in the presence of a relatively large fraction of PbI 2 (a degradation product) within the film <ref type="bibr" target="#b15">16</ref> .</p><p>Through substitution of ions and improved contact materials, the present generation of perovskite solar cells are vastly more stable, and with appropriate encapsulation they may already be close to requirements for real world deployment <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4</ref> , which are specified in the International Electrotechnical Commission (IEC) 61215 standard. However, in order to make the technology profitable, it is important to have a good level of certainty that the product will last 25 years. This requires going significantly beyond the IEC61215 standard, acquiring more detailed and perovskite solar cells (green squares, with the corresponding PCE of the devices). Also shown is the minimum operational loss feasible when a solar cell reaches the Shockley-Queisser (SQ) limit. Reproduced from ref. <ref type="bibr" target="#b2">3</ref> , AAAS (a). Adapted from ref. <ref type="bibr" target="#b7">8</ref> , IEEE (b); and ref. <ref type="bibr" target="#b12">13</ref> , Wiley (c). comment understanding of potential failure modes that could exist.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials beyond the ABX 3 Pb-halide perovskites.</head><p>Since the advent of efficient metal halide PV cells, the prospects of discovering new related compounds has redirected new materials discovery <ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> . This is also motivated by the desire to replace lead, due to toxicology concerns. Partial replacement of lead with tin is currently the only route to reduce the band gap to significantly below 1.5eV, which is essential for multi-junction cells. Although efficient tin and lead-tin PV cells have been realized <ref type="bibr" target="#b23">24</ref> , the stability of the neat tin-based cells is still extremely low. Other lead-free compounds have also been tested; however, thus far they have not yet delivered PV cells with efficiencies beyond 3% <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref> . This suggests that there is something extraordinarily unique about the group IV metal halide perovskites. However, it is still likely that new perovskite families do exist, but discovering them is much more challenging than first anticipated.</p><p>A separate, successful case is the extension of perovskites to layered structures using larger organic cations. This has resulted in successful realization of Ruddlesden-Popper phase perovskites, and also films with mixed compositions of 2D and 3D phases. These approaches can result in both improved long-term stability and efficiency <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b33">34</ref> . The prospect of creating stable heterojunctions between 2D and 3D phases may also enable both the study of new physics and a better control of perovskite surfaces and electronic interfaces <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b34">35</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>technology transfer in perovskite PV</head><p>Although addressing the open research questions described above will help clarifying the technological potential of perovskite solar cells, there are challenges remaining towards market deployment. Considerations about the availability of materials and their environmental and toxicity risks confirm the role of perovskite PV as strong contenders for large-scale electricity generation. Start-up companies are in the process of delivering the first commercial products, yet more financial support to research and stronger interest from investors is required to overcome barriers to commercialization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials availability and toxicity.</head><p>Over the past few years, the cost of mainstream PV power generation has dropped below the cost of producing electricity from coal and gas in the sunniest locations in the world. As efficiency increases further the cost of PV electricity will continue to fall. It is therefore feasible that PV will eventually become our primary source of global power generation, which means that the volume and value of today's PV market is only a fraction of the size it will become over the next few decades. This implies that raw resources must not limit the ambition of any PV technology to scale with this growing market. In this respect, lead-based perovskites sit in a remarkably good position. Figure <ref type="figure" target="#fig_1">2a</ref> shows the current annual global production capacity of elements used in existing PV technologies and perovskites <ref type="bibr" target="#b35">36</ref> . In order to reach 12.5 TW PV electricity generation (the dots on the graph), GaAs PV cells would require 500 years of today's gallium production capacity, thin film CdTe PV modules would require 1,000 years of today's tellurium, and thin film copper indium gallium selenide (CIGS) would require 400 years of today's indium. The only commercial PV technology that can scale to this level is silicon, which for 12.5 TW PV electricity generation capacity would require around three years of our current silicon production. In stark contrast, perovskites would only take a few days of current lead production capacity to scale to the TW level.</p><p>Another critical implication of this analysis is that we would not have to significantly increase our global lead production, and hence consumption, beyond todays levels, if we moved to 100% lead-based perovskite PV power generation, thus containing the environmental impact of lead-based perovskite PV modules. Yet such impact requires more complete investigation to ensure the sustainability of this technology. As part of the activity within the European project CHEOPS, SmartGreenScans (<ref type="url" target="https://go.nature.com/2ul5Ggs">https://go.nature. com/2ul5Ggs</ref>) have undertaken a rigorous life-cycle assessment (LCA) of perovskite-on-silicon tandem cell and module production using the pilot facility in Germany of Oxford Photovoltaics Ltd (<ref type="url" target="https://www.oxfordpv.com/">https://www.oxfordpv.com/</ref>) as a baseline proxy for the manufacturing process. The first results show that emitted lead contributes only 0.27% or less to the total freshwater ecotoxicity and human toxicity (<ref type="url" target="https://go.nature.com/2G5Hp3E">https://go.nature.com/2G5Hp3E</ref>). The majority of the negative environmental or health impacts are related to the monocrystalline silicon production, with indium also significantly contributing. Similar LCA studies compared the total environmental impact for the manufacturing of different types of perovskite-based tandem solar cells <ref type="bibr" target="#b36">37</ref> . Consistently, as shown in Fig. <ref type="figure" target="#fig_1">2b</ref>, silicon dominates the total environmental impact, which also encourages the development of perovskiteon-perovskite tandem cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patent landscape and commercial activity.</head><p>As perovskite PV research advances, growing commercial activity is emerging. This is illustrated in a recent review of the patent literature. There are over 2,000 filed and 300 granted patents in perovskite PVs <ref type="bibr" target="#b37">38</ref> . and CdTe. Adapted from ref. <ref type="bibr" target="#b35">36</ref> , Royal Society of Chemistry. b, Normalized environmental impact for the manufacturing of different tandem solar cells, where Si/PK = perovskite-on-silicon tandem, CIGS/PK = perovskite-on-CIGS tandem, CZTS/PK = perovskite-on-copper zinc tin sulfide tandem, PK/PK = perovskite-on-perovskite tandem, CZTS = copper zinc tin sulfide, and 1 is the environmental impact for the production of single junction Si solar cells. Adapted from ref. <ref type="bibr" target="#b35">36</ref> , Royal Society of Chemistry (a); and ref. <ref type="bibr" target="#b36">37</ref> , Royal Society of Chemistry (b).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>comment</head><p>A chart of the number of patents assigned, per top assignees is shown in Fig. <ref type="figure" target="#fig_2">3a</ref>. Of the top ten assignees of perovskite patents, six are commercial entities (a mixture of start-ups and large corporations) with the remainder being universities or research institutes. Figure <ref type="figure" target="#fig_2">3a</ref> also illustrates the global nature of perovskite PV commercialization, with top assignees distributed between Europe, USA, Japan, China, Korea and Australia. There are diverse technical directions being pursued to commercialize perovskite solar technologies, with some companies being more transparent than others. Oxford Photovoltaics Ltd is targeting perovskiteon-silicon tandem solar cells (Fig. <ref type="figure" target="#fig_2">3b</ref>). The rationale is that this technology capitalises upon the existing well-developed PV value chain, and through collaborating with existing silicon PV manufacturers, should enable the rapid scaling to large volume manufacturing and address the largest markets. However, there is no hiding from the key requirement to deliver 25 years stability, along with very high efficiency and high yield in manufacturing. Oxford Photovoltaics Ltd are presently scaling up towards pilot-scale manufacturing in a facility in Germany, which was previously a CIGS pilot production facility. Other companies, such as Saule Technologies (<ref type="url" target="http://sauletech.com">http://sauletech.com</ref>), and the Soliance consortium (<ref type="url" target="https://solliance.eu/">https://solliance.eu/</ref>), which includes Greatcell Solar (www.greatcellsolar. com) and Panasonic (www.panasonic. com), are developing lightweight, flexible and potentially semi-transparent perovskite modules (Fig. <ref type="figure" target="#fig_2">3c</ref>), for a broad range of applications including building-integrated PVs, the automotive industry and low-light indoor applications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Support for research and development.</head><p>Major initiatives to support perovskite PV research and development are presently lacking in ambition and scale. This may in part be due to the relatively short time passed since perovskite PV has shown such promise, and an inherent inertia and time lag in strategic investment decisions in research. Although over 3,000 academic journal publications (in 2017 alone) do suggest that many researchers are working on perovskite PVs and the related areas, the funding of this research is through a collection of small grants, rather than large ambitious multilateral projects. In comparison to the scale of the fusion project, solar PVs, and specifically perovskites, are receiving less than 1% of the investment in research and development. However, there exists a tangible prospect for perovskite PV to contribute to the radical transformation of the US$100 billion PV industry and the multi-trillion global power industry in the near to medium term. The opportunity to capture future value from this industry -by individual countries and multinational initiatives investing in advancing research in perovskite PV -has not yet been realized. Despite the fact that real first-generation products may enter the market over the next few years, there remains the opportunity for major further innovation over the next few decades.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>comment</head><p>It is also important to note that government investment into research not only be made into precommercial technologies, but also into technologies that support growing industry. In Europe, research projects supporting silicon PVs are unlikely to be funded in the next rounds. However, there remain many prospects to innovate even with this well-established silicon technology; by also investing in schemes that make the environment economically favourable for commercialization, value would be pulled back to the countries that make the investment in research and development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Barriers to commercialization.</head><p>There are hurdles to overcome on the path to commercial success. The most significant ones are probably not technical, but relate to practicalities of business, where a key issue is raising finance. Scaling up from very promising research results to a technology ready for manufacturing requires an order of magnitude increase in investment. Many venture firms, especially from the USA, remain cautious of investing in PV technology due to the previous surge in PV investment in the mid 2000s, where the likes of MiaSole, Nanosolar and Solyndra either filed for bankruptcy or sold for a fraction of the investment that had attracted <ref type="bibr" target="#b38">39</ref> . However, it is the opinion of the author that investors should be more optimistic today, as the PV industry is now in a completely different position as compared to the period between 2008 and 2012. The cost of electricity from PV is now cheaper than any other source in many places in the world, and the downward trend in cost is set to continue over the next decade. Therefore, PV is set to become a major component of global electricity generation and hence the market scale is assured. This makes strategic investment feasible; however, the largest investments in PV at present go into deployment and investment in solar farms, which have predictable rates of return, rather than investments into development of new technology where the risk is much higher. Another non-technical issue, which also affects the ability to raise investment, is how to develop an appropriate business model, which will create value from the PV industry, in the event of technical success. Existing mainstream PV manufacturers do not make a reliable profit margin; hence, new approaches to creating value, or a change in the structure of the industry, have to emerge.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outlook</head><p>There has been tremendous research activity in metal halide perovskites for PV applications over the past six years, which has resulted in many discoveries and advances. Although expanding upon the lead halide material set has proven challenging, improving the quality and stability of the lead halide perovskites and devices has brought the technology tangibly close to commercial readiness. There is now growing industrial momentum and it is likely that real PV applications employing metal halide perovskites will be demonstrated over the next few years, which will represent a second phase, or era, for this research community. ❐</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Henry J. Snaith</head><p>Department of Physics, University of Oxford, Oxford, UK. e-mail: henry.snaith@physics.ox.ac.uk</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | light emission and voltage losses in perovskite solar cells. a, Photograph of a perovskite PV device emitting light while under forward electrical bias. b, Illustration of photon recycling in a solar absorber layer. External incident light (yellow wavy arrows) generates charge carriers (e -and h + ), which can recombine (black dots) to produce new photons (red wavy arrows) that can either be reabsorbed to generate new charge carriers, or are emitted outside the active layer (light-blue). c, Operational loss versus absorption edge of the solar absorber layer for a number of different PV technologies (red squares)and perovskite solar cells (green squares, with the corresponding PCE of the devices). Also shown is the minimum operational loss feasible when a solar cell reaches the Shockley-Queisser (SQ) limit. Reproduced from ref.<ref type="bibr" target="#b2">3</ref> , AAAS (a). Adapted from ref.<ref type="bibr" target="#b7">8</ref> , IEEE (b); and ref.<ref type="bibr" target="#b12">13</ref> , Wiley (c).</figDesc><graphic coords="2,69.39,84.43,110.54,86.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 |</head><label>2</label><figDesc>Fig.2| Material production capacity and environmental impact. a, Annual material production in 2015 versus material required to deliver 5% (left end of the bar), 50% (circle) and 100% (right end of the bar) of a potential 25 TW PV installation for perovskite, silicon, GaAs, CIGS (copper indium gallium selenide) and CdTe. Adapted from ref.<ref type="bibr" target="#b35">36</ref> , Royal Society of Chemistry. b, Normalized environmental impact for the manufacturing of different tandem solar cells, where Si/PK = perovskite-on-silicon tandem, CIGS/PK = perovskite-on-CIGS tandem, CZTS/PK = perovskite-on-copper zinc tin sulfide tandem, PK/PK = perovskite-on-perovskite tandem, CZTS = copper zinc tin sulfide, and 1 is the environmental impact for the production of single junction Si solar cells. Adapted from ref.<ref type="bibr" target="#b35">36</ref> , Royal Society of Chemistry (a); and ref.<ref type="bibr" target="#b36">37</ref> , Royal Society of Chemistry (b).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Patents and PV technologies under development. a, List of top 14 assignees of perovskite solar cell patents. Figure reproduced from ref. 38 . b,c, Photographs of: a 156 × 156 mm 2 pseudo-square wafer perovskite-on-silicon tandem cell (b), courtesy of Oxford Photovoltaics Ltd; and a 160 cm 2 flexible perovskite module processed via roll-to-roll coating (c), courtesy of Soliance Solar Research.</figDesc><graphic coords="4,58.48,264.63,143.90,108.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Physics Chinese Academy of Sciences Okinawa Institute of Science and Technology School Chengdu New Keli Chemical Science Co. Ltd Commonwealth Scientific and Industrial Research Organisation</figDesc><table><row><cell>Oxford Photovoltaics Ltd</cell></row><row><cell>Sekisui Chemical Co. Ltd</cell></row><row><cell>Fujifilm Corp.</cell></row><row><cell>Hunt Energy Enterprises LLC</cell></row><row><cell>Huazhong University of Science and Technology</cell></row><row><cell>Korea Research Institute of Chemical Technology</cell></row><row><cell>IG Chem Ltd</cell></row><row><cell>Bohai University</cell></row><row><cell>Ecoale Polytechnique Fedaeral de Lausanne</cell></row><row><cell>Tianjin Vocational Institute</cell></row><row><cell>Institute of</cell></row><row><cell>0</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Nature MaterialS | VOL 17 | MAY 2018 | 372-376 | www.nature.com/naturematerials © 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements H.S. is funded by the <rs type="funder">EPSRC, UK</rs> and the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 framework programme for research and innovation</rs> under grant agreement no. <rs type="grantNumber">653296</rs> of the <rs type="projectName">CHEOPS</rs> project. H.S. thanks <rs type="person">P. Nayak</rs> for providing adaptations to Fig. 1c.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_9yJnd6j">
+					<idno type="grant-number">653296</idno>
+					<orgName type="project" subtype="full">CHEOPS</orgName>
+					<orgName type="program" subtype="full">Horizon 2020 framework programme for research and innovation</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>H.S. is co-founder and Chief Scientific Officer of Oxford Photovoltaics Ltd.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The emergence of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ho-Baillie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">506</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">23.6%-efficient monolithic perovskite/silicon tandem solar cells with improved stability</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bush</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17009</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Incorporation of rubidium cations into perovskite solar cells improves photovoltaic performance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="206" to="209" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Efficient ambient-air-stable solar cells with 2D-3D heterostructured butylammonium-caesium-formamidinium lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">P</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17135</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Device stability of perovskite solar cells -a review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Asghar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Lund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="131" to="146" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Perovskite solar cells: the birth of a new era in photovoltaics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ho-Baillie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="822" to="830" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Making and breaking of lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Manser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Saidaminov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Christians</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Bakr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Kamat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="330" to="338" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Strong Internal and External Luminescence as Solar Cells Approach the Shockley-Queisser Limit</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yablonovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Kurtz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE J. Photovoltaics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="303" to="311" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Radiative efficiency of state-of-the-art photovoltaic cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Photovoltaics Res. Appl</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="472" to="476" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Silicon heterojunction solar cell with interdigitated back contacts for a photoconversion efficiency over 26%</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoshikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17032</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High photoluminescence efficiency and optically pumped lasing in solution-processed mixed halide perovskite semiconductors</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Deschler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1421" to="1426" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Photon recycling in lead iodide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Pazos-Outón</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="1430" to="1433" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Updated assessment of possibilities and limits for solar cells</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Nayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cahen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1622" to="1628" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Enhanced photoluminescence and solar cell performance via lewis base passivation of organic inorganic lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Noel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="9815" to="9821" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Reduced interface-mediated recombination for high open-circuit voltages in CH3NH3PbI3 solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1700159</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Defect tolerance in methylammonium lead triiodide perovskite</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">X</forename><surname>Steirer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="360" to="366" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Unusual defect physics in CH3NH3PbI3 perovskite solar cell absorber</title>
+		<author>
+			<persName><forename type="first">W.-J</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">63903</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Hybrid halide perovskite solar cell precursors: colloidal chemistry and coordination engineering behind device processing for high efficiency</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="4460" to="4468" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Unveiling the Influence of pH on the crystallization of hybrid perovskites, delivering low voltage loss photovoltaics</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Noel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="328" to="343" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Crystallization kinetics of organic-inorganic trihalide perovskites and the role of the lead anion in crystal growth</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="2350" to="2358" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">HPbI3: A New Precursor Compound for Highly Efficient Solution-Processed Perovskite Solar Cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Functional Mater</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1120" to="1126" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Energy conversion approaches and materials for high-efficiency photovoltaics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Bremner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">23</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Third generation photovoltaics: solar cells for 2020 and beyond</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica E Low Dimens. Syst. Nanostruct</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="65" to="70" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Metal halide perovskite tandem and multiple-junction photovoltaics</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Horantner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Chem</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">95</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Perovskite tandem solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Lal</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aenm.201602761</idno>
+		<ptr target="https://doi.org/10.1002/aenm.201602761" />
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The potential of multijunction perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Horantner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="2506" to="2513" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The role of intrinsic defects in methylammonium lead iodide perovskite</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-H</forename><surname>Hong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1312" to="1317" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Steric engineering of metal-halide perovskites with tunable optical band gaps</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Filip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Giustino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5757</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Quantum dot-induced phase stabilization of α -CsPbI 3 perovskite for high-efficiency photovoltaics</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Swarnkar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="92" to="95" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Searching for &quot;defect-tolerant&quot; photovoltaic materials: combined theoretical and experimental screening</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Brandt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="4667" to="4674" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Perovskite-inspired photovoltaic materials: toward best practices in materials characterization and calculations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L Z</forename><surname>Hoye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="1964">1964-1988 (2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Toward lead-free perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Giustino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1233" to="1240" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Highly stable, phase pure Cs2AgBiBr6 double perovskite thin films for optoelectronic applications</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Greul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Petrus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Binek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Docampo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="19972" to="19981" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Ligand-stabilized reduced-dimensionality perovskites</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Quan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="2649" to="2655" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Hybrid perovskite/perovskite heterojunction solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="5999" to="6007" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Pathways for solar photovoltaics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Jaffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buonassisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bulovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1200" to="1219" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Environmental analysis of perovskites and other relevant solar cell technologies in a tandem configuration</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Celik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1874" to="1884" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Perovskite photovoltaic: A review of the patent landscape</title>
+		<ptr target="https://go.nature.com/2IGsIR9" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Rest in peace: the list of deceased solar companies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wesoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GreenTechMedia</title>
+		<imprint>
+			<date type="published" when="2013-04-06">6 April 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

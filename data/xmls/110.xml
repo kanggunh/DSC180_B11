@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&quot;Small-angle neutron scattering modeling of spin disorder in nanoparticles&quot;</title>
+				<funder ref="#_6bwHQVe">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_HNjYz2f">
+					<orgName type="full">National Research Fund of Luxembourg (AFR Postdoc</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-10-12">12 October 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Laura</forename><forename type="middle">G</forename><surname>Vivas</surname></persName>
+							<email>lauragvivas@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Physics and Materials Science Research Unit</orgName>
+								<orgName type="institution">University of Luxembourg</orgName>
+								<address>
+									<addrLine>162A avenue de la Faiencerie</addrLine>
+									<postCode>L-1511</postCode>
+									<settlement>Luxembourg</settlement>
+									<country key="LU">Luxembourg</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Physics and Materials Science Research Unit</orgName>
+								<orgName type="institution">University of Luxembourg</orgName>
+								<address>
+									<addrLine>162A avenue de la Faiencerie</addrLine>
+									<postCode>L-1511</postCode>
+									<settlement>Luxembourg</settlement>
+									<country key="LU">Luxembourg</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rocio</forename><surname>Yanes</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution">University of Salamanca</orgName>
+								<address>
+									<postCode>37008</postCode>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Applied Physics</orgName>
+								<orgName type="institution" key="instit1">University of Salamanca</orgName>
+								<orgName type="institution" key="instit2">Plaza de los Caidos</orgName>
+								<address>
+									<postCode>37008</postCode>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andreas</forename><surname>Michels</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Physics and Materials Science Research Unit</orgName>
+								<orgName type="institution">University of Luxembourg</orgName>
+								<address>
+									<addrLine>162A avenue de la Faiencerie</addrLine>
+									<postCode>L-1511</postCode>
+									<settlement>Luxembourg</settlement>
+									<country key="LU">Luxembourg</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Physics and Materials Science Research Unit</orgName>
+								<orgName type="institution">University of Luxembourg</orgName>
+								<address>
+									<addrLine>162A avenue de la Faiencerie</addrLine>
+									<postCode>L-1511</postCode>
+									<settlement>Luxembourg</settlement>
+									<country key="LU">Luxembourg</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&quot;Small-angle neutron scattering modeling of spin disorder in nanoparticles&quot;</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2017-10-12">12 October 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F1CC81BF81AED50CBA7CA2D70201298B</idno>
+					<note type="submission">Received: 15 August 2017 Accepted: 22 September 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Magnetic small-angle neutron scattering (SANS) is a powerful technique for investigating magnetic nanoparticle assemblies in nonmagnetic matrices. For such microstructures, the standard theory of magnetic SANS assumes uniformly magnetized nanoparticles (macrospin model). However, there exist many experimental and theoretical studies which suggest that this assumption is violated: deviations from ellipsoidal particle shape, crystalline defects, or the interplay between various magnetic interactions (exchange, magnetic anisotropy, magnetostatics, external field) may lead to nonuniform spin structures. Therefore, a theoretical framework of magnetic SANS of nanoparticles needs to be developed. Here, we report numerical micromagnetic simulations of the static spin structure and related unpolarized magnetic SANS of a single cobalt nanorod. While in the saturated state the magnetic SANS cross section is (as expected) determined by the particle form factor, significant deviations appear for nonsaturated states; specifically, at remanence, domain-wall and vortex states emerge which result in a magnetic SANS signal that is composed of all three magnetization Fourier components, giving rise to a complex angular anisotropy on a two-dimensional detector. The strength of the micromagnetic simulation methodology is the possibility to decompose the cross section into the individual Fourier components, which allows one to draw important conclusions regarding the fundamentals of magnetic SANS.</p><p>Magnetic nanoparticles are the building blocks of the future magnetism-based technological applications <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> . At the nanoscale, complex spin structures such as vortices or skyrmions may appear <ref type="bibr" target="#b2">3</ref> , which originate from the competition between various magnetic interactions and/or from geometrical constraints <ref type="bibr" target="#b3">4</ref> . In order to image such spin structures, it is important to have observational techniques at hand which allow one to see the magnetization distribution on the nanometer length scale. Recent examples include spin-polarized scanning tunneling microscopy <ref type="bibr" target="#b2">3</ref> , which has been employed to observe and manipulate skyrmions in ultra-thin films <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> , or electron holography, which has been used to investigate the temperature and magnetic-field dependence of the magnetic moments of individual skyrmions <ref type="bibr" target="#b7">8</ref> , or to show that the structure of a vortex state can be adjusted by varying the aspect ratio of single-crystal hcp Co nanowires <ref type="bibr" target="#b8">9</ref> . Small-angle neutron scattering (SANS) has also been recognized as a powerful technique for studying nanostructured magnetic materials; for instance, SANS is crucial for studying the skyrmion lattice in MnSi <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> , ferromagnetic nanorod and nanowire arrays <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> , magnetic nanoparticles <ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref> , bulk magnets including magnetic steels <ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref> , or the magnetic microstructure of nanocrystalline Nd-Fe-B magnets <ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> . Indeed, due to the magnetic sensitivity and the high transparency of neutrons to matter, SANS provides nanometer-scale (~1-100 nm) information from within the bulk of a sample; these properties render SANS complementary to other observational experimental techniques which probe the local surface rather than the bulk structure.</p><p>Whilst for bulk ferromagnets the theory of magnetic SANS has recently been developed <ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref> , for isolated magnetic nanoparticles in a nonmagnetic matrix the theoretical description of magnetic SANS is still in its infancy; in particular, when microstructural-defect or particle-shape-induced spin misalignment is present. In fact, the magnetic SANS theory of nanoparticles remains an open problem that needs to be resolved for an accurate analysis of experimental data. So far, magnetic SANS data are mostly analyzed by expressing the magnetic SANS cross section</p><formula xml:id="formula_0">Σ Ω d d / ρ α Σ Ω = ∆ | | d d n V F q q ( ) ( ) ( ) sin ,<label>(1)</label></formula><formula xml:id="formula_1">M p mag 2 2 2 2</formula><p>where n is the number density of particles, ρ ∆ mag denotes the magnetic scattering-length density contrast between particle and matrix (essentially the difference in saturation magnetizations), V p is the particle volume, F(q) its form factor, and the α sin 2 factor is due to the dipolar nature of the neutron-magnetic interaction. For a single-domain particle, α denotes the angle between q and the magnetization M of the particle <ref type="bibr" target="#b37">38</ref> . Figure <ref type="figure" target="#fig_0">1</ref> displays sketches of the two most common (perpendicular and parallel) SANS scattering geometries.</p><p>For many problems the macrospin model that is embodied in equation ( <ref type="formula" target="#formula_0">1</ref>) is oversimplified, since it assumes homogeneous (or stepwise homogeneous) magnetization and, thus, ignores the complex spin structures that may appear at the nanoscale. As mentioned above, intraparticle spin disorder is due to the interplay between different magnetic interactions such as surface anisotropy and dipolar interaction, or to the presence of crystal defects. Therefore, SANS approaches based on the "standard model" [equation (1)] might be erroneous when the spatial dependence of the magnitude and direction of the magnetization M(r) is not taken into account <ref type="bibr" target="#b30">31</ref> . Günther et al. <ref type="bibr" target="#b15">16</ref> have suggested the presence of significant intraparticle spin disorder when analyzing SANS experiments on a Co nanorod array: the strong field dependence of Σ Ω d d / that these authors have observed could not be explained by the standard expression for Σ Ω d d / . Likewise, the polarized SANS experiments on ferromagnetic nanowires by Napolskii et al. <ref type="bibr" target="#b13">14</ref> and by Maurer et al. <ref type="bibr" target="#b16">17</ref> indicate that the nanowires' stray fields have to be taken into account in the magnetic form-factor derivation.</p><p>Micromagnetic computer simulations are ideally suited to tackle the above described problem, since one can include in a straightforward manner all the relevant inter-and intraparticle magnetic interactions (dipolar and Zeeman interactions, magnetic anisotropy, exchange), which in turn allows one to compute the magnetic SANS cross section for an inhomogeneously magnetized nanoparticle. Note that analytical micromagnetic calculations of the magnetic SANS cross section of nanoparticles are extremely difficult due to the nonlinear character of the underlying differential equations; a first attempt into this direction has been carried out by Metlov and Michels <ref type="bibr" target="#b33">34</ref> , who computed the magnetic scattering related to vortices in thin submicron-sized soft ferromagnetic cylinders. Important aspects of computational micromagnetism are that (i) the parameter space can be relatively quickly scanned and that (ii) this methodology permits the investigation of the impact of the different interactions on magnetic SANS simply by switching on and off these interactions in simulations; such a procedure may then provide fundamental information on magnetic SANS. Up to now, however, this approach has only been used for studying bulk ferromagnets <ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref> , where not only the relevant magnetic interactions may strongly differ from those in nanoparticles, but where all phases (and not only the nanoparticle phase) comprising the material are ferromagnetic. Needless to say that for nanoparticles the particle shape also plays an important role for the spin configuration.</p><p>In this paper we employ micromagnetic computer simulations in order to investigate the magnetic SANS cross section of an isolated Co nanorod for different nanorod diameters. The choice of this particular system is motivated by the great interest from both the fundamental and technological point of view. Indeed, the structural and magnetic properties of elongated magnetic nanoobjects in the form of nanorods (or nanowires) have emerged as some of the most promising materials for functionalized magnetic nanostructures, with relevant interest in biomedicine <ref type="bibr" target="#b42">43</ref> , permanent magnets <ref type="bibr" target="#b43">44</ref> , and information technologies <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b44">45</ref> . Cobalt nanowires may be suitable candidates Figure <ref type="figure" target="#fig_0">1</ref>. Sketch of the perpendicular (a) and parallel (b) SANS scattering geometries. Note that the applied magnetic field H 0 is along e z in both geometries and that the angle θ describes the orientation of the scattering vector q on the two-dimensional detector. The average neutron wavelength λ is determined by the velocity selector; k 0 and k denote the wave vectors of the incident and the scattered neutrons; ψ 2 is the scattering angle, and</p><formula xml:id="formula_2">ψ = = π λ q q sin 4 .</formula><p>In the small-angle approximation, the component of q along the incident beam is ignored.</p><p>for dense three-dimensional arrays of magnetic vortex-based media <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b45">46</ref> and for the integration in nanooscillators based on arrays of magnetostatically coupled Co/Au segmented nanopillars; <ref type="bibr" target="#b46">47</ref> in particular, synthesis improvements based on self-organization principles have made it possible to produce monocrystalline Co nanorods with controlled easy-axis orientations, which are frequently found to be almost perpendicular to the nanorod direction <ref type="bibr" target="#b45">46,</ref><ref type="bibr" target="#b47">48</ref> . Depending on the orientation of the c-axis, the magnetization distribution at remanence can be tuned to be parallel to the nanowire axis, or to form a vortex structure when it is perpendicular. The paper is organized as follows: we begin the discussion with the saturated SANS cross sections, where the problem is a purely geometrical one. We then continue to discuss the magnetization distributions and the ensuing magnetic SANS in the remanent state as a function of the diameter-to-length ratio; here, strongly inhomogeneous magnetization structures determine the SANS cross sections of the nanorod. The decomposition of Σ Ω d d / M into the individual magnetization Fourier components in conjunction with computed hysteresis loops provides useful insights into the role of spin-misalignment scattering. The magnetic SANS cross sections for the two most often employed scattering geometries as well as information about the micromagnetic simulations can be found in the Methods section. We also refer the reader to the Supplemental Material, which contains many additional data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>In Fig. <ref type="figure" target="#fig_8">2(a)-(c</ref>) we display the computed magnetic SANS cross section of a magnetically saturated Co nanorod with a length of = L 500 nm and a diameter of = D 60 nm. At saturation, the magnetization state of the nanorod is given by = <ref type="formula" target="#formula_16">4</ref>) and ( <ref type="formula">5</ref>)] are exclusively determined by the Fourier coefficient ∼ M z of the longitudinal magnetization (see Methods section). By comparison to equations ( <ref type="formula" target="#formula_16">4</ref>) and ( <ref type="formula">5</ref>), it is then seen that the perpendicular SANS cross section exhibits a θ sin 2 -type angular anisotropy, i.e., Σ Ω ⊥ d d / M is elongated normal to H 0 , while the SANS cross section in the parallel scattering geometry is isotropic. The azimuthally-averaged data</p><formula xml:id="formula_3">= M M M (0, 0, ) z s , so that both Σ Ω ⊥ d d / M and Σ Ω d d / M [equations (</formula><formula xml:id="formula_4">∫ π θ    ...    π - d (2 ) ( ) 1 0 2</formula><p>for the perpendicular case (and likewise for k H 0 0 ) can be very well described by the form factor of a circular disc,  </p><formula xml:id="formula_5">           F q J qR qR ( ) 2 ( ) ,<label>(2) 2 1 2</label></formula><p>where J z ( )</p><formula xml:id="formula_6">1</formula><p>denotes the first-order Bessel function and R is the nanorod's radius [solid lines in Fig. <ref type="figure" target="#fig_1">2</ref></p><formula xml:id="formula_7">(c)]; in fact, Σ Ω ⊥ d d / M and Σ Ω d d /</formula><p>M are identical at saturation, except for a factor of 1/2 which comes in on azimuthally averaging equation ( <ref type="formula" target="#formula_16">4</ref>). The results depicted in Fig. <ref type="figure" target="#fig_8">2(a)-(c</ref>) confirm the expected behavior for which analytical results exist.</p><p>In the following we discuss the spin structures and related magnetic SANS cross sections in the remanent state as a function of the D/L ratio; the length of the nanorod is fixed at = L 500 nm and the diameter is varied between = D 30,60, and 90nm. As is well known, for such shape-anisotropic particles, the long-range magnetodipolar interaction gives rise to magnetic anisotropy, which tends to align the magnetic moments along the nanorod's long axis. On top of that, we consider an uniaxial magnetocrystalline anisotropy axis K u , which is directed along the cylinder's diameter (perpendicular to the long axis). As a consequence, the system behaves effectively like a biaxial magnetic material and the spin structure reflects the competition between both interactions; in particular, as D increases at constant L and at constant magnitude and direction of K u . Magnetization curves and spin structures for = K 0 u are shown in the Supplemental Material (Figs. <ref type="figure" target="#fig_0">1</ref> and<ref type="figure" target="#fig_2">3</ref>). , where the rod's long axis for both scattering geometries is parallel to the normal on the detector plane. For an inhomogeneously magnetized nanorod, the magnetization components M x y z , , depend explicitly on the position = x y z r { , , } and all three Fourier components</p><formula xml:id="formula_8">∼ M x y z , , contribute to Σ Ω d d / M</formula><p>. It is seen in Fig. <ref type="figure" target="#fig_8">2(d)-(e</ref>) that a more complicated SANS pattern than in the saturated state results (see detailed discussion below); we also note that although both Σ Ω d d / M are nearly identical, the corresponding magnetization curves (for H 0 perpendicular and parallel to the long axis) are quite different (compare Fig. <ref type="figure" target="#fig_13">3(b</ref>) in the paper with Fig. <ref type="figure" target="#fig_8">2(b</ref>) in the Supplemental Material). Importantly, the azimuthally-averaged data in Fig. <ref type="figure" target="#fig_1">2</ref>(f) cannot be described anymore by the geometrical form-factor model [equations (1) and ( <ref type="formula" target="#formula_5">2</ref>)], which assumes a uniform magnetization state. Away from saturation, the magnetic microstructure decomposes into several domains, which naturally have an average spatial extension that is smaller than the purely geometrical dimensions (L, D) of the nanorod. Therefore, the "form-factor" oscillations corresponding to these domains appear at larger values of the momentum transfer, as it becomes visible in Fig. <ref type="figure" target="#fig_8">2(f</ref>). Note that in the following we restrict our considerations to the case of ⊥ k H 0 0 , which is the most often employed scattering geometry in magnetic SANS experiments.</p><p>Before we discuss in more detail the magnetic scattering cross sections of the nanowire, we would like to show in Fig. <ref type="figure" target="#fig_2">3</ref> some results for the hysteresis curves and internal spin structures at remanence; note that the applied field in Fig. <ref type="figure" target="#fig_2">3</ref> is directed along the K u -axis. For = D 30 nm and a corresponding relatively small ratio of = .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>D L</head><p>/ 006 [Fig. <ref type="figure" target="#fig_13">3(a)</ref>], the spin structures are determined by the magnetic shape anisotropy (compare also Fig. <ref type="figure" target="#fig_1">2</ref>(a) and left part in Fig. <ref type="figure" target="#fig_3">4</ref> in the Supplemental Material). When = H H z 0 is reduced starting from saturation, the magnetization will rotate towards the shape-anisotropy axis. At remanence, the magnetization is then predominantly oriented along the x-direction, with some minor spin misalignment along the z-direction at the nanowire's end faces, and a vanishingly small magnetization component along the y-direction. The localized spin inhomogeneities at the end faces are related to the combined effects of the inhomogeneous dipole field of the rod, which tends to align the moments parallel to the surface of the nanorod's ends, the exchange interaction, which tries to keep the ferromagnetic order, and the magnetocrystalline anisotropy, which prefers the magnetization along the ±z-direction. In the center part of the = D 30 nm nanorod, the magnetic state at remanence is quite similar to the case without magnetocrystalline anisotropy (see Fig. <ref type="figure" target="#fig_0">1</ref>(a) and upper left part in Fig. <ref type="figure" target="#fig_2">3</ref> in the Supplemental Material); the main changes between the hysteresis loops with and without magnetocrystalline anisotropy are the reduction of the field that is needed to saturate the system along the z-direction and the existence of a small coercivity. We will see below that as D increases (at constant L and K u ), the (reduced) dipolar interaction favors more complex magnetic structures such as domain wall or vortex states, which minimize the magnetic flux through the surface of the system.</p><p>Based on these (real-space) observations, the corresponding (reciprocal-space) SANS cross section and the magnetization Fourier components for the = D 30 nm nanorod (upper row in Fig. <ref type="figure" target="#fig_3">4</ref>) can be understood: )</p><formula xml:id="formula_9">Σ Ω ⊥ d d / M is dominated</formula><formula xml:id="formula_10">CT MM M M y z</formula><p>z y is negligible, since My becomes very small. We would like to emphasize that the latter combination of Fourier components takes on positive as well as negative values (compare scale). However, on multiplication with the trigonometric function θ θ sin cos in order to obtain the corresponding contribution to  and of the individual Fourier components in the remanent state; this representation decrypts the magnetic SANS cross section and highlights the magnitudes and q-dependencies of the different scattering contributions. The solid lines in Fig. <ref type="figure" target="#fig_4">5</ref> are the prediction by equation (1) using the cicular-disc form factor [equation (2)] and a value of 1 for the expectation value of the α sin 2 factor, as appropriate for the zero-field spin configuration of a homogeneously magnetized nanorod particle (compare discussion related to equation ( <ref type="formula" target="#formula_13">3</ref> and in the Fourier components contain information about the characteristic size of magnetic domain features. However, in the absence of analytical theory for the Fourier components and in view of the facts that (i) the shape of the domains is field-dependent and not spherical (no single size parameter) and (ii) there exist no sharp boundaries between domains, the detailed analysis of the field dependence of the Fourier components and their relation to the real-space magnetization distribution is beyond the scope of this paper.</p><p>As mentioned above, increasing the nanorod's diameter results in the emergence of a variety of magnetization switching processes and complex inhomogeneous states, in agreement with results by other authors <ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref> ; this is in contrast to the case of vanishing magnetocrystalline anisotropy (see Figs.  section (middle row in Fig. <ref type="figure" target="#fig_3">4</ref>) can be seen as a combination of all three magnetization Fourier components; note also that the CT term is now increased in magnitude as compared to the = D 30 nm case (due to an increased ∼ M y contribution). Notably, the circular symmetry of the magnetic SANS cross section observed at remanence for the smallest diameter has now turned into a (slightly) vertically elongated pattern due to the existence of magnetization components perpendicular to the rod's axis, which directly result from the tranversal domain-wall configuration.</p><p>Finally, when the diameter is increased to = D 90 nm corresponding to an aspect ratio of = .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>D L</head><p>/ 018 [Fig. <ref type="figure" target="#fig_13">3(c)]</ref>, there is again a change in the mechanism from the nucleation and propagation of transversal domain-wall-like structures to vortex-like configurations. Indeed, the spin texture which stabilizes the system at remanence is a combination of different vortices (in those structures the magnetization is confined in the x-z-plane) with their cores aligned parallel and antiparallel to the y-direction, in other words, the vortex cores are oriented perpendicular to the plane that is spanned by the uniaxial and shape-anisotropy axes. As an example, Fig. <ref type="figure" target="#fig_5">6</ref> shows the spin distribution of the = D 90 nm nanorod. Consequently, the | | ∼ M y 2 Fourier component is small in magnitude and the SANS cross section (lower row in Fig. <ref type="figure" target="#fig_3">4</ref>) is dominated by</p><formula xml:id="formula_11">| | ∼ M x 2 and | | ∼ M z 2</formula><p>, resulting in a distorted pattern with a slight elongation along the field direction. By comparison of the magnetization Fourier components along the rod (x) and the magnetocrystalline (z) axes, it can be seen that the shape anisotropy still contributes to the effective anisotropy, however, its strength is lowered as compared to the anisotropy created parallel to the rod's diameter, i.e., increasing the diameter reinforces the effect of the magnetocrystalline anisotropy. The CT term contributes to Σ Ω</p><formula xml:id="formula_12">⊥ d d / M</formula><p>only with a low signal, which is related to the small volume fraction of vortex cores (small ∼ M y contribution, compare middle image in Fig. <ref type="figure" target="#fig_5">6</ref>). Interestingly, at the smallest q, the CT term has inverted its sign compared to the = D 30 nm and = D 60 nm results, which may reflect an asymmetry of the magnetic configuration. In monocrystalline hcp Co nanowire arrays with = . D L / 0225, Ivanov et al. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b45">46</ref> have demonstrated that, at remanence, the magnetic structure can be composed of multiple stable magnetic vortex domains with different chirality.</p><p>The data for the individual Fourier components in Fig. <ref type="figure" target="#fig_3">4</ref> also reveal that these functions may explicitly depend on the angle θ in the detector plane. For bulk ferromagnets, it has been demonstrated by means of micromagnetic simulations that such an angular anisotropy is related to the magnetodipolar interaction <ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref> . We emphasize that the possible θ-dependency of the Fourier components adds on top of the trigonometric functions in the magnetic SANS cross sections [equations ( <ref type="formula" target="#formula_16">4</ref>) and ( <ref type="formula">5</ref>)], which are due to the dipolar nature of the neutron-magnetic matter interaction.</p><p>In order to grasp the deviation between the standard model [equation (1)] and the spin-misalignment SANS into one single parameter, we introduce the function  of the Co nanorod for both scattering geometries and for several H 0 -values between positive and negative saturation with and without magnetocrystalline anisotropy. For the computation of η, the average intensity at the respective characteristic q-value of π = ⁎ q D 2 / was used. The behavior of η H ( ) 0 for a uniformly magnetized shape-anisotropic nanoparticle [cf. the discussion regarding equation ( <ref type="formula" target="#formula_0">1</ref>)] and for the two scattering geometries can be understood within the context of the Stoner-Wohlfarth model <ref type="bibr" target="#b51">52</ref> : for k H 0 0 (corresponding to the case that the rod's long axis is parallel to H 0 ), the magnetization curve exhibits the well-known rectangular shape, implying that M points always along the z-direction; there is, of course, a switching from the +z to the -z direction at the nucleation field, but this feature appears to be too "sharp" to be resolved with the SANS technique. As a consequence, the scattering vector q is always perpendicular to M, so that the expectation value of the α sin 2 factor in equation ( <ref type="formula" target="#formula_0">1</ref>) equals unity and the function η H ( ) 0 does not depend on the field; the corresponding scattering pattern is isotropic. For ⊥ k H 0 0 (corresponding to the case that the rod's long axis is perpendicular to H 0 ), the Stoner-Wohlfarth model predicts a linear paramagnetic-like decrease from saturation (along the horizontal z-direction) to a zero remanent magnetization, where now (due to the shape anisotropy) the magnetization points along the wire axis (x-direction). The expectation value of α sin 2 changes from a value of 1/2 at saturation to a value of 1 at = H 0 0 , in other words, η H ( ) 0 increases from 1 to a value of 2. The above described idealized Stoner-Wohlfarth scenario is fairly well reproduced by our simulations for the smallest diameter of = D 30 nm [black curves in Fig. <ref type="figure" target="#fig_21">7</ref>; compare also Fig. <ref type="figure" target="#fig_10">5(a)</ref>]; the very small deviations from η = 2 in the perpendicular geometry [ ≠ K 0 u ; Fig. <ref type="figure" target="#fig_21">7(c)</ref>] and from η = 1 in the parallel geometry [ ≠ K 0 u ; Fig. <ref type="figure" target="#fig_21">7(d)</ref>] are attributed to the small spin-misalignment scattering that is related to the spin disorder at the end faces of the cylinder [compare insets in Fig. <ref type="figure" target="#fig_13">3(a)</ref>]. For the two largest diameters (60 nm and 90 nm), we observe a significant deviation from the Stoner-Wohlfarth prediction [and therefore also from the standard model, equation (1)] due to the emerging spin-disorder scattering [blue and red curves in Fig. <ref type="figure" target="#fig_21">7</ref>; compare Fig. <ref type="figure" target="#fig_10">5b,</ref><ref type="figure">c</ref>]. While for both = K 0 u cases and for ≠ K 0 u in the parallel geometry we observe the trend that the spin-inhomogeneity parameter increases with increasing D L / , the behavior of η H ( ) 0 is different for ≠ K 0 u in the perpendicular geometry [Fig. <ref type="figure" target="#fig_21">7(c)</ref>]; here, the = D 90 nm rod exhibts a variation which is much smaller than the one of the = D 60 nm cylinder. This observation indicates that the magnitude of the spin-misalignment scattering of nanorods depends sensitively on their domain structure, which is determined by the nanoparticle's geometry (ratio D/L) and by the magnetic interactions, including the applied-field direction (compare also the Fourier images in Fig. <ref type="figure" target="#fig_3">4</ref>). All in all, the results depicted in Fig. <ref type="figure" target="#fig_21">7</ref> reveal-for not too small nanoparticles-significant deviations from the standard model due to internal spin disorder. In order to account for these inhomogeneous spin structures and to understand the associated complex scattering patterns, micromagnetic simulations provide the key tool set for progressing the understanding of magnetic SANS on nanoparticles.</p><formula xml:id="formula_13">η = Σ Ω Σ Ω → ∞ ⁎ ⁎ H d d q H d d q H ( ) ( , )/ ( , ),<label>(3)</label></formula><formula xml:id="formula_14">M M 0 0 0</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion and Outlook</head><p>We have presented the results of micromagnetic simulations of the magnetic microstructure and the ensuing magnetic small-angle neutron scattering (SANS) cross section of a single Co nanorod with a length of = L 500 nm and diameters of = D 30, 60 and 90 nm. This methodology has allowed us to unravel the intrinsic as a function of the applied magnetic field, the nanoparticle's microstructure, and the magnetic interactions. We anticipate that our investigation represents a starting point towards the development of a framework for computer-simulations-supported SANS-data analyses of magnetic nanoparticle assemblies exhibiting strong internal spin misalignment; for such systems, the classical geometrical description of magnetic SANS in terms of particle form factors is not appropriate (as embodied e.g. in Fig. <ref type="figure" target="#fig_21">7</ref>), since in this approach the underlying magnetic problem is not addressed. Although the continuum theory of micromagnetics has been used in this paper, the framework can be easily extended to atomistic spin models <ref type="bibr" target="#b52">53</ref> . Likewise, future simulation workbesides studying other particle shapes such as ellipsoids-will concentrate on (i) the scrutiny of the periodicity of the Fourier coefficients and their relation to the real-space spin structure, (ii) the study of interparticle interactions, which will then allow for a comparison of simulation results to experimental data, (iii) the inclusion of random variations of the magnetic anisotropy field in order to better describe microstructural defects (polycrystallinity), (iv) the inclusion of thermal fluctuations, and (v) the study of the magnetization dynamics by solving the Landau-Lifshitz-Gilbert equation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Magnetic SANS cross section. The quantity of interest in our micromagnetic study is the elastic magnetic</p><formula xml:id="formula_15">differential scattering cross section Σ Ω d d / M</formula><p>, which is usually recorded on a two-dimensional position-sensitive detector. For the most commonly used scattering geometries in magnetic SANS experiments (see Fig. <ref type="figure" target="#fig_0">1</ref>), where the applied magnetic field for unpolarized neutrons can be written as <ref type="bibr" target="#b30">31</ref> :</p><formula xml:id="formula_16">π θ θ θ θ Σ Ω =    | | + | | +| | - +    ⊥ ˜˜˜˜˜˜⁎ ⁎ ( ) d d V b M M M M M M M q ( ) 8 cos s in sin cos , (<label>4</label></formula><formula xml:id="formula_17">) M H x y z y z z y 3 2 2 2 2 2 2 π θ θ θ θ Σ Ω =    | | + | | +| | - +    . ˜˜˜˜˜˜⁎ ⁎ ( ) d d V b M M M M M M M q ( ) 8 sin c os sin cos (5) M H x y z x y y x 3 2 2 2 2 2 2</formula><p>In equations ( <ref type="formula" target="#formula_16">4</ref>) and ( <ref type="formula">5</ref> ; the asterisks "*" mark the complex-conjugated quantity. Note that in the small-angle limit the momentum-transfer vector is given by θ θ ≅ q q (0, sin , cos ) for ⊥ k H 0 0 , where θ denotes the angle between q and H 0 , whereas θ θ ≅ q q(cos , sin , 0) for k H 0 0 , where θ is measured between q and e x . These expressions demonstrate that SANS mainly probes correlations in the plane normal to k 0 . The applied field H 0 defines the z-axis of a Cartesian laboratory coordinate system for both geometries. Since the focus of this study is on magnetic (spin-misalignment) scattering, we have ignored the nuclear SANS contribution, which for a homogeneous particle can be described by the particle form factor. The magnetization Fourier amplitudes depend on the size and shape of the particle, but most importantly on the magnetic interactions determining the nanoparticle's spin structure. Using computer simulations based on the continuum theory of micromagnetics it becomes possible to include all the relevant intraparticle magnetic interactions such as magnetic anisotropy, magnetostatics, and exchange interaction. For a saturated nanoparticle, expressions (4) and ( <ref type="formula">5</ref>) reduce to equations of the form of equation (1). With the aid of polarized neutrons it becomes possible to access nuclear-magnetic interference terms as well as purely chiral magnetic contributions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Micromagnetic simulations.</head><p>We have performed micromagnetic simulations using the GPU-based open-source software package MuMax3 <ref type="bibr" target="#b53">54</ref> , which can calculate the space and time-dependent magnetic microstructure of nano-and micron-sized ferromagnets. Mumax3 employs a finite-difference discretization scheme of space using a two-dimensional or three-dimensional grid of orthorhombic cells. In the micromagnetic simulations we have taken into account all four standard contributions to the total magnetic Gibbs free energy: energy in the external magnetic field  Z , magnetodipolar interaction energy D  , energy of the (uniaxial) magnetocrystalline anisotropy ani  , and isotropic and symmetric exchange energy ex  : is the magnetostatic field, K u is the (first-order) uniaxial anisotropy constant, u is a unit vector indicating the anisotropy-axis direction, A is the exchange-stiffness constant, µ 0 denotes the permeability of free space, and the integrals are taken over the volume of the nanorod. . Dashed lines in (a) and (c): Stoner-Wohlfarth limit.</p><formula xml:id="formula_18">    ∫ ∫ ∫ ∫ µ µ = - ⋅ = - ⋅ = - ⋅ = ∇ dV dV K d V A d V M H M H m u m ,<label>1 2 , ( ) , ( ) , (6)</label></formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Normalized magnetization curves of a cobalt nanorod with zero magnetocrystalline anisotropy (Ku = 0). The length of the nanorod is L = 500 nm and the diameter D varies from 30-90 nm (see insets). (a)-(c): applied field H0 perpendicular to the wire axis; (d)-(f): H0 parallel to the wire axis.</figDesc><graphic coords="1,70.85,238.22,500.05,263.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Magnetization curves of a cobalt nanorod (L = 500 nm; D = 30-90 nm). H0 is applied parallel to the wire axis. The uniaxial magnetocrystalline anisotropy axis (Ku = 4.5 × 10 5 J/m 3 ) is perpendicular to the nanorod axis. Compare to Fig. 3 in the paper, which displays the results for H0 ⊥ wire axis.</figDesc><graphic coords="1,70.85,579.88,498.58,132.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Computed spin structures of a cobalt nanorod in the remanent state for Ku = 0 and for different diameters D (L = 500 nm). Upper row: H0 perpendicular to the wire axis; lower row: H0 parallel to the nanorod axis.</figDesc><graphic coords="2,114.65,70.85,365.45,301.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Computed spin structures of a cobalt nanorod in the remanent state and for different diameters D (L = 500 nm). H0 is applied parallel to the wire axis. The uniaxial magnetocrystalline anisotropy axis (Ku = 4.5 × 10 5 J/m 3 ) is perpendicular to the nanorod axis. Compare to the insets in Fig. 3 in the paper, which show the results for H0 ⊥ wire axis.</figDesc><graphic coords="2,132.65,440.05,329.99,222.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 :</head><label>5</label><figDesc>Figure 5: Computed perpendicular magnetic SANS cross section and Fourier coefficients of the magnetization in the remanent state for a cobalt nanorod (L = 500 nm; D = 30 nm) without (upper row) and with uniaxial anisotropy (lower row). The images represent projections of the respective function into the plane of the 2D detector (qx = 0). Red color corresponds to high intensity and blue color to low intensity (logarithmic color scale).</figDesc><graphic coords="3,70.85,70.85,453.60,230.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 :</head><label>6</label><figDesc>Figure 6: Total magnetic SANS cross section and Fourier components of the magnetization in the remanent state (k0  H0). The uniaxial magnetocrystalline anisotropy axis (Ku = 4.5 × 10 5 J/m 3 ) is perpendicular to the nanorod axis. The images represent projections of the respective function into the plane of the 2D detector (qz = 0). H0 is normal on the plane. D = 30 nm (upper row); D = 60 nm (middle row); D = 90 nm (lower row). Compare to Fig. 4 in the paper, which show the results for k0 ⊥ H0.</figDesc><graphic coords="3,70.85,394.99,453.60,252.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 2 .0</head><label>2</label><figDesc>Figure 2. Computed magnetic SANS cross sections of a Co nanorod with a diameter of 60 nm and a length of 500 nm. (a)-(c) Saturated state; (d)-(f) remanent state = H ( 0) 0</figDesc><graphic coords="6,155.64,46.50,396.00,306.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>=</head><label></label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 2 (</head><label>2</label><figDesc>d)-(f) depict the perpendicular and parallel Σ Ω</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head></head><label></label><figDesc>(4)] this term becomes positive-definite, since θ θ sin cos changes sign at the borders between quadrants on the detector (positive for θ</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 5</head><label>5</label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>3 ,</head><label>3</label><figDesc>) below). It is seen that only the Σ Ω ⊥ d d / M of the = D 30 nm nanorod can be well described by this function. The pronounced form-factor oscillations in Σ Ω ⊥ d d / M are progressively washed out with increasing diameter. Asymptotically, all data sets show Σ Ω in agreement with equation (2). It is also worth noting that the positions of the minima and maxima in Σ Ω ⊥ d d / M</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head></head><label></label><figDesc>1 and 3 in the Supplemental Material). While for = D 30 nm the shape anisotropy determines the magnetic configuration at remanence [Fig. 3(a)], changing the diameter to = D 60 nm ( = . D L / 012) [Fig. 3(b)] reduces the strength of the shape anisotropy and the competition with the magnetocrystalline anisotropy leads to a change in the switching mechanism from essentially coherent rotation to the nucleation and propagation of a transversal domain wall. The domain oriented along the x-direction grows by propagating a transversal domain wall at the lateral boundaries of the cylinder [compare inset in Fig. 3(b)]. Therefore, the remanent state is characterized by this transversal domain wall. The related SANS cross</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Computed hysteresis loops of Co nanowires with a length of = L 500 nm and diameters of (a) = D 30 nm, (b) = D 60 nm, and (c) = D 90 nm. The uniaxial magnetocrystalline anisotropy axis points along the ±z-direction. The insets depict color-coded representations of the spin structure in the remanent state. Note that in (b) the coordinate axes have been rotated by 90° around the x-axis.</figDesc><graphic coords="8,155.64,46.50,240.00,483.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Results of the micromagnetic simulations for the total magnetic SANS cross section and the Fourier components of the magnetization in the remanent state ( ⊥ k H 0 0 ). The images represent projections of Σ Ω ⊥ d d / M , | | Mx 2 , | | My 2 , | | Mz 2 (all on a logarithmic color scale) and of the cross term = -+ ˜˜˜⁎ ⁎ ( ) CT M M M M y z z y</figDesc><graphic coords="9,98.64,46.50,456.00,249.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head></head><label></label><figDesc>Figure 7 shows the results for η H ( ) 0 obtained by computing Σ Ω d d / M</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure 5 . 2 .</head><label>52</label><figDesc>Figure 5. π 2 -azimuthally-averaged remanent-state data from Fig. 4 (see inset) ( ⊥ k H 0 0 ) (log-log scale). (a) = D 30 nm; (b) = D 60 nm; (c) = D 90 nm. Solid lines in (a)-(c): equation (1) using the cicular-disc form factor of equation (2) and α = sin 1 2</figDesc><graphic coords="10,155.64,46.50,240.00,215.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head></head><label></label><figDesc>), V denotes the scattering volume (πR L 2 in our study), µ = . × -</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Computed real-space spin structure of a = D 90 nm nanorod at the remament state. The magnetization distributions are identical in all three images; the color scale encodes the different Cartesian components of m [compare inset in Fig. 3(c)]. The wavy-like modulation of the nanorods's shape is an artifact related to representation of the spatial dependence of the magnetization vector field via arrows.</figDesc><graphic coords="11,155.64,46.50,300.00,264.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head></head><label></label><figDesc>s denotes the unit magnetization vector with M s the saturation magnetization, H 0 is the (constant) applied magnetic field, H r ( ) D</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. The function η H ( ) 0 [equation (3)] computed for several nanorod diameters D [see inset in (b)] (lines are guides to the eyes). (a) ⊥ k H 0</figDesc><graphic coords="12,155.64,46.50,360.00,267.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,155.64,46.50,300.00,196.20" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Scientific REPORTS | 7:13060 | DOI:10.1038/s41598-017-13457-2 www.nature.com/scientificreports</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Scientific REPORTS | 7:13060 | DOI:10.1038/s41598-017-13457-2</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>Laura <rs type="person">González Vivas</rs> gratefully acknowledges financial support from the <rs type="funder">National Research Fund of Luxembourg (AFR Postdoc</rs> Grant No. <rs type="grantNumber">8865354</rs>). Rocio Yanes gratefully acknowledges financial support from <rs type="person">Junta de Castilla y Leon</rs> (Project No. <rs type="grantNumber">SA090U16</rs>). We thank <rs type="person">Sergey Erokhin</rs> and <rs type="person">Richard Evans</rs> for critically reading the manuscript and for making useful comments.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_HNjYz2f">
+					<idno type="grant-number">8865354</idno>
+				</org>
+				<org type="funding" xml:id="_6bwHQVe">
+					<idno type="grant-number">SA090U16</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The nanorod is represented as a cylinder with a fixed length of = L 500 nm, but with different diameters D (30, 60, and 90 nm); these dimensions are typical of real materials <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> . The magnetic materials parameters were set to the ones corresponding to bulk hcp Co <ref type="bibr" target="#b54">55</ref>  . Correspondingly, a cubic cell with a side length of 2 nm was used in order to discretize the nanorod. The K u -axis orientation with respect to the nanorods's long axis was chosen in-plane along the nanorod's diameter ( = ± u {0,0, 1} for ⊥ k H 0 0 and = ± u { 1,0,0} for k H 0 0 ), in agreement with experimental observations which report a strong crystal anisotropy with an easy axis oriented nearly perpendicular to the axis of the wire (e.g., ref. <ref type="bibr" target="#b55">56</ref> ). The hysteresis loops were calculated as follows: the magnetic system was initially completely saturated by aligning the magnetic moments of all the computational cells along the z-axis. Then, the applied field was reduced in steps of 5 mT and the equilibrium magnetization state at each H 0 (and therefore the static spin configuration) was found by two equivalent methods; we employed both the "Relax" and "Minimize" functions of Mumax3, where the former solves the Landau-Lifshitz-Gilbert equation without the precessional term and the latter uses the conjugate-gradient method to find the configuration of minimum energy. The translational invariance of the grid obtained with the finite-difference method enables the usage of the Fast Fourier transformation technique for the computation of the Fourier components of the magnetization. We have used the FFTW library <ref type="bibr" target="#b56">57</ref> to compute and analyze the Fourier components of our nanoscopic magnetic configurations. Thermal fluctuations were not taken into account in the simulations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>L.G.V. and R.Y. carried out the micromagnetic simulations and the data analysis. A.M. conceived the research question. All authors (L.G.V., R.Y., and A.M.) wrote and reviewed the manuscript in its entirety.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional Information</head><p>Supplementary information accompanies this paper at <ref type="url" target="https://doi.org/10.1038/s41598-017-13457-2">https://doi.org/10.1038/s41598-017-13457-2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing Interests:</head><p>The authors declare that they have no competing interests.</p><p>Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Magnetic nanoparticles: Applications beyond data storage</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hütten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Materials</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="725" to="726" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Applications of magnetic nanoparticles in biomedicine</title>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">A</forename><surname>Pankhurst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Connolly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dobson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics D: Applied Physics</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">167</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Nanoscale magnetic skyrmions in metallic films and multilayers: a new twist for spintronics</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiesendanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Materials</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">16044</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Modulated magnetic nanowires for controlling domain wall motion: Toward 3D magnetic memories</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Ivanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chuvilin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lopatin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kosel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="5326" to="5332" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Spin-polarized scanning tunnelling microscopy</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bode</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reports on Progress in Physics</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="523" to="582" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Spin mapping at the nanoscale and atomic scale</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiesendanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reviews of Modern Physics</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="1495" to="1550" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Atomic magnetism revealed by spin-resolved scanning tunnelling spectroscopy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wiebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wiesendanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics D: Applied Physics</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page">464009</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Temperature and magnetic field dependence of the internal and lattice structures of skyrmions by off-axis electron holography</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shibata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review Letters</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page">87202</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Single crystalline cylindrical nanowires-toward dense 3D arrays of magnetic vortices</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Ivanov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">23844</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Skyrmion lattice in a chiral magnet</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mühlbauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">323</biblScope>
+			<biblScope unit="page">915</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Kinetic small angle neutron scattering of the skyrmion lattice in MnSi</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mühlbauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Journal of Physics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">75017</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Polarized SANS study of spatially ordered magnetic nanowires</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Grigoryeva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica B</title>
+		<imprint>
+			<biblScope unit="volume">397</biblScope>
+			<biblScope unit="page" from="82" to="84" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Angular dependence of coercivity and remanence of Ni nanowire arrays and its relevance to magnetoviscosity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Günther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Monz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tschöpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Birringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Magnestism and Magnetic Materials</title>
+		<imprint>
+			<biblScope unit="volume">320</biblScope>
+			<biblScope unit="page" from="1340" to="1344" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Two-dimensional spatially ordered system of nickel nanowires probed by polarized SANS</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Napolskii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica B</title>
+		<imprint>
+			<biblScope unit="volume">404</biblScope>
+			<biblScope unit="page" from="2568" to="2571" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Magnetic properties of a two-dimensional spatially ordered array of nickel nanowires</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Grigoriev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physics of the Solid State</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1080" to="1086" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Magnetic field dependent small-angle neutron scattering on a Co nanorod array: evidence for intraparticle spin misalignment</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Günther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Crystallography</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="992" to="998" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Ordered arrays of magnetic nanowires investigated by polarized small-angle neutron scattering</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maurer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">184423</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Core-shell magnetic morphology of structurally uniform magnetite nanoparticles</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Krycka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review Letters</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">207203</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Quantitative spatial magnetization distribution in iron oxide nanocubes and nanospheres by polarized small-angle neutron scattering</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Disch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Journal of Physics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">13025</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Particle moment canting in CoFe 2 O 4 nanoparticles</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hasz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page">180405</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Excitation of Ni nanorod colloids in oscillating magnetic fields: a new approach for nanosensing investigated by TISANE</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bender</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="17122" to="17130" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The influence of spin-misalignment scattering on the sans data evaluation of martensitic age-hardening steels</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bischof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Materialia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="2637" to="2646" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Spin structure of nanocrystalline gadolinium</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EPL</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page">66003</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Magnetic domains and annealing-induced magnetic anisotropy in nanocrystalline soft magnetic materials</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Suzuki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Physics</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page">730</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The microstructure of neutron-irradiated Fe-Cr alloys: A small-angle neutron scattering study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heintze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bergner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ulbricht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eckerlebe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nuclear Materials</title>
+		<imprint>
+			<biblScope unit="volume">409</biblScope>
+			<biblScope unit="page" from="106" to="111" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Contributions of Cu-rich clusters, dislocation loops and nanovoids to the irradiation-induced hardening of Cubearing low-Ni reactor pressure vessel steels</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bergner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Nuclear Materials</title>
+		<imprint>
+			<biblScope unit="volume">461</biblScope>
+			<biblScope unit="page" from="37" to="44" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Magnetization reversal in Nd-Fe-B based nanocomposites as seen by magnetic small-angle neutron scattering</title>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Bick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Physics Letters</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page">22415</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Multiple magnetic scattering in small-angle neutron scattering of Nd-Fe-B nanocrystalline magnet</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ueno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">28167</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Spin structures of textured and isotropic Nd-Fe-B-based nanocomposites: Evidence for correlated crystallographic and spin textures</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review Applied</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">24009</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Magnetic-field-dependent small-angle neutron scattering on random anisotropy ferromagnets</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weissmüller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reports on Progress in Physics</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page">66501</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Magnetic small-angle neutron scattering of bulk ferromagnets</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics: Condensed Matter</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">383201</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Third-order effect in magnetic small-angle neutron scattering by a spatially inhomogeneous medium</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Metlov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">54404</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Small-angle neutron scattering correlation functions of bulk magnetic materials</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mettus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Crystallography</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1437" to="1450" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Magnetic neutron scattering by magnetic vortices in thin submicron-sized soft ferromagnetic cylinders</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Metlov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">25055</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Effect of Dzyaloshinski-Moriya interaction on elastic small-angle neutron scattering</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mettus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Honecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Metlov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page">54424</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Polarized SANS for probing magnetic nanostructures</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wiedenmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physica B</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="246" to="253" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kohlbrecher</surname></persName>
+		</author>
+		<title level="m">Modern Techniques for Characterizing Magnetic Materials</title>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Zhu</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic Publishers</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="65" to="105" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">On the magnetic scattering of neutrons</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page">898</biblScope>
+			<date type="published" when="1939">1939</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Micromagnetic modeling and small-angle neutron scattering characterization of magnetic nanocomposites</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Erokhin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Berkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">24410</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Magnetic neutron scattering on nanocomposites: Decrypting cross-section images using micromagnetic simulations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Erokhin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Berkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">134418</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Micromagnetic simulation of magnetic small-angle neutron scattering from twophase nanocomposites</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Erokhin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Berkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gorn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Magnestism and Magnetic Materials</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="55" to="68" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Dipolar spin-misalignment correlations in inhomogeneous magnets: Comparison between neutron scattering and micromagnetic approaches</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Erokhin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Berkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">14427</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">An experimental study on ferromagnetic nickel nanowires functionalized with antibodies for cell separation</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E.-H</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanotechnology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">105107</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">High energy product developed from cobalt nanowires</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gandha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Elkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Poudyal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">5345</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Memory on the racetrack</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Parkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Nanotechnology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="195" to="198" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Magnetic properties of Co nanopillar arrays prepared from alumina templates</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Vivas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanotechnology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">105703</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Ivanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kosel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Chubykalo-Fesenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vazquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">/</forename><surname>Co</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Au multisegmented nanowires: a 3D array of magnetostatically coupled nanopillars</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">95709</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Magnetic structure of a single-crystal hcp electrodeposited cobalt nanowire</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Ivanov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EPL</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page">17009</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Dipolar interactions in arrays of ferromagnetic nanowires: A micromagnetic study</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zighem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maurer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chaboussant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Physics</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page">13910</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Micromagnetic simulations of magnetostatically coupled nickel nanowires</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hertel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Physics</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="5752" to="5758" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Geometry dependence of coercivity in Ni nanowire arrays</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Escrig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanotechnology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">75713</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">A mechanism of magnetic hysteresis in heterogenous alloys</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Stoner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Wohlfarth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Transactions on Magnetics</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="3475" to="3518" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Atomistic spin model simulations of magnetic nanomaterials</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F L</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Physics: Condensed Matter</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">103202</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The design and verification of Mumax3</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vansteenkiste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AIP Advances</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">107133</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Introduction to Magnetic Materials</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Cullity</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<publisher>Addison-Wesley Publishing Company</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Magnetization processes in Nickel and Cobalt electrodeposited nanowires</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ferré</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ounadjela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Piraux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dubois</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page">14066</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The design and implementation of FFTW3. Proceedings of the IEEE</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Special issue on &quot;Program Generation, Optimization, and Platform Adaptation</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="216" to="231" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

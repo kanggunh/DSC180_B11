@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Planar perovskite solar cells with long-term stability using ionic liquid additives</title>
+				<funder ref="#_d6HTGEB">
+					<orgName type="full">Swedish Research Council Vetenskapsrådet</orgName>
+				</funder>
+				<funder ref="#_VjW7nkS">
+					<orgName type="full">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</orgName>
+				</funder>
+				<funder ref="#_nfyZjvZ">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">China Scholarship Council</orgName>
+					<orgName type="abbreviated">CSC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">German Research Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Bavarian State Ministry of Science, Research</orgName>
+				</funder>
+				<funder ref="#_AnKw5ch #_ctdY5AM">
+					<orgName type="full">UK Engineering and Physical Sciences Research Council</orgName>
+				</funder>
+				<funder ref="#_2vVX9Tj">
+					<orgName type="full">Swiss National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_2SACd6n">
+					<orgName type="full">European Research Council</orgName>
+					<orgName type="abbreviated">ERC</orgName>
+				</funder>
+				<funder ref="#_nx2sTGY">
+					<orgName type="full">European Commission Marie Skłodowska-Curie action</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2019-07-10">10 July 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sai</forename><surname>Bai</surname></persName>
+							<email>sai.bai@liu.se</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, Chemistry and Biology (IFM)</orgName>
+								<orgName type="institution">Linköping University</orgName>
+								<address>
+									<settlement>Linköping</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Peimei</forename><surname>Da</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cheng</forename><surname>Li</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Bayreuth</orgName>
+								<address>
+									<settlement>Bayreuth</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhiping</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhongcheng</forename><surname>Yuan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, Chemistry and Biology (IFM)</orgName>
+								<orgName type="institution">Linköping University</orgName>
+								<address>
+									<settlement>Linköping</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fan</forename><surname>Fu</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Laboratory for Thin Films and Photovoltaics</orgName>
+								<orgName type="institution">Empa-Swiss Federal Laboratories for Materials Science and Technology</orgName>
+								<address>
+									<settlement>Duebendorf</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maciej</forename><surname>Kawecki</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Laboratory for Nanoscale Materials Science</orgName>
+								<address>
+									<settlement>Empa Dubendorf</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="institution">University of Basel</orgName>
+								<address>
+									<settlement>Basel</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xianjie</forename><surname>Liu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, Chemistry and Biology (IFM)</orgName>
+								<orgName type="institution">Linköping University</orgName>
+								<address>
+									<settlement>Linköping</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nobuya</forename><surname>Sakai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jacob Tse-Wei</forename><surname>Wang</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">School of Electronic Science and Engineering</orgName>
+								<orgName type="institution">CSIRO Energy</orgName>
+								<address>
+									<settlement>Mayfield West New South Wales</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sven</forename><surname>Huettner</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Bayreuth</orgName>
+								<address>
+									<settlement>Bayreuth</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stephan</forename><surname>Buecheler</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Laboratory for Thin Films and Photovoltaics</orgName>
+								<orgName type="institution">Empa-Swiss Federal Laboratories for Materials Science and Technology</orgName>
+								<address>
+									<settlement>Duebendorf</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Feng</forename><surname>Gao</surname></persName>
+							<email>feng.gao@liu.se</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, Chemistry and Biology (IFM)</orgName>
+								<orgName type="institution">Linköping University</orgName>
+								<address>
+									<settlement>Linköping</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Henry</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Physics, Chemistry and Biology (IFM)</orgName>
+								<orgName type="institution">Linköping University</orgName>
+								<address>
+									<settlement>Linköping</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Snaith</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">Xiamen University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<region>China</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Planar perovskite solar cells with long-term stability using ionic liquid additives</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-10">10 July 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9CB6C1C2A204871FD257154665CF9AE8</idno>
+					<idno type="DOI">10.1038/s41586-019-1357-2</idno>
+					<note type="submission">Received: 7 February 2018; Accepted: 20 May 2019;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:39+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Solar cells based on metal halide perovskites are one of the most promising photovoltaic technologies <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> . Over the past few years, the long-term operational stability of such devices has been greatly improved by tuning the composition of the perovskites 5-9 , optimizing the interfaces within the device structures 10-13 , and using new encapsulation techniques 14,15 . However, further improvements are required in order to deliver a longer-lasting technology. Ion migration in the perovskite active layer-especially under illumination and heat-is arguably the most difficult aspect to mitigate <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> . Here we incorporate ionic liquids into the perovskite film and thence into positive-intrinsic-negative photovoltaic devices, increasing the device efficiency and markedly improving the long-term device stability. Specifically, we observe a degradation in performance of only around five per cent for the most stable encapsulated device under continuous simulated fullspectrum sunlight for more than 1,800 hours at 70 to 75 degrees Celsius, and estimate that the time required for the device to drop to eighty per cent of its peak performance is about 5,200 hours. Our demonstration of long-term operational, stable solar cells under intense conditions is a key step towards a reliable perovskite photovoltaic technology.</p><p>Ionic liquids have previously been incorporated into negative-intrinsicpositive perovskite solar cells (in which the perovskite light-absorbing layer is deposited directly on top of the n-type (electron-dominated) charge-extraction layer, rather than on the p-type (hole-dominated) charge-extraction layer as in a positive-intrinsic-negative cell), resulting in improved device performance <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b19">20</ref> . The mechanism driving the improvement has been ascribed to the formation of halide complexes 20 , or to an advantageous energy-level alignment at the n-type interface between the charge-extraction layer and the perovskite <ref type="bibr" target="#b18">19</ref> . Here we incorporate an ionic-liquid-containing triple-cation perovskite absorber of (FA 0.83 MA 0.17 ) 0.95 Cs 0.05 Pb(I 0.9 Br 0.1 ) 3 (ref. <ref type="bibr" target="#b4">5</ref> )-where FA is formamidinium and MA is methylammonium-into positive-intrinsic-negative planar solar cells, using nickel oxide (NiO) and [6,6]-phenyl-C 61 -butyric acid methyl ester (PCBM) as, respectively, the p-type and n-type charge-extraction layers (Fig. <ref type="figure">1a</ref>).</p><p>We add 1-butyl-3-methylimidazolium tetrafluoroborate (BMIMBF 4 ; Fig. <ref type="figure">1b</ref>) to the perovskite precursor, and observe enhanced efficiencies in complete photovoltaic cells comprising 0.15-0.9 mol% of BMIMBF 4 with respect to the lead atoms (Extended Data Fig. <ref type="figure">1a-e</ref>). We notice an improved performance due to initial light soaking during the currentvoltage (J-V) measurements, which we elaborate upon in Extended Data Fig. <ref type="figure">1e,</ref><ref type="figure">f</ref>. We measure the steady-state power output (SPO) of the top one or top two best performing devices of each substrate for 50-100 seconds at a fixed voltage near the maximum power point (MPP) obtained from the peak J-V curves. For our 'champion' device, comprising 0.3 mol% BMIMBF 4 , we measure an open-circuit voltage (V OC ) of 1.08 V, a short-circuit current (J SC ) of 23.8 mA cm -2 and a high fill factor of 0.81, yielding a power conversion efficiency (PCE) of 19.8%</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>(Fig. <ref type="figure">1c</ref> and Extended Data Table <ref type="table">1</ref>; measurement is made under a light intensity of 105 mW cm -2 ). The champion control device exhibits a PCE of 18.5%, owing to a lower V OC of 1.02 V and fill factor of 0.79.</p><p>We provide histograms of the PCEs for controls and for devices with 0.3 mol% BMIMBF 4 in Fig. <ref type="figure">1d</ref>. We verify that J SC values derived from the J-V curves are well matched with the external quantum efficiency (EQE) results, integrated over the solar spectrum (Fig. <ref type="figure">1e</ref>). We note that, with careful optimization, we can obtain devices with little J-V hysteresis (Extended Data Fig. <ref type="figure">1h</ref>), but there is nevertheless some hysteresis; however, we measure SPOs of 18.7% and 20.0% for the champion control device and the device with optimal BMIMBF 4 , respectively (Fig. <ref type="figure">1f</ref>). We observe increased hysteresis in BMIMBF 4 -containing devices with increasingly higher concentrations of BMIMBF 4 in the perovskite film. A pronounced hysteresis and an abnormal 'overshoot' close to the MPP in the J-V curve appear when 1.2 mol% BMIMBF 4 is incorporated into the perovskite active layer (Extended Data Fig. <ref type="figure">1i</ref>).</p><p>In order to understand why adding a low concentration of BMIMBF 4 improves the device performance, we carry out a range of film characterizations. With the addition of BMIMBF 4 , the X-ray diffraction (XRD) peak positions remain unaltered, consistent with neither [BMIM] + nor [BF 4 ] -incorporating into and perturbing the perovskite crystal lattice (Extended Data Fig. <ref type="figure" target="#fig_1">2a</ref>). However, a slightly increased intensity of the main diffraction peaks occurs, suggesting enhanced texturing or crystallinity, in good agreement with the slightly enlarged grains seen in scanning electron microscopy (SEM) images (Extended Data Fig. <ref type="figure" target="#fig_1">2b</ref>). We find a negligible change in the film absorption, but an increased photoluminescence intensity and extended photoluminescence lifetime for the BMIMBF 4 -containing perovskite film (Extended Data Fig. <ref type="figure" target="#fig_1">2c,</ref><ref type="figure">d</ref>), consistent with reduced defects in the film.</p><p>We carry out ultraviolet photoelectron spectroscopy (UPS) and X-ray photoelectron spectroscopy (XPS) to investigate the surface electronic properties of the perovskite films. From the UPS spectra, we observe a 320 meV decrease in the work function of the perovskite film-from 5.13 eV to 4.81 eV-with respect to vacuum after addition of BMIMBF 4 (Extended Data Fig. <ref type="figure" target="#fig_1">2e</ref>). There is no change in the relative Fermi level position with respect to the valance-band offset, indicating that the energy levels of the perovskite absorber, when processed with BMIMBF 4 , move closer to vacuum. The change in the energy-level structure could result from a shift in the relative energy alignment of the buried heterojunction between the perovskite and the NiO holeextraction layer, or from a shift in energy-level alignment at the topmost perovskite surface, which in a complete device would subsequently contact the PCBM electron-extraction layer. In light of the increased V OC and fill factor in the cells, this resulting energetic shift is most likely leading to an improved energetic alignment, with smaller voltage losses at one or both of the heterojunctions, and improved charge extraction <ref type="bibr" target="#b20">21</ref> .</p><p>From XPS spectra of the BMIMBF 4 -containing perovskite film (Fig. <ref type="figure" target="#fig_1">2a</ref>), we detect the nitrogen of BMIM at 402. 3 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>eV but no fluorine</head><p>Letter reSeArCH from BF 4 at 686.2 eV on the top surface. We note that the signal strength for the fluorine 1s orbital is usually stronger than that of the nitrogen 1s orbital; thus our results suggest that there is a predominant presence of BMIM at the top surface. This is also consistent with the energetic shifts being due to the organic cation modifying the surface dipole of the perovskite film.</p><p>We perform time-of-flight secondary-ion mass spectrometry (ToF-SIMS) to probe the chemical composition throughout the film, and we present the signals from both negative and positive secondary ions. In the BMIMBF 4 -containing perovskite film, the BF 4 is located mainly at the buried interface (Fig. <ref type="figure" target="#fig_1">2b</ref>), while the BMIM exists throughout the bulk film, as well as accumulating at the buried interface (Fig. <ref type="figure" target="#fig_1">2c</ref>). This suggests that there is an accumulation of ion pairs of BMIM and BF 4 at the perovskite/NiO interface. We note that if we substitute the NiO with an organic hole-conductor, poly[N,N′-bis(4-butylphenyl)-N,N′-bis(phenyl)benzidine] (poly-TPD), we measure decreased efficiencies with obvious hysteresis and the emergence of an overshoot in the J-V curve from devices with 0.3 mol% BMIMBF 4 (Extended Data Fig. <ref type="figure" target="#fig_3">3</ref>). This indicates that the mechanism driving the enhanced device performance in our NiO-based cells is related to the improved interaction between perovskite and NiO at the interface <ref type="bibr" target="#b21">22</ref> , facilitated by processing with BMIMBF 4 .</p><p>We characterize the photoluminescence of perovskite thin films between two in-plane electrodes, with a constant electrical bias applied between the electrodes, to determine whether there are any field-or ion-induced changes in the BMIMBF 4 -containing perovskite films <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b22">23</ref> . In a series of photoluminescence images of the films as a function of time (Fig. <ref type="figure" target="#fig_1">2d</ref>), we observe clear luminescence quenching from the positive towards the negative electrode for the control film. We interpret this to indicate that the photoluminescence is suppressed by ion migration, whereby some regions of the film accumulate a high density of defects, and/or the stoichiometry of the perovskite layer deviates considerably at different positions across the channel between the electrodes <ref type="bibr" target="#b23">24</ref> . In stark contrast, for the BMIMBF 4 -containing perovskite film, the photoluminescence is close to unchanging throughout the entire measurement time. Unpredictably, our observations indicate that ion migration in the perovskite films is greatly suppressed by introducing BMIMBF 4 .</p><p>We then investigate the stability of perovskite films under simulated full-spectrum sunlight at 60-65 °C in ambient air. For the control film, we observe an obvious colour change from black to yellow-grey after 72 hours of light soaking; this results from a fractional decomposition to PbI 2 , as we infer from XRD measurements (Fig. <ref type="figure" target="#fig_3">3a</ref>). We expect this to happen because, in the presence of light and oxygen, superoxide is generated, which decomposes MAPbI 3 rapidly to PbI 2 (refs <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> ).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>By contrast, we observe no discolouration and negligible PbI 2 in the post-aged BMIMBF 4 -containing perovskite films. In order to understand which component of the ionic liquid-[BMIM] + or [BF 4 ] --is important for improving the device efficiency and the film stability, we assess the impact of a range of different ionic additives. We first characterize devices with added FABF 4 , obtaining efficiencies comparable to that of the control (Extended Data Fig. <ref type="figure" target="#fig_4">4a</ref>), with no improvement in the film stability (Fig. <ref type="figure" target="#fig_3">3b</ref> and Extended Data Fig. <ref type="figure" target="#fig_4">4b</ref>). By replacing the [BF 4 ] -with halide (X) anions-for example, I -, Br -or Cl --and retaining the [BMIM] + cation, we replicate the improved stability of the perovskite films (Fig. <ref type="figure" target="#fig_3">3b</ref> and Extended Data Fig. <ref type="figure" target="#fig_4">4b</ref>), but find a substantial decrease in the device efficiencies (Extended Data Fig. <ref type="figure" target="#fig_4">4a</ref>). Thus both [BMIM] + and [BF 4 ] -are required to improve the film's stability while simultaneously enhancing the device efficiency.</p><p>In order to elucidate the differences between adding BMIMBF 4 versus BMIMX, we investigate the interaction between PbI 2 and these BMIM-based ionic liquids. From photographs of the films, we observe that the PbI 2 /BMIMBF 4 film retains the yellow colouration of PbI 2 , while all of the PbI 2 /BMIMX samples are optically transparent (Fig. <ref type="figure" target="#fig_3">3c</ref>), suggesting the formation of lead halide/imidazolium halide complexes. We find further evidence for the formation of PbI 2 /BMIMX complexes in the corresponding film absorption and XRD results (Fig. <ref type="figure" target="#fig_3">3d,</ref><ref type="figure">e</ref>). Furthermore, all of the BMIM-based ionic liquids investigated greatly suppress the emergence of crystalline PbI 2 .</p><p>To further probe the differences between the ionic liquids comprising halide ions and those comprising [BF 4 ] -ions, we investigate the compositional distribution of halide throughout a BMIMCl-containing perovskite film. According to our ToF-SIMS results, Cl -ions distribute throughout the thickness of the film (Fig. <ref type="figure" target="#fig_3">3f</ref>), unlike [BF 4 ] -ions (Fig. <ref type="figure" target="#fig_1">2b</ref>), indicating that if PbI 2 /BMIMX complexes do exist within BMIMX-containing perovskite films, they are likely to be found throughout the bulk film.</p><p>For completeness, we investigate whether BMIMBF 4 needs to be incorporated within the perovskite film, or if it can be pre-processed onto the substrate before perovskite deposition. For cells fabricated through the latter approach-which we term 'with BMIMBF 4 at the perovskite/NiO interface'-we observe improvement in device efficiency compared with control cells, with a higher V OC and fill factor (Extended Data Fig. <ref type="figure" target="#fig_4">4c</ref> and Extended Data Table1). This result is consistent with the idea that the enhanced efficiency of cells based on BMIMBF 4 -containing perovskite films is related to an improvement in interfacial properties when BMIMBF 4 accumulates at the perovskite/ NiO interface. However, film stability does not noticeably improve in such devices (Extended Data Fig. <ref type="figure" target="#fig_4">4d</ref>). Therefore, we conclude that the improved stability of devices based on BMIMBF 4 -containing perovskite films stems mainly from the presence of BMIM, with the BF 4 ensuring that the introduced ionic liquid does not negatively affect the film properties and device performance of the ensuing solar cells. We assume that, in the as-crystallized films, the large [BMIM] + ions are excluded Letter reSeArCH from the perovskite crystals and hence accumulate at the surface and grain boundaries of the perovskite film. We postulate that the [BMIM] + cations will bind to surface sites that would have otherwise been susceptible to degradation via oxygen or moisture adsorption and subsequent reactions under light and heat <ref type="bibr" target="#b26">27</ref> , and hence suppress the degradation of the perovskite active layer. However, as is the case for films processed with BMIMX, we speculate that the readily formed large-band-gap complexes of PbI 2 /BMIMX disrupt the perovskite lattice or introduce surface strain, and hence introduce electronic defects into the active layer, inhibiting the photovoltaic performance of the resulting devices.</p><p>Having demonstrated the improved stability of BMIMBF 4 -containing perovskite films, we proceed to investigate the stability of complete photovoltaic cells under combined heat and light stressing. We first test the stability performance of non-encapsulated devices under full-spectrum sunlight at 60-65 °C (Fig. <ref type="figure" target="#fig_4">4a</ref>). Rather like the freshly made devices, we notice light-soaking improvements during J-V measurements of the aged devices (Extended Data Fig. <ref type="figure">5a</ref>), and present the final PCEs based on peak J-V values for non-encapsulated cells as a function of ageing time in Fig. <ref type="figure" target="#fig_4">4a</ref>. We observe no degradation for both types of device (with or without BMIMBF 4 ) during the first 20 hours. By contrast with our previous best reported stability <ref type="bibr" target="#b5">6</ref> and that found in other studies of negative-intrinsic-positive perovskite solar cells <ref type="bibr" target="#b4">5</ref> , we do not here observe an early-time light-induced degradation, or 'burn-in' . This is already a key step forward, and we assign this primarily to our use of a positive-intrinsic-negative device structure comprising NiO as a hole conductor and a Cr/Cr 2 O 3 interlayer <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b27">28</ref> . For the control device, the PCE quickly decreases to around zero after roughly another 80 hours of ageing. By contrast, the BMIMBF 4 -containing device retains about 86% of its initial performance after 100 hours of ageing in air.</p><p>The control device discolours in the regions beyond the electrode-protected area, whereas the BMIMBF 4 -containing device shows no visible discolouration (Fig. <ref type="figure" target="#fig_4">4a</ref>, insets), consistent with the idea that the enhanced device stability originates from the improved stability of the BMIMBF 4 -containing perovskite active layer.</p><p>We encapsulate a series of cells and probe their long-term stability. We measure improvements in device performance and, in some cases, an obvious decrease in hysteresis in the J-V curves after device encapsulation (Extended Data Fig. <ref type="figure">5b,</ref><ref type="figure">c</ref>). In Extended Data Fig. <ref type="figure">5d</ref>, we compare the stability of devices comprising BMIMBF 4 within the perovskite film with those comprising BMIMBF 4 at the perovskite/ NiO interface, under full-spectrum sunlight at 60-65 °C. We observe no obvious degradation of the encapsulated devices under this ageing condition. For the devices based on BMIMBF 4 -containing perovskite film, we measure an increase in both the J-V-derived efficiency and the SPO, together with a 'healing' of the J-V hysteresis after 150 hours of ageing (Extended Data Fig. <ref type="figure">5e,</ref><ref type="figure">f</ref>).</p><p>We then allow the chamber temperature to rise to between 70 °C and 75 °C, and again evaluate the device stability. We show the evolution of device parameters in Fig. <ref type="figure" target="#fig_4">4b,</ref><ref type="figure">c</ref> and Extended Data Fig. <ref type="figure">6a-c</ref>. We measure very little degradation in J-V-determined efficiency for cells based on BMIMBF 4 -containing perovskite film, and a faster degradation of control devices. The cells with BMIMBF 4 at the perovskite/ NiO interface also degrade at a similar rate to the control cells under this higher-temperature ageing. Therefore, it appears essential that the BMIMBF 4 is within the perovskite absorber in order to enhance the stability. However, we observe increased hysteresis and, in some instances, the emergence of overshoot in the J-V curves for devices based on BMIMBF 4 -containing perovskite films during higher-temperature light   stressing (Extended Data Fig. <ref type="figure">6d</ref>). For such devices, the SPO values also degrade more quickly than the J-V-determined efficiency, and we observe a roughly 20% decrease in the initial performance after 1,072 hours of ageing (Fig. <ref type="figure" target="#fig_4">4c</ref>). By comparison, for the control cells and that with BMIMBF 4 at the perovskite/NiO interface, we observe a roughly 35-40% drop in the SPO over the same ageing period.</p><p>In Fig. <ref type="figure" target="#fig_4">4d</ref> we show the longer-term stability results for the moststable cell with BMIMBF 4 in the perovskite film, aged under fullspectrum sunlight at the elevated temperature (70-75 °C). We observe a slow increase in the J-V-derived efficiency at the beginning of ageing. However, we also measure a small early-time burn-in of the SPO during the first 100 hours or so, coincident with enhanced J-V hysteresis under the high-temperature ageing, and proceed to measure a relatively slow drop in the SPO during the extended ageing test. We present the J-V and the measured SPO curves at different ageing times in Extended Data Fig. <ref type="figure">7a-f</ref>, clearly showing the evolution of device performance-including the increased hysteresis in the J-V curvesduring long-term ageing. Remarkably, the most-stable device based on BMIMBF 4 -containing perovskite film exhibits only around 5% degradation in the J-V-derived efficiency and around 15% degradation in the SPO over the entire 1,885-hour ageing test.</p><p>By fitting the degradation data of the most-stable device based on BMIMBF 4 -containing perovskite film (as in Extended Data Fig. <ref type="figure">8</ref>), we estimate a time to 80% of the peak PCE (T 80 ) of roughly 5,200 hours, and the T 80 of the post-burn-in SPO to be about 4,100 hours. The T 80 values of our J-V-determined PCE and SPO are respectively 1.3 and 2.4 times as great as our previous best reported values for negativeintrinsic-positive solar cells <ref type="bibr" target="#b27">28</ref> , which were aged at a lower temperature of 50-60 °C and exhibited a severe early-time burn-in, with over 20% of the initial efficiency lost within the first few hundred hours. We would expect that an additional degradation-acceleration factor due to a temperature increase is in the region of fourfold (twofold per 10 °C increase in temperature) <ref type="bibr" target="#b28">29</ref> . We therefore estimate that the cells we present here are in the region of five to ten times more stable than our previous most stable devices.</p><p>To put our results into a broader context, we tabulate the long-term stability performance of perovskite solar cells from the literature in Extended Data Table <ref type="table">2</ref>, specifying the device structures, the ageing conditions, the degradation factors and the estimated T 80 values. By comparison with the cells with the longest T 80 values measured under combined light and heat stressing 10 , our cells are stressed under ultraviolet-light-containing full-spectrum sunlight at temperatures about 10-15 °C higher, yet deliver a comparable T 80 lifetime, indicating that our cells are likely to be at least twice as stable. We note that all of the results in Extended Data Table <ref type="table">2</ref> were measured under slightly different conditions (light source, atmosphere, electric bias, temperature, and Letter reSeArCH so on). Ultimately, standardized measurement conditions with which to fairly compare experimental results in different laboratories would greatly benefit the community <ref type="bibr" target="#b29">30</ref> .</p><p>To demonstrate the applicability of our strategy for improving operational stability to different perovskite absorber materials, we undertake a similar ageing test with the 'unstable' perovskite MAPbI 3 in the same positive-intrinsic-negative device structure (Extended Data Fig. <ref type="figure">9a-h</ref>). For cells based on BMIMBF 4 -containing MAPbI 3 , ageing at about 60-65 °C, we observe a similar improvement in device performance during the first 100 hours, while the performance of control cells decreases slightly. We then set the temperature of the ageing box to about 70-75 °C for a short period, and observe a fast decrease in both the device efficiency and the SPO for all devices. We then drop the temperature back to 60-65 °C and proceed with the ageing. The control devices exhibit a faster degradation after the higher-temperature ageing, and their performance quickly decreases to about 60% of the original values after about 400 hours. By contrast, devices with BMIMBF 4 in the MAPbI 3 perovskite slowly recover to their initial efficiency before the high-temperature ageing, and show less than 10% degradation in both the J-V-derived efficiency and the SPO after about 400 hours of ageing under full-spectrum light and heat stressing (Extended Data Fig. <ref type="figure">9</ref>).</p><p>In summary, we have presented a simple, broadly applicable method that greatly enhances the long-term operational stability of perovskite solar cells. Our approach represents another milestone towards stable perovskite-based photovoltaic technology, and is likely to be applicable to other optoelectronic applications that use metal halide perovskites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MEthodS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials.</head><p>Detailed information on all chemicals used here is listed in Supplementary Table <ref type="table">1</ref>. Substrate preparation. Fluoride-doped tin oxide (FTO)-coated glass substrates (Pilkington TEC 7, sheet resistance 7-8 ohms per square) were etched with zinc powder and 2 M hydrochloric acid (HCl) to produce desired patterns. The substrates were cleaned with a 2 vol% solution of Hellmanex cuvette-cleaning detergent, then washed with deionized water and ethanol, and dried with dry nitrogen. The substrates were treated with UV-ozone for 10 min before use. Substrates coated with poly[N,N′-bis(4-butylphenyl)-N,N′-bisphenylbenzidine] (poly-TPD) were fabricated as described <ref type="bibr" target="#b30">31</ref> . The nickel oxide (NiO) precursor (0.1 M) was prepared by dissolving nickel acetylacetonate (Ni(acac) 2 ) in anhydrous ethanol, and HCl (1% v/v) was used as the stabilizer. The precursor solution was stirred overnight at room temperature, filtered (0.45 µm, polytetrafluoroethylene (PTFE)), and spin-coated on cleaned FTO substrates at 4,000 r.p.m. for 40 s. The films were dried at 180 °C for 10 min and then sintered at 400 °C in air for 45 min to obtain a compact NiO layer. For the BMIMBF 4 -treated substrates, a 3 mg ml -1 BMIMBF 4 solution in ethanol was spin-coated onto the NiO substrates at 6,000 r.p.m., followed by annealing at 100 °C for 10 min in a glove box. The relative humidity during spin-coating and thermal annealing of NiO films ranged from 40% to 50% in our clean room. Preparation of perovskite precursor solutions. All chemicals used for the perovskite precursor solutions are listed in Supplementary Table <ref type="table">1</ref>. We prepared the (FA 0.83 MA 0.17 ) 0.95 Cs 0.05 Pb(I 0.9 Br 0.1 ) 3 triple-cation perovskite precursor solution (1.3 M) by dissolving formamidinium iodide (FAI, 176.6 mg) and methylammonium iodide (MAI, 33.1 mg), CsI (16.9 mg), PbI 2 (509.4 mg) and PbBr 2 (71.6 mg) in 1 ml of a mixed anhydrous solvent of N,N-dimethylformamide (DMF), dimethyl sulfoxide (DMSO) and N-methyl-2-pyrrolidinone (NMP). The ratio of the solvents was fixed at 4/0.9/0.1 (DMF/DMSO/NMP) by volume. In parallel, we prepared ionic liquids containing perovskite precursor solution by dissolving the same components in mixed solvent containing different ionic liquids (1.2 mol%). The perovskite precursor solutions were stirred overnight in the glove box and filtered (0.45 µm, PTFE) before spin-coating. The ionic-liquid-containing precursor solutions of desired concentrations were prepared by mixing the precursor without and with ionic liquid (1.2 mol%) at different ratios. The precursor solutions for MAPbI 3 perovskite (1.4 M) were prepared by dissolving PbI 2 and MAI with a molar ratio of 1/1 in anhydrous DMF/DMSO (4/1, volume ratio) without and with BMIMBF 4 (0.3 mol%). The perovskite precursor solutions were stirred overnight in the glove box and filtered (0.45 µm, PTFE) before use. Device fabrication. Triple-cation perovskite films were deposited in the glove box using a solvent-quenching method <ref type="bibr" target="#b31">32</ref> with anisole as the antisolvent. In detail, 100 µl perovskite precursor solution was dropped on the NiO-coated FTO substrates (2.8 × 2.8 cm) and spin-coated at 1,300 r.p.m. for 5 s (5-s ramp) and 5,000 r.p.m. for 30 s (5-s ramp). We quickly dropped 250 µl anhydrous anisole onto the substrates 5 s before the end of the program. The samples were immediately put on a preheated hot plate and annealed at 100 °C for 30 min. For MAPbI 3 films, the precursor solution was spin-coated at 4,000 r.p.m. for 30 s in a dry box with a controlled humidity of about 20% (ref. <ref type="bibr" target="#b32">33</ref> ). We dropped 250 µl anhydrous anisole onto the substrates 10 s before the end of the program. The films were annealed at 80 °C for 5 min. PCBM solution with a concentration of 20 mg ml -1 in chlorobenzene (CB)/1,2-dichlorobenzene (ODCB) (3/1, v/v) was spin-coated on top of the perovskite films at a speed of 1,800 r.p.m. for 30 s. The samples were then annealed at 100 °C for 10 min. After cooling to room temperature, we dynamically spincoated bathocuproine (BCP) solution (0.5 mg ml -1 in isopropanol) on top of the PCBM at a speed of 4,000 r.p.m. for 20 s. We took the samples from the glove box and finished the devices by thermally evaporating chromium (3.5 nm) and gold (100 nm) electrodes under a vacuum of 6 × 10 -6 torr. Characterization of solar cells. We measured J-V curves in air with a Keithley 2400 source meter under AM1.5 sunlight generated using an ABET Class AAB sun 2000 simulator. The mismatch factor for the test cell, the light source and the National Renewable Energy Laboratories (NREL)-calibrated KG5 filtered silicon reference cell was estimated and applied in order to correctly estimate the equivalent AM1.5 irradiance level. Before measurement of each set of devices, the intensity of the solar simulator was automatically measured using a KG5 reference cell, and this recorded intensity (which typically varied from 99 mW cm -2 to 105 mW cm -2 ) was used to calculate the precise power conversion efficiency, where power conversion efficiency is: (electrical power out/solar light power in) × 100%. All devices were masked with a 0.0919 cm -2 metal aperture to define the active area and to eliminate edge effects. The J-V curves were measured at a scan rate of 200 mV s -1 (delay time of 100 ms) from 1.2 V to -0.2 V and then back again (from -0.2 V to 1.2 V). A stabilization time of 2 s at forward bias of 1.2 V under illumination was done before scanning. We measured the cells multiple times until a peak performance was achieved. This typically took two to five J-V scans, in a measurement time of around 1-2 min. External quantum efficiency measurements were performed using custom-built Fourier transform photocurrent spectroscopy based on the Bruker Vertex 80v Fourier transform spectrometer. A Newport AAA sun simulator was used as the light source and the light intensity was calibrated with a Newport-calibrated reference silicon photodiode. Film characterization. The morphologies of the perovskite films on NiO-coated FTO substrates were characterized using a SEM (Hitachi S-4300) at an accelerating voltage of 3-5 kV. The diffraction patterns were measured from samples of perovskite films on NiO-coated FTO substrates using a Panalytical X'PERT Pro X-ray diffractometer. UV-Vis absorption spectra were measured using a Varian Carry 300 Bio (Agilent Technologies). Steady-state and time-resolved photoluminescence spectra were acquired using a fluorescence lifetime spectrometer (FLuo Time 300, PicoQuant). The samples were excited using a 507-nm laser (LDH-P-C-510, PicoQuant) with pulse duration of 117 ps, a fluence of about 30 nJ cm -2 per pulse and a repetition rate of 1 MHz. The photoluminescence data were collected using a high-resolution monochromator and hybrid photomultiplier detector assembly (PMA Hybrid 40, PicoQuant). The samples were prepared on thin insulating amorphous TiO 2 -coated glass substrates to avoid any impacts of morphology and structure change in the perovskite films on the photoluminescence measurements <ref type="bibr" target="#b33">34</ref> . UPS and XPS measurements were carried out using a Scienta ESCA 200 spectrometer in ultrahigh vacuum with a base pressure of 1 × 10 -10 mbar. The measurement chamber was equipped with a monochromatic aluminium (Kα) X-ray source providing photons with energies of 1,486.6 eV for XPS, and a standard helium-discharge lamp with He Ι photons of 21.22 eV for UPS. The XPS experimental condition was set so that the full width at half maximum of the clean gold 4f 7/2 line (at a binding energy of 84.00 eV) was 0.65 eV. The total energy-resolution UPS measurement is about 80 meV as extracted from the width of the Fermi level (at the binding energy of 0.00 eV) of clean gold foil. All spectra were measured at a photoelectron takeoff angle of 0° (normal emission). The work function of film was extracted from the edge of the secondary electron cutoff of the UPS spectra by applying a bias of -3 V to the sample. ToF-SIMS measurements. Compositional depth profiling of perovskite films was carried out using a ToF-SIMS 5 system from IONTOF, operated in the spectral mode and using a 25-keV Bi 3 + primary ion beam with an ion current of 0.7 pA. A mass-resolving power of about 8,000 m ∆m -1 was reached. For depth profiling, a 500-eV Cs + sputter beam with a current of 28 nA was used to remove material layer by layer in interlaced mode, from a raster area of 300 µm × 300 µm. Mass spectrometry was performed on an area of 100 µm × 100 µm in the centre of the sputter crater. A low-energy electron-flood gun was used for charge compensation. In the positive polarity, the [SnO + Cs] + secondary ion is the SnO fragment ionized through interaction with the sputter ion Cs + , yielding the highest signalto-noise-ratio positive-secondary-ion signal characteristic of the FTO substrate. In-plane electronic device characterization. For photoluminescence imaging experiments under an electric field, perovskite films on glass samples were deposited with planar gold electrodes on top (channel width of about 150 µm). Characterization was performed as described <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> using a home-built photoluminescence imaging microscope. Based on commercial microscopy (Microscope Axio Imager.A2m), samples were illuminated by a LED illuminator using an excitation filter and dicroic mirror (HC 440 SP, AHF Analysentechnik AG), allowing excitation at 440 nm. The excitation power could be controlled and was set to roughly 34 mW cm -2 in the focus plane using an infinity-corrected objective (×10/0.25 HD, Zeiss). The photoluminescence light was filtered (HC-BS 484, AHF Analysentechnik AG) to suppress residual excited light and directed to the microscope with the same objective lens. The photoluminescence signal was imaged with a charge-coupled-device (CCD) camera (Pco. Pixelfly, PCO AG) with an exposure time of 200 ms. The perovskite films were placed in the focal plane of the objective lens. The photoluminescence changing process was recorded with a constant 10 V voltage being applied between the gold electrodes (Keithley 236 Source Measure Unit). Characterization of film and device stability. The complete perovskite solar cells were simply encapsulated with a cover glass (LT-Cover, Lumtec) and UV adhesive (LT-U001, Lumtec) in a nitrogen-filled glove box. All of the non-encapsulated perovskite films on NiO/FTO substrates, the encapsulated devices and the nonencapsulated devices were aged in an Atlas SUNTEST XLS+ (1,700 W air-cooled xenon lamp) light-soaking chamber under simulated full-spectrum AM1.5 sunlight with 76 mW cm -2 irradiance. All devices were aged under open-circuit conditions, and were taken out from the chamber and tested at different time intervals under a separate solar simulator (AM1.5, 99 to 105 mW cm -2 ) for J-V characterization. No additional ultraviolet filter was used during the whole ageing process. During the ageing test, the temperature of the light ageing chamber was initially set between 60 °C and 65 °C, and proceeded to between 70 °C and 75 °C, as measured on a black temperature standard inserted into the ageing box positioned at the same level and the same orientation as the solar cells. When measuring the cells during ageing, we removed them from the ageing chamber and allow them to cool to room temperature, which typically took a few minutes. The relative humidity in the laboratory was within 40% to 60% during the entire ageing test. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extended Data</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>Extended Data Fig. <ref type="figure">8</ref> | Methods for estimating T 80 values. a, For devices with an early 'burn-in' effect, we fit the stability performance data after the burn-in section to a straight line, and extrapolated the curve back to time zero to obtain the T = 0 efficiency. We then determined the lifetime to 80% of the T = 0 efficiency, that is, the T 80 (ref. <ref type="bibr" target="#b33">34</ref> ). b, For devices with a positive 'light-soaking' effect, we fit the stability data from the peak performance after the light-soaking section to a straight line. We calculated the lifetime to 80% of the peak efficiency and added the 'lightsoaking' time to obtain the total T 80 lifetime.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 |</head><label>2</label><figDesc>Fig. 2 | Compositional distribution of BMIMBF 4 in the perovskite active layer and its impact on ion migration. a, Nitrogen 1s (N 1s) and fluorine 1s (F 1s) XPS spectra of neat BMIMBF 4 , control film and BMIMBF 4 -containing film. b, c, ToF-SIMS depth profiles of the BMIMBF 4 -containing perovskite film on an NiO/fluoride-doped tin oxide (FTO)-coated glass substrate, measured in negative (b) and positive (c) polarity. d, Photoluminescence images of control film and BMIMBF 4containing film under a constant applied bias (10 V). The bright areas represent photoluminescence emission from the perovskite films. The BMIMBF 4 concentration in the BMIMBF 4 -containing perovskite films is 0.3 mol% with respect to the lead atoms.</figDesc><graphic coords="3,60.76,327.95,114.14,91.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Film stability and the interaction between PbI 2 and BMIMcontaining ionic liquids. a, XRD patterns of pristine and aged samples of control film and film containing BMIMBF 4 (0.3 mol%) on NiO/FTOcoated glass substrates. The stars represent the decomposition product of PbI 2 in the films. The insets show images of the aged samples (around 2.8 cm × 2.8 cm) after 72 h of light-soaking at 60-65 °C. b, Evolution of the ratio between PbI 2 and perovskite (100) peak intensity in XRD patterns of control film and films with different ionic additives during light ageing at 70-75 °C. c-e, Characterization of thin films deposited from neat PbI 2 solution or from solutions containing PbI 2 and different BMIM-containing ionic liquids (molar ratio 1/1) on NiO/FTO substrates: c, photographs; d, ultraviolet-visible (UV-Vis) absorption spectra; and e, XRD patterns. The size of the substrate is around 2.8 cm × 2.8 cm. The PbI 2 /BMIMBF 4 film retains the colour of PbI 2 and exhibit a polycrystalline PbI 2 feature. f, ToF-SIMS depth profiles, measured in negative polarity, of perovskite film containing BMIMCl (0.3 mol%) on an NiO/FTO substrate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>dFig. 4 |</head><label>4</label><figDesc>Fig. 4 | Device stability under combined full-spectrum sunlight and heat stressing. a, Evolution of power conversion efficiencies (PCEs) of a non-encapsulated control device and a device with BMIMBF 4 in the perovskite film, during ageing under full-spectrum sunlight at 60-65 °C in air with relative humidity (RH) ranging from 40% to 50%. The insets show pictures of the perovskite cells after 100 h of ageing (the size of the substrate is around 2.8 cm × 2.8 cm). b, c, Stability performance of the encapsulated solar cells under full-spectrum sunlight at 70-75 °C. PCE (b) and SPO (c), including standard errors, were calculated from ten devices (and from the best performing eight devices for the SPO) with BMIMBF 4 in the perovskite film, and from seven devices (and from the best performing four devices for the SPO) for the other two sets of devices. The top and bottom stars in the PCE and SPO stability curves for devices with BMIMBF 4 in the perovskite film represent the maximum and minimum values, respectively. d, Long-term stability performance of the most stable device with BMIMBF 4 in the perovskite film, under full-spectrum sunlight and heat stressing at 70-75 °C. The device parameters were collected from the peak FB-to-SC J-V curves for this device. The concentration of the BMIMBF 4 in the perovskite film is 0.3 mol% with respect to the lead atoms.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 1 | 2 | 3 | 4 | 7 |</head><label>12347</label><figDesc>Impact of BMIMBF 4 concentration on device performance. a-e, Statistics of device parameters for solar cells on NiO/ FTO substrates fabricated from perovskite precursors with a BMIMBF 4 concentration ranging from 0 mol% to 1.2 mol% (with respect to lead atoms). The PCE (a), J SC (c), V OC (d) and fill factor (FF; e) were determined from the FB-to-SC J-V scan curves of 20 cells for each condition. The SPO (b) was measured for 50 s at a fixed voltage near the MPP from the J-V curves. The top and bottom stars show the maximum and minimum values, respectively; the open squares show mean values;and the boxes show the region containing 25-75% of the data, obtained from 20 cells for each condition. f, g, Light soaking during J-V curve measurements of the control (f) and the device with 0.3 mol% BMIMBF 4 (g). h, J-V curves of an optimized solar cell with 0.3 mol% BMIMBF 4 measured from FB to SC and back again, with a scan rate of 200 mV s -1 . The inset shows the SPO curve for the device. i, Hysteresis in the J-V curves of devices with increasingly higher concentrations of BMIMBF 4 in the perovskite layer.Extended DataFig. Characterization of perovskite film. a-e, Characteristics of the control film and the film containing BMIMBF 4 (0.3 mol%). a, XRD patterns. b, Top-view SEM images. c, UV-Vis absorption and steady-state photoluminescence (PL) spectra. d, Time-resolved photoluminescence decay curves. e, Photoemission cutoff energy and valence-band region of the UPS spectra. E f , Fermi level; VBM, valence-band maximum; WF, work function. Extended Data Fig. Perovskite solar cells on poly-TPD holeconductor. a, PCE statistics for perovskite solar cells on poly-TPD-coated FTO substrates fabricated from precursors without and with 0.3 mol% BMIMBF 4 . The PCEs were determined from FB-to-SC J-V scan curves of 13 cells for each condition. The bottom and top stars represent the minimum and maximum values, respectively; the open squares represent mean values; and the boxes show the regions containing 25-75% of the data. b, J-V curves for a device fabricated on poly-TPD/FTO with 0.3 mol% BMIMBF 4 in the perovskite film, measured from FB to SC and back again with a scan rate of 200 mV s -1 . Letter reSeArCH Extended Data Fig. Device performance and film stability with different ionic additives. a, PCE statistics for perovskite solar cells on NiO/FTO substrates fabricated from precursors without and with different ionic additives (0.3 mol%). b, Photographs of the non-encapsulated control and of devices with different ionic additives after ageing for 100 h under full-spectrum sunlight at 70-75 °C. c, PCE statistics for perovskite solar cells fabricated on bare NiO and BMIMBF 4 -modified NiO. The PCEs were determined from FB-to-SC J-V scan curves of 15 or more cells from at least two different batches for each condition. The bottom and top stars represent the minimum and maximum values, respectively; the open squares represent mean values; and the boxes show the regions containing 25-75% of the data. d, XRD patterns of the fresh and aged perovskite films (under full-spectrum sunlight at 60-65 °C in ambient air) without ionic liquids on bare NiO and on BMIMBF 4 -modified NiO substrates. Extended Data Fig. Performance of the most-stable cell based on BMIMBF 4 -containing perovskite film. a, b,Device performance before (a) and after (b) encapsulation. c-f, Evolution of J-V and SPO curves during a long-term stability test under full-spectrum sunlight at 70-75 °C, after ageing for: c, 360 h; d, 792 h; e, 1,122 h; and f, 1,885 h.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,39.80,57.56,510.00,290.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,118.07,57.56,364.80,153.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,119.06,56.15,351.36,301.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,45.47,57.56,510.00,291.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,50.96,57.56,487.68,299.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,45.47,57.56,510.00,292.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,109.52,57.56,370.56,149.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,122.81,57.56,355.20,447.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,36.85,72.74,405.12,199.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>| Device architecture and characterization. a, Architecture</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>Counts</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Current density</cell><cell></cell></row><row><cell></cell><cell>SPO (%)</cell><cell>SPO</cell><cell>With BMIMBF 4 20.0% at 0.92 V With BMIMBF 4 21.76 mA cm -2 Control device 21.27 mA cm -2</cell><cell>18 20 22</cell><cell>Current density (mA cm -2 )</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Control device 18.7% at 0.88 V</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>16</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Time (s)</cell><cell></cell></row><row><cell>Fig. 1 of our</cell><cell cols="5">efficiencies (power conversion efficiency, PCE) of 50 cells per type,</cell></row><row><cell>planar heterojunction positive-intrinsic-negative perovskite solar cell.</cell><cell cols="5">fitted with Gaussian distributions (solid lines). e, External quantum</cell></row><row><cell>b, Chemical structure of the ionic liquid BMIMBF 4 . c-f, Characteristics of control devices (navy circles) and devices comprising an optimal amount of BMIMBF 4 (0.3 mol%; red squares). c, Current density-voltage (J-V) curves of the best performing device for each condition measured</cell><cell cols="5">efficiency (EQE) spectra (data points) and integrated photocurrent (solid lines), integrated over the AM1.5 (100 mW cm -2 ) solar spectrum. The integrated J SC values over the entire EQE spectra were 22.3 mA cm -2 and 22.8 mA cm -2 for the control and the BMIMBF 4 -containing device,</cell></row><row><cell>from forward bias (FB) to short-circuit (SC) scan and back again under</cell><cell cols="5">respectively. f, Current density and steady-state power output (SPO),</cell></row><row><cell>simulated AM1.5 sunlight. The light intensities used to measure the control device and the BMIMBF 4 -containing device were 102 mW cm -2 and 105 mW cm -2 , respectively. d, Histograms showing the device</cell><cell cols="5">measured for 100 s at a fixed voltage near the maximum power point (MPP) identified in the J-V curves. Dashed ovals with arrows pointing left and right represent measured SPO and current-density values, respectively.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Clarendon Laboratory, University of Oxford, Oxford, UK.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Department of Physics, Chemistry and Biology (IFM), Linköping University, Linköping, Sweden.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>Department of Chemistry, University of Bayreuth, Bayreuth, Germany.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>Laboratory for Thin Films and Photovoltaics, Empa-Swiss Federal Laboratories for Materials Science and Technology, Duebendorf, Switzerland.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p>Laboratory forNanoscale Materials Science, Empa, Dubendorf, Switzerland.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_5"><p>Department of Physics, University of Basel, Basel, Switzerland.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_6"><p>CSIRO Energy, Mayfield West, New South Wales, Australia.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_7"><p>Present address: School of Electronic Science and Engineering, Xiamen University, Xiamen, China. *e-mail: sai.bai@liu.se; feng.gao@liu.se; henry.snaith@physics.ox.ac.uk</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements This work was funded in part by the <rs type="funder">UK Engineering and Physical Sciences Research Council</rs> (EPSRC; grants <rs type="grantNumber">EP/M015254/2</rs> and <rs type="grantNumber">EP/M024881/1</rs>); the <rs type="funder">European Research Council (ERC)</rs> <rs type="grantName">Starting Grant</rs> (<rs type="grantNumber">717026</rs>); the <rs type="funder">Swedish Research Council Vetenskapsrådet</rs> (grant <rs type="grantNumber">330-2014-6433</rs>); the <rs type="funder">European Commission Marie Skłodowska-Curie action</rs> (grant <rs type="grantNumber">INCA 600398</rs>); the <rs type="funder">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</rs> (faculty grant <rs type="grantNumber">SFO-Mat-LiU 2009-00971</rs>); and the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation program</rs> under grant agreement <rs type="grantNumber">763977</rs> of the <rs type="projectName">PerTPV</rs> project. <rs type="person">S. Bai</rs> is a <rs type="grantName">VINNMER Fellow and Marie Curie Fellow</rs>. P.D. and Z.Y. acknowledge support from the <rs type="funder">China Scholarship Council (CSC)</rs>. C.L. and S.H acknowledge financial support from the <rs type="funder">Bavarian State Ministry of Science, Research</rs>, and the <rs type="institution">Arts for the Collaborative Research Network 'Solar Technologies go Hybrid</rs>' and the <rs type="funder">German Research Foundation</rs> (DFG). M.K. acknowledges support from the <rs type="funder">Swiss National Science Foundation</rs> (grant <rs type="grantNumber">cr23i2-162828</rs>). We thank <rs type="person">H. Long</rs>, <rs type="person">Z. Yan</rs>, <rs type="person">C. Bao</rs>, <rs type="person">N. Noel</rs>, <rs type="person">B. Wenger</rs>, <rs type="person">J. Ball</rs> and <rs type="person">O. Inganäs</rs> for experimental assistance and discussions.</p><p>Reviewer information Nature thanks <rs type="person">Aditya Mohite</rs>, <rs type="person">Shougen Yin</rs> and the other anonymous reviewer(s) for their contribution to the peer review of this work.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_AnKw5ch">
+					<idno type="grant-number">EP/M015254/2</idno>
+				</org>
+				<org type="funding" xml:id="_ctdY5AM">
+					<idno type="grant-number">EP/M024881/1</idno>
+				</org>
+				<org type="funding" xml:id="_2SACd6n">
+					<idno type="grant-number">717026</idno>
+					<orgName type="grant-name">Starting Grant</orgName>
+				</org>
+				<org type="funding" xml:id="_d6HTGEB">
+					<idno type="grant-number">330-2014-6433</idno>
+				</org>
+				<org type="funding" xml:id="_nx2sTGY">
+					<idno type="grant-number">INCA 600398</idno>
+				</org>
+				<org type="funding" xml:id="_VjW7nkS">
+					<idno type="grant-number">SFO-Mat-LiU 2009-00971</idno>
+				</org>
+				<org type="funded-project" xml:id="_nfyZjvZ">
+					<idno type="grant-number">763977</idno>
+					<orgName type="grant-name">VINNMER Fellow and Marie Curie Fellow</orgName>
+					<orgName type="project" subtype="full">PerTPV</orgName>
+					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
+				</org>
+				<org type="funding" xml:id="_2vVX9Tj">
+					<idno type="grant-number">cr23i2-162828</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions S. Bai, F.G. and H.J.S. conceived the idea of the project, designed the experiments, analysed the data and wrote the manuscript. S. Bai performed the fabrication, optimization and characterization of the films and solar cells. P.D. contributed to characterization of the films and stability tests of the devices. C.L. and S.H. characterized the ion-migration process. S. Bai, Z.W. and Z.Y. performed the XRD and SEM characterizations. M.K., F.F. and S. Buecheler conducted the ToF-SIMS measurements and analysed the data. X.L. and M.F. carried out the UPS and XPS measurements and analysed the data. S. Bai, Z.W. and N.S. performed the optical measurements. J.T-W.W. contributed to optimization of the positive-intrinsic-negative device architecture. All authors commented on the final version of the manuscript. F.G. and H.J.S. supervised the project.</p><p>Competing interests H.J.S. is a co-founder, Chief Scientific Officer and a Director of Oxford PV Ltd. Oxford University has filed a patent related to the subject matter of this manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Extended data is available for this paper at <ref type="url" target="https://doi.org/10.1038/s41586-019-1357-2">https://doi.org/10.1038/s41586-019-1357-2</ref>. Supplementary information is available for this paper at <ref type="url" target="https://doi.org/">https://doi.org/</ref> Extended Data Fig. <ref type="figure">5</ref>  In the format provided by the authors and unedited. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Table</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Efficient hybrid solar cells based on meso-superstructured organometal halide perovskites</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Teuscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="643" to="647" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Sequential deposition as a route to high-performance perovskite-sensitized solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burschka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">499</biblScope>
+			<biblScope unit="page" from="316" to="319" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Compositional engineering of perovskite materials for high-performance solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">517</biblScope>
+			<biblScope unit="page" from="476" to="480" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Efficient planar heterojunction perovskite solar cells by vapour deposition</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">501</biblScope>
+			<biblScope unit="page" from="395" to="398" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Cesium-containing triple cation perovskite solar cells: improved stability, reproducibility and high efficiency</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1989" to="1997" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Efficient ambient-air-stable solar cells with 2D-3D heterostructured butylammonium-caesium-formamidinium lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17135</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A mixed-cation lead mixed-halide perovskite absorber for tandem solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Mcmeekin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="151" to="155" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Incorporation of rubidium cations into perovskite solar cells improves photovoltaic performance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="206" to="209" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">High-efficiency two-dimensional Ruddlesden-Popper perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tsai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">536</biblScope>
+			<biblScope unit="page" from="312" to="316" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Perovskite solar cells with CuSCN hole extraction layers yield stabilized efficiencies greater than 20%</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Arora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="768" to="771" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Efficient and stable large-area perovskite solar cells with inorganic charge extraction layers</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="944" to="948" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A generic interface to reduce the efficiency-stability-cost gap of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="1192" to="1197" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Tailored interfaces of unencapsulated perovskite solar cells for &gt;1,000 hour operational stability</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Christians</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="68" to="74" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Improving efficiency and stability of perovskite solar cells with photocurable fluoropolymers</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="203" to="206" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Design and understanding of encapsulated perovskite solar cells to withstand temperature cycling</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cheacharoen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="144" to="150" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">In situ observation of heat-induced degradation of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Divitini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">15012</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Mapping electric field-induced switchable poling and structural degradation in hybrid lead halide perovskite thin films</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Leijtens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1500962</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Migration of cations induces reversible performance losses over day/night cycling in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Domanski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="604" to="613" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Surface optimization to eliminate hysteresis for record efficiency planar perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3071" to="3078" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A strategy to produce high efficiency, high stability perovskite solar cells using functionalized ionic liquid-dopants</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1702157</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Enhanced photovoltage for inverted planar heterojunction perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page" from="1442" to="1446" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Critical role of interface and crystallinity on the performance and photostability of perovskite solar cell on nickel oxide</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1703879</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Real-time observation of iodide ion migration in methylammonium lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">1701711</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Unravelling the role of vacancies in lead halide perovskite through electrical switching of photoluminescence</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guerrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Huettner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bisquert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">5113</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Light and oxygen induced degradation limits the operational stability of methylammonium lead triiodide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bryant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1850</biblScope>
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Fast oxygen diffusion and iodide defects mediate oxygeninduced degradation of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aristidou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">15218</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Role of microstructure in oxygen induced photodegradation of methylammonium lead triiodide perovskite films</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1700977</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Flexible high power-per-weight perovskite solar cells with chromium oxide-metal contacts for improved stability in air</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaltenbrunner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1032" to="1039" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Crystalline-silicon reliability lessons for thin-film modules</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R G</forename><surname>Ross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. 18th IEEE Photovoltaic Specialists Conference 1114-1020</title>
+		<meeting>18th IEEE Photovoltaic Specialists Conference 1114-1020</meeting>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Enabling reliability assessments of pre-commercial perovskite photovoltaics with lessons learned from industrial standards</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hacke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="459" to="465" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Efficient perovskite solar cells by metal ion doping</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="2892" to="2901" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Solvent engineering for high-performance inorganic-organic hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="897" to="903" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Reproducible planar heterojunction solar cells based on one-step solution-processed methylammonium lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="462" to="473" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Efficient and air-stable mixed-cation lead mixed-halide perovskite solar cells with n-doped organic electron extraction layers</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1604186</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A hole-conductor-free, fully printable mesoscopic perovskite solar cell with high stability</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="295" to="298" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Colloidally prepared La-doped BaSnO 3 electrodes for efficient, photostable perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Shin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="167" to="171" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Efficient and stable solution-processed planar perovskite solar cells via contact passivation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="722" to="726" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">23.6%-efficient monolithic perovskite/silicon tandem solar cells with improved stability</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Bush</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17009</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<idno type="DOI">10.1038/s41586-019-1357-2</idno>
+		<ptr target="https://doi.org/10.1038/s41586-019-1357-2" />
+		<title level="m">Letter</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Planar perovskite solar cells with long-term stability using ionic liquid additives</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

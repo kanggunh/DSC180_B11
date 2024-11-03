@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="vi">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>267 3 67 7 3 17 0 2 7 23 247 65 23 7 5 7 3 6 97 3 7 9243 65 165 7 0 993 67 5 7 3 164 67 993 7 2924 3 17 67 99 282 87 65 7 63 7 2 !2933 63 1 2 &quot;#$ % 1&quot;7</addrLine>
+									<postCode>0123 2425 3 67 89 9386065 68246 9220 63 6502 63 7 26828 2497 3 925 685 5 65165 7 0 2497 997 925 685 5 93 9622465 3863</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<address>
+									<addrLine>2981693 15 &amp; 627 !&quot; 267 7 7 &apos;&quot; 2897 # 7 9 67 465 33 623 7 6$7 96165 7 67 2 (117 685 5 965 6 6963 7 65 917 8168202927 )3 92!&quot;&apos;&quot; 6 *92 3 1 &quot; 97 3 6</addrLine>
+									<postCode>65863 7 2981695 1930 27 02497 3 925</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<address>
+									<addrLine>1820297 3 7 23 7 9 3 16608 93 65</addrLine>
+									<postBox>% 23 43 567</postBox>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<address>
+									<addrLine>5 7 63 7 27 3 7 89 6493 67 5 7 3 23 685 5 9 + 67 3 7 2 02497 3 925 685 5 98667 467 6 817 3 83 9 97 66 81867 3 28 25 7 7 63 663 7 223 9 8629 + 3 17 90 7 47 5 50 247 624 47 2 663 7 2 23 97 1 33 23 15 8283 25 6 63 10 2 993 827 3 1967 5 3 1 213 7 23 10 83 686 58609&amp; 5 63 7 2 :83 95 3 9 9 7 25 62 63 2 293 63 3 163925 6 85 5 967 3 15</addrLine>
+									<postCode>26017 80169893 65 195 3 63925 6295 83 4823 6835 6917 9083 6165 7 0 2497 3 97 16316967 24 2497 3 93 6165 7 0 2497</postCode>
+									<settlement>7</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<address>
+									<postCode>9867</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<address>
+									<addrLine>193 67 93 93 66 47 23 1+ 3 63 7 265 ;5 83 23 817 865*27 997 2 + ;* 6)87 3 7 7 5 93 2 2 0 2497 3 925 685 5 9 (17 90 9083 7 467 93 296 7 3 1 630 2 993 67 5 7 3 2897 23 10 7 2 &lt;3 63 1203 7 &amp; 7 93 7 847 3 1636 663 7 20 25 9164 925 4 63 16329323 1 97 5 5922 &lt;17 5 3 1 6 692 892 663 7 23 17 90 908&amp; 3 7 47 5 5</addrLine>
+									<postCode>6593 67 5 7 3 3 93 993233 16316967 3 16 6293 2497 3 692 686095 63 2892 28 656 693 163164 65 5 8297 690 2497</postCode>
+									<settlement>87</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<address>
+									<postCode>96027</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<address>
+									<addrLine>67 5 7 3 &amp;(1 6593 67 5 7 3 &amp;&quot;3 2901 7 893 67 5 7 3 &amp;;5 83</addrLine>
+									<postCode>9616483 5 9 6364689 &amp;=3 83 6593 29686095 63 7 2</postCode>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CE17FDDEFFC32B782001D4C25D09B1CE</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>! &quot;# $ %&amp; &quot;&apos;()#*&quot;+</term>
+					<term>&quot;+-).)</term>
+					<term>&quot;#*.)/&apos;/ # 0&quot;1</term>
+					<term>&apos;2</term>
+					<term>&quot;+&quot;13 .)/453.6) 3! /)/ 17</term>
+					<term>&amp;8 ! /</term>
+					<term>./ /</term>
+					<term>7 1/ 9:. &quot;+ &quot;.</term>
+					<term>&quot;+/ 9.7! ! &amp;2 ! ).&quot;&amp;&quot;! &quot;/;&lt; ! .)&quot;/ + 5=) / ! )</term>
+					<term>&gt;. &quot;. )&amp;:&quot;? ! &quot;! (! 1@.7! &quot;/ #! )9)&amp;</term>
+					<term>. &amp;1/ !? .</term>
+					<term>! . ?</term>
+					<term>&quot;77</term>
+					<term>&quot;!/ .8?! : / ! 95) 7</term>
+					<term>7.! &amp;1.</term>
+					<term>?! )!7</term>
+					<term>&quot;+! : / ! 9 .&quot;.</term>
+					<term>&quot;? . &quot;+7</term>
+					<term>&amp;8 ! /</term>
+					<term>./ / #&quot;11.</term>
+					<term>?! )</term>
+					<term>.&quot;!1&amp;&quot;.1 &quot;! )</term>
+					<term>5 =2 / /1&quot;!</term>
+					<term>! ! )!! )/ (! &quot;! ! )</term>
+					<term>?!</term>
+					<term>(.! (</term>
+					<term>/ #! )</term>
+					<term>/ #&quot;1&quot;&amp;</term>
+					<term>&quot;&quot;! / ! : / ! 9</term>
+					<term>./ / 9/ &quot;81#&quot;1! )!</term>
+					<term>! &quot;/1 +&quot;?! )7</term>
+					<term>&amp;8 ! &quot;1.</term>
+					<term>? (/&quot;.7(/ ! &quot;.&quot;</term>
+					<term>(/ ! &quot;&gt;. &quot;!&quot;1! :/ 7</term>
+					<term>&amp;8 ! /</term>
+					<term>./ / 5=2 / /.&quot;./ (12 ! )&amp;</term>
+					<term>97</term>
+					<term>&quot;+</term>
+					<term>(/ ! #1&quot;!</term>
+					<term>! &quot;+7</term>
+					<term>&amp;8 ! /</term>
+					<term>./ / 7 &quot;+&quot;A B-17)!! : / ! 9! ! 5</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>¹M G ºG »M ¼½¾¿ÀÁÂ ÃÄ ¿ÅAEÃÇ¿È#ÉÊËÌ#Í# ËËÎÏÐ *. &amp;1ËÐ! )Ñ"(, 9ÉÊËÌ 0..7! 1ÉÏ! )3, .)ÉÊËÌ 4ÒA ÓËÊ5 ËÊÐÔÕ .Ì! ÊÊÎÐÎ? H ¼LD Ö M × ØÙG ºH M ÙÖ ¼ÚÙ ÛÜÝ Þß àáâ ãäåÝ Þae ÛÜçèàéäåêàëÝ çì éàíîÜçïÝ Þ ì â éðñòó ôõö÷ø ùú õûüùýõþÿðñòóÿÍÿòò0123òò4ññ5CC678 914 831</p><p>3 74 3 67 6 4 ÿ ÿ ÿ !"# $ÿ %&amp;'( ÿ )* "ÿ +ÿ , -# . +ÿ / ÿ 0" / # "ÿ 1 ÿ 2"ÿ ) 3ÿ ÿ &amp;&amp;4 54 %6ÿ 78 798 5'ÿ !( ÿ :; &lt;=ÿ ?@ A ; BC &lt;ÿ DEC ; E&lt; :; &lt;=ÿ F GH@ EICÿ J ÿ :; &lt;=ÿ K LLH&lt;</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="vi">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="table">631 9898 345657 58 8 5 1 3*+, ( 71 41 35  5198 97 5 693 57 1 39730 3323 456 735  5 4798 1 71 3 34 75 7499 931 36738 37 1 599 31  54 71 98 8 35965 575 3 57 1 397371 919 351  7 1 3 551 558 1 9 453 91 5-3 93 57 1 3973 7  5 63</ref>  <ref type="table">71 5 1 591 8 1 8 8544 1 3*7 1 3  491 5 731 3638 7698 8 8&lt; 34 71 5 1 57798 8 378 1  1 31 959855 1 5 562 43 57 1 39737 1 39 3 38 9  1 38 7698 8 =3 51 538 341 5 4 53 1 3758 39 98 3   3 57 1 3 1 37397379 33 7 6 8 9</ref>  <ref type="table">379 5 491 5 5 1 792 8 1 1 5 5 6  93 57 1 34 71 9871 41 39339 5 491 55  31 31 7973 73341 31 52342 41 CDE253 91 3 1 5  1 31 31 959855 1 5 562 4973749 941 3 4328 39  98 3541 93 98 71 5 1 591 8 1 1 F GHCHF I2 J3758  5 1511 917 431 3 5 4 9 51 34571 1 31 7495123  1 9397992758 1 398 3 37341 351 325 3</ref>  <ref type="table">8 198 3 8 11578 1923 6 3 6 8 13 8 8 3 6 8 8 1 6 23 45  8 1 8 212,</ref><ref type="table">618 218 13 23 4556 278 3 5 3 3 8 5) 1998 3</ref>  <ref type="table">13 8 3 8 5 8 1753 551  3 6 3 6 3 8 8 3 193 453 56 8 G8 8 3 3 21956 2 6 5  5 228 3 8 21 6 53 6 3 6 8 1 @48 53 8 21 4   95213 6 3 593 433 18 13 4508 3 5228 3 8 213 28 6 25  3 6 3 6 3 8 8 3 2496 3 8 8 1H515213 48 3</ref>  <ref type="table">8 6 2F  8 8 1623 5 26 6 9&gt;2513 8 1 263 45 6 58 218 6 98 2  %08 3 43 45 56&gt;51 53 45 26 3 8 2122219  3 435&amp;8 3 8 1 26 5 756 278 3 545365 513  3 556 3 6 5@48 2219213 8 1122 3 8 558 519  8 3 45&amp;53 593 2526 53 456 3 53 413 4523 456  3 6 3 6 3 5221990</ref> <ref type="table">3 3 1833 1  86 76 3 23 12 896 83 6 29886 90 88 8 08 36 93 1  72026 3 6 29083 1*8"+8 3 3 6 3 3 6 9,+*6 3 1-+  897. 2/12 7 36 96 0 2 76 3 893 2256 783 6 29897  93 72026 3 6 29" 9 93 0986 3 1 897  2*2 ! 1 208 73 13 86 6 3 832096 6 3 2-+ 2</ref> <ref type="table">3 6 3 3 6 29283 16 28983 896 29 2223 18293 1  6 3 2,</ref><ref type="table">+7 8 5`0 /\ ` 4 3 6 93 1 2 83 6 29280 2 !6 3  20297*6 3 16 6 8203 2 3 296 0 20 3 6 3 2,</ref><ref type="table">+78 4 3  9189726 3 3 86 6 3 "0 83 76 18 6 92 02 83 7  0/\ 6 93 2,</ref><ref type="table">+7 8 5`0 /\ ` 4 8978 3 1213 1213 1583  293 9320/\6 9 873 23 17026 3 6 2923 78  18 7293 83 73 1833 10 2 !6 3 86 93 86 96 3 18 84  3 6 3 6 82 03 6 292 8912 83 83 73 0 83 897  16 76 3 *6 3 1 7 6 7293 83 6 9 91897 26 3  3 86 6 3 2</ref>  <ref type="table">5783 6 290 2 !6 3 3 226 9  3 1328 23 10 20 3 6 3 3 8 3 1 8 89783 24  01 6 3 86 6 3 "</ref> <p>,8!6 9gb77 7972000 2 !6 3 3 3 2W 8923 1 23 3 2*8 776 96 9 3 8 0 2 !6 3 3 4 3 " 1F 1I $ 8 2 896 83 6 29 2 g 13 3 183  <ref type="table">40 7 00 9"91 8 51 944 "99" 940 2 7 0 81947 0 46  0 2 39849"91 271 654*2 9" 3637 8427 7591 # 61 239  7 644943916591 20 636"91207 9240`%%61 4934 390 27  97 90 1 694 32 93063 0 634a b \ \ 1 957 2 30 990 27  97 90 1 694 30 9 19" 921 0 90 1 967 7 /97 81 947 0 3"91</ref>  </p><formula xml:id="formula_0">hhijklmnopq rs nturvnwxyz{|x}x{{~{{zz yz{| ¡ ¢ £ ¤¥¦¢ §£ ¤¡ ¨© ª¢«£ ¢¬ ®¯°± ² ³´µÿ •¸ÿ ¹ºÿ »¼½ ¾³ÿ ¹¿ÀÁÂ ÿ Ã•Ä¸°•¼µ´µÿ ¯Åÿ AE¸± Ç´½ ² ± È Åÿ •É ÿ Ê¼°± É •½ ¸± ¼ÿ Ë ÿ Ì¼¸ÿ Ã± ´Í•ÿ •¸ÿ ÀÀÎ ÏÎ ¹¿¹Ðÿ ÑÒ ÑÓÒ ÏÁÿ »Â ÿ ÔÕ Ö×ÿ ÙÚ Û Õ ÜÝ Öÿ ÞßÝ Õ ßÖ</formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>VW XYZ[\]_ Y`[a_ Y_ bcbdẐ[\be^Yb\\bcf ghe[`\bcbi]f [c^jke_ [Y]_ bcelmel\[Ẑgf ]\\bc_ h\l]c`d bn \]\_ `_ c_ h\_ cbn `[nbd_ bc_ Y e_ o[p ]q rsn [g`[a_ YêY]n tbcltf h[c_ n bu[cl]c`vZ_ [Zg`n bu[crwxa[n biey_ [en hYĥn [e]n [eZbvc_ cp tz`q {p tq`[a_ YêẐ[Z_ uZeg\\[n g Yht_ YaZ]e[lp YqẐ[[n ]ubc]faZ]e[l]c`p `qẐ[bn Ẑbn Zb\t_ YaZ]e[r|Z[g[f f bvl}xlcbca[n biey_ [aZ]e[bdme~t w _ e]f eb`_ eaf ]g[`_ cp [q r [an _ c[`d n b\n [d rwv_ Ẑa[n \_ ee_ bcd n b\Ẑ[j\[n _ Y]c~Zge_ Y]fXbY_ [ĝr ¡ ¢£ ¤¥¦¦ §¦¨©ª«¬WW®¯ § °±²³ ±´µ ¶•1º» ¶¼½º¾ ±3 º» ¿ÀÁ±Â³ ¿¾ ÃÄ ÅAEÇÈ É Ê ËÌÍÿ ÏÐÿ ÑÒÿ ÓÔÕ ÖËÿ Ñ×ØÙÚ ÿ ÛÏÜÐÈ ÏÔÍÌÍÿ ÇÝÿ ÞÐÉ ßÌÕ Ê É à Ýÿ Ïá ÿ âÔÈ É á ÏÕ ÐÉ Ôÿ ã ÿ äÔÐÿ ÛÉ ÌåÏÿ ÏÐÿ ØØae çae Ñ×Ñèÿ éê éëê çÙÿ ÅÓÚ ÿ ìí îïÿ ñò ó í ôõ îÿ ö÷õ í ÷î</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>4508 3 53 275%0 *I &gt; I '( ) *+ ,6 + -</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>bZ cOd e fghijklfm n in o o pqm r fm n stm jkn luvr m fsikvwm jkxqn m kifm n vsqn ykvsm vo kr fsikw fim vrfszqm r pim pr four vukr m n kq{hp|qm n m pm n stqlfo oflvpsm q vw}x~n m jqvsm jkxqn m kr kqpo m qn slvr kqm r pim pr fo o qm f|o kivluvpszq{e |ghvo friko oukr w vr lfsikvwf}x| fsz}x { q { vkrm n lk qm vr kzn sm jkzfr fmr vvlm klukr fm pr kfsz{kur n sm kzw r vlr kw {~n m jukr ln qqn vsw r vlm jkxlkr n ifsjkln ifohvin km { ¡¢£ ¤¥¦ § ¨©ª«¬ ® ©¯°±©²³¤¥¦ §³´³¦¦µ ¶•¸¦¦¹¥¥º»»¼½¾ ¿ÀÁÂ ÀÃ ÄÅAEÇ ÈÉÊÅËÌÉÍ ÀÇ Â ÉÊ ÎÏÐÀÑÂ ÎÍ Ç ÒÓ ÔÕÖ× Ø Ù ÚÛÜÿ Þßÿ àáÿ âãä åÚÿ àaeçèé ÿ êÞëß× ÞãÜÛÜÿ Öìÿ íßØ îÛä Ù Ø ï ìÿ Þð ÿ ñã× Ø ð Þä ßØ ãÿ ò ÿ óãßÿ êØ ÛôÞÿ Þßÿ ççõ öõ àaeà÷ÿ øù øúù öèÿ Ôâé ÿ ûü ýþÿ 01 2 ü 34 ýÿ 564 XYZ [ \\]^_`abcd efgd \hi ecj d i k\]\l mni n[ aop`fqrps_t u n\evl cnvd cv\d c^wx y\nj fi kbi fecj d i knm]j bcni n\nzcl l\n_m\nm]j bcni n{ni ]gs_|l } \nj bcl c\^vd ck{d nfd ~[ k`q fk{ncnf]j bcd cgi f]i ]zbi kbj bcfd g\]i kkfevf{]^n\d c_ci ]gchfl hc^q d fej bcn\evl cn~cvd i ]j c^q d fed cq ~uuzi j b vcd ei nni f]q d fe j bcpecd i k\]|bcei k\lfki cj m~sbfj fl {ei ]cnkc]kc[ s`nvckj d \q fdn\evl cn\]]c\l c^\j 9 |i ]h\d mi ]g\j efnvbcd cn\d c ^cvi kj c^i ][ ^`abci ]ncjbi gbl i gbj nj bcchfl {j i f]fqsq d fes_t } ^cgd \^\j i f]vd f^{kj n~cvd i ]j c^q d fed cq ~uzi j bvcd ei nni f]q d fei l cm ¡¢ £¤ ¥¦ § ¨©ª¢ £« ¡¬¥®©ª¯¥°¢ ¬± ®¥²³¡¬´¢ £± § ® µ ¶•1º» ¶¼½º¾ ¿À º» ÁÂÃ¿ÄÀ Á¾ ÅAE Ç¿ÈÀ ¿É ÊËÌÍ Î Ï ÐÑÒÿ ÔÕÿ Ö×ÿ ØÙÚ ÛÐÿ ÖÜÝÞß ÿ àÔáÕÍ ÔÙÒÑÒÿ Ìâÿ ãÕÎ äÑÚ Ï Î å âÿ Ôae ÿ çÙÍ Î ae ÔÚ ÕÎ Ùÿ è ÿ éÙÕÿ àÎ ÑêÔÿ ÔÕÿ ÝÝë ìë ÖÜÖíÿ îï îðï ìÞÿ ÊØß ÿ ñò óôÿ ö÷ ø ò ùú óÿ ûüú ò üó</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>A B CDEFG H IG JCKLFIMFGN O JFIHPQERB S T UV WG V D X IKFYZI[\G FN I]\JO ^O N _O KN ]F^CG `ab]FG F^[FLN O IKLIG G F[ZIK^[N IC^C_[ZFKNO KccdefCN G IIJ N FJZFG CN \G FagQ ha iX j[ ha T k ERB S ha l WG ha m D X LIJZCG F^N IN ]CNIHPCERS X O K[In CGLFn n [oO N ]CK^oO N ]I\N^IZO KpIHN ]Fj lh H \n n FG FKFFn FLN G IK [Fn FLN O MFLIKN CLNB RD aeFZG O KN F^H G IJG FH akXoO N ]ZFG JO [[O IKH G IJN ]FQJFG O LCKj]FJO LCnqILO FN _ab]F\K[FCn F^[In CGLFn n [oFG F]Fn ^CNIZFK LO G L\O N\K^FGH \n n[ZFLN G \JQPTa crO G G C^O CN O IKab]F[CJFFYZFG O JFKNoC[ZFG H IG JF^H IG^FMO LF[FKLCZ[\n CN F^\[O KpN oIsZCG NFZIY_CK^pn C[[ [n O ^F[B LD at ih G FH FG [N IN ]FN O JFN C`FKH IGN ]F^FMO LFZFG H IG JCKLFN IG FCL]ihdIHN ]FO KO N O CnMCn \FuO pKIG O KpN ]FO KO N O Cnv R\G KO Kw^FLC_aeFZG O KN FĤ G IJG FH ackoO N ]ZFG JO [[O IKH G IJxO n F_a =&gt; ?@y B QCK^WDqN G \LN \G FIHz{e\^^n F[^FKEIZZFGZFG IM[`O N F[E|QD z PQ z ER X S T h ^FMFn IZF^R_qJO N ]}~ eFZG O KN F^H G IJG FH akcoO N ]ZFG JO [[O IK H G IJxO n F_aB jDqN CRO n O N _IHB WQD z B PQD X ER m S T X e\^^n F[^FKEIZZFGz{ZFG IM[`O N F[In CGLFn n [LIJZCG F^N IN ]I[FIHPQERS X ZFG IM[`O N F[In CGLFn n [uCN IZFKLO G L\O N\K^FGCJRO FKNLIK^O N O IK[CK^QPTa crO n n \JO KCN O IKaB {D|KLCZ[\n CN F^[N CRO n O N _IHN ]F[CJFaeFZG O KN F^H G IJG FH akloO N ]ZFG JO [[O IK H G IJCN \G FE\Rn O []O KppG I\Za ¡¢ £¤¡¥¦ § §A §¨©ª«¬®®¯°® ±²³2µ ¶•¸¹ º»¼•½¾»¿ ²¹ »¼ ÀÁÂ²ÃÀ¿ ¹ ÄÅ AEÇÈÉ Ê Ë ÌÍÎÿ ÐÑÿ ÒÓÿ ÔÕÖ ×Ìÿ ÒØÙÚÛ ÿ ÜÐÝÑÉ ÐÕÎÍÎÿ ÈÞÿ ßÑÊ àÍÖ Ë Ê á Þÿ Ðâ ÿ ãÕÉ Ê â ÐÖ ÑÊ Õÿ ä ÿ åÕÑÿ ÜÊ ÍaeÐÿ ÐÑÿ ÙÙç èç ÒØÒéÿ êë êìë èÚÿ AEÔÛ ÿ íî ïðÿ òó ô î õö ïÿ ÷øö î 636#0 9 127 94* 7 967 47 9441 920 "9!4*238 630 2090 9930 990 2797 90 1 69230 9591 6"4/ 0 9 7 7 1 947 0 30 9# 61 20 636#27 2/90 2727 9*9459 27 7 820 97 9"20 90 9591 20 1 94232557 997 90 1 Y97 4]0 990 27 27 9 41 94 40 "923694360# 30 63242397 90 1 69 7</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>st r uvuwxpt yz{r |}~r uvq usp~~r pv yys u~~ ~pst r uvyz~syvvr vpz pst uvxr s u~suqpr xypuwyqp u~r t p{pr sp syqqp{r t qr upoyv{uz {yv{ psuv~t }st r uvuwt p uz {suvspvt yt r uvq uz pt u}t p~uz yspz zz yp ~y~p r p{ u py~~usr yt p{{ uqr v{pr spqp w u xyvspsyvpxr t r yt p{}~r vys uxr }x uz {r z yppz pst u{pt u~z u xpt yz {r |}~r uvytpz pyt p{t pxqp yt } p~ s pq r vt p{r t w ux pw r t qp xr ~~r uvw ux t pxp r syvpxr syzusr pt } t pr xq up xpvt ~y pxy{p pqz ysr vt pqr upo r t yquz xp r s { pq r vt p{w ux pw r t qp xr ~~r uvw ux t p xp r syv~~usr yt r uvw ut p{yvspxpvtuwsr pvsp ¡¢£¤ ¥¦ ¡ §¨¥©¡ª«¬®¯«3«®®°±²³®®´ µ ¶• ¸¹ º»¼ ½¾¿• ¸À µ ¶ÁÂºÃ¾¿ÄºÅ• ÁAE ÃºÇÈ ¶ÁÉ• ¸AE ¼ Ã¬®Ê ËÌÍ ÎÏÐËÑÒÏÓ ÔÍ Õ ÏÐ Ö×ØÔÙÕ ÖÓ Í ÚÛ ÜÔÝÕ ÔÞ ßàáâ ã ä åaeçè éêè ëìè íîï ðåè ëñòóô è õéöêâ éîçaeçè á÷è øêã ùaeï ä ã ú ÷è éû è üîâ ã û éï êã îè ý è þîêè õã aeÿéè éêè òò0 10 ëñë2è 34 354 1óè ßíô ] ^_ `ab c b _ defghiaj k lmnb ompqrms m_ rm_ etum_ `cmc mo_ s elmb ps mtc `omlad`ptv_ _ ms mlj wxc `dms ymz`ac mlad`_ rb zypec v_ b ezts eomppmlh{x z`zet`s _ b oc mav|msc `dms }wrmzes u`c b ~mltms f es u`zomf es`ze_ rms qb pmvzmzo`tpvc `_ mlpec `somc cetms `_ ml`_b _ pu`b uvu teqmsteb z_`_ b z`b s`zlvzlmspvzmvb n`c mz_b s s `lb `_ b ezf s eu`pvc f vstc `pu`c `utb ptc e_ _ mlb z ` yqrb c m ab p`tre_ es `tref_ rmp`utc mlvs b z_ rm _ mp_ }wrmdmc c eq`s m`b ptms enpb _ m_ r`_r`plms `lml_ eiaj yqrb c m_ rmas eqz`s m`b pts e_ mo_ mlad_ rmptv_ _ ms mlj wxc `dms`zlu`b z_ `b zpb _ p tms enpb _ mp_ s vo_ vs m`zl`ppeob `_ mlpec `somc ctms f es u`zom} lmze_ mp_ rm_ b um_ `mzf es_ rmlmnb omtms f es u`zom_ eams mlvoml_ eefb _ p b zb _ b `cn`c vm}mts b z_ mlf s eus mf }qb _ rtms ub ppb ezf s eub c md} ¡¢£ ¤¥¦ § ¨©ª«¬ ® ©¯°±©²³¤¥¦ §³´³¦¦µ ¶•¸¦¦¹¥¥º»»¼½¾ ¿ÀÁÂ ÀÃ ÄÅAEÇ ÈÉÊÅËÌÉÍ ÀÇ Â ÉÊ ÎÏÐÀÑÂ ÎÍ Ç ÒÓ ÔÕÖ× Ø Ù ÚÛÜÿ Þßÿ àáÿ âãä åÚÿ àaeçèé ÿ êÞëß× ÞãÜÛÜÿ Öìÿ íßØ îÛä Ù Ø ï ìÿ Þð ÿ ñã× Ø ð Þä ßØ ãÿ ò ÿ óãßÿ êØ ÛôÞÿ Þßÿ ççõ öõ àaeà÷ÿ øù øúù öèÿ Ôâé ÿ ûü ýþÿ 01 2 ü 34 ýÿ 564 ü 6ý</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,84.70,478.38,425.95,202.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,98.93,50.57,397.60,221.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,98.93,510.01,397.60,150.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,127.28,355.58,340.76,285.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>m87 nopqrs t uovowxyz{| } rv~nuz{ | s }} } s pru r{t t r 2 nt vr r pouqs rrv~{ qs t v ~w s op s w }t qs pt uut ovw s op yps t rvnpt rot nopqrs t uovowxyz{| } rv~yz{| } s pru r{t t r 2 nt vrt s qs t v ~w s ops w } t qs pt uut ovw s op orot ownpt u s nopqrs t uovowxyz{ | s } rv~y } nu z{ | s } s pru r{t t r} 2 nt v r r pouqs ~ qs t v ~w s ops w t qs pt uut ovw s op yps t rvyuuot r t ovw os y~rvpvowt v</figDesc><table><row><cell>ß ÷ åë aeß êä ù ä úêaeä ñß âûåä åaeä îîü ýü çíçþä ÿ0 ÿ10 ýïä Ûéð ä</cell><cell>0123 24 256 783 6 298979372026 3 6 29 3 0 4 256 7 896 298 2 782 8259803 0123 24 56 3 7 3 29 2 3 10 2 !6 3 2973 6 29897" #10 256 7896 29893 1970 23 2983 3 13 1 4 8296 83 6 293 2 36 972026 3 6 293 2 876 276 7 8973 1 86 986 6 83 23 13 1 87 8783 6 29 0 273 " #11896 0 2027$8%&amp;'( )</cell></row><row><cell></cell><cell>0 123456 578 9 256 578 56 59 6 58 9 8 59 659 8 2 5758 57 778 272559 8 28 5123 275 9 57 78 28 56 9 59 ! 2 " 78 5 8 579 572556 76 #5598 " 25 9 0 259 55259 6 6 9 5 78 2 252 8 5 972$ 8 57 8 6 57 78 28 5 54 ! 8 26 28 9 68 88 598 58 59 657 8 2 6 "5 2 559 % 8 5 98 9 52"56 68 5 6 5 788 8 8 5 59 &amp; 56 76 6 8 8 5 28 59 78 2 " 8 "8 59 !" 7 78 8 57 '5 28 59 78 2!2 "59 5 59 % 8 56 52755( 8 9 58 6 8 0 8 5 75 9 8 59 28 58 59 78 6 8 578 24 &amp;!8 56 8 6 8 8 59 2 778 29 5528 72759 2 98 58 59 68 6 8 59 % 8 56 9756 6 )"559 ! 9 56 7 28 56 8 6 578 2" 8 9*9 56 8 2 8 28 6 6 9 58 59 68 6 8 " 6 5 28 2 2 5 7559 9 275)59 5!"5 2888 858 5 5859 9 27559 % 8 56 9756 6 55525" 8 (5 8 578 2 276 26 628 +, -+, ./ 5 8 5555526 %58 59 9 26 8 6 5552259 6 6 28 2801 2 *59 6 628 2725 8 6 59 8 5 2756 6 9 78 2 856 2598 59 56 8 2 59 6 6 9 78 28 559 6 6 8 53559 8 56 5!8 5 8 59 68 6 8 7729 5 2276 592 6 58 9 6 56 8 5279 58 76 58 56 9 5572 2! 859 8 88 559 % 8 5 28 2*28 5 8 56 6 6 " 98 558 6 57 28 28 9 78 9 628 59 68 6 8 2 6 547 5286 9756 6 255!8 56 8578 2" 6 69 5528 559 9 57528 6 6 552 2528 9 8 28 86 9 756 6 5 9 8 557272 28 9 8 29 6*8 59 68 6 8 8 58</cell><cell>HIJKLMN MOPQLOOLKR SOST N UM 38 55(8 59 26 78 9 8 8 2V52755 7278 959 9 275!(522 8 9 5558 589 6 6 6W8 5726 556 58 8 5X59 9 59 8 2 2 8 59 552758 558 "59 58 9 59 !" 772( #5 26 6 #528 5 278 2672528 26 9756 6 659 56 56 9756 6" 6 652558 9 8 9 527 6 8 2!6 6 28 5 9 6 28 56 8 7Y 6 96 Y 6 7% 2 3559 8 56 5! 5227 2 8 5 28 9 2 7 8 6 8 25276 8 56 9756 6 59 88 58 "9 9 56 ( 28 595Z 9 5528 95276 8 259 % 8 56 9 756 6 2529 28 85276 8 252759 7 6 79 8 6 6 2528 256 W" 6 6547 528 959 % 8 5 6 9756 6 228 559 % 8 56 9756 6 8 88 5 76 55 28 V5( 6 5W 6 5)59 5!8 9 5276 8 2 9 5 476 8 !28 5588 59 7 9 9 596 59 7259 8 56 5(52 5 2!8 59 5 8 6 58 525276 8 56 9756 6 !8 56 58 9 25288 5 5276 8 29 5Z 9 5528 " 6 65!59 526 2V5( 6 5 59 % 8 56 5 2[56 6 5\8 5528 9 8 58 859 % 8 56 9 756 6 7258 9 5 2 52872 8 2 28 59 % 9 28 " 8 87258 8 5 959 9 275!58 28 8 8 58 59 6 9 528758 6 58 ( 8 2 28 59 2 8 8 5 .], .^_ 59 8 )Z527"9 %59 .+`.. "56 6 59 2abcd e .f 528 9 8 58 8 72595 6 8 ( #5!"559 59 2abcd e528 9 8 58 8"525 259 g 1h 9 9 8 2 2gij 9 3 k 8527 9 7 8 ! 6 9756 6 " 6 659 58 kij 8 5 9 2 8 659 9 275" 8 2559 69 )Z59 5572 9</cell></row></table><note><p>78 9: ;&lt;=&gt;?@A B C=: DEB F B : G lB ¡ ¢ £¤¥ ¡¦ § £¥©ª£« ¥¬®¯°±²³μ ¶ ±•¸µ¹±º»¬®¯»¼»®®½¾¿À®®ÁÂÃÃ7ÄÅ AEÇÈÉ ÇÊ ËÌÍÎ ÏÐÑÌÒÓÐÔ ÇÎ É ÐÑ ÕÖ×ÇØÉ ÕÔ Î ÙÚ ÛÜÝÞ ß à áâãä åaeä çèä éêë ìáä çíîïð ä ñåòaeÞ åêãâãä Ýóä ôaeß õâë à ß ö óä å÷ ä øêÞ</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>wwxyz{|}~ }} ¡¢ £ ¤¥¦ £ §¨©ª «¬¨®¯¬°±ª ² ¬ ³´µ± ¶² ³°ª •¸¹±º² ±» ¼½¾¿ À Á ÂÃÄÿ AEÇÿ ÈÉÿ ÊËÌ ÍÂÿ ÈÎÏÐÑ ÿ ÒAEÓÇ¿ AEËÄÃÄÿ ¾Ôÿ ÕÇÀ ÖÃÌ Á À × Ôÿ AEØ ÿ ÙË¿ À Ø AEÌ ÇÀ Ëÿ Ú ÿ ÛËÇÿ ÒÀ ÃÜAEÿ AEÇÿ ÏÏÝ ÞÝ ÈÎÈßÿ àá àâá ÞÐÿ ¼ÊÑ ÿ ãä åaeÿ èé ê ä ëì åÿ íîì ä îå</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="table">1 5257 42 8 771 4541 7 1 5  2 32 322 3 41 2 641 2 1 5542 1 1 2 57  2 31 6 2 5 1 2 2 745754 2 1 5  62 1 54 8955 72 32!"43 71 77  1 52 31 52 4242 1 1 2 #2 331 21 442 2 42 81 25  4 1 6 62 3 41 2 42 2 2 2 72 6 2 4  57642 362 1 4541 2 1 2 2 643 1 42 444"4  4 2 892 572 "</ref>  <ref type="table">65748931 3  42 2 572 643 1 42 8576421 6 /  2 52 8 2 3 6 42 03 2 2 1 41 6 2 522  522 3 67641 2 1 52 54 451 5  54 2 767 482 42 5 54 2 1 52  $ 1 2 '0342 4$ 3</ref> <ref type="table">57 857 2 474 52 95  54 2 71 52 31 498 41 2 4 4&gt;31 1 2 7  5 752 742 1 1 2 952 364271 2* G'2 42 42  441 42 376322 42 8931 352 1 4$111325J 2 '57  5JH 7E954 2 74 471 7527 71 5  65251 6 7935 71 57632  3625J 2 '575JH7E $1113) 1 C7-031 6 1 /  2 1 54 5 1 5 41 2 4 4B  4 2 1 52 3 41 2 641 2 1 5 94552 1 5  54 2 1 52 7K2 2 22 3 41 2 62 1  62 643 1 572 3 67 72 1</ref>  <ref type="table">16 4 6 9 6 7 2 16 9 14 324 4 1737 12 36 4  9 2 18199 39 2 6 34 3756 4 9 2 6 ;</ref><ref type="table">0 2 14 324 4  3771539 6 4 6 39 6 179 14 178;</ref><ref type="table">9 2 9 36 4 6 9 32</ref> <p>74 32 ?@A BCA DEFDG 79 512 <ref type="table">32 82 132 79 4  179 2 39 9 399 6 214 324 4 H20 2 1 3 34 437  2 2 6 4 4 16 72 0 12 37129 12 102 3412  9 399 36 879 16 176 82 39 6 176 79 H96 2 2 6 4  9 16 9 396 56 4 47194 39 14 178;</ref><ref type="table">9 2 82 339 6 17 CIA ?@ J7  9 19 23719 22 32 82 1K 6 74 6 7812 4 L  3715179 2 39 MNN1012 9 34 12 39 6 17399  36 15216 7956 9 712 16 72 0 12 37539 1;</ref><ref type="table">2 96 74 3252 9 6 H2 79 0 2 1O6 914 9 1  156 9 9 16 6 74 9 6 179 39 129 312 24 32  6 9 4 0 ?A DA I 736 9 6 176 96 16 4 9 399 6 1719 6 179 39  12 2 0 2 1 12 39 6 172 6 789 314 2 2 39  76 8914 17836 96 7196 7376 2 2 2 6 4 239 6 1712  3789 19 14 324 4 P2 9 4 76 4 6 1714 324 4  3H2 0 2 1319 79 6 346 782 339 6 179 392 4 9  0 2 1371H99 579 19 79 6 34109 14 324 4 399 7  1039 2 6 781014 379 82 17 G@ #6 3726  H9 6 734 39 6 17354 4314 376 72 9 2  96 92 36 772 9 36 759 29 6 86 176  16 4 6 9 102 16 9 56 4 46 79 2 175 1212</ref>    <ref type="table">69 590!Q9 5 0 ?521 4,</ref><ref type="table">? 91 1 5 1 5?9 1  *5 2$1 5O 9?5 2} 50O 961 1 785 0431 61 1 7  90Q1 F%31 537hWd q&gt;hW67</ref>   </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">&amp;</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-+</forename></persName>
+		</author>
+		<title level="m">+2/0+1</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">4323</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">16 ? I563 2?6 R SCNT BCD !&amp;U% !)&apos; (*!8(*,+</title>
+		<idno>&amp;V0 +03 W6 5+5 3 6 :+; 43 6 12-+?775&gt;+:6 5115WW2 +5/56 .+96 55/5515+I+954155 2?6 6 793 6 46 12A</idno>
+	</analytic>
+	<monogr>
+		<title level="j">+66</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="2" to="P76" />
+		</imprint>
+	</monogr>
+	<note>74 1 +9+&gt;7/ O+1 543 ?5110+1 243 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>W1 + &lt;</surname></persName>
+		</author>
+		<idno>+23 3 5&lt; 6515+3+53 ?215:+36 7453 21</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">+9+[514 O+ &lt; +4514\+214+41+\42i+41</title>
+		<idno>+I6 +0953 72 51</idno>
+		<imprint/>
+	</monogr>
+	<note>5140 ?=3 22 56 3 56 6 2A &apos; (,8V!+ ,&quot;5+0+46 /45+63 59+5+5e3+6+35/46 +0+:22 ++5 453 A51.+O5 ?2=43 6 7-j7 21 4</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">!</forename><surname>&amp;+</surname></persName>
+		</author>
+		<title level="m">216 ? I5 V V8V!+ ,&gt;+.+&gt;+9o 95421</title>
+		<imprint>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+	<note>++I+1 +0?6 3 22 0+.+1 +63 51 1 +3+03 3 51 6++9o 34519+:3 5 W 9+ 8+ 5W3 6 1 51 + 5+ 5e 0 ?=3 22 -126 3 21?1 5 56 6 2A 93 4516 7 I5 .3 6 45</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L !(</forename><surname>^h%</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">'</forename><surname>!) &amp;!v)+</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename></persName>
+		</author>
+		<idno>743 .+96 55/5.++93 5/5?651 +1 +156 4-P76 13 6 2 53 652192&lt; A 23 ?517 51 56 6 13-25</idno>
+		<imprint/>
+	</monogr>
+	<note>I53 Jnb. =3 5 3 51I214&lt; .3 ? I6 44 25/6 14 2A .3 6 = &lt; I53 92=23 2 ;3 22/6 ;42 222 56 7KL MNuFCZ !,$% )&apos; ,,!8,,,+</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">*(8&quot;&amp; (+ )&quot;1 +5+43 6 6 51</title>
+		<author>
+			<persName><forename type="first">L !</forename><surname>^_% *</surname></persName>
+		</author>
+		<idno>56 7 -P76 17 2A</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page">222</biblScope>
+		</imprint>
+	</monogr>
+	<note>+5+96 3 5153 3 3 551;+X+85?5 .3 51A 23 ?5 6 21 2A 4 -@76 5 51</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">7416 eJBE !,h% &apos; !*,8!*</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tg</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L-L</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">$</forename><surname>%&amp;</surname></persName>
+		</author>
+		<idno>7-./07^2 /L3 7/0../503</idno>
+	</analytic>
+	<monogr>
+		<title level="j">#g C&amp; &apos;( k %J</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<idno>/0.112 3456 78 39 :6 78</idno>
+		<title level="m">&lt;7= &gt;?@ABC 10D &gt;EF0AG&gt;E0?H3 8Z5</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">76</biblScope>
+		</imprint>
+	</monogr>
+	<note>O76 6 3 &gt;?@HPRC ED &gt;EFHG&gt;E0?3 0\32 (3( 7 8-3,9]KK39V 33* S &amp;33&quot;6 U7623^67 6 8( 988 U97 87 9 6S $ 6 ( 9#8 7 8Z5</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">¥¦ §© ª «¬ÿ ¯°ÿ ±²ÿ ³´µ ¶«ÿ ±•¸¹º ÿ »¯¼°¨´¬ÿ §½ÿ ¾°© ¿¬µ ª © À ½ÿ ¯Á ÿ Â´© Á ¯µ °© ´ÿ Ã ÿ Ä´°ÿ »© ¬Å¯ÿ ¯°ÿ ¸¸AE ÇAE ±•±Èÿ ÉÊ ÉËÊ Ç¹ÿ ¥³º ÿ ÌÍ ÎÏÿ ÑÒ Ó Í ÔÕ Îÿ Ö×Õ Í ×Î</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

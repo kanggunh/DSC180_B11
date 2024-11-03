@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">X-ray analysis of residual stress gradients in TiN coatings by a Laplace space approach and crosssectional nanodiffraction: a critical comparison</title>
+				<funder>
+					<orgName type="full">Materials Center Leoben Forschung GmbH</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Austrian Federal Government</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Styrian Provincial Government</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Austrian COMET Competence Centre Programme</orgName>
+				</funder>
+				<funder ref="#_QWd4zKx">
+					<orgName type="full">European Community&apos;s Seventh Framework Programme</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mario</forename><surname>Stefenelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Center</orgName>
+								<orgName type="institution">Leoben Forschung GmbH</orgName>
+								<address>
+									<postCode>A-8700</postCode>
+									<settlement>Leoben</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Juraj</forename><surname>Todt</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Materials Physics</orgName>
+								<orgName type="institution" key="instit1">Montanuniversita ¨t Leoben and Erich Schmid Institute for Materials Science</orgName>
+								<orgName type="institution" key="instit2">Austrian Academy of Science</orgName>
+								<address>
+									<settlement>Leoben</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Angelika</forename><surname>Riedl</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Center</orgName>
+								<orgName type="institution">Leoben Forschung GmbH</orgName>
+								<address>
+									<postCode>A-8700</postCode>
+									<settlement>Leoben</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Werner</forename><surname>Ecker</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Materials Center</orgName>
+								<orgName type="institution">Leoben Forschung GmbH</orgName>
+								<address>
+									<postCode>A-8700</postCode>
+									<settlement>Leoben</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thomas</forename><surname>Mu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Ru ¨big GmbH &amp; Co KG</orgName>
+								<address>
+									<addrLine>Durisolstrasse 12</addrLine>
+									<postCode>A-4600</postCode>
+									<settlement>Wels</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rostislav</forename><surname>Daniel</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Physical Metallurgy and Materials Testing</orgName>
+								<orgName type="institution">Montanuniversita ¨t Leoben</orgName>
+								<address>
+									<settlement>Leoben</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Manfred</forename><surname>Burghammer</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">ESRF</orgName>
+								<address>
+									<postCode>F-38043</postCode>
+									<settlement>Grenoble Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Jozef</forename><surname>Keckes</surname></persName>
+							<email>jozef.keckes@mu-leoben.at</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Materials Physics</orgName>
+								<orgName type="institution" key="instit1">Montanuniversita ¨t Leoben and Erich Schmid Institute for Materials Science</orgName>
+								<orgName type="institution" key="instit2">Austrian Academy of Science</orgName>
+								<address>
+									<settlement>Leoben</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">X-ray analysis of residual stress gradients in TiN coatings by a Laplace space approach and crosssectional nanodiffraction: a critical comparison</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0021-8898</idno>
+					</monogr>
+					<idno type="MD5">ED2B14FDE35C80A19CA85B6FD801A8E5</idno>
+					<idno type="DOI">10.1107/S0021889813019535</idno>
+					<note type="submission">Received 14 June 2013 Accepted 15 July 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Novel scanning synchrotron cross-sectional nanobeam and conventional laboratory as well as synchrotron Laplace X-ray diffraction methods are used to characterize residual stresses in exemplary 11.5 mm-thick TiN coatings. Both real and Laplace space approaches reveal a homogeneous tensile stress state and a very pronounced compressive stress gradient in as-deposited and blasted coatings, respectively. The unique capabilities of the cross-sectional approach operating with a beam size of 100 nm in diameter allow the analysis of stress variation with sub-micrometre resolution at arbitrary depths and the correlation of the stress evolution with the local coating microstructure. Finally, advantages and disadvantages of both approaches are extensively discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Protective hard coatings used for high-speed cutting and machining applications in the metal working industry possess complex depth gradients of phases, microstructure and residual stresses. Those gradients can be related to the effects of varying deposition conditions, self-organization phenomena like competitive grain growth, and/or post-deposition mechanical and thermal loads caused, for example, by friction between coating and counterpart <ref type="bibr" target="#b24">(Ohring, 2002;</ref><ref type="bibr" target="#b2">Cavaleiro &amp; De Hosson, 2006)</ref>.</p><p>X-ray diffraction (XRD) represents a common technique to evaluate residual stress gradients ðzÞ along the surface normal z in polycrystalline thin films and coatings from measured X-ray elastic strains using the sin 2 technique <ref type="bibr" target="#b23">(Noyan &amp; Cohen, 1987;</ref><ref type="bibr" target="#b13">Hauk, 1997;</ref><ref type="bibr" target="#b1">Birkholz, 2006;</ref><ref type="bibr" target="#b5">Faurie et al., 2009)</ref>. The inclination of the diffraction vector with respect to the sample normal is given by the angle . The measured lattice spacing dðhkl; ; Þ and X-ray elastic strains "ðhkl; ; Þ represent volume-average quantities which depend on the actual stress depth profile ðzÞ, X-ray penetration depth , reflection hkl and experiment geometry. In general, dðhkl; ; Þ and "ðhkl; ; Þ can be related as follows <ref type="bibr" target="#b4">(Do ¨lle &amp; Hauk, 1979;</ref><ref type="bibr" target="#b6">Genzel, 1996)</ref>:</p><formula xml:id="formula_0">"ðhkl; ; Þ ¼ dðhkl; ; Þ À d 0 ðhklÞ d 0 ðhklÞ ¼ 1 d 0 ðhklÞ R D 0 dðhkl; ; Þ expðÀz=Þ dz R D 0 expðÀz=Þ dz ;<label>ð1Þ</label></formula><p>where D is the coating thickness and d 0 ðhklÞ is the unstressed lattice parameter. By varying during a diffraction experiment it is possible to evaluate "ðhkl; ; Þ and ðÞ dependencies experimentally in the so-called Laplace space. For the quantification of the stress gradient ðzÞ from experimental ðÞ as a function of z in real space, however, it is necessary to solve a complex inverse problem similar to inverse Laplace transformation. Since the transformation between ðÞ and ðzÞ is not ambiguously defined, it is necessary to make very strong assumptions about the actual nature of the ðzÞ profile in real space <ref type="bibr" target="#b1">(Birkholz, 2006)</ref>.</p><p>Recently, a novel XRD approach based on cross-sectional nanodiffraction was introduced <ref type="bibr" target="#b18">(Keckes et al., 2012;</ref><ref type="bibr" target="#b0">Bartosik et al., 2013)</ref>. The new technique uses synchrotron point (or pencil) X-ray nanobeams with a diameter (or thickness) down to 100 nm or even less to scan thin films at the cross section in transmission or reflection geometries. The advantage of the new scanning method is that the depth gradients of microstructure, residual stresses and phases can be determined directly in real space as a function of the coating depth z. The approach opens the possibility to analyse stresses in graded thin films <ref type="bibr" target="#b0">(Bartosik et al., 2013)</ref> and correlate them with texture, crystallite size and phase gradients. The characterization of fibre texture is trivial, including also full orientation distribution function calculation, especially in the case of in-plane isotropic thin films with a fibre axis oriented perpendicular to the substrate surface <ref type="bibr" target="#b14">(Heidelbach et al., 1999;</ref><ref type="bibr" target="#b18">Keckes et al., 2012)</ref>.</p><p>In this work residual stress gradients in exemplary asdeposited and blasted nanocrystalline TiN coatings were analysed (i) using the 'classical' Laplace method based on diffraction in reflection geometry and performed in laboratory and synchrotron conditions and (ii) using the recently developed cross-sectional X-ray nanodiffraction approach providing the structural information in real space. The main aim of this work is to compare the two techniques and to discuss their advantages and disadvantages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Sample preparation</head><p>For the depostion of the TiN coating with a final thickness of 11.5 mm on monocrystalline Si(100) substrates, an industrial-sized plasma-assisted chemical vapour deposition and nitriding plant was used. The central component is a hot-wall reactor featuring wall temperatures of up to 873 K. The reactor is supplied with the process gases (TiCl 4 , H 2 , N 2 , Ar) by a standard gas mixing system using mass flow controllers. The plasma is sustained by applying direct current pulses to the substrates. For the deposition, a pressure of 200 Pa was applied. The deposition was carried out in two steps. The first 5 mm of the coating were grown using a substrate temperature of 813 K, and then the temperature was set to 853 K until the final thickness was reached. After the deposition, one coated substrate was blasted using Al 2 O 3 particles with a diameter of 50 mm, applying a pressure of 4:0 Â 10 5 Pa. The morphology of the as-deposited and blasted coatings was examined using scanning electron microscopy (SEM).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Laboratory monochromatic XRD</head><p>As-deposited and blasted coatings were characterized using a Rigaku SmartLab five-axis X-ray diffractometer equipped with Cu K radiation, parallel beam optics and a secondary graphite monochromator. The measurements were conducted in side-inclination mode, scanning TiN 200 reflections at different sample tilt angles in the sin 2 range of 0-0.98 in reflection geometry (Fig. <ref type="figure">1</ref>). By tilting the samples around the axis it was possible to vary the X-ray penetration depth . The sin 2 range corresponds to a range of approximately 0-1.9 mm, according to <ref type="bibr" target="#b13">(Hauk, 1997;</ref><ref type="bibr" target="#b1">Birkholz, 2006</ref>)</p><formula xml:id="formula_1">¼ 1 2 sin cos<label>ð2Þ</label></formula><p>when considering a Bragg angle of about 42.6 and a TiN mass attenuation coefficient of ¼ 835 cm À1 (NIST, 2013) for Cu K radiation. The lattice spacing dðhkl; ; Þ as a function of was evaluated with an error smaller than 10%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Synchrotron energy dispersive XRD</head><p>Both TiN samples were characterized also at the Energy Dispersive Diffraction (EDDI) beamline of Helmholtz-Zentrum Berlin (BESSY), Germany <ref type="bibr" target="#b9">(Genzel et al., 2007)</ref>. The diffraction experiments were carried out using a white X-ray beam in the energy range 20À100 keV with beam dimensions of 500 Â 500 mm in reflection geometry (Fig. <ref type="figure">1</ref>). For the data acquisition, an N 2 -cooled LEGe detector system from Canberry with a resolution of 160 eV at 10 keV and 420 eV at 100 keV was used. The acquisition was performed in a symmetric =2 configuration at a constant Bragg angle of 2 = 12 using a counting time of 60 s per recorded spectrum. The measurements were used to evaluate the lattice spacing dðhkl; ; Þ by measuring the positions of TiN 200 reflections at an energy of about 28 keV as a function of the sample tilt angle (Fig. <ref type="figure">1</ref>) <ref type="bibr" target="#b10">(Genzel et al., 2004)</ref>. The dependence of the Figure <ref type="figure">1</ref> X-ray elastic strains were characterized using the sin 2 method by measuring lattice spacing dðhklÞ at different sample tilt angles along the direction of the diffraction vector Q. The angle represents the angle between the sample normal n and Q. By varying the angle , the X-ray penetration depth was tuned <ref type="bibr" target="#b13">(Hauk, 1997;</ref><ref type="bibr" target="#b1">Birkholz, 2006)</ref>. A schematic view of the position-resolved XRD experiment carried out in transmission diffraction geometry using a monochromatic X-ray beam of 100 nm in diameter. The TiN coating on an Si(100) substrate (with a thickness L ¼ 20 mm in the beam direction) was moved along the z axis with a step size of 100 nm, and diffraction data were collected using a CCD detector at a distance of 102 mm from the sample. The beam was aligned parallel to the sample interface using the '-axis movement. The TiN 111, 200 and 220 Debye-Scherrer rings represent diffraction from TiN crystallites. For a Debye-Scherrer ring, the diffraction vectors Q are located on a bold line depicted schematically in the stereographic projection at the top. Note that for ¼ 0, ¼ . lattice spacing dð200; ; Þ on was determined (with an error smaller than 10%) using equation (1) by applying a mass attenuation coefficient of ¼ 25:14 cm À1 (NIST, 2013).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Cross-sectional synchrotron X-ray nanobeam experiment</head><p>The strain mapping experiment was conducted at the nanofocus extension of the ID13 beamline of the European Synchrotron Radiation Facility (ESRF) in Grenoble, France <ref type="bibr" target="#b26">(Riekel et al., 2010)</ref>. A schematic description of the experimental setup is presented in Fig. <ref type="figure" target="#fig_0">2</ref>. A monochromatic X-ray beam of energy E ¼ 13 keV was focused using a Fresnel zone plate <ref type="bibr" target="#b11">(Gorelick et al., 2010)</ref>, providing a beam of 100 nm in diameter. Alternatively, using a nanofocusing parabolic refractive X-ray lens <ref type="bibr" target="#b28">(Schroer et al., 2003)</ref>, a (pencil-like) beam with dimensions of about 0:2 Â 5 mm was applied. Both types of setup were tested in order to assess the influence of the beam shape on the diffraction statistics. Owing to the nanocrystalline nature of the coatings, there were, however, no significant differences in the diffraction statistics. In the following only results from experiments performed using a point focus will be presented.</p><p>The thin sample slice (with a thickness in the beam direction of L ¼ 20 mm) was aligned with the film/substrate interface oriented parallel to the beam (Fig. <ref type="figure" target="#fig_0">2</ref>) by using the ' axis. A CCD area detector with a resolution of 2048 pixels and a pixel size of about 50 Â 50 mm was positioned behind the sample with a sample-detector distance of 102 mm. In order to vertically scan the film cross section, the sample was moved in the beam along the z axis with a step width of 100 nm. For each position, the CCD detector acquired a diffraction frame with a counting time of 0.5 s per frame. The two-dimensional diffraction data were processed using the program package Fit2D <ref type="bibr" target="#b12">(Hammersley et al., 1996)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Sample surface morphology</head><p>Morphologies and cross sections of as-deposited and blasted TiN coatings were analysed using SEM (cf. Fig. <ref type="figure" target="#fig_2">3</ref>). The blasting caused an increase in the surface roughness. The SEM cross sections reveal a nanocrystalline character of the coatings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Residual stress analysis in Laplace space</head><p>For the analysis of residual stresses as a function of coating depth z in as-deposited and blasted coatings, it was assumed that the stresses are equibiaxial with 11 ðzÞ ¼ 22 ðzÞ ¼ ðzÞ and i3 ðzÞ ¼ 0 ði ¼ 1; 2; 3Þ and can be expressed by a parameter ðzÞ. Similarly, for strains, it was supposed that only inplane " 11 ðzÞ ¼ " 22 ðzÞ ¼ "ðzÞ and out-of-plane " 33 ðzÞ strain components are nonzero <ref type="bibr" target="#b23">(Noyan &amp; Cohen, 1987;</ref><ref type="bibr" target="#b17">Keckes, 2005;</ref><ref type="bibr" target="#b25">Renault et al., 2003)</ref>.</p><p>As-deposited and blasted TiN coatings were characterized in the laboratory and at the synchrotron source by analysing the positions of TiN 200 reflections (Fig. <ref type="figure" target="#fig_1">4</ref>). The nearly linear sin 2 dependencies with positive slopes collected from the asdeposited coating indicate relatively small tensile residual stresses. The different slopes of the dependencies obtained from the as-deposited coating can be interpreted as being caused by the presence of a stress gradient and/or by the different penetration depths of X-rays in the two experiments.</p><p>The sin 2 dependencies collected from the blasted coating in both experiments show very pronounced curvatures, which can be interpreted as being caused by the strong gradients of residual stress ðzÞ <ref type="bibr" target="#b13">(Hauk, 1997;</ref><ref type="bibr" target="#b27">Scardi &amp; Dong, 2001;</ref><ref type="bibr" target="#b1">Birkholz, 2006)</ref>. The X-ray elastic strains "ð200; ; Þ in the  coatings were evaluated from dð200; ; Þ values from Fig. <ref type="figure" target="#fig_1">4</ref>, where the unstressed lattice parameter d 0 was determined from the intercepts in the sin 2 plots. The biaxial rotational symmetric in-plane residual stress in the Laplace space ðÞ was determined from "ð200; ; Þ using Hooke's law as applied in the X-ray diffraction residual stress analysis according to <ref type="bibr" target="#b7">(Genzel, 1997;</ref><ref type="bibr" target="#b1">Birkholz, 2006)</ref> ðÞ ¼ "ð200; ; Þ=Fð200; Þ; ð3Þ</p><p>where Fð200; Þ represents X-ray stress factors which depend on the material texture, single-crystal elastic constants, grain interaction, the TiN 200 reflection and the orientation of the diffraction vector <ref type="bibr" target="#b3">(Do ¨lle, 1979;</ref><ref type="bibr" target="#b16">Houtte &amp; Buyser, 1993)</ref>. Since the TiN thin films were in-plane isotropic and possessed a {100} fibre texture (Fig. <ref type="figure" target="#fig_3">5</ref>), the stress factors Fð200; Þ were for simplicity calculated according to <ref type="bibr" target="#b7">(Genzel, 1997</ref>)</p><formula xml:id="formula_2">Fðhkl; Þ ¼ 2s 12 þ s 11 À s 12 À 1 4 s 44 h 2 þ k 2 h 2 þ k 2 þ l 2 þ 1 4 s 44 sin 2 ;<label>ð4Þ</label></formula><p>where s 11 ¼ 2:17, s 12 ¼ À0:38, s 44 ¼ 5:96 Â 10 À6 MPa À1 and hkl ¼ 200 <ref type="bibr" target="#b19">(Kress et al., 1978)</ref>. Finally, lattice spacing data obtained from laboratory and synchrotron experiments (Fig. <ref type="figure" target="#fig_1">4</ref>) were used to quantify residual stresses ðÞ in as-deposited and blasted samples in the Laplace space using equations ( <ref type="formula" target="#formula_1">2</ref>)-( <ref type="formula" target="#formula_2">4</ref>) (Fig. <ref type="figure" target="#fig_4">6</ref>). Since in the case of the synchrotron experiment, performed using relatively hard X-rays, the maximal penetration depth exceeds significantly the coating thickness D, the 'information depth' eff is defined in order to express the origin of the measured information <ref type="bibr" target="#b13">(Hauk, 1997;</ref><ref type="bibr" target="#b7">Genzel, 1997)</ref>:</p><formula xml:id="formula_3">eff ¼ À D expðÀD=Þ 1 À expðÀD=Þ :<label>ð5Þ</label></formula><p>The results from Fig. <ref type="figure" target="#fig_4">6</ref> document different penetration depths accessible at different facilities. In the case of laboratory measurements performed using Cu K radiation, the maximal penetration depth is about 2 mm, and for synchrotron experiments with much harder X-rays, the maximal information depth eff approaches half of the coating thickness ( eff ! D=2) <ref type="bibr" target="#b8">(Genzel, 2005)</ref>.</p><p>For the as-deposited coating, ðÞ data from Fig. <ref type="figure" target="#fig_4">6</ref> indicate a relatively constant tensile stress state of approximately 0:5 AE 0:1 GPa across the coating. Unfortunately, the stress depth dependence in the interval ½D=2; D is not accessible <ref type="bibr" target="#b8">(Genzel, 2005)</ref>.</p><p>In the case of the blasted coating, both laboratory and synchrotron ðÞ data (Fig. <ref type="figure" target="#fig_4">6</ref>) indicate a decrease in stress with increasing . In order to obtain residual stress dependencies ðzÞ in real space for the blasted coating, it was assumed that the stress depth dependence can be approximately expressed by the exponential function <ref type="bibr" target="#b15">(Hong et al., 2008)</ref> </p><formula xml:id="formula_4">ðzÞ ¼ ða þ bzÞ expðÀczÞ þ d;<label>ð6Þ</label></formula><p>where a, b, c and d are numerical constants. The transformation of equation ( <ref type="formula" target="#formula_4">6</ref>) into Laplace space can be expressed as <ref type="bibr" target="#b7">(Genzel, 1997;</ref><ref type="bibr" target="#b27">Scardi &amp; Dong, 2001;</ref><ref type="bibr" target="#b1">Birkholz, 2006</ref>)</p><formula xml:id="formula_5">ðÞ ¼ R D 0 ðzÞ expðÀz=Þ dz . R D 0 expðÀz=Þ dz:<label>ð7Þ</label></formula><p>By fitting the numerical parameters a, b, c and d from equation ( <ref type="formula" target="#formula_5">7</ref>) to the data of the blasted sample from Fig. <ref type="figure" target="#fig_4">6</ref>, it was possible to evaluate residual stress profiles ðÞ in Laplace space and also L ðzÞ in real space (Fig. <ref type="figure" target="#fig_4">6</ref>). The L ðzÞ dependence was determined by using both laboratory and synchrotron data (except for the three measurement points from the synchrotron experiment on the blasted sample at in the range 0-2 mm). Finally, both ðÞ and L ðzÞ dependencies document an (expected) exponential decrease of the compressive residual stresses as a function of z in the blasted TiN.  Residual stress values calculated from laboratory (Lab) and synchrotron (EDDI) data (Fig. <ref type="figure" target="#fig_1">4</ref>) using equations ( <ref type="formula">3</ref>)-( <ref type="formula" target="#formula_3">5</ref>) for non-blasted (0b) and blasted (4b) coatings. ðÞ represents the fitted stress profile [equation ( <ref type="formula" target="#formula_5">7</ref>)] in the Laplace space in the blasted coating as a function of eff . L ðzÞ represents the recalculated stress profile [equation ( <ref type="formula" target="#formula_4">6</ref>)] in real space. L ðzÞ and ðÞ were determined by using both Lab and EDDI data, except for the three EDDI measurement points at eff in the range 0-2 mm. For the non-blasted sample the stresses are relatively homogeneous across the coating.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Residual stress analysis in real space</head><p>Two-dimensional diffraction patterns obtained from the scanning X-ray nanodiffraction experiment (Fig. <ref type="figure" target="#fig_0">2</ref>) were used to evaluate lattice spacing as a function of the diffraction vector QðÞ orientation and the coating depth. At first the Debye-Scherrer rings were integrated using the software Fit2D in order to analyse the positions of the TiN 200 reflection collected at different azimuthal angles . In Fig. <ref type="figure" target="#fig_6">7</ref>, the depth development of the reflection positions 2ð; zÞ for ¼ 0 and 90 is presented. In the case of the as-deposited (unblasted) sample, Figs. 7(a) and 7(c) document that the peak positions do not change significantly across the entire coating thickness, which can be interpreted as an absence of a pronounced stress gradient. For the blasted sample, however, the peak positions move towards higher diffraction angles for = 90 (Fig. <ref type="figure" target="#fig_6">7d</ref>) and smaller diffraction angles for = 0 (Fig. <ref type="figure" target="#fig_6">7b</ref>) for coating depths in the range of about 0-2 mm. This is caused by a pronounced in-plane (near surface) compressive stress which induces a coating contraction in the in-plane direction, that is, a decrease of lattice spacing of crystallographic planes oriented with their normals parallel to the interface. However, the same stress causes an increase of lattice spacing of crystallographic planes oriented with their normals an angle with respect to the sample normal. The weak 2ð0; 0:5Þ increase (cf. Fig. <ref type="figure" target="#fig_6">7b</ref>) and 2ð90; 0:5Þ decrease (cf. Fig. <ref type="figure" target="#fig_6">7d</ref>) at depths of about 0.5 mm indicate the presence of a weak stress relaxation, which will be discussed further. Different broadening of the TiN 200 reflections for = 0 and = 90 indicate an anisotropic grain morphology (with needlelike crystallite shapes) and/or anisotropic strains of second and third order (Fig. <ref type="figure" target="#fig_6">7</ref>). The abrupt changes in the peak width at depths of about 5.5 mm were caused by the change in the deposition temperature, which resulted in the growth of larger crystallites with fewer defects at a depth of about 0-5.5 mm.</p><p>In order to analyse the depth variation of crystallographic texture in the samples, intensities along TiN Debye-Scherrer rings Ið; zÞ were evaluated. The three dimensional Ið; zÞ data were transformed into Ið ; zÞ dependencies using a simple transformation from <ref type="bibr" target="#b14">Heidelbach et al. (1999)</ref> linking and angles (cf. Fig. <ref type="figure" target="#fig_0">2</ref>):</p><formula xml:id="formula_6">cos ¼ cos cos :<label>ð8Þ</label></formula><p>Since the coatings were in-plane isotropic (Fig. <ref type="figure" target="#fig_3">5</ref>), the threedimensional data collected from the blasted sample (Fig. <ref type="figure" target="#fig_5">8</ref>) indicate the presence of a {100} fibre texture, in agreement with the laboratory measurements from Fig. <ref type="figure" target="#fig_3">5</ref>, where texture intensity changes slightly as a function of the coating depth z.</p><p>In principle, the three-dimensional data can be used to reconstruct the orientation distribution function for every z position [as done by <ref type="bibr" target="#b18">Keckes et al. (2012)</ref>]; this is, however, out of the scope of this work.</p><p>In order to analyse residual stresses in both coatings, threedimensional dependencies of the lattice parameter að; zÞ were evaluated from the positions of the TiN 200 reflections (Fig. <ref type="figure" target="#fig_7">9</ref>). The results indicate that, in the as-deposited coating, the lattice parameter does not change significantly as a function of at distinct depths z. In other words the slope  @að; zÞ=@ is relatively small. In the case of the blasted coating, however, the slope @að; zÞ=@ is very pronounced for z ! 0, which indicates pronounced stresses in the blasted coating surface.</p><p>The three-dimensional að; zÞ dependencies (Fig. <ref type="figure" target="#fig_7">9</ref>) cannot, however, be automatically used to evaluate residual stresses ij ðzÞ in the coatings. As a result of the sample cutting, the residual stresses in the lamellae [with an intentionally selected small thickness of only 20 mm (Fig. <ref type="figure" target="#fig_0">2</ref>)] were partly relaxed and are not equibiaxial anymore, and therefore 11 ðzÞ 6 ¼ 22 ðzÞ as well as " 11 ðzÞ 6 ¼ " 22 ðzÞ. Generally, when for simplicity assuming only a biaxial stress state with negligible ij ðzÞ, 33 ðzÞ and " ij ðzÞ, it can be shown that for the measured að; zÞ lattice parameters að; zÞ À a 0 ðzÞ a 0 ðzÞ ¼ sin 2 " 11 ðzÞ þ cos 2 sin 2 " 22 ðzÞ þ cos 2 cos 2 " 33 ðzÞ ð 9Þ and að; zÞ À a 0 ðzÞ</p><formula xml:id="formula_7">a 0 ðzÞ ¼ 11 1 2 S 2 ðhklÞ sin 2 þ S 1 ðhklÞ þ 22 1 2 S 2 ðhklÞ 2 cos 2 sin 2 þ S 1 ðhklÞ ;<label>ð10Þ</label></formula><p>where a 0 ðzÞ are unstressed lattice parameters. For X-ray elastic constants S 1 ðhklÞ and 1 2 S 2 ðhklÞ, the following equations apply in the case of a {100} fibre texture <ref type="bibr" target="#b7">(Genzel, 1997)</ref>:</p><formula xml:id="formula_8">1 2 S 2 ¼ 1 2 s 44 and S 1 ¼ 2s 12 þ s 11 À s 12 À 1 4 s 44 h 2 þ k 2 h 2 þ k 2 þ l 2 :<label>ð11Þ</label></formula><p>For small Bragg angles , the term sin 2 goes to zero, and therefore equations ( <ref type="formula">9</ref>) and ( <ref type="formula" target="#formula_7">10</ref>) can be simplified significantly.</p><p>Moreover equation ( <ref type="formula" target="#formula_7">10</ref>) can be converted as follows:</p><p>@að; zÞ @ sin 2 ¼ 22 ðzÞ 1 2 S 2 a 0 ðzÞ: ð12Þ Figure <ref type="figure">10</ref> A FEM model documents a relaxation of 22 ðzÞ residual stresses (in GPa) in the blasted coating at the lamella cross section due to sample cutting (a). In (b) solid and dashed lines document the 22 ðzÞ stress magnitude along the x axis at different coating depths for the uncut sample and relaxed lamellae, respectively. One can observe that at the interface the relaxation is minimal, while at the surface the relaxation at the lamellae borders is very pronounced.</p><p>The term 22 ðzÞ from equation ( <ref type="formula">12</ref>) represents in this case the 'measured' residual stress component (parallel to the long lamella y axis; Fig. <ref type="figure" target="#fig_0">2</ref>), which can be evaluated easily from the distortion of Debye-Scherrer rings expressed by the term @að; zÞ=@ sin 2 . In the case of relatively thick lamellas, where the lamella thickness L is a few times the coating thickness D, 22 ðzÞ actually represents the depth dependence of the original equibiaxial stress component ðzÞ, which was present in the coating before cutting. Therefore, 22 ðzÞ ¼ ðzÞ for L ) D. For L ffi D, equation ( <ref type="formula">12</ref>) can be used to evaluate the original stresses in the coatings, with 22 ðzÞ ¼ ðzÞ only for samples where the stress relaxation across the coatings is constant, i.e. Á 11 ¼ constant. This is the case for coatings and thin films on ductile and soft substrates.</p><p>In the present specific case, of a lamella on a stiff substrate with the thickness L comparable to the coating thickness D (L ffi D), the strain components " ij ðzÞ as well as the stress component Á 11 change along the x axis at distinct coating depths z, owing to the cutting. In other words, the 11 ðzÞ residual stresses relax in a considerable volume fraction of the lamella and cause a depth-dependent strain release. As a result, 22 ðzÞ also changes because of this relaxation, especially at the lamella borders (Fig. <ref type="figure">10</ref>).</p><p>In order to investigate the effect of the residual stress relaxation due to sample cutting and to reconstruct the original stress state ðzÞ in the blasted sample from 22 ðzÞ obtained from the nanodiffraction experiment [equation ( <ref type="formula">12</ref>)], a finite element model (FEM) was set up in the software package ABAQUS (<ref type="url" target="http://en.wikipedia.org/wiki/Abaqus">http://en.wikipedia.org/wiki/Abaqus</ref>). This model, in which the equibiaxial residual stress profile was applied to the coating as a predefined field, consisted of two steps. In the first step, the boundary conditions were chosen such that the coated sample behaved as if it had an infinite extension in the x and y directions. The sample was allowed to expand and curve in order to find its mechanical equilibrium. In the second step, the boundary conditions were modified so that a sample with 20 mm thickness in the x direction, like in the nanobeam experiment, was formed. In a first simulation, the stress profile obtained from the nanobeam experiment was applied to the uncut sample, and the relaxation after the cut was simulated. This gave a first impression of the relaxation taking place when the lamella is cut. Subsequently, the simulation was integrated in an iterative optimization procedure, altering the stress state applied as the predefined field until the stress state in the 20 mm-thick lamella matched with 22 ðzÞ obtained from the nanobeam experiment. Finally, the corrected biaxial stress distribution FEM ðzÞ was obtained from the simulation step modelling the uncut sample. The mechanical behaviour of the TiN coating was modelled using values of Young's modulus and Poisson's number of 428 GPa and 0.2 from <ref type="bibr" target="#b19">Kress et al. (1978)</ref>. In Fig. <ref type="figure" target="#fig_8">11</ref>, the evaluated residual stresses 22 ðzÞ obtained from the X-ray nanobeam experiment, the stresses obtained from the FEM procedure FEM ðzÞ and the stresses obtained from the Laplace technique L ðzÞ (Fig. <ref type="figure" target="#fig_4">6</ref>) are presented for the blasted coating. Qualitatively, 22 ðzÞ, FEM ðzÞ and L ðzÞ indicate a relatively large magnitude of compressive residual stresses in the blasted coating near the surface and an exponential stress decrease towards the substrate. The comparison of FEM ðzÞ and 22 ðzÞ documents the intensity of the stress relaxation, which is significant especially in the coating surface, in agreement with Fig. <ref type="figure">10</ref>. Remarkably, the nanodiffraction data indicate a compressive stress maximum at z = 0.5 mm. Its presence is also visible in the raw data from Figs. <ref type="figure" target="#fig_6">7</ref> and<ref type="figure" target="#fig_7">9</ref>. This type of stress gradient has also been reported from simulations of the shot peening process <ref type="bibr" target="#b15">(Hong et al., 2008)</ref>. For the as-deposited coating, the stresses are tensile and relatively constant at about 0:5 AE 0:1 GPa.</p><p>In the L ðzÞ dependence, such local stress variation obviously cannot be resolved, which is a result of the form of equation ( <ref type="formula" target="#formula_4">6</ref>) as well as the principle of the method itself. The remarkable scattering of the first three points in the range of 0-2 mm obtained from the synchrotron experiment on the blasted sample (Fig. <ref type="figure" target="#fig_4">6</ref>), however, indicates some irregular stress-depth behaviour, which could be caused by the compressive stress maximum at z = 0.5 mm (Fig. <ref type="figure" target="#fig_8">11</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>The aim of this section is to discuss advantages and disadvantages of the Laplace and cross-sectional XRD approaches. Intentionally, a coating with a relatively simple stress depth profile was chosen in order to compare the two approaches.</p><p>The main advantages of the Laplace approach are obviously the facts that no sample preparation is required and that it is possible to perform the experiments in the laboratory. The main restriction of the Laplace technique is the necessity to perform an inverse Laplace transformation of the measured ðÞ profile. For the transformation, the functional dependence of the residual stress in real space ðzÞ must be preselected. In general, there are infinitely many ðzÞ profiles in Residual stress gradients in the blasted coating evaluated using the X-ray nanodiffraction approach 22 ðzÞ and Laplace method L ðzÞ. FEM ðzÞ represents the recalculated stress profile using the FEM model. The stresses 22 ðzÞ in the as-deposited coating show a small variation across the thickness. The filled bands behind the 22 ðzÞ experimental dependencies document the measurement errors. The relatively small tensile stress increase in both samples at the depth of about 5.5 mm was caused by the temperature increase during the deposition.</p><p>real space that would result in the same ðÞ dependence in the Laplace space and vice versa. Moreover the often unknown depth dependences of the unstressed lattice parameter d 0 ðhkl; zÞ and/or mass attenuation coefficient , caused for example by chemical gradients, coating grain morphology and/or density variations, present also a serious problem for the ðzÞ recalculation. The experimental determination of d 0 ðhkl; zÞ in nanocrystalline and/or graded thin films and coatings from X-ray elastic constants is very questionable. Practically, the Laplace technique can be used to analyse only relatively simple (monotonic) stress profiles ðzÞ and is not sensitive to local stress variation. Given the nature of the method, an analysis of an oscillating or step-like stress field <ref type="bibr" target="#b18">(Keckes et al., 2012)</ref> is practically impossible.</p><p>In the case of the cross-sectional nanobeam approach, no assumptions about the existing stress profile have to be made. This novel technique allows the characterization of very complex stress gradients with step-like or even oscillating depth profiles. Moreover, this powerful approach can be used to evaluate for the first time not only stress but also representative microstructure (texture, crystallite size and defect density) and phase gradients in thin films and coatings. In this way, also the origins of stress evolution across the thickness can be studied and correlated with the deposition conditions (as in the present case) or with the thin-film thermal and/or loading history. It can be expected that this novel approach will allow the development of depth-dependent grain interaction models for thin films and coatings, whose application will be necessary in order to evaluate stresses in samples with strong texture gradients <ref type="bibr" target="#b18">(Keckes et al., 2012)</ref>. The main disadvantages of the new approach are the need for sample preparation, a synchrotron beamline providing an X-ray nanobeam and a relatively extensive data treatment, and the necessity to use a FEM model to recalculate the original stresses from the measured data in the case of thin lamellae structures, as in the present case. Currently, however, it is not necessary to perform the residual stress characterization only on thin lamellae with L ffi D. High-energy synchrotron X-ray beams and their high brilliance allow the measurements to be performed also on lamellae with a thickness L in the range of 100 mm or even more where the stress relaxation on both sides of the lamella (Fig. <ref type="figure">10</ref>) is practically negligible.</p><p>In future it can be expected that novel developments in focusing X-ray optics and beamline instrumentation with beam sizes in the sub-100 nm range will result in the possibility of performing even more local characterization of stress gradients. In that case, the application of pencil X-ray nanobeams for coatings and thin films with plain interfaces <ref type="bibr" target="#b21">(Krywka et al., 2012</ref><ref type="bibr" target="#b20">(Krywka et al., , 2013) )</ref> will rapidly increase in importance in order to guarantee sufficient diffraction statistics, especially when looking for representative microstructure data.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2</head><label>2</label><figDesc>Figure 2</figDesc><graphic coords="2,314.70,369.47,249.11,265.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 4</head><label>4</label><figDesc>Figure 4Lattice parameters as a function of sin 2 for as-deposited (0b) and blasted (4b) TiN coatings characterized in the laboratory (Lab) and at the EDDI beamline (EDDI). The data were obtained by evaluating the positions of the TiN 200 reflections.</figDesc><graphic coords="3,340.16,552.76,198.37,150.63" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Surface and cross-section morphologies of as-deposited (a) and blasted (b) TiN hard coatings reveal a nanocrystalline nature of the coatings and an increase of surface roughness of the blasted coating (b).</figDesc><graphic coords="3,85.21,440.50,170.48,262.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 5</head><label>5</label><figDesc>Figure 5 TiN 200 and 111 pole figures collected using a laboratory Rigaku X-ray diffractometer indicate a {100} fibre texture of the TiN coatings.</figDesc><graphic coords="4,45.47,329.84,249.94,124.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 6</head><label>6</label><figDesc>Figure 6</figDesc><graphic coords="4,71.21,503.72,198.37,149.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 8</head><label>8</label><figDesc>Figure 8 Depth variation of intensities along TiN (a) 200 and (b) 111 Debye-Scherrer rings in the blasted sample. In agreement with the data from Fig. 5, the relatively strong intensities at = 10 and 90 for TiN 200 and ffi 50 for TiN 111 document the presence of a {100} fibre texture whose intensity changes as a function of the depth. The increase in the texture sharpness at depths of about 0-5.5 mm was caused by the temperature increase during the deposition.</figDesc><graphic coords="5,314.99,488.69,248.77,176.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7</head><label>7</label><figDesc>Figure 7 TiN 200 reflections collected at different depths from as-deposited (a), (c) and blasted (b), (d) coatings depicted for two diffraction vector orientations = 0 ( ¼ ) and = 90 (cf. Fig. 2). The diffraction peak width varation across the depth is caused (i) by the blasting for depths of 0-2 mm in (b), (d) and (ii) by the deposition temperature change at about 5.5 mm depth in both samples.</figDesc><graphic coords="5,85.32,373.89,167.24,301.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 9</head><label>9</label><figDesc>Figure 9The variations of the lattice spacing að; zÞ (evaluated from TiN 200 reflections) as a function of the coating depth and the angle indicate a relatively homogeneous stress state in the as-deposited coating (a) and pronounced residual stresses in the blasted coating surface (b).</figDesc><graphic coords="6,45.70,229.44,249.28,466.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 11</head><label>11</label><figDesc>Figure 11</figDesc><graphic coords="7,71.21,497.76,198.37,162.88" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>J. Appl. Cryst. (2013). 46, 1378-1385 Mario Stefenelli et al. X-ray analysis of residual stress gradients 1379</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1380" xml:id="foot_1"><p>Mario Stefenelli et al. X-ray analysis of residual stress gradients J. Appl. Cryst. (2013). 46, 1378-1385</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>J. Appl. Cryst. (2013). 46, 1378-1385 Mario Stefenelli et al. X-ray analysis of residual stress gradients 1381</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1382" xml:id="foot_3"><p>Mario Stefenelli et al. X-ray analysis of residual stress gradients J. Appl. Cryst. (2013). 46, 1378-1385</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>J. Appl. Cryst. (2013). 46, 1378-1385 Mario Stefenelli et al. X-ray analysis of residual stress gradients 1383</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1384" xml:id="foot_5"><p>Mario Stefenelli et al. X-ray analysis of residual stress gradients J. Appl. Cryst. (2013). 46, 1378-1385</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_6"><p>J. Appl. Cryst. (2013). 46, 1378-1385 Mario Stefenelli et al. X-ray analysis of residual stress gradients 1385</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>We acknowledge <rs type="institution">Helmholtz-Zentrum Berlin</rs>, electron storage ring BESSY II, for beam-time allocation and provision of synchrotron radiation at the beamline EDDI. We are very grateful to <rs type="person">Professor Christoph Genzel</rs> and <rs type="person">Dr Manuela Klaus</rs> for their assistance. The research leading to these results has received funding from the <rs type="funder">European Community's Seventh Framework Programme</rs> (FP7/2007-2013) under grant No. <rs type="grantNumber">226716</rs>. Financial support by the <rs type="funder">Austrian Federal Government</rs> and the <rs type="funder">Styrian Provincial Government</rs>, within the research activities of the <rs type="institution">K2 Competence Centre</rs> on 'Integrated Research in Materials, Processing and Product Engineering' operated by the <rs type="funder">Materials Center Leoben Forschung GmbH</rs> in the framework of the <rs type="funder">Austrian COMET Competence Centre Programme</rs>, is gratefully acknowledged.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_QWd4zKx">
+					<idno type="grant-number">226716</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartosik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mitterer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Matko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burghammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mayrhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keckes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Thin Solid Films In the press</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Thin Film Analysis by X-ray Scattering</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Birkholz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Wiley-VCH</publisher>
+			<pubPlace>Weinheim</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cavaleiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T M</forename><surname>De Hosson</surname></persName>
+		</author>
+		<title level="m">Nanostructured Coatings</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Do ¨lle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="489" to="501" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Do ¨lle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hauk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ha ¨rterei-Techn. Mitt</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">272</biblScope>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Faurie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Castelnau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P.-O</forename><surname>Renault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Le Bourhis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goudeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1073" to="1084" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Genzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Status Solidi (A)</title>
+		<imprint>
+			<biblScope unit="volume">156</biblScope>
+			<biblScope unit="page" from="353" to="363" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Genzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Status Solidi (A)</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="283" to="296" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Genzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="10" to="18" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Genzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Denks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gibmeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Klaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wagener</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Instrum. Methods Phys. Res. Sect. A</title>
+		<imprint>
+			<biblScope unit="volume">578</biblScope>
+			<biblScope unit="page" from="23" to="33" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Genzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Reimers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. A</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="28" to="43" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gorelick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Guzenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vila-Comamala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>David</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanotechnology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">295303</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Hammersley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Svensson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanfland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Fitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ha ¨usermann</surname></persName>
+		</author>
+		<title level="m">High Pressure Res</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="235" to="248" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Structural and Residual Stress Analysis by Nondesdestructive Methods</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Hauk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Elsevier</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Heidelbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Riekel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-R</forename><surname>Wenk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="841" to="849" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Ooi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eng. Fail. Anal</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1097" to="1110" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Houtte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Buyser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Metall. Mater</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="323" to="336" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keckes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="311" to="318" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keckes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartosik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mitterer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Maier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vila-Comamala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schoeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burghammer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scr. Mater</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="748" to="751" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Roedhammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bilz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Teuchert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Christensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="111" to="113" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Krywka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keckes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Storm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buffet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Do ¨hrmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mu ¨ller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Conf. Ser</title>
+		<imprint>
+			<biblScope unit="volume">425</biblScope>
+			<biblScope unit="page">72021</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Krywka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Neubauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Priebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Salditt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keckes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buffet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Doehrmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mueller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Cryst</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="85" to="92" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Nist</surname></persName>
+		</author>
+		<ptr target="http://physics.nist.gov/PhysRefData/FFast/html/form.html" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Institute of Standards and Technology</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Measurement by Diffraction and Interpretation</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Noyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ohring</surname></persName>
+		</author>
+		<title level="m">Materials Science of Thin Films. Deposition and Structure</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>nd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P.-O</forename><surname>Renault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Le Bourhis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Villain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goudeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Badawi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Faurie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="473" to="475" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Riekel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burghammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Davies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IOP Conf. Ser. Mater. Sci. Eng</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">12013</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Scardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Res</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="233" to="242" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Schroer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kuhlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">T</forename><surname>Hunger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Gunzler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kurapova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Feste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Frehse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lengeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Drakopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Somogyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Simionovici</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Snigirev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Snigireva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Schroder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="1485" to="1487" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

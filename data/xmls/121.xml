@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Halide perovskite materials and devices</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sang</forename><forename type="middle">Il</forename><surname>Seok</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Guest Editors</roleName><forename type="first">Tzung-Fang</forename><surname>Guo</surname></persName>
+						</author>
+						<title level="a" type="main">Halide perovskite materials and devices</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6AC2152722AB0F6FC8AF08B0C660E804</idno>
+					<idno type="DOI">10.1557/mrs.2020.140</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Halide perovskites have attracted tremendous attention from many researchers recently, particularly for their excellent optoelectronic properties in applications such as photovoltaic solar cells and light-emitting diodes. In recent years, the application of halide perovskites has rapidly extended into nanoelectronics, such as thermoelectric, memory, and artificial synapse applications. Halide perovskites can be synthesized easily, even at relatively low temperatures, and organic and inorganic ions can even coexist in one crystal structure. Moreover, the structural flexibility is excellent, where two-and three-dimensional crystals can be linked together. The combination of various types of halide ions not only controls the physical properties of the halide perovskite, but also facilitates control of the bandgap by varying the size of nanoparticles when they exhibit quantum effects. Halide perovskites thus provide an excellent platform for optoelectronics with interesting optical, electrical, and magnetic properties. The articles in this issue introduce the wide range of basic properties and potential applications of halide perovskites.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The name "perovskite" honors Russian mineralogist L.A. Perovski, who first characterized the structure of the mineral calcium titanium oxide (CaTiO 3 ). A perovskite material has the chemical formula of ABX 3 , where A is a cation with a large ionic radius, B is a metal cation, and X is an anion; its crystallographic structure is the same as that of CaTiO 3 . The easiest way to describe the perovskite structure is to display it as an AX 12 cuboctahedron that shares its edges with a BX 6 octahedron, as shown in Figure <ref type="figure" target="#fig_0">1</ref>. <ref type="bibr" target="#b0">1</ref> This oxide perovskite structure is energetically stable and is flexible enough to structurally accommodate a variety of elements, which facilitates adjustment and choice of materials to achieve the desired properties. Through successful application as dielectric and piezoelectric materials, the excellent structural properties that are achieved can be used in almost any application, such as superconductors, multiferroics, batteries, fuel cells, photovoltaic electrodes, catalysts, resistive switches, and sensing materials. <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> Halide perovskites have the same perovskite structure as oxide perovskites, but monovalent halide ions occupy the sites populated by divalent oxygen ions in an oxide perovskite. Therefore, halide perovskites can only host inorganic metal cations, such as Pb 2+ , Sn 2+ , and Ge 2+ , with a valence state of 2 + to satisfy charge neutrality. This means that diversity in terms of composition can be greatly limited compared to that of oxide perovskites which can also accept trivalent and tetravalent cations at the B site. This limitation, however, is compensated by the possibility of lower-temperature synthesis of halide perovskites compared to oxide perovskites. This allows organic cations to be accommodated in the halide perovskite and has led to the development of a new class of materials called inorganic-organic hybrid halide perovskites.</p><p>Inorganic-organic hybrid perovskites are well known for their success in solar power generation. In 1978, Weber <ref type="bibr" target="#b4">5</ref> had already studied the basic crystallographic properties. The acceptance of organic cations in the A position of the perovskite structure could yield new properties that conventional oxide perovskites do not have, which presents a new avenue in materials science. Moreover, organic cations allow easy conversion of a three-dimensional (3D) perovskite to a two-dimensional (2D) structure depending on the size of the ions, and new categories of material groups are expected to be created because a combination of 3D and 2D structures is possible. For example, higher dielectric and piezoelectric properties than those of oxide perovskites BaTiO 3 or Pb(Zr,Ti) O 3 were observed in the 2D perovskite ferroelectric (4-amino tetrahydropyran) 2 PbBr 4 . <ref type="bibr" target="#b5">6</ref> As shown in Figure <ref type="figure" target="#fig_0">1</ref>, applications using halide perovskites continue to expand to optoelectronic devices, such as solar cells and light-emitting diodes (LEDs); nanoelectronic devices such as thermoelectric and memory devices; and artificial synapses. <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref> Inorganic-organic hybrid perovskite materials such as methylammonium lead triiodide, formamidinium lead triiodide, and formamidinium tin triiodide are especially attracting increasing attention owing to their unique and interesting optical and electrical properties, such as high molar extinction Sang Il Seok, School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology, South Korea; seoksi@unist.ac.kr Tzung-Fang Guo, Department of Photonics, Advanced Optoelectronic Technology Center, National Cheng Kung University, Taiwan; guotf@mail.ncku.edu.tw doi:10.1557/mrs.2020.140 coefficient, tunable bandgap, and low excitation binding energy, and are thus becoming popular targets for exploring new properties. A high power-conversion efficiency, defined as the ratio of energy output from the solar cell to input energy from the sun, of up to 25.2% has been certified for perovskite photovoltaic solar cells, 10 but this is still much lower than the theoretical Shockley-Queisser (S-Q) efficiency (&gt;30%), which is the maximum efficiency for any type of single junction solar cell. To further increase the efficiency of the halide perovskite solar cells, it is necessary to not only reduce trapassisted nonradioactive (also known as Shockley-Read-Hall) recombination, but also to minimize the concentration of defects at each interface composed of a multilayer thin film, and increase light absorption via optical management. Halide perovskite-based LEDs have also achieved an amazing breakthrough in a short time. The articles in this issue provide an overview of each topic that is important to halogen perovskites and devices for optoelectronic applications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Properties and applications of halide perovskites</head><p>One of the common characteristics of halide perovskites is the presence of ns 2 ions, which is an important factor in understanding the electronic, dielectric, and defect properties of halide materials. In a lead halide perovskite structure containing 6s 2 cations, the s state of the cation decreases in energy and moves away from the p state of the cation, establishing a lone-pair state. Significant hybridization between the occupied cation s and halogen p states (for example, overlap between Pb-6s and I-6p) endows exceptional performance to lead-based halide perovskites. The Fabini et al. article <ref type="bibr" target="#b10">11</ref> in this issue introduces the 6s 2 (5s 2 ) lone pair electrons on Pb (Sn) and the stereochemistry thereof. The lone pairs are shown to have a decisive impact on the electronic properties, directly yielding a favorable broad valence band and lighthole states. They establish a connection between the electronic composition of the metal cation and the resulting electron-band structure and lattice dynamics of the compound.</p><p>Perovskite solar cells, which have experienced unprecedented recent efficiency gains, will significantly reduce the rate of increase in efficiency in the near future. Beyond the S-Q efficiency limit for single-junction solar cells, maximum output power can be achieved if photon recycling effects occur in the device. Specifically, there may be an optical management approach to improve the efficiency of perovskite solar cells, including the integration of plasmonic or dielectric nanostructures into the optical cavity design inside the device and its other layers. During the radiative recombination process, photons are generated by recombination of one electron-hole pair, but photons can be reabsorbed at different spatial locations in the solar cell, creating new electron-hole pairs. Designs of light capture and angular restriction can maximize solar cell efficiency by improving the photon reabsorption process. In their article in the issue, Lee et al. <ref type="bibr" target="#b11">12</ref> review three major technologies for implementing photon recycling for the next phase of approaching the S-Q limit level of halide perovskite solar cells.</p><p>Halide perovskites have soft, polarizable, and dynamically disordered lattices because the ionic bond between the monovalent halide anion and divalent cation is not strong; thus, point defects form easily. These defects can critically affect the properties and operational stability of metal-halide-perovskite optoelectronic devices. For example, nonradioactive recombination caused by defects in the perovskite solar cells can be a major loss mechanism. The defects also cause significant luminescence quenching in perovskite-based LEDs. Therefore, to achieve high efficiency in both solar cells and LEDs with halide perovskites, it is necessary to create a defect-free, highquality crystalline phase or, alternatively, to develop a deep understanding of the behavior of the defects. In their article in the issue, Kumar et al. <ref type="bibr" target="#b12">13</ref> introduce the fundamentals, the unusual behavior, and the properties of defects in halide </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>HALIDE PEROVSKITE MATERIALS AND DEVICES</head><p>perovskites. They ask, "Can we find and identify ways to prove the presence or absence of defect tolerance?" Xiao et al. <ref type="bibr" target="#b13">14</ref> in their article in this issue discuss the posttreatment methods of achieving higher performance in perovskite photovoltaics. It is noteworthy that the development of new fabrication techniques and composition engineering has greatly contributed to improving the device efficiency and performance. This article overviews post-treatment methods and their impact, and summarizes the fundamentals of nonradiative energy loss in perovskite solar cells at the current level of understanding. It also reviews recent advances in mitigating the energy loss by post-treatment techniques and provides key ideas for further development.</p><p>Apart from the realization of improved efficiencies, these perovskite materials still face stability issues hindering their progress toward commercialization. In their article in this issue, Zhang et al. <ref type="bibr" target="#b14">15</ref> provide a comprehensive overview and seek solutions through hole-conductor-free perovskite solar cells. Although organic hole-transport materials, such as Spiro-OMeTAD, employed in the fabrication of solar cells yield higher efficiency, they impose a drawback of poor stability. This can be potentially addressed by excluding the hole-transport layers, which transport or extract the hole carriers generated in perovskite active layer under solar irradiation, to take advantage of the superior hole-and electron-transport properties of the perovskite itself. This strategy is presented in detail to enlighten readers, and their prospective application is discussed to pique interest among researchers. The device structure, electron-transport materials, morphology and composition of halide perovskites, electrode materials, and energy-level alignment affect the efficiency of hole-conductor-free perovskite solar cells. The strategies currently applied to optimize the efficiency of various hole-conductor-free perovskite solar cells are presented and their impact on stability and efficiency are discussed. Various device structures of hole-conductor-free perovskite solar cells are presented, and their significant stability and improved efficiency are summarized. Finally, a hint of the future scope and development trend of hole-conductor-free perovskite solar cells is provided to address their low-efficiency issue.</p><p>The advantage of tunable and narrow emissions covering the whole visible region in nanocrystalline metal-halide perovskites has invoked much interest among researchers. Perovskite nanocrystals have emerged as a new generation of light-emitting materials and have found interesting applications in optically pumped white-emissive LEDs and monochromatic electrically driven LEDs. Although the use of perovskite nanocrystals as active materials for various optoelectronic devices has been explored extensively, they face limitations for light-emitting applications arising from their low photoluminescence quantum efficiencies (PLQEs). This is because of the presence of mobile ionic defects and the small exciton-binding energy. A promising approach to improve the PLQEs is to develop techniques to prepare nanocrystals with increased exciton binding energy and reduced defects. A wide range of reports have been available since 2004 concerning this objective. Because a variety of synthetic approaches have been established to precisely control the compositions and microstructures of perovskite nanocrystals, it is important to consider such milestones in the field of materials development and device integration based on perovskite nanocrystals. In their article in this issue, Xu et al. <ref type="bibr" target="#b15">16</ref> summarize these recent advances in lightemitting nanocrystalline perovskites, from synthesis control to device integration. Despite tremendous development, many issues and challenges, including stability, lead poisoning, and accessible processing, remain. These are discussed to enlighten readers about the existing challenges and generate innovative ideas among young researchers to overcome them in the near future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outlook</head><p>Over the past decade, the performance of optoelectronic devices, such as solar cells and LEDs, based on halide perovskites, has evolved significantly in terms of efficiency and stability. In particular, halide perovskites can now be fabricated as high-efficiency devices using a low-temperature solution process. If long-term stability can be improved, the halide perovskite will become an appealing material that satisfies even low-cost requirements. Moreover, because halide perovskites can accept and incorporate organic cations within one crystal structure, new physical properties may appear depending on the type of organic cations used. Therefore, these materials are expected to be highly scalable for a variety of applications. This will require extensive research, from the basic properties to practical devices. We have briefly reviewed and highlighted various aspects of halide perovskite materials here. We hope the articles in this issue will inspire researchers to utilize these materials in a broad range of research fields, and encourage new and especially early career researchers to enter the field and contribute.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Wide range of applications based on halide perovskite materials and crystallographic structure. Reprinted with permission from Reference 1. © 2016 Wiley. Note: BCCP, buffer-capped conducting polymer; ITO, indium tin oxide; ETL, electrontransporting layer; HTL, hole-transporting layer; LEDs, light-emitting diodes.</figDesc><graphic coords="2,51.48,83.47,305.05,256.69" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>HALIDE PEROVSKITE MATERIALS AND DEVICES</head><p>Sang Il Seok is a distinguished professor in the School of Energy and Chemical Engineering at the Ulsan National Institute of Science and Technology (UNIST), South Korea. He obtained his PhD degree from Seoul National University, South Korea. His current research focuses on the preparation of functional inorganic-organic hybrid materials and their application to energy devices, including perovskite solar cells. In 2017, he received the Korea Scientists Award from the Korean Government, and in 2019, he received the Kyung-Ahm Prize from the Kyung-Ahm Education and Cultural Foundation. Seok can be reached by email at seoksi@unist.ac.kr. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tzung-Fang</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Call for Exhibitors</head><p>A unique opportunity to present your innovative products and services to an international audience of materials science and engineering professionals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sign up today!</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-T</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-G</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">5916</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kubicek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Bork</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L M</forename><surname>Rupp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">11983</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vats</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W Y</forename><surname>Ho-Baillie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Seidel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">1807376</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W.-J</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Weng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">442</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z. Naturforsch</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">1443</biblScope>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">X.-G</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X.-J</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z.-X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P.-F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-Z</forename><surname>Ge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-Y</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-X</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W.-Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-W</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-M</forename><surname>You</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R.-G</forename><surname>Xiong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page">1077</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liscio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Milita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Fenwick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">5750</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Chem. Front</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">941</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">V</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Jang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">2189</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Best Research-Cell Efficiency Chart</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Renewable Energy Laboratory</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Fabini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Seshadri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">467</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Woo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">439</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cahen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">478</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">431</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">449</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Worku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">458</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Supplementary information Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Giles</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Samuel</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christopher</forename><surname>Menelaou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">B</forename><surname>Johnston</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Laura</forename><forename type="middle">M</forename><surname>Herz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Henry</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physics</orgName>
+								<orgName type="laboratory">Clarendon Laboratory</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<addrLine>Parks Road</addrLine>
+									<postCode>OX1 3PU</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Supplementary information Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A23EA4A5E9F7FEF6C8F19A7C971B792F</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:44+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Methods and Materials</head><p>Materials. Unless otherwise stated, all materials were purchased from Sigma-Aldrich or Alfa Aesar and used as received. Spiro-OMeTAD was purchased from Borun Chemicals.</p><p>Perovskite precursor synthesis: Formamidinium iodide (FAI) and formamidinium bromide (FABr) were synthesised by dissolving formamidinium acetate powder in a 2x molar excess of 57%w/w hydroiodic acid (for FAI) or 48%w/w hydrobromic acid (for FABr). After addition of acid the solution was left stirring for 10 minutes at 50 o C. Upon drying at 100 o C, a yellow-white powder is formed. This was then washed with diethyl ether and recrystallized twice with ethanol, to form white needle-like crystals. Before use, it was dried overnight in a vacuum oven.</p><p>To form FAPbI 3 and FAPbBr 3 precursor solutions, FAI and PbI 2 or FABr and PbBr 2 were dissolved in anhydrous N,N-dimethylformamide (DMF) in a 1:1 molar ratio, at 0.88M of each reagent, to give a 0.88M perovskite precursor solution. To form the FAPbI 3y Br 3(1-y) perovskite precursors, mixtures were made of the FAPbI 3 and FAPbBr 3 solutions in the required ratios. CsPbI 3 precursor was prepared by dissolving equimolar amounts of CsI and PbI 2 in dimethyl sulfoxide at 0.6M, in a nitrogen-filled glovebox. Films were spin-coated at 2000rpm and annealed at 100 o C for 5 minutes in the glovebox. MAPbI 3 precursor was prepared by dissolving equimolar amounts of methylammonium iodide (synthesised according to a literature procedure) <ref type="bibr" target="#b0">1</ref> and PbI 2 in DMF at 0.88M, in a nitrogen-filled glovebox. Films were spin-coated at 2000rpm and annealed at 100 o C for 5 minutes in the glovebox.</p><p>Film formation: For uniform and continuous film formation of FAPbI 3 , just before spin-coating, 60µl of hydroiodic acid (57%w/w) was added to 1ml of the 0.88M precursor solution. To form films for optical characterisation and device fabrication, the FAPbI 3 precursor was diluted down to 0.55M with DMF.</p><p>For the FAPbI 3y Br 3(1-y) samples for optical measurements, precursors were used as is, and spin-coated and annealed on glass in a nitrogen-filled glovebox at 170 o C for 25 minutes.</p><p>For the time-resolved photoluminescence samples of FAPbI 3 , the 0.55M precursor with added HI was spincoated on clean glass substrates in a nitrogen-filled glovebox at 2000rpm. The films were then annealed in air at 170 o C for 10 minutes. This gave very uniform layers ~400 nm thick of FAPbI 3 . For the non-quenching sample, 10mg/ml PMMA in chlorobenzene was spin-coated on top of the perovskite at 1000rpm. For the quenching samples, 30mg/ml PCBM and 50mg/ml Spiro-OMeTAD were spin-coated on top of the perovskite at 1000rpm and 2000rpm respectively. Substrate Preparation: Devices were fabricated on fluorine-doped tin oxide (FTO) coated glass (Pilkington, 7Ω □ -1 ). Initially FTO was removed from regions under the anode contact by etching the FTO with 2M HCl and zinc powder. Substrates were then cleaned sequentially in hallmanex detergent, acetone, propan-2-ol and oxygen plasma. A ~50nm hole-blocking layer of compact TiO 2 was deposited by spin-coating a mildly acidic solution of titanium isopropoxide in ethanol (350ul in 5ml ethanol with 0.013M HCl) at 2000rpm, and annealed at 500°C for 30 minutes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perovskite Solar Cell Fabrication:</head><p>To form the FAPbI 3 layer, the 0.55M precursor with added HI was spincoated in a nitrogen-filled glovebox at 2000rpm, on a substrate heated to 85 o C. The films were then annealed in air at 170 o C for 10 minutes. This gave a very uniform layer ~400nm thick of FAPbI 3 .</p><p>For FAPbI 3y Br 3(1-y) devices, these were fabricated in the same way, by diluting precursor solutions down to 0.55M and adding a mixture of HI and HBr in the required ratio to maintain the correct iodide/bromide fraction.</p><p>The hole-transporting layer was then deposited via spin-coating a 0.788M solution in chlorobenzene of 2,2',7,7'-tetrakis-(N,N-di-p-methoxyphenylamine)9,9'-spirobifluorene (spiro-OMeTAD), with additives of 0.0184 lithium bis(trifluoromethanesulfonyl)imide (added in 0.61M acetonitrile solution) and 0.0659M 4tert-butylpyridine. Spin-coating was carried out in air at 2000rpm. Gold electrodes were thermally evaporated under vacuum of ~10 <ref type="bibr">-6</ref> Torr, at a rate of ~0.1nm/s, to complete the devices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device characterisation:</head><p>The current density-voltage (J-V) curves were measured (2400 Series SourceMeter, Keithley Instruments) under simulated AM 1.5 sunlight at 100 mWcm -2 irradiance generated by an Abet Class AAB sun 2000 simulator, with the intensity calibrated with an NREL calibrated KG5 filtered Si reference cell. The mismatch factor was calculated to be 1.2% between 400 and 1100nm. <ref type="bibr" target="#b1">2</ref> The solar cells were masked with a metal aperture to define the active area, typically 0.0625cm -2 and measured in a lighttight sample holder to minimize any edge effects.</p><p>External Quantum Efficiency measurements: External quantum efficiency was measured via fouriertransform photocurrent spectroscopy, a fast and sensitive spectral characterization method. <ref type="bibr" target="#b2">3</ref> This was carried out using the modulated beam of a Bruker Vertex 80v Fourier Transform Interferometer with tungsten lamp source and a Stanford Research SR570 current preamplifier. Samples were calibrated to a Newport-calibratedreference silicon solar cell with a known external quantum efficiency. The solar cells were masked with a metal aperture to define the active area, typically 0.0625cm -2 .</p><p>Optical measurements: Transmittance and reflectance spectra were collected with a Varian Cary 300 UV-Vis spectrophotometer with an internally coupled integrating sphere. Materials Characterization: A Hitachi S-4300 field emission scanning electron microscope was used to acquire SEM images. Sample thicknesses were measured using a Veeco Dektak 150 surface profileometer. X-ray diffraction spectra were obtained from full devices with no evaporated electrodes, using a Panalytical X'Pert Pro x-ray diffractometer.</p><p>Photoluminescence measurements: Steady-state and time-resolved PL measurements were acquired using a time-correlated single photon counting (TCSPC) setup (FluoTime 300, PicoQuant GmbH). Film samples were photoexcited using a 507nm laser head (LDH-P-C-510, PicoQuant GmbH) pulsed at frequencies between 0.3-10MHz, with a pulse duration of 117ps and fluence of ~30nJ/cm 2 . The PL was collected using a high resolution monochromator and hybrid photomultiplier detector assembly (PMA Hybrid 40, PicoQuant GmbH).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diffusion modeling:</head><p>The PL decay dynamics were modeled by calculating the number and distribution of excitations in the film n(x,t) according to the 1-D diffusion equation,</p><formula xml:id="formula_0">( ) ( ) ( ) ( ) (S1),</formula><p>where D is the diffusion coefficient and k(t) is the PL decay rate in the absence of any quencher material. <ref type="bibr" target="#b3">4</ref> The total decay rate, k = 1/k f + 1/k nr = βτ -β t β-1 , was determined by fitting a stretched exponential decay to the PL data measured from perovskite layers with PMMA and assumed independent of the capping material. The effect of the quenching layer was included by assuming that all excitons which reach the interface are quenched with unit efficiency (n(L,t)=0, where x=0 at the glass/perovskite interface and L is the perovskite film thickness). As the excitation pulse was from the glass substrate side of the samples, the initial distribution of excitons was taken to be n(x,0)=n 0 exp(-αx), where α=A/L (absorbance at 507 nm / perovskite layer thickness). Any deviation from this distribution due to reflection of the laser pulse at the perovskite/quencher interface was assumed to be negligible. In order to calculate the diffusion length L D , the diffusion coefficient was varied to minimize the reduced chi-squared value,</p><formula xml:id="formula_1">( ) ∑ ( ( ) ( )) ( ) (S2),</formula><p>where y(t) and y c (t) are the measured and calculated PL intensities at time t, n is the number of data points and p is the number of fitting parameters. <ref type="bibr" target="#b4">5</ref> The equation was solved numerically using the Crank-Nicholson algorithm and the number of excitons integrated across the entire film in order to determine the total PL intensity at time t. Both the stretched exponential and 1-D diffusion models were fit to the experimental TCSPC data by iterative reconvolution with the instrument response function (IRF) which was recorded separately, such that the observed PL intensity,</p><formula xml:id="formula_2">( ) ∫ ( ) ( ) (S3),</formula><p>is the result of the real decay curve,f(t), convolved with the IRF, g(t). <ref type="bibr" target="#b4">5</ref> The diffusion length L D is given by √ , where  = 1/k is the recombination lifetime in the absence of a quencher. The errors reported in the text account for errors in the fitting procedure and in sample thickness. The latter is approximated to be ±25nm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Perovskite Tolerance Factor</head><p>The tolerance factor for a particular perovskite has been defined as: 6</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>√ ( )</head><p>Where r A , r B , and r X are the ionic radii of the A, B, and X components of the perovskite lattice. t = 1 would correspond to a perfectly packed structure, and it can be varied only in a restricted range. For most perovskites it has been stated to be between 0.8 and 0.9. <ref type="bibr" target="#b5">6</ref> This then sets limits on the feasibility of particular A cation replacements, based on their ionic radius, whilst keeping the same B and X components in the lattice. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">X-ray diffraction spectra for</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Pseudocubic lattice parameter calculation</head><p>Because the tetragonal phase is transitioned to from the cubic phase by a slight rotation of the adjacent PbX 6 octahedra, whilst maintaining corner-sharing, as shown in Fig. <ref type="figure" target="#fig_1">S2</ref>, we can define the tetragonal phase by a pseudocubic phase, where the (100) spacing in the pseudocubic system replaces the (110) tetragonal spacing, as previously described in the litreature. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> The pseudocubic lattice parameters are then determined from lattice parameters a and c by: √ ; For a cubic lattice, a* and c* should be identical, so for the most accurate representation, we averaged between a* and c* determined in this way to get a single pseudocubic lattice parameter. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Tauc plot bandgap calculation</head><p>Bandgap was determined by plotting (αhν) 2 against energy in eV, known as a Tauc plot. <ref type="bibr" target="#b8">9</ref> This assumes the compounds have a direct bandgap. The estimated bandgap is determined from the extrapolation of the linear region to the energy-axis intercept. Absorption coefficient α was determined from absorption spectra collected with an integrating sphere. An example absorption spectrum and Tauc plot are shown below.     </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FAPbI y Br 3</head><label>3</label><figDesc>Fig. S1: X-ray diffraction spectra for the whole range of FAPbI y Br 3-y formed, on fluorine-doped tin oxide-coated glass substrates. Peaks labelled with a * are assigned to the fluorine-doped tin oxide substrate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. S2 :</head><label>S2</label><figDesc>Fig. S2: Cubic (left) and tetragonal (right) lattices formed by the FAPbI y Br 3-y perovskites. The unit cell is shown in black. The pseudocubic lattice in the tetragonal configuration is shown in blue. Red = A cation, yellow = halide, grey tetrahedra are centred on the metal cation.</figDesc><graphic coords="7,292.90,267.47,192.60,208.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. S3 :Fig. S3 :7Fig. S4 :Fig. S5 :</head><label>S3S3S4S5</label><figDesc>Fig. S3: top, absorbance spectrum of a FAPbI y Br 3-y perovskite (where y=0.3). bottom, Tauc plot assuming direct bandgap, showing determination of estimated bandgap from intercept.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. S6 :</head><label>S6</label><figDesc>Fig. S6: Histogram representation of the solar cell characteristics for the same batch of optimised devices.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Fig. S7: Thermal degradation of MAPbI3 and FAPbI3, when bare spin-coated films of each perovskite are heated in air at 150 o C for the times indicated.The yellow colour that the MAPbI 3 degrades to is lead iodide (verified by XRD, not shown).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. S8 :</head><label>S8</label><figDesc>Fig. S8: Films of MAPbI 3 (left)and FAPbI 3 (right) upon to a close to 100% relative humidity atmosphere for ~15 minutes at room temperature. The atmosphere was created by pouring water onto a tissue in a sealed glass container with the films. Degradation is evident at an approximately equal rate in both films.</figDesc><graphic coords="12,196.20,507.54,202.88,109.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Statistics for whole batch of optimised FAPbI 3 solar cells</head><label></label><figDesc></figDesc><table><row><cell cols="3">Electronic Supplementary Material (ESI) for Energy &amp; Environmental Science</cell><cell></cell><cell></cell></row><row><cell cols="2">This journal is © The Royal Society of Chemistry 2014</cell><cell></cell><cell></cell><cell></cell></row><row><cell>8. No. cells</cell><cell>J sc (mAcm -2 )</cell><cell>V oc (V)</cell><cell>FF</cell><cell>PCE (%)</cell></row><row><cell>24</cell><cell>18.8±3.3</cell><cell>0.85±0.08</cell><cell>0.60±0.09</cell><cell>9.7±2.6</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table ST1 :</head><label>ST1</label><figDesc>Device statistics from a batch of 24 individual devices prepared using the optimised fabrication procedure, extracted from current-voltage characteristics measured under 100mWcm -2 AM1.5 illumination. Errors are calculated from the standard deviation in the batch.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_0"><p>Electronic Supplementary Material (ESI) for Energy &amp; Environmental ScienceThis journal is © The Royal Society of Chemistry 2014</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Teuscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page">643</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<date type="published" when="2012-05">2012, 5, 6513</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Vandewal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Haeldermans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nesládek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Haenen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Manca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thin Solid Films</title>
+		<imprint>
+			<biblScope unit="volume">516</biblScope>
+			<biblScope unit="page" from="7135" to="7138" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruseckas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D W</forename><surname>Samuel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3516" to="3520" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Lakowicz</surname></persName>
+		</author>
+		<title level="m">Principles of Flurescence Spectroscopy</title>
+		<imprint>
+			<publisher>Spinger London Ltd</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Mitzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Inorganic Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<date type="published" when="1999">1999</date>
+			<publisher>John Wiley &amp; Sons, Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Proffit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Q</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Rzchowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Eom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="page">111912</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Mandal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Il</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1764" to="1769" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tauc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grigorovici</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vancu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Status Solidi</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="627" to="637" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Malliakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

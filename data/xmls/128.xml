@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Lemerle</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Spectrochimie du SoIide</orgName>
+								<orgName type="institution">Universite Pierre et Marie Curie</orgName>
+								<address>
+									<addrLine>4 Place Jussieu</addrLine>
+									<postCode>75230</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">University of California -San Diego</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BF204ABEFA1B5C81B9EDA1A4EA29AD86</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:39+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GENERAL FEATURES OF GELS AND COLLOIDS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Colloids</head><p>Colloidal solutions or "sols" contain either large molecules or small particles (3), and occupy an intermediate position between true solutions of low-molecular-weight species and coarse dispersions. As a rough guide, colloidal particles can be regarded as having</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Gels and colloids are very widespread in nature. The familiar dessert jelly, the vitreous humor that fills the interior of the eye, marmalade, clays, india ink, milk, and blood serum are gels or colloids. They are also important intermediates in the manufacture of rubber and plastics, and are used in the laboratory for chromatography and electrophoresis.</p><p>Gels and colloids have been studied for more than a century, and Graham (1861) is usually regarded as the founder of colloid science. Nevertheless, most of the physical chemistry of gels has been developed only during the last 40 years, mainly by Flory at Stanford University <ref type="bibr" target="#b0">(1)</ref>. These studies deal mostly with organic polymers. There is much less work on inorganic compounds (2) and, to our knowledge, this paper is the first attempt to review transition metal oxide gels and colloids. In that field, most of the work has been done by French groups during the last four years. The uniqueness of this work lies in its considering transition metal oxide gels as new materials having specific physical properties. A gel being a form of matter intermediate between liquid and solid, its electrical, optical, or magnetic properties could lead to new applications in the field of materials SCIence.</p><p>The surface/volume ratio of colloidal particles may be quite high so that surface properties will play a decisive role in the stability of colloidal solutions. Because of their small dimensions, colloids are constantly moving in an irregular fashion (Brownian motion). There is then always plenty of opportunity for the particles to collide. During such a collision, the attractive van der Waals forces overcome the thermal energy kT and the particles tend to combine in order to decrease their surface free energy. This leads to a phase separation called flocculation. All colloids spontaneously tend to flocculate, and some repulsive force must prevent them from colliding in order to obtain a stable colloidal solution.</p><p>Thc stability of sols arises chiefly from the electrical charges carried by the particles. Identically charged particles will repel each other, which prevents contact, whereas uncharged particles will collide. The charge of the colloid may arise from the ionization of the surface in a polar medium. Silicate particles, for instance, become negatively charged in water by diffusion of Na + ions toward the solution <ref type="bibr" target="#b4">(5)</ref>. The superficial charge may also arise from the preferential adsorption of dissolved ions. In water, for instance, the charge is due to adsorption of H+ or OH -ions. It may be conveniently modified in magnitude and in sign just by varying the pH. An "isoelectric point" corresponding to the point of zero charge may be defined. It corresponds to the pH below which particles are positively charged and above which they become negatively charged <ref type="bibr" target="#b5">(6)</ref>. Addition of inorganic saits, which effectively screen the charges on colloidal particles, reduces the range of the electrical repulsive forces, so that the attraction predominates and coagulation follows.</p><p>Another stability factor comes from solvation, i.e. adsorption o f solvent molecules at the surface of the colloid. The particle is then more or less surrounded by a protecting layer that can prevent its aggregation with another particle. Such a protecting effect may be reinforced by adding a protective colloid called "surfactant" <ref type="bibr" target="#b6">(7)</ref>. Ferrofluids for instance are commercially obtained by coating small ferrite particles with long chain polar molecules <ref type="bibr" target="#b7">(8)</ref>. At short distances, the repulsion due to steric hindrance of the long chain molecules overcomes the attractive interaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gels</head><p>The stability and properties of colloidal solutions are governed mainly by the nature of the interactions between solid particles and the solvent. Colloidal systems may be classified into two main groups: (a) Colloidal dispersions that are thermodynamically unstable. They are irreversible systems in the sense that they are not easily reconstituted after phase separation. (b) Macromolecular solutions that are thermodynamically stable and reversible. They can be easily reconstituted after separation of solute from solvent.</p><p>Sometimes, a large amount of solvent can be immobilized by mechanical entrapment. A gel is thus obtained. This is a quasi-homogeneous solid-like system but rieh in liquid. Such structures are preferentially formed by long or flat particles chemically cross-linked or physically entangled to such an extent that a continuous three-dimensional network is formed. The solvent becomes trapped in this network and a gel is formed. Transition metal oxide gels, for instance, may be obtained with iron hydroxide (flat particles) or vanadium pentoxide (random coils). The polymeric network prevents the liquid from flowing while the liquid prevents the solid from collapsing into a compact mass. Gels may be thixotropic; the bonds between particles being reversibly broken by mechanical action <ref type="bibr" target="#b8">(9)</ref>.</p><p>Gels have to be distinguished from gelatinous precipitates in which water is not included in the solid network. The solvent may be removed from the gcl, giving powders of large surface area that can be used for the sintering of glasses or ceramics at low temperature <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b10">11)</ref>. Dehydration of a gel may sometimes be reversible. An elastic solid called "xerogel" is obtained. Restoring the water (or another solvent} produces again a gel or a colloidal solution. This process, known as the swelling of a xerogel, mostly occurs for macromolecular colloids. It may explain the high solubility of amorphous VzOs in water <ref type="bibr" target="#b11">(12)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LIV AGE &amp; LEMERLE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PREPARATION OF COLLOIDS</head><p>Colloids are halfway between molecules and solids. They can be obtained either by dispersing the bulk state (grinding, peptization, decomposition) or by agglomerating the molecular state (polymerization). Both physical and chemical processes have been developed to create transition metal oxide gels or colloids. Many specific syntheses are described in the literature, but few general principles have been pointed out. The nature and the properties of the final product are very sensitive to a number of parameters, among which are the solvent, the pH, the temperature, and the presence of foreign ions <ref type="bibr" target="#b1">(2)</ref>.</p><p>Most efforts have tried to control the size and the charge of the colloidal particles. The apparent charge of the system must be as low as possible in order to get species of high molecular weight. The synthesis has then to be performed at a pH close to the isoelectric point. Particle-particle interac tions are thus enhanced, and this enhanced particle association leads to the formation of high polymers. Particle-solvent interactions, on the other hand, are decreased and care must be taken to avoid flocculation. Therefore excess electrolytes must be eliminated or a peptizing agent must be added.</p><p>A survey of published data shows that almost all transition metal oxides, except the VIIB elements, can be obtained as gels or colloids. Transition elements located at the left of column VIIB give, in their highest valence state, hydrated oxides, those located at the right tend to give colloidal metals (zero valence state) or colloidal hydroxides. Iron, cobalt, and nickel give magnetic colloids that can be either hydrated oxides or hydroxides depending on the pH of the medium. Colloidal oxides are usually strongly solvated by water molecules and this tightly bound water must be treated as a part of the particle. It is therefore not always easy to know the exact chemical formula of the colloid. They are sometimes called "hydrous oxides," in a rather general sense including oxides, hydroxides, hydrated oxides, oxyhydroxides, etc <ref type="bibr" target="#b1">(2)</ref>.</p><p>An exhaustive analysis of all the syntheses described in the literature would be tedious. We instead focus our discussion on some especially important classes of transition metal oxide gels and colloids.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>M onodispersed Colloids</head><p>Matijevic and co-workers <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b12">13)</ref> extensively studied the way of making monodispersed metal hydrous oxides of uniform size and shape. They showed that the appearance of the colloid was preceded by the formation of dissolved metal complexes, which include, as ligands, hydroxide ions, and possibly other anions present in the solution. These complexes act as precursors to nucleation and therefore affect the particle growth.</p><p>Forced hydrolysis of metal salt under carefully controlled conditions allowed Matijevic et al to prepare a great variety of colloidal transition metal oxides (Cr, AI, Th, Fe, Cu, Ti). They showed that metal ions known for their tendency to polymerize on heating or ageing (such as Al or Cr) give amorphous particles, whereas metal ions that hydrolyse to well-defined molecular species yield crystalline solids.</p><p>The nature of the anion may be very important too. Anions that promote polymerization of metal hydroxylated species (e.g. sulfate, phosphate) lead to amorphous particles, whereas anions that give well-defined complexes (e.g. chlorine, nitrate) produce crystalline solids.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Polymeric Gels</head><p>Early transition metals such as vanadium, molybdenum, and tungsten are well known to give condensed species called polyanions ( <ref type="formula">14</ref>), but their molecular weight is not high enough to form gels or colloids. Polymerization can nevertheless be enhanced by decreasing the charge of the polyanion, i.e. by adjusting the pH of the solution around the isoelectric point. This is usually done by water peptization of a mixture obtained by grinding ammonium meta vanadate or tungstate in hydrochloric acid <ref type="bibr" target="#b14">(15)</ref>.</p><p>A very nice method for making sols or gels without any foreign anion was developed recently by J. Lefebvre and colleagues <ref type="bibr" target="#b15">(16)</ref>. In the case of V 205 gels, for instance, decavanadic acid is first prepared by ion exchange in a resin from sodium metavanadate solution. This acid spontaneously polymerizes in water at room temperature according to a self-catalytic condensation process. Water molecules are eliminated between two V-OH groups, giving an oxygen bridge between the two vanadiums <ref type="bibr" target="#b15">(16)</ref>. The pale yellow decavanadic acid solution progressively darkens and becomes more viscous with age. After a few hours a red gel is obtained, made of polymeric species of high molecular weight. An electron micrograph of these gels is shown in Figure <ref type="figure" target="#fig_0">1</ref>. It shows the fibrous texture of the gel made of entangled fibers about 0.5 Jim long and 50--100 A thick <ref type="bibr" target="#b16">(17)</ref><ref type="bibr" target="#b17">(18)</ref><ref type="bibr" target="#b18">(19)</ref>.</p><p>A similar procedure can be followed for making tungsten oxide gels (20). This gel is nevertheless unstable and after a few days a precipitate of crystalline tungsten oxide is formed. The gel can, however, be stabilized by adding some foreign colloidal oxides such as Mo03.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Magnetic Colloids</head><p>Physical methods have also been used in order to obtain transition metal oxide colloids. The best-known example is that of magnetic liquids containing colloidal ferrite particles now manufactured under the name "Ferroftuids" by Ferroftuidics Corporation. Such magnetic colloids can be obtained by grinding ferrite powders with steel balls for several weeks in a kerosene oleic acid mixture <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b20">21)</ref>. The grinding leads to particles whose diameter is about 100 A. The surfactant (oleic acid) is included in order to prevent agglomeration due to van der Waals and magnetic forces <ref type="bibr" target="#b21">(22)</ref>. Such a procedure is, of course, very long and expensive, so other methods have been developed. Colloidal magnetite can also be prepared by chemical precipitation of Fe304 particles fro� a solution of ferric and ferrous salts. The precipitate is then separated to a colloidal state by a solution of oleic acid in a nonpolar liquid <ref type="bibr" target="#b22">(23)</ref>. Very recently, Massart, at the University of Paris, found a new way of making magnetic colloids without any surfactant <ref type="bibr" target="#b23">(24,</ref><ref type="bibr" target="#b24">25)</ref>. In this procedure, an aqueous mixture of ferric and ferrous chloride is added to ammonia. A gelatinous precipitate is obtained that can be treated either in an alkaline medium by peptization with tetramethylam monium hydroxide or in an acid medium with perchloric acid. The stabilization of these sols does not need the addition of surfactant as in all previous ferrofluids; instead they are stabilized by the superficial charge of the colloid. This charge is due to the preferential adsorption of H + or OH ions. It can be modified at will, in sign and intensity, by varying the pH below or above the isoelectric point around pH = 7 <ref type="bibr" target="#b24">(25)</ref>. The electronic properties of transition metal oxide gels and colloids are not drastically different from those of the amorphous or crystalline oxides in the solid state. Transition metal ions. may exhibit several valence states so that electron transfer from low to high valence ions can take place. These materials then belong to the well-known family of mixed-valence com pounds <ref type="bibr" target="#b25">(26)</ref>. The electron transfer process between two transition metal ions is usually described by a double well potential energy diagram (Figure <ref type="figure" target="#fig_2">2</ref>). The electron can be thermally transferred from one site to the other with an activation energy Eth = W given by the height of the potential energy barrier separating the two configurations. It can also be optically excited without moving the ions (according to the Franck-Condon principle) with an activation energy E OP! = hv. The optical and thermal activation energies are related by Eopt = 4Eth <ref type="bibr" target="#b26">(27)</ref>. Electron exchange between both ions is only possible if the overlap between the electronic wave functions t/I A and t/lB is different from zero. This electronic interaction removes the degeneracy at the crossing point of the potential energy curves, leading to two energy levels separated by 2J, where J is the transfer integral (Figure <ref type="figure" target="#fig_2">2b</ref>). The thermal activation energy is thus lowered (Elh = W -J) and the two exchange processes are related by i Eopt = Eth + J <ref type="bibr" target="#b26">(27)</ref>.</p><formula xml:id="formula_0">L1V AGE &amp; LEMERLE</formula><p>Mixed-valence compounds will then behave differently, depending on the values of J and W. This leads to the classification suggested by Robin &amp; Day <ref type="bibr" target="#b25">(26)</ref>. No exchange is observed when J = 0, valence states remain localized and the mixed-valence compound behaves as an insulator (class I). Delocalization occurs when J � W (class III) leading to metallic behavior as in the tungsten bronze Nax W03. Electron hopping between localized states is observed when J &lt; W (class II). Because d-d overlap is usually small in transition metal oxide gels, these compounds belong to class II. Electron transfer may be either optically or thermally activated. The optical activation energy is typically about 1 eV, giving a characteristic blue color due to intervalence transfers <ref type="bibr" target="#b27">(28)</ref>. The thermal activation energy is about 0.2 eV, which leads to semiconducting behavior <ref type="bibr" target="#b28">(29)</ref>. Magnetic properties can also be observed when both valence states have an unpaired electron <ref type="bibr" target="#b29">(30)</ref>.</p><formula xml:id="formula_1">--��� �� �-----g</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Semiconducting V205 Gels</head><p>Vanadium pentoxide gels were recently developed in order to make semiconducting coatings <ref type="bibr" target="#b30">(31)</ref><ref type="bibr" target="#b31">(32)</ref><ref type="bibr" target="#b32">(33)</ref>. Such gels, or colloidal solutions, behave like paint. They can easily be deposited onto a glass or polymeric substrate giving layers of large area. The solvent readily evaporates and a rather hard coating results. Its thickness may range between 500 and 10,000 A.</p><p>The V 205 layers deposited from gels exhibit interesting semiconducting properties <ref type="bibr" target="#b33">(34)</ref>. The temperature dependence of their dc conductivity in the temperature range 20-300 K is reported on Figure <ref type="figure" target="#fig_3">3</ref>. It is typical of small polaron conduction in amorphous transition metal oxides and can be ( W )</p><formula xml:id="formula_2">(J = k�R C(1-C) exp(-2aR) exp -kT '</formula><p>where Vo is a phonon frequency related to the Debye temperature () (hyo = k()). R is the average hopping distance between vanadium ions, C is the fraction of V 4 + ions, a is the rate of the wave function decay, and exp( -2rxR) corresponds to tunnelling transfer. A linear plot of In«(JT) versus liT is observed at high temperature (&gt; 150 K) giving an activation energy W = 0.17 eV. According to Schnakenberg <ref type="bibr" target="#b34">(35)</ref>, in this temperature range (T &gt; <ref type="bibr" target="#b11">(12)</ref> the small polaron hopping is activated by an optical multiphonon process and the activation energy is given by W = »), +t�. »), corresponds to the small polaron formation and � to the disorder term introduced by Anderson and leading to the well-known "Anderson localization" in amorphous semiconductors <ref type="bibr" target="#b35">(36)</ref>. As the temperature is lowered, the phonon spectrum freezes out and the observed activation energy continuously decreases. An acoustical phonon-assisted hopping takes place at low temperature (T &lt; ()14), the activation energy is given by W = twd. A linear plot below 48 K yields a disorder term Wd of about 0.1 eV. This experiment, performed at the University of Orsay, was the first direct measurement of � at low temperature. Amorphous transition metal oxides are usually highly resistive and, up to now, conductivity measure ments had never been performed below 77 K <ref type="bibr" target="#b28">(29)</ref>. This points out one of the main interests in semiconducting layers deposited from V 20S gels. They exhibit a surprisingly high conductivity compared to other V 20S com pounds (see Table <ref type="table" target="#tab_0">1</ref>). A value of about 1 Q -1 cm -1 was measured at room temperature, three orders of magnitude greater than for crystalline V 205.</p><p>The reason for such a high conductivity is not yet clearly understood. It presumably arises from the particular nature of the gel where charged ions may be adsorbed at the surface of the oxide. Patents have recently been   granted for using Y20S gels to deposit antistatic coatings on the back of photographic films <ref type="bibr" target="#b36">(37)</ref>. Beside their high conductivity, such coatings appear to be much less sensitive to ambient moisture than the polymeric antistatic coatings previously used in the photographic industry <ref type="bibr" target="#b37">(38)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Switching Devices</head><p>Switching and memory effects have been observed in a wide variety of amorphous semiconductors since their discovery by Ovshin s ky in chalco genide glasses <ref type="bibr" target="#b38">(39)</ref>. Several phenomena are actually classified under the loosely defined name of "switching" (40) : negative resistance devices, negative resistance with memory, switching, or switching with memory. They all occur when the voltage V, applied across a thin film, exceeds a threshold value �. For V &lt; �, the film is in the high resistance "OFF" state while for V &gt; � it switches to the low resistance "ON" state. It switches back to the OFF state when the current decreases below a critical value called holding current lh' The resistance ratio between ON and OFF states may exceed six orders of magnitude. Some amorphous semiconductors have been operated 10 14 times under pulse conditions without failure. Great hopes have been placed on switching or memory devices based on amorphous semiconductors, but none has yet led to industrial application. The theoretical description of the switching phenomenon is still the subject of controversy. According to some authors, it should be due to thermal instability <ref type="bibr" target="#b39">(40)</ref>; others suggest a double injection process <ref type="bibr" target="#b40">(41,</ref><ref type="bibr" target="#b41">42)</ref>. Switching has been observed in several transition metal oxide glasses <ref type="bibr" target="#b42">(43,</ref><ref type="bibr" target="#b43">44)</ref>. Y 20S P20 S glasses, for instance, exhibit either threshold or memory switching <ref type="bibr" target="#b44">(45)</ref><ref type="bibr" target="#b45">(46)</ref><ref type="bibr" target="#b46">(47)</ref><ref type="bibr" target="#b47">(48)</ref>.</p><p>Switching devices, based on Y 20S layers deposited from gels, were recently developed <ref type="bibr" target="#b48">(49)</ref>. Figure <ref type="figure" target="#fig_6">4</ref> shows such a device. A layer, about 1 ).lm thick is deposited onto a microscope slide and gold electrodes 100 ).lm apart are vacuum evaporated in a coplanar geometry (Figure <ref type="figure" target="#fig_6">4a</ref>). A 0--400 volts dc voltage is applied through a current-limiting resistor RL (Figure <ref type="figure" target="#fig_6">4b</ref>). The I -V characteristic of the device is drawn on Figure <ref type="figure" target="#fig_6">4c</ref>. The voltage drop Vx across the sample is plotted along the x axis, while the current, given by the voltage drop lj = RJ across a resistor Rs' is plotted along the y axis.</p><p>Switching occurs for a threshold voltage � ranging between 10 and 20 volts, depending on the y4+ content of the sample (0.01 &lt; y4+ IY &lt; 0.04). It decreases when the y4 + fraction increases. Currents up to 50 rnA were passed through the sample without failure. Upon application of a 50-l:Iz ac voltage, a stable characteristic was obtained, even after several days of operation. The threshold voltage decreases when the temperature in creases; switching even disappears above 350 K. A maximum value is obtained around 260 K and a plateau is observed for lower temperatures. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Electrochemichromism of WO] Gels</head><p>Photochromic and electrochromic properties of amorphous W03 thin films have been thoroughly studied during the last decade <ref type="bibr" target="#b27">(28)</ref>. The first paper, published by <ref type="bibr">Deb in 1973 (50)</ref>, reported that amorphous W0 3 could exhibit two stable states. One is transparent and highly resistive while the other is deep blue and less resistive. Coloration can be obtained by UV irradiation, application of an electric field, or proton injection from an electrolyte <ref type="bibr" target="#b27">(28)</ref>. The first two processes are rather slow, but the third one appears to be fast and highly reversible. It could have considerable application in the field of digital display devices <ref type="bibr" target="#b50">(51)</ref>. Amorphous W03 thin films are usually obtained by vacuum evapor ation of rf sputtering, but we recently found (Livage, unpublished results) that they could also be deposited from W03 gels or colloidal solutions. Such a procedure would be very cheap and could lead to display devices of large area. W03 gels can be made by polymerization of tungstic acid in water <ref type="bibr" target="#b19">(20)</ref>. A white gel is first obtained that does not appear to be stable. It precipitates within a few hours, giving crystalline hydrated oxides W03• nH20 that do not exhibit photochromic properties. The gel can nevertheless be stabilized by adding foreign ions to the solution of tungstic acid before polymerization. The gel, or colloidal solution, can then be easily deposited on a glass or polymeric substrate, giving transparent layers of amorphous W03.</p><p>Such layers are quite stable and can be kept transparent for months. On the other hand, they turn to a deep blue within a few seconds when irradiated by UV light. The process is not reversible and the blue color remains indefinitely. Such layers could be used for printing information on a film. The coloration process appears to be much faster than for other amorphous W03 thin films that require prolonged exposure of s everal hours to become blue <ref type="bibr" target="#b49">(50)</ref>. The reason for such a difference presumably arises from the fact that W03 gels contain water molecules that take part in the photoreduction process. Furthermore, the coloration characteristics can be modified by using other solvents.</p><p>Reversible display devices based on amorphous W03 thin films have been developed (5 1). Amorphous W03 can be obtained by vacuum evaporation <ref type="bibr" target="#b49">(50)</ref>, sputtering <ref type="bibr" target="#b52">(53)</ref>, or anodic oxidation of tungsten <ref type="bibr" target="#b53">(54)</ref>. It can also be deposited from a W03 gel. These devices behave like an electrochemical cell <ref type="bibr" target="#b51">(52)</ref>. The W03 film is deposited onto a transparent conducting electrode (indium tin oxide). It is then placed in contact with a suitable electrolyte: e.g. an aqueous acid solution (55), LiCI0 4 dissolved in propylene carbonate <ref type="bibr" target="#b55">(56)</ref>, or even a solid-state electrolyte <ref type="bibr" target="#b56">(57)</ref>. The application of a negative potential (&gt;0.7 V) (Figure <ref type="figure" target="#fig_7">5a</ref>) causes the W03 film to turn deep blue within 0.5-1.0 second. The blue state remains after the voltage has been removed but the initial transparent state can be restored by applying a reverse (0.8 V) potential (Figure <ref type="figure" target="#fig_7">5b</ref>). The coloring and bleaching cycles have been repeated more than 106 times without significant degradation <ref type="bibr" target="#b57">(58)</ref>.</p><p>The blue coloration arises from a broad absorption band centered around 900 nm <ref type="bibr" target="#b56">(57)</ref>. This absorption is due to optically• activated intervalcnce transfer of unpaired electrons between W5 + and W6 + ions. ESR experiments performed on colored W03 thin films <ref type="bibr" target="#b52">(53)</ref> show that isolated W5 + ions are formed upon coloration, while they disappear upon bleaching. The most probable process for electrolytic coloration seems to be that of a double injection in which negative charge carriers are electrons while M+ ions (M = H, Li) are the charge compensators <ref type="bibr" target="#b58">(59)</ref>. A blue tungsten bronze would then be formed according to</p><formula xml:id="formula_3">xM+ +xe-+ W03 --t MxW03•</formula><p>The blue W03layers also exhibit semiconducting properties arising from a thermally activated hopping process. Figure <ref type="figure" target="#fig_8">6</ref> shows the temperature dependence of the ESR spectrum recorded on a blue layer deposited from gel. Thc unpaired electrons remain localized on a single tungsten site below 77 K. A hopping process is observed when the temperature increases, leading to a broadening of the W5 + ESR signal. The termal activation energy calculated from the ESR linewidth variation is quite small (Eth -0.05 eV), much smaller than for semiconducting layers deposited fr om V20S gels.</p><p>W03 gels have not yet received much attention but they could lead to interesting new applications in the field of display devices or reversible cathodes for secondary lithium batteries. the Ferrofluidics Corporation under the name of fcrrofluids. This term was first used by Rosenweig and Kaiser to designate a magnetic colloid in which the dispersed phase is a magnetic ferrous material. The more general term "magnetic fluid" is preferred because these fluids may contain magnetic particles other than iron, i.e. cobalt, nickel, gadolinium, or dysprosium <ref type="bibr" target="#b29">(30)</ref>. They can also contain ferrimagnetic particles such as the ferrites of manganese, cobalt, nickel, copper, or magnesium. Ferroftuids are quite different from the magnetic clutch materials developed in the 1940s. These were suspensions of fairly large (about l/lm) particles in oil and proved useful in clutches, brakes, and dash pots, because their viscosities depended upon the applied magnetic field. Ferrofluids are colloidal suspensions of very fine particles (about 100 A). They keep their fluid properties under all applied fields and field gradients and can therefore be defined as Newtonian liquids that retain their fluidity in the presence of an external magnetic field <ref type="bibr" target="#b20">(21)</ref><ref type="bibr" target="#b21">(22)</ref><ref type="bibr" target="#b22">(23)</ref>. A magnetic fluid is actually a two-phase fluid (Figure <ref type="figure" target="#fig_9">7</ref>), but the particles are sufficiently fine so as to remain suspended indefinitely in the liquid. The mechanism that makes this possible is Brownian motion. A unique property of these fluids is that, when the magnetic particles are attracted to a magnet, the carrier fluid moves along with the particles so that the carrier fluid appears to be magnetic (Figure <ref type="figure">8</ref>). The size of the colloidal particles (about 100 A) is somewhat less than the dimensions of a single magnetic domain <ref type="bibr" target="#b60">(61)</ref>. They are then magnetically soft <ref type="bibr" target="#b59">(60)</ref> and do not display any hysteresis loop. They behave as superparamagnets. Their magnetizations can reach high levels at saturation (4nM s -600 gauss), but do not exhibit any remanence at zero field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Magnetic Colloids, Ferrofluids</head><p>Magnetic fluids are thoroughly studied all over the world. Two international conferences gathered together hundreds of scientists, and a third will occur in 1983. Numerous applications have been suggested, some of them being already proven. The apparent increase in density of ferrofluids with increasing magnetic field makes it possible to vary their apparent density at will, a property that could be very useful for the selective separation of minerals according to their densities. Among the numerous products in which magnetic fluids can play a role are rotary shaft seals, magnetically entrained lubricants, nonwearing electrical switches, dampers and shock absorbers, and liquid pumps without mechanical devices.</p><p>Since the magnetic properties of ferrofluids depend on the temperature, direct conversion of thermal energy to mechanical energy has also been proposed. The magnetization can be varied thermally so as to alter the Figure <ref type="figure">8</ref> A unique property of the ferrofluid is that when the magnetic particles are attracted to a magnet, the whole carrier fluid moves along so that it appears to be magnetic. (From Serddav, CNRS, France.) pressure in the fluid. Many other applications, such as high-speed magneto graphic line printing or medical uses, can be found in the literature <ref type="bibr" target="#b20">(21)</ref>. The high cost of ferrofluids is still an important impediment to their development. New ways of making them at lower cost must be found. A deeper understanding of the physical chemistry of colloids could probably help solve this problem <ref type="bibr" target="#b24">(25)</ref>.</p><p>The Gel Route to Glasses and Ceramics Highly divided inorganic oxides are increasingly being used as absorbents, fillers, supports, reinforcing agents, pigments, etc. Such oxides can be obtained in a divided state, as porous gels, by chemical precipitation from an aqueous solution. After drying, a xerogel is obtained whose texture (pore volume, surface area) is often much poorer than that of the wet gel: aerogels exhibiting better surface properties can, however, be obtained by evacuat ing the solvent under hypercritical conditions in an autoclave. Those materials have a much higher reactivity than bulk oxides and exhibit interesting catalytic properties <ref type="bibr" target="#b61">(62)</ref>.</p><p>Gels can also be chosen as starting materials for preparing metastable phases. Tetragonal zirconia ZrOz, for instance, cannot be obtained, even by quenching, at temperatures lower than llOO°e. A phase transformation occurs and the stable phase at room temperature is always monoclinic. Amorphous zirconium oxide gels have been obtained by precipitation of zirconium oxychloride with ammonia. These gels crystallize upon heating at 300°C, giving rise to the tetragonal form ofZrOz. This phase of course is metastable and slowly transforms into the monoclinic one when heated above 400°C <ref type="bibr" target="#b62">(63)</ref>. Similar gels, obtained by coprecipitation of ZrOz with another oxide, have been developed in order to make refractory com pounds <ref type="bibr" target="#b63">(64)</ref>.</p><p>This example shows that inorganic gels can be used as starting materials in order to make glasses or ceramics at low temperature, well below the melting point. This method, called the "gel route" by Roy <ref type="bibr" target="#b64">(65)</ref>, has grown continuously in recent years <ref type="bibr" target="#b65">(66,</ref><ref type="bibr" target="#b66">67)</ref>. The preparation of inorganic materials by the gel route may be considered a polycondcnsation reaction requiring that the parent chemical species form, at first, a clean solution <ref type="bibr" target="#b65">(66,</ref><ref type="bibr" target="#b67">68)</ref>. This can usually be achieved, in the case of a multicomponent system, with alcoholic solutions of metal alkoxides M(OR)m which are very suitable for the generation of polymeric chains upon hydrolysis and condensation <ref type="bibr" target="#b68">(69)</ref>.</p><p>The nature and properties of the gel strongly depend on the experimental procedure. Fibers could be drawn from alkoxide solutions in the course of hydrolysis, when water is added in an amount insufficient for the completion of the hydrolysis. Glass fibers of TiOz-SiOz, Alz03-SiOz, or 120 LIV AGE &amp; LEMERLE Zro.rSi02 have been made that way <ref type="bibr" target="#b69">(70)</ref>. On the other hand, homo geneous hydrolysis with an excess of water gives jelly-like masses suitable' for obtaining nonparticulate glasses <ref type="bibr" target="#b70">(71,</ref><ref type="bibr" target="#b71">72)</ref>.</p><p>Preparation of glasses and ceramics from metal-organic compounds via the gel route permits the mixing of constituents at a molecular level. Owing to this intimate mixing and the high surface area of the gels, these materials melt to clear glasses or sinter to dense bodies at temperatures considerably lower than the equivalent compositions prepared by classical methods. Sol gel material preparation processes have been applied in coating technology <ref type="bibr" target="#b72">(73)</ref> or in the preparation of high density nuclear materials <ref type="bibr" target="#b73">(74)</ref>. AZSC refractories <ref type="bibr" target="#b10">(11)</ref> and superionic conducting oxides <ref type="bibr" target="#b74">(75)</ref> have also been recently made by the gel route. Many other examples can be found in the literature showing that the gel route is a very promising way of preparing materials at low temperature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Gels and colloids cover a wide range of inorganic compounds situated between molecules and solids. This particular state of matter is very often encountered in the chemical industry and almost all transition metal oxides can be obtained in the colloidal state <ref type="bibr" target="#b1">(2)</ref>. Nevertheless, a survey of the literature shows that their study is still beginning. Much work has to be done before a deep understanding of the nature and properties of transition metal oxide gels and colloids can be reached. In this section we point out some of the main .features of this special kind of materials.</p><p>First of all, colloidal oxides have a large surface area. They exhibit a much higher reactivity than bulk oxides. This property can, of course, be used for heterogeneous catalysis <ref type="bibr" target="#b61">(62)</ref>. It can also be very important for making inorganic materials at low temperature and therefore at lower cost. The.gel rONte <ref type="bibr" target="#b64">(65)</ref> opens new techniques in• the field of glasses and ceramics. The mechanical and physical properties of the materials prepared by this method appear to compete quite well with those of the materials obtained by melting or sintering.</p><p>Due to their large surface area, colloids interacrstrongly with the solvent molecules. Ionic or electronic exchanges between the solid (colloidal oxide) and the solvent are then enhanced, This property could find interesting applications in all devices where some exchange occurs between a solid and' a liquid (ion exchange resins, ' batteries, electrochemical cells for display devices). Solvation effects play a dominant role in the properties of gels. The' high conductivity of V 205 layer.s deposited from gel presumably arises from such surface' effects. These ll'!-yers, exhibit intercalation properties and recent works show that a wide variety of organic molecules can .be, intercalated in V 20S gels <ref type="bibr" target="#b75">(76)</ref>. Their semiconducting properties might be modified at will according to the nature of the intercalated molecule.</p><p>Another interesting feature of transition metal oxide gels and colloids is that they can lead to liquids having physical properties usually encountered in the solid state. All the known materials that are strongly magnetic, for instance, are solids. The only liquids exhibiting high magnetizations are ferrofluids. These are solutions of magnetic colloidal particles. The solid phase does not occupy more than 10% of the volume, but the whole solution behaves as a magnetic fluid.</p><p>We have tried, in this review article, to point out some of the main properties of the colloidal state that could be applied in the field of materials science. Many others could be found and we hope that new ideas will soon appear in the somewhat forgotten field of transition metal oxide gels and colloids.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Electron micrograph of a V 205 gel showing the fibrous texture of the material.</figDesc><graphic coords="6,51.85,57.59,318.72,211.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Downloaded from www.annualreviews.org. University of California -San Diego (ar-226010) IP: 137.110.37.255 On: Sun, 03 Nov 2024 18:17:44 OXIDE GELS 109 APPLICATIONS OF TRANSITION METAL OXIDE GELS AND COLLOIDS Electronic Properties</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Potential energy vs a configurational parameter for an electron hopping between two transition metal ions: (a) without any electronic interaction, J = 0; and (b) with an electronic interaction, J # O.</figDesc><graphic coords="7,53.76,414.72,334.08,112.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Temperature dependence of the electrical conductivity of V 205 layers deposited from gel.</figDesc><graphic coords="8,103.68,289.91,203.52,241.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Crystalline</head><label></label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Switching in V 20 5 gel: (a) switching device using a layer of amorphous V;05 deposited fr om gel; (b) electrical circuit used for measurements; and (c) the I = f(V) characteristic.</figDesc><graphic coords="11,71.04,51.83,272.64,313.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 5</head><label>5</label><figDesc>Figure 5 Electrochromism of amorphous W03 layers deposited from gel: (a) coloration, (b) bleaching.</figDesc><graphic coords="13,94.08,53.52,201.60,202.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>FerromagneticFigure 6</head><label>6</label><figDesc>Figure 6 Electron spin resonance (ESR) spectrum of a blue W03 layer deposited from gel. The recording temperatures are (a) 300 K, (b) 150 K, and (c) 77 K. The low field signal corresponds to Mo 5 + impurities. The high field signal that broadens with temperature corresponds to W 5 + ions.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>•,Figure 7</head><label>7</label><figDesc>Figure 7  This ferrofluid is a two-phase fluid containing small Fe304 particles (diameter � 100 A) dispersed in kerosene. For this electron micrC1graph, the liquid has been replaced by a polymer according to a procedure described in<ref type="bibr" target="#b76">(77)</ref>. (From Serddav, CNRS, France:)</figDesc><graphic coords="15,53.76,303.36,312.96,207.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Electrical properties of V 205</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>LIVAGE &amp; LEMERLE</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Principles of Polymer Chemistry</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Flory</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1953">1953</date>
+			<publisher>Cornell Univ. Press</publisher>
+			<biblScope unit="page">672</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Matijevic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ace. Chern. Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="22" to="29" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Principles of Colloid and Surface Chemistry</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hiemenz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<publisher>Marcel Dekker</publisher>
+			<biblScope unit="volume">516</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Colloid Chemistry: Oxford: Pergamon</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jirgensons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Straumanis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<biblScope unit="page">498</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lagaly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="105" to="148" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Matijevic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Colloid Polym. Sci</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="24" to="35" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Laible</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hamann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="65" to="99" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Popell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">US Patent</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">572</biblScope>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Julinsburger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pirquet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Faraday Soc</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="445" to="452" />
+			<date type="published" when="1936">1936</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Yoldas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1856" to="1860" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gottardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Guglielmi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tiziani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non-Cryst. Solids</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="105" to="114" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Leroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michaud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Res. Bull</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1117" to="1124" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Matijevic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pure Appl. Chem</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1193" to="1210" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Kepert</surname></persName>
+		</author>
+		<title level="m">Early Transition Metals</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic</publisher>
+			<date type="published" when="1972">1972</date>
+			<biblScope unit="page">500</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Biltz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Berichte</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1098" to="2007" />
+			<date type="published" when="1904">1904</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lemerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nejem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lefebvre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Inorg. Nucl. Chem</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="17" to="20" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wojtowicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="274" to="278" />
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Donnet, 1. B. 1953</title>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chim. Phys</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="291" to="376" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Music</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ljubesic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloid Polym. Sci</title>
+		<imprint>
+			<biblScope unit="volume">258</biblScope>
+			<biblScope unit="page" from="194" to="195" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lemerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lefebvre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="3758" to="3762" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Popplewell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ferromagnetic Materials</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="510" to="559" />
+			<date type="published" when="1980">1980</date>
+			<publisher>North Holland</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Shliomis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sov. Phys. Usp</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="153" to="169" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Elmore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="309" to="310" />
+			<date type="published" when="1938">1938</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Massart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CR Acad. Sci. Paris</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="page" from="1" to="3" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Massart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans. Magn</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1247" to="1248" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Robin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Inorg. Chem. Radiochem</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="247" to="403" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Austin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Mott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Phys</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="41" to="102" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Colton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Guzman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Rabalais</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ace. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="170" to="176" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Murawski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Mackenzie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non-Cryst. Solids</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="91" to="104" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Rosensweig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Electron. Electron Phys</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="103" to="199" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Leroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Res. Bull</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1425" to="1432" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Leroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michaud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Res. Bull</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1117" to="1124" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aldebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Baffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Res. Bull</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="669" to="676" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bullot</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gallais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gauthier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<editor>
+			<persName><forename type="first">Lemerle</forename><surname>Livage</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="986" to="122" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schnakenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Status Solidi</title>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page" from="623" to="633" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="1492" to="1505" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kodak</forename><surname>Patm</surname></persName>
+		</author>
+		<idno>BF 2429252</idno>
+		<title level="m">French Patents BR 2318</title>
+		<imprint>
+			<date type="published" when="1977">1977. 1979</date>
+			<biblScope unit="volume">442</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Livage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Recherche</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="374" to="375" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Ovshinsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1450" to="1453" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Amorphous and Liquid Semiconductors</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fritzsche</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<publisher>Plenum</publisher>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="313" to="359" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Alder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Henisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Mott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Mod. Phys</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="209" to="220" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Adler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Shur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Silver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Ovshinsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="3289" to="3309" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dearnaley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Stoneham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rep. Prog. Phys</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1129" to="1191" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Drake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Scanlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Engel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Status Solidi</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="193" to="208" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Rone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non-Cryst. Solids</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="77" to="93" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mansingh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Vaid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tandon</surname></persName>
+		</author>
+		<idno>KI-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Status Solidi</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Temple</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Lewis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non-Cryst. Solids</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="187" to="215" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gattef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Dimitriev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Mag. B</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="333" to="343" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bullot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">French Patent</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page">13665</biblScope>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Deb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Mag</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="801" to="822" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="955" to="962" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Hersh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Kramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Mcgee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="646" to="648" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gerard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deneuville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Courths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thin Solid Films</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="221" to="236" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reichman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="583" to="591" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Taira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kurita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="585" to="587" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mohapatra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="284" to="288" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deneuville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gerard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Billat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thin Solid Films</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="203" to="223" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hurditch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrocomponent Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="247" to="251" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>' Faughnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Crandall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lampert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="275" to="277" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Khalafella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Reimers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Soc. Min. Eng. AIME</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="3" to="8" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Miskoiczy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1064" to="1072" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Teichner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Nicolaon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Vicarini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Gardes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="245" to="273" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Doi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mazieres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Ceram. Soc</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="349" to="353" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Collongues</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CR Acad. Sci. Fr</title>
+		<imprint>
+			<biblScope unit="volume">245</biblScope>
+			<biblScope unit="page" from="431" to="433" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Roy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Ceram. Soc</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="344" to="345" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Dislich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chern. Int. Ed. Engl</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="363" to="434" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ceram. Bull</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="221" to="224" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Yoldas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1203" to="1208" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Yoldas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1843" to="1849" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kamiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sakka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tatemichi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1765" to="1771" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Okano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sakaino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="607" to="611" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kamiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sakka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci. Lett</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2937" to="2939" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Acta</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="249" to="254" />
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Wymer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Coobs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Br. Ceram. Soc</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="61" to="69" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lenfant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Plas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ruffo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Colomban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Boilot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Res. Bull</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1817" to="1827" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aldebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Baffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Livage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Res. Bull</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="949" to="955" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martinet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Strzelecki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="391" to="393" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

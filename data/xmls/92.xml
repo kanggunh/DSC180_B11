@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Supporting Information: Small-Angle Scattering to Reveal the Colloidal Nature of Halide Perovskite Precursor Solution</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Marion</forename><forename type="middle">A</forename><surname>Flatken</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Armin</forename><surname>Hoell</surname></persName>
+							<email>hoell@helmholtz-berlin.de</email>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><surname>Wendt</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eneli</forename><surname>Härk</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">André</forename><surname>Dallmann</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Humboldt Universität zu Berlin</orgName>
+								<address>
+									<addrLine>Rudower Chaussee 25</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Albert</forename><surname>Prause</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jorge</forename><surname>Pascual</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eva</forename><surname>Unger</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Abate</surname></persName>
+							<email>antonio.abate@helmholtz-berlin.de</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Helmholtz-Zentrum Berlin für Materialien und Energie</orgName>
+								<address>
+									<addrLine>Kekuléstrasse 5</addrLine>
+									<postCode>12489</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Technische Universität</orgName>
+								<address>
+									<addrLine>Berlin Straße des 17. Juni 135</addrLine>
+									<postCode>10623</postCode>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Supporting Information: Small-Angle Scattering to Reveal the Colloidal Nature of Halide Perovskite Precursor Solution</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E1E63E35F25F891FAD7C238A634D4142</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting Information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Sample Preparation</head><p>All chemicals used were of analytical grade and were used as received without any further purification. The perovskite solution is mixed from 1.3 mol L -1 of PbI 2 (Tokyo Chemical Industry, &gt; 98 %), and CH 3 NH 3 I (Dyenamo, &gt; 99.99 %) in mixed solvent N,Ndimethylformamide and dimethyl sulfoxide (DMF:DMSO (Sigma-Aldrich) prepared by volume/volume (v/v) ratio of 6:1). For the neutron scattering and NMR experiments deuterated solvents DMF-d7 and DMSO-d6 (Sigma-Aldrich, &gt;= 99.5 atom %) are used. The resulting perovskite solution is shaken at 60 °C for 5 min to dissolve all components. The perovskite solution is then diluted with the addition of solvent mixture (DMF: DMSO 6:1, v/v) to reach the desired concentration (0.4, 0.6, 0.8, 1.0, 1.1 and 1.2 mol L -1 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">207 Pb NMR</head><p>The spectra were acquired on a Bruker AVII 400 MHz or Bruker AVIII 500 MHz equipped with room temperature TBO or BBO-probe heads respectively. Typically a sweep width of 897 ppm was used and 8192 points were acquired, resulting in a total acquisition time of 54.48 ms. The center frequency had to be adjusted from sample to sample in order to detect the desired signal, therefore, on new samples, a full scan of the possible shift range was acquired until the peak was detected. We used a 30° pulse in order to minimize the recycle delay down to 200 ms (for samples with very broad peaks acquisition time and recycle delay were adjusted down to 50 ms). The number of scans thus ranged from 512 for very concentrated samples (~1 mol L - 1 ) to 132k scans for very dilute samples with broad peaks (0.1 mol L -1 ). All other spectra were measured with standardized parameter sets from Bruker Topspin version 2.1 (AV400) and 3.0 (AV500).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">DLS</head><p>Dynamic light scattering (DLS) measurements were carried out with a 3DSpectrometer (LSinstruments, Switzerland). The setup uses a He-Ne laser with a wavelength of 632.8 nm and a goniometer to set the scattering angle 2θ between 15 and 145°. The samples were measured from 20 to 135° in 5° steps with a duration of 30 s for each measurement. The temperature was set to 25°C. Analysis of the obtained intensity correlation data, represented as , was performed with a self-written python based software. The intensity</p><formula xml:id="formula_0">𝑔 (2) (𝜏) -1</formula><p>correlation function is related to the field correlation function via the Siegert relation</p><formula xml:id="formula_1">𝑔 (2) (𝜏)</formula><p>. The data were fitted with a bimodal exponential model, see following 𝑔 <ref type="bibr" target="#b1">(2)</ref> (𝜏) = 1 + 𝛽(𝑔 <ref type="bibr" target="#b0">(1)</ref> (𝜏)) 2 equation.</p><formula xml:id="formula_2">𝑔 (2) (𝜏) -1 = 𝛽 ( 𝑎 1 𝑒 -Γ 1 𝜏 + 𝑎 2 𝑒 -Γ 2 𝜏 ) 2 𝑤𝑖𝑡ℎ 𝑎 2 = 1 -𝑎 1</formula><p>where is the instrument specific coherence factor, the correlation time, and and the</p><formula xml:id="formula_3">𝛽 𝜏 𝑎 𝑖 Γ 𝑖</formula><p>amplitude and decay rate for the corresponding species I, respectively. The collective diffusion coefficient D coll was deterimined by a linear fit of versus q 2 , where q is the magnitude of the Γ scattering vector. From this fit, D coll results from the slope according to . The Γ = 𝐷 ⋅ 𝑞 2 hydrodynamic radius was finally calculated via the Stokes-Einstein equation, , where</p><formula xml:id="formula_4">𝑅 ℎ = 𝑘 𝐵 𝑇</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6𝜋𝜂𝐷</head><p>is the Boltzmann constant, T the absolute temperature and η the viscosity of the solvent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>𝑘 𝐵</head><p>The perovskite precursor solutions were measured previously filtered with a PTFE membrane filter with a pore size of 0.22 μm as well as in an unfiltered state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Small Angle Neutron Scattering (SANS) technique.</head><p>SANS measurements were performed at the V4 beamline at the BERII reactor, HZB in Berlin 1 .</p><p>The detector distance was 1 m with using a wavelength of 4.5 Å. Hence, a q-range of approx.</p><p>0.5 nm -1 to 8 nm -1 was covered (0.78 nm -12.6 nm). The perovskite solutions for SANS measurements were measured inside quartz cuvettes Hellma® cuvette (Hellma Analytics, Germany) with 1 mm optical path length. The quartz cuvettes filled with the perovskite solution were sealed with polytetrafluoroethylene (PTFE) caps and Parafilm® M to inhibit the evaporation of deuterated solvent from the sample and to prevent the adsorption of moisture from the outside environment. Each sample was measured with a temperature control at 20, 22, 24, 26 and 60 °C and finally again at 20 °C. To set and hold the temperature during the measurements an "Ultra-Cryomat" from Lauda was used. A Cadmium aperture with a diameter of 13 mm was used direct in front of any cuvette filled with the perovskite solution. Scattering contribution from mixed solvent DMF-d7 and DMSO-d6 solution was measured separately. At each temperature the SANS curves of each sample were recorded every 5 min followed by 20 s transmission scan. Of these, four repetitions were performed to increase the statistics for each condition. As it is shown in Figure <ref type="figure" target="#fig_0">S1</ref>, the measured SANS curves (Run1 to 4) are in good agreement, coincide and are reproducible. Therefore, the four runs were merged for each condition respectively to achieve better statistics. Not only the measured SANS patterns overlap, but also no change in the measured transmission can be observed, which gives rise to the assumption that we do not observe any change in solution, e.g. no radiation damage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data reduction and radial averaging (SANS)</head><p>For data reduction as well as for the radial averaging to the 1D scattering SANS pattern the BerSANS software was used <ref type="bibr" target="#b1">2</ref> . Normalization and background subtraction routines were performed employing the scattering data from standard H 2 O-filled cuvette, empty cuvette and beam stopped with cadmium plate, respectively. Respective transmission values for each sample were taken into account. For 5 minutes scattering runs were merged in order to achieve better statistics. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">SAXS</head><p>The reported SAXS data were measured using synchrotron radiation at the four crystal monochromator beamline in the laboratory of PTB (Physikalisch-Technische Bundesanstalt) at BESSYII <ref type="bibr" target="#b2">3</ref> . The SAXS instrument of Helmholtz-Zentrum Berlin (HZB) contains an adjustable about 3,5 m long support structure with a long edge-welded bellow system to allow the possibility to vary the sample to detector distance without breaking the vacuum <ref type="bibr" target="#b3">4</ref> . The twodimensional scattering images were collected by a windowless DECTRIS 1M PILATUS2 invacuum hybrid-pixel detector. The measurements were carried out at two different distances (0.8 and 3.7 m) at photon energies of 10 and 8 keV, respectively. Thus, a q-range from 0.05 to 8.5 nm -1 was covered. For a sample-sensitive measurement the solutions were measured with an exposure time of 600 s with two repetitions for the shorter distance and three for the long distance to achieve good quality data and to monitor unwanted but possible changes of the specimen over time (which can therefore be safely excluded, see Figure <ref type="figure">S2</ref>). Due to the low transmittance of the lead-containing precursor solutions, especially thin (0.1 mm), rectangular borosilicate cuvettes (with a wall thickness of 0.1 mm) purchased from CM Scientific, UK were used.</p><p>By constraining the beam with a low-scatter pinhole of germanium 500 μm in diameter, the total flux on the sample could be determined for each energy. Accordingly, for the long distance  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fitting</head><p>One method to interpret the obtained small-angle scattering data is the postulation of structural models and fitting their variable parameters to reproduce the sample scattering curve.  The corresponding calculated scattering curves of these structure models are shown in Figure <ref type="figure" target="#fig_3">S3</ref> (b; e; g). Various parameters affect the scattering curves distinctively and distinguishable such as particle size, size distribution, particle-particle interaction and particle shape. The scattering intensity as a function of q, I(q) can be described by the following equation: I(q) = N p  {ρV p (r) P(q,r)} 2 S(q,r) N(r) dr All SAXS curves of the investigated samples were fitted with the program SASfit <ref type="bibr" target="#b5">6</ref> . A structure model that includes a cylindrical form factor and a hard-sphere structure factor was chosen to fit all sample scattering curves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Choice of cylindrical form factor</head><p>The choice of a cylindrical form factor was motivated by the assumption of having "distorted" Pb-I-solvent complexes with approximately cylindrical geometry in the precursor solution.</p><p>Furthermore, the cylindrical form factor leads to the best fit compared to other geometrical objects tried in the fitting procedure. The underlying equations of the applied Porod's approximation for a long cylinder can be found elsewhere. <ref type="bibr">78</ref> In SASfit the width parameter s of the distribution function used (lognormal) is directly related to the polydispersity of the system.</p><p>Using the cylindrical form factor, this parameter is 0.045 for 1.2 mol L -1 and 0.097 for the concentration of 0.4 mol L -1 . </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Choice of structure factor</head><p>The herein investigated particles were considered as hard spheres. Thereby, these particles are assumed as incompressible resulting in fixed radii for each particle and an infinite repulsive force at a certain interparticular separation. The hard spheres model neglects attractive forces but describes fairly well a various number of colloids in organic solvents. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> However, we used the monodisperse Percus-Yevick approximation for hard spheres to fit the interaction of the analysed colloidal particles. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> The structure factor of hard spheres can be calculated as follows <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> 𝑆 𝑖 (  , 𝑞,𝑅 𝐻𝑆 )</p><formula xml:id="formula_5">𝑆 𝑖 (  , 𝑞,𝑅 𝐻𝑆 ) = 1 1 + 24  𝐺(  ,𝐴) 𝐴 𝐴 = 2𝑅 𝐻𝑆 𝑞 𝐺(  ,𝐴) = 𝛼 𝑠𝑖𝑛𝐴 -𝐴𝑐𝑜𝑠𝐴 𝐴 2 + 𝛽 2𝐴𝑠𝑖𝑛𝐴 + (2 -𝐴 2 )𝑐𝑜𝑠𝐴 -2 𝐴 3 + 𝛾 -𝐴 4 𝑐𝑜𝑠𝐴 + 4 [( 3𝐴 2 -6)𝑐𝑜𝑠𝐴 𝐴 5 𝛼 = (1 + 2 ) 2 (1 -) 4 𝛽 =-6  (1 +  /2) 2 (1 -) 4 𝛾 =  𝛼<label>2</label></formula><p>The structure factor is expressed as an analytical function of the two parameters</p><formula xml:id="formula_6">𝑆 𝑖 (  , 𝑞,𝑅 𝐻𝑆 )</formula><p>hard-sphere interaction radius and volume fraction of spheres . <ref type="bibr" target="#b14">15</ref> The is used</p><formula xml:id="formula_7">𝑅 𝐻𝑆  𝑆 𝑖 (  , 𝑞,𝑅 𝐻𝑆 )</formula><p>in the following as</p><formula xml:id="formula_8">𝑑  𝑖 𝑑  (𝑞) = [ ∞ ∫ 0 𝑁 𝑖 (𝑟)𝑃 2</formula><p>𝑖 (𝑞,𝑟)𝑑𝑟 ] 𝑆 𝑖 (𝑞,𝑅 𝐻𝑆 ) P i (q,r): Form factor S i (q,r): Inter-particle Interference (Structure factor) -R HS hard-sphere interaction radius N i (r): Size distribution</p><p>It is assumed that the interaction potential between particles are spherical symmetric and particle size as well as hard-sphere interaction radius are independent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>𝑅 𝐻𝑆</head><p>We expect to have repulsive interactions as dominant force between the colloidal particles. <ref type="bibr" target="#b14">15</ref> Furthermore, a relatively large scattering contrast (see Figure <ref type="figure">S2</ref>) is expected between the colloidal particles and the matrix (the solvent mixture), which additionally justifies the choice of the structure factor.</p><p>Other common structure models like Baxter-sticky-hard-sphere model or Hayter-Penfold/Hansen-Hayter model for charged particles are ruled out since the obtained particles are non-ionic and dispersed in non-aqueous solvents (e.g. DMF and DMSO) and furthermore, no steric long-chain molecules were used. <ref type="bibr" target="#b15">16,</ref><ref type="bibr">17</ref> Scattering Length Density</p><p>Although same methods for SANS and SAXS data can be used to extract structural information there are crucial differences in how X-ray photons and Neutrons interact with the scattering object under investigation. <ref type="bibr">18</ref> For X-ray photons the scattering arises from the electrons of the sample whereas neutrons interact with the nucleus of the system. One necessary measure to quantify the different scattering properties of a sample are the scattering length densities (SLD).</p><p>Depending on the interaction also the SLD of scattered object differs. In Figure <ref type="figure">S4</ref> the SLDs of different known systems, that are comparable with dissolved compounds in the precursor solution under consideration, MAPbI 3 . Still, we don't have enough structural information about the particles observed in the colloidal solution to absolutely calculate the SLD. Therefore for a first estimation we calculated those for which the required parameters are known in literature.</p><p>Regarding the equation for the actually measured intensity I(q), it becomes evident that actually in SAS the SLD difference ρ (ρ = ρ particle -ρ matrix ) is measured. Hence, in Figure <ref type="figure">S4</ref>   Obviously differences in the contrast can be observed when comparing the SLD contrast of specific elements like Pb in neutron and X-ray scattering. Thus, the structure factor maximum which is evolving due to a dominant interaction between the particles is more pronounced in case of X-rays. One reason for that behavior might be based on the significant higher ρ that we are expecting for X-rays compared to neutron. A further relevant impact on the resulting scattering data consists of the origin of the respective radiation source. In terms of a synchrotron X-ray source as represented in the present work the beam is highly collimated, monochromatic with a wavelength smearing of about 2*10 -4 .</p><p>The wavelength smearing was about 10.5 % in case of neutrons, which can be observed in smearing effects in the derived 1D curve as given in Figure <ref type="figure">2</ref> in the main text. <ref type="bibr">19</ref> Though there are differences in the resolution of the pattern the general form and slope of the 1D curves are in agreement. In neutron scattering a significant larger sample volume was probed compared to the thin capillaries used for SAXS experiment. Carrying out SANS before measuring SAXS confirms that multiple scattering effects are not present in case of X-rays. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure S7.</head><p>The decay rate Γ plotted against q in log-scale, of which the slope is represented in reasonable agreement by q 2 . In the scope of this work, the focus is set on the fast mode, which is why a measurement time of 30 s / angle was chosen (especially suitable for the size of interest). However, that time is not sufficient to completely cover the observed slow mode. Thus, fluctuations occur in the linear fit given in the inset of Figure <ref type="figure" target="#fig_8">S6</ref> b. To fully measure the slow mode several hours measurement time would be needed, which is not in the scope of the current work. The numbers given in Table <ref type="table" target="#tab_1">S2</ref> for the slow mode should be taken as rough estimations based on the chosen fitting model, assuming a Fickian behavior.  The SEM images show that with a concentration of 0.1 mol L -1 no obvious grain structure can be observed whereas the size of the grains evolving at 0. shows the presence of a peak at 2θ = 12.6° corresponding to the (001) diffraction peak of PbI 2 , whereas in all other concentrations no formation of PbI 2 can be observed. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure S1 .</head><label>S1</label><figDesc>Figure S1. Recorded SANS curves (Run1, 2, 3 and 4) of a MAPbI 3 perovskite solution (1.3 mol L -1 ) at 20 °C.</figDesc><graphic coords="4,70.85,70.85,238.08,174.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>( 3 .</head><label>3</label><figDesc>7 m) where 8 keV was used, we can indicate 4.8 *10 9 photons/s and 2.6 *10 9 photons/s for the short distance (0.8 m) where 10 keV was used.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure</head><label></label><figDesc>Figure S3 depicts different typical structure models: various size-distributed spheres (a),</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure S3 :</head><label>S3</label><figDesc>Figure S3: (a) Model structures of spherical particles with different polydispersity ranging from 1 to 20%, (b) their corresponding calculated small-angle scattering curves and (c) their corresponding size distributions. (d) Model structure of clustered spherical particles with a recurrent distance d and (e) the corresponding calculated scattering curve. (f) Model structures with different form factors and (g) their corresponding calculated scattering pattern.</figDesc><graphic coords="6,70.85,116.80,385.51,595.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>FigureS3(e) to understand the clustering and their inter-particle interaction. These polydisperse spheres cluster in small groups of several spheres with an approximate distance and form a superstructure. This superstructure leads to the development of a peak 𝑑 that dominates the scattering curve. The blue arrow indicates this peak at and𝑞 = 2𝜋/𝑑facilitates to calculate the interparticle distance as discussed by Raghuwanshi et al.<ref type="bibr" target="#b4">5</ref> .𝑑Furthermore, nanoscale particles and nanostructures can form a various number of shapes, FigureS3(f). These shapes, described by form factors, result in distinct scattering curves depicted in FigureS3(g) that facilitate a clear distinction of shaped nanostructures.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure S4. 6 -</head><label>6</label><figDesc>Figure S4. 6-fold coordinated iodoplumbate formation. Expected distances in an iodoplumbate assuming 90° I-Pb-I angle.</figDesc><graphic coords="8,42.86,59.07,315.36,142.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>the calculated SLDs of the scattering objects are compared to the SLD of the matrix, which in our work is the solvent mixture DMF:DMSO (6:1) or d-DMF:d-DMSO (6:1) used for neutron scattering experiments.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure S5 .</head><label>S5</label><figDesc>Figure S5. Contrast differences between Neutron and X-rays. Calculated Scattering Length Densities (SLD) of possible objects present in solution compared to the SLD of the solvent ρ solvent for X-ray interaction in green and neutron interaction in red. Shaded in grey the SLD contrast ρ 0 x , i.e. the SLD difference between the scattering object X and the solvent (NIST).</figDesc><graphic coords="10,70.85,70.85,481.89,197.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure S6 .</head><label>S6</label><figDesc>Figure S6. DLS on MAPbI 3 perovskite precursor solution (1 mol L -1 ). A selection of fitted correlation curves for different angles is demonstrated in (a). In (b) the resulting versus q 2 plots with the corresponding fits are shown Γ</figDesc><graphic coords="11,70.85,310.47,226.77,212.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure S8 .</head><label>S8</label><figDesc>Figure S8. DOSY on PbI 2 (a) and MAPbI 3 (b) precursor solutions, whereby in the case of PbI 2 the diffusivity of the solvents become evident and in (b) the diffusivity of MAPbI 3 . The theoretically expected particle size is derived from the diffusion constant according to the Stokes-Einstein equation, tabulated in (c). Diffusion Ordered Spectroscopy (DOSY) reports diffusion coefficients for individual resonances in a 1 H NMR spectrum. Given in Figure S7 we can directly correlate the 1H-NMR peaks with their diffusion and thus provide related information about the respective molecule.Using the Stokes-Einstein equation (depicted below) the hydrodynamic radius of a particle can be derived. In addition to the signals that can be clearly identified, we observe a signal corresponding to the chemical shift of the methyl groups of DMF, which has a different diffusivity compared to the other signals associated with DMF. We assume that this occurs as some of the solvent molecules coordinate with PbI 2 in solution and therefore show a different diffusivity. However, to explain this in more detail, further measurements would be necessary and would exceed the scope of this paper.</figDesc><graphic coords="12,70.85,70.85,481.95,229.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure S9 .</head><label>S9</label><figDesc>Figure S9. Thin film characterization of drop-casted MAPbI 3 films. (a) SEM pictures and (b) XRD pattern of crystalline films drop casted using precursor solutions in concentrations of (0.1, 0.4, 0.8 and 1.2) mol L -1 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head></head><label></label><figDesc>4 mol L -1 seems to increase with increasing concentration. The increasing grain size with concentration goes in line with the observation of stronger interparticle repulsive interaction in solution, measured with SAXS (Figure 3, main text). The XRD pattern of the drop-casted thin films demonstrates that in case of 0.8 mol L -1 and 1.2 mol L -1 the (110) and (220) planes are most predominant in the polycrystalline thin film, which is common for the spin-coated thin films used for device preparation. Instead, at lower concentrations from 0.4 mol L -1 towards 0.1 mol L -1 , the (110) and (220) planes almost disappear in favor of the diffraction peak of the (200) plane, which becomes predominant for the 0.1 mol L -1 case. Furthermore, only the sample of 0.1 mol L -1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure S10 :</head><label>S10</label><figDesc>Figure S10: Increasing Intensity and decreasing mean d-spacing of Perovskite Precursor solution depending on the concentration.</figDesc><graphic coords="14,46.84,54.22,317.19,242.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table S1 .</head><label>S1</label><figDesc>Technical parameters of the SAXS measurement. Transmission of measured samples as well as sample to detector distance, energy and acquisition time.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>/ m</cell></row><row><cell cols="2">empty beam</cell><cell></cell><cell>1.000</cell><cell>3.750</cell><cell>8000</cell></row><row><cell cols="2">empty capillary</cell><cell></cell><cell>0.228</cell><cell>3.750</cell><cell>8000</cell></row><row><cell cols="2">0.4</cell><cell></cell><cell>0.113</cell><cell>3.750</cell><cell>8000</cell></row><row><cell cols="2">0.6</cell><cell></cell><cell>0.079</cell><cell>3.750</cell><cell>8000</cell></row><row><cell cols="2">0.8</cell><cell></cell><cell>0.058</cell><cell>3.750</cell><cell>8000</cell></row><row><cell cols="2">1.0</cell><cell></cell><cell>0.044</cell><cell>3.750</cell><cell>8000</cell></row><row><cell cols="2">1.2</cell><cell></cell><cell>0.033</cell><cell>3.750</cell><cell>8000</cell></row><row><cell cols="2">empty beam</cell><cell></cell><cell>1.000</cell><cell>0.810</cell><cell>10000</cell></row><row><cell cols="2">empty capillary</cell><cell></cell><cell>0.463</cell><cell>0.810</cell><cell>10000</cell></row><row><cell cols="2">0.4</cell><cell></cell><cell>0.315</cell><cell>0.810</cell><cell>10000</cell></row><row><cell cols="2">0.6</cell><cell></cell><cell>0.258</cell><cell>0.810</cell><cell>10000</cell></row><row><cell cols="2">0.8</cell><cell></cell><cell>0.219</cell><cell>0.810</cell><cell>10000</cell></row><row><cell cols="2">1.0</cell><cell></cell><cell>0.187</cell><cell>0.810</cell><cell>10000</cell></row><row><cell cols="2">1.2</cell><cell></cell><cell>0.160</cell><cell>0.810</cell><cell>10000</cell></row><row><cell cols="4">Data reduction and radial averaging</cell></row><row><cell></cell><cell>2E-05</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>1st run</cell><cell></cell></row><row><cell>Scattering Cross Section / a.u.</cell><cell>5E-06 1E-05 1.5E-05</cell><cell>2nd run</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell></cell><cell></cell><cell></cell><cell>q / nm -1</cell></row><row><cell cols="5">Figure S2. Recorded SAXS curves of a MAPbI 3 perovskite solution (1 mol L -1 ). The 1 st and 2 nd run were measured</cell></row><row><cell cols="3">with a time difference of 4.5 h.</cell><cell></cell></row><row><cell></cell><cell cols="2">Sample Name:</cell><cell>Transmission</cell><cell>Sample to</cell><cell>Energy / eV Acquisition</cell></row><row><cell cols="3">Concentration / mol L -1</cell><cell></cell><cell>detector distance</cell><cell>Time / s</cell></row></table><note><p>For data reduction as well as for the radial averaging to the 1D scattering pattern the BerSAS software was used, a modified version applicable for SAXS and SANS of the BerSANS software 2 .</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table S2 .</head><label>S2</label><figDesc>Estimated collective diffusion coefficients and hydrodynamic radii.</figDesc><table><row><cell>Sample</cell><cell cols="2">D coll / µm 2 /s</cell><cell>R h / nm</cell><cell></cell></row><row><cell></cell><cell>Slow</cell><cell>fast</cell><cell>Slow</cell><cell>fast</cell></row><row><cell>MAPbI 3</cell><cell>0.091(9)</cell><cell>318(3)</cell><cell>2300(300)</cell><cell>0.67(3)</cell></row><row><cell>MAPbI 3 (filtered)</cell><cell>0.109(20)</cell><cell>327(8)</cell><cell>2000(400)</cell><cell>0.65(3)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>J. Bergenholtz, J. Ulama and M. Zackrisson Oskolkova, J. Appl. Cryst., 2016, 49, 47-54.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><surname>Keiderling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wiedenmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. B Phys. Condens. Matter</title>
+		<imprint>
+			<biblScope unit="page" from="895" to="897" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">U. Keiderling, Appl. Phys. A</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1455" to="1457" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Krumrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ulm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Instruments Methods Phys. Res. Sect. A Accel. Spectrometers, Detect. Assoc. Equip</title>
+		<imprint>
+			<biblScope unit="volume">467</biblScope>
+			<biblScope unit="page" from="1175" to="1178" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hoell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Zizak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bieder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mokrani</surname></persName>
+		</author>
+		<idno>DE102006029449</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Raghuwanshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ochmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hoell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Polzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rademann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">6038</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Breßler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kohlbrecher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Thünemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1587" to="1598" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kratky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Porod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Phys. Austriaca</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="133" to="147" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Porod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift fur Naturforsch. A</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="401" to="414" />
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vrij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K G</forename><surname>Dhont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pathmamanoharan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Kops-Werkhoven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Fijnaut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Faraday Discuss. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="19" to="35" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Orsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fluerasu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moussaïd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zontone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cristofolini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Madsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. E</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Frenkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Auer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">409</biblScope>
+			<biblScope unit="page" from="1020" to="1023" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Percus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Yevick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vrij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">3267</biblScope>
+			<biblScope unit="page" from="3267" to="3270" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Botet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kwok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cabane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1570" to="1582" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Svergun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H J</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Timmins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>May</surname></persName>
+		</author>
+		<title level="m">Small Angle X-Ray and Neutron Scattering from Solutions of Biological Macromolecules</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Hayter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Penfold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Phys</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="109" to="118" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

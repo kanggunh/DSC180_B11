@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Electronic Supporting Information Colloidal engineering for monolayer CH 3 NH 3 PbI 3 films toward high performance perovskite solar cells</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Bo</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Advanced Materials and Technology</orgName>
+								<orgName type="institution">University of Science and Technology Beijing</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mengjie</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Advanced Materials and Technology</orgName>
+								<orgName type="institution">University of Science and Technology Beijing</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chengbin</forename><surname>Fei</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of physics</orgName>
+								<orgName type="institution" key="instit1">University of Miami</orgName>
+								<orgName type="institution" key="instit2">Coral Gables</orgName>
+								<address>
+									<postCode>33146</postCode>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guozhong</forename><surname>Cao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Advanced Materials and Technology</orgName>
+								<orgName type="institution">University of Science and Technology Beijing</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Materials and Engineering</orgName>
+								<orgName type="institution">University of Washington</orgName>
+								<address>
+									<postCode>98195-2120</postCode>
+									<settlement>Seattle</settlement>
+									<region>WA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Jianjun</forename><surname>Tian</surname></persName>
+							<email>tianjianjun@mater.ustb.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Advanced Materials and Technology</orgName>
+								<orgName type="institution">University of Science and Technology Beijing</orgName>
+								<address>
+									<postCode>100083</postCode>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Electronic Supporting Information Colloidal engineering for monolayer CH 3 NH 3 PbI 3 films toward high performance perovskite solar cells</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">39C8B0A8D40FDE24A115D28432DB1071</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:23+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure S1</head><label>S1</label><figDesc>Figure S1 Photographs (a) of perovskite precursor without and with additives, (from</figDesc><graphic coords="2,184.26,77.05,226.77,270.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure S2</head><label>S2</label><figDesc>Figure S2 Surface SEM images of perovskite films prepared from different perovskite</figDesc><graphic coords="2,98.90,487.19,396.85,150.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure S3</head><label>S3</label><figDesc>Figure S3FTIR spectra of pure DMF and MAI in DMF in the range of 1800~600 cm -</figDesc><graphic coords="3,155.89,111.60,283.46,198.49" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure S4 Figure S5</head><label>S4S5</label><figDesc>Figure S4Photographs precursor solutions with different molar ratio, from left to right:</figDesc><graphic coords="3,212.61,403.08,170.08,181.46" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure S6</head><label>S6</label><figDesc>Figure S6 Topography and three-dimensional atomic force microscopy (AFM) images</figDesc><graphic coords="5,127.40,72.00,340.16,248.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure S7</head><label>S7</label><figDesc>Figure S7 Surface SEM of perovskite films prepared from DMSO+MACl colloidal</figDesc><graphic coords="5,98.90,481.24,396.85,148.11" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure S8</head><label>S8</label><figDesc>Figure S8Cross SEM images of multilayer perovskite films (a) and monolayer</figDesc><graphic coords="6,181.38,111.60,232.44,175.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure S9</head><label>S9</label><figDesc>Figure S9 XRD patterns of perovskite films prepared from colloidal perovskite</figDesc><graphic coords="6,170.09,380.39,255.12,340.17" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure</head><label></label><figDesc>Figure S10 UV-vis absorption spectra of perovskite film prepared from different</figDesc><graphic coords="7,99.23,206.39,396.85,148.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure S11</head><label>S11</label><figDesc>Figure S11 XRD patterns of crystallization evolution as function of annealing time on</figDesc><graphic coords="7,127.40,515.13,340.16,130.11" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure S12</head><label>S12</label><figDesc>Figure S12 Photographs of perovskite solar cells prepared from different perovskite</figDesc><graphic coords="8,184.26,111.60,226.77,161.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure</head><label></label><figDesc>Figure S13 the forward scanning and reverse scanning of J-V curves of PSCs</figDesc><graphic coords="8,98.90,461.41,396.85,132.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,98.90,72.00,396.85,421.93" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

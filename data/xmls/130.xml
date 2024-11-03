@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Strain-engineered artificial atom as a broad-spectrum solar energy funnel</title>
+				<funder ref="#_sjzNqhS">
+					<orgName type="full">National Science Foundation</orgName>
+					<orgName type="abbreviated">NSF</orgName>
+				</funder>
+				<funder ref="#_cPACx32">
+					<orgName type="full">AFOSR</orgName>
+				</funder>
+				<funder ref="#_ACRyrPZ #_6Ec3AKU #_JXqmFXh #_8Fq9RAA">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_6ASb69g">
+					<orgName type="full">Programs of China</orgName>
+				</funder>
+				<funder ref="#_8fkkC4N">
+					<orgName type="full">NSFC</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2012">25 NOVEMBER 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ji</forename><surname>Feng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Physics</orgName>
+								<orgName type="laboratory">International Center for Quantum Materials</orgName>
+								<orgName type="institution">Peking University</orgName>
+								<address>
+									<postCode>100871</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Physics</orgName>
+								<orgName type="laboratory">International Center for Quantum Materials</orgName>
+								<orgName type="institution">Peking University</orgName>
+								<address>
+									<postCode>100871</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiaofeng</forename><surname>Qian</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cheng-Wei</forename><surname>Huang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Ju</forename><surname>Li</surname></persName>
+							<email>liju@mit.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Physics</orgName>
+								<orgName type="laboratory">International Center for Quantum Materials</orgName>
+								<orgName type="institution">Peking University</orgName>
+								<address>
+									<postCode>100871</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Frontier Institute of Science and Technology</orgName>
+								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
+								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
+								<address>
+									<postCode>710049</postCode>
+									<settlement>Xi&apos;an</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Physics</orgName>
+								<orgName type="laboratory">International Center for Quantum Materials</orgName>
+								<orgName type="institution">Peking University</orgName>
+								<address>
+									<postCode>100871</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Frontier Institute of Science and Technology</orgName>
+								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
+								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
+								<address>
+									<postCode>710049</postCode>
+									<settlement>Xi&apos;an</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Frontier Institute of Science and Technology</orgName>
+								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
+								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
+								<address>
+									<postCode>710049</postCode>
+									<settlement>Xi&apos;an</settlement>
+									<country>China;</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
+								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">Massachusetts Institute of Technology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>Massachusetts</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Frontier Institute of Science and Technology</orgName>
+								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
+								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
+								<address>
+									<postCode>710049</postCode>
+									<settlement>Xi&apos;an</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Strain-engineered artificial atom as a broad-spectrum solar energy funnel</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2012">25 NOVEMBER 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2239B4B420F6A99190A43708347297AF</idno>
+					<idno type="DOI">10.1038/NPHOTON.2012.285</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>An optoelectronic material with a spatially varying bandgap that is tunable is highly desirable for use in photovoltaics, photocatalysis and photodetection. Elastic strain has the potential to be used to achieve rapid and reversible tuning of the bandgap. However, as a result of plasticity or fracture, conventional materials cannot sustain a high enough elastic strain to create sufficient changes in their physical properties. Recently, an emergent class of materials-named 'ultrastrength materials'-have been shown to avoid inelastic relaxation up to a significant fraction of their ideal strength. Here, we illustrate theoretically and computationally that elastic strain is a viable agent for creating a continuously varying bandgap profile in an initially homogeneous, atomically thin membrane. We propose that a photovoltaic device made from a strainengineered MoS 2 monolayer will capture a broad range of the solar spectrum and concentrate excitons or charge carriers.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>T he ability to continuously control the bandgap in optoelectronic materials, in a low-cost manner, is highly desirable for a wide range of energy and sensing applications, including photovoltaics <ref type="bibr">[1]</ref><ref type="bibr">[2]</ref><ref type="bibr">[3]</ref> , photocatalysis <ref type="bibr">4</ref> and photodetection <ref type="bibr">5</ref> . For example, the efficiency of photovoltaic devices comprising a single p-n junction is subject to the thermodynamic constraint of the Shockley-Queisser limit <ref type="bibr">1</ref> , as only a limited portion of solar energy can be absorbed. Although tandem solar cells consisting of multijunctions with cascaded bandgaps can achieve higher absorption efficiencies, the increased complexity of their fabrication and the high cost of materials are major drawbacks. It would therefore be a great advantage if one could fine-tune the bandgap within a single semiconducting material. Like chemical composition, elastic strain is a continuous variable that is capable of altering many physical and chemical properties. Although elastic strain engineering is a straightforward concept, its potential in photonics remains largely under-exploited. The key hurdle is the fact that conventional bulk-scale materials cannot sustain a high enough elastic strain to induce sufficient changes to the physical properties before they deform plastically or break.</p><p>Recently, materials belonging to an emergent class termed 'ultrastrength materials' <ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr" target="#b7">[8]</ref> have been found to avoid inelastic relaxation up to a significant fraction of their ideal strengths; that is, materials of different size and dimensionality can exhibit dramatically distinct physical and chemical properties as well as mechanical strengths. Atomically thin membranes are a notable family of materials that exhibit the property of ultrastrength <ref type="bibr" target="#b7">8,</ref><ref type="bibr">9</ref> . The elastic strain of a graphene monolayer has been predicted theoretically and also measured experimentally to be as high as 25% (refs 8,10,11), while that of bulk graphite rarely survives beyond 0.1% strain. Recently, a monolayer of molybdenum disulphide (MoS 2 ) was experimentally exfoliated and characterized. It demonstrated an effective in-plane strain of up to 11% (ref. 12), a direct bandgap of 1.9 eV under strain-free conditions <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> and a more than 10,000-fold enhancement of its luminescence quantum yield compared to its bulk counterpart <ref type="bibr" target="#b12">13</ref> . The high elastic strain limit should make it possible to control the electronic and optical properties of two-dimensional materials through simple elastic strain engineering, which is often infeasible in their three-dimensional bulk phases. In addition, the lattice symmetry of MoS 2 also demonstrates a unique valley-selective circular dichroism <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> .</p><p>Here, we illustrate theoretically and computationally that elastic strain is a viable agent for creating a continuously varying bandgap profile in an initially homogeneous, atomically thin membrane. As a proof of concept, an 'artificial atom' made of a nanoindented MoS 2 monolayer was investigated and predicted to be able to absorb a broad range of the solar spectrum from 2.0 eV to 1.1 eV as the biaxial strain increases from 0% to 9%. More importantly, the continuous spatial variation of electron and hole energies, together with the large exciton binding energy in the MoS 2 artificial atoms, makes it a unique solar energy funnel for conveying and concentrating the photoexcited charge carriers along the elastic strain gradient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introducing inhomogeneous elastic strain</head><p>When subjecting an atomically thin membrane to a simple external load, as shown in Fig. <ref type="figure" target="#fig_0">1a</ref>, an inhomogeneous strain field can be created. The equilibrium geometry for a thin membrane is given by the Fo ¨ppl-Hencky equation for membrane deformation under a stretching force at the boundaries only. For the geometry depicted in Fig. <ref type="figure" target="#fig_0">1a</ref>, we have, for any line l( y), h l dxs a ¼ f a , where f a is the stretching force on the boundary and h is the nominal membrane thickness. Owing to the force balance, the continuously narrowing membrane geometry can efficiently focus the tensile strain.</p><p>For the proposed device to function, inelastic strain relaxation as a result of dislocation plasticity or fracture must be avoided <ref type="bibr">6</ref> . With a high-quality atomic membrane with minimal lattice defects, the edge lengths should also be minimized, as they are preferential sites for stress-aided defect nucleation <ref type="bibr" target="#b16">17</ref> . We thus arrive at a setup similar to nanoindentation <ref type="bibr" target="#b17">18</ref> , where a semiconducting membrane covers a circular hole on a substrate, with its rim clamped (Fig. <ref type="figure" target="#fig_0">1b</ref>). A force probe is used to indent the suspended membrane, which will then deform towards a bottom contact. The stress gradient and hence the elastic strain gradient are maintained by the concentrated load setup with the stress scaling inversely with the radius: s r ≈ 1/r for r , R (outer radius). Such a strain field resembles the potential field of a two-dimensional hydrogenic atom (but at a much larger length scale). It is in this sense that the strain-engineered atomic membrane can be regarded as a mesoscopic 'artificial atom' with electronic and optical properties that depend strongly on the strain and stress fields.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Broad-spectrum solar energy funnel</head><p>The connection between elastic strain and electronic structure in a strain-engineered artificial atom becomes apparent when the membrane is a semiconductor whose bandgap reflects a covalent bonding interaction. When stretched elastically, the covalent interaction generally weakens as the bonds lengthen, and consequently becomes a function of the imposed strain field. The stress is expected to exert significant modulation on the band energies and bandgap, analogous to band bending in a diode. The general principle here is to create a device with an electronic structure that has a continuous spatial variation due to an inhomogeneous strain field.</p><p>The scenario of continuous band bending leads us to propose the concept of a solar energy funnel. Based on the energy profiles of quasiparticles (that is, electrons and holes) and photoexcited states (that is, free electron-hole pairs or strongly bound excitons), three funnelling mechanisms are possible, as shown in Fig. <ref type="figure" target="#fig_0">1c-e</ref>. In a Type I funnel, the energy level of photoexcited electrons continuously decreases towards the centre, while that of holes increases. Consequently, charge carriers are concentrated at the centre, as long as the lifetime of carriers is large enough for carrier migration before electron-hole recombination takes place. However, if both levels decrease with increasing strain, the result will depend on the strength of the Coulomb interaction between the quasiparticles, that is, the exciton binding energy. With weak exciton binding, electron-hole pairs will be separated by the built-in field and move in opposite directions, resulting in a Type II funnel. On the other hand, if the binding energy of an exciton is large enough to hold the electron-hole pair together despite the built-in field, the decreasing exciton energy profile will drive the exciton to migrate towards the centre. A device based on this mechanism is classified as a Type III funnel. In all three types, the varying band/carrier energy leads to a funnelling effect. The strength of exciton binding energy determines whether Type II or III funnelling will operate in the device when the quasiparticle energy of both electron and hole decreases towards the centre of the membrane. A key advantage of such a strain-engineered device is that the performance of these devices can be adjusted to the lighting environment, as the optical bandgap is also continuously tunable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strain-dependent properties of MoS 2 monolayer</head><p>The structure of the MoS 2 monolayer is shown in the inset to Fig. <ref type="figure" target="#fig_2">2d</ref> (Supplementary Fig. <ref type="figure" target="#fig_0">S1</ref>) and exhibits a remarkable trigonal prismatic geometry <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b18">19</ref> . On application of a biaxial strain, Poisson contraction 20 is expected. Owing to its hexagonal space group (P 6m2) symmetry, the MoS 2 monolayer has isotropic in-plane elasticity, so the bandgap depends only on the two-dimensional hydrostatic strain invariant to the linear order. We therefore focus on the effect of biaxial strain on electronic structure. First-principles density functional theory <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> (DFT) calculations (see Methods) indicate that both direct and indirect DFT bandgaps decrease (Fig. <ref type="figure" target="#fig_2">2a,</ref><ref type="figure">b</ref>), so a transition from direct bandgap to indirect bandgap occurs once the biaxial strain is applied. Other groups <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> have recently reported a similar DFT bandgap reduction under biaxial tensile strain.</p><p>To acquire an accurate electronic band energy profile for the device design, we also performed many-body GW calculations <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> (G, Green's function; W, screened Coulomb interaction; see Methods). The strain-dependent bandgaps are shown in Fig. <ref type="figure" target="#fig_2">2b</ref>, and the strain-dependent energy levels for an electron and hole at the K point in the first Brillouin zone are shown in Fig. <ref type="figure" target="#fig_2">2d</ref>. As shown in Fig. <ref type="figure" target="#fig_2">2b</ref>, the direct and indirect bandgaps calculated Notice that although the bulk of the electrodes are metallic (for example, transparent conducting oxide), they are coated with semiconducting buffers to facilitate selective quasiparticle collection (detailed in the text). This setup completely removes the edges of the membrane ribbon in a, as these can serve as preferential sites for stress-aided defect nucleation. c-e, Three broad-spectrum solar energy funnelling mechanisms arising from a different band bending and exciton binding profile in the strain-engineered semiconducting membrane.</p><p>from DFT and GW are indeed similar, except for a constant shift of 0.7 eV. Furthermore, the dielectric functions and electron energy loss spectrum of a MoS 2 monolayer are also predicted to undergo substantial changes under biaxial tensile strain (Supplementary Fig. <ref type="figure" target="#fig_7">S2</ref>).</p><p>The biaxial strain also modifies the absorption spectra and optical gap of the monolayer-the latter being another physical quantity important for device operation. As screening is generally reduced in a two-dimensional material, photoexcited quasiparticles in a MoS 2 monolayer are expected to experience stronger Coulomb attractions. We therefore go beyond the random-phase approximation by solving the Bethe-Salpeter equation (BSE) <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> with GW quasiparticle energies. The calculated strain-dependent optical absorption spectra are displayed in Fig. <ref type="figure" target="#fig_2">2c</ref> and show that the direct-to-indirect transition of the bandgap with biaxial strain does not affect the strength of the vertical optical absorption compared to the GW direct bandgap in Fig. <ref type="figure" target="#fig_2">2b</ref>, BSE; it only shifts the whole spectrum to lower energy due to exciton binding. The lowest optical excitation in Fig. <ref type="figure" target="#fig_2">2c</ref> originates from the doubly degenerate singlet excitons around the K points <ref type="bibr" target="#b28">29</ref> . The exciton energy of 2.0 eV at zero strain is in excellent agreement with the A peak at 1.9 eV measured using photoluminescence spectroscopy <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> (the fine structure due to spin-orbit coupling discussed in ref. 29 is ignored here as it will not affect the main conclusion of strain-dependent electronic and optical energies). The excitation energy experiences substantial reduction when the strain is imposed, decreasing to 1.1 eV at 9% biaxial strain. We then arrive at a roughly constant exciton binding energy of 0.5 eV from 0% to 9% biaxial strain. Such large constant exciton binding energy together with the reduced quasiparticle energies (Fig. <ref type="figure" target="#fig_2">2d</ref>) makes the strainengineered artificial MoS 2 atom a Type III solar energy funnel.</p><p>Exciton wavefunctions for the lowest excitation under zero strain are displayed in Supplementary Fig. <ref type="figure" target="#fig_3">S3</ref>. The hole state is dominated by d x 2 -y 2 and d xy orbitals of molybdenum atoms and p x and p y orbitals of sulphur atoms, and the electron state is dominated by d z 2 orbitals of molybdenum atoms. The large exciton radius ( 2 nm) and exciton binding energy ( 0.5 eV) indicate a mixed Frenkel-Wannier-Mott exciton character. This arises from the reduced screening in two-dimensional atomically thin materials and thus stronger Coulomb attraction between electrons and holes upon photoexcitation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nanoindented MoS 2 monolayer as artificial atoms</head><p>To compute the morphology of the MoS 2 monolayer in the proposed device, we used a bicontinuum finite-element simulation <ref type="bibr" target="#b29">30</ref> , with a force field parameterized in the Tersoff potential form <ref type="bibr" target="#b30">31</ref> (see Supplementary Information). This coarse-grained force field method yields essentially the same membrane morphology as the analytical solution to the Fo ¨ppl-Hencky equations <ref type="bibr" target="#b31">32</ref> (Supplementary Fig. <ref type="figure" target="#fig_8">S4</ref>). The computed morphology of the deformed membrane shows characteristic scale invariance; that is,  w/R as a function of r/R is nearly independent of R for R . 100 Å, where w is the vertical displacement at radius r. In practice, a force probe with a rounded tip (Fig. <ref type="figure" target="#fig_0">1b</ref>) can be used to avoid stress singularity near the centre. A relaxed atomic structure of nanoindented MoS 2 membrane is shown in Fig. <ref type="figure" target="#fig_3">3a</ref>, demonstrating a maximum vertical displacement of Z ¼ R/5. The displacement increases gradually towards the centre of the membrane. This is expected as the boundary conditions (edge clamping and central indenting) have cylindrical symmetry, and the hexagonal lattice implies the same symmetry in the Young's modulus and Poisson ratio <ref type="bibr" target="#b32">33</ref> . The computed biaxial field is visualized in Fig. <ref type="figure" target="#fig_3">3b</ref> (see Supplementary Information for calculation details). Right at the clamped rim of the suspended membrane, the biaxial strain has a small abrupt increase due to the boundary used in the simulation. As one moves inwards, the strain increases quickly, corresponding to the increase in radial stress. Because the tip of the force probe is rounded, the elastic strain does not diverge near the centre of the membrane. With the computed strain pattern shown in Fig. <ref type="figure" target="#fig_3">3b</ref>, we can map out the energy profiles of electronic and optical excitations on the membrane in a semiclassical sense, using those of the MoS 2 monolayer under different amounts of homogeneous biaxial strain, as presented above. The mapped band edges of electrons and holes and the energy profile of excitons for the representative membrane are shown in Fig. <ref type="figure" target="#fig_3">3c</ref> and<ref type="figure">d</ref>, respectively. Both valence and conduction band edges are shifted downward from the rim to the centre. At the region with slowly varying strain, there is a large plateau where the positions of the band edges are almost constant, with an area occupying almost two-thirds of the circular region. The spatial variation of exciton energy in the membrane, except for the sign difference, is very similar to the strain profile, as the total exciton energy changes almost linearly with respect to the applied biaxial strain (Fig. <ref type="figure" target="#fig_2">2b</ref>).</p><formula xml:id="formula_0">η = 0% η = 1% η = 2% η = 3% η = 4% η = 5% η = 6% η = 7% η = 8% η = 9%</formula><p>The size of Type III solar energy funnel device is essentially constrained by the exciton drift length, beyond which radiative recombination will dominate and prevent the exciton from reaching the electrodes at the centre. The exciton drift length <ref type="bibr" target="#b33">34</ref> can be estimated by</p><formula xml:id="formula_1">l drift = kvl drift t 1/2 = ∇E exc m exc t dephase t 1/2<label>(1)</label></formula><p>where t 1/2 is the exciton lifetime and kvl drift is the average drift velocity. The latter is then estimated by the acceleration of the exciton due to the exciton energy gradient ∇E exc within phase relaxation time kvl drift . The exciton mass is denoted m exc . As we would like to have most excitons collected at the centre of the membrane, the radius of the membrane should be set to the drift length, that is, R ¼ l drift . Hence, the spatial gradient of the exciton energy ∇E exc can be approximated by DE exc /R. We therefore have an effective membrane radius,</p><formula xml:id="formula_2">R = m -1 exc DE exc t dephase t 1/2 .<label>(2)</label></formula><p>In the plateau region, the energy variation DE exc is 0.1 eV. As we do not know exciton mass m exc and phase relaxation time t dephase , we approximate them by the electron rest mass m e and 5 ps in GaAs 35 , respectively. Fortunately, the exciton lifetime t 1/2 of a MoS 2 monolayer has recently been measured <ref type="bibr" target="#b35">36</ref> , with a fast photoluminescence decay component of 5 ps at temperatures of 4.5-150 K and a slow decay component of 100 ps at 270 K. The estimated radius of the atomic membrane is then 660 nm and 3 mm for the fast and slow decay components, respectively. Compared to the above characteristic size of the membrane, the exciton radius of 2 nm (Supplementary Fig. <ref type="figure" target="#fig_3">S3</ref>) is indeed much smaller, meaning that the strain profile continuously and smoothly varies over a length scale comparable to the exciton size in the region of interest. The continuum strain mapping procedure is therefore justified. It is now entirely plausible that upon excitation from the ground state, the excitons will be swept by the straininduced potential gradient and funnelled toward the centre. As both hole and electron carriers are bound in the same direction, we expect that the membrane will stay essentially charge neutral during device operation. This is advantageous, as charging might otherwise significantly reduce the efficiency of the carrier funnelling. The final charge separation and harvesting of solar energy can be achieved by contacting an electron-collecting transparent semiconductor on top of the arrangement and a hole-collecting semiconductor at the bottom (Fig. <ref type="figure" target="#fig_0">1b</ref>), with appropriate bandedge alignments to ensure one-way electron/hole flow, as in standard photovoltaic technology. As the electron-hole pairs represent energetic excited states, the membrane device works like a battery with an electropotential DV ext , DV int .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>What we have created in the MoS 2 membrane with the elastic strain pattern is a continuous bending of the energy levels of electrons, holes and excitons, similar to that in a photodiode, except that the photoexcited electron-hole pairs in MoS 2 are strongly bound excitons. When an electron-hole pair is generated in the plateau region following light absorption, the semiclassical potential for the quasiparticles exerts forces on the electron and hole in opposite directions. However, the large exciton binding energy will force the electron-hole pair to hold together like a molecule (despite a small polarization) and migrate towards the centre of the membrane. This is different from the case of a photodiode, where electron-hole pairs quickly dissociate, with the electrons and holes then migrating in opposite directions.</p><p>Although not central to the proposed photocarrier funnelling effect, the eventual collection of solar energy is also critical. To efficiently extract charge carriers from the centre, the device design shown in the schematic in Fig. <ref type="figure" target="#fig_0">1b</ref> was proposed, with a band alignment as shown in Fig. <ref type="figure" target="#fig_4">4</ref>. Such a structure is similar to that of organic photovoltaic cells <ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38</ref> . The charge extraction process is accomplished with two carrier-collecting contacts, one of which is the indenter itself, and the other is located beneath the indented MoS 2 membrane. The bulk of the electrodes are made of transparent conducting oxide to maximize illumination of the membrane. Key to the design are two semiconducting buffer layers, which cover the electrodes and come into direct contact with the MoS 2 monolayer. The role of these buffer layers is to selectively admit one type of charge carrier (electron or hole) while blocking the other. The carrier selectivity of these buffers arises from band alignment (detailed in Fig. <ref type="figure" target="#fig_4">4</ref>) and follows the standard principle from photovoltaics. The nanoindenter tip in Fig. <ref type="figure" target="#fig_0">1b</ref> should therefore be made of, or coated with, transparent semiconductors with selected band edges. This is particularly important when building a functional funnel device such as that in Fig. <ref type="figure" target="#fig_0">1b</ref>, because the buffer layers can help suppress direct tunnelling of carriers between anode and cathode and allow for efficient extraction of charge carriers. A layered patterning scheme is also proposed in Supplementary Fig. <ref type="figure">S6</ref> to achieve arrays of strain-engineered artificial atoms.</p><p>The concept of a solar energy funnel achieved by engineering the electronic band energy and optical bandgap is not entirely new, and has been demonstrated experimentally in several nanostructures with graded gaps, including layer-by-layer assembled CdTe nanocrystals of different sizes <ref type="bibr" target="#b38">39</ref> and core-shell and corrugated carbon nanotube filaments <ref type="bibr" target="#b39">40</ref> . Here, however, we have explored an alternative approach by generating continuously varying electronic band energy and optical bandgap in two-dimensional atomically thin membranes, by means of inhomogeneous elastic strain engineering within a single crystalline material. We would like to emphasize that it is the varying profile of band energy that leads to the direct funnelling effect, while the strength of the exciton binding energy determines whether a Type II or Type III funnel device is created. The present approach is enabled by recent rapid advances in two-dimensional atomically thin sheets such as graphene, hexagonal boron-nitride, MoS 2 monolayer and so on. All of these have been exfoliated experimentally and characterized to have very high elastic strain limits. In addition, MoS 2 has some other attractive properties such as high thermal stability and chemical inertness. We therefore expect that the proposed funnel device can be verified by experiments in the near future.</p><p>In closing, we would like to make three remarks. First, photovoltaic conversion and the solar energy funnel are not the only applications of the proposed artificial atom. For example, without the electrodes, the excitons concentrated at the centre will be relaxed through radiative recombination, resulting in stronger luminescence near the centre of the membrane. This may be useful for exciton lasing, if an appropriate resonator design is devised <ref type="bibr" target="#b40">41</ref> . The unique feature of the device, as exemplified above, is its mechanical tunability; the frequency and intensity of the emission can be tuned continuously by varying the applied strain to the atomic membrane. Second, the concept of a strainengineered artificial atom may work with many other atomically thin sheets, including GaS, GaSe, GaTe, MX 2 -type dichalcogenides (M¼Mo, Nb, Ni, Sn, Ti, Ta, Pt, V, W, Hf and so on, and X¼S, Se, Te), M 2 X 3 -type trichalcogenides (M¼As, Bi, Sb and so on, and X¼S, Se, Te), MPX 3 (X¼S, Se), MAX 3 (A¼Si, Ge, and X¼S, Se, Te), and alloy sheets like M x M ′ 1-x S 2 . It can also be applied to other thin membranes based on conventional materials, such as a silicon nanomembrane <ref type="bibr" target="#b41">42</ref> , which can sustain a significant tensile strain of a few percent. This level of tension is sufficient to induce the proposed funnelling effect, even though the driving force is still not as large as in maximally indented atomic sheets. Finally, although we illustrate the application of the elastically deformed membrane semiconductor as a solar energy concentrator, we would also like to emphasize the more general notion of it being a tunable artificial atom. Each deformable membrane should have its own characteristic excitations (electronic and electromagnetic). Upon juxtaposition, they will interact electronically The atomic membrane lies on the x-y plane, and the indentation is along the z-direction. Two semiconducting buffer layers between the MoS 2 monolayer and the two electrodes serve as electron-selective and holeselective transporters due to their specific band alignment with respect to the MoS 2 monolayer. These two buffer layers are thick enough to make direct tunnelling negligible. In addition, a transparent conducting oxide is used as the cathode so as not to block the incoming light from the top.</p><p>and optically. It is our hope, then, that complex superlattice arrays of these artificial atoms can be built on a whole membrane, the properties of which will be tuned at the level of the fundamental 'atomic' building blocks by strain engineering.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Ground-state properties of MoS 2 monolayer. The ground-state atomic structure of MoS 2 monolayer under different biaxial strains was first assessed by DFT <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> calculations. These were carried out using the Vienna Ab initio Simulation Package (VASP) with a plane wave basis <ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b43">44</ref> and the projector-augmented wave method <ref type="bibr" target="#b44">45</ref> . Exchange-correlation functionals in a Perdew-Berke-Ernzerhof (PBE) form <ref type="bibr" target="#b45">46</ref> within the generalized-gradient approximation (GGA) <ref type="bibr" target="#b46">47,</ref><ref type="bibr" target="#b47">48</ref> were used in all DFT calculations. We adopted the Monkhorst-Pack scheme <ref type="bibr" target="#b48">49</ref> of k-point sampling for zone integration, and selected the number of k-points to achieve a convergence in total energy within 1 meV/atom. The total energy of each optimized structure was calculated again with the more accurate tetrahedron zone summation with Blo ¨chl correction <ref type="bibr" target="#b49">50</ref> . A qualitative electronic band structure for different biaxial tensile strain was also obtained from DFT-PBE calculations.</p><p>Excited-state properties of MoS 2 monolayer. Two physical quantities related to this design of solar energy funnel are the electronic excitation energy (quasiparticle band energy for electron and hole) and optical excitation energy (exciton energy). However, neither of these can be obtained accurately from DFT Kohn-Sham eigen energies using the GGA exchange-correlation function. We therefore computed quasiparticle energies for electrons and holes using many-body perturbation theory calculations within Hedin's G 0 W 0 approximation <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> , while the optical absorption spectra and exciton energies were further obtained by solving a Bethe-Salpeter equation <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> on top of G 0 W 0 quasiparticle energies within the Tamm-Dancoff approximation, which explicitly takes into account Coulomb interactions between quasi-electrons and quasi-holes. Here, an energy cutoff of 350 eV and Monkhorst-Pack k-point sampling of 18 × 18 × 1 were chosen. Both GW and BSE calculations require much more computational effort and memory storage than DFT calculations, because the GW method needs to evaluate frequency-dependent nonlocal self-energy and the BSE method is essentially solving two-particle Green's function, whereas DFT with GGA functions is intrinsically local and frequencyindependent. Because an exciton corresponds to the excitation of electron-hole pairs, its wavefunction is a six-dimensional quantity, C(r e , r h ) = k,vc A vck f ck (r e ) f * vk (r h ), where f ck (r e ) and f vk (r h ) are electron and hole wavefunctions. We have reconstructed exciton wavefunctions and plotted out the corresponding electron (hole) wavefunction by holding its counterpart hole (electron) at a specific location (Supplementary Fig. <ref type="figure" target="#fig_3">S3</ref>). Spin-orbit coupling is not included as it will not affect the main conclusion of strain-dependent electronic and optical bandgaps of MoS 2 monolayer.</p><p>Geometry of the MoS 2 membrane under nanoindentation. Owing to the large size of the atomic membrane under consideration here, it is unrealistic for us to relax the nanoindented membrane by first-principles DFT calculation directly. We therefore fitted a set of Tersoff potential parameters for MoS 2 , and then performed force-field calculations to obtain the geometry of the MoS 2 membrane under indentation. More details are provided in the Supplementary Information. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Inhomogeneous elastic strain in atomically thin membrane</head><p>When subjecting an atomically thin membrane to a simple external load as shown in Fig. <ref type="figure" target="#fig_0">1a</ref> of the paper, an inhomogeneous strain field is created. The equilibrium geometry at the thin membrane limit is given by the Föppl-Hencky equation for a membrane deformation under stretching force only at the boundaries,</p><formula xml:id="formula_3">2 αβ σ 0 α β w ∂ = ∂ ∂ , αβ σ 0 β ∂ = ∂ (S1)</formula><p>where α,β = x, y, w is the displacement along z-direction, σ αβ the stress tensor, and the pressure differential across the membrane is taken to be zero. The first and second equations express the force balances along the z-direction and x-y plane, respectively. For the geometry depicted in Fig. <ref type="figure" target="#fig_0">1a</ref>, we have for line λ(y), h∫ λ dxσα = f𝛼𝛼, where f𝛼𝛼 is the stretching force on the boundary and h is nominal membrane thickness. Apparently, the average tensile stress in y-direction along line λ(y) is ( )</p><formula xml:id="formula_4">α α | | σ f h y λ = . (S2)</formula><p>Thus, a continuously narrowing membrane geometry can efficiently focus the stress and the tensile strain. For a simple concentric geometry, the width w scales as r -1 , where r=(x 2 +y 2 ) 1/2 , so the elastic strain and strain-controlled properties (e.g. band gap) would also scale as r -1 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. Ground-state atomic and electronic structure of monolayer MoS 2</head><p>MoS 2 belongs to a family of low-dimensional semiconductors, the transition metal dichalcogenides MX 2 (X = S, Se). The structure of MoS 2 monolayer is shown in Fig. <ref type="figure" target="#fig_0">S1</ref>, where Mo atom sits in the cage formed by six sulfur atoms, forming a remarkable trigonal prismatic geometry <ref type="bibr">1,</ref><ref type="bibr">2</ref> . Crystal field splitting in such geometry determines its electronic structure, resulting in the states near the band gap largely residing on Mo atoms. This is clearly seen from electronic density of states (DOS) (Fig. <ref type="figure" target="#fig_0">S1</ref>) obtained from first-principles density-functional theory <ref type="bibr">3,</ref><ref type="bibr">4</ref> (DFT) calculations. Owing to its hexagonal space group ( P6m2 ) symmetry, MoS 2 monolayer has isotropic in-plane elasticity, so the band gap depends only on the hydrostatic strain invariant in 2D (i.e., biaxial strain), η hydro = (η xx + η yy )/2, in the linear order. We therefore focus on the effect of biaxial strain on the electronic and optical properties of MoS 2 monolayer in the main text.</p><p>However, it is known that DFT using local density approximation or generalized gradient approximation of exchange-correlation functional usually underestimates by 30%-50% the true quasiparticle band gap. The DFT band structure (Fig. <ref type="figure" target="#fig_2">2a</ref>) and DOS (Fig. <ref type="figure" target="#fig_0">S1c</ref>) only provide qualitative of electronic structure of monolayer MoS 2 . We thus have performed quasiparticle GW calculations for electron and hole energy levels and solved Bethe-Salpeter equation (BSE) for optical excitation energy and absorption spectrum. These two quantities together with the nonlinear strain map are the key physical parameters used in our device design. optical properties are found to be altered significantly under biaxial strain, which could be important for designing 2D photonic using arrays of strain-engineered atomic membranes. and the Poisson ratio (ν) <ref type="bibr">5,</ref><ref type="bibr">6</ref> . Second, the bipartite lattice of MoS 2 monolayer renders its mechanical deformation amenable to a bicontinuum treatment <ref type="bibr">7</ref> . Therefore, we choose the Tersoff's force field that has a three-body angular term, <ref type="bibr" target="#b7">8</ref> with which a graphene-like structure is stable. The pair of S atoms occupying each site on the honeycomb net is treated as one particle.</p><p>Further, we ignore the mass difference between the Mo and S-pair sites, which is appropriate NATURE PHOTONICS | www.nature.com/naturephotonics when only static morphology is sought. We also assume the variation of the potential corresponding to bending modes Mo-S-Mo and S-Mo-S identical. Again, this is justified as only Young's modulus and Poisson's ratio determine the static response to an external stress <ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref> .</p><p>Although Föppl-Hencky equation for circular membrane under a central load does entail the possibility of wrinkling instability 6 , we have not seen wrinkle formation in the membrane up to the point of membrane rupture in our simulations. We started with the Tersoff potential 8 for carbon, and found that the only modifications we needed were, following the same notations in Ref. The local strain is computed as follows. We compute the surface normal of, say, the i-th atom with a bicubic interpolation of the surface, with which the tangent plane can be located. We then project the initial atomic con6uration onto the tangent plane <ref type="bibr">9</ref> . As shown in Fig. <ref type="figure">S5a</ref>, the curved surface of the deformed membrane is denoted S, and the tangent plane S t . Six second-nearest neighbors, as shown in Fig. <ref type="figure">S5b</ref>, are selected to compute the least-square atomic strain. The least-square atomic strain is computed as follows. Let ji j i = -d r r for the current configuration, and 0 0 0 ji j i = -r r for the reference configuration. Then matrices i W , V i and J i are define as, </p><formula xml:id="formula_5">J i = V i -1 W i (S5)</formula><p>With which the strain tensor is: T 1 ( ) 2</p><formula xml:id="formula_6">i i i = - η J J I (S6)</formula><p>And the hydrostatic strain invariant is defined as</p><formula xml:id="formula_7">𝛈𝛈 hydro,2D = 1 2</formula><p>Tr 𝛈𝛈 ! (S7) </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 |</head><label>1</label><figDesc>Figure1| Introducing inhomogeneous strain and classifying funnelling mechanisms. a, Schematic of an inhomogeneously strained membrane ribbon with varying width l (dashed line). The two electrodes mechanically impose a vertical displacement on the central region of the membrane. Without the two electrodes, the equilibrium geometry of the membrane is flat. b, Schematic device setup for elastic strain-engineered artificial atom (not drawn to scale). Notice that although the bulk of the electrodes are metallic (for example, transparent conducting oxide), they are coated with semiconducting buffers to facilitate selective quasiparticle collection (detailed in the text). This setup completely removes the edges of the membrane ribbon in a, as these can serve as preferential sites for stress-aided defect nucleation. c-e, Three broad-spectrum solar energy funnelling mechanisms arising from a different band bending and exciton binding profile in the strain-engineered semiconducting membrane.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>energy (eV) Optical absorption spectra (a.u.)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 |</head><label>2</label><figDesc>Figure 2 | Strain-dependent electronic and optical properties of MoS 2 monolayer. a, Electronic DFT band structure of monolayer MoS 2 under different biaxial strains from 0% (blue line) to 9% (red line). b, Direct and indirect bandgaps under different biaxial strains calculated using DFT and GW. The GW direct bandgap refers to the minimal direct transition energy. It is located at the K points of the hexagonal Brillouin zone, indicated by an arrow in a. The corresponding lowest optical excitation energy (black triangles) is calculated by BSE on top of GW quasiparticle energies with electron-hole Coulomb interaction included. c, Biaxial strain-dependent optical absorption spectra calculated by BSE. d, Biaxial strain-dependent GW quasiparticle energies for electrons and holes at the K point. Inset: atomic structure of MoS 2 monolayer.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 |</head><label>3</label><figDesc>Figure 3 | Structural and physical properties of nanoindented MoS 2 monolayer. a, Atomic structure of circular MoS 2 membrane under indentation with a maximum vertical displacement of R/5 (R, circular membrane radius). b, Biaxial strain in the MoS 2 membrane calculated from the least-square atomic strain tensor. c,d, Corresponding local electron and hole energy profile (c) and local exciton energy profile (d). These are directly mapped from the profiles of homogeneously biaxial strained MoS 2 monolayer against the biaxial invariants of the strain tensor in inhomonegeously deformed MoS 2 membrane under indentation.</figDesc><graphic coords="4,331.35,224.98,185.13,99.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4 |</head><label>4</label><figDesc>Figure 4 | Schematic of charge extraction near the centre of the atomic membrane.The atomic membrane lies on the x-y plane, and the indentation is along the z-direction. Two semiconducting buffer layers between the MoS 2 monolayer and the two electrodes serve as electron-selective and holeselective transporters due to their specific band alignment with respect to the MoS 2 monolayer. These two buffer layers are thick enough to make direct tunnelling negligible. In addition, a transparent conducting oxide is used as the cathode so as not to block the incoming light from the top.</figDesc><graphic coords="5,151.59,131.05,56.20,59.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Received 13</head><label>13</label><figDesc>March 2012; accepted 17 October 2012; published online 25 November 2012</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure S1 |C. Strain-dependent dielectric functions and electron energy loss spectrum of monolayer MoS 2</head><label>S12</label><figDesc>Figure S1 | Structure of monolayer MoS 2 viewed from (a) side and (b) top. (c) Electronic DOS of MoS 2 monolayer from DFT calculations, with projection onto Mo and S atoms. Inset: the local coordiation of a Mo atom and the crystal-field splitting of its d-orbitals at the Brillouin zone centre.</figDesc><graphic coords="10,67.37,231.97,455.91,182.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure S2 |</head><label>S2</label><figDesc>Figure S2 | Strain-dependent real (ε 1 ) and imaginary (ε 2 ) part of dielectric functions and electron energy loss spectrum of monolayer MoS 2 for light polarized parallel to the monolayer surface.</figDesc><graphic coords="11,191.20,115.58,224.69,501.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure S4 |</head><label>S4</label><figDesc>Figure S4 | Comparison between the membrane geometry computed from the coarse-grained force-field calculation and the exact results. Here, the vertical displacement w(r) and the radius r are both scaled by R 0 /R, where R 0 = 100 Å and R is the radius of the current simulation in Å.</figDesc><graphic coords="13,130.54,259.57,341.25,260.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>8 :A 6 NATURE</head><label>86</label><figDesc>Figure S5 | (a) The tangent plane. (b) Six nearest neighbors included in the calculation of the least-square strain.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,61.46,78.60,455.89,199.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,94.46,313.70,401.91,200.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,88.38,78.47,432.68,259.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>10,11    </figDesc><table /><note><p>NATURE PHOTONICS | www.nature.com/naturephotonics 7 SUPPLEMENTARY INFORMATION DOI: 10.1038/NPHOTON.2012.285 © 2012 Macmillan Publishers Limited. All rights reserved.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2012 Macmillan Publishers Limited. All rights reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>NATURE PHOTONICS | www.nature.com/naturephotonics</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors appreciate helpful discussions with <rs type="person">S.G. Johnson</rs> and <rs type="person">M. Loncar</rs>, and acknowledge support from the <rs type="funder">NSF</rs> (<rs type="grantNumber">DMR-1120901</rs>) and <rs type="funder">AFOSR</rs> (<rs type="grantNumber">FA9550-08-1-0325</rs>), as well as <rs type="funder">NSFC</rs> Project <rs type="grantNumber">11174009</rs> and <rs type="grantNumber">973</rs> <rs type="funder">Programs of China</rs> (<rs type="grantNumber">2010CB631003</rs>, <rs type="grantNumber">2011CBA00109</rs>, <rs type="grantNumber">2012CB619402</rs>, <rs type="grantNumber">2013CB921900</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_sjzNqhS">
+					<idno type="grant-number">DMR-1120901</idno>
+				</org>
+				<org type="funding" xml:id="_cPACx32">
+					<idno type="grant-number">FA9550-08-1-0325</idno>
+				</org>
+				<org type="funding" xml:id="_8fkkC4N">
+					<idno type="grant-number">11174009</idno>
+				</org>
+				<org type="funding" xml:id="_6ASb69g">
+					<idno type="grant-number">973</idno>
+				</org>
+				<org type="funding" xml:id="_ACRyrPZ">
+					<idno type="grant-number">2010CB631003</idno>
+				</org>
+				<org type="funding" xml:id="_6Ec3AKU">
+					<idno type="grant-number">2011CBA00109</idno>
+				</org>
+				<org type="funding" xml:id="_JXqmFXh">
+					<idno type="grant-number">2012CB619402</idno>
+				</org>
+				<org type="funding" xml:id="_8Fq9RAA">
+					<idno type="grant-number">2013CB921900</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>J.L. designed the project. J.F., X.F.Q. and C.W.H. carried out the calculations and the modelling. J.F., X.F.Q. and J.L. wrote the paper. All authors contributed to discussions of the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information is available in the online version of the paper. Reprints and permission information is available online at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/reprints</ref>. Correspondence and requests for materials should be addressed to J.L.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing financial interests</head><p>The authors declare no competing financial interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Information</head><p>Strain-engineered artificial atom as a broad-spectrum solar energy funnel </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTARY INFORMATION</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Detailed balance limit of efficiency of p-n junction solar cells</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shockley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Queisser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="510" to="519" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Detailed features in the local mode overtone bands of ethane, neopentane, tetramethylbutane, and hexamethylbenzene</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R A</forename><surname>Greenlay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="5516" to="5524" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Detailed balance limit of the efficiency of tandem solar-cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Vos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. D</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="839" to="846" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Silicon quantum dots: a general photocatalyst for reduction, decomposition, and selective oxidation reactions</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H A</forename><surname>Tsang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N-B</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S-T</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="12090" to="12091" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Solution-processed PbS quantum dot infrared photodetectors and photovoltaics</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Mater</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="138" to="142" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Ultra-strength materials</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="710" to="757" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mechanics of ultra-strength materials</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ogata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="167" to="172" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Measurement of the elastic properties and intrinsic strength of monolayer graphene</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">D</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kysar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">321</biblScope>
+			<biblScope unit="page" from="385" to="388" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Two-dimensional atomic crystals</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Novoselov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="10451" to="10453" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ab initio calculation of ideal strength and phonon instability of graphene under tension</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">64120</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Patterning of graphene</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Feng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="4883" to="4899" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Stretching and breaking of ultrathin MoS 2</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertolazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brivio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="9703" to="9709" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Atomically thin MoS 2 : a new direct-gap semiconductor</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Mak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Heinz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page">136805</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Emerging photoluminescence in monolayer MoS 2</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Splendiani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1271" to="1275" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Valley-selective circular dichroism of monolayer molybdenum disulphide</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Commun</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">887</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Coupled spin and valley physics in monolayers of MoS 2 and other group-VI dichalcogenides</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G-B</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page">196802</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The mechanics and physics of defect nucleation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="151" to="159" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Atomistic mechanisms governing elastic limit and incipient plasticity in crystals</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Van Vliet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suresh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">418</biblScope>
+			<biblScope unit="page" from="307" to="310" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Bicapped tetrahedral, trigonal prismatic, and octahedral alternatives in main and transition group sixcoordination</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="2484" to="2492" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Landau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Lifshits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kosevich</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pitaevskii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">L. P. Theory of Elasticity 3rd English edn</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="1986">1986</date>
+			<publisher>Pergamon Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Inhomogeneous electron gas</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hohenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="864" to="B871" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Self-consistent equations including exchange and correlation effects</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Sham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="1133" to="A1138" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Straininduced semiconductor to metal transition in the two-dimensional honeycomb structure of MoS 2</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scalise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Houssa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pourtois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Afanas'ev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stesmans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Res</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="43" to="48" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Thickness and strain effects on electronic structures of transition metal dichalcogenides: 2H-MX 2 semiconductors</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W;</forename><surname>M¼mo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>X¼s</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Se</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">)</forename><surname>Te</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">33305</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">New method for calculating one-particle Green&apos;s function with application to electron-gas problem</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hedin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="796" to="A823" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">First-principles theory of quasiparticles: calculation of band-gaps in semiconductors and insulators</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Hybertsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Louie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1418" to="1421" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A relativistic equation for bound-state problems</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Salpeter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Bethe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1232" to="1242" />
+			<date type="published" when="1951">1951</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Electronic excitations: density-functional versus many-body Green&apos;s-function approaches</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Onida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reining</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Mod. Phys</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="601" to="659" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Large excitonic effects in monolayers of molybdenum and tungsten dichalcogenides</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramasubramaniam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page">115409</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Carbon nanostructures as an electromechanical bicontinuum</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nisoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Lammert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mockensturm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Crespi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">45501</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">New empirical-approach for the structure and energy of covalent systems</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tersoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="6991" to="7000" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Large deflection of circular membrane under concentrated force</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Jin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Math. Mech. Engl</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="889" to="896" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Physical Properties of Crystals: Their Representation by Tensors and Matrices 20-30</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Nye</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Clarendon Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Long-range pair transport in graded band gap and its applications</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shimizu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Lumin</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="51" to="54" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Collision broadening of two-dimensional excitons in GaAs single quantum well</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Honold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schultheis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuhl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Tu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="6442" to="6445" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Lowtemperature photocarrier dynamics in monolayer MoS 2</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Korn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heydrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hirmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schmutzler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">102109</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">New architecture for high-efficiency polymer photovoltaic cells using solution-based titanium oxide as an optical spacer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="572" to="576" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Polymer solar cells</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Photon</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="153" to="161" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Exciton recycling in graded gap nanocrystal structures</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Franzl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Klar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schietinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Rogach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Feldmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1599" to="1603" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Exciton antennas and concentrators from core-shell and corrugated carbon nanotube filaments of homogeneous composition</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Mater</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="833" to="839" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Direct-bandgap properties and evidence for ultraviolet lasing of hexagonal boron nitride single crystal</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taniguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kanda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Mater</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="404" to="409" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Silicon nanomembranes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Lagally</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Bull</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="57" to="63" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Furthmu ¨ller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Mater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="15" to="50" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Furthmu ¨ller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="11169" to="11186" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Projector augmented-wave method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blo ¨chl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="17953" to="17979" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="3865" to="3868" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Beyond the local-density approximation in calculations of ground-state electronic-properties</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Langreth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mehl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1809" to="1834" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Density-functional exchange-energy approximation with correct asymptotic-behavior</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Becke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="3098" to="3100" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Special points for Brillouin-zone integrations</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Monkhorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Pack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="5188" to="5192" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Improved tetrahedron method for Brillouin-zone integrations</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blo ¨chl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Jepsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">K</forename><surname>Andersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="16223" to="16233" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>References</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Bicapped trigonal prismatic, and octahedral alternatives in main and transition group six-coordination</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Howell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="2484" to="2492" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Valley-selective circular dichroism of monolayer molybdenum disulphide</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Commun</title>
+		<imprint>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Inhomogeneous electron gas</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hohenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="864" to="B871" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Self-consistent equations including exchange and correlation effects</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Sham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="1133" to="A1138" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Landau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Lifshits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kosevich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Pitaevskii</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Pergamon Press</publisher>
+		</imprint>
+	</monogr>
+	<note>rd English edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Large deflection of circular membrane under concentrated force</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Jin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Math. Mech.-Engl</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="889" to="896" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Carbon nanostructures as an electromechanical bicontinuum</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nisoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Lammert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mockensturm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Crespi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">45501</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title/>
+		<idno>nature.com/naturephotonics</idno>
+	</analytic>
+	<monogr>
+		<title level="j">NATURE PHOTONICS | www</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">New empirical-approach for the structure and energy of covalent systems</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tersoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="6991" to="7000" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">An atomistic-based finite deformation membrane for single layer crystalline films</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arroyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Belytschko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mech. Phys. Solids</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1941" to="1977" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Theory of shear banding in metallic glasses and molecular dynamics calculations</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ogata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Trans</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="2923" to="2927" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Dynamics of viscoplastic deformation in amorphous solids</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Falk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Langer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. E</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="7192" to="7205" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title/>
+		<idno>nature.com/naturephotonics</idno>
+	</analytic>
+	<monogr>
+		<title level="j">NATURE PHOTONICS | www</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder ref="#_CjFAYSu #_JxAG7Rk">
+					<orgName type="full">Natural Science Foundation of Tianjin</orgName>
+				</funder>
+				<funder ref="#_mCFGAbh #_CqaP2Hx #_gP2CUN3">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Recruitment Program of Global Youth Experts of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-11">November 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mingjian</forename><surname>Yuan</surname></persName>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2017-11">November 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FDCA1B17E570837BBBE3A74A1EEA081D</idno>
+					<idno type="DOI">10.1038/s41467-020-15451-1.</idno>
+					<note type="submission">Received: 21 November 2019; Accepted: 12 March 2020;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Nature Research wishes to improve the reproducibility of the work that we publish. This form is intended for publication with all accepted papers reporting the characterization of photovoltaic devices and provides structure for consistency and transparency in reporting. Some list items might not apply to an individual manuscript, but all fields must be completed for clarity.</p><p>For further information on Nature Research policies, including our data availability policy, see Authors &amp; Referees.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental design</head><p>Please check: are the following details reported in the manuscript?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Dimensions</head><p>Area of the tested solar cells Yes No see Methods Method used to determine the device area Yes No see Methods 2. Current-voltage characterization Current density-voltage (J-V) plots in both forward and backward direction Yes No see Supplementary Figure 20 Voltage scan conditions For instance: scan direction, speed, dwell times Yes No see Methods Test environment For instance: characterization temperature, in air or in glove box Yes No see Methods</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Tables</head><p>Supplementary Table <ref type="table">1</ref> | VBM and CBM energy levels of (BA)2MAn-1PbnI3n+1 perovskite single crystals through UPS measurement. The geometry optimization and electronic structure calculation were carried out using the Vienna Ab initio Simulation Package (VASP). <ref type="bibr">9</ref> A uniform 4 × 4 × 2</p><formula xml:id="formula_0">n</formula><p>Monkhorst-Pack k-point mesh and a plane-wave energy cutoff of 400 eV were adopted to the structural optimization. We used the Perdew-Burke-Ernzerhof (PBE) functional <ref type="bibr">10</ref> to express the exchange-correlation interactions and projector-augmented wave (PAW) method <ref type="bibr">11</ref> to account for the electron-ion interaction. The van der Waals interactions was described by the Grimme DFT-D3 correction. <ref type="bibr">12</ref> Crystal models of (BA)2MAn-1PbnI3n+1 and (MAMP)MAn-1PbnI3n+1 perovskites were derived from the literatures reported by Kanatzidis et al. <ref type="bibr">1,</ref><ref type="bibr">2</ref> To evaluate the distortion level at the individual [PbI6] <ref type="bibr">4</ref> </p><p>Here, m is the number of faces in the polyhedron × 1.5, 𝜃 𝑖 is the ith bond angle, and 𝜃 0 is the normal bond angle (90°) for a polyhedron. <ref type="bibr" target="#b24">13</ref> 𝐷 = </p><p>Here, Ii is the distance from the central atom to the ith atom, and I is the average bond length. <ref type="bibr" target="#b25">14</ref> As a result, (MAMP)(MA)3Pb4I13 perovskite possesses a smaller average BAV and DI values (37.26 and 0.012) compared to (BA)2(MA)3Pb4I13 perovskite (60.18 and 0.022). The distortion of the inorganic slabs is greatly reduced compared to BA perovskites, which significantly decreased the antibonding hybridization, pushing up the valence band maximum and pushing down the conduction band minimum . As a result, MAMP quasi-2D perovskite possesses a smaller bandgap than BA perovskite.</p><p>emission Scanning Electron Microscopy (SEM; JSM-7500F, JEOL). The energy dispersive spectroscopy (EDS) was conducted by using an EDS device connected to FESEM.</p><p>Photoluminescence (PL) spectra. The steady-state PL spectra were measured by fluorescence spectrophotometer (Edinburgh instruments FLS 980) provided by a xenon lamp, and perovskite films were excited at 475 nm. The excitation source was a laser diode (450 nm). The TRPL lifetimes are fitted by a double exponential function as follows,</p><formula xml:id="formula_3">𝑓(𝑡) = 𝐴 1 × 𝑒 -𝑡 𝜏 1 + 𝐴 2 × 𝑒 -𝑡 𝜏 2 . (<label>6</label></formula><formula xml:id="formula_4">)</formula><p>And the average TRPL lifetimes is calculated by the equation,</p><formula xml:id="formula_5">𝜏 ave = 𝐴 1 𝜏 1 2 +𝐴 2 𝜏 2 2 𝐴 1 𝜏 1 +𝐴 2 𝜏 2 . (<label>7</label></formula><formula xml:id="formula_6">)</formula><p>The initially photogenerated carrier density (n0) of perovskite films could be evaluated by the equation:</p><formula xml:id="formula_7">𝑛 0 = 𝐸𝜆𝛼(𝜆) ℎ𝑐𝐴(1-𝑅 pump )<label>(8)</label></formula><p>𝛼(𝜆) = - </p><p>Where E was the energy contained in the excited pump pulse with a wave length of λ; α(λ) and Rpump represented the absorption coefficient and the reflectance of the excited pump pulse; A, T, R, and l was the effective area, transmittance, reflectivity and thickness of perovskite films, respectively.</p><p>In general, the recombination dynamics could be described by the following equation,</p><formula xml:id="formula_9">d𝑛 0 (𝑡) d𝑡 = -𝑘 1 𝑛 -𝑘 2 𝑛 2 -𝑘 3 𝑛 3<label>(10)</label></formula><p>Where k1, k2 and k3 represent the first, second and three order rate constants for trapassisted, bimolecular recombination and Auger recombination, respectively. k1, k2 and k3 were extracted by global fits of density dependent TRPL data by using the equation.</p><p>Relative dielectric constant measurement. Capacitance was determined using impedance analyzer (Agilent4294A) over a wide frequency range from 100 Hz up to 60 MHz. The relative dielectric constant of the prepared samples was calculated using the formula,</p><formula xml:id="formula_10">𝜀 = 𝐶𝑑 𝜀 0 𝑆 . (<label>11</label></formula><formula xml:id="formula_11">)</formula><p>Where C is the measured capacitance, d is the thickness of the single crystals, S is the surface area, and ε0 is the permittivity constant in free space.</p><p>The space-charge-limited current measurement. Trap density and mobility were measured by SCLC model, using an electron only device structure of ITO/TiO2/perovskite/PCBM/Ag. The dark current density-voltage (J-V) characteristics of the electron-only devices were measured by a Keithley 2400 sourcemeter. The electron mobility then extracts from the child region with the equation of</p><formula xml:id="formula_12">𝐼 = 9𝜀 0 𝜀 r 𝜇𝑆𝑉 2 8𝐿 3 . (<label>12</label></formula><formula xml:id="formula_13">)</formula><p>Where I is the device current, εr is the relative dielectric constant, ε0 is the vacuum permittivity, S is the electrode area, L is the film thickness.</p><p>A rapid nonlinear trap-filled limit (TFL) rise was observed, which represents all the available defect states were filled by the injected carriers. The onset voltage, VTFL, was linearly proportional to the density of defect states,</p><formula xml:id="formula_14">𝑁 t = 2𝜀 0 𝜀 r 𝑉 TFL 𝑞𝐿 2 . (<label>13</label></formula><formula xml:id="formula_15">)</formula><p>Thermal admittance spectroscopy analysis was obtained by capacitance-frequency curve using PARSTAT 4000 was used to measure the capacitance-frequency curve. The energy profile of trap density of states could be fitted from the equation:</p><formula xml:id="formula_16">Nt(Eω) =- 𝑉 bi 𝑒𝑊 d𝐶 d𝜔 𝜔 𝑘 B 𝑇 (<label>14</label></formula><formula xml:id="formula_17">)</formula><p>Where Vbi is the built in voltage, ω is angular frequency, e is the elementary charge, W is the depletion width, C is the capacitance, kB is the Boltzmann constant and T is the temperature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of perovskite devices</head><p>The steady-state photocurrent curves were measured under simulated AM 1.5G irradiation (100 mW cm -2 ) using a xenon-lamp-based solar simulator (Oriel 67005, 150 W Solar Simulator). For each measurement, the lamp was turned on and the testing Electroluminescence quantum efficiency measurements were conducted using a Newport QE measurement kit via a system combining a xenon lamp, a monochromator, a chopper and a lock-in amplifier together with a calibrated silicon photodetector. For light-emitting diodes device characterizations, a fiber integration sphere (FOIS-1-FL) coupled with a QE65 Pro spectrometer was used for the light output measurement. The devices were measured from zero bias to forward bias with a scanning rate of 0.1 V s -1 and a dwell time of 1 s.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transient photocurrent and transient photovoltage measurement were measured</head><p>on a home-made system. A white light bias is generated from an array of diodes (100 mW cm -2 ) and red light pulse diodes (0.05 s square pulse width, 100 ns rise and fall time, 5 mW cm -2 ) controlled by a fast solid-state switch were used as the perturbation source. TPC was measured using 20 Ω external series resistance to operate the device in short-circuit. Similarly, TPV was measured using 1 MΩ external series resistance to operate the device in open-circuit. The voltage dynamics on the resistors were recorded on a digital oscilloscope (Tektronix MDO3032). The perturbation red light source was set to a suitably low level to the white diodes array with light intensity equivalent to 100 mW cm -2 of a standard solar simulator. T he certified power conversion efficiency (PCE) of threedimensional (3D) perovskite solar cells (PSCs) has reached 25.2% <ref type="bibr">1,</ref><ref type="bibr">2</ref> . However, the device stability is still undesirable, which severely hinders their commercialization process <ref type="bibr">3,</ref><ref type="bibr">4</ref> . To date, reduced-dimensional (quasi-2D) perovskites are believed to be the most successful attempt to address the instability problems <ref type="bibr">5,</ref><ref type="bibr">6</ref> . Quasi-2D perovskite is generated by slicing 3D perovskite along one of its crystallographic plane, and subsequently incorporating bulky organic cations to separate the inorganic slabs <ref type="bibr">7</ref> . The resulting derivatives exhibit greatly improved stability, especially the low 'quantum-well' thickness (&lt;n&gt; value) species <ref type="bibr">8,</ref><ref type="bibr">9</ref> . However, PCE for these quasi-2D photovoltaics still lags far behind their 3D counterpart. In particular, the devices display low open-circuit voltage (V oc ), indicating the existence of non-negligible nonradiative recombination.</p><p>Further performance improvement solely relies on understanding of the device operation mechanism. However, carrier transport in quasi-2D films is complicated and still quite elusive to date. As far as we know, multiple &lt;n&gt; value species are created during the crystallization. Accordingly, efficient cascade energy transfer takes place among different &lt;n&gt; value species, and the carriers would eventually concentrate to the lowest bandgap species <ref type="bibr">10</ref> . Great success has accomplished in perovskite light-emitting diodes (PeLEDs) by taking advantage of this phenomenon <ref type="bibr">11</ref> . Nevertheless, photovoltaics rely on completely opposite operation mechanism compared with PeLEDs, which requires carriers to get separated rather than get recombined. Therefore, we point out that the aforementioned cascade energy transfer that is caused by the inhomogeneous energy landscape will degenerate photovoltaic performance due to the following reasons.</p><p>First, energy transfer dynamics is demonstrated to dominate the carrier transport in quasi-2D films, because the cascade energy transfer typically happens at a very early stage after photoexcitation. From the viewpoint of carrier dynamics, carrier transit time across the p-n junction is much longer than the energy transfer timescale, when considering the carrier mobility and film thickness <ref type="bibr">12</ref> . This implies that the photocarriers generating in the high bandgap species would thermally relax to the band edge of the smallest bandgap species at first, and then get separated under the built-in electric field. This cooling process inevitably results in extra energy loss, and the overall device's V oc is thus limited by the smallest bandgap species <ref type="bibr" target="#b24">13</ref> . Second, severe energy disorder exists in the quasi-2D perovskite films, which is mainly induced by the inhomogeneous energy landscape <ref type="bibr" target="#b25">14</ref> . High degree of energy disorder widens the distribution of electronic states and creates band tail states, which have been proved to lead to notable V oc loss in both organic and quantum dot photovoltaics <ref type="bibr" target="#b26">15,</ref><ref type="bibr" target="#b27">16</ref> . Hence, it is foreseen that quasi-2D perovskite photovoltaics should suffer from the energy disorder as well. In summary, the inhomogeneous energy landscape deteriorates the device performance by introducing extra energy loss, creating band tail states, and inhibiting minority carrier transport. Therefore, quasi-2D perovskite film with homogeneous energy landscape is proposed here to address the problems. However, the approach is still highly challenging and rarely explored yet.</p><p>Fortunately, significant advances have been made toward deeply understanding the quasi-2D film's formation kinetics and the resulting band structure. Proppe et al. <ref type="bibr" target="#b28">17</ref> first reported a quasi-2D perovskite film whose bandgaps concentrated at 1.65 eV, through judiciously selecting the allylammonium ligand. Zhou et al. <ref type="bibr" target="#b29">18</ref> also demonstrated that the &lt;n&gt; value distribution could be controlled by introducing methylammonium chloride additive. Subsequently, Shao et al. <ref type="bibr" target="#b30">19</ref> successfully tuned the energy landscape of perovskite films via a vacuum-assisted method. Reduced low &lt;n&gt; value components favorably promoted the carrier transport and effectively suppressed the charge recombination. These films featuring high &lt;n&gt; value phases achieved improved performance. Nevertheless, to some extent, they sacrificed the natural stability advantages of quasi-2D perovskites. Therefore, achieving homogeneous energy landscape in low &lt;n&gt; value regions is necessary to ensure both performance and stability of the PSCs.</p><p>The knowledge thus leverages us an opportunity to realize homogeneous energy landscape via material design and crystallization dynamics engineering. According to previous report, the polydispersity of &lt;n&gt; values is highly dependent on the spatial distribution of organic cations in precursor solution <ref type="bibr" target="#b25">14</ref> . In principle, narrow &lt;n&gt; value-distributed quasi-2D films are formed, once the organic cations become homogeneously distributed. Moreover, it is reasonable to minimize the band offsets between adjacent &lt;n&gt; value species by judiciously selecting the material structure. The reduced band offsets thereby flatten the overall band structure, and help to create the homogeneous energy landscape.</p><p>Based on the above inspiration, we thus conceive a synergistic approach to realize homogeneous energy landscape by taking advantage of both material structure and crystallization kinetic regulation. With the help of the density functional theory (DFT) simulation, a meta-(aminomethyl) piperidinium (MAMP) quasi-2D perovskite film is fabricated, which possesses an overall flatter band structure. Furthermore, MAMP film with a homogeneous energy landscape is realized by carefully regulating the crystallization kinetics. The energy dispersion of the corresponding film is much smaller than the control, n-butylammonium (BA) film. Electrical characterizations confirm that the homogeneous energy landscape decreases the defect density and reduces the film's energy disorder. We then correlate the relationship between homogeneous energy landscape and device performance. The physical origin of V loss has been thoroughly investigated by various electrical analyses and solar cell capacitance simulator (SCAPS) simulation. Minimal V loss was achieved owing to the reduced nonradiative recombination and energy disorder, which is induced by the homogeneous energy landscape. The device exhibits an excellent PCE of 16.53%, accompanied by a high V oc of 1.21 V. In addition, the device exhibits significantly improved stability compared with traditional hot-casting films due to the more ideal vertical phase alignment, which retains almost 90% of the initial PCE after 1000 h of storage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>DFT simulation-guided material design. Flattening the overall band structure of a quasi-2D film is equal to reducing the band offsets between the adjacent quasi-2D species (Fig. <ref type="figure">1a</ref>). Accordingly, the goal can be indirectly realized by minimizing the individual quasi-2D perovskites' bandgap. Organic cations can affect the quasi-2D perovskites' lattice structure via versatile hydrogen bond types. The discrepancy makes huge impact on the resulting energy level through the degree of octahedral tilting and interlayer electronic coupling strength. Accordingly, interlayer electronic coupling participates in antibonding interactions via van der Waals halide-halide interactions. Short halide-halide distance affords strong antibonding interactions, which push up the valence band maximum (VBM) in principle <ref type="bibr" target="#b31">20</ref> . Meanwhile, octahedral tilting affords new hybrid orbitals by mixing s and p orbitals of halide. The hybridization determines the conduction band minimum (CBM) antibonding between p orbitals of metal and s/p hybrid orbitals of halide. Small octahedral tilting pushes up the VBM and pushes down the CBM, resulting in the reduced bandgap <ref type="bibr" target="#b32">21,</ref><ref type="bibr" target="#b33">22</ref> .</p><p>Accordingly, minimizing the octahedral tilting and reducing the interlayer distance are the keys to flatten the band structure, which requires us to judiciously examine the organic cation and the resulting lattice geometry. We noticed that a series of Dion-Jacobson phase (DJ) quasi-2D perovskites that were first reported by Kanatzidis and colleagues <ref type="bibr" target="#b31">20</ref> might potentially meet the requirements <ref type="bibr" target="#b31">20</ref> . The DJ perovskites were characterized with divalent interlayer spacers. The immobile divalent cations pushed the inorganic slabs close to each other. Accordingly, MAMP quasi-2D perovskites exhibited the shortest interlayer halide-halide distance (about 4.0 Å) among all the quasi-2D perovskites reported to date (Supplementary Fig. <ref type="figure">1</ref>) <ref type="bibr" target="#b34">23,</ref><ref type="bibr" target="#b35">24</ref> . In addition, negligible octahedral tilting was found in MAMP perovskites, since the axial Pb-I-Pb angles are close to 180°( Supplementary Fig. <ref type="figure" target="#fig_4">2</ref>). In principle, short halide-halide distance and negligible octahedral tilting should decrease the bandgap, which subsequently reduced the band offsets and enabled the films to possess a relatively flatter overall band structure.</p><p>DFT simulation was used to simulate the band structure for perovskites (Supplementary Note 1). Detailed [PbI 6 ] 4-octahedron distortion was calculated through the bond angle variance (BAV) and distortion index (DI) (Fig. <ref type="figure">1b</ref>) <ref type="bibr" target="#b36">25,</ref><ref type="bibr" target="#b37">26</ref> . MAMP perovskite exhibited a smaller average BAV and DI than BA perovskite, indicating less octahedral tilting. In addition, we simulated the spinor density to illustrate the interlayer coupling strength of I-I (Fig. <ref type="figure">1c</ref>). As expected, MAMP perovskite reflected stronger antibonding interactions compared with BA perovskite. As a result, MAMP perovskites exhibited a smaller bandgap compared with regular BA perovskites (Supplementary Figs. <ref type="figure" target="#fig_5">3</ref> and<ref type="figure" target="#fig_7">4</ref>).</p><p>High-quality (MAMP)MA n-1 Pb n I 3n+1 and (BA) 2 MA n-1 Pb n I 3n+1 (n = 1, 2, 3, 4) single crystals (SCs) (Supplementary Figs. <ref type="figure">7</ref><ref type="figure">8</ref><ref type="figure">9</ref>) were obtained by an improved solvent growth method. CBM and VBM positions for these SCs were measurement through their absorption spectra (Fig. <ref type="figure">1d,</ref><ref type="figure">e</ref>) and ultraviolet photoelectron spectrometer (UPS) (Fig. <ref type="figure">1f</ref>, Supplementary Figs. <ref type="figure" target="#fig_8">5</ref> and<ref type="figure">6</ref>, and Supplementary Tables <ref type="table">1</ref> and<ref type="table" target="#tab_0">2</ref>). As shown, the measured bandgap for MAMP SCs' each n value was greatly smaller than BA ones. Thereby, VBM and CBM band offsets between adjacent n values reduced in MAMP SCs. Consequently, the bandgap energy dispersion from n = 1 to n = 4 species was calculated to be 0.33 eV for MAMP perovskite, which was much lower than BA case (0.52 eV).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Crystallization kinetics regulation. Corresponding quasi-2D</head><p>films were fabricated by single-step spin-coating process with the aid of antisolvents. The quasi-2D perovskite films' formation kinetics need to be well controlled to achieve narrow &lt;n&gt; value distribution. Previous research demonstrated that colloidal precursor sol-gel, MA + /PbI x À complexes, formed spontaneously in the precursor solution <ref type="bibr" target="#b38">27</ref> . The colloids provided nucleation sites for the subsequent crystallization (Fig. <ref type="figure" target="#fig_4">2a</ref>), which accelerated the crystallization speed locally. Lower &lt;n&gt; value quasi-2D perovskites crystallized with high priority, since they possess lower crystallization energy barrier compared with higher &lt;n&gt; value analogs. As a result, local organic cation shortage appeared due to the intense consummation of organic cations. Accordingly, higher &lt;n&gt; value quasi-2D or quasi-3D perovskites precipitated in sequence, leading to a broad &lt;n&gt; value distribution.</p><p>Apparently, eliminating the complex colloids is essential to avoid the broad &lt;n&gt; value distribution. Previous research has demonstrated the manipulation of the colloidal concentration by modulating the solution pH <ref type="bibr" target="#b39">28</ref> . In particular, acidic additives were shown to be able to dissolve the pre-formed colloids. Accordingly, here we reported introducing 2-aminophenol-4-sulfonic acid (APSA) to suppress the colloids' formation (Supplementary Fig. <ref type="figure">11</ref>). Dynamic light scattering (DLS) was used to monitor the colloids' size and concentration. As shown in Fig. <ref type="figure" target="#fig_4">2b</ref>, the colloids with the average size around 400, 250, and 180 nm were observed for MAPbI 3 , BA, and pristine MAMP precursor solution, respectively. In contrast, no colloid was found in MAMP precursors treated with APSA, indicating that colloids have been suppressed. We also investigated the resulting films' crystallization rate by recording the evolution of absorption spectra (Supplementary Fig. <ref type="figure" target="#fig_4">12</ref>). As shown, the crystallization time for APSA-treated MAMP film was much longer than the pristine MAMP film, illustrating that total nucleation sites decreased. The phenomenon was in coherence with the DLS interpretation. Moreover, APSA-treated MAMP film exhibited the least high &lt;n&gt; value phases by comparing their absorption spectra (Supplementary Figs. 13-15).</p><p>We then investigated the quasi-2D perovskite' crystal orientation and phase composition by grazing-incidence wide-angle Xray scattering (GIWAXS). All the films displayed the sharp and discrete Bragg spots (Fig. <ref type="figure" target="#fig_4">2c-e</ref>), indicating that the crystals were highly oriented and packed. The discrete Bragg spots were assigned to (1 1 1), (1 0 1), and (2 0 2) planes through indexing the Bragg peaks. The dominant in-plane stacking of the (1 0 1), (2 0 2) facets points to the (h 0 l) facets that were oriented parallel to the substrate, confirming the inorganic slabs perpendicular to the substrate. As a result, highly vertically oriented quasi-2D perovskite films finally formed. Moreover, the GIWAXS patterns indicated the existence of the &lt;n&gt; = 2 phase in BA and pristine MAMP films, which was not observed in APSA-treated MAMP film. We further investigated whether vertical &lt;n&gt; value distribution was increased by the grazingincidence angles (Fig. <ref type="figure" target="#fig_4">2f-h</ref>). Debye-Scherrer rings, (1 1 0) and (2 2 0) planes, belonging to high &lt;n&gt; values or 3D perovskites, were observed at the bottom of BA and pristine MAMP films with a larger grazing-incidence angle. However, APSA-treated MAMP film exhibited almost identical Bragg spots, which support that the narrowest &lt;n&gt; value distribution existed in the film.</p><p>Carrier dynamics in quasi-2D perovskite film. Ultrafast transient absorption (TA) spectroscopy technique was utilized to investigate carrier dynamics in quasi-2D perovskite films. The films were initially pumped from the front side (air side), and Fig. <ref type="figure" target="#fig_5">3a-d</ref> showed their ground-state bleaching (GSB) signals. As expected, some obvious GSB peaks were displayed in each TA spectra, indicating that mixed &lt;n&gt; value species coexisted in films. However, the energy distribution, ΔE, for a pristine MAMP film was calculated to be about 0.40 eV, which was smaller than the control BA one (about 0.52 eV). The reason for this was due to the reduced band offsets in pristine MAMP film, and the phenomenon was consistent with SC characterization. Notably, as shown in Fig. <ref type="figure" target="#fig_5">3d</ref>, &lt;n&gt; = 2 GSB peak disappeared in APSA-treated MAMP film, which was in agreement with GIWAXS data. Furthermore, GSB signals ascribed to the larger &lt;n&gt; value species also significantly diminished after APSA treatment. In short, TA data confirmed that the narrowest &lt;n&gt; value-distributed film was realized after APSA treatment. ΔE for APSA-treated MAMP film reduced to about 0.26 eV, owing to the synergistic effect of the band structure and crystallization dynamics management. It is worth mentioning that ΔE represents the narrowest energy distribution for low &lt;n&gt; value quasi-2D perovskite films reported to date.</p><p>The films' vertical phase distribution was examined via TA and photoluminescence (PL) spectra. As shown in Fig. <ref type="figure" target="#fig_5">3e-h</ref>, pumping direction had an obvious effect on the GSB peak position. When the films were pumped from the glass side, the GSB peak intensity for higher &lt;n&gt; value species greatly enhanced compared with airside pumping. The differences became more obvious in PL spectra. As shown in Fig. <ref type="figure" target="#fig_7">4a</ref>, luminescence peak featuring of low &lt;n&gt; values governed the PL spectra in air-side excitation case. On the contrary, high &lt;n&gt; value PL peaks dominated when excited from the glass side. Accordingly, both TA and PL data implied that low &lt;n&gt; value phases prefer to stay close to the perovskite film surface, while the high &lt;n&gt; value species tend to stay at the bottom. Particularly, the vertical phase distribution of our films was totally reverse compared with the traditional hot-casting films, in which the high &lt;n&gt; value phases tend to stay on the top. Apparently, our films should display improved film stability compared with the traditional films. In addition, our films should be more suitable for the conventional device architecture, on account of the vertical energy-level alignment <ref type="bibr" target="#b29">18</ref> . In short, graded MAMP quasi-2D perovskite films with homogeneous energy landscape have been achieved here. Detailed carrier dynamics was analyzed by extracting decay kinetics from TA spectra. As shown in Fig. <ref type="figure" target="#fig_5">3i-l</ref>, spontaneous electron transfer from low &lt;n&gt; value species to high &lt;n&gt; value species was observed in all films.  same result could be obtained by its steady-state PL spectra (Fig. <ref type="figure" target="#fig_7">4a</ref>). A strikingly strong and sharp PL peak appeared in APSA-treated MAMP film. The relative small band offsets between adjacent &lt;n&gt; value species certainly reduced the energy barrier and facilitated the carrier migration. The ultrafast charge transfer process then suppressed the carrier recombination.</p><p>Optoelectronic property characterization. Carrier dynamics analysis indicated that homogeneous energy landscape should induce less defect density, increased minority carrier mobility, and elongated diffusion length. Detailed optical and electrical characterizations have been carried out to confirm the speculation. We first extracted the films' carrier lifetime through timeresolved PL (TRPL) measurement. As shown in Fig. <ref type="figure" target="#fig_7">4b</ref>, the average decay lifetime (τ ave ) for APSA-treated MAMP film was longer than the other two films, suggesting reduced nonradiative recombination. Efficient minority carrier transport is very essential in photovoltaic operation, which plays a key role in determining the quasi-2D device performance. Accordingly, we extracted electron mobility for these films through the spacecharge-limited current (SCLC) technique. As shown in Fig. <ref type="figure" target="#fig_7">4d-f</ref>, the electron mobility for BA film was determined to be 1.65 × 10 -3 cm 2 V -1 s -1 , which was consistent with the previous report.</p><p>In contrast, APSA-treated MAMP film exhibited one order of magnitude higher electron mobility, 2.13 × 10 -2 cm 2 V -1 s -1 , indicating more efficient minority carrier transport realized in this homogeneous energy landscape.</p><p>The elongated carrier lifetime and enhanced minority carrier mobility indicated reduced defect density. Through SCLC, we investigated the defect density to understand its physical origins. As expected, the defect density for APSA-treated MAMP film was found to be more than one order of magnitude lower than BA or pristine MAMP films. It is controversial whether the SCLC technique can accurately evaluate the defect density for perovskites, considering the notorious 'ion migration.' We thereby measured the defect density again through thermal admittance spectroscopy (TAS), to characterize shallow and deep defects of quasi-2D perovskite films <ref type="bibr" target="#b40">29</ref> . As shown in Fig. <ref type="figure" target="#fig_7">4c</ref>, APSA-treated MAMP film again exhibited the lowest defect density of states (tDOS) over the whole trap depth. The inherent trap density of MAMP perovskite crystal was lesser than that of BA one (Supplementary Fig. <ref type="figure">10</ref>). Furthermore, sulfonic acid passivation and homogeneous energy landscape contributed to reducing defect states <ref type="bibr" target="#b41">30,</ref><ref type="bibr" target="#b42">31</ref> . As a result, APSA-treated MAMP film exhibited the lowest trap-assisted recombination, as shown in density-dependent TRPL spectra (Supplementary Fig. <ref type="figure">16</ref>).</p><p>We evaluated the diffusion length (L D ) via a well-established optical method. A hole or electron quencher was placed on the top of perovskite films, and a fast PL quenching was found on APSA-treated MAMP film (Fig. <ref type="figure" target="#fig_7">4g</ref>, h and Supplementary Fig. <ref type="figure">17</ref>). The corresponding hole (L D-h ) or electron (L D-e ) diffusion length could be extracted by comparing their bimolecular recombination lifetime with and without the quencher <ref type="bibr" target="#b43">32</ref> . The approximate value of L D was estimated by using the following equation:</p><formula xml:id="formula_18">L D % 2d π ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi 2 τ 2 τ 2;quench À 1 ! v u u t ;<label>ð1Þ</label></formula><p>where d is the film thickness, τ 2,quench and τ 2 represent the bimolecular recombination lifetime with and without the quencher. As shown in Fig. <ref type="figure" target="#fig_7">4i</ref>, the L D-h and L D-e for the control BA film were calculated to be about 200 and 300 nm, which was consistent with previous results <ref type="bibr" target="#b28">17</ref> . Accordingly, APSA-treated MAMP film exhibited almost three times elongated diffusion length for both hole and electron.</p><p>The overall optical and electrical characterizations proved that significant improvement on semiconducting properties has reached by forming a homogeneous energy landscape. The outstanding semiconducting property of materials motivated us to further investigate the photovoltaic performance of devices, and deeply understand the physical origin at the device level. As aforementioned, our films' vertical phase distribution was totally reverse to the traditional film. The resulting graded band structure indicated that conventional device architecture is more suitable for charge transport and collection.</p><p>Relationship between energy disorder and V oc loss. Planar photovoltaic devices with conventional architecture of ITO/TiO 2 / perovskite/Spiro-OMeTAD/Au were fabricated (Supplementary Fig. <ref type="figure">18</ref>). The resulting device performance is shown in Fig. <ref type="figure" target="#fig_8">5a</ref>. As shown, BA device delivered a PCE of 11.76%, with a V oc of 1.08 V, and fill factor (FF) of 64%. The value well aligned with the reported PCE for low &lt;n&gt; value quasi-2D photovoltaics <ref type="bibr">8</ref> . As revealed, the PCE mainly was limited by the relatively low FF and V oc , indicating inefficient carrier transport and collection. In particular, the V oc loss determined as high as 0.55 V, in consideration of the bandgap of 1.63 V for &lt;n&gt; = 4 BA perovskite. Pristine MAMP perovskite possessed a relatively flatter band structure and exhibited a PCE of 14.14%, with slightly improved FF and reduced V oc loss. Notably, a stable and hysteresis-free 16.53% PCE of APSA-treated MAMP perovskites was obtained (Supplementary Figs. <ref type="figure">19a</ref> and<ref type="figure" target="#fig_4">20</ref>-22 and Supplementary Table <ref type="table" target="#tab_1">3</ref>). It was encouraging that high V oc (1.21 V) was obtained, indicating a very low V oc loss (0.47 V) (Supplementary Fig. <ref type="figure" target="#fig_5">23</ref>). From the V oc evolution trend, it is obvious that flattening the overall band structure was beneficial in reducing V oc loss.</p><p>The low V oc loss motivated us to investigate its physical origin. As aforementioned, quasi-2D perovskite film is a mixed film with anisotropic transport, which severely suffers from energy disorder. The origin of the disorder can be classified as band structure, charge transport, and phase distribution disorder. It is a well-known energy disorder that introduces band tail states in the bandgap. The nonequilibrium photocarriers thus tend to relax down to these electronic states, thereby affecting the quasi-Fermi level splitting. Band tail states filled with carriers represent the effective bandgap (E 0 g ) that determines the maximum attainable V oc of quasi-2D perovskite device <ref type="bibr" target="#b27">16</ref> . In principle, achieving lowenergy disorder films with reduced band tail states is very critical, in order to minimize the V oc deficit.</p><p>To evaluate the energy disorder in these films, we extracted the Urbach tail (E U ). E U was quantified via the density of localized band tail states; a higher E U was indicative of more disorder <ref type="bibr" target="#b44">33</ref> . E U was quantified from the slope of the exponential external quantum efficiency (EQE) plots (Supplementary Fig. <ref type="figure" target="#fig_7">24</ref>), which is proportional to exp[(E -E g )/E U ]. As shown in Fig. <ref type="figure" target="#fig_8">5b</ref>, the sharpest band tail was observed for APSA-treated MAMP perovskite device, which yields the lowest E U of about 18.13 meV. It was worth mentioning that the extracted E U was comparable to the values reported in 3D perovskite, since a room temperature Urbach tail of 13-15 meV was typically observed in high-quality 3D perovskite films.</p><p>Energy disorder at the device level could be directly probed by measuring the distribution of the electronic DOS. The distribution of DOS is expressed in the following equation: 34</p><formula xml:id="formula_19">g E À E L ð Þ¼ N ffiffiffiffiffi 2π p σ exp À E L À E ð Þ 2 2σ 2 ;<label>ð2Þ</label></formula><p>where σ is the disorder parameter; N and E L represent the total density per unit volume and the energy center of the DOS, respectively. As we know, chemical capacitance (C µ ) reflects the capability of accepting or releasing additional carriers for photovoltaics. The change in the capability shifts the quasi-Fermi level when it moves across the electronic states <ref type="bibr" target="#b46">35</ref> . By fitting the data (Supplementary Fig. <ref type="figure" target="#fig_8">25</ref>), APSA-treated MAMP perovskite exhibited the lowest σ, 91 meV (Fig. <ref type="figure" target="#fig_8">5c</ref>). The variation trend for σ was consistent with the Urbach tail measurement, indicating that the homogeneous energy landscape did decrease the corresponding film's energy disorder.</p><p>V oc loss mechanism at the device level. Besides, with the effective bandgap, the V oc loss induced by nanoradiative recombination is another source to affect the attainable V oc . We then investigated the V oc loss mechanism using classical semiconductor theory, to uncover the recombination pathway. V oc can be expressed in this well-known equation:</p><formula xml:id="formula_20">eV oc ¼ E 0 g À k B Tln βN c N v G ;<label>ð3Þ</label></formula><p>where E 0 g represents the effective bandgap; N c and N v represent the effective DOS in conduction and valence bands; k B is the Boltzmann constant; G is the carrier generation rate; β is the radiative recombination rate constant. The well-known diode ideality factor, m, is used to describe the dominating recombination mechanism. At the device level, the carrier generation rate G is the sum of thermal-generated portion G t and optical portion G opt . The G t is equal to the thermal recombination rate in the dark as</p><formula xml:id="formula_21">G t ¼ βN c N v exp À E g k B T :<label>ð4Þ</label></formula><p>The carrier generation rate can be experimentally measured from the reverse-bias saturation dark current density (J 0 ) and reverse-bias saturation photocurrent density (J sc ). We then can rewrite the equation as</p><formula xml:id="formula_22">V oc ¼ mk B T e ln J sc J 0 þ 1 :<label>ð5Þ</label></formula><p>In principle, m = 1 represents direct bimolecular recombination. m = 2 indicates a Shockley-Read-Hall (SRH) recombination dominated, which means indirect recombination by trapping of minority carriers.</p><p>As shown in Fig. <ref type="figure" target="#fig_8">5d</ref>, the obtained J 0 of APSA-treated MAMP device was around one order of magnitude smaller than that of BA and pristine MAMP device. The lower J 0 proved that lower shallower defect states existed in the system, which was in good agreement with previous measurement. Ideality factor was extracted by estimating the slope of the semilogarithmic current density-voltage (J-V) curve in the diffusion-dominated current region. As shown in Fig. <ref type="figure" target="#fig_8">5d</ref>, the ideality factor was determined to be 1.48 for APSA-treated MAMP device, which was the lowest value among the devices. The same trend could also be demonstrated by V oc evolution for different illumination intensities (Supplementary Fig. <ref type="figure" target="#fig_4">26</ref>). A low ideality factor indicated that trap-assistant SRH recombination was suppressed in the homogeneous energy landscape film. Furthermore, electrochemical impedance spectroscopy demonstrated that APSA-treated MAMP device possessed the lowest charge transport resistance (R ct ), and the highest charge recombination resistance (R rec ) (Supplementary Fig. <ref type="figure" target="#fig_4">27</ref>). The charge transport lifetime (τ tr ) and the charge recombination lifetime (τ rec ) were estimated from the transient photocurrent and transient photovoltage measurements, respectively (Supplementary Fig. <ref type="figure" target="#fig_4">28</ref>). APSA-treated MAMP device showed faster photocurrent decay but slower photovoltage decay than the other two analogs, indicating that homogeneous energy landscape did improve the carrier transport and reduce the recombination.</p><p>In the next step, to quantitatively evaluate and correlate the recombination rate with the V oc and device performance, we rewrite the equation based on a balance analysis of absorbed and emitted photons <ref type="bibr" target="#b47">36</ref> . We then found</p><formula xml:id="formula_23">V oc ¼ K B T e In EQE EL J photo J dark þ 1 ≈ V oc;rad À K B T e InEQE À1 EL :<label>ð6Þ</label></formula><p>The second term refers to the V oc loss induced by the nonradiative recombination. The V oc loss can be determined through the measurement of electroluminescence EQE (EQE EL ) of quasi-2D perovskite devices (Fig. <ref type="figure" target="#fig_8">5e</ref>). Compared with BA and pristine MAMP devices, APSA-treated MAMP device exhibited the highest EQE EL of 0.15%. By consideration the Shockley-Queisser limit, 1.40 V is the theoretical radiative limit of V oc for quasi-2D perovskites with a bandgap of 1.68 eV <ref type="bibr" target="#b48">37</ref> . Attainable V oc for APSA-treated MAMP perovskite should be around 1.23 V, which is close to our experimental data. Hence, various electrical and optical measurements confirmed that the homogeneous energy landscape did significantly reduce the energy disorder and decrease the defect states. The subsequently reduced band tail states and decreased SRH recombination lead to more ideal diode behaviors, which could be directly responsible for minimal V oc loss.</p><p>To correlate the relationship between energy-level homogeneity and device performance, SCAPS simulation (Supplementary Table <ref type="table" target="#tab_2">4</ref> and Supplementary Note 2) was carried to simulate device performance for MAMP devices with different energy disorder <ref type="bibr" target="#b49">38</ref> , using the measured experimental optoelectronic parameters. As shown in Fig. <ref type="figure" target="#fig_8">5f</ref>, SCAPS simulation revealed that the increased energy disorder significantly caused the V oc deficit, accompanied by the FF shrinking and a decreased PCE, which reflected the same trend with our experimental data.</p><p>We then evaluated the stability of unencapsulated devices under conditions of 40-50% relative humidity. As shown in Fig. <ref type="figure" target="#fig_8">5g</ref>, the control device, BA perovskite that was fabricated by the traditional hot-casting method (Supplementary Fig. <ref type="figure">19b</ref>), underwent a significant degradation, which only retained 68% of its original PCE after 1000 h. This was not surprising since the high &lt;n&gt; value phases tended to stay at the top, according to previous discussion. The high &lt;n&gt; value species were not robust enough, which was responsible for the faster degradation. On the contrary, low &lt;n&gt; value species tended to stay on the top in APSA-treated MAMP film. The resulting device displayed negligible degradation under the same atmosphere, retaining almost 92% PCE after 1000 h. Even though the &lt;n&gt; value distribution was very narrow, the robust low &lt;n&gt; value species still showed advantages and provided better protection to humidity. We also tracked the light and thermal stability of the devices (Supplementary Fig. <ref type="figure" target="#fig_4">29</ref>). APSA-treated MAMP devices still maintained more than 90% of their initial PCE, under 1-Sun illumination for 505 h, or under 80 °C heat treatment for 217 h. Moreover, X-ray diffraction patterns also confirmed that APSAtreated MAMP films exhibited better stability than BA ones under humidity, light, and thermal environments (Supplementary Fig. <ref type="figure" target="#fig_5">30</ref>). As shown, lead iodide peaks were observed in the aged BA film. In contrast, no significant change was observed for APSA-treated MAMP film. It has been proven that DJ-phase quasi-2D perovskites typically exhibit stronger rigidity and interlayer connection than Ruddlesden-Popper-phase ones <ref type="bibr" target="#b50">39</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In summary, we have demonstrated that the homogeneous energy landscape is essential to achieve high-performance quasi-2D perovskite photovoltaics, especially high V oc . Toward this goal, we conceive synergistic strategy to accomplish homogeneous energy landscape, by taking advantage of material structure and crystallization kinetics engineering. With the help of the DFT-guided material design, minimization of the band offsets has been achieved in MAMP-based quasi-2D perovskite, which results in the lowest energy distribution in the SC state to date. On top of this, we further regulate the crystallization kinetics to realize a narrow &lt;n&gt; value distribution for MAMP film. As a result, a homogeneous energy landscape is formed in APSA-treated MAMP film. We correlate the relationship between the energy landscape homogeneity and device performance, and further investigate the physical origin of low V loss . Owing to the reduced nonradiative recombination induced by the homogeneous energy landscape, the device achieves an excellent PCE of 16.53%, accompanied by a high V oc of 1.21 V. In addition, the device exhibits significantly improved stability compared with traditional hot-casting films, due to the more ideal vertical phase alignment and absent high &lt;n&gt; value phases. As a result, APSAtreated MAMP retains almost 92% of the initial PCE after 1000 h of storage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Materials. All chemicals were obtained from Sigma-Aldrich and Lumtec Corp without further purification. TiO 2 nanocrystals were synthesized according to the previous procedure <ref type="bibr" target="#b51">40</ref> .</p><p>Perovskite SC synthesis. BA 2 MA n-1 Pb n I 3n+1 SCs were grown by using an improved cooling method. Briefly, mixed PbO, MAI, and BAI at different ratios were dissolved in hydroiodic acid (HI) solution at about 90 °C. The resulting solution was filtered and gradually cooled down to 20 °C at a rate of 1 °C h -1 . For MAMPMA n-1 Pb n I 3n+1 SCs, different ratios of PbO, MAI, and MAMPI mixture were dissolved in 30 mL of HI solution at about 110 °C. The resulting solution cooled down to 20 °C at a rate of 0.5 °C h -1 . As-grown perovskite crystals were wiped and rinsed with diethyl ether to remove the surface residues.</p><p>Device fabrication. The cleaned ITO glass substrates were treated using an ultraviolet zone for 10 min prior to remove the organic residues. TiO 2 nanocrystals were spin-coated on ITO substrates at 3000 r.p.m. for 30 s, and annealed for 30 min at 150 °C. The substrates were then transferred to nitrogen-filled glovebox to deposit perovskite absorbers. The corresponding precursors for (BA) 2 MA 3 Pb 4 I 13 and pristine (MAMP)MA 3 Pb 4 I 13 were prepared and weighted at the stoichiometric ratio. The mixtures were dissolved in the mixed solvent, DMF:DMSO (dimethylformamide:dimethyl sulfoxide), which equals 7:3, to set the final concentration at 1.4 M. For APSA-treated (MAMP)MA 3 Pb 4 I 13 film, APSA was directly introduced into the pristine (MAMP)MA 3 Pb 4 I 13 perovskite solution with different concentrations. Accordingly, the precursor solutions were spin-coated on top of the TiO 2 film at 4000 r.p.m. for 50 s, and 200 μl of ethyl acetate was dropped onto the film during the process, followed by annealing process at 130 °C for 15 min. The prepared Spiro-OMeTAD solution was then deposited at 4000 r.p.m. for 30 s. Finally, about 100 nm of gold electrode was thermally evaporated on the top of films at a pressure of 5 × 10 -6 mbar.</p><p>Photovoltaic device characterization. The steady-state V oc , was first measured using a Keithley 2400 instrument by fixing the current to 0, and sampling the voltage at multiple time points. The steady-state J sc , was measured via setting the bias voltage to 0, and sampling the current at multiple time points. Then the instantaneous J-V curves were measured at a scanning rate of 50 mV s -1 with delay time of 200 ms and voltage step of 10 mV. The active area of 0.049 cm 2 was determined by an aperture, and the output of the light source was adjusted via a calibrated silicon photodiode (Newport) at 1 Sun (100 mW cm -2 ). The AM 1.5 solar power was supplied by a class A solar simulator (Enli Tech) with the mismatch factor less than 25%. The spectral mismatch factor (less than 5%) of the system was characterized using a calibrated reference solar cell (Newport). The EQE spectra of devices were obtained following a previously reported process.</p><p>DLS characterization. DLS measurements were performed by a Zetasizer Nano ZS instrument (Malvern Instruments, UK) with a 633-nm He-Ne laser. The perovskite precursor solutions are transferred into the quartz cuvettes and sealed in a N 2 glovebox. The measurement was done at room temperature.</p><p>GIWAXS characterization. GIWAXS patterns of quasi-2D perovskite films were measured on the beamline 1W2A at Beijing Synchrotron Radiation Facility (BSRF), China. A monochromatic beam (1.54 A ̊) was used at 0.1°and 0.3°of grazingincidence angles. All films were measured via the same exposure time of 240 s. GIWAXS patterns were collected at a beam energy of 10 keV by an area detector with 3450 × 3450-pixel resolution. GIWAXS raw patterns were corrected by GIXSGUI MATLAB toolbox.</p><p>The ultrafast TA spectroscopy characterization. TA measurements of quasi-2D films were carried out by a Helios pump-probe system (Ultrafast Systems LLC) with an amplified femtosecond laser system (Coherent, 35 fs, 7 mJ per pulse, 1 kHz, 800 nm). Thepump pulses (365 nm, 8 nJ per pulse) were generated by an optical parametric amplifier (TOPAS-800-fs). Focusing the 800-nm beams (split from the regenerative amplifier with a tiny portion, 400 nJ per pulse) onto a sapphire plate produced the white-light continuum (WLC) probe pulses. The pulse-to-pulse fluctuation of the WLC was corrected by a reference beam split from WLC. A motorized optical delay line was served as a tool to change the time delays between pump and probe pulses. The instrument response function (100 fs) was determined via a routine cross-correlation procedure. A mechanical chopper (500 Hz) modulated the pump pulses. Temporal and spectral profiles (chirp-corrected) of the WLC probe light were visualized through the optical fiber-coupled multichannel spectrometer [with a CMOS (complementary metal oxide semiconductor) sensor] and the Surface Xplorer software.</p><p>Reporting summary. Further information on research design is available in the Nature Research Reporting Summary linked to this article.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Supplementary Figure 13 |</head><label>13</label><figDesc>Absorption spectra of (BA)2MA3Pb4I13, pristine and APSA treated (MAMP)MA3Pb4I13 perovskite films. A broad new peak arising in the longwavelength region has been observed before ASPA treatment, which ascribes to the high &lt;n&gt;-values species. Supplementary Figure 20 | The J-V curves of (BA)2MA3Pb4I13, pristine (MAMP)MA3Pb4I13 and APSA treated (MAMP)MA3Pb4I13 perovskite photovoltaics for different scanning directions.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>-octahedron of MAMP and BA perovskite, we calculated the bond angle variance (BAV) in equation 1 and distortion index (DI) in equation 2 to quantize distortion from I-Pb-I angle and Pb-I bond length.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>started 30 min later. A Schott visible-color, glass-filtered (KG5 color-filtered) Si diode (Hamamatsu S1133) was used to calibrate the light intensity before the photocurrent measurement. Impedance spectrum was measured by the electrochemical workstation. The light source was simulated by a Xenon-lamp-based solar simulator (Enli Tech), and the illumination intensity was tuned by filters. The impedance spectra was recorded by the E4980A Precision LCR Meter from Agilent with homemade software in the frequency range of 2000 to 0.2 kHz. For transport resistance (Rct) and recombination resistance (Rrec) measurements, the devices ware applied with a bias voltage equaled to Voc under dark conditions. For energetic disorder parameter extraction, the devices were measured under different light intensity, and the applied bias voltage equaled the Voc under each light intensity.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>4 (Fig. 1</head><label>41</label><figDesc>Fig. 1 Device operation mechanism and DFT simulation. a Operation mechanism of quasi-2D perovskite photovoltaics and the correlation between band structure, energy disorder, and V oc of the device. b [PbI 6 ] 4-octahedron distortion for (BA) 2 (MA) 3 Pb 4 I 13 and (MAMP)(MA) 3 Pb 4 I 13 , and the resulting BAV and DI. c Spinor density for (BA) 2 PbI 4 and (MAMP)PbI 4 perovskites illustrating interlayer I-I interactions. Absorption spectra for d (BA) 2 MA n-1 Pb n I 3n+1 and e (MAMP)MA n-1 Pb n I 3n+1 (n = 1, 2, 3, 4) single crystals. f CBM and VBM positions of (BA) 2 (MA) n-1 Pb n I 3n+1 and (MAMP)(MA) n-1 Pb n I 3n+1 perovskite single crystals (n = 1, 2, 3, 4) measured by UPS.</figDesc><graphic coords="49,348.49,287.51,193.24,99.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Crystallization kinetics regulation. a Schematic models indicating crystallization process for both control and APSA-treated quasi-2D perovskite films. b DLS data to evaluate the colloid size and distribution in precursor solutions. Inset: molecular structure of APSA. GIWAXS characterizations for (BA) 2 (MA) 3 Pb 4 I 13 , pristine, and APSA-treated (MAMP)MA 3 Pb 4 I 13 perovskite films, c-e with grazing-incidence angle of 0.1°and f-h with grazing-incidence angle of 0.3°, respectively.</figDesc><graphic coords="50,251.14,364.04,115.48,112.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Carrier dynamics of quasi-2D perovskite films. Schematic of quasi-2D perovskite films excited from a the front side (air side) and e the back side (glass side). The corresponding TA spectra at different delay times of b, f (BA) 2 (MA) 3 Pb 4 I 13 , c, g pristine, and d, h APSA-treated (MAMP)MA 3 Pb 4 I 13 films, respectively. i Schematic model showing internal charge transfer from low &lt;n&gt; value to high &lt;n&gt; value phases. j-l TA kinetics extracted from different GSB (n = 3, 4, 5) at front-side excitation for different films.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>Figure 3l illustrates the dynamic evolution of APSA-treated MAMP film. The &lt;n&gt; = 3 bleaching appeared at 0.1 ps, then an ultrafast decay was observed. The low &lt;n&gt; bleaching recovery kinetics was accompanied with the buildup of the high &lt;n&gt; bleaching, and the formation of the &lt;n&gt; = 5 bleaching was delayed to 0.4 ps. Moreover, BA and pristine MAMP films displayed slow charge transfer dynamics, which would lead to charge accumulation in low &lt;n&gt; value species. It thus increased the possibility of exciton annihilation and minority carrier recombination. As expected, APSA-treated MAMP film displayed the fastest decay time in the low &lt;n&gt; value domain. The</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 4</head><label>4</label><figDesc>Fig. 4 Optoelectronic properties of quasi-2D perovskite films. a Steady-state PL spectra of quasi-2D perovskite films excited from the front and back sides (as illustrated in the inset). b TRPL decay traces for three films based on glass substrate. c TAS analysis of three quasi-2D perovskite films. SCLC curves of d (BA) 2 (MA) 3 Pb 4 I 13 , e pristine, and f APSA-treated (MAMP)MA 3 Pb 4 I 13 films, respectively. TRPL decay traces for three perovskites films covered with g TiO 2 and h Spiro-OMeTAD layers. i Carrier diffusion length for both electron and hole was calculated from the optical method.</figDesc><graphic coords="52,248.44,362.24,127.96,115.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 5</head><label>5</label><figDesc>Fig. 5 Photovoltaic performance and V oc loss mechanism investigation. a J-V curves of (BA) 2 (MA) 3 Pb 4 I 13 , pristine, and APSA-treated (MAMP) MA 3 Pb 4 I 13 devices. b E U extracted by band edge fitting of the exponentially plotted EQE spectra. c DOS for different perovskites extracted from the impedance spectra. d Dark J-V curves for different perovskite devices. e EQE EL spectra for three different perovskite devices. f SCAPS simulation of (MAMP)MA 3 Pb 4 I 13 photovoltaics with experimental parameters extracted from different degrees of disorder films. g PCE evolution curves for unencapsulated APSA-treated (MAMP)MA 3 Pb 4 I 13 devices, and the (BA) 2 MA 3 Pb 4 I 13 devices fabricated by traditional hot-casting method, under humidity of 40-50% RH (relative humidity).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,172.40,77.40,250.15,269.59" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,90.00,76.50,415.25,162.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,90.00,76.80,415.17,161.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,90.00,79.65,412.78,265.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,90.00,78.90,417.70,266.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,92.90,79.20,408.80,328.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,90.00,77.10,415.20,332.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,90.00,76.00,414.53,163.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,99.05,74.10,397.20,276.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,99.65,74.40,395.85,275.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,170.15,76.87,254.34,208.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,169.85,78.42,255.59,205.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,90.00,73.20,417.05,137.99" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,159.65,76.73,275.95,193.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,90.00,77.55,415.25,160.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="20,90.00,75.07,417.00,165.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="21,91.25,77.87,412.66,144.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="23,90.00,78.00,416.85,143.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="24,90.00,76.50,417.55,146.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="25,90.00,78.75,418.66,142.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="26,93.65,77.22,407.40,301.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="29,90.00,79.05,415.30,157.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="30,90.00,76.05,414.55,241.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2 |</head><label>2</label><figDesc>VBM and CBM energy levels of MAMPMAn-1PbnI3n+1 perovskite single crystals through UPS measurement.</figDesc><table><row><cell>value</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell></row><row><cell>Eg (eV)</cell><cell>2.44</cell><cell>2.15</cell><cell>2.03</cell><cell>1.92</cell></row><row><cell>VBM (eV)</cell><cell>5.71</cell><cell>5.61</cell><cell>5.57</cell><cell>5.53</cell></row><row><cell>CBM (eV)</cell><cell>3.27</cell><cell>3.46</cell><cell>3.54</cell><cell>3.61</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 |</head><label>3</label><figDesc>Photovoltaic parameters and hysteresis index of (BA)2MA3Pb4I13, pristine (MAMP)MA3Pb4I13 and APSA treated (MAMP)MA3Pb4I13 perovskite photovoltaics. Photovoltaic parameters and hysteresis index (HI) was calculated by (PCE RS -PCE FS )/PCE RS .</figDesc><table><row><cell>Devices</cell><cell cols="2">Direction Voc (V)</cell><cell>JSC (mA cm -2 )</cell><cell>FF</cell><cell>PCE (%)</cell><cell>HI</cell></row><row><cell>BA</cell><cell>FS RS</cell><cell>1.03 1.08</cell><cell>16.69 17.01</cell><cell>0.57 0.64</cell><cell>9.88 11.76</cell><cell>0.16</cell></row><row><cell>MAMP</cell><cell>FS RS</cell><cell>1.09 1.13</cell><cell>17.48 17.62</cell><cell>0.67 0.71</cell><cell>12.81 14.14</cell><cell>0.09</cell></row><row><cell>APSA-MAMP</cell><cell>FS RS</cell><cell>1.20 1.21</cell><cell>17.84 17.97</cell><cell>0.76 0.77</cell><cell>16.34 16.53</cell><cell>0.01</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 | Parameters of perovskite absorber layer for SCAPS simulation.</head><label>4</label><figDesc></figDesc><table><row><cell>Symbol</cell><cell>Description</cell><cell>Parameter value</cell></row><row><cell>Lthickness</cell><cell>Thickness of absorber layer</cell><cell>500 nm</cell></row><row><cell>μe</cell><cell>Electron mobility</cell><cell>2.0 cm 2 V -1 s -1 4</cell></row><row><cell>μh</cell><cell>Hole mobility</cell><cell>2.0 cm 2 V -1 s -1 4</cell></row><row><cell>Ec</cell><cell>CB effective density of states</cell><cell>2.2 × 10 18 cm -3 5</cell></row><row><cell>Ev</cell><cell>VB effective density of states</cell><cell>1.8 × 10 19 cm -3 5</cell></row><row><cell>Χe</cell><cell>Electron affinity</cell><cell>3.9 eV 6</cell></row><row><cell>Eg</cell><cell>Band gap of absorber</cell><cell>1.68 eV</cell></row><row><cell>εr</cell><cell>Relative dielectric constant</cell><cell>25 7</cell></row><row><cell>NA</cell><cell>Self-Doping concentration (p-type)</cell><cell>5.0 × 10 16 cm -3 8</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>Republic of China.2  Henan Key Laboratory of Infrared Materials and Spectrum Measures and Applications, Henan Normal University, 453007 Xinxiang, People's Republic of China.3  College of Chemistry, Key Laboratory of Theoretical and Computational Photochemistry of Ministry of Education, Beijing Normal University, 100875 Beijing, People's Republic of China.4  Institute of High Energy Physics, Chinese Academy of Science, 100049 Beijing, People's Republic of China.</figDesc><table><row><cell>Calculation of spectral mismatch between the</cell><cell>Yes</cell><cell>see Methods</cell></row><row><cell cols="3">reference cell and the devices under test 6. Mask/aperture Size of the mask/aperture used during testing Variation of the measured short-circuit current density with the mask/aperture area 7. Performance certification A copy of any certificate(s) Provide in Supplementary Information 8. Statistics Number of solar cells tested Statistical analysis of the device performance ARTICLE Reduced-dimensional perovskite photovoltaics No Yes No see Methods Yes No see Methods Yes No We do not perform efficiency certification Yes No see Supplementary Figure 22 and 23 No Yes see Supplementary Figure 22 and 23 with homogeneous energy landscape Tingwei He 1,5 , Saisai Li 1,5 , Yuanzhi Jiang 1 , Chaochao Qin 2 , Minghuan Cui 2 , Lu Qiao 3 , Hongyu Xu 1 , Jien Yang 2 , Run Long 3 , Huanhua Wang 4 &amp; Mingjian Yuan 1 ✉ Identity of the independent certification laboratory that confirmed the photovoltaic performance Yes No We do not perform efficiency certification https://doi.org/10.1038/s41467-020-15451-1 OPEN</cell><cell>nature research | solar cells reporting summary</cell></row><row><cell>9. Long-term stability analysis</cell><cell></cell><cell></cell></row><row><cell cols="3">Type of analysis, bias conditions and environmental Reduced-dimensional (quasi-2D) perovskite materials are widely applied for perovskite Yes see Supplementary Figure 29</cell></row><row><cell cols="3">conditions photovoltaics due to their remarkable environmental stability. However, their device per-No For instance: illumination type, temperature, atmosphere humidity, encapsulation method, preconditioning temperature formance still lags far behind traditional three dimensional perovskites, particularly high open</cell></row><row><cell cols="3">circuit voltage (V oc ) loss. Here, inhomogeneous energy landscape is pointed out to be the</cell></row><row><cell cols="3">sole reason, which introduces extra energy loss, creates band tail states and inhibits minority</cell></row><row><cell cols="3">carrier transport. We thus propose to form homogeneous energy landscape to overcome the</cell></row><row><cell cols="3">Yes problem. A synergistic approach is conceived, by taking advantage of material structure and see Methods Protocol for preconditioning of the device before its characterization No crystallization kinetic engineering. Accordingly, with the help of density functional theory</cell></row><row><cell cols="3">Stability of the J-V characteristic guided material design, (aminomethyl) piperidinium quasi-2D perovskites are selected. The Yes see Supplementary Figure 21 lowest energy distribution and homogeneous energy landscape are achieved through care-No fully regulating their crystallization kinetics. We conclude that homogeneous energy land-</cell></row><row><cell cols="3">scape significantly reduces the Shockley-Read-Hall recombination and suppresses the quasi-3. Hysteresis or any other unusual behaviour Description of the unusual behaviour observed during Yes see Supplementary Table 3 Fermi level splitting, which is crucial to achieve high V oc .</cell></row><row><cell>the characterization</cell><cell>No</cell><cell></cell></row><row><cell>Related experimental data</cell><cell>No Yes</cell><cell>see Supplementary Figure 20</cell></row><row><cell>4. Efficiency</cell><cell></cell><cell></cell></row><row><cell>External quantum efficiency (EQE) or incident</cell><cell>Yes</cell><cell>see Supplementary Figure 24</cell></row><row><cell>photons to current efficiency (IPCE)</cell><cell>No</cell><cell></cell></row><row><cell>A comparison between the integrated response under</cell><cell>Yes</cell><cell>see Methods</cell></row><row><cell>the standard reference spectrum and the response</cell><cell>No</cell><cell></cell></row><row><cell>measure under the simulator</cell><cell></cell><cell></cell></row><row><cell>For tandem solar cells, the bias illumination and bias</cell><cell>Yes</cell><cell>This is not a tandem solar cell</cell></row><row><cell cols="3">voltage used for each subcell 5. Calibration Light source and reference cell or sensor used for the characterization 1 Key Laboratory of Advanced Energy Materials Chemistry (Ministry of Education), Renewable Energy Conversion and Storage Center (RECAST), College of No Yes see Methods No Chemistry, Nankai University, 300071 Tianjin, People's</cell><cell>November 2017</cell></row><row><cell>Confirmation that the reference cell was calibrated</cell><cell>Yes</cell><cell>see Methods</cell></row><row><cell>and certified</cell><cell>No</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>2</cell></row></table><note><p><p><p><p><p><p>13 Robinson, K., Gibbs, G. V. &amp; Ribbe, P. H. Quadratic elongation: a quantitative measure of distortion in coordination polyhedra. Science 172, 567-570 (1971). 14 Baur, W. H. Geometry of polyhedral distortions. Predictive relationships for the phosphate group. Acta Crystallogr. B 30, 1195-1215 (1974).</p>Verified with time evolution of the maximum power point or with the photocurrent at maximum power point; see ref.</p>7 </p>for details.</p>5  </p>These authors contributed equally: Tingwei He, Saisai Li. ✉ email: yuanmj@nankai.edu.cn NATURE COMMUNICATIONS | (2020) 11:1672 | https://doi.org/10.1038/s41467-020-15451-1 | www.nature.com/naturecommunications 1 1234567890():,;</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATURE COMMUNICATIONS | (2020) 11:1672 | https://doi.org/10.1038/s41467-020-15451-1 | www.nature.com/naturecommunications</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="111" xml:id="foot_1"><p>-202 -111 -202 -202 -101 -101 -202 -101 -202 -101</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We acknowledge financial support from the <rs type="funder">National Natural Science Foundation of China</rs> (Nos. <rs type="grantNumber">21771114</rs>, <rs type="grantNumber">91956130</rs>, <rs type="grantNumber">11804084</rs>), the <rs type="funder">Natural Science Foundation of Tianjin</rs> (<rs type="grantNumber">17JCYBJC40900</rs>, <rs type="grantNumber">18YFZCGX00580</rs>). M. Yuan acknowledges financial support from <rs type="funder">Recruitment Program of Global Youth Experts of China</rs>. The authors acknowledge the 1W1A station, <rs type="institution">BSRF</rs> for provision of synchrotron radiation at GIWAXS characterization.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_mCFGAbh">
+					<idno type="grant-number">21771114</idno>
+				</org>
+				<org type="funding" xml:id="_CqaP2Hx">
+					<idno type="grant-number">91956130</idno>
+				</org>
+				<org type="funding" xml:id="_gP2CUN3">
+					<idno type="grant-number">11804084</idno>
+				</org>
+				<org type="funding" xml:id="_CjFAYSu">
+					<idno type="grant-number">17JCYBJC40900</idno>
+				</org>
+				<org type="funding" xml:id="_JxAG7Rk">
+					<idno type="grant-number">18YFZCGX00580</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>All data generated or analyzed during this study are included in this published article and its supplementary information files.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Information</head><p>Reduced-Dimensional Perovskite Photovoltaics with</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Homogeneous Energy Landscape</head><p>He et al.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Figures</head><p>Supplementary Figure <ref type="figure">1</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Notes</head><p>Supplementary Note 1 | Details for DFT Simulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 2 | Details for SCAPS Simulation.</head><p>Different levels of energy disorder active layer will affect the carrier mobility, recombination rate, and ultimately bring different defect density (Nt). We selected four devices with different energy disorders to determine their corresponding Nt. The Nt value is: 3 × 10 15 cm -3 (σ = 91 meV), 8 × 10 15 cm -3 (σ = 98 meV), 5 × 10 16 cm -3 (σ = 109 meV), and 1 × 10 15 cm -3 (σ = 122 meV), respectively. The device performance for (MAMP)MA3Pb4I13 perovskite with different energy disorder were simulated by SCAPS. The parameters of perovskite absorber layer were shown in the Supplementary Table <ref type="table">4</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of perovskite single crystals and films</head><p>Ultraviolet photoelectron spectra of perovskite single crystals were obtained by Thermo Scientific ESCA Lab 250Xi, using Au as the standard sample for calibration.</p><p>UPS measurements were carried out in an ultra-high-vacuum (UHV) chamber with a base pressure below 5 × 10 -9 mbar. The photon line width was about 250 meV and the minimum spot size about 1 mm. He I (hν = 21.22 eV) emission source was employed and the helium pressure in the chamber during analysis was about 2×10 -8 mbar. The work function (WF) of perovskite single crystals can be calculated from following equation:</p><p>where the Ecutoff is the steep edge position in the UPS spectrum. The valence band (EV)</p><p>and conduction band (EC) of the single crystals can be calculated by the equation:</p><p>𝐸 𝐶 = 𝑊 F + 𝑉𝐵𝑀 -𝐸 g (5)   where Eg is the optical bandgap extracted from the absorption spectra.</p><p>UV-Visible absorption spectra of perovskite single crystal were captured by measuring the diffuse reflectance spectra of perovskite single crystal using a Cary 5000 (Agilent Technologies). The absorption spectra of quasi-2D perovskite films were carried out on a Lambda 950 UV-vis spectrophotometer.</p><p>X-ray diffraction patterns of perovskite single crystals and films were measured by Rigaku_Dmax_2500 with a step of 0.02° from 5° to 50°. The perovskites powders were obtained through gridding perovskites bulks by an agate pestle and mortar. The lines were Cu Kα1 and Cu Kα2.</p><p>Scanning electron microscopy. The cross-section images of perovskite solar cell device and surface morphology of perovskite films were characterized by field-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary References</head><p>Author contributions </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Ruddlesden-Popper hybrid lead iodide perovskite 2D homologous semiconductors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2852" to="2867" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Hybrid Dion-Jacobson 2D lead iodide perovskites</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="3775" to="3783" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Simultaneous determination of carrier lifetime and electron density-of-states in P3HT: PCBM organic solar cells under illumination by impedance spectroscopy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garcia-Belmonte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Boix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bisquert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sessolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Bolink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Solar Energy Mater., Solar Cells</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="366" to="375" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths exceeding 1 micrometer in an organometal trihalide perovskite absorber</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="341" to="344" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Ramli</surname></persName>
+		</author>
+		<title level="m">AIP Conference Proceedings. AIP Publishing 1838</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">20006</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Chemical management for colorful, efficient, and stable inorganic-organic hybrid nanostructured solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Mandal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1764" to="1769" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Brivio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Apl</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mater</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">42111</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">High-efficiency two-dimensional Ruddlesden-Popper perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tsai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">536</biblScope>
+			<biblScope unit="page" from="312" to="316" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Furthmuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B: Condens. Matter Mater. Phys</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="11169" to="11186" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="3865" to="3868" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Projector augmented-wave method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blochl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B: Condens. Matter Mater. Phys</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="17953" to="17979" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Consistent and accurate Ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grimme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Antony</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ehrlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krieg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page">154104</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Efficient ambient-air-stable solar cells with 2D-3D heterostructured butylammonium-caesium-formamidinium lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17135</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<ptr target="https://www.nrel.gov/pv/cell-efficiency.html" />
+		<title level="m">NREL Efficiency Chart</title>
+		<imprint>
+			<date type="published" when="2019-08">August 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Grain-boundary &apos;patches&apos; by in situ conversion to enhance perovskite solar cells stability</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1800544</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Stable formamidinium-based perovskite solar cells via in situ grain encapsulation</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1800232</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">High-efficiency two-dimensional Ruddlesden-Popper perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tsai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">536</biblScope>
+			<biblScope unit="page" from="312" to="316" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Synthetic control over orientational degeneracy of spacer cations enhances solar cell efficiency in two-dimensional perovskites</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1276</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Dimensionality engineering of hybrid halide perovskite light absorbers</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Ligand-stabilized reduced-dimensionality perovskites</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Quan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="2649" to="2655" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Reduced-dimensional α-CsPbX 3 perovskites for efficient and stable photovoltaics</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1356" to="1368" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Perovskite light-emitting diodes based on solution-processed self-organized multiple quantum wells</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="699" to="704" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Spectra stable blue perovskite light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1868</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Transcending the slow bimolecular recombination in leadhalide perovskites for electroluminescence</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Xing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">14558</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Unveiling the operation mechanism of layered perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1008</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Compositional and orientational control in metal halide perovskites of reduced dimensionality</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Quintero-Bermudez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="900" to="907" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Disorder-induced open-circuit voltage losses in organic solar cells during photoinduced burn-in</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Heumueller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1500111</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">2D matrix engineering for homogeneous quantum dot coupling in photovoltaic solids</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="456" to="462" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Synthetic control over quantum well width distribution and carrier migration in low-dimensional perovskite photovoltaics</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Proppe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="2890" to="2896" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Manipulating the phase distributions and carrier transfers in hybrid quasi-two-dimensional perovskite films</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Sarmiento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sol. RRL</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1800359</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Tuning the energetic landscape of Ruddlesden-Popper perovskite films for efficient solar cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="39" to="46" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Hybrid Dion-Jacobson 2D lead iodide perovskites</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="3775" to="3783" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Tuning the band gap in hybrid tin iodide perovskite semiconductors using structural templating</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Knutson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Mitzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="4699" to="4705" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Synthetic variation and structural trends in layered two-dimensional alkylammonium lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Paritmongkol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="5592" to="5607" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Ruddlesden-Popper hybrid lead iodide perovskite 2D homologous semiconductors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2852" to="2867" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Two-dimensional hybrid halide perovskites: principles and promises</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="1171" to="1190" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Quadratic elongation: a quantitative measure of distortion in coordination polyhedra</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ribbe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="page" from="567" to="570" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The geometry of polyhedral distortions. Predictive relationships for the phosphate group</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Baur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Crystallogr. Sect. B</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1195" to="1215" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Phase transition control for high performance Ruddlesden-Popper perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1707166</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Unveiling the influence of pH on the crystallization of hybrid perovskites, delivering low voltage loss photovoltaics</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Noel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="328" to="343" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The identification and characterization of defect states in hybrid organic-inorganic perovskite photovoltaics</title>
+		<author>
+			<persName><forename type="first">H.-S</forename><surname>Duan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="112" to="116" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Dual functions of crystallization control and defect passivation enabled by sulfonic zwitterions for stable and efficient perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1803428</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Discerning the surface and bulk recombination kinetics of organic-inorganic halide perovskite single crystals</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1600551</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths exceeding 1 micrometer in an organometal trihalide perovskite absorber</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="341" to="344" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The role of bulk and interface recombination in high-efficiency low-dimensional perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="page">1901090</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Interpretation of electron diffusion coefficient in organic and inorganic semiconductors with broad distributions of states</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bisquert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="3175" to="3194" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Capacitance, spectroelectrochemistry and conductivity of polarons and bipolarons in a polydicarbazole based conducting polymer</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Pomerantz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electroanal. Chem</title>
+		<imprint>
+			<biblScope unit="volume">614</biblScope>
+			<biblScope unit="page" from="49" to="60" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Reciprocity relation between photovoltaic quantum efficiency and electroluminescent emission of solar cells</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Rau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">85303</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Strong internal and external luminescence as solar cells approach the Shockley-Queisser limit</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Yablonovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Kurtz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE J. Photovolt</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="303" to="311" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Advanced electrical simulation of thin film solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burgelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Decock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Khelifi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abass</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thin Solid Films</title>
+		<imprint>
+			<biblScope unit="volume">535</biblScope>
+			<biblScope unit="page" from="296" to="301" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Dion-Jacobson phase 2D layered perovskites for solar cells with ultrahigh stability</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ahmad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="794" to="806" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Efficient and stable solution-processed planar perovskite solar cells via contact passivation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="722" to="726" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

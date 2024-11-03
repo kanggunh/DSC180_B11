@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Polar-Hydrophobic Ionic Liquid Induces Grain Growth and Stabilization in Halide Perovskites</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Dan</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Tianjin Key laboratory of Green Technology and Process Engineering</orgName>
+								<orgName type="department" key="dep2">School of Chemistry and Chemical Engineering</orgName>
+								<orgName type="laboratory">State Key Laboratory of Separation Membranes and Membrane Processes</orgName>
+								<orgName type="institution">Tianjin Polytechnic University</orgName>
+								<address>
+									<postCode>300387</postCode>
+									<settlement>Tianjin</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Engineering</orgName>
+								<orgName type="institution">Brown University</orgName>
+								<address>
+									<postCode>02912</postCode>
+									<settlement>Providence Rhode Island</settlement>
+									<country>United States;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhipeng</forename><surname>Shao</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao Qingdao</settlement>
+									<country>P.R. China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jianzhou</forename><surname>Gui</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Tianjin Key laboratory of Green Technology and Process Engineering</orgName>
+								<orgName type="department" key="dep2">School of Chemistry and Chemical Engineering</orgName>
+								<orgName type="laboratory">State Key Laboratory of Separation Membranes and Membrane Processes</orgName>
+								<orgName type="institution">Tianjin Polytechnic University</orgName>
+								<address>
+									<postCode>300387</postCode>
+									<settlement>Tianjin</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Min</forename><surname>Chen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Engineering</orgName>
+								<orgName type="institution">Brown University</orgName>
+								<address>
+									<postCode>02912</postCode>
+									<settlement>Providence Rhode Island</settlement>
+									<country>United States;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mingzhen</forename><surname>Liu</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Materials and Energy</orgName>
+								<orgName type="institution">University of Electronic Science and Technology of China</orgName>
+								<address>
+									<postCode>611731</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">P.R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guanglei</forename><surname>Cui</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao Qingdao</settlement>
+									<country>P.R. China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shuping</forename><surname>Pang</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao Qingdao</settlement>
+									<country>P.R. China;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Yuanyuan</forename><surname>Zhou</surname></persName>
+							<email>yuanyuan_zhou@brown.edu</email>
+							<affiliation key="aff1">
+								<orgName type="department">School of Engineering</orgName>
+								<orgName type="institution">Brown University</orgName>
+								<address>
+									<postCode>02912</postCode>
+									<settlement>Providence Rhode Island</settlement>
+									<country>United States;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Polar-Hydrophobic Ionic Liquid Induces Grain Growth and Stabilization in Halide Perovskites</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">54C790C4C65053FE1DA88CE9EE04D73C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Section</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials Synthesis and Film Fabrication</head><p>All raw chemicals are obtained from Sigma-Aldrich, USA with further purification except when mentioned specifically. MA + TFA -ionic liquids (ILs) are synthesized via proton transfer between a Brönsted acid, trifluoroacetic acid and a weak base, methylamine. Anhydrous trifluoroacetic acid (Sigma-Aldrich, USA) and methylamine (MA, 33 wt.% in ethanol solution; Sigma-Aldrich, USA) are reacted in the equimolar amount. Since these reactions are very exothermic, the dropwise addition of the acid to the amine was carried out by cooling the amine solution to 0 °C using an ice water bath. The mixture was then stirred at room temperature for 6 hours. To ensure a complete reaction, an excess of amine was used and then removed in vacuum using a rotary evaporator.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Film Fabrication:</head><p>For the deposition of MAPbI 3 perovskite thin films with on FTO-coated glass substrates, a 40 wt% PbI 2 :MAI (molar ratio 1:1) mixture was dissolved in the N,Ndimethylmethanamide (DMF) solvent, with different amount of MA + TFA -as the additive, were prepared. The solutions were spin-coated on the substrates at 4000 rpm for 20 s. The as-formed thin films were then annealed at 130 ºC for 10 min. For obtaining better-quality thin films, the chlorobenzene-solvent-dripping process was introduced during the spin-coating step. Typically, the weight ratios of MA + TFA -and MAPbI 3 are 1:35, 1:25, 1:15 and 1:10, respectively. Materials and Thin-Film Characterization. Qualitative analysis of as-synthesized MA + TFA -ILs has been carried out by Fourier-transform infrared spectroscopy (FTIR; Electronic Supplementary Material (ESI) for ChemComm. This journal is © The Royal Society of Chemistry 2019 iS50, Nicolet, Thermo Scientific, USA) and 1 H NMR (Advance Ⅲ HD 400, Bruker, USA). Thermogravimetry and Differential Thermal Analyses (TG-DTA) of the samples were studied via a TG analyzer (DTG-60, Shimadzu, Japan) within the temperature range of 30 to 500 o C. The measurement process was carried out in the air with a heating rate of 10 o C/min. X-ray diffraction (XRD) patterns were collected using an X-ray diffractometer (D8 Discover, Bruker, Germany) using Cu Kα radiation (λ=1.5406 Å) at step size of 0.02°. 2D XRD were performed on an X-ray diffractometer with an in-situ heating stage (D8 Advance, Bruker, Germany). UV-vis absorption spectra were obtained on a UV-vis spectrometer (UV-2600, Shimadzu Scientific, Japan). Photoluminescence (PL) spectroscopy was performed on a spectrometer (FluoTime 300, PicoQuant, Germany) using 405 nm laser excitation. The surface and cross-sectional morphology and microstructure of samples were observed by a scanning electron microscopy (SEM; G500, ZEISS, Germany). Energy dispersive X-ray spectrometer (EDS; Octane Elite EDS System, EDAX, USA) attached to the SEM was employed for elemental analyses. The surface chemical compositions were measured using X-ray photoelectron spectroscopy (XPS; K-alpha, Thermo Scientific, USA).</p><p>PSC Fabrication and Testing. Patterned FTO-glass substrates were cleaned ultrasonically with an alconox (detergent) solution, followed by sonication in deionized water, acetone, and isopropyl alcohol sequentially for 20 min each. A 30nm compact-TiO 2 layer was deposited on top of the etched FTO/glass substrates using the procedure described earlier. A 250-nm mesoporous-TiO 2 layer was then deposited by spin-coating followed by a sintering heat-treatment of 500 ˚C for 30 min in air. A 1.5 wt % solution of SnCl 4 he distilled water was spin-coated at 3000 rpm for 30 s. This is followed by annealing at 200 °C for 30 min, forming an ultrathin compact SnO 2 layer. The addition of SnO 2 coating is for purpose of enhancing the overall device open-circuit voltage and does not have an obvious effect on the solution wetting. The thin films of MAPbI 3 modified with or without the MA + TFA -additive were then deposited according to the procedure described above. A solution of Spiro-MeOTAD (Merck Group, Germany) hole-transporting material (HTM) coating was prepared by dissolving 72.3 mg of Spiro-MeOTAD in 1 mL of chlorobenzene (99.8%), to which 28.8 µL of 4-tert-butyl pyridine (96%) and 17.5 µL of lithium bis(trifluoromethanesulfonyl)imide (LITSFI) solution (520 mg LITSFI in 1 mL acetonitrile were added. The HTM was deposited by spin-coating (3000 rpm, 30 s). Finally, a 100 nm Au electrode was thermally-evaporated to complete the solar cells. The current density-voltage (J-V) of the solar cells were measured using a Keithley 2400 sourcemeter under simulated AM1.5 illumination (100 mW cm -2 ) simulated using a solar simulator (Sol3A Class AAA, Oriel, USA). A non-reflective mask (0.09 cm 2 ) was used to define the PSC area. The stabilized maximum-power outputs of the PSCs were measured by monitoring the J outputs at the maximum-power V bias (deduced from the reverse-scan J-V curves). The external quantum efficiency (EQE) spectra were recorded with an EQE measurement system (Newport, USA).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,141.65,76.28,312.00,241.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,154.40,79.47,286.50,219.07" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,124.48,28.66,337.82,171.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,109.13,73.89,377.05,292.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,72.70,74.36,440.60,197.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,157.71,73.94,279.89,214.51" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,143.36,78.11,308.57,221.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,90.00,76.07,398.51,285.67" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,90.00,78.70,402.21,298.60" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting Information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Figures</head><note type="other">Figure S1.</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure S4</head><p>. FTIR spectrum of MA + TFA -. The valleys are assigned as below: 3026 cm -1 for ν N-H, which confirms the existing of -NH 3 ; 2902 cm -1 for v s C-H, 2796 cm - 1 for ν as C-H, 1476 cm -1 for δ as C-H; 992 cm -1 for ν C-H, suggesting the existence of methyl group; 1425 cm -1 for δ s C-H in -N-CH 3, which confirms N atom is adjacent to methyl group, all above demonstrate the existence of CH 3 NH 3 + cation. 1178 and 1142 cm -1 for ν C-F, 1671 cm -1 for ν C=O, 1531 cm -1 for v C-O, all these prove the existing of the anion CF 3 COO -.      <ref type="table">S1</ref>.   </p></div>			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

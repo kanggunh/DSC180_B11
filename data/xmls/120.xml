@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="sq">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">FGH IJGKLM MLIJM NGOLP P NQ H IJP RSITNQ GP LITM RU KRM NOSM LQUNH JVPJNM G</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>7 015</addrLine>
+									<postCode>C7 048</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">FGH IJGKLM MLIJM NGOLP P NQ H IJP RSITNQ GP LITM RU KRM NOSM LQUNH JVPJNM G</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1574F72C458443B3CE1CB3EF0792BF14</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>&lt;1 244Q 7 &gt; ,M4E5,A@ =0,0@ L21 M3 21 .0A2,@ =0/-7 ME54Q 3 21 .0AC07 48R.57 75,C7 04&lt;5@ @ 01 &gt; ,C5661 25&lt;=044-&lt;=544.57 7 5,C7 0SQ 1 5B4&lt;5@ @ 01 &gt; ,CN RTSRO5,A4.57 75,C7 0,0-@ 1 2,4&lt;5@ @ 01 Q &gt; ,CN RTURO51 00H@ 1 0.07 B62L01 3 -7 8 VWXVY</term>
+					<term>=07 0,C@ =4&lt;57 04@ =5@ &lt;5,/061 2/0A/BRTSR5,ARTUR51 02,@ =01 5,C0239X9WW,.E 5,A7 2,C017 0,C@ =4&lt;57 04&lt;5,/05&lt;&lt;0440A-4&gt; ,C-7 @ 1 5Q 4.57 7 5,C7 04&lt;5@ @ 01 &gt; ,C8 VZ</term>
+					<term>=040@ 0&lt;=,&gt; ?-04&lt;5,/0-40A2,/-7 M 45.67 04L&gt; @ =2-@@ =0,00A3 21A1 B&gt; ,C5,A61 2J&gt; A05,5J01 5C0 2 3</term>
+					<term>672 ,72 4 =: -=-: 0 2 -38.0 -80 -&gt;2 ,3&lt;&gt;A/: 5. 2</term>
+					<term>70/. /&gt;/30 4I 9 : -&gt; 672 ,7</term>
+					<term>/. 48: /,-&gt;&gt;-3. B,-&gt;=-4/1J1-3-08. 68B44,80 0 /:6/. .831 =8: 0 2 ,&lt;. 8: . B2 32 3K 7-&lt;4/2 340 : &lt;&gt;/30 4,83: /L&lt;2 : //M=-4&lt;: /0 2 &gt;/4 -97-&lt;: 40 -,-. . /,0</term>
+					<term>--1180 8C N8: /&gt;&lt;408. 4-A/0 8O/367/3/M=-42 3</term>
+					<term>/.48&gt;=. /40 -=-6/: 9 &lt;.4B3,7: -0 : -3HK : 8B40 78048&gt;=. /18&gt;8</term>
+					<term>/1-/43-0 -,,&lt;:1&lt;/0 --E/:/M=-4&lt;: /0 -0 7/A/8&gt;CFGPF: /L&lt;2 : /40 7/ &lt;4/-981/12 ,80 /14B3,7: -0 : -3-:3/&lt;0 : -34=8. . 80 2 -34-&lt;: ,/5 8310 -=/: 9 -: &gt; 0 7/,-30 : 840&gt;80 ,72 3</term>
+					<term>-&lt;0 . 2 3/1A/. -65,8: /9 &lt;. =: /=8: 80 2 -3-91/&lt;0 /: 80 /1&gt;80 /: 2 8. 42 43//1/15672 ,7,83A/ ,-40 . B8310 2 &gt;/,-34&lt;&gt;2 3</term>
+					<term>CP/&lt;0 : -3A/8&gt;48: /8. 4-: /. 80 2 E/. B . -69 . &lt;M2 3,-&gt;=8: 2 4-30 -HK : 8B45&gt;/832 3</term>
+					<term>48&gt;=. //M=-4&lt;: / 0 2 &gt;/462 . .A/. -3</term>
+					<term>/: CP/E/: 0 7/. /4452 02 40 7/8A2 . 2 0 B0 -1-,-30 : 840 &gt;80 ,72 3</term>
+					<term>672 ,7&gt;8O/4FGPF4&lt;,78=-6/: 9 &lt;.0 /,732 L&lt;/2 3 =: -A2 3</term>
+					<term>4=/,2 9 2 ,40 : &lt;,0 &lt;: 8.1/0 82 .4&lt;,7848: : 83</term>
+					<term>/&gt;/302 3&gt;&lt;. 0 2 K ,-&gt;=-3/304B40 /&gt;4-:0 -2 1/30 2 9 B4/. 9 K 844/&gt;A. /1=8,O2 3</term>
+					<term>3-0 8,,/442 A. /ABFGHF5831672 ,762 . .A/9 &lt;: 0 7/:12 4,&lt;44/1A/. -6C QRSTU V WTXYZT[V \X]^_`Ya`XbcdWT`[dU Te^_`Ya`Xf Ybcd WT`[dU Te`XZ^_`Y[_cdg ZbcdWT`[dU T GO/BL&lt;/40 2 -367/3=. 8332 3</term>
+					<term>FGHF-:FGPF/M=/: 2 &gt;/30 42 45 67802 40 : B2 3</term>
+					<term>0 -A/. /8: 30 hF&gt;8. .83</term>
+					<term>. /4,80 0 /: 2 3</term>
+					<term>2 43-08. 68B4 8==: -=: 2 80 /5831-0 7/:0 /,732 L&lt;/4&gt;8BA/9 8E-&lt;: 8A. /CF&gt;8. . 83</term>
+					<term>. /4,80 0 /: 2 3</term>
+					<term>=: -E2 1/42 39 -: &gt;80 2 -3-340 : &lt;,0 &lt;: /4-30 7/-: 1/: -98==: -M2 &gt;80 /. B@i@jj3&gt;Ck72 4,832 3,. &lt;1/42 l/5478=/5: 812 &lt;4 -9</term>
+					<term>B: 80 2 -35=8,O2 3</term>
+					<term>54&lt;: 9 8,/: -&lt;</term>
+					<term>73/44831,-3,/30 : 80 2 -3Cm2 9 K 9 /: /3068B40 -=: -,/44831838. B4/0 7/4,80 0 /: 2 3</term>
+					<term>180 88: /&lt;4/10 --A0 82 312 9 9 /: /302 39 -: &gt;80 2 -3Ck7802 43-00 -48B0 7808. .0 72 4 2 39 -: &gt;80 2 -362 &gt;80 2 -3-30 7/9 2 A: /: 812 &lt;4831&gt;-: =7-. -</term>
+					<term>BI o p qp 5: 2 AA-3K . 2 O/ -:,B. 2 31: 2 ,8. J,83A/1/0 /: &gt;2 3/1C k7/,-3,/30 : 80 2 -3 -94,80 0 /: 2 3</term>
+					<term>-Ar /,0 42 3 848&gt;=. /2 4 83-0 7/:2 &gt;=-: 0 830,-342 1/: 80 2 -3A/,8&lt;4/. -6,-3,/30 : 80 2 -34 &gt;8B. /810 -6/8O/:4,80 0 /: 2 3</term>
+					<term>Ck72 4&gt;2</term>
+					<term>70A/2 &gt;=: -E/10 7: -&lt;</term>
+					<term>7 . 8:</term>
+					<term>/:=80 7. /3</term>
+					<term>0 7&gt;/84&lt;: /&gt;/30,/. . 4831. -3</term>
+					<term>/:180 8,-. . /,0 2 -3 0 2 &gt;/4Cs2 0 772</term>
+					<term>7. B,-3,/30 : 80 /148&gt;=. /4540 : &lt;,0 &lt;: /9 8,0 -:4,80 0 /: 2 3</term>
+					<term>&gt;8B-,,&lt;: 5672 ,7&gt;8B-:&gt;8B3-</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>WXYZ [\]^W_`X\ \ a b WXc[defgXhi j b XYgfYY[\ X]ek[gg_Y j lm no[hXp [q Z X\rq _r[q p Z [i_sXt[\Xq [g[p [q hZ Y[guvp o[wYg[q rZ YYZ YtY[p `_q xp oXpZ hh_uZ \ Z i[ip o[  i_\ c[Yp eyo[Yt[\ iXq [s _q h[guvp o[i[\ s zXii[hu\ v_sihX\ \h_\ [^w\ [iZ Yp _Xi_z^X\ \ [g\ _`h_\ [^w\ Xq  `[Z topt[\ ap o[Y[p `_q xZ ip o[q [iw\ p_sp o[h_\ [^w\ [is _q  hZ Yt_Y[zgZ h[YiZ _YX\_u{ [^p iiw^oXis Z uq [i_q YXY_p wu[i`oZ ^o[Yp XYt\ [_q_p o[q `Z i[^q _iiz\ Z Yxp _s _q h Xp oq [[zgZ h[YiZ _YX\Y[p `_q xe|oXq X^p [q Z iZ Yt p o[_Y[zgZ h[YiZ _YX\_u{ [^p iXYgp o[Y[p `_q xZ igZ }^w\ p e]XYv^_Yc[Yp Z _YX\p [^oYZ ~w[iq [\ v_Ygq vZ Yt p _rq _u[p o[Y[p `_q xa`oZ ^o_s p [Y\ [Xgip _Xq p [s X^p iefY[[^p Z c[p __\p _rq _u[p o[t[\Z Yp o[i_\ cXp [g ip Xp [Z iihX\ \XYt\ [i^Xp p [q Z Yte_p oihX\ \XYt\ [zq Xvi^Xp p [q Z Yt kfkXYgihX\ \XYt\ [Y[wp q _Y i^Xp p [q Z Yt kfk^XYu[wi[ge[q [a`[gZ i^wiip o[i[Xrrq _X^o[iXYgrq _cZ g[Xp wp _q Z X\q [cZ [`p _  g[i^q Z u[o_`p o[i[Xrrq _X^o[i`_q xa`oXp_rr_q p wYZ p Z [ip o[q [Xq [XYgo_`p o[gXp  Xp q [Xp h[Ypio_w\ g u[Xrrq _X^o[gey[XZ h p _io_`p o[r_`[q_sp oZ iXrrq _X^oXYgrq _cZ g[[YXu\ Z YtZ Ys _q hXp Z _Yp _hXx[ p o[hX^^[iiZ u\ [p _p o[Y_Yzir[^Z X\ Z ip e ÿ ! ÿ ÿ "ÿ #ÿ $% ! ÿ &amp;' #( %ÿ ) ÿ *#</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="sq">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><formula xml:id="formula_0">¡¡¢ £ ¢ ¡ ¤ ¥¦ ¡ §¨ ¥¦ ¡ ¡ £ © §¨ ©¤ ¡£ ª ©¡ ¢ £ ¡¢ £ ¡¢ ¤ ¡£ ¤ ª £ ¤ ¦ §¨ ¡ ¦ ¦¢ ¦ ¦ £¢ £ ª ¡ ¦ ¦ ¤ © £ ¢£ £ ¤ « ¦ § ¬ ® ¯ ¦ £¡ ¡ £ ° ¡¦¡ ¡ ¤¢¢ ± ¦¡ ¦ ¡¡ ¦¡ £ ² ³ ¡ ¢ § ´ µ ¨ ¦¡ ¡¤ ¦ £¦ ¦ ¥¦ ¤ ª £ ¤ ¶ • §¬ §¨¢ £ ª ¡ ¦ ¦ ¦¡ ¢ ¤ ¡£ ¤ ª £ ¦ §¨¢ £ ¦ ¦ £ ¤ © ¶ ¹ §º ¶ ¬»»¹ ¢ ¢ ¤ ¡£ ª ¡ ¦ ¦ ¡ ª © ¡ ¦ ¡ ¢ §¼ ½ ¥¦ £¦ ¤ ¢ ¡ ½ § ¬» ¬¾ ¨ ¤ ª £¡ ¡ ¡ ¦ ¥¦¦¢ ¢£ ¶ ¿À ÁÀ ¤ ª ¡ ÂÃª Ã ¤ ¦ Ä ¦ ¡ ¦ ª §Å ¢ ¤ ¡ ¢ ¡ ¤ ¤ ª ¡ ¦ ¦ ¤ ¡ ª ©¡ ¡ ¦ ¢AE ¡ ¢ ¢ ¤ ¡ ¦¦ £ £ ¤ § ¨ ¢ ¤ ª ¡ ¦ ¦ ¡ ½ ¢¢ © §Ç ¦ ¤ ¢£ ¥¦ ¦¡ £ ¦ ¦ ¦¡ ¢£ ¶ ¦¡ ¶ £ a ¨ÈÉÊÈÉ ¬® Ë•É ¬° ¡ ¤ ¢£ ¦¢ ª ¦ ¢£ § ¬± ¬² ¨ Ì £ ¤ ¦ § £ ¢£ ¥¦ £ ¤ ¢ ¡ ¡ © £ §¨ ¤ ¦¡ ¢ ¡ ¡ ¢ £¢ £ ¤ ¢</formula><p>-. /0 1 2345067 31 /1 23831 391 /. :;237 /&lt;=3.1 2&gt; 47 3&lt;=1 2?1 23 4057 7 3.1 235&lt;=7 3@2&gt; 9295&lt;A36. /A38?5&lt;81 <ref type="bibr">2B47 5. =3.41 . B91 B. 34 95&lt;A30354B. 38</ref>:C1 D6&gt; 957&gt; &lt;E 2/B43&gt; &lt;41 . B03&lt;10&gt; =219/F3.5G . 5&lt;=3-. /0H: HHIJ1 /KL MN ?57 7 /@&gt; &lt;=0354B. 303&lt;1 4&gt; &lt;. 35746593 /-/AO 391 4IJHHL5&lt;8I: NL?@23. 3544D&lt;92. /1 . /&lt;A3507 &gt; &lt;34 95&lt;. 3592G547 /@54H: HHNNL MN ?035&lt;&gt; &lt;=7 5. =3.41 . B91 B. 34 P B61 /JQHHLR95&lt;A3. 34/7 F38:</p><p>;234951 1 3. &gt; &lt;=&gt; &lt;1 3&lt;4&gt; 1 D?S P GR ?.34B7 1 4-. /0 1 230/7 39B7 5. @3&gt; =21P TRP /.4&gt; U3R/-1 234951 1 3. &gt; &lt;=/AO 391 ?5&lt;81 239/&lt;93&lt;E 1 . 51 &gt; /&lt;P VR/-4951 1 3. &gt; &lt;=/AO 391 45&lt;8&gt; 4.37 51 381 /1 238&gt; W3. 3&lt;93 &gt; &lt;1 234951 1 3. &gt; &lt;=7 3&lt;=1 283&lt;4&gt; 1 DP XYZRA31 @33&lt;1 23/AO 3915&lt;8&gt; 1 4 4/7 F3&lt;15442/@&lt;&gt; &lt;3[&lt;P IR :\/@3F3. ?&gt; 142/B7 8A3&lt;/1 381 251 93. 1 5&gt; &lt;65. 5031 3. 44B92540/7 39B7 5.@3&gt; =21/.1 23F/7 B03/-1 2365. 1 &gt; 97 <ref type="bibr">3. 3[B&gt; .</ref> 31 23&gt; &lt;1 3&lt;4&gt; 1 D1 /A30354B. 38/&lt;5&lt;5A4/7 B1 3 &gt; &lt;1 3&lt;4&gt; 1 D4957 3:ZB. &gt; &lt;=1 234951 1 3. &gt; &lt;=3]63. &gt; 03&lt;1 ?4/03/-1 23 ^E . 5D62/1 /&lt;4@&gt; 7 7A31 . 5&lt;40&gt; 1 1 381 2. /B=21 2345067 3?5&lt;8 4/03@&gt; 7 7A34951 1 3. 38_1 23&gt; &lt;1 3&lt;4&gt; 1 D/-1 234951 1 3. 3862/1 /&lt;4 1 23. 3-/. 3&lt;33841 /A3&lt;/. 057 &gt; 4385=5&gt; &lt;411 23&gt; &lt;1 3&lt;4&gt; 1 D/-1 23 1 . 5&lt;40&gt; 1 1 3862/1 /&lt;4?@2&gt; 92.3[B&gt; . 34`&lt;/@7 38=3/-1 23&gt; &lt;9&gt; 83&lt;1 -7 B]/-62/1 /&lt;4?1 23&lt;B0A3./-62/1 /&lt;41 . 5&lt;40&gt; 1 1 38?5&lt;81 23 1 2&gt; 9`&lt;344/-1 2345067 34:a&lt;931 23435. 3`&lt;/@&lt;?1 23851 595&lt; 1 23&lt;A367 /1 1 38/&lt;5&lt;5A4/7 B1 34957 3&gt; &lt;90 MN :b 195&lt;A3433&lt; -. /03[&lt;P IR1 251S P GR57 4/9/&lt;1 5&gt; &lt;4&gt; &lt;-/. 051 &gt; /&lt;5A/B11 23-/. 0 -591 /. ?cP GR ?@2&gt; 92831 5&gt; 7 41 234&gt; U35&lt;842563/-1 23/AO 39154 @37 7541 2341 . B91 B. 3-591 /. ?dP GR ?@2&gt; 926. /F&gt; 83450354B. 3/-&gt; &lt;1 . 565. 1 &gt; 97 3&gt; &lt;1 3. 591 &gt; /&lt;4:e/.8&gt; 7 B1 3?&lt;/&lt;E &gt; &lt;1 3. 591 &gt; &lt;=/AO 391 4? 1 2341 . B91 B. 3-591 /.4951 1 3. &gt; &lt;=95&lt;A345&gt; 81 /A3dP GRfN_&gt; &lt;0/41 7 /@0/7 39B7 5.@3&gt; =21=37 4?1 23F/7 B03-. 591 &gt; /&lt;/-=37 51 /.&gt; 4 4Bg9&gt; 3&lt;1 7 D7 /@1 2511 2&gt; 42/7 841 . B3?5&lt;8/&lt;7 D1 23-/. 0 -591 /. &lt;338A39/&lt;4&gt; 83. 38:\/@3F3. ?1 2&gt; 4544B061 &gt; /&lt;8/34&lt;/157 @5D4 2/7 81 . <ref type="bibr">B35&lt;81 23.3[B&gt; . 303&lt;1-/.541</ref>     <ref type="bibr">1.+23 4 5.6.3 .73</ref> .84 +7-95.-0..:;&lt; =7:1;&lt; &gt;06.3 . =4 +-6.? .:@-6AB-6.3 A1C7:1&gt;4 +-6.14 7/.-.3AB-6.3 A1D E4 /4 ? 73 ? ,B A3714 +2C-64 +3 .@4 A:B 7? ? +04 -64 :-6.93 7:@.5.-0..: ;&lt; &gt;7:1;&lt; F06.3 .F4 +-6.14 +2-64 2G:.++D H : I4 @DJC-6.-6.A3 .-4 27?+27--.3 4 :@17-7B A3+K6.3 4 27? C ? 7/.? ? 73 C7:12,? 4 :13 4 27?+-3 L2-L3 .+67M.5..:K? A--.1DEK6.3 4 27? +-3 L2-L3 .+@4 M.7+? AK.AB9 NO C14 +GP ? 4 G.7:1? 7/.? ? 73+-3 L2-L3 .+ @4 M.7+? AK.AB9 NQ 7:12,? 4 :13 4 27?+-3 L2-L3 .+@4 M.7+? AK.AB9 N; D R22A3 14 :@-ASA3 A1T +? 70C7-64 @69C79 NO 1.27,4 +4 :14 27-4 M.AB +27--.3 4 :@B 3 A/ 0.? ? P 1.B 4 :.17:1+673 K4 :-.3 B 72.+D QUC VJ IA37? ? -63 ..+-3 L2-L3 .+C-64 +4 ++..:7-WUD ;XDY6.2,? 4 :1.37:1-6. +K6.3 .B A3 /B 72-A3 +.Z64 54 -7K? 7-.7L7-? A09064 264 +3 .? 7-.1-A -6.75+A? L-.+4 [.AB-6.A5\ .2-D]4 +-4 :2-A+24 ? ? 7-4 A:+27:7? +A5. +..:4 :-6.17-77-64 @69064 2673 .3.? 7-.1-A-6.K73 -4 2? .+4 [. 7:173 .7? +A4 :14 27-4 M.AB/A:A14 +K.3 +.+-3 L2-L3 .+D R2A//A:7KK3 A726-A7:7? ,+4 :@+/7? ?7:@? .+27--.3 4 :@ 17-74 +/A1.?B 4 --4 :@D Q;C V^C V_ Y64 +4 :MA? M.+B 4 --4 :@-6.17-7-A7 /A1.?L+4 :@B 4 --4 :@+AB -073 .DY6.3 .73 .73 7:@.AB+AB -073 . K72G7@.+7M74 ? 75? .C+L267+E7+`4 .07:1E7+I4 -D VaC Vb R04 1. 3 7:@.AB/A1.? +73 .7M74 ? 75? .4 :2? L14 :@+67K.4 :1.K.:1.:-/A1.? +c +L267+7KA0.3? 708 CB A3 /B 72-A3/A1.? +c B A3.Z7/K? .C7 B ? .Z4 5? .2,? 4 :1.3 87:1+-3 L2-L3 .B 72-A3/A1.? +c +L267+4 :-.3 72-4 :@ 673 1+K6.3 .+8 Dd,7++.++4 :@-6.+? AK.7-4 :-.3 /.14 7-.97:1&lt; A3 04 -6K3 4 A34 :B A3 /7-4 A:75AL--6.+67K.AB+27--.3 4 :@A5\ .2-+ c +L267+Yef 4 /7@.+8 C V_C OU 753 A712? 7++AB/A1.? +c +L267+ 2,? 4 :1.3/A1.? +827:5.26A+.:D I4 --4 :@+6AL? 15.7--./K-.1-A73 7:@.AB14 g.3 .:-/A1.? + 04 -64 :72? 7++C+-73 -4 :@04 -6/A3 .+4 /K? 4 +-4 2/A1.? +-A7MA4 1 AM.3 B 4 --4 :@De726/A1.?2A:-74 :+73 7:@.ABK73 7/.-.3 +DH B 3 .hL4 3 .1CM7? L.+B A3-6./7-.3 4 7?7:1+A? M.:-+27--.3 4 :@? .:@-6 1.:+4 -,73 .KL-4 :-A-6.B 4 -7:1B 4 Z.1B A3-6.B 4 --4 :@K3 A2.++D fA1.? +-,K4 27? ? ,67M.7+27? .c MA? L/.B 3 72-4 A:8K73 7/.-.3 064 26+27? .+-6.B 4 --A-6.17-7DH :hL7:-4 -7-4 M./.7+L3 ./.:-+C -6.+27? .4 +3 .? 7-.1-A-6.+7/K? .2A:2.:-3 7-4 A:DRB 4 3 +-+-.K4 : B 4 --4 :@4 :MA? M.+4 :4 -4 7? ? ,B 4 --4 :@-6.+27? .7:1-6.:-6.+27? .7:1 -6.572G@3 AL:1K73 7/.-.3 DI4 --4 :@-A-6.2A3 3 .2-572G@3 AL:14 + 23 L24 7?B A37@AA1B 4 -DIA3:.L-3 A:+27--.3 4 :@.ZK.3 4 /.:-+C 273 .B L?27? 2L? 7-4 A:AB-6.+27--.3 4 :@? .:@-61.:+4 -,AB-6.+,+-./ L:1.3+-L1,+6AL? 15.K.3 B A3 /.1i-64 +4 +7264 .M75? .L+4 :@-6. 4 :P 5L4 ? --AA? +04 -64 :-6.B 4 --4 :@+AB -073 .Dj:? ,+27? .A3+27--.3 4 :@ ? .:@-61.:+4 -,+6AL? 15.7? ? A0.1-A3 .B 4 :.4 :-6.B 4 -i2L+-A/73 4 ? , -6.+27--.3 4 :@? .:@-61.:+4 -,4 +G:A0:C7:14 -4 +-6.+27? .-67-4 + B 4 --.1Dk.Z-C7 K3 A2.1L3 . ABB 4 --4 :@ -6. 4 :14 M4 1L7?/A1.? K73 7/.-. <ref type="table">3 +c +L26 7+2,</ref><ref type="table">4</ref><ref type="table">5</ref><ref type="table">6</ref> +-3 L2-L3 .+04 -64 :-6.+7/K? .5L-4 -4 +23 L24 7?-A7++.++4 B-6. A5-74 :.1B 4 --4 :@K73 7/.-.3 +3 .7? 4 +-4 27? ? ,1.K4 2--6.+-3 L2-L3 .+D IA3.Z7/K? .CI4 @D^+6A0+ERkE17-7-67-07+L? -4 /7-.? ,5.+-B 4 --A72A/54 :.1/A1.?AB72,? 4 :1.37:1KA0.3? 70D O; Y6.-0AB 4 -? 4 :.++6A06A? ? A02,? 4 :1.3/A1.?B 4 -+5.B A3 .c 3 .187:17B -.3 c ,.? ? A08B 4 --4 :@-6.-64 2G:.++7:13 714 L+AB-6.6A? ? A02,? 4 :1.    T &lt;V S/01 0. /034S01; -S608-A. -Z07&gt;4&gt;[ 2 &gt;. 09015-; @07P-? 1 -8. -; -&gt;-; A72 7:-AB0-331 431 2 -. 0CO? 1 -8. -;2 7-7. 1 @8. @1 0S/2 8/ -330-1 7. /07-:01 09-1 6; 0774?. /0; 0&gt;9. /78-; 04&gt;S/2 8/2 .2 7 7. @62 06C \] ^-52 &gt;97. -1 . 06-7-:-. /0:-. 2 8-;84&gt;803. P2 ./-7 B00&gt;-33; 2 062 &gt;. /01 0-; [ S41 ; 6-&gt;62 7@7062 &gt;7:-; ;-&gt;9; 0 78-. . 01 2 &gt;9-&gt;-; A72 7C_ &gt;31 -8. 2 80P-? 1 -8. -;8-&gt;&gt;4.B0-33; 2 064501 0501 A; 0&gt;9. /78-; 0B@.2 710; 05-&gt;.S2 . /2 &gt;-60? 2 &gt;0672 `01-&gt;90C a1 -8. -;-&gt;-; A72 7/-7B00&gt;@706? 4170; ? [ -770:B; 0690;7A7. 0:7C \&lt; b/0&gt;@72 &gt;9? 1 -8. -;-&gt;-; A72 72 &gt;7:-; ;-&gt;9; 078-. . 01 2 &gt;9. /07; 430P YP2 7@706. 40c. 1 -8.? 1 -8. -;2 &gt;? 41 :-. 2 4&gt;CR/01 0-1 0. S4. A3074? ? 1 -8. -;7A7. 0: 1 0; 05-&gt;.. 47:-; ;-&gt;9; 078-. . 01 2 &gt;9P:-77? 1 -8. -; 7 -&gt;67@1 ? -80? 1 -8. -; 7Cd-77? 1 -8. -; 7-1 0. A32 8-; ; A-991 09-. 074? 7. 1 @8. @1 07. /-.301 72 7.. /1 4@9/4@.. /07A7. 0:Ce@1 ? -80? 1 -8. -; 7 -1 0? 4@&gt;64&gt;; A-.. /0B4@&gt;6-1 A4?. /0? 1 -8. -; Cf030&gt;62 &gt;94&gt;. /0 7; 430P. /0? 1 -8. -;8-&gt;B0-772 9&gt;0602 . /01-:-77? 1 -8. -;41 7@1 ? -80? 1 -8. -; C b/0&gt;Y2 7B0. S00&gt;]-&gt;6&lt;P78-. . 01 2 &gt;92 7-772 9&gt;06. 4B0? 1 4: -7@1 ? -80? 1 -8. -; C ]\P \] R/07@1 ? -80? 1 -8. -;62 :0&gt;72 4&gt;Pg 7 P2 7. /0&gt; 60. 01 :2 &gt;06BA0U&gt;T \V C g 7 hijY T \V k41 46l 7; -S 7. -. 07. /-.? 4178-. . 01 2 &gt;94Bm 08. 7S2 . / 7/-1 3 2 &gt;. 01 ? -807P. /078-. . 01 2 &gt;96081 0-707S2 . /Q j&lt; 2 &gt;. /0/2 9/Q 1 092 4&gt;C noP ]\ O77@8/P? 41S0; ; [ 60? 2 &gt;062 &gt;. 01 ? -807Pg 7 . -Z07-5-; @0 4?nCa412 &gt;81 0-72 &gt;9; A; 077S0; ;60? 2 &gt;06T 411 4@9/01 V2 &gt;. 01 ? -807P g 7 2 7; -1 901 C a41:-77? 1 -8. -; 7PY. -Z07-5-; @0B0. S00&gt;p-&gt;6]-&gt;6. /0 :-77? 1 -8. -;62 :0&gt;72 4&gt;Pg : P2 792 50&gt;BA0U&gt;T iV C g : hY T iV d-77? 1 -8. -;78-. . 01 2 &gt;9488@1 7? 1 4: 7. 1 @8. @1 074?-70; ? [ 72 :2 ; -1 &gt;-. @1 0T -81 477. /072 `01 -&gt;904&gt;S/2 8/. /0? 1 -8. -;-&gt;-; A72 72 7 -33; 2 06V-&gt;6/-7B00&gt;@706. 4-&gt;-; A7078-. . 01 2 &gt;96-. -? 4170; ? [ -770:B; 0690; 7Ca410c-:3; 0P-:-77? 1 -8. -;-&gt;-; A72 7/-7B00&gt; @706. 4@&gt;601 7. -&gt;6. /084:3-8. &gt;077q 60&gt;72 . A4?? 2 B1 2 ;7. 1 @8. @1 07 2 &gt;. /090;&gt;0. S41 Z-.62 r01 0&gt;.84&gt;80&gt;. 1 -. 2 4&gt;7C \&lt; sE FH tKFJFI KLM LNR/0u1 -. ZA3; 4. PS/2 ; 7.:41 084::4&gt;; A 0&gt;84@&gt;. 01 062 &gt;31 4. 02 &gt;74; @. 2 4&gt;78-. . 01 2 &gt;9S/01 02 .2 7@706. 4 90.-:0-7@1 04?. /084:3-8. &gt;0774?-31 4. 02 &gt;P8-&gt;-; 74B0@706 . 4-&gt;-; A7090;&gt;0. S41 Z7T a2 9CvV COu1 -. ZA3; 4.8-&gt;B0@706-7 052 60&gt;80? 41B1 -&gt;8/067. 1 @8. @1 07-7-1 084::4&gt;; A700&gt;2 &gt;90; 7C wA3; 4. . 2 &gt;96-. -4&gt;-u1 -. ZA3; 4. P-7Q n W T QV-9-2 &gt;7.QP? 0-. @1 07 -./2 9/Q-1 0/2 9/; 2 9/. 06-&gt;60c-:2 &gt;-. 2 4&gt;4?. /07; 4304?. /0 /2 9/Q1 092 4&gt;8-&gt;84&gt;? 2 1 : . /084&gt;? 41 :-. 2 4&gt;4?. /078-. . 01 2 &gt;9 4Bm 08. 7CR/07/-304?. /0u1 -. ZA3; 4.31 452 607-&gt;2 &gt;62 8-. 2 4&gt;4? . /0x-@772 -&gt;8/-2 &gt;&gt;-. @1 04?. /0:-. 01 2 -; CO./2 9/QP-u1 -. ZA 3; 4.4?-x-@772 -&gt;8/-2 &gt;S2 ; ;B084:0/41 2 `4&gt;. -; ; A-7A:3. 4. 2 8P -7W T QVX pq Q n CO7. 2 r8/-2 &gt;S2 ; ;84&gt;. 2 &gt;@0. 42 &gt;81 0-70; 2 &gt;0-1 ; A-. /2 9/QPS/01 0-7-B1 -&gt;8/067. 1 @8. @1 0P7@8/-7-:-77? 1 -8. -; . 08/&gt;2 U@02 &gt; eOe0c301 2 :0&gt;. 72 784&gt;. 1 -7.:-. 8/2 &gt;9PS/2 8/@707. /062 r01 0&gt;807 2 &gt;efB0. S00&gt;62 r01 0&gt;.. A3074?-. 4:7P:47.84::4&gt;; AB0. S00&gt; /A61 490&gt;-&gt;660@. 01 2 @:Ca410c-:3; 0P^n-&gt;6f n /-50501 A 62 r01 0&gt;.ef74?joC \ip po ji jn -&gt;6iC ]] po ji jn 1 07308. 2 50; AC4&gt;. 1 -7.:-. 8/2 &gt;9/-7B00&gt;-33; 2 06. 4:-&gt;A7A7. 0:7P 2 &gt;8; @62 &gt;97@1 ? -8. -&gt;. 7-&gt;67 0; ? [ -770:B; 0690; 7C \= \ eOe0c301 2 [ :0&gt;. 7-1 084::4&gt;; A301 ? 41 :06 2 &gt; 60@. 01 -. 06 7 4; 50&gt;. 7? 41 2 :31 450684&gt;. 1 -7. CwA70; 08. 2 50; A1 03; -82 &gt;9. /0/A61 490&gt;-. 4:7 S2 . /60@. 01 2 @:-. 4:72 &gt;-; ;413-1 .4?. /0:-. 01 2 -;@&gt;6017. @6AP. /0 84&gt;. 1 -7.? 1 4: . /4703-1 . 74?. /0:-. 01 2 -;2 772 :2 ; -1. 4. /-.4? . /060@. 01 -. 067 4; 50&gt;. CR/084&gt;. 1 -7.2 7. /01 0? 41 01 06@806-&gt;6 84&gt;. 1 2 B@. 2 4&gt;7? 1 4:. /0703-1 . 74?. /0:-. 01 2 -;-1 00? ? 08. 2 50; A-B70&gt;. ? 1 4: . /078-. . 01 2 &gt;93-. . 01 &gt;C4&gt;. 1 -7.:-. 8/2 &gt;98-&gt;-; 74B0301 [ ? 41 :06S2 . /3-1 . 2 -; ; A60@. 01 -. 0684:34@&gt;67CR/2 7/-7B00&gt;@706 . 431 4B0. /070; ? [ -770:B; A4?-72 &gt;9; 0dbx io -7S0; ;-7. 431 4B0 :@; . ,-. /0-/. 12 30-4. 56789:;&lt;= &gt;? :@;? A 8@9B CD? A? C@9:9= EB B F ECCGH9IA 8EAA 89J&lt;:J9:A = EA ? &lt;:&lt;KCJEA A 9= ? :@&lt;LM 9JA C? CCGNJ? 9:A B F B &lt;;A &lt;OB EJ9A 89CEHOB 9? :A 89I? B GA 9= 9@? H9D;89= 9? :A 9= EJA ? &lt;:C L9A ;99:C JEA A 9= 9= CJE:L9:9@B 9JA 9IE:I:&lt;CA = GJA G= 9K EJA &lt;= J&lt;:A = ? LGA ? &lt;:? C= 9PG? = 9IA &lt;K ? AA 89IEA EQR&lt;;9S9= D? :J9= A E? : J? = JGHCA E:J9CDA 8? CHEF:&lt;AL9A = G9QT :@9BCFCA 9HCDA 89CA = GJA G= 9 K EJA &lt;=JE:&lt;K A 9:L9EI9PGEA 9B FI9CJ= ? L9ILFE:U= :CA 9? :V W9= :? &gt;9 X UWYK G:JA ? &lt;:EAB &lt;;ZD;8? J8A E&gt;9C? :A &lt;EJJ&lt;G:AA 89J&lt;= = 9B EA ? &lt;: B 9:@A 8L9A ;99:A 89@9BK ? L= 9C? :C&lt;B GA ? &lt;:Q [\ T A? CEB C&lt;O&lt;CC? LB 9A &lt; GC9E]EGCC? E:K G:JA ? &lt;:A &lt;= 9O= 9C9:ACA = GJA G= 9K EJA &lt;=O9E&gt;CK = &lt;H CHEB B V E:@B 9CJEA A 9= ? :@IEA EK = &lt;H@9B CQ [_ 9E&gt;CE= ? C? :@K = &lt;HA 89? :A = &lt;IGJA ? &lt;:&lt;KECA = GJA G= 9K EJA &lt;=JE: EB C&lt;L9&lt;LC9= S9I? :`ab cZOB &lt;A CE:IA 89O&lt;C? A ? &lt;:&lt;KA 89O9E&gt;JE: L9= 9B EA 9IA &lt;C? d9A 8= &lt;G@8A 89e= E@@= 9B EA ? &lt;:C8? OX fg\hi ZY Q j&lt;=9kEHOB 9DK = &lt;HA 89O&lt;C? A ? &lt;:&lt;KA 89CA = GJA G= 9K EJA &lt;=O9E&gt;C? : lmnlIEA EX j? @QoEY DA 898FI= &lt;@9BH9C8C? d9K &lt;=EpV C899A K &lt;= H? :@O9OA ? I9EAA ;&lt;J&lt;:J9:A = EA ? &lt;:C;EC9CA ? HEA 9IQ qo r89 H9C8C? d9I9J= 9EC9I;? A 8? :J= 9EC? :@J&lt;:J9:A = EA ? &lt;:D;8? J8? C EA A = ? LGA 9IA &lt;E:? :J= 9EC9IK ? L= 9I9:C? A FQr89IEA EEB C&lt;C8&lt;;9IE s s = &lt;B B V &lt;S9= t tEAB &lt;;Z? :EH&lt;I? K ? 9I]G? :? 9=OB &lt;AX j? @QoLY D;8? J8 ? CEA A = ? LGA 9IA &lt;? :A 9= EJA ? &lt;:CL9A ;99:K ? L= 9CX E@@= 9@EA ? &lt;:Y Q u. 3vvw13x56T : J9= A E? : J? = JGHCA E:J9CD9S9: ? : EK GB B F 8FI= EA 9ICA EA 9D@9B CJE:L9CGNJ? 9:A B F;9B B&lt;= @E:? C9I? :A &lt; = 9O9EA ? :@CA = GJA G= 9CA 8EAO9E&gt;CE= 9C99:;? A 8? :A 89CJEA A 9= ? :@ OEA A 9= :? :A 89H? IA &lt;8? @8Z= 9@? &lt;:Q yD [qz[[ T :V I9OA 8H&lt;B 9JGB E= OEJ&gt;? :@JE:L9? :S9CA ? @EA 9I;? A 8;? I9E:@B 9nV = EFCJEA A 9= ? :@ LGAA 8? C;? B B:&lt;AL9I? CJGCC9I89= 9Q [q j&lt;=9kEHOB 9Dlm{lIEA E&lt;K EK G:JA ? &lt;:EB ? C9I\D ^V I? I9JFB &lt;kFE:A 8= EJ9:9&lt;= @E:&lt;@9B CC8&lt;;9I ? :A 9:C98? @8Ze= E@@O9E&gt;CD? :I? JEA ? :@A 89K &lt;= HEA ? &lt;:&lt;KB E= @9D J= FCA EB B ? :9E@@= 9@EA 9C;? A 89kA 9:I9IH&lt;B 9JGB E=&lt;= I9= Q q| r89 @9B EA &lt;= CA 8EAI? I:&lt;A9k8? L? Ae= E@@O9E&gt;C;9= 9JEA 9@&lt;= ? C9IEC EH&lt;= O8&lt;GCQ l&lt;B GA ? &lt;:C &lt;K A 8? &lt;O89:9zI? &gt;9A &lt;OF= = &lt;B &lt;OF= = &lt;B 9 J&lt;:M G@EA 9IA &lt;E:&lt;JA EO9OA ? I9? :C&lt;B GA ? &lt;:C8&lt;;9IA 89O= 9C9:J9 &lt;KC9B K V ECC9HLB 9IK ? L= 9C;? A 8A 89;? IA 8&lt;KEOO= &lt;k? HEA 9B FA ;&lt; 9kA 9:I9IH&lt;B 9JGB 9CJ&lt;HL? :9IQ [} me= E@@O9E&gt;? :A 89lmnlIEA E J&lt;= = 9B EA 9IA &lt;A 899kA 9:I9IB 9:@A 8&lt;KyH&lt;B 9JGB 9E:I;EC ? :I? JEA ? S9&lt;KE8? @8B F&lt;= I9= 9I E:I O9= ? &lt;I? JE= = E:@9H9:A Q T :&lt;A 89=;&lt;= &gt;DEe= E@@O9E&gt;;EC&lt;LC9= S9I? :lm{lIEA EK &lt;= CF:A 89A ? JL? B 9CEB A8FI= &lt;@9B EA &lt;= CQ ~|T :A 89C9JEC9CD? A? C:9J9CCE= F A &lt;9kJB GI9A 89e= E@@O9E&gt;K = &lt;H A 89K &lt;= H K EJA &lt;=K ? A A ? :@D;8? J8 I9O? JA 9IH&lt;:&lt;I? CO9= C9=? @? IJFB ? :I9= C;? A 8I? EH9A 9= C&lt;Ko\Q r89e= E@@O9E&gt;J&lt;= = 9CO&lt;:I9IA &lt;E= &lt;G:Iy[Q ~;8? J8J&lt;= = 9B EA 9C ;? A 8A 89H&lt;B 9JGB E=B 9:@A 8&lt;KA 89J&lt;HO&lt;:9:AH&lt;B 9JGB 9CQj= &lt;H A 8? CD? A;ECI9IGJ9IA 8EAA 89OEJ&gt;? :@H&lt;I9? :S&lt;B S9CGOA &lt; \~H&lt;B 9JGB 9C? :EJ= &lt;CCV C9JA ? &lt;:EB= 9O9EA ? :@G:? A Q ,4103515-/ 15 R9= 9D;9K &lt;JGC&lt;: CO9J? K ? JJEC9CA GI? 9CDJ8&lt;C9: A &lt;L= ? :@ A &lt;@9A 89=A 89J&lt;:J9OA CK = &lt;H EL&lt;S9Q79E? H A &lt;C8&lt;;8&lt;;CHEB B E:@B 9CJEA A 9= ? :@H9A 8&lt;ICJE:L9GC9IX E:IL= &lt;G@8AA &lt;@9A 89= ;? A 8E:J? B B E= FIEA EYA &lt;G:I9= CA E:IB &lt;;H&lt;B 9JGB E=;9? @8A@9B CQ 79CA = 9CCA 8EAA 89J8&lt;? J9CE= 9:&lt;AH9E:AA &lt;? HOB FA 8EAA 89C9E= 9A 89 s s L9CA t t@9B EA &lt;= Cj? = CA D;9B 9EIA 89= 9EI9=A 8= &lt;G@8ECO9J? K ? J9kEHOB 9 A &lt;C8&lt;;8&lt;;A &lt;EOO= &lt;EJ8A = 9EA ? :@CHEB BE:@B 9CJEA A 9= ? :@IEA EQ 2 --v03515-/6mCE:9kEHOB 9&lt;K8&lt;;A &lt;EOO= &lt;EJ8 K ? A A ? :@IEA ED;98ES9J8&lt;C9:89= 9&lt;:9IEA EC9AK = &lt;H&lt;G=B ELQr8? C IEA EC9A;ECI? NJGB AA &lt;K ? AE:IC&lt;;98ES9J8&lt;C9:A 8? CECEJEC9 CA GIFQr89IEA E;9= 9J&lt;B B 9JA 9IK = &lt;H EH? kA G= 9&lt;KA 89X D Y V \{EOjjE:IX D Y V \{EOjjQEJ8? :I? S? IGEBJ&lt;HO&lt;:9:AK &lt;= HC EH? J9B B E=C&lt;B GA ? &lt;:A 8EACJEA A 9= CECI9CJ= ? L9IEL&lt;S9DK &lt;= H? :@ 8&lt;B B &lt;;JFB ? :I9= CQr89H? kA G= 98&lt;;9S9=CJEA A 9= CI? 9= 9:A B FK = &lt;H A 89lm{lIEA EK = &lt;H ;8EA;&lt;GB IL99kO9JA 9IK = &lt;H ECGO9= V O&lt;C? A ? &lt;:&lt;KA 89IEA EK &lt;=A 89C? :@B 9J&lt;HO&lt;:9:A CX j? @Qy|EY Q 79K ? A A 9IA 89C9IEA EGC? :@lml? 9;S9= C? &lt;:qQ \Q \Q r89S? CJ&lt;C? A FIEA EC8&lt;;9IA 8EAA 89C&lt;B GA ? &lt;:;ECC? @:? K ? JE:A B F H&lt;= 9S? CJ&lt;GCA 8E:;EA 9= QmII? A ? &lt;:EB B FDJ= F&lt;V r IEA EC8&lt;;9I A 8EAA 89= 9;9= 9B &lt;:@E:? C&lt;A = &lt;O? JCA = GJA G= 9CQ&lt;:C? I9= ? :@A 89C9 IEA ED? A? CEOO= &lt;O= ? EA 9A &lt;GC9JFB ? :I9= V LEC9IH&lt;I9B CK &lt;=A 89C9 lm{lIEA EQT :? A ? EB B FDEJFB ? :I9=H&lt;I9B;EC9kEH? :9IQR9= 9DA 89</p><formula xml:id="formula_1">«¬ÿ ¯°°¬± ± ÿ ¯² ³ °µ ¬ ¶ ÿ •¸¹µ ± º¬»ÿ ¼ÿ ½¾ÿ ¿¬¹² ¸À² Áÿ Â½ÂÂ ¶ ÿ Ã¼Äµ ¼À»¬»ÿ ¼ÿ ÅÅAE ÇAE Â½ÂÈÿ ÉÊ ÅÉÊ ½Ëÿ •Ì ¶ ÿ ÿ Íº± ÿ À² ³ °µ ¬ÿ ± ÿ µ °¬± ¬»ÿ ¸»¬² ÿ Àÿ Î² ¬À³ Ḯ¬ÿ Î¼ÐÐ¼± ÿ ¯³ ³ ² 1¸³ 1ÿ Ç ¶ ½ÿ Ñ«¼² ³ ¬»ÿ Ò°¬°¬ ¶ ÓÔ ÕÖÿ ØÙ Ú Ô ÛÜ Õÿ ÝÞÜ Ô ÞÕ +,+-./+0.</formula><formula xml:id="formula_2">p ¡ ¢£¤¤ ¡ ¥¦ §¡ ¨©ª©«¬¢¡ « ®¯°±² ³´µ ¶±•¤¬¡ §« § « ¤¹¡ ¢¡ « ¨©º»² ¨³¼ §¡ ¢¡ ¤ ¢ ¡ ¢ ½¾¡ ¢¬ ¡ § ¨ ¡ ¢ ¡ ¨ « « ¡ ¢ ¡ §£© ¡ ¢½ ¸¿¡ ¢ ¦½ À¢ÁÂ½ ¦ Ã ½¤ ¬¡ ¤ ¡ ¡ ¢ Ä½Å½ª©«¬¢¡ «AE ½Ã½ ¡ AEÇ½È¡ £ ¡ AEÉ½É½Ã©¹©©¹AE½¥½Ã¡ ¸¢½¡ ¢¡ AE ÊË ÌÍ¯ÎÏ ÌÍÌ°ÎÐ° ¶AEÑÒÑÒAEÓÔAEÑÑ¦ÕÖÑÑÀÂ½Ç¤© ¡ £× ÑÒÑÒ ¡ «¢ Ç ¡ «¸«¡ ©² Ç³ ½¥ § ¤ ¡ ¡ ¢ ¡ ¡ ¸ § ¨¡ « Ç½ ØÙ Ú ² ÈAE È³ ÑÚ¤¥¥Û ² ÜAE Ü³ ÑÚ¤¥¥ ¡ Ý § ¡ ¢Ü Ñ É² ¨«¹ ¸¬ ¡ ¢£³¬¡ « ¤¢¡ ¢£ ¤ ¡ ² ³«©¡ ¢ ¬ ¡ «¢¨«¹£ §¢ ¡ ² ¡ ¢³¢«©¡ ¢ ¸¬¡ ¡ § ¢¢£ ¡ ² ¨ §¡ ¢³ Þ² ¨³ Ý¡ ¨«©¡ ¢ ¸² £ ¢¡ ¢³¢ Ý¡ ¨¸¡ ¤ ¡ «¸«©¡ ¢ ¡ ² ¨ §¡ ¢³ Þ² «³¸¬«©¡ ¢ ¸ ¡ ² ¡ ¢³¢¸¬«©¡ ¢ ¸ ¡ ¢ §¸©¡ ¢« ¡ ¢£ ¡ §¢ ¡ «¹¢² ¨ §¡ ¢³ Þ² ³¸¬«©¡ ¢ ¸¬¡ « §ß¤©¡ ¤ ¡ © ¡ §¬¡ ¿ §Ò½ Õ² ¡ ¢³¢« §ß¤©¡ ¤ ¡ © ¡ «¹¢¬¡ ¿ §Ò½ Õ² £ ¢¡ ¢³ ½</formula><p>àáâãäå aeçèéêå éë ìãí âîaeââéä ïðñòÿ ôõõñö ö ÿ ô÷ ø ù õú ñû ÿ üýþú ù ö ÿñ0ÿ 1òÿ 23ÿ 4ñþ÷ ý5÷ 6ÿ 7277û ÿ 819òú 150ñ0ÿ 1òÿ 727ÿ 2ÿ üû ÿ ÿ ÿù ö ÿ 5÷ ø ù õú ñÿ ù ö ÿ ú ù õñòö ñ0ÿ ýò0ñ÷ ÿ 5ÿ ÷ ñ5ø ù ñÿ 11òö ÿ ôø ø ÷ ù þýø ù 1òÿ û 2ÿ òð1÷ ø ñ0ÿ ù õñòõñû fg hijk l mnomp q rrsp tup tvtsq mq w rsrxyrz z r{ |}z w s~tp|p rvvvt|q w rsv rq mw st~x p r q ytx w q q w srx~mq mx rpl x p r z tx qq rp w yq nmu ~mumuy~mu~yms~mu~~~mq mx rpl n~mu w sl vt|rs~x p rz tx qw s|mp q rrsnms~l |nmu~~w sl x mpp w yqw s |mp q rrsn tup r~|t~x p r p mutp w tq p w |y|z m} op mvstq q ~w m~ty mq msw ~w vmp p w sow |y{tw svt~~rs~mv ¡¢£ ¤ {w q yutp w vvw rsx p r z vt¥w tpl oru}p w yq¦ ns~tpq ytop tmq w ¥t orrsvoo §l ¥tp vw rs¢ nz w |tsvt fg hij¨l nx rpmutx rp tm~~w q w rsrx©~ªl z m|n «¬w s mx q tpm~~w q w rsl p ttsn ms~«¤w smx q tpm~~w q w rsl up uz tn l nvyr{vms tumsvw rsrxq yt~mq mw sl nq rvyr{q yt~w vmuutmp ms|trxq ytutmmqyw y ®p r q ytvt~mq mq ytx w q vvyr{q ymqmvq ytuw v~t|p tmvt~q ytyrz z r{ |}z w s~tp vx rp t~}muw sw q w mz z }z rvtq yt|rp ttx rp tt|rw stz z w uq w |mz l on £l nvyr{w s|mp q rrsx rp mql ~p m{sq rv|mz tnyr{q ytvq p |q p tvt¥rz ¥t ,-. /01 2 31 4567 08 92 :;&lt;=&gt;?@A BCD &lt;EF&gt;?GH=&lt;I I H=J HKBL C@L M L =?@J K?J ?&lt;@?M ?NL I O&lt;MFHFJ L KHBJ &gt;?JM &lt;D N CHI BPQ RM &lt;I KL @CL @J &lt; ST &gt;?L D FL @BU VW X&lt;DHY?NFI HZJ &gt;D HHKL [HD H@J\]?NL @&lt;?=L KFHFJ L KH BH^EH@=HBJ &gt;?JM &lt;I KL @J &lt;ST &gt;?L D FL @B&gt;?GH_HH@BJ EKL HKZKH@&lt;J HK ``;aZ``;\?@K``;bcJ &gt;HHY?=JBH^EH@=HB=?@_HM &lt;E@KL @J &gt;H &lt;D L CL @?ID HM HD H@=H_EJJ &gt;H=D L J L =?IF&lt;L @JL BJ &gt;?J?I IM &lt;D N CHI B_O BHI M T ?BBHN_I OL @J &lt;M L _D L I I ?DBJ D E=J ED HBU`J D ?@K?BONNHJ D Od?B L @J D &lt;KE=HKJ &lt;J &gt;HST &gt;?L D FL @BJ D E=J ED HBD HBEI J L @CL @M D HHFHFJ L KHB ?JJ &gt;HH@K&lt;MJ &gt;HST &gt;?L D FL @Ue&gt;HM D HHFHFJ L KH=&gt;?L @B=?@&lt;GHD I ?F J &lt;M &lt;D N KL NHD B?@KZCL GH@J &gt;H=&lt;D D H=JJ D L CCHD ZJ &gt;HKL NHD BBHI M T ?BBHN_I HL @J &lt;M L _D L I@?@&lt;BJ D E=J ED HBM &lt;D NL @C?M L _D L I@HJ d&lt;D f ?@KBHI M T BEFF&lt;D J L @CCHI Ue&gt;HD HI ?J L &lt;@B&gt;L F_HJ dHH@J &gt;H@HJ d&lt;D f BJ D E=J ED H?@KJ &gt;HI &lt;=?IM L _D L IBJ D E=J ED H&lt;MBHI M T ?BBHN_I HKFHFJ L KH CHI Bd?BFD &lt;_HKEBL @C`gh`NH?BED HNH@J BZ=D O&lt;T eij ?@K D &gt;H&lt;I &lt;CL =?INH?BED HNH@J BU eijL N?CHB&lt;MCHI BM D &lt;NJ &gt;HJ &gt;D HHKL [HD H@JFHFJ L KHBB&gt;&lt;dHK J &gt;D HHKL BJ L @=J I OKL [HD H@JBJ D E=J ED HBU``;aM &lt;D NHKM L _D L I BdL J &gt; D HCEI ?DJ dL BJ BZ``;\M &lt;D NBE@J dL BJ HKM L _D L I B?@K``;bI ?NL @?J HK M L _D L I BU`gh`NH?BED HNH@J B&lt;MJ &gt;HJ &gt;D HHFHFJ L KHCHI BdHD H =&lt;I I H=J HK?@KB&gt;&lt;dHKJ &gt;D HHKL BJ L @=JB=?J J HD L @CF?J J HD @Bk XL CUalm U ``;bB&gt;&lt;dHK?BN?I IFH?f?J&gt;L C&gt;nZ=&lt;D D HBF&lt;@KL @CJ &lt;? I H@CJ &gt;&lt;M\opUq&lt;N_L @HKdL J &gt;J &gt;HeijL N?CHBZJ &gt;L BFH?fd?B ?BBL C@HKJ &lt;J &gt;HdL KJ &gt;&lt;M?BL @CI HM L I ?NH@JdL J &gt;L @?I ?NL @?J HK M L _D L I Ue&lt;M L JJ &gt;HB=?J J HD L @CK?J ??KH^E?J HI O?BL @CI HHYFD HBBL &lt;@ =&lt;EI K@&lt;J_HEBHKUr @BJ H?KZJ &gt;HB=?J J HD L @CFD &lt;M L I HB&lt;MJ &gt;HFHFJ L KH &gt;OKD &lt;CHI BdHD H=?FJ ED HK_O?@&lt;@I L @H?DI H?BJB^E?D HBM L JdL J &gt; J &gt;HM &lt;I I &lt;dL @CHYFD HBBL &lt;@k H^@k sm m t uv wxy z v { | } w ~| v w x x | k sm r @J &gt;L BH^E?J L &lt;@ZL BJ &gt;H_?=fCD &lt;E@KB=?J J HD L @CZ?@K =&lt;D D HBF&lt;@KJ &lt;NEI J L FI L =?J L GHM ?=J &lt;D BM &lt;DJ &gt;HJ d&lt;J HD NBZL B J &gt;H=&lt;D D HI ?J L &lt;@I H@CJ &gt;?@K?@K ?D HB=?I L @CHYF&lt;@H@J BU L J &gt;L @J &gt;L BH^E?J L &lt;@ZKL [HD H@JJ HD NB=&lt;GHDJ &gt;HB=?J J HD L @C?J KL [HD H@JnD HCL NHBUe&gt;HI &lt;dnD HCL NHL B=&lt;GHD HK_O n Z?@K =&lt;GHD BB=?J J HD L @CM D &lt;N J &gt;HCHI@HJ d&lt;D fZd&gt;HD H?BJ &gt;H&gt;L C&gt;n D HCL NHL B=&lt;GHD HK_OJ &gt;Hk ak nm mJ HD NUe&gt;HO@&lt;J HJ &gt;?J BL NL I ?DHYFD HBBL &lt;@B&gt;?GH_HH@EBHKJ &lt;M L JK?J ?M &lt;DF&lt;I ONHD?@K F&lt;I OHI H=J D &lt;I OJ HBOBJ HNBU e&gt;HHYF&lt;@H@J@D HM I H=J BI &lt;dnB=?J J HD L @C&lt;==ED D L @C&lt;@J &gt;H a]]B@NBL HD?@CHd&gt;L =&gt;L BM D &lt;NJ &gt;H@HJ d&lt;D fUHD HZ?I IJ &gt;D HH FHFJ L KHB&gt;?GH?G?I EH&lt;MaU sZd&gt;L =&gt;L B?BBL C@HK?BB=?J J HD L @C M D &lt;NM EI I OBd&lt;I I H@?EBBL ?@=&gt;?L @BL @?C&lt;&lt;KB&lt;I GH@J UX&lt;D``;a ?@K\ZJ &gt;L BL B?@?FFD &lt;FD L ?J H?@?I OBL B?@KBECCHBJ BJ &gt;?JJ &gt;H =&gt;?@CHJ &lt;J &gt;HFHFJ L KHBH^EH@=HK&lt;HB@&lt;JL @M I EH@=HJ &gt;H@HJ d&lt;D f BJ D E=J ED HUX&lt;D``;bJ &gt;L BL B@&lt;J?FFD &lt;FD L ?J HKEHJ &lt;J &gt;HI ?NL @?J HK BJ D E=J ED HU``;a?@Kb&gt;?GH&gt;L C&gt;HDB=?J J HD L @CL @J H@BL J L HBL @J &gt;H NL KJ &lt;&gt;L C&gt;nD HCL &lt;@d&gt;L =&gt;L B?J J D L _EJ HKJ &lt;_&lt;J &gt;J dL BJ HK?@K I ?NL @?J HKM L _D L I B_HL @CN&lt;D H=&lt;NF?=J Z&gt;?GL @C?CD H?J HD@EN_HD &lt;MFHFJ L KHN&lt;I H=EI HBFHDE@L JI H@CJ &gt;Ue&gt;L BL BDHM I H=J HKL @J &gt;H &gt;L C&gt;n HYF&lt;@H@JL @=D H?BL @CM D &lt;N ``;\k E@J dL BJ HKmJ &lt;``;a k J dL BJ HKm U``;bF&lt;BBHBBHB?&gt;L C&gt;nHYF&lt;@H@J&lt;MbU V\Zd&gt;L =&gt;L B ?BBL C@HKJ &lt;F&lt;dHDI ?dB=?J J HD L @CM D &lt;N dHI I T KHM L @HKL @J HD M ?=HBU e&gt;H=&lt;D D HI ?J L &lt;@I H@CJ &gt;L B?@&lt;J &gt;HDF?D ?NHJ HD&lt;_J ?L @HKM D &lt;N J &gt;H N&lt;KHIEBHKUj&lt;GL @CM D &lt;N``;\k E@J dL BJ HKmJ &lt;``;bk I ?NL @?J HKm Z ?KH=D H?BHL @=&lt;D D HI ?J L &lt;@I H@CJ &gt;M D &lt;N\]J &lt;aVd?BBHH@Zd&gt;L =&gt; L @KL =?J HK ?CD H?J HD=&lt;NF?=J @HBBdL J &gt;L @ J &gt;H@?@&lt;BJ D E=J ED H &lt;M``;bU g=&lt;@=H@J D ?J L &lt;@BJ EKOM D &lt;N aJ &lt;ldJ d?BFHD M &lt;D NHKM &lt;D ``;\?@K``;bUX&lt;D``;\Z?@L @=D H?BHL @&gt;L C&gt;nHYF&lt;@H@Jd?B BHH@dL J &gt;L @=D H?BL @C=&lt;@=H@J D ?J L &lt;@ZL @KL =?J L @C?CD H?J HDKHCD HH &lt;M@HJ d&lt;D f =&lt;NF?=J @HBBUe&gt;L Bd?BD HM I H=J HK L @ =D O&lt;T eij NH?BED HNH@J B&lt;MJ &gt;&lt;BHCHI BUq&lt;@GHD BHI OZ``;bB&gt;&lt;dHK?KH=D H?BH L @J &gt;H&gt;L C&gt;nHYF&lt;@H@JdL J &gt;L @=D H?BL @C=&lt;@=H@J D ?J L &lt;@UgC?L @ZJ &gt;H =D O&lt;T eijNH?BED HNH@J BD HM I H=J HKJ &gt;L BUe&gt;L Bd?B?J J D L _EJ HKJ &lt;J &gt;H M ?BJ HDBHI M T ?BBHN_I OfL @HJ L =B?BB&lt;=L ?J HKdL J &gt;J &gt;H&gt;L C&gt;HD=&lt;@=H@T J D ?J L &lt;@ZI H?KL @CJ &lt;L NFHD M H=J L &lt;@BL @J &gt;HI ?NL @?J HBU e&gt;L Bd&lt;D fBHD GHBJ &lt;HYHNFI L M OJ &gt;?JBE_J I H=&gt;?@CHBJ &lt;J &gt;H =&gt;HNL =?IBJ D E=J ED HdL J &gt;L @?=I ?BB&lt;MBL NL I ?DN&lt;I H=EI HBD HBEI J BL @ BL C@L M L =?@JKL [HD H@=HBL @J &gt;HBHI M T ?BBHN_I HKBJ D E=J ED HUe&gt;L BL @ J ED @L @M I EH@=HBJ &gt;H@HJ d&lt;D fBJ D E=J ED H?@K_EI fD &gt;H&lt;I &lt;CL =?I FD &lt;FHD J L HBU ,068 1 452 055360:&gt;L I HD ?CCFH?fB?D H@&lt;J ?I d?OBFD HBH@JL @ `g`?@K `gh`F?J J HD @B&lt;MCHI BZJ &gt;HL D FD HBH@=H=?@CD H?J I O?L KJ &gt;HE@KHD BJ ?@KL @C&lt;MJ &gt;HF?=fL @C&lt;M N&lt;I H=EI HB?@KCHIM L _D HBUgBHD L HB&lt;MHI HC?@JHYFHD L NH@J BdHD H =?D D L HK&lt;EJ_OeHD H=&gt;?@K=&lt;T d&lt;D fHD BEBL @C`gh`J &lt;=&lt;NF?D H J &gt;HBJ D E=J ED ?I=&gt;?D ?=J HD L BJ L =B&lt;M?BHD L HB&lt;M&lt;D J &gt;&lt;KL ?I f&lt;YO?D H@H &lt;D C?@&lt;CHI ?J &lt;D BU l] &gt;L I BJ@&lt;J&gt;OKD &lt;CHI Bk ?BJ &gt;HB&lt;I GH@J&gt;HD HL B HJ &gt;?@&lt;I m ZJ &gt;HOBHD GH?B?@HY=HI I H@JHY?NFI H&lt;MJ &gt;HDL =&gt;@HBB&lt;M L @M &lt;D N?J L &lt;@J &gt;?J=?@_HHYJ D ?=J HKM D &lt;N ?B=?J J HD L @CF?J J HD @J &lt; KHB=D L _HJ &gt;HBJ D E=J ED H&lt;M?BHI M T ?BBHN_I HKBN?I IN&lt;I H=EI HCHI U OG?D OL @CJ &gt;H?D &lt;N?J L =N&lt;L HJ O?@K=&gt;?L @I H@CJ &gt;&lt;M?CHI ?J &lt;D N&lt;I H=EI HZJ &gt;H?EJ &gt;&lt;D BdHD H?_I HJ &lt;=D H?J HBL Y@HdBJ D E=J ED ?I I O D HI ?J HKCHI ?J &lt;D B?@KKHB=D L _H&gt;&lt;dJ &gt;HBHN&lt;KL M L =?J L &lt;@B?[H=J J &gt;HL D&gt;L HD ?D =&gt;L =?I?BBHN_I OUr @F?D J L =EI ?D ZJ &gt;HFD HBH@=H&lt;MD ?CC FH?fBL @J &gt;H`gh`K?J ?B&gt;HKBI L C&gt;J&lt;@&gt;&lt;dBL @CI HCHIM L _D HB=?@ F?=fJ &lt;M &lt;D N I ?D CHD_E@KI HBZ?@KJ &gt;?JL @B&lt;NH=?BHBZJ &gt;HBH _E@KI HBB&gt;&lt;d=D OBJ ?I I L @H&lt;D KHD L @CU r J=?@_HBHH@M D &lt;NJ &gt;H`gh`K?J ?k XL CUamJ &gt;?JB?NFI HB&lt;M &lt;D C?@&lt;CHIk BJ D E=J ED HB&gt;&lt;d@L @XL CUa?mK&lt;@&lt;JKL BFI ?O?@O &lt;D KHD L @CJ &gt;?Jd&lt;EI KI H?KJ &lt;J &gt;HFD HBH@=H&lt;MD ?CCFH?fBZ?@K J &gt;?JJ &gt;HK?J ?=?@_HN&lt;KHI I HKEBL @C?=OI L @KHDM &lt;D NM ?=J &lt;DdL J &gt; ?@?@L B&lt;J D &lt;FL ==D &lt;BBT BH=J L &lt;@U&lt;dHGHD ZN&lt;KL M L =?J L &lt;@&lt;MJ &gt;H =O=I L =BfHI HJ &lt;@J &lt;k XL CUa?mKD ?BJ L =?I I O=&gt;?@CHBJ &gt;HB=?J J HD L @C </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>£¤ Í ÎÏÐ |Xq p __Y Y_pp _i^X\ [_sp o[i[\ s zXii[hu\ vX^q _ii\ [Ytp oi^X\ [i \ [XgZ Ytp _t[\ Xp Z _Ye Ñ ÒÓÔÕÕÖÕ×ØÔ¿ÙÚ Û Ü Ý ÞßàáÚ â¿Ý Û Ú Ü ÞÕ×ãÖ ÑÛÁÕäßãÖ ÑÛ ÁÕäßãåaeçèèßàéÀ êë ÙÑÚ Ö ìíÑâ¿À ÑíÑÙÛîÁÖ ÑÛ ÁÕäÀ ÑÓÀ ïð ñ ÒÓÔÕÕÖÕ×òÔÞÛ Ú ÓÛ ßóóôÚ Ö Ö ÛòÔÞÛ Ú ÓÛõÑñÕÝ ÑÜ ÕÝ ÞßàáÚ â¿Ý Û Ú Ü ÞÕ×öÝ Ú Û Ü ÕÖ ß ÷ÞáíÑÖ Öøâ¿áï¿ßöÝ Ú Û Ü ÕÖ ßöÒçå÷õßàé Ó öÝ Ú Û Ü ÕÖØ¿áÜ Ý ¿× ÕÝùïáÓÜ Ú ÕáÑÖúÑáÕÙÑÜ ¿Ý Ú ÑÖ Û ßóóôÚ Ö Ö ÛòÔÞÛ Ú ÓÛõÑñÕÝ ÑÜ ÕÝ Þß àáÚ â¿Ý ÛÚ Ü ÞÕ×öÝ Ú Û Ü ÕÖ ß÷ÞáíÑÖ Öøâ¿áï¿ßöÝ Ú Û Ü ÕÖ ßöÒçå÷õßàéÀ êë ÙÑÚ Ö ìÑáá¿Ö ÑÀ Û ¿ííÕáîñÝ Ú Û Ü ÕÖ À ÑÓÀ ïð û[^[Z c[güipW[^[hu[qýþýüa f^^[rp [gÿp o0[uq wXq výþýý W12 $ÿ &amp;''#( ( ÿ &amp;) * + ', #-ÿ ./0, + ( 1#2ÿ 3$ÿ 45ÿ 6#0) /7) 8ÿ 9499-ÿ :3;$, 372#2ÿ 3$ÿ &lt;&lt;= &gt;= 949?ÿ @A &lt;@A 4Bÿ .C-ÿ ÿ D1+ ( ÿ 7) * + ', #ÿ + ( ÿ , + '#$( #2ÿ /$2#) ÿ 7ÿ E) #7* + F#ÿ E3GG3$( ÿ &amp;* * ) + 0/* + 3$ÿ &gt;-4ÿ H$"3) * #2ÿ I+ '#$'#-JK LMÿ OP Q K RS Lÿ TUS K UL JK LMÿ V WXP UYSÿ Z ÿ JK LMÿ [ \\XL ÿ ! ÿ ! ÿ " #! ÿ $ %&amp;&amp;'$ %(ÿ)ÿ " *+,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>x x 433&lt;y yP e&gt; =:KR :z//89/&lt;1 . 541&gt; 43443&lt;1 &gt; 57A395B4345067 34 @&gt; 1 27 /@9/&lt;1 .5414951  1 3.@35`7 D5&lt;86. /F&gt; 836//.[B57 &gt; 1 D851 5: e/.A/1 2XC^X5&lt;8XCsX?1 234951 1 3. &gt; &lt;=&gt; 45&lt; 5F3. 5=3 . 36. 343&lt;1 51 &gt; /&lt; /-545067 3:;2&gt; 4035&lt;41 251-/.45067 34 9/&lt;1 5&gt; &lt;&gt; &lt;=0B7 1 &gt; 67 38&gt; W3. 3&lt;141 . B91 B. 34?1 234951 1 3. &gt; &lt;=6. /-&gt; 7 3 @&gt; 7 7A359/0A&gt; &lt;51 &gt; /&lt;/-1 23&gt; &lt;8&gt; F&gt; 8B574951 1 3. &gt; &lt;=651 1 3. &lt;4/-1 23 9/06/&lt;3&lt;1 4:;2&gt; 457 4/5667 &gt; 34-/.6/7 D8&gt; 463. 438&gt; 41 . &gt; AB1 &gt; /&lt;4/-1 23450341 . B91 B. 34P t j mj ?5. 5&lt;=3/-4&gt; U34/-4623. 3R :p/&lt;/8&gt; 463. 43 41 . B91 B. 3405D42/@ 8&gt; 41 &gt; &lt;91-351 B. 34&gt; &lt;1 234951 1 3. &gt; &lt;=9B. F3 @2&gt; 92@/B7 8&lt;/1A3433&lt;&gt; -1 2345067 3@546/7 D8&gt; 463. 43: KH ;2&gt; 4 95&lt;A3830/&lt;41 . 51 38AD1 23957 9B7 51 38-/. 0 -591 /.4951 1 3. &gt; &lt;= 651 1 3. &lt;4-/.{H&lt;0 7 /&lt;=9D7 &gt; &lt;83. 4@&gt; 1 2I&lt;0 . 58&gt; B4@&gt; 1 25&lt;8 @&gt; 1 2/B15z5B44&gt; 5&lt;6/7 D8&gt; 463. 4&gt; 1 D&gt; &lt;. 58&gt; B4P e&gt; =:{R :X057 75&lt;=7 3 4951 1 3. &gt; &lt;=1 392&lt;&gt; [B3495&lt;1 23. 3-/. 3A3B4385450354B. 3/-6/7 D8&gt; 463. 4&gt; 1 D&gt; &lt;545067 3: |}~ ~ ;23. 35. 36. /45&lt;89/&lt;4@&gt; 1 2A/1 2XC^X5&lt;8XCsXXC^X&gt; 45 1 392&lt;&gt; [B31 25195&lt;A3B&lt;83. 1 5`3&lt;&gt; &lt;1 237 5A/. 51 /. D54@37 75451 4D&lt;92. /1 . /&lt;4/B. 9345&lt;8.3[B&gt; . 34F3. D7 &gt; 1 1 7 345067 36. 365. 51 &gt; /&lt;: 4&gt; &lt;=52&gt; =2-7 B]4D&lt;92. /1 . /&lt;4/B. 93?XC^X651 1 3. &lt;495&lt;A3 ¡ ¢ £¢ ¤ ¥¢ ¥ ¦ ¢ ¢ §© ¤ ¥ª«©¬ª¤ ¥ ® ¤¦ ª ¤ ¥¤ ¢ ¬ ¥¦¥¢ ¬¯¥°¢ ±² ³ ´© ´³ ¬¤µ ¢ ª ¥ ¢ § ¶ ª¢ ¦¥« § ¢ § ª¤¢ ¤ ¥ª ¢ ©ª ¢ §¦« ¤£ª¢ ª¥ª ¢ © µª¢ ¥ ¥¢ µ• §¤µ ¢ ªª ±¢ « ¢ ¯¸¯°¢ ¥¦¥ª¹ ¢ §º¦¥¥¢ µª¢ ¥ ¥¢ µ¢ ª¢ ¦¥ ³ ¶ § ª¤¢ ¤ ¥ ¤ »¼½ ¾¿À¾¾ÁÂ ÃÄ¾¼ÂÅ ÀAEÇÁÈÅ ÁÉ ÊËÌÍÿ ÏÐÐÌÑ Ñ ÿ ÏÒ Ó Ô ÐÕ ÌÖ ÿ ×ØÙÕ Ô Ñ ÚÌÛÿ ÜÍÿ ÝÞÿ ßÌÙÒ ØàÒ áÿ âÝââÖ ÿ ãÜäÍÕ ÜàÛÌÛÿ ÜÍÿ ååae çae âÝâèÿ éê åéê Ýëÿ ×ìÖ ÿ ÿ íÚÔ Ñ ÿ àÒ Ó Ô ÐÕ Ìÿ Ô Ñ ÿ Õ Ô ÐÌÍÑ ÌÛÿ ØÍÛÌÒ ÿ àÿ îÒ ÌàÓ Ô ïÌÿ îÜððÜÍÑ ÿ ÏÓ Ó Ò Ô ÙØÓ Ô ÜÍÿ çÖ Ýÿ ñÍËÜÒ Ó ÌÛÿ òÔ ÐÌÍÐÌÖ óô õöÿ øù ú ô ûü õÿ ýþü ô þõ 0 7/=: 2 &gt;8: B40 : &lt;,0 &lt;: /48: /&lt;38w/,0</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>-A+? A0? , 4 /K3 AM.-6.B 4 -4 +K.3 B A3 /.1DI4 :7? ? ,C06.:-6.B 4 -4 +2? A+.-A -6.17-7C7? ?K73 7/.-.3 +73 .B 4 --.1-A@.-6.3 DY6.@AA1:.++ABB 4 -7--64 +KA4 :-1.-.3 /4 :.+06.-6.3-6.26A+.:/A1.?4 +7KK3 AK3 4 7-.D lAA1:.++ABB 4 -4 +1.-.3 /4 :.1-63 AL@672A/54 :7-4 A:AB/.7:+ 4 :2? L14 :@+-7-4 +-4 2+c +L267+-6.3 .1L2.1m Q 8 C-6.B 4 -3 .+4 1L7? +7:1 5,.,.DH B-6.26A+.:/A1.?B 4 -4 +:A-:.73-6.17-7C1A.+:A-27K-L3 .G.,B .7-L3 .+c +L267+A+24 ? ? 7-4 A:+8 CA367+764 @63.1L2.1 m Q 714 B B .3 .:-/A1.?A3KA? ,14 +K.3 +4 -,/7,5.3 .hL4 3 .1D]4 B B .3 .:-/A1.? +04 -64 :72? 7+++6AL? 15.-3 4 .1L:-4 ?7@AA1B 4 -4 +7264 .M.1D Y6./A1.?064 267264 .M.+-6.5.+-B 4 -4 +-7G.:-A5.+-1.K4 2--6.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>3 D d.B A3 .B 4 --4 :@C72? .735L/K27:5.+..:4 :-6.B 4 -7-64 @69DRB -.3 B 4 --4 :@C-6.6A? ? A02A3 .3 714 L+B 4 -+-A7M7? L.2? A+.-A[.3 A7:1-6. 5L/K@A.+DH -4 +4 /KA3 -7:--A:A-.-67--6.3 .1L2.1m Q B A3 -64 +B 4 -07++LB B 4 24 .:-? ,? A0C5L--6.B 4 -K73 7/.-.3 +1.K4 2-.17 +L5P R:@+-3 A/ 6A? ? A02A3 .3 714 L+no.:2.C-64 +@4 M.+7+-3 A:@ pq rst uvw xyw vz {|}xvz z { vz z {} y} v} { ~| } {}{}{{} ṽ| y} w v{w w v{ z x{}}v|xw |{} ṽ| y}v|w {z pq rs {vw {{{v|{w {}v}yx {z w w {|yx{|m vw y{yzz { z|{ xz }y{vw }z x}z ỹxz y{}{{z zw {}|{ xz w w xw |{}{ { ṽ| y}z x{}}v|w {z ¡ {|w {v|v z {~ ṽ| y} z x{}}v|w {z ¡ {w w w { z z z {ṽ| y}v|z x{}}¢ z } }z vx{z {{w w z v}v{|yx{|m v|z {{| zv{|yx{|m £ ¤{|yx{| { ¥¦ y §¨©v}vw w ª¥ {z x¥©x¥vw w §«}¨¬ {z u® w }¤x{ }v|¥¨|v}¯°±²³´µ ¶ ³ •¸ ¡£¹¡£ z { }} z {¤vwx {z u{ }z º»¼ ½¾¿½½ÀÁ ÂÃ½»ÁÄ ¿ÅAEÀÇÄ ÀÈ ÉÊËÌÿ ÎÏÏËÐ Ð ÿ ÎÑ Ò Ó ÏÔ ËÕ ÿ Ö×ØÔ Ó Ð ÙËÚÿ ÛÌÿ ÜÝÿ ÞËØÑ ×ßÑ àÿ áÜááÕ ÿ âÛãÌÔ ÛßÚËÚÿ ÛÌÿ ääå aeå áÜáçÿ èé äèé Üêÿ ÖëÕ ÿ ÿ ìÙÓ Ð ÿ ßÑ Ò Ó ÏÔ Ëÿ Ó Ð ÿ Ô Ó ÏËÌÐ ËÚÿ ×ÌÚËÑ ÿ ßÿ íÑ ËßÒ Ó îËÿ íÛïïÛÌÐ ÿ ÎÒ Ò Ñ Ó Ø×Ò Ó ÛÌÿ aeÕ Üÿ ðÌÊÛÑ Ò ËÚÿ ñÓ ÏËÌÏËÕ òó ôõÿ ÷ø ù ó úû ôÿ üýû ó ýô</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Q3, 8, -:26 :480-06 58, -D1 34.01 0018=06 68/01 1 47 , -D:4/1 27 8? Q3486 2I42&lt;0e9, -, 47I6 21b 6 -| b }d~ } G d016 2;}, 8&lt; , 1 1 4.1 2 D, :41 34{ ?Q34e9, -, 477 46 01 , 2-83, I, 8D, :4-, -4[-b Xd ? | b }d| b ^d 4PIb } G { D G Xd b Xd H47 4| b }d, 81 34, -1 4-8, 1 5010D, :4-8/01 1 47 , -D:4/1 27 A| b ^d, 81 34 8/01 1 47 , -D, -1 4-8, 1 501}^A}, 81 348/01 1 47 , -D:4/1 270-.{ D , 8 1 3470., 982&lt;D57 01 , 2-?Q34e9, -, 470-06 58, 8/0-C40II6 , 4.1 20 7 0-D42&lt;I07 1 , /6 4830I48C9183296 .2-6 5C40II6 , 4.1 2., 6 91 4A , 821 7 2I, /0-.=2-2., 8I47 8480=I6 48? V Q34} =, -0-.} =0P 2:47 ;3, /31 34.01 007 4&lt; , 1 1 4.=981C4/3284-0II7 2I7 , 01 46 51 2D41 D22.74896 1 8?W4:, 01 , 2-&lt; 7 2=6 , -407 , 1 5, -1 34e9, -, 477 4D, 2-=05 I7 4:4-10D22.&lt; , 1 A06 1 329D31 3, 8.4:, 01 , 2-/0-C4, -&lt; 27 =01 , :4 C4/0984, 1, -., /01 4880=I6 4I26 5., 8I47 8, 1 5270DD7 4D01 , 2-?R27 4P0=I6 4A0h h 7 26 6 U 2:47 i i I40L, -1 34e9, -, 47I6 21b R, D?d308C44-01 1 7 , C91 4. 1 2 &lt; , C7 4 0DD7 4D01 , 2-, -6 2; =26 4/96 07;4, D31 D46 8? V^A V Q34e9, -, 470-06 58, 8, 82&lt; 1 4-9-89, 1 0C6 4&lt; 271 34:47 5 46 2-D01 4.MW81 7 9/1 97 48&lt; 29-., -6 2;=26 4/96 07;4, D31D46 8 1 347 4&lt; 27 4=2., &lt; , 4.e9, -, 47I6 21 830:4C44-984.?Q349842&lt;0 =2., &lt; , 4.e9, -, 47I6 21 A&lt; 274P0=I6 41 2=40897 41 341 3, /L-4882&lt; 080=I6 4;, 1 30-0-, 821 7 2I, //7 288U 84/1 , 2-A0-.1 344[901 , 2-8 ;3, /3D2:47 -1 3, 8&lt; , 1/0-C4&lt; 29-., -;27 LC5Q47 4/3? V^A Z^N -4P/46 6 4-12:47 :, 4;2&lt;1 340II6 , /01 , 2-2&lt;1 34e9, -, 470;1 067 0., 98.47 , :4.? ZG Q47 4/30-./2U ;27 L47 830:4&lt; , 1 1 4.8=06 60-D6 48/01 1 47 , -D.01 02&lt;6 2;=26 4/96 07 ;4, D31D46 81 2=2., &lt; , 4.e9, -, 47I6 21 8&lt; 27C21 37 , CC2-U 6 , L4 81 7 9/1 97 48 V^0 -.6 0=46 6 07 U 6 , L481 7 9/1 97 48? Z^Q 34e9, -, 470-06 58, 8 3086 , =, 1 01 , 2-8C4/09841 347 0., 982&lt;D57 01 , 2-.248-21&lt; 96 6 5 .48/7 , C41 348, `40-.1 34&lt; 27 = 2&lt;1 3481 7 9/1 97 49-.4781 9.5? ¡ ¢ £¤¥¦ §©¢ ª « ¬®¥ ¯° § ¡ ¬±¯®°² ¡ ¬³´°© £µ ¶£ ¢ ¢ ¢ § £µ•£ ¢ ¸« ¬´¹° § ¬º±° ¡ ¬®º°© ¥ ³ » ª « ¸ ¼ ¸ ¡£µ•£©¼ « £µ ¶£© ¥½ ¡¥© ¸¢ ¾¥¿¥ §¦¥£ §À¥Á §¿¥Â¥Ã § £¥¿¡ §¦¥À §µ¥£¥Â¥µ §¸ ¢ Ä «Å AEÀ¦AE ¡Ç¦ÈÀ¥²ÇµÀ« ¡É Ê®º¹© À ¼ ÀÀÀÅÁË1 ¥ ®© ¥ ÌÍÎÏÐÑ ÒÓÔÕÖÑ Õ× ØÏÙ ÎÚÒÎÎÕÐ ÛÜÝÞÿ àááÝâ â ÿ àã ä å áae Ýç ÿ èéêae å â ëÝìÿ íÞÿ îïÿ ðÝêã éñã òÿ óîóóç ÿ ôíõÞae íñìÝìÿ íÞÿ öö÷ ø÷ óîóùÿ úû öúû îüÿ èýç ÿ ÿ þëå â ÿ ñã ä å áae Ýÿ å â ÿ ae å áÝÞâ Ýìÿ éÞìÝã ÿ ñÿ ÿã Ýñä å 0Ýÿ ÿí11íÞâ ÿ àä ä ã å êéä å íÞÿ øç îÿ 2ÞÜíã ä Ýìÿ 3å áÝÞáÝç 45 67ÿ 9 5 6ÿ 5 6ÿ ! ÿ ! ÿ " #! ÿ $ %&amp;&amp;'$ %(ÿ)ÿ " *#+</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>S2 ; ;2 &gt;81 0-70. 4-:-c2 :@: . /0&gt;6081 0-70-7pq Q-./2 9/QC_ ? . /078-. . 01 2 &gt;92 7? 1 4: . /1 00[ 62 :0&gt;72 4&gt;-;4Bm 08. 7P. /0/2 9/Q 6-. -S2 ; ;. -Z0. /0? 41 :W T QVy pq Q &lt; C \\ O.; 4SQP2 &gt;:-&gt;A8-707 -; -1 9030-Z2 &gt;. /0u1 -. ZA3; 4.8-&gt;B04B701 506S/2 8/841 1 0[ 734&gt;67. 473-. 2 -;2 &gt;/4:490&gt;02 . AS2 . /2 &gt;. /090; C \i z{JH E FLH|FH G}M J~NO&gt;0c. 1 0:0; A34S01 ? @;</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>2 84:34&gt;0&gt;.90; 7. 460. 01 :2 &gt;0S/0. /01. /084:34&gt;0&gt;. 7-1 0 70; ? [ 741 . 064184[ -770:B; 06C \v _ &gt;-.S4[ 84:34&gt;0&gt;.70; ? [ -770:B; 06 90;2 &gt;-60@. 01 -. 0674; 50&gt;. P2 ?4&gt;04?. /090; -. 41 72 760@. 01 -. 06P. /0 eOe3-. . 01 &gt;S2 ; ;-1 2 7074; 0; A? 1 4: . /0&gt;4&gt;[ 60@. 01 -. 0690; -. 41 C _ ?. /0. S484:34&gt;0&gt;. 7-1 070; ? [ 741 . 06P. /078-. . 01 2 &gt;93-. . 01 &gt;7/4@; 6 ; 44Z2 60&gt;. 2 8-;. 4. /0@&gt;[ 60@. 01 -. 0684:34&gt;0&gt;.-; 4&gt;0Ce2 :2 ; -1 ; AP2 .2 7 34772 B; 0. 484&gt;. 1 -7.:-. 8/4@.4&gt;04?. /084:34&gt;0&gt;. 7BA:2 c2 &gt;9 /A61 490&gt;-. 06-&gt;660@. 01 -. 0674; 50&gt;. 72 &gt;62 ? ? 01 0&gt;.1 -. 2 47. 4:-. 8/ . /078-. . 01 2 &gt;9; 0&gt;9. /60&gt;72 . A. 4. /-.4?4&gt;04?. /084:34&gt;0&gt;. 7C ip b07. 1 077. /-.. /0700c301 2 :0&gt;. 7-1 084:3; 0c-&gt;6. A32 8-; ; A1 0U@2 1 0 4. /01. 08/&gt;2 U@07. 41 02 &gt;? 41 80-&gt;A84&gt;8; @72 4&gt;7? 1 4:. /0eOe6-.-C ¡ ¢ £ ¡ ¤ ¡ ¥¦¡¡ £ §¨©ª«¨¬ª¨ª ® ¦¡¡ £ « ¯®¢ ¡® «¯ ® § ° ® ± § «¨ §² ¢®«³ §´¯®¯ §µ « ¶•¸¹º»« ©ªª¬«¼½¾¿¼½ÀÁ «ªÂÃªÄ §Å AE ©ªª¬« ® ® Ç È §ÉÊË ÌÍÎÌÌÏÐ ÑÒÌÊÐÓ ÎÔÕÏÖÓ Ï× ØÙÚÛÿ ÝÞÞÚß ß ÿ Ýà á â Þã Úä ÿ åaeçã â ß èÚéÿ êÛÿ ëìÿ íÚçà aeîà ïÿ ðëððä ÿ ñêòÛã êîéÚéÿ êÛÿ óóô õô ðëðöÿ ÷ø ó÷ø ëùÿ åúä ÿ ÿ ûèâ ß ÿ îà á â Þã Úÿ â ß ÿ ã â ÞÚÛß Úéÿ aeÛéÚà ÿ îÿ üà Úîá â ýÚÿ üêþþêÛß ÿ Ýá á à â çaeá â êÛÿ õä ëÿ ÿÛÙêà á Úéÿ 0â ÿ "ÿ #ÿ $% ! ÿ &amp;' #( %ÿ ) ÿ *#+ ( %ÿ</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head></head><label></label><figDesc>x p r yrz z r{q tvq rtz z w uq w |mz|}z w s~tp vmvq yttz mq w rsup r|tt~vtup r ~|t~x p rp mutp w tq p w |y|z m}op mvstq q ~w m~ty mq msw ~w vmp p w sow |y{tw svt~~rs~mv ¡¢£ ¤{w q yutp w vvw rsx p r z vt¥w tpl oru}p w yq¦ ns~tpq ytop tmq w ¥torrsvoo §l ¥tp vw rs¢ nz w |tsvt ¯°±²³μ ¶•¸¹´º »²¼ ±½µ±±¸³ ¾¿ÀÁÿ ÃÄÄÀÅ Å ÿ ÃAE Ç È ÄÉ ÀÊ ÿ ËÌÍÉ È Å ÎÀÏÿ ÐÁÿ ÑÒÿ ÓÀÍAE ÌÔAE Õÿ ÖÑÖÖÊ ÿ ×ÐØÁÉ ÐÔÏÀÏÿ ÐÁÿ ÙÙÚ ÛÚ ÖÑÖÜÿ ÝÞ ÙÝÞ Ñßÿ ËàÊ ÿ ÿ áÎÈ Å ÿ ÔAE Ç È ÄÉ Àÿ È Å ÿ É È ÄÀÁÅ ÀÏÿ ÌÁÏÀAE ÿ Ôÿ âAE ÀÔÇ È ãÀÿ âÐääÐÁÅ ÿ ÃÇ Ç AE È ÍÌÇ È ÐÁÿ ÛÊ Ñÿ åÁ¿ÐAE Ç ÀÏÿ aeÈ ÄÀÁÄÀÊ çè éêÿ ìí î è ïð éÿ ñòð è òé ÿ ! ÿ ! ÿ " #! ÿ $ %&amp;&amp;'$ %(ÿ)ÿ " *#+</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>¡</head><label></label><figDesc>¢£¤¢¥¦ § ¦©ª § «¬S«¦® ª ¯® °¯¬¯ § ® ¥¬±± § ²¥® ¬¥³´µ© ¶«¦°• ±¸ª ©²¯¹ º«¬©¯¬°±«¦¯¬±±«©» § «¬¥¦ § ¦¦°¥ § «¬±©¼ ® ¥¼ ® °¬±±«©» § «¬® § ± § © § «¬¥¦ § ¦ ¦±¥® ± ¶²±±¬¥® ° § «¬ § ¬½ § ¹¾¬¯ª ® ° § ¬¥»® § «¯¬ª ¿® ±±® ©°ä ©¿ ¾¹£¹À²¼ ¬Á¾¹µ¹ ¤¦¸¦ª Â¦ª ÁÃ¹À¦¿¿©²¥¦ÁÄ¹µ¹¢ ¶«°¬® ¥¬ª¦°¥Å¹Ä¹µ© ¶«¦°ÁAEÇÈÉ ÊËÊÌ ÍÈÎÌ ÍÏÁ ÐÑÑÒÁÓÔÁÕÖ×ÕØÕÖÙÚ¹Û©¯´ª ® ¸« §Ü ÐÑÑÒ£¿¬ª ® ¶¦°Û«¬¿® ¶¦¼¢© ¶® ¬ § ´¹ÝÞß àáâààãä åaeàÞäç âèéãêç ãë ìíîïÿ ñòòîó ó ÿ ñô õ ö ò÷ îø ÿ ùúû÷ ö ó üîýÿ þïÿ ÿ0ÿ 1îûô ú2ô 3ÿ 4ÿ44ø ÿ 5þ6ï÷ þ2ýîýÿ þïÿ 778 98 4ÿ4ÿ 7 ÿÿ ùø ÿ ÿ üö ó ÿ 2ô õ ö ò÷ îÿ ö ó ÿ ÷ ö òîïó îýÿ úïýîô ÿ 2ÿ ô î2õ ö îÿ þþïó ÿ ñõ õ ô ö ûúõ ö þïÿ 9ø ÿÿ ïíþô õ îýÿ ö òîïòîø ÿ ÿ</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>ÿ ! ÿ ! ÿ " #! ÿ $ %&amp;&amp;'$ %(ÿ)ÿ " *#"</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>ÿ ! ÿ ÿ "ÿ #ÿ $% ! ÿ &amp;' #( %ÿ ) ÿ *#+ ( %ÿ</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>ÿ ! ÿ "#! #</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>ÿ ÿ ÿ !ÿ "ÿ #$ ÿ %&amp; "' $ÿ ( ÿ )"* ' $ÿ</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>ÿ !" ÿ ÿ #ÿ $ÿ %&amp;!" ÿ '( $) &amp;ÿ * ÿ +$, ) &amp;ÿ</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">+</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="0123-04">0 123.4 52607830 180</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">&lt;</forename><surname>=&gt;</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">?@?abc</forename><surname>D= E D</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">+</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-/</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<idno>12HI J0 K9 2783</idno>
+		<title level="m">L?ABC D= E D: MG20 29 HI 62G/ 9</title>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">+</forename></persName>
+		</author>
+		<idno>S89 8H20 29 3729 2I 6SK0I 60 .0 12/ I 0 0 I 6Q3./ 0 789 286GT2S0</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">I Q6I / I N8600 1I 37.K4 G W2WOH86K84 4 ON186QI 6Q0 12+</title>
+		<idno>86G0 123N84 2584 K23G.6.0 N186Q2G9 8H80 I N84 4 O.52983263I W4 29 86Q2./G263I 0 I 23&gt;Z85I 6Q320</idno>
+		<imprint/>
+	</monogr>
+	<note>1I 37I 4 48V2N00 123N84 2S89 8H20 29 MWK06</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">186G9 8GI K3800 12I 6I 0 I 84584 K23&lt; 9 2G/ I 0 M[I Q&gt;BC8F &gt; Z85I 6QG</title>
+		<idno>12+,-584 K23M0 123N84 286GW8NTQ9 .K6G729 284 4 .72G0 ./ I 0 M T22SI 6Q4 26Q0</idno>
+		<imprint/>
+	</monogr>
+	<note>620 1I 3M0 129 8GI K386G4 26Q0 13729 284 3.84 4 .72G0 ./ I 0 &gt; [9 .H0 12/ I 684/ I 0&lt; W4 K2G80 8M[I Q&gt;BC8F MI 0I 3N4 2890 1800 1I 3/ I 0G.23</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">&lt;</forename><surname>Bccef</surname></persName>
+		</author>
+		<idno>&gt;R12] : G9 .SS2GI HH2GI 80 24 O0 .89 .K6G@PM71I N1 G9 .SS2G/ K9 0 1290 .@:71260 12_K164 26Q0 178384 3.84 4 .72G</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">589 O&gt;R1I 3529 O1I Q1] : 584 K2I 3GK20</title>
+		<imprint/>
+	</monogr>
+	<note>0 12S.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">GI K3M0 12NO4 I 6G29784 40 1I NT6233M NO4 I 6G294 26Q0 1M3N84 2MW8NTQ9 .K6GM+</title>
+		<imprint/>
+	</monogr>
+	<note>I 6QS89 8H20 29 3b8N.9 29 8. I 6G2986G+,-3</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">/</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename></persName>
+		</author>
+		<idno>584 K23F M0 123N84 286GW8NTQ9 .K6G729 284 4 .72G0</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">] : I 38Q8I 61I Q1M</title>
+		<idno>86G0 12/ I 0I 3S..9 M8Q8I 66.0N8S0 K9 I 6Q0 12 WKHS80PABC D: E DB &lt; [I Q&gt;BCNM9 2GG80 8F &gt;\00 1I 3S.I 60 MH86K84 I 6SK0 0 I 6Q./GI V29 260584 K2331.72G0 18089 8GI K3./PCE86G</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">I 6Q0 12 3N84 2M9 8GI K3M86G0 1I NT62330 .589 OW9</title>
+		<idno>KQ100 12/ I 0N4 .320 12G80 8 &lt; [I Q&gt;BCNMW4 K2G80 8F &gt;Z.72529 M0 12/ I 04 I 62I HS4 I 230 1800 12 G80 889 23I Q6I / I N860 4 OH.9 2S.4 OGI 3S29 320 1860 12/ I 0I HS4 I 23 &lt; 3228W.52F &gt;\+N1K4 XS.4 OGI 3S29 3I 0 O7830 129 2/</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">4 GW2N1.326&gt;cOH86K84 4 OI 6SK0 0 I 6QGI V29 260584 K23</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">E DB &gt;\33KN1M0 129 2I 34 I 0 0 4 2S.I 60I 6 I 6N4 KGI 6QS</title>
+		<idno>K6G0 12WKHS80PABC D:</idno>
+		<imprint/>
+	</monogr>
+	<note>4 OGI 3S29 3I</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">8F &gt;e20 K9 6I 6Q0 .0 12G80 87I 0 1.K0S</title>
+		<idno>OGI 3S29 3I 0 O 86G0 1262J8HI 6I 6Q.64 O8+N1K4 XS.4 OGI 3S29 3I 0 OI 60 1I NT6233M 0 12/ I 025267I 0 18S89 8H20 29831I Q183C&gt; P9 23K4 0 3I 68HKN1 7.9 32/ I 0 M7I 0 18] : ./BB=&lt; [I Q&gt;BCGMQ9 226G80 8F &gt; Z26N2M.60 12W83I 3./84</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">G247I 0 181I Q1+N1K4 XS</title>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>4 OGI 3S29 3I 0 OI 69 8GI K3783G22H2G</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">123I 30 1801</title>
+		<idno>W20 12W230/ I 0 M839 2S.9 0 2GI 60 124 I 0 29 80 K9 2&gt; =f R12G80 8N.K4 G W2/ I 0 0 2G0 .8N.9 2g3124 4H.G24I 671I N10 123N80 0 29 I 6Q4 26Q0 1 G263I 0 OS89 8H20 29 389 2589 I 2G&gt;U /0 121OS.0</idno>
+		<imprint/>
+	</monogr>
+	<note>4 4 .7 NO4 I 6G29 389 2/</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m">H2GI 3N.9 9 2N0 M0 12N</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">5260&lt; I 60 1I 3N832</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">F &gt; hijkl m l nkkl onop l knqnr sp jt uR</title>
+		<idno>1262J02J8HS4 2721852N1.326</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<idno>86W2GI 3S29 32GI 6780 29801I Q1SZWO0 128GGI 0 I</idno>
+		<title level="m">S126O4 S9 .S86.I N 8NI GM</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">184</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">S1I</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">9 80 I .6./BCHQH</title>
+		<idno>DB &lt; 830 86G89 GN.6N260 9 80 I .6K32G/ .94 .7</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">#+ (</forename><surname>%ÿ</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>/01. 234/5 6786/. . 5 96:2,;. /:&lt; =&gt;7/?@A?,/2:13 /,/98 : 4/3 /023 3 5 /B-185 9C-8 7D</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>F= Mn O/</surname></persName>
+		</author>
+		<idno>75 67. 5 6782625 98 7284/:7-4/B8 7288 75</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="9" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>F29bg E F</surname></persName>
+		</author>
+		<idno>72:29/6. 5 65 C. //P/085</idno>
+		<imprint>
+			<biblScope unit="page" from="9" to="82" />
+		</imprint>
+	</monogr>
+	<note>42K:8 3 1/ L -38 75 :Q5 9B-L:K:8 /,= REH RR &gt;7/?@A?B28 2L -3EI2;SS5 9G E F 029C/L 5 8 8 /B8 -20</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J/</forename><surname>Bl</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">98</biblScope>
+		</imprint>
+	</monogr>
+	<note>8 7/L 5 8 :23 /B5 P/3 /98C18 H5 9C-8 7 02:/:H. 5 /-18 :5 B/8 7/Z3296/-L8 7/5 9:8 3 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">=</forename><surname>O//T;</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>5 8 /B0-98 3 2:8,28 075 962;;3 -207/:8 -B/8 /3 ,5 9</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">J/. K</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">/</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">/</forename></persName>
+		</author>
+		<idno>. K0. -:/8 -8 7/B28</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>L 3 -, G E F 8 -D E F B-/</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="9" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<idno>L -3EBI2;SS42:2. ,-:85 B/98 5 02. 8 -8 728-LEI2;SSX S5 6=[EC&lt; =&gt;7/L 5 88 -8 7/B28 2L -3EI2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BSBS</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="88" to="88" />
+		</imprint>
+	</monogr>
+	<note>23 2,/8 /3 :-C8 25 9/BL 3 -, 8 7/L 5 8J23 5 /BX S5 6=[E2&lt; =S-3 /T2. 8 7288 7/0K. 5 9B/35 :J/3 K8 75 9X S5 6=[E2&lt; H45 8 7242. . 8 75 0Q9/::-LN= \9, 29B23 2B5 1:-LE= W9,=^:5 968 7/:/B28 2H</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">45 8 703 K-] &gt;_`B28 229B0</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="28" to="33" />
+		</imprint>
+	</monogr>
+	<note>5 9:5 678 H4/ 4/3 /8 7/3 /L -3 /2C. /8 -:7-48 728EI2;SS:/</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">EI2</title>
+		<idno>SS72J/8 4-2;;23 /98;e 2 J2. 1/:H475 074/ 2:03</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<idno>5 9/B:8 3 108 13 /:U5 L0-.</idno>
+		<imprint/>
+	</monogr>
+	<note>2;:/. /2B:8 -3/. 28 5 J/. KB5 :-3 B/3 /B ;20Q5 96H8 7/3 /45 . .9-8C/4/. . ] B/L 5 9/B:/08 5 -9:45 8 75 98 7/ 2663 /628 /:8 72823 /B/18 /3 28 /B=</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">+</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-</forename></persName>
+		</author>
+		<idno>1078/3 5 069:5 899418;&lt; =-9&gt;?@.A B -62-.83 -69C0D</idno>
+		<imprint>
+			<biblScope unit="page" from="123" to="145" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<idno>KL M? .05 5 1/4062/3 08518D/48.1F8D E107</idno>
+		<title level="m">ED 8505 2151F16-63 ,191D/3 83 1&gt;G</title>
+		<imprint>
+			<date type="published" when="1418">1418</date>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="3" to="69" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E/</forename><surname>B3</surname></persName>
+		</author>
+		<idno>D8//1CQD R073 ,1/1C83 15 -8D /&gt; S-C-D 85 D RB05 986091D 83 05T&lt; =-9&gt;?@8A83D 0+.06.163</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="83" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">/</forename></persName>
+		</author>
+		<idno>05 5 1/40623 0C0D 1.ED 8505 215 -69068/UE85 1D 83 3 -.1</idno>
+		<editor>2A B +,-.</editor>
+		<imprint>
+			<date type="published" when="0511">0+/3 ,145 1/16.1073 ,5 11/3 5 069. 5 899418</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>D R/</surname></persName>
+		</author>
+		<idno>41.-7 -.86295 0+3</idno>
+		<imprint>
+			<biblScope unit="page" from="7415" to="7417" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<idno>69862E6215 /3 862-69D 0+ C0D 1.ED 85+1-9</idno>
+		<title level="m">+63 ,140+1507/C8D D 869D 1</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="15" to="697" />
+		</imprint>
+	</monogr>
+	<note>F-1+B+1,0413 ,83+1,8F1. 391D /&gt;`1,8F17 0E623. 863 D R3 00E5E6215 /3 862-6907/E.,/R/3 1C/B</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">+-3</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>1R82F863 891/0F1503 ,153 1.,6-UE1//E.,8/3 ,18Q-D -3 R3 0 .85</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">/</forename><surname>&gt;g</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C-</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">04R3 1.,6-UE1/+</title>
+		<idno>15 .0C1-63 15 C/07</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="125" to="169" />
+		</imprint>
+	</monogr>
+	<note>6112127 051P8C4D 1&gt; a7.0E5 /1B3 ,1;1R25 8+Q8.;-/3 ,1,E5 2D 10</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">13 ,86;3 ,1l1F15 ,ED C1G5 E/37 057 E62-69&lt; mnop KJ?qp J?OA &gt; `1+0ED 2D</title>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<idno>17 05E/-69 /C8D D869D 1/.83 3 15 -693 045 0Q1/1D 7 p 8//1CQD 12 91D /&gt;r0/3</idno>
+		<imprint/>
+	</monogr>
+	<note>13 03 ,86;3 ,1C86R.0D D 8Q05 83 05 /+,0,8F1Q116 .5 -3 -.8D-621F1D 04-693 ,1E6215 /3 862-693 ,83+1,8F</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">1D 8/37 1+R185 /&gt; xXc d]yYie db de dYZd] ?n&gt;G15 1.,862m&gt;o&gt;`1-//Bz{|}~|B?BBO?OOO?@&gt; Kl&gt;&gt;t/3 5 0862&gt;s&gt;V8C-D 3 06Bz{|}~|BKJJNBTB ?KJ??K?&gt; Om&gt;o&gt;`1-//B| BKJ?qBT&lt; KA BK@&gt; Ns&gt;w&gt;SC-3 ,B-6 | | |} B12&gt; m&gt;o&gt;</title>
+		<idno>1-//Bm0R8DS0.-13 R07,1C-/3 5 RB8CQ5 -291BKJ?qB 44&gt;OJJO?&gt; @&gt;m&gt;V-5 /3 B:&gt;t/.E215 B &gt;=&gt;r-5 8F13862s&gt;w&gt;SC-3 ,B|z {|}~ ¡ ~¢BKJJqBTBqJJKqJ?q&gt; £w&gt; &gt;S;-D D -69B=&gt;-3 0//-BG&gt;s&gt;:5 82</idno>
+	</analytic>
+	<monogr>
+		<title level="m">2B :&gt;w1D D 8C862r&gt;r85 D 0+B¤ | BKJ?NBBKOK@£&gt; S&gt;n86¥ 8B&gt;n86¥ 8862w&gt;o,0/,B | ~z{|}~¦ BKJK?B §B@qN£JK&gt; qw&gt;SE9-R8/EBS&gt;w8+860B¨&gt;=E¥ -3 8862S&gt;S</title>
+		<imprint>
+			<date>1D 4862-6/-9,3 /0F153</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>86B&gt;V86862=&gt;VE869Bz{|}~~|BKJ?OB T©B£££KK&gt; ?O&gt;m-F-B &gt;G&gt;rED F1RB. &gt;n&gt;85 4163 15 Bm&gt;G8D 0/-9862 &gt;n&gt;n83 3 15 /06Bz{|}~|BKJK?B©&lt; KKA B?NKOK?NKqJ&gt; ?Nr&gt;o8D D E-Bo&gt;G869B&gt;S&gt;:-/+8/B &gt;®,80BS&gt;,16862 =&gt; &gt;S3 82D 15 B¯ ~z}}BKJ?qBBO@qN&gt; ?@S&gt;nE¥ 8D /B¨&gt;=1-615 p o5 8.-8Bn&gt;s1D .868D 1B_ &gt;ª013 /862 l&gt;D Q15 3 8-B¯ ~|~z{|}BKJ?B°B£qqN&gt;</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">+</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-</forename></persName>
+		</author>
+		<idno>./01234 56/.74 3894</idno>
+		<imprint>
+			<biblScope unit="page">81185</biblScope>
+		</imprint>
+	</monogr>
+	<note>&lt;5=/&gt;2;74 4 5=/=?14 @?5A/B C8@?5 D/E&lt;F2: ??1@B /6?9?G74 5HIJ KLMNOK 5PQ,-5R5STUVSWP/ ,SX/Y/D2: 75./=?74 Z 4 ?14 5. 8&lt;\ ]?C8^?1@./Y/</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">_à Nbc dJ Ne fg hìKjNkK lHIdmONfKHIdmnmJ NhMdma K 5PQ</title>
+		<idno>94 : 75x /t2&lt;: G75./D238</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>4 Z Z ?56/.&lt;5w7&lt;2Z ?5 ]/t4 8: 4 G75</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">PQQV</title>
+		<author>
+			<persName><forename type="first">D/</forename><surname>Yc</surname></persName>
+		</author>
+		<ptr target="/PUv/x/X2998" />
+	</analytic>
+	<monogr>
+		<title level="m">S5 {R5UWU,VUWTQ/ ,p=/|4 ?5}/r4 &lt;?1@r/&gt;?135KymONfKIJ Ne KjNg K Ie J5 PQ,S5{5,SppV</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+		</imprint>
+	</monogr>
+	<note>62Z Z ?9F 5Mbg KLMN OKLMN OKMbg K 5PQ,U5{5. 1?1?1@0/E212?Z 25IJ Ne Ìa g5PQPQ5{ U 5SWP</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">V,P/ PTB /}/6?9Z 85OIa a da NhIJ J Ne dlMNme bc dg J e zONdJ I J mdIJ IIdfiia hIJ mdg5x 271}4 Z 8</title>
+	</analytic>
+	<monogr>
+		<title level="j">HNzJ e mdg e IbgIdfMJhIJ J Ne dNJ Mmfg iia Ǹf J m m JLmdfNdg Nf IJ J Ne</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">185</biblScope>
+		</imprint>
+	</monogr>
+	<note>Kiia KLe bg J Ia a me K 5PQP. 2: 762Z Z ?1@5,;:8@15,pqq/</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">JIJ J N e 5PQ</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">85</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>U55qTqUVqTpU/ U</orgName>
+		</respStmt>
+	</monogr>
+	<note>G 79&lt;: 5]/t898 5 x /x 8; : 4 15x /v29F. /./E7&lt;1: 4 5x /t2&lt;: G75s/}4 Z Z 4 ?9;5./t?14 8Z ;5X/88G85 [/Y/E&lt;9u?5x //.&lt;: : 85Y/t/=&lt;Z Z 5[/x /=8^4 Z Z?1@ D//D?9F25KbdhMe mJ e mdjIfÌJ K 5PQPQ5o5,TUqV,TT-/ UPE/AGY&lt;Z ?56/}?135Y/A/&lt;81: 8;\ v?u?^2 ;5r/=729;215 [/E7&lt;1: 4 5[/v24 8;2156/v&lt;4 5Y/</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<idno>21?1@t/x /Y@?9;5 IdOzè 5PQPQ55q-P-Vq-U</idno>
+		<title level="m">1@ }/D/]2185LMNOKLmOOzdK 5PQ,S55,S,pV,SPP/ UT/=88G75x /x /YZ Z 83?&lt;@?1@v/A/X?185IdOzè 5,ppq5 {5Upp,VUppq/ UW=/.&lt;&lt;C4 5Y/v74 F??1@=/&gt;?125LIe nmMbfe Kma bOK 5,ppS5 5UWSVU-U</title>
+		<imprint/>
+	</monogr>
+	<note>14 1&lt;;5/x /D/v8û81: 4 85. 15Y/YZ : &lt;1F?;5=/&gt;&lt;G8Z 5D//[?3?Ĉ?5x</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">GG</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<idno>TQ/=88G75X/vZ ?4 856/]2&lt;?;\ r?&lt;81: 5x //t8;83185</idno>
+	</analytic>
+	<monogr>
+		<title level="m">@x /r/225KLma a mfc dJ Ne IhNhK 5PQQ-55 -UUV-TP/ T,t/X4 &lt;4 5</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">75</biblScope>
+		</imprint>
+	</monogr>
+	<note>8u: 89F8^PQP. 7?Z Z 5]/t4 8: 4 G75t/AGt2?Z Z 5 r/=729;215x /&gt;/[8: 215v/}4 Z ;215D/.G784 1;?1@ t/x /Y@?9;5LMNOKhK 5PQP,5{5pSPQVpSPW. ^81?1@ /v/A8Z @&lt;95LMNOKLmOOzdK 5PQPQ55ST-UVST</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title/>
+		<idno>72&lt;5|/6&lt;5t/}?135./A/E4 135 ./s/D238</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JIJ J Ne 5PQ</title>
+		<imprint>
+			<biblScope unit="page">1815</biblScope>
+		</imprint>
+	</monogr>
+	<note>1@6/|&lt;5OIa a 5PQPQ5{5,V,,/ TT6/E&lt;9?4 5./s/Y94 : ?385./D/EZ 4 185E/E/t?92@??15 ./D/E8118@5x /r/Y: 22@?1@x /}/.: 88@5m JIJ J Ne 5 PQ,W5{{5qTS,VqTSq/ TWB /}/6?9Z 85Y/t87;2Ĉ74 5 /v?;: 8Z Z 8: : 25./&lt;8Z ?1@5 t/Y: C4 1;5x /.84 : ;2181?1@x /D&lt;2C2. U5 5pPpQVpPpU/ T-s/D/t?u856/.&lt;5v/]?;18: : 5D/x /22Z 85./D238;5 6/v&lt;4 5Y/</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">QT-SV,QTSQ/ TSY/X&lt;4 14 8^?1@X/2&lt;18: 5OIa a da</title>
+		<author>
+			<persName><forename type="first">S55</forename><surname>Pq</surname></persName>
+		</author>
+		<ptr target="@@21?1@t/x/Y@?9" />
+	</analytic>
+	<monogr>
+		<title level="j">NhIJ J Ne dm e Ibg</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>x 271}4 Z 8.21;5[8&gt;2Ĉ5,pWW/ Tq/=88G75}/X/.94 : 7?1@D/X/}84 ;;5KLMNOKmhK ¦Ie IfIbe Idg K 5,pp-55U,WSVU,-P/ Tpx /E/}G72?14 8G5Y/A/.94 : 75v/r4 324 250/0/AC7?Z C5 Y//A4</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Z Z 8 ; @y/</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>4 ?14 5ymOIhe mOma Nhza Ng5PQPQ</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kiia KLe bg J Ia a me K</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>ppW5R5S,SVSPq/ WPD/ /D&lt;37?14 5t/Y/.?Z 4 GC5A/./r?995=/&gt;&lt;G8Z 5 t/x /2G7?1?1@x</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title/>
+		<idno>G7184 @85ymOIhe mOma Nhza Ng5PQQp5 {5</idno>
+		<ptr target="TVTUW/WTD/Y/6&lt;Z85D/" />
+	</analytic>
+	<monogr>
+		<title level="j">Kiia KLe bg J Ia a me K</title>
+		<imprint>
+			<biblScope unit="volume">794</biblScope>
+			<biblScope unit="page">55</biblScope>
+		</imprint>
+	</monogr>
+	<note>3?Ĉ?5Y/YZ : &lt;1F?;56/D/D?9?5 A/v/]?1G25x //.G7184 @8^?1@t/x /2G7?15¦Ie IfIb g hzg g K 5PQQq5{5PW. GC85t/A/X4 ¨15./E4</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title/>
+		<ptr target="Wp/WqE/r/A2^4" />
+	</analytic>
+	<monogr>
+		<title level="j">Z Z 4 GC</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">150</biblScope>
+		</imprint>
+	</monogr>
+	<note>/=8?1@./D/]7?: 4 ?5m JIJ J Ne 5PQ,T5{5,pQWV. 4 125A/.74 F??9?5&gt;/0C&lt;9&lt;??1@E/B : 25Mbg Ky5 PQQ-5R©Rª 5qQSVqQp/ WSt/]81@8@2&lt;G75./6/v781?1@}/v/E287Z 85KMbg K LMNOK 5,pqU5Ro5,WUV. 1@?5 Y/?&lt;Z 5/v/X4 ¨: 7;5./A/E4 135D/E/0« D84 Z Z 5r/v/.8û8Z Z ?1@t/x /Y@?9;5HIJ KLmOOzdK 5PQ. 8Z 14 G781C2?1@X/t/}4 31?Z Z 5Kiia KMbg K 5PQQS5 {5QP. G75E/AGY&lt;Z ?5v/]?;18: : 56/YF@4 ?@875 B /?: 9?14 @4 ;5./x /A?^4 1C56/.&lt;56/v&lt;4 5D/.G784 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m">@@21?1@t/x /Y@?9;5IJ J Ne 5PQPQ</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">PPPW/ ®¯°±²³±±´µ ¶•±¯µ3¹º´»¸¼ ½¾¿Àÿ ÂÃÃ¿Ä Ä ÿ ÂÅ AE Ç ÃÈ ¿É ÿ ÊËÌÈ Ç Ä Í¿Îÿ ÏÀÿ ÐÑÿ Ò¿ÌÅ ËÓÅ Ôÿ ÕÐÕÕÉ ÿ ÖÏ×ÀÈ ÏÓÎ¿Îÿ ÏÀÿ ØØÙ ÚÙ ÕÐÕÛÿ ÜÝ ØÜÝ ÐÞÿ ÊßÉ ÿ ÿ àÍÇ Ä ÿ ÓÅ AE Ç ÃÈ ¿ÿ Ç Ä ÿ È Ç Ã¿ÀÄ ¿Îÿ ËÀÎ¿Å ÿ Óÿ áÅ ¿ÓAE Ç â¿ÿ áÏããÏÀÄ ÿ ÂAE AE Å Ç ÌËAE Ç ÏÀÿ ÚÉ Ðÿ äÀ¾ÏÅ AE ¿Îÿ åÇ Ã¿ÀÃ¿É aeç èéÿ ëì í ç îï èÿ ðñï ç</title>
+		<idno>ñè -./0123456 780/59 : 5</idno>
+	</analytic>
+	<monogr>
+		<title level="m">25D/B : 4 5r//Y9??Z?1@X//.u?@?5Ihe m Oma Nhza Ng 5</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>u2&lt;Z 8;5D/.G784 1;5s/D/t?u8^?1@ t/x /Y@?9;5KOKLMNOKmhK 5PQ. 68G7: 5v/D2G7?;5/r4 1@185 v/]2&lt;3?&lt;¬?1@X/v2&lt;?^?85ma bONe 5,ppS5R5,WVPQ/ -U /v?;: 8Z Z. ppW5R5qUpWVqTQQ/ -Tx /D/}8;: 85x /Y/r84 ;5D/889?156/.?4 5r/v/?Z 985 ./s/6814 G7?1@./B /.: &lt;uu5KOKLMNOKmhK 5PQPQ5{5 ,PP,-V</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<idno>0/5&gt;a7&lt;0&lt;5349 7/0123456 7N08Hb&gt;2: cb9 7K 0L0=5M6 HG 534N0/53</idno>
+		<title level="m">HH7d Re fW g QhfijhUk 7XY\l7m7XY\-Y\Xn0 -lN0</title>
+		<imprint/>
+	</monogr>
+	<note>o539 7K 0?5p9 539 39 57q0=aMH7r0108HrH23E o24: 9 ;aHs7 @0?9 b5: 5780C0L9 6 6 9 5M&gt;780B 01tF9 6 6 9 p: 5G7&lt;0u0I0q6 53c7</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

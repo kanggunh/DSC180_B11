@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Supporting Information Additive Engineering for High-Performance Room-Temperature-Processed Perovskite Absorbers with Micron-Size Grains and Microsecond-Range Carrier Lifetimes</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Qiwei</forename><surname>Han</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yusong</forename><surname>Bai</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<postCode>27708</postCode>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jie</forename><surname>Liu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<postCode>27708</postCode>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ke-Zhao</forename><surname>Du</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tianyang</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dong</forename><surname>Ji</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<postCode>27708</postCode>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yihao</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Mechanical Engineering and Materials Science</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<postCode>27708</postCode>
+									<settlement>Durham</settlement>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Changyong</forename><surname>Cao</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Electrical and Computer Engineering</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<postCode>27708</postCode>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Donghyeop</forename><surname>Shin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jie</forename><surname>Ding Cd</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Aaron</forename><forename type="middle">D</forename><surname>Franklin Be</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><forename type="middle">T</forename><surname>Glass Ae</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jinsong</forename><surname>Hu Cd</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">J</forename><surname>Therien</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<postCode>27708</postCode>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Mitzi</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Key Laboratory of Molecular Nanostructure and Nanotechnology</orgName>
+								<orgName type="department" key="dep2">Institute of Chemistry</orgName>
+								<orgName type="institution">Chinese Academy of Science</orgName>
+								<address>
+									<addrLine>2 North 1st Street</addrLine>
+									<postCode>100190</postCode>
+									<settlement>Zhongguancun Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Chinese Academy of Science</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Supporting Information Additive Engineering for High-Performance Room-Temperature-Processed Perovskite Absorbers with Micron-Size Grains and Microsecond-Range Carrier Lifetimes</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">186FB6EE5D157945E0E93ACB9F80DBE5</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:39+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Film deposition methods</head><p>To prepare the pristine (no additives) precursor solution for MAPbI3 films, 1.25 mmol methylammonium iodide (MAI) and 1.25 mmol lead iodide (PbI2) were dissolved in 1 mL solvent containing N,N-dimethylformamide (DMF) and dimethyl sulfoxide (DMSO), with the volume ratio of DMF:DMSO = 9:1. To obtain the optimal MAPbI3 films for high device performance at room temperature (i.e., RT-MAPbI3), 40% MASCN and 5% extra PbI2 (both are mol% relative to MAPbI3) were added to the pristine precursor solution. The films were then deposited by spincoating the precursor solution using a spin speed of 5000 r.m.p for 30 s, with a solvent dripping process (chlorobenzene used for the dripping step). <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> The spin coating was performed in a nitrogen-filled glovebox with oxygen and water levels maintained below 0.1 ppm. The asdeposited MAPbI3 films were dried in the glovebox anti-chamber at reduced pressure (Edwards RV12, maximum achievable vacuum is 2×10 -3 mbar) for 20 min, to form the resultant films. For comparison, pristine MAPbI3 (i.e., P-MAPbI3) films were also prepared. The pristine MAPbI3 precursor solution (no MASCN or extra PbI2) was deposited with similar steps. After spin-coating, P-MAPbI3 films were annealed on a hotplate at 100 o C for 10 min. To study the impact of MASCN level on room-temperature films, 0~50% MASCN together with 5% extra PbI2 was added to the pristine MAPbI3 precursor and the MAPbI3 films were deposited with similar steps to those described above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device Fabrication</head><p>The FTO-coated glass substrates were cleaned in soapy water, deionized water, acetone and before further use. To prepare the TiO2 electron transport layers (ETLs), a precursor solution containing 2 ml ethanol and 4 ml titanium diisopropoxide bis(acetylacetonate) solution (75% wt. in isopropanol) was stirred at room temperature in air for 1 hour. The TiO2 precursor solution was used to deposit the ~50 nm TiO2 ETL by the hot spray pyrolysis method at 450 o C. The TiO2 compact films were annealed in air at 500 o C for 1 hour. Then, the substrates were immersed in 0.02 M TiCl4 water solution at 70 o C for 10 min. After the TiCl4 treatment, substrates were dried by house compressed air and finally annealed at 500 o C in air for 1 hour. The MAPbI3 films were deposited on the glass/FTO/TiO2 substrates by following the procedure mentioned above. To complete the devices, Li-doped Spiro-OMeTAD was spin-coated on the MAPbI3 films as the hole transport layer (HTL). A solution consisting of 75 mg Spiro-OMeTAD, 28.8 μL 4-tert-butylpyridine, 17.6 μL Li-bis(trifluoromethanesulfonyl)imide (Li-TFSI) solution (520mg Li-TFSI in 1mL acetonitrile) and 1 mL chlorobenzene was employed with a spin speed of 3000 r.m.p for 30s.</p><p>Finally, Au was thermally evaporated on the HTL, with thickness of ~80 nm, to serve as the electrode.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterizations</head><p>Morphologies of the MAPbI3 films were imaged with a scanning electron microscope (SEM, FEI XL30 SEM-FEG). Atomic force microscopy (AFM) images were characterized using a scanning probe microscope (Digital Instruments Dimension 3100). X-ray diffraction (XRD) measurements were carried out on a PANalytical Empyrean Powder X-ray diffractometer using CuKα radiation.</p><p>The X-ray photoelectron spectroscopy (XPS) measurements were performed on an ESCALab220i-XL electron spectrometer (VG Scienti fi c) using 300W Al K α radiation. Transmittance Infrared (IR) measurements were carried out employing a Fourier Transform Infrared (FTIR) spectrometer (Thermo Scientific Nicolet 380). The charge carrier lifetimes were characterized via time-resolved photoluminescence (TRPL) experiments using a Hamamatsu C4780 picosecond fluorescence lifetime measurement system (instrument response function ~150 ps). This system employs a Hamamatsu Streakscope C4334 as the photon-counting detector, and a Hamamatsu C4792-01 synchronous delay generator that electronically generates all time delays. A Hamamatsu 405 nm diode laser was utilized as the excitation source. Optical absorption measurements were performed on a Shimadzu UV-3600 spectrophotometer. The Tindall effect was tested with a commercial laser pen with red beam light (Beboncool RF 2.4 GHz). Dynamic light scattering (DLS) measurements were performed on a Zetasizer (Nano-ZS, Malvern Instruments). The external quantum efficiency (EQE) was taken using a QE-R instrument from Enlitech without bias voltage or illumination. The current density-voltage (J-V) characteristics and steady-state output were measured using a Keithley 2400 source meter. The illumination source was a Newport Oriel 92192 solar simulator with an AM1.5G filter, operating at 100 mW cm -2 . All devices were masked with area of 0.1 cm 2 aperture to define the active areas. A standard silicon solar cell from Newport Corp. was used as reference for J-V and EQE measurements. All measurements were performed under ambient condition with relative humidity level of 35~55%.         </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. S6 .</head><label>S6</label><figDesc>Fig. S6. Statistical Jsc, Voc and FF of devices prepared using RT-MAPbI3 films. The J-V measurement was conducted in air (relative humidity of 35~55%), with 0.1 V s -1 voltage scanning rate and forward scanning direction.</figDesc><graphic coords="8,64.93,113.40,468.00,130.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. S7 .</head><label>S7</label><figDesc>Fig.S7. J-V characteristics of the best-performing device achieved with a P-MAPbI3 film. The J-V characteristics were obtained by both forward and reverse scanning direction with 0.1 V s -1 scanning rate.</figDesc><graphic coords="8,171.38,359.93,269.25,191.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. S8 .</head><label>S8</label><figDesc>Fig. S8. Jsc, Voc and FF of best-performing devices prepared using RT-MAPbI3 and P-MAPbI3 films, as a function of time. The devices were stored without encapsulation under relative humidity of 20~25%. The J-V measurement was conducted with 0.1 V s -1 voltage scanning rate and forward scanning direction.</figDesc><graphic coords="9,72.00,127.20,480.91,141.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. S9 .</head><label>S9</label><figDesc>Fig. S9. The unit cell parameters (determined from full-profile Pawley fitting) as a function of MASCN additive level to the RT-MAPbI3 film precursor solution.</figDesc><graphic coords="9,72.00,396.78,468.00,190.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. S10 .</head><label>S10</label><figDesc>Fig. S10. FWHMs of specified XRD peaks for RT-MAPbI3 films as a function of MASCN additive level.</figDesc><graphic coords="10,72.00,127.20,468.00,401.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. S11 .</head><label>S11</label><figDesc>Fig. S11. Zoomed-in XRD pattern, focusing on the 5-12 o 2θ range, for RT-MAPbI3 films with 5% extra PbI2 and 0~50% MASCN addition in the precursor solutions. The simulated XRD pattern for (MA)2[(PbI3)2PbI2]•2DMSO is also included for comparison. The structure of (MA)2[(PbI3)2PbI2]•2DMSO is shown in Fig. S10 (ESI †).</figDesc><graphic coords="11,184.00,99.60,243.65,193.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. S12 .</head><label>S12</label><figDesc>Fig. S12. Schematics of (a) the packing structure of (MA)2[(PbI3)2PbI2]•2DMSO and (b) the 1D structure of [(PbI3)2PbI2] 2-along different crystallographic directions. The corresponding simulated XRD pattern for (MA)2[(PbI3)2PbI2]•2DMSO is shown in Fig. S9.</figDesc><graphic coords="11,72.00,407.39,468.00,165.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. S13 .</head><label>S13</label><figDesc>Fig. S13. Top-view SEM images of the room-temperature MAPbI3 films with 5% extra PbI2 and 0~50% NH4SCN addition to the MAPbI3 precursor solutions. All films were deposited on glass/FTO/TiO2 substrates and all images employ a scale bar of 1 μm.</figDesc><graphic coords="12,72.00,72.00,468.00,247.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. S14 .</head><label>S14</label><figDesc>Fig. S14. Tindall test of DMF/DMSO solvent and MAPbI3 precursor solutions with 5% extra PbI2 and 0~50% MASCN addition. The DMF/DMSO solvent does not show the Tindall effect, but all the MAPbI3 precursor solutions do show the Tindall effect. The red laser illuminates from the bottom of the vials.</figDesc><graphic coords="12,72.00,405.19,468.00,212.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,72.00,113.40,468.00,138.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,99.60,468.00,387.40" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Figures</head><p>Fig. <ref type="figure">S1</ref>. Top-view SEM image (large scale) of the RT-MAPbI3 film with 40% MASCN and 5% extra PbI2 addition to the pristine MAPbI3 precursor solution (mol% relative to stoichiometric MAPbI3). The film was deposited on a glass/FTO/TiO2 substrate. The films exhibit good uniformity with no evidence of pinholes.     All J-V measurements were conducted with 0.1 V s -1 voltage scanning rate and forward scanning direction.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Saparov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Duan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="5214" to="5221" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Seok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="897" to="903" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

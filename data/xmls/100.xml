@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">SMALL ANGLE NEUTRON SCATTERING</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Giuseppe</forename><surname>Zaccaf</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">European Molecular Biology Laboratory</orgName>
+								<orgName type="institution">156X Centre de Tri</orgName>
+								<address>
+									<addrLine>156X Centre de Tri</addrLine>
+									<postCode>38042 38042</postCode>
+									<settlement>Grenoble Cedex Grenoble Outstation Grenoble C6dex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Institut</forename><surname>Max</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">European Molecular Biology Laboratory</orgName>
+								<orgName type="institution">156X Centre de Tri</orgName>
+								<address>
+									<addrLine>156X Centre de Tri</addrLine>
+									<postCode>38042 38042</postCode>
+									<settlement>Grenoble Cedex Grenoble Outstation Grenoble C6dex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Laue-Paul</forename><surname>Langevin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">European Molecular Biology Laboratory</orgName>
+								<orgName type="institution">156X Centre de Tri</orgName>
+								<address>
+									<addrLine>156X Centre de Tri</addrLine>
+									<postCode>38042 38042</postCode>
+									<settlement>Grenoble Cedex Grenoble Outstation Grenoble C6dex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bernard</forename><surname>Jacrot</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">European Molecular Biology Laboratory</orgName>
+								<orgName type="institution">156X Centre de Tri</orgName>
+								<address>
+									<addrLine>156X Centre de Tri</addrLine>
+									<postCode>38042 38042</postCode>
+									<settlement>Grenoble Cedex Grenoble Outstation Grenoble C6dex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">SMALL ANGLE NEUTRON SCATTERING</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F7B5E2A81429A67C46B111218D4E4D00</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:39+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Neutron small angle scattering (NSAS) from solutions of macromolecules has been reviewed by a number of authors <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b32">32,</ref><ref type="bibr" target="#b38">38,</ref><ref type="bibr" target="#b44">43)</ref>. Moreover, many of the concepts used are identical to those of X-ray small angle scattering, which has also been reviewed recently <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b30">30)</ref>. We shall not reiterate here what has been written before, but shall develop a few points that recent work has shown to be important, both in making best use of the method and in defining its limitations.</p><p>In the introduction, we briefly survey the theory commonly used and recall the (explicit and implicit) hypotheses usually made in NSAS studies.</p><p>A particle is characterized by a scattering density per) at each point within it. The scattering density of a volume V is the sum, 'L,bj, of scattering lengths of all atoms in that volume, divided by V. Scattering amplitudes for atoms most usually found in biological samples are listed in Table <ref type="table" target="#tab_0">1</ref>. When the particle is in solution, in a solvent of scattering density pO, the scattered neutron intensity is given by I(Q) = (I Iv (p(r)-pO)exP(iQ.r)d3rl)</p><p>where Q = (4n sin ())/2 is the scattering vector magnitude (2() is the scattering angle and A is the radiation wavelength). The brackets &lt;-. .) indicate averaging over all orientations of the particle. The difference (p(r) -pO) d3r is called the excess amplitude or contrast length of the small 139 0084-6589/83/0615-0139$02.00  The equation for I(Q) is quite general. Its usefulness is limited to the small Q limit, however, where the shape of the particle can be analyzed by a small number of parameters (much smaller than the atomic coordinates) that are determined by the angular distribution of scattered neutrons about the forward direction, Q = O.</p><p>In order to have measurable scattering, the solution should contain a large number, N, of particles. Then, the following assumptions are usually made.</p><p>.</p><p>The main purpose of this review is to discuss the validity of the above assumptions and to explore methods of data analysis when one or several of the assumptions do not apply.</p><p>A general theory of contrast variation has been given by Stuhrmann <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b36">36,</ref><ref type="bibr" target="#b37">37)</ref>, who has dealt mainly with the following problem: how to separate the contributions to the scattering that are due to contrast with the solvent from those that are due to per), itself. The approach is to separate per) into two parts: P v , the average scattering density of the particle, and PF(r), fluctuations about this mean. This leads to an expression for the scattered intensity, in three parts:</p><formula xml:id="formula_0">I(Q) = (Pv-pO)2Iv(Q)+ (Pv-pO)IvF(Q)+ IF(Q).</formula><p>Solvent scattering density, p O , and therefore contrast (pv -pO), can be modified over quite a large range by mixing H20 and D20 in the solvent. In principle, from a contrast series it is possible to extract the two functions, 1y(Q) and 1 F (Q). The treatment is explained in detail in references <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b36">36,</ref><ref type="bibr" target="#b37">37)</ref>. There are two problems associated with this analysis. The first arises from the definition of the particle boundary for the integration of p(r). Solvent in contact with the macromolecule is perturbed and is not of the same composition as bulk. The scattering particle should include this perturbed solvent. The second problem arises from the fact that p(r) itself is a function of D20 in the solvent because of exchange of labile hydrogen atoms in the macromolecule. Those two points are discussed further in this review.</p><p>In the small angle limit, the scattering curve of a particle in solution is described by the Guinier approximation</p><formula xml:id="formula_1">1(Q) = 1(0) exp ( -R�Q2/3)</formula><p>where RG is a "radius of gyration" of excess amplitude, defined by The angular range of validity for the approximation varies somewhat with particle shape, but typically it is for RGQ ;5 1 (13). As a consequence of the Stuhrmann equation, RG could also be expressed as a function of contrast,</p><formula xml:id="formula_2">p = Pv -p o : R� = R�y+(rxlp)-(f3lp2)</formula><p>where RGy, rx, f3 are experimental parameters derived from the parabolic dependence of R� on 11 p. When exchange of labile H is homogeneous inside the particle, these parameters have a simple interpretation in terms of the scattering density distribution. When exchange of labile H is not homo geneous, the interpretation of RGy, rx, f3 is not straightforward; this is discussed further below.</p><p>From a good set of small angle scattering data, therefore, 1(0) and RG are the two parameters obtained from a plot of In I(Q) versus Q2. When the basic assumptions apply-especially those concerning identical particles (mono-disperse solution) and the absence of interparticle effects-the two parameters could be interpreted readily in terms of the particle. In particular, 1(0) is related to its molecular weight and partial specific volume.</p><p>Data collected to large values of Q are more difficult to interpret. A model is usually required with parameters that are fit to the observations. There are a number of approaches to this analysis.</p><p>1. The method of Kratky. Extensively used by Kratky and his colleagues <ref type="bibr" target="#b21">(22)</ref>, it is a search method which assumes that the shape of the particle can be approximated by simpie geometrical objects (ellipsoids, cylin-ders). It is especially useful for oligomeric proteins. Each monomer is given an ellipsoidal shape, and the analysis of the scattering curve provides the organization of monomers that gives the best fit. 2. The method of Stuhr mann <ref type="bibr" target="#b35">(35)</ref>. The method is based on an expansion of p(r) in spherical harmonics, which allows for shapes more complex than ellipsoids or cylinders. 3. The test of models based on data from other techniques, such as electron microscopy. The scattering curve corresponding to a model is computed by splitting the total volume of the particle into small volumes that are small compared to the resolution <ref type="bibr" target="#b39">(39)</ref>.</p><p>In all methods one gets a solution that gives the best fit to the data; but in no case can the uniqueness of this solution be established. Further difficulties are associated with the smearing of the data because of instrumental resolution and with the limited statistical accuracy. Those problems have been dealt with by Glatter <ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref>.</p><p>In the present review we shall not further discuss the large angle analysis. We focus, instead, on the interpretation of /(0) and Ro; in particular, in cases where one or several of the usual assumptions ofNSAS do not apply.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>COMMENTS ON CONTRAST VARIATION</head><p>An attractive feature of contrast variation is the possibility of extracting from the collected data a scattering function determined only by the shape of the particle, and another function determined only by the fluctuations of scattering density inside the particle <ref type="bibr" target="#b14">(15,</ref><ref type="bibr" target="#b36">36,</ref><ref type="bibr" target="#b37">37)</ref>. Exchange of labile protons on the particle, however, puts an important limitation on that approach. If exchange were uniformly distributed in the particle, it would modify the contrast scale linearly, and the analysis could proceed unaltered. It is likely, however, that an object of non-uniform scattering density would also have a non-uniform distribution of exchanged protons. An extreme example is that of a lipid-protein complex. The scattering densities of lipid «0.001 x 10-1 2 cm/A 3) and protein (",0.018 x 10-1 2 cm/A 3) are very different in H20; but as there are only a few labile protons in lipid, the difference in scattering density is much larger in D20. In other words, the internal structure (scattering density distribution) of the object is different in H20 and D 2 0 and, consequently, it is itself a function of contrast. In such cases, the separation into functions described by Stuhrmann <ref type="bibr" target="#b14">(15)</ref> does not apply. The same is true of a protein nucleic acid complex, or even a protein alone. An important consequence of this limitation is the fact that the extra polation of the scattering curves to infinite contrast does not give the scattering curve of a homogeneous object of the same shape. The particle would appear homogeneous where the lines "meet," at infinite contrast.</p><p>(b) Exchange is different for A and B. The particle will appear homogeneous at P, which, depending on components A and B, can be between 0 and 100% or outside that range (below or above).</p><p>An illustration of this for a two-component particle is shown in Figure <ref type="figure" target="#fig_1">1</ref> (adapted from S. Cusack, unpublished). When exchange is uniform, the two contrast lines are parallel and the situation is equivalent to no exchange; the lines could be considered to meet at infinite contrast, where the particle would appear homogeneous. For non-uniform exchange, the lines meet at some point P that is not at infinite contrast. The scattering curve at that point would be the curve corresponding to the shape of a homogeneous particle. The curve extrapolated to infinite contrast has no useful meaning. In particular, the radius of gyration at infinite contrast ( 3 6 ) , a parameter whose value is easily determined, is not that of an object of identical shape and uniform density. The complete mathematics associated with this problem is straightforward but cumbersome and will not be given here. It has been considered by Ibel &amp; Stuhrmann (15) and Luzzati &amp; Tardieu <ref type="bibr" target="#b22">(23)</ref> and developed recently by J. Witz (submitted for publication).</p><p>The importance of these considerations is well illustrated by the case of a spherical particle. Let it be made up of two concentric shells between 0 and Rl of excess scattering density Pi&gt; and between Rl and R2 of excess scattering density P2' Such a particle is a good representation of a number of simple spherical viruses. With X the percentage of D20 in the solvent, we can write PI = Al -XB1; P2 = A2 -XB2 (where Ai , Bi are constants). The radius of gyration at infinite contrast is given by</p><formula xml:id="formula_3">R 2 _ 21-Ri!Ri(1-Bt/B2) Goo -( 3 /5) R 2 1-RilR�(1-BdB 2 ) '</formula><p>Only if Bl = B 2 (i.e. uniform exchange) is Rbco = (3/5)R�, which is the value for a uniform sphere of radius R 2 . In practice, Bl and Bz could be very different. For an RNA-protein virus RGco is typically larger than R2 by 5 to 10%. Similar values are obtained for other nUcleo-protein particles.</p><p>The Stuhrmann representation of Rb versus l/p (reciprocal of mean contrast) from which RGco is obtained, is very useful nevertheless. It is a good test of the quality of the data, since a smooth linear or parabolic dependence is expected. With good data, a parabolic dependence would indicate the separation between the centers of mass of the components. Because of exchange, however, it is difficult to draw quantitative con clusions from the plot about the absolute size or shape of the object.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>THERMODYNAMICS AND PARTICLE APPROACH TO SCATTERING</head><p>Following the work of Eisenberg <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref>, the forward scattered intensity /(0) from a solution of macromolecules could be expressed in terms of thermodynamic variables. where subscript 2 refers to the macromolecule; c is mass concentration, M is molecular weight ratio, and N A is Avogadro's number. The term (OP/OC2)1' * 1'2 is the scattering length density increment of the solution per unit concentration of macromolecule, at constant chemical potential J1 of all solvent components (i.e. the solution is in dialysis equilibrium with solvent alone, since the macromolecule is not able to diffuse across the dialysis membrane). The units of op/ocz (we shall drop the J1 =I-J1 z , it being implied from here on) are scattering length per mass.</p><p>In the particle picture, which has been used almost exclusively b) workers in neutron contrast variation, /(0) is expressed in terms of the excess scattering length of each macromolecule in the solution.</p><formula xml:id="formula_4">1(0) = (CN A /M{ �(bi-pO Vi ) J 2.</formula><p>where c is mass concentration, M is molecular weight (cN Ai M is the number pf macromolecules in unit volume); bi is the scattering length contained in a small volume Vi in the particle, pO is the scattering length density of the solvent, and the sum is over the entire volume of the particle. But where is the boundary between the particle and solvent? The weakness of the particle picture is that this boundary, and therefore the limits of the summation in Equation <ref type="formula">2</ref>, depends on having a model for the macro molecule and its interaction with solvent.</p><p>There is a trivial relation between the scattering length density increment op/oc2 of Equation 1 and the equivalent term in Equation <ref type="formula">2</ref>.</p><p>L;( bj -p O vj) = (M/N A)OP/OCz so that there is nO difficulty in relating thermodynamic and particle approaches at this stage; it is merely a matter of scale, depending on whether we choose to express quantities in terms of units per mass or units per molecular weight ratio.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Two-Component Solutions</head><p>In a simple, two-component system (component 1: water; component 2: macromolecule) :</p><formula xml:id="formula_5">3.</formula><p>where B is scattering length per unit mass, v is partial specific volume, and p O is the scattering length density of the solvent (water, in this case). We can write It is not correct, however, to equate the scattering length and volume terms separately:</p><formula xml:id="formula_6">L;bj #-(M2/NA)B2 and L;Vj #-(M2/NA)v2•</formula><p>Consider the general particle model in Figure <ref type="figure" target="#fig_3">2</ref>. The solution contains one particle and is divided into three parts: Vp is occupied by the atoms of the particle, V' contains solvent components, but with a composition different from bulk, and, beyond V', bulk solvent. The volume V' therefore contains the solvent that has been perturbed by the presence of the particle. The summation should be taken at least over Vp and V'. If it were taken beyond V', it would not matter, as the bulk solvent terms cancel out. The scattering length term, L,b;, includes more atoms than the ones in the macromolecule, because of the volume V'; clearly, it is not equal to (M 2/ N A)B2, which only includes the macromolecule. Also, the dependence of L,b; and (M 2/ N A)B 1 on p O , through 2 H: lH exchange, is difficult to estimate. There is an interesting compensation effect that occurs for the two component case. The summation is For the two-component case, the solvent molecules in V' are the same as in bulk, but their packing density could be different. Let the mass density in V' be d', and dO in bulk. Then, because L,b per mass is the same in V' and in bulk,</p><formula xml:id="formula_7">(L,b in V')/d'V' = p O/ do.</formula><p>The summation can now be written</p><formula xml:id="formula_8">( L,b in Vp)-p O [Vp+ V'(l-d'/dO)].</formula><p>The term multiplying p O is the volume change when the particle is added to the solution, M l52/N A; and (L,b in Vp) is M lBl/N A-In this case, therefore, we could calculate Lb; -p O v; correctly using Lb; = L,b particle and LV; = M252/N A-However, it would not provide the correct particle picture, because the perturbation inflicted on the solvent in V' is compensated by the value of V 2 ' Because of this effect, M lvl/N A has been misleadingly equated with the "dry" volume of the particle. Tn Figure <ref type="figure" target="#fig_3">2</ref>, the "dry" volume would be Vp, whereas</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Three-Component Solutions</head><p>When the solution contains a third component which is diffusible through the dialysis membrane (component 3: e.g. salt or glycerol), then</p><formula xml:id="formula_9">op/oc2 = Bl + �3B3 -pO(52 + �353) 4.</formula><p>where �3 is a preferential interaction parameter in units of mass of component 3 per mass of component 2. The parameter � is a well-defined measurable quantity. It is the net mass of component 3 per mass of component 2, which flows into the dialysis bag to maintain constant chemical potential of diffusible components. Eisenberg <ref type="bibr" target="#b5">(6)</ref> has taken great pains to point out that Equation <ref type="formula">4</ref>does not necessarily specify a particle, i.e. it does not say that unit mass of macromolecule has ¢ 3 mass of component 3 bound to it.</p><p>All Vi in Equations 3 and 4 are well-defined partial specific volumes. The value v2, for example, is the volume increase of a given solution when unit mass of component 2 is added to it. As such, it is also a function of the initial solution, and certainly not a constant attribute of the macromolecule. It is not the "dry volume" of the macromolecule or even the "volume occupied by its atoms." It follows that V2 in Equation 3 and V2 in Equation <ref type="formula">4</ref>need not be equal. And, of course, if the conditions of Equation <ref type="formula">4</ref>were changed (different salt or macromolecular concentrations for example), V2 could change as well.</p><p>There are analogous equations to Equation <ref type="formula">4</ref>for mass density measure ments, equilibrium sedimentation, and radiation scattering <ref type="bibr" target="#b5">(6)</ref>. In principle, therefore, v and � could be determined independently by comparing the density increment in a dialyzed solution to a proper measurement of partial specific volume. In practice, and especially for biological macromolecules, a direct measurement of partial specific volume is very difficult. Scattering experiments are almost always done on dialyzed solutions. Only then is the solvent composition accurately known. This is important for subtraction of the background as well as for determination of pO .</p><p>As above, the relationship to particle parameters is</p><formula xml:id="formula_10">L:( b i-pO Vi) = (M2/NA)[ B2 +�3 B 3-pO ( V2 +�3 V 3)] .</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>And as above,</head><formula xml:id="formula_11">"Lb; #-(Mz/N A)(Bz + (3B3 ) LVi #-(M2/NA)( V2 +�3 V 3)•</formula><p>In a three-component solution, given a particle model for Vp and V', one can calculate L (bi -pO v;). It is important to ensure that the result is consistent with B2 + (3B3 -pO ( V2 + ( 3V3) . As for the two component solution, the contribution of Vz is included in both Vp and V', so that there are no a priori constraints on the model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contrast Variation by Isotope Exchange</head><p>Equations 3 and 4 are the basis for interpretation of contrast variation. A true contrast variation experiment would only vary pO, with the other terms ( Bz, vz, �3' B3, v3 ) remaining constant. It is impossible to achieve. Exchange of H20 with D20 leads to a large range of pO for neutrons, but with B2 also varying because of exchange of labile hydrogen atoms. It is usually assumed, although not always justified, that v2, � 3 ' and V3 remain constant with H20:D20 exchange. are of different slope for the ethanol and glycerol solutions, however, and show the "constant volume" to be different for these two cases. In glycerol, this "volume" is larger and was calculated to contain "hydration" of about 0.2 grams of water per gram of protein. This simple case is an illustration that the information obtained about a macromolecule in solution concerns its properties in the given conditions of the solution. Ribonuclease is a different "molecule" in ethanol solution and in glycerol solution.</p><p>Referring to Figure <ref type="figure" target="#fig_3">2</ref>, the special case treated by Tardieu et al (40) is a particle in which the third component is excluded from a constant V', which then contains a mass M 2�dN A of water. Using arguments similar to those developed for the two-component solution, above, it can be shown that if the packing of water in V' were different from bulk it would show up in v 2 • As before, it is not necessarily justified to equate M2V2/N A with Vp and M2�1i51/NA with V'. It would be correct, however, if the partial specific volume of water in V' were Vb i.e. unperturbed with respect to bulk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Radius of Gyration and Contrast</head><p>In the thermodynamic approach, contrast is defined as op/oc only in the forward scattering (Q = 0) direction. The scattering length density incre ment is the same as the refractive index increment of the solution. There is a direct way of measuring this value for neutrons using interferometry <ref type="bibr" target="#b18">(19)</ref>, although this method has not yet been used for biological samples. We recall that a value for op/oc is needed in order to determine molecular weight ratio from /(0). For non-zero scattering angles, there is as yet no analogous thermodynamical definition of contrast. In the particle picture the contrast of a volume i is defined as its excess scattering length (bi -pOvi), where the size of the volume Vi is arbitrary, provided it is small compared to the resolution (2n/Q)3. The radius of gyration RG obtained from the Guinier approximation is that of the contrast distribution inside the particle. Whereas the value of /(0) depends only on the mean contrast of the particle, that of RG depends on how it is distributed about its center of mass. We saw, above, that for a two component solution it is not possible to assess the density of solvent in V' from V2 alone (Figure <ref type="figure" target="#fig_3">2</ref>). The value of RG, on the other hand, is sensitive to that density. In this respect, RG is a more discriminating parameter for particle models. The behavior of RG in H20: D 2 0 contrast variation has been treated above. It is worthwhile to emphasize, however, that both Vp and V' contribute to RG and since V' contains water, its contribution will be dominated by H : D exchange. The comments of the previous section on the interpretation of RG as a function of contrast for a particle with inhomogeneous exchange would be fully applicable in this case. The H20: D20 dependence of RG in tRNA was an important factor in identifying and describing a layer of water of higher density than bulk water surrounding the molecule (z. G. Li, R. Giege, B. Jactot, R. Oberthuer, J. C. Thierry, and G. Zaccai', to be published).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Molecular Weight Determination</head><p>Equation 1 shows that for a given , solution I(O)/c is proportional to the molecular weight of the macromolecule. To obtain an absolute value, I(O)jc must be measured on an absolute scale and the density increment, 8p/8c or �::X bip O vj)/M, must be known. Jacrot &amp; Zaccai' (18) have discussed this application of neutron scattering to biological molecules. In H20 solution, because of the small negative value of p O , the density increment for proteins and nucleic acids is not very sensitive to the partial specific volumes, and its value could be estimated reliably from chemical composition alone. Using contrast variation, provided some assumption is made for in-situ partial volumes and exchange, the molecular weights of the components of a complex particle (a nucleoprotein or a protein detergent micelle, for example) could be determineo in situ. This can be illustrated by the cases of influenza virus and Semliki forest virus. Both viruses have a nucleoprotein core surrounded by a lipid bilayer and a protein shell. In both cases neutron scattering in conjunction with other techniques has allowed a determi nation of the virus molecular weight and composition (24; unpublished results). The critical point in all molecular weight determinations is the measurement of concentration, which should be done by absolute methods (dry weight or aminoacid analysis, but not colorimetric methods such as the method of Lowry).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Practical Considerations</head><p>It is a good approximation to consider a soluble protein in relatively dilute aqueous buffer (;;50.1 M salt) as a two component solution. The scattering density increment is calculated reliably from its chemical composition, and the partial specific volume is obtained from an independent density measurement. When the solution contains a relatively large concentration of a third component that does not interact preferentially with the particle, the arguments of Tardieu et al <ref type="bibr" target="#b40">(40)</ref> might apply; in which case, the interpretation would be in terms of an "equivalent particle" occupying a constant volume <ref type="bibr" target="#b22">(23)</ref>.</p><p>Nucleic acid molecules are polyelectrolytes and interact preferentially with salt ions and water; their solutions cannot be considered as two component, even in dilute buffer. For a thorough interpretation of neutron scattering data, the .; and jj parameters should be measured for each condition by independent densimetry experiments, and it should be verified that I(O)/c agreed with those parameters. In the particle approach, these parameters are dominated by the perturbed solvent surrounding the macromolecule. The radius of gyration as a function of contrast is a sensitive measure of the extent and conformation of this perturbation. These arguments apply equally well to other systems with preferential interactions with solvent components (charged micelles, for example).</p><p>The analysis of mixed systems such as nucleoproteins, or membrane proteins in detergent micelles, should be treated very carefully. There could be important changes of the partial volumes and interaction parameters upon complex formation. In other words, the match point of a component within the complex might not be the same as its "free" value, even if solution conditions were similar. It follows that separation of the contribution of the different components of the complex to the scattering could only be approximate, within the uncertainty of in-situ partial volumes. A possible approach to this problem is by partial deuteration. The contrast of a component is changed in a known way, while keeping its partial volume constant. A comparison of data from different partial deuteration levels could yield the in-situ partial volumes. Accurate absolute de ute ration levels are required and should be obtained by independent measurements (NMR, for instance). This approach has been used in a study of the 50S ribosomal subunit of E. coli by Crichton et al <ref type="bibr" target="#b1">(2)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTERPARTICLE CORRELATIONS</head><p>One of the hypotheses made in treating NSAS data is the absence of correlation in the positions or orientations of the particles in solution. For a dilute protein solution this hypothesis is usually justified; for instance, for a concentration of 10 mg/ml of a 50,000 Mr protein the average distance between particles is 200 A, and long-range interactions of electrostatic origin are cancelled out by the distribution of positive and negative charge on the surface of the protein. The situation is very different for nucleic acids, nucleic acid-protein complexes, or lipoproteins; in these cases, there is a long-range electrostatic interaction that will of course depend on salt concentration in the solution. A complete treatment of small angle scattering by a solution of interacting particles requires a knowledge of the potential of interactions. The general principles are explained in Guinier &amp; Fournet (13), but a general method for the analysis of the data is still lacking. The qualitative features of such an analysis are more easily explained for spherical objects. For such objects the scattered intensity can be decomposed as follows:</p><formula xml:id="formula_12">I(Q) = N(F(Q)2)S(Q).</formula><p>F(Qf is the intensity scattered by one object without interactions, and SeQ) is the Fourier transform of the pair distribution function g(r) of the centers of gravity of the objects. In the absence of all interactions S(Q) is unity, but in the presence of repulsive interactions S(Q) will oscillate around unity as shown in Figure <ref type="figure">4</ref>. S(Q) is identical to the scattering curve that would be measured for a liquid with atoms at the positions of the objects in the solution. The first maximum in S(Q) is at approximately Q � 27t/ro where ro is the average distance between neighboring objects. If we consider, for instance, a solution of tRNA molecules of 10 mg/ml, this maximum will be at around 4• 10-2 A-I, and a measurement of the radius of gyration of this molecule will be done for values of Q between S(O) and this maximum. The general expression of S(Q) is ( <ref type="formula">4</ref>)</p><formula xml:id="formula_13">S(Q) = 1 + ( N /V) Iv exp(i Qr)( g(r)-I)d3r.</formula><p>For small Q this expression reduces to</p><formula xml:id="formula_14">S(Q) = S(0)+AQ 2 + ....</formula><p>Even in the presence of interparticle correlations the intensity at small angle will still have the quadratic form I(Q) = I(0)-BQ2. But the radius of gyration that will be deduced is not the correct one. The existence of an angular range with a quadratic variation of the intensity with Q is not proof, therefore, of the absence of interparticle correlation. The importance of these effects depends on the value S(O); if S(O) were nearly unity they would be negligible.</p><p>S(O) in a liquid is proportional to its compressibility. For a protein solution the compressibility is high and is limited only by the impenetra bility of the particles. For a dilute solution, therefore, S(O) will be close to unity and interparticle effects will be negligible. But for a solution of highly charged particles (nucleic acids, lipid micelles), the existence of long-range electrostatic interactions reduces the compressibility of the solution; the interparticle effect will be large and could be reduced only by increasing the salt content of the solution to screen electrostatic interactions. A quantitat ive treatment is still lacking, and one must look for experimental conditions where the scattering curve is not concentration dependent or where an extrapolation to zero concentration is possible. Consequently, it is</p><formula xml:id="formula_15">S (0) Q Figure 4</formula><p>The "liquid" structure factor S(Q) as a function of Q (see text).</p><p>extremely difficult to measure the effects of salts on the conformation of nucleic acids, as these salts will in all cases modify the interparticle correlations (the same difficulty exists with other techniques such as photon correlation spectroscopy).</p><p>So far, we have considered only the effect of interactions between particles through repulsive forces (impenetrability or electrostatic repul sion). Attractive forces may also exist as shown by the formation of dimers or higher aggregates. We cannot discuss here the origin of these forces, but they might exist in a system, even if the formation of aggregates is not observed. Such a situation has been found for micelles of non-ionic detergent <ref type="bibr" target="#b13">(14,</ref><ref type="bibr" target="#b46">45)</ref>. In such cases S(O) would be larger than 1, and the apparent radius of gyration would be larger than the correct value.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>POL YDISPERSE SYSTEMS</head><p>A simple case of polydisperse sample is that of a solution of two inter acting molecules A and B with, for instance, the reactions A+B�AB or A+nB:;::: : ABn•</p><p>The intensity /(0) scattered by a solution of concentration c of AB is larger than that given by a stoichiometric mixture of the same concentration of A and B. For instance, if A and B are both proteins, the intensity is increased in the formation of the complex by the ratio (M A + M a)2 /(Mi + M�). It is possible, therefore, to follow the formation of the complex by measuring /(0) as a function of the ratio of the concentrations of A and B. This will give both the equilibrium constant of the reaction and its stoichiometry. At the same time the experiment can give the radius of gyration of the complex. Such experiments have been made for several complexes of tRNA with aminoacyl-tRNA synthetases <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b45">44)</ref>. In these cases using contrast variation, one can get information on the enzyme inside the complex, a more accurate determination of the stoichiometry, and the variations of the RG of the enzyme upon binding of tRNA. It is also possible in the case of the fixation of two tRNA's to determine the distance between them. An interesting extension of that method would be to study the formation of complexes between membrane proteins. This could be done with the proteins incorporated in vesicles in solutions giving different contrasts.</p><p>Another case of poly dispersed sample is that of a protein in equilibrium with aggregates, for instance A�A2�A3• This is very common. Neutron (or X-ray) scattering alone cannot deal with this situation, except in the simplest case of an equilibrium between monomer and dimer. The reason is that the concentration range that can be used for scattering experiments is limited. For a protein of, say, 20,000 M" a minimum concentration of 2 mg/ml is required; above 10 mg/ml inter particle correlations may perturb the determination of 1(0). Tn D20, it is possible to use somewhat lower concentrations, but one must keep in mind that D20 modifies the equilibrium. A useful approach is to combine neutron scattering with photon correlation spectroscopy. Both the ap parent molecular weight M and the apparent diffusion coefficient Dare dependent on the concentrations in the solution at equilibrium, but with different expressions:</p><formula xml:id="formula_16">M = C2:cjM j )/ LC j D = (LcjMPj)/LCjMj.</formula><p>This approach has already been used for a solution of a viral protein (M. Cuillel, M. Zulauf, and B. Jacrot, to be published).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>QUATERNARY STRUCTURES AND RADII OF GYRATION IN SITU</head><p>The determination of in-situ shapes and spatial relations between com ponents of quaternary structure is an important application of neutron solution scattering. The contribution to the scattered intensity of part of the structure is separated from the rest by contrast variation, deuterium labelling, or both. To this class of problem belong not only the triangulation of the quaternary structures of ribosomal subunits <ref type="bibr" target="#b6">(7,</ref><ref type="bibr" target="#b27">27,</ref><ref type="bibr" target="#b28">28,</ref><ref type="bibr" target="#b31">31)</ref> but also the analysis of the shape of a subunit in a protein complex <ref type="bibr" target="#b34">(34)</ref> or protein-lipid complex <ref type="bibr">(1,</ref><ref type="bibr" target="#b29">29,</ref><ref type="bibr" target="#b41">41,</ref><ref type="bibr" target="#b42">42)</ref> or the determination of the structure of spherical viruses <ref type="bibr" target="#b16">(17)</ref>. The strategy used in each case is somewhat different and is well described in the references.</p><p>We shall discuss here the problems arising when one wants to determine not only the position but also the shape of a component (e.g. a protein) inside a quaternary structure. These have been treated by Moore <ref type="bibr" target="#b25">(25,</ref><ref type="bibr" target="#b26">26)</ref>. The main difficulty can be expressed simply. Consider a complex AB where A and B have very different mean scattering densities (Figure <ref type="figure" target="#fig_5">5</ref>). If the scattering from the complex were measured at the match point of A, /(0) would be due to B alone; but at finite angle the positive and negative regions of A would contribute as well, and the measured RG would not be that of B alone. Applying the parallel axes theorem, at the match point of A, R� = R�+M;"(Ri+-Ri-)/MB' M;" is the excess scattering length of the positive regions of A; RA + is their radius of gyration about the c7nter of B; R A -is the radius of gyration of the negative regions of A; RG is the measured value, and M B' RB are the excess scattering length and radius of gyration of B.</p><p>The experiment would be successful if the homogeneity conditions were fulfilled; i.e. M;"(Ri+ -Ri-) should be negligible compared to MBR�, either because the fluctuations were small (M;" � 0) or if the geometry were such that Ri + = Ri _ . This is the case found with spherical viruses made of RNA surrounded with proteins. Each component has a rather uniform scattering density, and its fluctuations can be neglected when determining the RG of the other. It is not the case if one tried to measure the RG of tRNA inside a tRNA-aminoacyl-tRNA synthetase complex. The difference be tween hydrophilic and hydrophobic residues would be responsible for a significant value of M;"(Ri+ -Ri-) in the protein component. Numerical calculations show that this value is comparable to the M BR� of the tRNA, and so a meaningful determination of that last quantity cannot be done. This difficulty is increased by the fact that the point at which the scattering density of the protein is zero is not known with accuracy. As explained above, the object analyzed with neutron scattering is the macromolecule plus the solvent perturbed by it. When the protein is associated with the tRNA, part of this solvent is displaced and the scattering density of the protein in situ could be different from that in solution. This statement is equivalent to saying that the specific volume of a complex is not identical to that calculated from its components. This last effect is even more true for the scattering density of a nucleic acid, which, as explained above, depends on the nature of the surrounding ions.</p><p>It follows therefore that conclusions drawn from contrast variation on the in-situ radii of gyration of both moieties should be critically examined. The application of the Stuhrmann formula to the dependence of the radius of gyration with contrast is rigorous, and it provides direct information on the scattering density and exchange distribution inside the particle; difficulties arise in establishing the correspondence between this distri bution and that of the chemical compounds.</p><p>Ribosomal subunits from E. coli have been the object of in-situ studies using the whole range of approaches: contrast variation on native or partially deuteriated subunits, deuterium labelling of protein pairs or of single proteins <ref type="bibr" target="#b6">(7,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b27">27,</ref><ref type="bibr" target="#b28">28,</ref><ref type="bibr" target="#b31">31,</ref><ref type="bibr" target="#b33">33)</ref>. These experiments provide good examples of the power and the limitations of the technique.</p><p>The determination of distance between centers of gravity of a pair of proteihs is certainly one of the important successful applications of neutron scattering. Different experimental strategies have been described <ref type="bibr" target="#b27">(27,</ref><ref type="bibr" target="#b28">28)</ref>.</p><p>More recently, the in-situ radii of gyration of a few ribosomal protei�s have been determined directly <ref type="bibr" target="#b28">(28)</ref>. The 50S ribosomal subunit was reconstituted from partially deuteriated RNA and proteins; the levels of deuteriation were chosen so that the RNA and the protein had the same scattering density with a match point very close to 100% D20. The protein to be studied was incorporated in the reconstitution in its hydrogenated form to maximize its contrast with the bulk of the subunit. The method simply measures the scattering at the match point of the subunit. If the matching were perfect the scattering would be due purely to the protonated protein, and the data would give its molecular weight [through 1(0)], its radius of gyration, and possibly, for very good data, some shape irifor mation. A test of the homogeneity in scattering density is obtained from Stuhrmann's parameter IX (see Introduction), which must be equal to zero within errors. Moore <ref type="bibr" target="#b26">(26)</ref> has argued that this criterion is not a guarantee that fluctuations do not contribute to the apparent radius of gyration measured. May et al (23a), however, have calculated the expected effect of these fluctuations for various models and, as expected from Equation <ref type="formula">5</ref>, have found that their influence depends on where the label is in the particie. An important point is that these fluctuations essentially affect the scattering curve only at values of Q smaller than those used for the determination of the protein radius of gyration; this makes a correct determination possible, in principle. An internal test is the determination of the molecular weight of the protein from 1(0). An incorrect radius of gyration would lead to a wrong molecular weight. It appears that, at least for ribosomal subunits, the method is valid. Its application to other systems should be submitted to the same tests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Neutron small angle scattering is a useful method if its limitations are kept in mind. One of its important advantages is the fact that external parameters can be varied easily. Experiments have already been done varying temperature, pressure, and solvent conditions in the beam. Salt concentration can be varied over a large range without perturbing the observed scattering.</p><p>The importance of using samples that are well characterized bio chemically cannot be overemphasized. Neutron experiments should be performed with all tests necessary for this characterization and with experiments using other physical methods (sedimentation, photon corre lation spectroscopy, X-rays etc) that can bring complementary information.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Quick links to online contentFurther ANNUAL REVIEWS zAccAI &amp; JACROT</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1</head><label>1</label><figDesc>Figure 1 The scattering density dependence on D20: H20 ratio in the solvent of the two components A and B of a particle. (a) Exchange oflabile H with solvent is the same for A and B.</figDesc><graphic coords="5,49.92,51.83,284.16,117.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 2 A</head><label>2</label><figDesc>Figure2A general picture of a macromolecule in solution. Vp is the volume containing the atoms of the macromolecule. V' contains solvent molecules with a diff erent composition or density than for bulk. Outside V' there is bulk solvent. Vp and V' need not be homogeneous in either density or composition.</figDesc><graphic coords="7,103.68,418.55,218.88,89.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3</head><label>3</label><figDesc>Figure 3 The scattering length density increment of different ribonuclease solutions as a function of solvent scattering density (expressed in equivalent D20: H20 ratio) (M. Lehmann and G. Zaccar, to be published).</figDesc><graphic coords="10,118.56,278.16,176.64,216.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5 A</head><label>5</label><figDesc>Figure 5 A general picture of a two-component macro molecule AB in solvent, which matches A in mean scattering density. A + has scattering density larger than the mean, and A -, smaller than the mean.</figDesc><graphic coords="16,53.76,497.28,105.60,72.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Neutron scattering amplitudes b in units of 10-12 em</figDesc><table><row><cell>Nucleus</cell><cell>b</cell><cell>Nucleus</cell><cell>b</cell></row><row><cell>Hydrogen</cell><cell cols="2">-0.3742 Magnesium</cell><cell>0.52</cell></row><row><cell>Deuterium</cell><cell cols="2">0.6671 Sulphur</cell><cell>0.28</cell></row><row><cell>Carbon</cell><cell cols="2">0.6651 Chlorine</cell><cell>0.96</cell></row><row><cell>Nitrogen</cell><cell>0.940</cell><cell>Potassium</cell><cell>0.37</cell></row><row><cell>Oxygen</cell><cell>0.580</cell><cell>Calcium</cell><cell>0.47</cell></row><row><cell>Sodium</cell><cell>0.36</cell><cell></cell><cell></cell></row></table><note><p>volume d3r. Contrast is also expressed as a difference in density: (p(r) _ pO).</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>Their orientations are random with respect to each other.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p>Their concentration is sufficiently small that there IS no interference between waves scattered by different particles.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>Thermodynamically, the solution is a two-component system: a homo geneous solvent and a macromolecular solute.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>ZACCAI &amp; JACROT</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>zAccAI &amp; JACROT</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Semeriva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chabre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. BioI</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="297" to="317" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Crichton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Engelman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Haas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H J</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Parfait</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Stuhrmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="5547" to="5550" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dessen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bianquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zaccai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jacrot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Bioi</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="293" to="313" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">An Introduction to the Liquid State</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Egelstalt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>Academic</publisher>
+			<biblScope unit="page" from="73" to="77" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eisenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Macromolecules and Polyelectrolytes in Solution</title>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<publisher>Oxford Univ. Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Eisenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Q. Rev. Biophys</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="141" to="172" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Engelman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enzymol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="656" to="669" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Engelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Rev. Biophys. Bioeng</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="219" to="241" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><surname>Glatter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="166" to="175" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><surname>Glatter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="7" to="11" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><surname>Giatter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">8</biblScope>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">0</forename><surname>Giatter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kratky</surname></persName>
+		</author>
+		<title level="m">Small Angle X -ray Scattering</title>
+		<meeting><address><addrLine>London/New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page">515</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guinier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fournet</surname></persName>
+		</author>
+		<title level="m">SmaIl Angle Scattering of X -rays</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Hayter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Zulauf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloid Polym. Sci</title>
+		<imprint>
+			<biblScope unit="volume">260</biblScope>
+			<biblScope unit="page" from="1023" to="1028" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="middle">K</forename><surname>Ibel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">H B</forename><surname>Stuhrmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Bioi</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="255" to="265" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jacrot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rep. Prog. Phys</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="911" to="953" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Comprehensive Virology</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jacrot</surname></persName>
+		</author>
+		<editor>H. Fraenkel-Conrat, R. R. Wagner</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Plenum</publisher>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="129" to="181" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jacrot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zaccai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biopolymers</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="2413" to="2426" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kischko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Oberthuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schlenker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Report From lnstitut Laue-Langevin</title>
+		<imprint>
+			<biblScope unit="page">380</biblScope>
+			<date type="published" when="1981">1981</date>
+			<pubPlace>Grenoble, France</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Kneale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Baldwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Bradbury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Q. Rev. Biophys</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="485" to="527" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H J</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stuhrmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enz ymol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="670" to="706" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Kratky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Q. Rev. Biophys</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="481" to="537" />
+			<date type="published" when="1972">0., Pitz, 1. 1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Luzzati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tardieu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Rev. Biophys. Bioeng</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="31" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>May</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Stuhrmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">K H</forename><surname>Nierhaus</surname></persName>
+		</author>
+		<title level="m">Proc. Brookhaven Symp. BioI</title>
+		<meeting>Brookhaven Symp. BioI</meeting>
+		<imprint>
+			<publisher>In press</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="volume">32</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Mellema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Andree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Krygsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kroon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ruigrok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W H</forename><surname>Cusack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zulauf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. BioI</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="329" to="336" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">1. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="479" to="482" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">1. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="237" to="240" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">8</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Engelman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enzymol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="629" to="638" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Nierhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lietzke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>May</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nowotny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schulze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wurmbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Stuhrmann</surname></persName>
+		</author>
+		<title level="m">Proc. Natl. Acad. Sci USA</title>
+		<meeting>Natl. Acad. Sci USA</meeting>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note>In press</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">8</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sardet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Villaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chabre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Bioi</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="177" to="206" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Pilz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Giatter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kratky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enzymol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="148" to="249" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Ramakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yabuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sillers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Schindler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Engelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. BioI</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="739" to="760" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note>and references therein</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Schoenborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Nunes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Rev. Biophys. Bioeng</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="529" to="552" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">N</forename><surname>Serdyuk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enzymol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="750" to="775" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stockel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>May</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">!</forename><surname>Strel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cejka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hoppe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Heumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zillig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Crespi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="411" to="423" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stuhrmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Crystallogr. A</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="297" to="306" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Stuhrmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">173</biblScope>
+			<biblScope unit="page">78</biblScope>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Stuhrmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Kirste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z. Phys. Chern. Frankfurt am Main</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="247" to="250" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Stuhrmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Crystallogr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="325" to="345" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tardieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vachette</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="35" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tardieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vachette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gulik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ie Maire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="4399" to="4406" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Wise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Karlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Schoenborn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biophys. l</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="473" to="496" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yeager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Schoenborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Engelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stryer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. BioI</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="315" to="348" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zaccai</surname></persName>
+		</author>
+		<title level="m">Topics in Current Physics</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Dachs</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Verlag</publisher>
+			<date type="published" when="1978">1978</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="243" to="270" />
+		</imprint>
+	</monogr>
+	<note>Neutron Diff raction</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zaccai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Morin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jacrot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">1</forename><forename type="middle">C</forename><surname>Thierry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Giege</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. BioI</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="483" to="500" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">P. 1982. 1. Phys</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zulauf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosenbusch</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Chern. In press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

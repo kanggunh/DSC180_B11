@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Perovskite light-emitting diodes with external quantum efficiency exceeding 20 per cent</title>
+				<funder>
+					<orgName type="full">Singapore National Research Foundation</orgName>
+				</funder>
+				<funder ref="#_Q8EnBwn">
+					<orgName type="full">Scientific Research Funds of Huaqiao University</orgName>
+				</funder>
+				<funder ref="#_SYVZZgk">
+					<orgName type="full">US Department of the Navy, Office of Naval Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Natural Sciences and Engineering Research Council of Canada</orgName>
+				</funder>
+				<funder ref="#_GwUY39z">
+					<orgName type="full">NRF</orgName>
+				</funder>
+				<funder ref="#_3gdkdjD">
+					<orgName type="full">Canada Research Chairs program</orgName>
+				</funder>
+				<funder ref="#_wHgPqSJ">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_j5RmuEk">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_6Gg7SYM">
+					<orgName type="full">Ministry of Education</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2018-10-10">10 October 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Kebin</forename><surname>Lin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jun</forename><surname>Xing</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Physics and Applied Physics</orgName>
+								<orgName type="department" key="dep2">School of Physical and Mathematical Sciences</orgName>
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<settlement>Singapore</settlement>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Na</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Quan</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Electrical and Computer Engineering</orgName>
+								<orgName type="institution">University of Toronto</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">F</forename><surname>Pelayo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">García</forename><surname>De Arquer</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Electrical and Computer Engineering</orgName>
+								<orgName type="institution">University of Toronto</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiwen</forename><surname>Gong</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Electrical and Computer Engineering</orgName>
+								<orgName type="institution">University of Toronto</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jianxun</forename><surname>Lu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Liqiang</forename><surname>Xie</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Weijie</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Physics and Applied Physics</orgName>
+								<orgName type="department" key="dep2">School of Physical and Mathematical Sciences</orgName>
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<settlement>Singapore</settlement>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Di</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chuanzhong</forename><surname>Yan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wenqiang</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xinyi</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yan</forename><surname>Lu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeffrey</forename><surname>Kirman</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Electrical and Computer Engineering</orgName>
+								<orgName type="institution">University of Toronto</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><surname>Sargent</surname></persName>
+							<email>ted.sargent@utoronto.ca</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Electrical and Computer Engineering</orgName>
+								<orgName type="institution">University of Toronto</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qihua</forename><surname>Xiong</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Physics and Applied Physics</orgName>
+								<orgName type="department" key="dep2">School of Physical and Mathematical Sciences</orgName>
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<settlement>Singapore</settlement>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhanhua</forename><surname>Wei</surname></persName>
+							<email>weizhanhua@hqu.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Ministry of Education</orgName>
+								<orgName type="department" key="dep2">College of Materials Science &amp; Engineering</orgName>
+								<orgName type="laboratory">Engineering Research Center of Environment-Friendly Functional Materials</orgName>
+								<orgName type="institution">Huaqiao University</orgName>
+								<address>
+									<settlement>Xiamen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Perovskite light-emitting diodes with external quantum efficiency exceeding 20 per cent</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-10-10">10 October 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9B1AEA14B5848B6FAFC107961303C97C</idno>
+					<idno type="DOI">10.1038/s41586-018-0575-3</idno>
+					<note type="submission">Received: 22 January; Accepted: 22 August 2018;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Metal halide perovskite materials are an emerging class of solutionprocessable semiconductors with considerable potential for use in optoelectronic devices 1-3 . For example, light-emitting diodes (LEDs) based on these materials could see application in flatpanel displays and solid-state lighting, owing to their potential to be made at low cost via facile solution processing, and could provide tunable colours and narrow emission line widths at high photoluminescence quantum yields 4-8 . However, the highest reported external quantum efficiencies of green-and red-lightemitting perovskite LEDs are around 14 per cent 7,9 and 12 per cent 8 , respectively-still well behind the performance of organic LEDs 10-12 and inorganic quantum dot LEDs 13 . Here we describe visible-lightemitting perovskite LEDs that surpass the quantum efficiency milestone of 20 per cent. This achievement stems from a new strategy for managing the compositional distribution in the devicean approach that simultaneously provides high luminescence and balanced charge injection. Specifically, we mixed a presynthesized CsPbBr 3 perovskite with a MABr additive (where MA is CH 3 NH 3 ), the differing solubilities of which yield sequential crystallization into a CsPbBr 3 /MABr quasi-core/shell structure. The MABr shell passivates the nonradiative defects that would otherwise be present in CsPbBr 3 crystals, boosting the photoluminescence quantum efficiency, while the MABr capping layer enables balanced charge injection. The resulting 20.3 per cent external quantum efficiency represents a substantial step towards the practical application of perovskite LEDs in lighting and display.</p><p>MAPbI 3-x Cl x and MAPbBr 3 were used in early perovskite LEDs that achieved external quantum efficiencies (EQEs) of 0.76% and 0.1% for the near-infrared and green regimes, respectively 14 . Two strategies <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b14">15</ref> have since led to notable improvements in LED performance. The first strategy involves direct spin-coating of colloidal perovskite nanocrystals <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> ; these nanocrystals are highly luminescent with a photoluminescence quantum yield (PLQY) of nearly 90%, and their optical properties can be tuned by compositional engineering and crystal size. The second approach requires deposition of bulk perovskite films using perovskite precursor solutions whose composition can be suitably engineered (for example, stoichiometrically modified MAPbBr 3 6</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>and MAPbX 3 with the addition of long-chain ammonium halides <ref type="bibr" target="#b4">5</ref> or 1-naphthylmethylamine halides <ref type="bibr" target="#b7">8</ref> ).</p><p>Here we have built on prior works and pursued a new strategy for generating still higher EQEs. Our approach was to combine a high PLQY with balanced charge injection by constructing a compositionally graded perovskite based on a quasi-core/shell structure: the bottom part consists of perovskite light-emitting polycrystals capped with a defect-passivation layer that passivates the grain boundaries; and the top part serves to passivate the surface and simultaneously balance charge injection into the perovskite LED device.</p><p>We used the very different solubility and crystallinity of perovskite (CsPbBr 3 ) and passivant (MABr) in polar solvent and-through a one-step deposition method-fabricated in situ the compositionally graded material. This consisted of a defect-passivated perovskite layer on the bottom (CsPbBr 3 /MABr) and an electrical passivating layer (MABr) on top. The resulting highly luminescent perovskite films and balanced charge injection enabled the development of perovskite LED devices with an initial EQE of 17%. We further improved the device charge injection balance by inserting an insulating layer of poly(methyl methacrylate) (PMMA) between the perovskite layer and the electrontransfer layer (ETL), thereby maximizing the device efficiency at 20.3%.</p><p>We synthesized a CsPbBr 3 perovskite powder as a starting material, and then added MABr. We engineered the amount of MABr additive to improve perovskite film formation and PLQY (for example, 'mixture 1.0' signifies that the molar ratio of MABr to CsPbBr 3 is 1). Figure <ref type="figure">1a</ref> shows three different perovskite structures fabricated using a strategy that we term compositional distribution management: single-layered CsPbBr 3 (prepared by one-step spin-coating); bilayered CsPbBr 3 /MABr (prepared by coating another layer of MABr on the as-formed CsPbBr 3 layer); and quasi-core/shell CsPbBr 3 /MABr (mixture 1.0). Figure <ref type="figure">1b</ref> and Extended Data Fig. <ref type="figure">1</ref> show that the capping layer of MABr (in the bilayered structure) only slightly enhances photoluminescence emission, while the mixture-1.0 film with quasi-core/shell structure presents very bright photoluminescence emission (see Supplementary Information, video S1). We found an enhancement of photoluminescence proportional to the amount of MABr additive when the molar ratio of MABr to CsPbBr 3 was increased from 0.4 to 1.0; photoluminescence began to decrease when the molar ratio was increased beyond 1.0 (Extended Data Fig. <ref type="figure">1</ref>).</p><p>We observed that, during film formation, CsPbBr 3 crystallized rapidly, whereas MABr sequentially increased its crystallization rate after the CsPbBr 3 precursor was completely consumed (Extended Data Fig. <ref type="figure">1d</ref>). We explain this by noting that the solubility of CsPbBr 3 (which we find to be 0.56 M) is far below than that of MABr (5 M) in dimethylsulfoxidde (DMSO).</p><p>Secondary ion mass spectrometry (SIMS) depth analysis (Fig. <ref type="figure">1c</ref>) supports the CsPbBr 3 /MABr gradient structure. From the SIMS results, one can see that the top layer contains CH 4 N + ions (from the capping MABr; stage Ι); the middle layer comprises Pb + ions with few CH 4 N + ions (from CsPbBr 3 and MABr; stage ΙΙ); and the bottom layer consists of In + ions (from the indium tin oxide (ITO) used as the support; stage ΙΙΙ). To gain insight into the compositional distribution of the as-formed mixture-1.0 films, we carried out cross-sectional scanning electron microscopy (SEM) and transmission electron microscopy (TEM) studies. We prepared the cross-sectional TEM samples by using a focused ion beam, with C and Pt layers predeposited in order to protect the perovskite from possible ion-beam-induced damage. The crosssectional SEM image (Extended Data Fig. <ref type="figure">2a</ref>) shows a high-quality perovskite film with obvious grain boundaries. The cross-sectional TEM and element-mapping images (Fig. <ref type="figure">1d</ref> and Extended Data Fig. <ref type="figure">2b</ref>) show a well defined layer-by-layer structure, with ITO at the bottom, topped with poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT:PSS), then with CsPbBr 3 , MABr and finally C. A shell of</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>MABr can be seen in the grain boundaries of CsPbBr 3 (white arrows in Fig. <ref type="figure">1d</ref>), and another layer of MABr caps the CsPbBr 3 , forming the quasi-core/shell structure. We sought to estimate experimentally the trap state density of the three classes of perovskite samples. We found (Extended Data Fig. <ref type="figure">3a</ref>) that the MABr shell reduces defects in the mixture-1.0 perovskite films by a factor of four compared with the single-layered CsPbBr 3 film.</p><p>To gain insight into the effect of the thick upper layer of MABr on photoluminescence enhancement, we washed the bright perovskite film using anhydrous isopropyl alcohol (IPA) solvent, and observed that the photoluminescence decreased gradually as the MABr was removed (Extended Data Fig. <ref type="figure">3b</ref>). To make a direct comparison, we also prepared pure CsPbBr 3 and MAPbBr 3 perovskite films. As shown in Extended Data Fig. <ref type="figure">3c</ref>, all perovskite films show a transparent yellow colour under room illumination. However, only the mixture-1.0 perovskite films reveal high brightness under ultravioletlamp excitation. The ultraviolet/visible absorbance spectra (Extended Data Fig. <ref type="figure">3d</ref>) of the mixture-1.0 film present a band-edge absorbance at 531 nm, similar to CsPbBr 3 (528 nm), corresponding to a bandgap of 2.33 eV. Analysis of the photoluminescence spectra of the three perovskite samples indicates that emission from the mixture-1.0 film is close to the emission of pure-CsPbBr 3 films (Extended Data Fig. <ref type="figure">3e</ref>). In order to quantify the photoluminescence enhancement induced by the MABr additive, we measured the absolute PLQY according to a reported protocol <ref type="bibr" target="#b19">20</ref> . We determined that the PLQY of the mixture-1.0 perovskite film was about 80%, while the PLQYs of CsPbBr 3 and MAPbBr 3 are not detectable (from an analysis of our system signalto-noise ratio, we conclude that their PLQYs lie below 1%). Timeresolved photoluminescence spectra (Extended Data Fig. <ref type="figure">3f</ref>) show that the mixture-1.0 film has a 50% longer radiative lifetime than that of pure CsPbBr 3 , and that the longer lifetime of the photoluminescence transition is direct evidence of a decrease in the concentration of defects and an increase in film crystallinity <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b8">9</ref> . We attribute the long lifetime of photoluminescence to the fact that the compositionally graded structure combined with the MABr shell passivates the nonradiative defects in CsPbBr 3 .</p><p>We analysed the crystal structure of the perovskite films using X-ray diffraction (XRD; Extended Data Fig. <ref type="figure">4a</ref>). We conclude that the mixture-1.0 perovskite exhibits the same crystal structure as monoclinic CsPbBr 3 , instead of a mixture of separate phases of CsPbBr 3 and MAPbBr 3 . X-ray photoelectron spectroscopy (XPS) data (Extended Data Fig. <ref type="figure">4b,</ref><ref type="figure">c</ref>) also indicate the existence of CsPbBr 3 and MABr in the mixture-1.0 perovskite film.</p><p>The perovskite layer requires high surface coverage and low roughness in order to achieve high-performance LEDs. We characterized the surface morphology of the pure CsPbBr 3 , MAPbBr 3 and mixture-1.0 perovskite films using SEM and atomic force microscopy (AFM) (Extended Data Fig. <ref type="figure">5</ref>). We observed small particles and pinholes in the CsPbBr 3 and MAPbBr 3 films; by contrast, in the mixture-1.0 film, smooth and well packed micrometre-sized cuboids were combined with good crystallinity.</p><p>We fabricated perovskite LEDs consisting of single-layered CsPbBr 3 , single-layered MAPbBr 3 , bilayered CsPbBr 3 and MABr, or mixture-1.0 perovskites with a quasi-core/shell structure, based on a device structure consisting of layered ITO/PEDOT:PSS/perovskite/B3PYMPM/ LiF/Al (Fig. <ref type="figure">2a</ref>, where B3PYMPM is C 37 H 26 N 6 ). PEDOT:PSS served as the hole-transfer layer (HTL), B3PYMPM as the ETL, LiF as an electron-injection layer and Al as the cathode (Extended Data Fig. <ref type="figure">6a</ref>). Photographs of mixture-1.0 perovskite LED devices with six uniform and bright green-emitting pixels (2 mm × 1.5 mm) are shown in Fig. <ref type="figure">2b</ref>. Larger-area devices (6 mm × 20 mm; Extended Data Fig. <ref type="figure">6b</ref>) showcase uniform and bright emission.</p><p>The device performance of bilayered CsPbBr 3 /MABr perovskite is quite limited (Extended Data Fig. <ref type="figure">6c</ref>)-only slightly better than that of the single-layered CsPbBr 3 -possibly because of its low PLQY and </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head><p>poor surface morphology. The mixture-1.0 devices display an emission peak at 525 nm with a full width at half maximum (FWHM) of 20 nm (Extended Data Fig. <ref type="figure">6d,</ref><ref type="figure">e</ref>), corresponding to a CIE colour-space coordinates of (0.18, 0.75). We collected current-density-voltage (J-V) and luminance-voltage (L-V) curves in order to evaluate the LED performance (Extended Data Fig. <ref type="figure">6f-h</ref>). Devices fabricated using mixture 1.0 exhibited the lowest current density at the same time as the highest luminance, indicating the best performance among our three classes of perovskite LED. The mixture-1.0 devices gave a maximum current efficiency of 23 cd A -<ref type="foot" target="#foot_1">foot_1</ref> at 3.8 V-fully three orders of magnitude higher than the current efficiency of the pure CsPbBr 3 -and MAPbBr 3 -based LEDs (Fig. <ref type="figure">2c</ref>).</p><p>We posited that the superior LED performance of the mixture-1.0 devices arises not only from the high PLQY, but also from its combination with improved charge injection balance. To quantify charge injection, we measured the J-V scharacteristics of electron-only devices (ITO/B3PYMPM/perovskite/B3PYMPM/Al) or hole-only devices (ITO/PEDOT:PSS/perovskite/Au) (Fig. <ref type="figure">2d</ref>). We conclude that electrons dominate injection into the pure-CsPbBr 3 devices, whereas a more balanced charge injection occurs in the case of mixture-1.0 devices. After optimization, we obtained an average current efficiency of 35 cd A -1 from 20 devices, with the best current efficiency reaching 65 cd A -1 (Fig. <ref type="figure">2e</ref>). The EQE-V characteristics of the best-performing device show a maximum EQE of 17% at 4.2 V (Fig. <ref type="figure">2f</ref>)-a record for a green-emitting perovskite LED.</p><p>Figure <ref type="figure">2d</ref> shows that the capping MABr layer in the quasi-core/shell structure helps to reduce electron injection and improve charge balance. We thought that further improvement could potentially be realized through additional optimization of charge balance. We achieved this by depositing a thin PMMA layer on the as-formed perovskite. We then tested electron-only and hole-only device performance again, and found that the PMMA layer further helps in balancing charge injection (Fig. <ref type="figure">3a</ref>). We therefore inserted a thin PMMA layer between the perovskite and ETL (Fig. <ref type="figure">3b</ref> and Extended Data Fig. <ref type="figure">7a</ref>). We found the PMMA to be continuous and smooth (Extended Data Fig. <ref type="figure">7b,</ref><ref type="figure">c</ref>), enabling charge injection into perovskite via tunnelling <ref type="bibr" target="#b12">13</ref> . After we optimized the thickness of the PMMA layer and the molar ratio between MABr and CsPbBr 3 in the mixed perovskite precursor (Extended Data Fig. <ref type="figure">7d,</ref><ref type="figure">e</ref>), the devices reached a higher current efficiency of 78 cd A -1 (Fig. <ref type="figure">3c</ref>).</p><p>Figure <ref type="figure">3d</ref> presents the J-V and L-V curves of the best-performing mixture-1.0 device, showing a low driving current density and high luminance of 14,000 cd m -<ref type="foot" target="#foot_2">foot_2</ref> . A low turn-on voltage of 2.7 V-just slightly higher than the bandgap of the mixture-1.0 perovskite-is obtained because of the high quality of the perovskite thin film and the more efficient carrier injection from the HTL and ETL. We also found that the electroluminescence spectra at different applied voltages remained the same, and that the maximum power efficiency was 69 lm W -1 at 3.6 V (Extended Data Fig. <ref type="figure">8</ref>). A maximum EQE value of 20.3% is achieved with a luminance of 3,400 cd m -2 (Fig. <ref type="figure">3e</ref> and Supplementary Information, videos S2 and S3).</p><p>We measured the lifetime of the device by applying a constant current and monitoring the evolution of luminance <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b20">21</ref> . After we applied a constant driving current of 5 mA (167 mA cm -2 ), the luminance increased from 3,800 cd m -2 to 7,130 cd m -2 (L 0 ) in 0.66 min and then began to diminish (Fig. <ref type="figure">3f</ref>). The half-lifetime (T 50 )-defined as the time taken for the luminance to decrease to L 0 /2-was about 10 min. By using a calculation of</p><formula xml:id="formula_0">= L T constant n 0 50</formula><p>, and assuming an acceleration factor of n = 1.5 (ref. <ref type="bibr" target="#b12">13</ref> ; Extended Data Fig. <ref type="figure">9a</ref>), we estimate this device's T 50 at 100 cd m -2 to be about 100 h-to our knowledge, the highest value estimated to date in high-performance perovskite LEDs, and an important step towards practical application. We also measured the stability of the device under continuous operation with luminance maintained at a constant value of about 100 cd m -2 , achieved by tuning the applied current to maintain luminance. The results (see Supplementary Information, video S4, and Extended Data Fig. <ref type="figure">9b</ref>) show that the device could operate continuously for about 46 h, a similar order of magnitude to the extrapolated value from the accelerated ageing test. The corresponding EQE decreased from 13% to 5.6% over these 46 hours of continuous operation, indicating that the device did degrade even at this low luminance. Nonetheless, the stability performance shown here is two to three orders of magnitude higher than previous reported values <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref> (Extended Data Table <ref type="table">1</ref>).</p><p>In summary, we have demonstrated a new strategy for realizing compositionally graded perovskite devices that simultaneously achieve high PLQY and balanced charge injection. Our approach exploits the differing solubilities of perovskite precursors to control the crystallization of CsPbBr 3 /MABr gradient structure in a single step. The MABr shell passivates nonradiative defect sites in CsPbBr 3 crystals, and the MABr capping layer balances charge injection. These effects together allow us to achieve perovskite LEDs with a narrow green emission, exhibiting a record EQE that surpasses 20%. This high EQE is now on a par with those of more mature technologies such as organic LEDs. Improvements in device stability remain a challenge, and strides in that direction might be achieved by suppressing ion migration with additives or a blocking layer, fabricating a high-quality perovskite layer, and further optimizing the perovskite/ETL and perovskite/HTL interfaces <ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online content</head><p>Any methods, additional references, Nature Research reporting summaries, source data, statements of data availability and associated accession codes are available at <ref type="url" target="https://doi.org/10.1038/s41586-018-0575-3">https://doi.org/10.1038/s41586-018-0575-3</ref>. ) led to the luminance increasing from 3,800 cd m -2 to 7,130 cd m -2 (L 0 ) and then diminishing. We estimate this device's T 50 at 100 cd m -2 to be about 104.56 h.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MEthodS</head><p>Unless otherwise stated, all chemicals were purchased from Sigma-Aldrich and used as received. Preparation of perovskite precursor. We first synthesized CsPbBr 3 powder and used it as a starting material for precursor preparation. Specifically, we dissolved PbBr 2 (10 mmol, 3.67 g) in hydrobromic acid (8 ml), then added CsBr (10 mmol, 2.12 g, dissolved in 3 ml of water) drop by drop, producing an orange precipitate. The precipitate was filtered, washed twice using ethanol, and dried at 60 °C in a vacuum oven for 12 h before use.</p><p>CH 3 NH 3 Br (abbreviated to MABr) was prepared by reacting 12 ml of methylamine (33 wt.% in absolute ethanol) and 11 ml of hydrobromic acid (48 wt.% in H 2 O) in an ice bath for 2 h with continuous stirring. The solvent was removed using rotary evaporation at 50 °C to obtain a white MABr powder. For purification, the as-prepared MABr powder was re-dissolved in ethanol and precipitated with diethyl ether. Finally, the white powder was collected by filtration and dried at 60 °C in a vacuum oven for at least 12 h before use.</p><p>The MAPbBr 3 precursor was prepared by dissolving PbBr 2 and MABr (1:1 molar ratio) in DMSO solvent to make a 0.5 M solution. CsPbBr 3 powder can be fully dissolved in DMSO solvent to make a 0.5 M starting solution. Then, different amounts of MABr were added to the as-prepared CsPbBr 3 solution to make a mixture perovskite precursor, with the mixture being named through the molar ratio of MABr to CsPbBr 3 . For example, to prepare a precursor of mixture 1.0, 55.98 mg of MABr (0.5 mmol) was added to 1 ml of the as-prepared CsPbBr 3 (0.5 mmol) solution. Fabrication of perovskite LEDs. Prepatterned ITO glasses (20 mm × 20 mm) were ultrasonically washed in, sequentially, detergent solution, deionized water, acetone and ethanol, and then dried with compressed N 2 . The substrates were further cleaned with UV-Ozone cleaner (Novascan, PSD) for 30 min before spin-coating. A 40-nm-thick HTL was prepared by spin-coating using PEDOT:PSS (Clevios PV P AI4083) at 4,000 r.p.m. for 60 s and baking at 150 °C for another 15 min. After cooling to room temperature, the substrates were transferred into a nitrogen-filled glove box (H 2 O less than 1 part per million (p.p.m.); O 2 less than 1 p.p.m) for deposition of the perovskite layer. The perovskite layer was prepared through the same spin-coating procedures but used a different precursor solution. Specifically, 30 µl of perovskite precursor was dropped onto the substrate and spun at 2,000 r.p.m. for 60 s, during which time (at 30 s) 500 µl of toluene was dropped quickly onto the surface. Another thin layer of PMMA blocking layer was prepared if needed: 50 µl of PMMA solution (0.5 mg ml -1 in acetone) was spin-coated onto the as-prepared perovskite layer at 4,000 r.p.m. for 60 s. There was no annealing process and the as-prepared substrates were transferred into a thermal evaporator. The chamber was vacuum-pumped down to 5.0 × 10 -4 Pa, and a 40-nm-thick layer of B3PYMPM (Lumtec, Taiwan), 2-nm-thick layer of LiF and 100-nm-thick layer of Al were sequentially evaporated. We defined the area of the perovskite LED device as the area of overlap between the ITO and the Al electrode; it is 3 mm 2 (2 mm × 1.5 mm). We also used a charge-coupled-device (CCD) camera to measure the actual device area.</p><p>Material characterization. We characterized surface morphologies by field-emission SEM (using a Hitachi S-8000 scanning electron microscope). To determine the distribution of ions in the perovskite film, we used TOF-SIMS (ION-TOF GmbH, ToF SIMS V). We characterized bright-field, high-angle annular dark field, and element-mapping images with a FEI Talos F200S transmission electron microscope. We prepared the perovskite sample for TEM observations with a focused ion beam (FEI Scios); protective layers of C and Pt were deposited before ion-beam cutting and etching. We recorded XRD patterns using a D8 Advance diffractometer (Bruker AXS). Ultraviolet/visible and steady-state photoluminescence spectra were acquired using a Flame spectrometer (Ocean Optics) in a glovebox. We measured PLQYs using a blue excitation laser (405 nm), an integrating sphere and a Flame spectrometer. Photoluminescence decay curves were measured using a fluorescence lifetime imaging microscope (FLIM, Leca TCS SP8) with a pulsed excitation laser of 405 nm. Performance evaluation of perovskite LEDs. We inserted the as-fabricated perovskite LED devices into a home-made test socket and took measurements in a glovebox (Supplementary Information, videos S2 and S3, from which we can see that the luminance loss caused by light absorbance and reflection of the glove box glass is 16%). Using a Keithley 2400 instrument, we measured J-V data from 0 V to 5 V with a step voltage of 0.2 V and delay time of 3 s; simultaneously, we measured the luminance using a luminance meter (Konica Minolta, LS-160 or CS-200). Electroluminescence characteristics were recorded with a Flame spectrometer (Ocean Optic). The current efficiency was calculated by dividing the luminance by the current density. The EQE was calculated using Lambertian emission profiles and the obtained electroluminescence spectra. The initial high-performance device with an EQE of 16% was first investigated by the Nanyang Technological University group; the electroluminscence characteristics were further studied there as well. Measurement of device lifetime by accelerated ageing. Prior studies have shown that the product of the initial luminance (L 0 ) of the lifetime measurement and the T 50 lifetime (defined as the time when the luminance drops to 50% of L 0 ) is a</p><formula xml:id="formula_1">constant: × = L T constant n 0 5 0</formula><p>, where the n is the acceleration factor. The n factor can be determined experimentally by running lifetime tests for different L 0 values. The equation can be rewritten in the form: logT 50 = K -nlogL 0 . In this way, n is obtained as the slope of the linear fitting curve of the various measured T 50 and L 0 values.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of operational lifetime (constant luminance).</head><p>As shown in Supplementary Information, video S4, we could maintain the luminance of our perovskite LED devices at around 100 cd cm -2 by carefully tuning the applied current. In other words, we had to increase the applied current a little bit once an obvious decrease in luminance was observed. The device worked steadily for around 46 h, and then began to degrade rapidly.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The data that support the findings of this study are available from the corresponding author upon reasonable request. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Letter reSeArCH</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extended Data</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>3 Fig. 1 |Fig. 2 |</head><label>312</label><figDesc>Fig. 1 | Enhancing photoluminescence through compositional distribution management. a, Schematic illustrations of single-layered CsPbBr 3 , bilayered CsPbBr 3 /MABr, and quasi-core/shell CsPbBr 3 /MABr structures, all fabricated on ITO substrates. b, Photographs of the three as-prepared perovskite films under ultraviolet light. c, SIMS depth analysis of the as-prepared quasi-core/shell CsPbBr 3 /MABr structure on ITO glass. d, Cross-sectional TEM image of the quasi-core/shell CsPbBr 3 /MABr structure on PEDOT:PSS. White arrows indicate the MABr shell (the grain boundary). The sample was prepared using a focused ion beam, and the top C layer was predeposited in order to protect the perovskite.</figDesc><graphic coords="2,45.96,199.16,243.26,68.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>2 T 2 Fig. 3 |</head><label>223</label><figDesc>Fig.3| Enhancing the performance of perovskite LEDs by inserting a thin PMMA layer between the perovskite and the ETL. a, Current density-voltage (J-V) curves of electron-only and hole-only devices with a PMMA layer. b, Configuration of a perovskite LED cell with a very thin PMMA layer inserted between the perovskite and the ETL. c, Histogram showing current efficiency statistics of perovskite LED devices with a PMMA layer. d, e, L-V and J-V (d) and EQE-L (e) characteristics of the best-performing perovskite LEDs. f, Lifetime measurements of the best-performing mixture-1.0 perovskite LED device. A constant driving current of 5 mA (167 mA cm -2 ) led to the luminance increasing from 3,800 cd m -2 to 7,130 cd m -2 (L 0 ) and then diminishing. We estimate this device's T 50 at 100 cd m -2 to be about 104.56 h.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 1 | 3 | 5 | 6 | 9 |</head><label>13569</label><figDesc>Emission properties and formation mechanism of mixture perovskites. a, Photoluminescence spectra of single-layered CsPbBr 3 , bilayered CsPbBr 3 /MABr, and quasi-core/shell-structured mixture-1.0 films. b, Photoluminescence spectra of various mixture perovskite films with different amounts of MABr. The numbers in the key indicate the molar ratio of MABr to CsPbBr 3 . c, Photograph of mixture perovskite films under ultraviolet light. d, The formation process of the CsPbBr 3 /MABr quasi-core/shell structure. The yellow areas in the left panel denote the precursor solution. Extended Data Fig. 2 | SEM and TEM images of the mixture-1.0 films. a, Cross-sectional SEM images of the as-prepared mixture-1.0 film at different magnifications. b, Cross-sectional TEM images (greyscale) and elemental mapping images (in colour) of the mixture-1.0 film. The sample was prepared using a focused ion beam, and the top C and Pt layers were predeposited to protect the perovskite film. Letter reSeArCH Extended Data Fig. Comparison of CsPbBr 3 , MAPbBr 3 and mixture-1.0 perovskite films. a, Estimation of trap-state density using the space-charge-limited current method, obtained using dark I-V curves of perovskite devices with the structure ITO/perovskite/Au. V TFL , trap-filled limiting voltage. b, Photographs of a pristine mixture-1.0 perovskite film (left) and a film treated by washing with IPA (right; to remove the MABr capping layer) under ultraviolet light. c, Photograph of the three perovskite films under ultraviolet light. d, Ultraviolet-visible absorbance spectra of the CsPbBr 3 film and different mixture films. The black arrows indicate the disappearance of the exciton peak from the CsPbBr 3 sample to the mixture-1.0 sample. e, f, Photoluminescence spectra (e) and time-resolved photoluminescence decay curves (f; excitation source: 400 nm, 4 µW) of the CsPbBr 3 , MAPbBr 3 and mixture-1.0 films. τ is the lifetime. Letter reSeArCH Extended Data Fig. 4 | XRD and XPS characteristics of the perovskite films. a, Original and magnified XRD patterns from CsPbBr 3 , MAPbBr 3 , mixture-1.0, and MABr + PbBr 2 + CsBr mixture perovskite films. 2-theta is the diffraction angle multiplied by 2. b, c, XPS results from CsPbBr 3 , MAPbBr 3 and mixture-1.0 perovskite films, indicating that there are CsPbBr 3 and MABr phases in the mixture-1.0 film, but not in MAPbBr 3 . Letter reSeArCH Extended Data Fig. Comparison of the morphology of the three perovskite films. Left, top-view SEM image; centre, AFM topography; and right, root-mean-square roughness (R) of the a, CsPbBr 3 , b, MAPbBr 3 and c, mixture-1.0 perovskite films. Extended Data Fig. Fabrication and evaluation of a perovskite LED device. a, Energy-level diagram of the as-fabricated perovskite LED. b, Photograph of a large-area perovskite LED device (6 mm × 20 mm). c, Device performance of the bilayered CsPbBr 3 /MABr perovskite LEDs. S1 and S2 are step 1 and step 2. d, e, Electroluminescence spectra (d) and CIE chromatic diagram (e) of the three as-fabricated perovskite LEDs. f, g, J-V (f) and L-V (g) curves of the three as-fabricated three perovskite LEDs. h, L-V and J-V curves of the best-performing mixture-1.0 perovskite LED without a PMMA layer. Letter reSeArCH Extended Data Fig. 7 | Performance optimization of the mixture-1.0 perovskite LED. a, Cross-sectional SEM image of a perovskite LED device with a PMMA blocking layer. b, c, AFM topography image (b) and thickness measurement (c) of the optimized PMMA layer. The differently coloured lines show multiple test results from the same sample. d, e, Optimizing device performance by tuning the thickness of the PMMA layer (d) and the amount of MABr additives in the perovskite precursor (e). Letter reSeArCH Extended Data Fig. Measurement of operational lifetime of typical mixture-1.0 devices. a, Extrapolation of lifetime from accelerated ageing tests, from which one can see that the acceleration factor, n, is about 1.5 in the devices investigated herein. b, Measurement of the operational lifetime of a perovskite LED working in continuous luminance mode; by carefully tuning the applied current, we could maintain a luminance output of around 100 cd m -2 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,39.80,57.56,510.00,268.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,58.19,57.56,484.56,386.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,62.36,57.56,464.88,480.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,56.33,57.56,488.28,376.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,55.16,57.56,479.28,259.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,42.52,73.14,490.08,345.60" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>4 6 | N A t U r e | V O L 5 6 2 | 1 1 O C t O B e r 2 0 1 8 © 2018 Springer Nature Limited. All rights reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p>1 O C t O B e r</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2"><p>0 1 8 | V O L 5 6 2 | N A t U r e | 2 4 7© 2018 Springer Nature Limited. All rights reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_3"><p>4 8 | N A t U r e | V O L 5 6 2 | 1 1 O C t O B e r 2 0 1 8 © 2018 Springer Nature Limited. All rights reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>© 2018 Springer Nature Limited. All rights reserved.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was supported by the <rs type="funder">Scientific Research Funds of Huaqiao University</rs> (<rs type="grantNumber">600005-Z16J0038</rs>) and the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">U1705256</rs>). Z.W. thanks <rs type="person">Y. Wang</rs> (<rs type="affiliation">Technical Institute of Physics and Chemistry, Chinese Academy of Sciences</rs>) and <rs type="person">J. Wang</rs> (<rs type="affiliation">Institute of Advanced Materials, Nanjing Tech University</rs>) for helpful discussions on how to accurately measure the performance of perovskite LED devices. Z.W. also thanks <rs type="person">S. Yang</rs> (<rs type="affiliation">Hong Kong University of Science and Technology</rs>) for carrying out time-of-flight/secondary ion mass spectrometry (TOF-SIMS) analysis. Q.X. acknowledges support from the <rs type="funder">Singapore National Research Foundation</rs> through an <rs type="funder">NRF</rs> <rs type="grantName">Investigatorship award</rs> (<rs type="grantNumber">NRF-NRFI2015-03</rs>); and from the <rs type="funder">Ministry of Education</rs> via an <rs type="grantName">AcRF Tier2 grant</rs> (<rs type="grantNumber">MOE-2015-T2-1-047</rs>) and Tier1 grants (<rs type="grantNumber">RG 113/16</rs> and <rs type="grantNumber">RG 194/17</rs>). This publication is based in part on work supported by the <rs type="funder">Canada Research Chairs program</rs>, the <rs type="funder">Natural Sciences and Engineering Research Council of Canada</rs>, and the <rs type="funder">US Department of the Navy, Office of Naval Research</rs> (grant <rs type="grantNumber">N00014-17-1-2524</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Q8EnBwn">
+					<idno type="grant-number">600005-Z16J0038</idno>
+				</org>
+				<org type="funding" xml:id="_wHgPqSJ">
+					<idno type="grant-number">U1705256</idno>
+				</org>
+				<org type="funding" xml:id="_GwUY39z">
+					<idno type="grant-number">NRF-NRFI2015-03</idno>
+					<orgName type="grant-name">Investigatorship award</orgName>
+				</org>
+				<org type="funding" xml:id="_6Gg7SYM">
+					<idno type="grant-number">MOE-2015-T2-1-047</idno>
+					<orgName type="grant-name">AcRF Tier2 grant</orgName>
+				</org>
+				<org type="funding" xml:id="_j5RmuEk">
+					<idno type="grant-number">RG 113/16</idno>
+				</org>
+				<org type="funding" xml:id="_3gdkdjD">
+					<idno type="grant-number">RG 194/17</idno>
+				</org>
+				<org type="funding" xml:id="_SYVZZgk">
+					<idno type="grant-number">N00014-17-1-2524</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions Z.W., Q.X. and E.H.S. conceived the idea. K.L., J.X. and W.Z. prepared the samples and carried out optical spectroscopy characterizations. L.X. and Y.L. carried out XPS, AFM and some other materials characterizations. K.L., J.L., D.Z., C.Y., W.L. and X.L. fabricated and characterized perovskite LED devices. Z.W. supervised the fabrication and characterization of perovskite LEDs. L.N.Q., X.G., J.K. and F.P.G.A. assisted with device fabrication, measurements and manuscript writing. K.L., Z.W., Q.X. and E.H.S. carried out data analysis and wrote the manuscript. All authors discussed the results and commented on the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Extended data is available for this paper at <ref type="url" target="https://doi.org/10.1038/s41586-018-0575-3">https://doi.org/10.1038/s41586-018-0575-3</ref>. Supplementary information is available for this paper at <ref type="url" target="https://doi.org/10.1038/s41586-018-0575-3">https://doi.org/ 10.1038/s41586-018-0575-3</ref>. Reprints and permissions information is available at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/ reprints</ref>. Correspondence and requests for materials should be addressed to Z.W., E.H.S. or Q.X. Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Iodide management in formamidinium-lead-halide-based perovskite layers for efficient solar cells</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="1376" to="1379" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Laser cooling of organic-inorganic lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">S.-T</forename><surname>Ha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Xiong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="115" to="121" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Quantum-dot-in-perovskite solids</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">523</biblScope>
+			<biblScope unit="page" from="324" to="328" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Perovskite energy funnels for efficient light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="872" to="877" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Efficient perovskite light-emitting diodes featuring nanometresized crystallites</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">G</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="108" to="115" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Overcoming the electroluminescence efficiency limitations of perovskite light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="1222" to="1225" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ultra-bright and highly efficient inorganic based perovskite light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">15640</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Perovskite light-emitting diodes based on solutionprocessed self-organized multiple quantum wells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="699" to="704" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Efficient green light-emitting diodes based on quasi-twodimensional composition and phase engineered perovskite with surface passivation</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1169</biblScope>
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+	<note>correction 9</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">High-performance green OLEDs using thermally activated delayed fluorescence with a power efficiency of over 100 lm W(-1)</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Seino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Inomata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sasabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Pu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kido</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2638" to="2643" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High-performance light-emitting diodes based on carbene-metalamides</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Di</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="159" to="163" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Solution-processed multilayer small-molecule light-emitting devices with high-efficiency white-light emission</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Aizawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5756</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Solution-processed, high-performance light-emitting diodes based on quantum dots</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Dai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">515</biblScope>
+			<biblScope unit="page" from="96" to="99" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Bright light-emitting diodes based on organometal halide perovskite</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">K</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="687" to="692" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Solution-processed highly bright and durable cesium lead halide perovskite light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="18021" to="18026" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">CsPbX 3 quantum dots for lighting and displays: room-temperature synthesis, photoluminescence superiorities, underlying origins and white light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2435" to="2445" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Highly efficient light-emitting diodes of colloidal metal-halide perovskite nanocrystals beyond quantum size</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="6586" to="6593" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Nanocrystals of cesium lead halide perovskites (CsPbX(3), X = Cl, Br, and I): novel optoelectronic materials showing bright emission with wide color gamut</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Protesescu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="3692" to="3696" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">High-efficiency light-emitting diodes of organometal halide perovskite amorphous nanoparticles</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="6623" to="6630" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">An improved experimental determination of external photoluminescence quantum efficiency</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>De Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Wittmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Friend</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="230" to="232" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">High-efficiency light-emitting devices based on quantum dots with tailored nanostructures</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">259</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Growth of nanosized single crystals for efficient perovskite light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="3417" to="3423" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Highly efficient visible colloidal lead-halide perovskite nanocrystal light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="3157" to="3164" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Self-assembled hierarchical nanostructured perovskites enable highly efficient LEDs via an energy cascade</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Chin</surname></persName>
+		</author>
+		<idno type="DOI">10.1039/c8ee00293b</idno>
+		<ptr target="http://dx.doi.org/10.1039/c8ee00293b" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Room-temperature triple-ligand surface engineering synergistically boosts ink stability, recombination dynamics, and charge injection toward EQE-11.6% perovskite QLEDs</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1800764</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Incorporation of rubidium cations into perovskite solar cells improves photovoltaic performance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="page" from="206" to="209" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Efficient and stable large-area perovskite solar cells with inorganic charge extraction layers</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="944" to="948" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Electrical stress influences the efficiency of CH3 NH3 PbI3 perovskite light emitting devices</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1605317</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

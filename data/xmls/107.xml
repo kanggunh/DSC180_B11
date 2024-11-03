@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">08642C2B553CCAE87682FFE483E0C191</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>PVSK:DSMO ratio</p><formula xml:id="formula_0">1:1 2:1 1:1 2:1 1:1 2:1 Perovskite (black phase)   ----  ----- ---- Hexagonal phases       Intermediates ----- ----  ----  </formula><p>----: not observed, : observed, : more intense  </p><formula xml:id="formula_1">---  ---  ---   PbI 2 ---  ---  ---  ---  CsPbI 3 ---  --- --- --- --- ---  ----: not observed, : observed, : more intense</formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure S3 :</head><label>S3</label><figDesc>Figure S3: Scattering maps during spin coating for 1:2 PVSK:DMSO ratio at 20% rH in the CsFA perovskite with antisolvent drip time at (a) 1, (b) 5, (c) 10, (d) 15, (e) 20 and (f) 60s</figDesc><graphic coords="3,85.05,70.85,453.60,267.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure</head><label></label><figDesc>Figure S5: X-ray diffraction patterns of CsFA perovskite prepared at 20% of rH after thermal annealing.</figDesc><graphic coords="4,85.05,70.85,423.05,299.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure</head><label></label><figDesc>Figure S6: X-ray diffraction patterns of MAFA perovskites prepared at 3-5% and 40% of rH after thermal annealing.</figDesc><graphic coords="4,155.78,402.82,280.26,344.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure S7 :</head><label>S7</label><figDesc>Figure S7: Scattering maps during spin coating for MAFA perovskites at 1:2 ratio, prepared without antisolvent at (a) 3-5% and (b) 40% of rH.</figDesc><graphic coords="5,85.80,70.85,324.20,179.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure S8 :</head><label>S8</label><figDesc>Figure S8: PCE of the CsFA perovskite prepared and thermal annealed in the same rH of GIWAXS experiments.</figDesc><graphic coords="5,160.23,279.41,243.18,297.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,85.05,70.85,357.00,247.23" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,85.05,380.38,453.60,266.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table S1 :</head><label>S1</label><figDesc>Summary of the phases formed with non-chlorobenzene application</figDesc><table><row><cell>rH</cell><cell>3-5%</cell><cell>20%</cell><cell>40%</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table S2 :</head><label>S2</label><figDesc>Summary of the phases formed with antisolvent dripping for CsFA perovskite at low (3-5%) and high rH (40%) during spin coating preparation and after thermal annealing.</figDesc><table><row><cell>PVSK:DMSO</cell><cell></cell><cell>1:1</cell><cell></cell><cell></cell><cell></cell><cell>1:2</cell><cell></cell><cell></cell></row><row><cell>ratio</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>rH</cell><cell></cell><cell>3-5%</cell><cell></cell><cell>40%</cell><cell></cell><cell>3-5%</cell><cell></cell><cell>40%</cell></row><row><cell></cell><cell>Spin</cell><cell>After</cell><cell>Spin</cell><cell>After</cell><cell>Spin</cell><cell>After</cell><cell>Spin</cell><cell>After</cell></row><row><cell></cell><cell>coating</cell><cell>thermal</cell><cell>coating</cell><cell>thermal</cell><cell>coating</cell><cell>thermal</cell><cell>coating</cell><cell>thermal</cell></row><row><cell>Perovskite</cell><cell></cell><cell>annealing </cell><cell></cell><cell>annealing </cell><cell></cell><cell>annealing </cell><cell></cell><cell>annealing </cell></row><row><cell>(black phase) Hexagonal</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Phases</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table S3 :</head><label>S3</label><figDesc>Photovoltaic parameters CsFA perovskite prepared and thermal annealed in the same rH of GIWAXS experiments. Average of 10 solar cells for each condition. F = Forward Scan, R = Reverse Scan.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Jsc</cell><cell></cell></row><row><cell>rH (%)</cell><cell>PVS:DMSO</cell><cell>Time to drip(s)</cell><cell></cell><cell>Voc (V)</cell><cell>(mA/cm 2 )</cell><cell>FF (%)</cell><cell>n (%)</cell></row><row><cell>3_5</cell><cell>1_1</cell><cell>15</cell><cell>F</cell><cell>0.97±0.02</cell><cell cols="2">20.04±0.82 50.43±3.67</cell><cell>9.87±1.24</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.99±0.02</cell><cell cols="3">18.48±0.89 60.93±2.58 11.20±0.99</cell></row><row><cell>3_5</cell><cell>1_2</cell><cell>15</cell><cell>F</cell><cell>0.97±0.01</cell><cell cols="2">19.22±1.17 49.04±4.83</cell><cell>9.19±1.23</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.98±0.01</cell><cell cols="2">17.53±1.32 57.11±2.33</cell><cell>9.82±1.04</cell></row><row><cell>20</cell><cell>1_1</cell><cell>1</cell><cell>F</cell><cell>0.98±0.04</cell><cell cols="2">17.58±1.77 42.39±4.50</cell><cell>7.39±1.62</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.99±0.04</cell><cell cols="2">15.98±2.06 54.36±3.28</cell><cell>8.73±1.77</cell></row><row><cell>20</cell><cell>1_1</cell><cell>5</cell><cell>F</cell><cell>0.97±0.02</cell><cell cols="2">18.69±0.58 46.78±4.35</cell><cell>8.45±0.91</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.99±0.01</cell><cell cols="3">16.99±0.94 61.70±2.15 10.38±0.70</cell></row><row><cell>20</cell><cell>1_1</cell><cell>10</cell><cell>F</cell><cell>0.94±0.01</cell><cell cols="2">18.85±0.67 52.40±2.35</cell><cell>9.33±0.67</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.98±0.01</cell><cell cols="3">18.11±0.62 63.28±1.29 11.24±0.54</cell></row><row><cell>20</cell><cell>1_1</cell><cell>15</cell><cell>F</cell><cell>0.95±0.01</cell><cell cols="2">19.36±1.41 52.03±3.00</cell><cell>9.51±0.76</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.99±0.01</cell><cell cols="3">18.33±1.29 62.33±1.11 11.25±0.78</cell></row><row><cell>20</cell><cell>1_1</cell><cell>20</cell><cell>F</cell><cell>0.97±0.01</cell><cell cols="2">19.53±0.77 48.69±2.42</cell><cell>9.21±0.58</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>1.00±0.01</cell><cell cols="3">18.19±0.85 62.02±2.80 11.22±0.77</cell></row><row><cell>20</cell><cell>1_1</cell><cell>60</cell><cell>F</cell><cell>0.86±0.01</cell><cell cols="2">13.69±0.32 39.02±1.52</cell><cell>4.60±0.21</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.90±0.01</cell><cell cols="2">11.10±0.26 58.83±1.96</cell><cell>5.58±0.18</cell></row><row><cell>20</cell><cell>1_2</cell><cell>1</cell><cell>F</cell><cell>0.94±0.06</cell><cell cols="2">16.55±1.12 38.13±5.72</cell><cell>6.03±1.40</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.97±0.05</cell><cell cols="2">14.63±1.40 52.70±6.80</cell><cell>7.62±1.84</cell></row><row><cell>20</cell><cell>1_2</cell><cell>5</cell><cell>F</cell><cell>0.96±0.02</cell><cell cols="2">19.06±0.74 49.72±3.12</cell><cell>9.11±0.88</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>1.00±0.01</cell><cell cols="3">18.11±0.99 61.26±2.07 11.06±0.82</cell></row><row><cell>20</cell><cell>1_2</cell><cell>10</cell><cell>F</cell><cell>0.96±0.02</cell><cell cols="2">19.76±1.75 50.17±1.67</cell><cell>9.52±0.99</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.98±0.02</cell><cell cols="3">19.06±1.67 59.87±3.27 11.24±1.30</cell></row><row><cell>20</cell><cell>1_2</cell><cell>15</cell><cell>F</cell><cell>0.96±0.01</cell><cell cols="2">21.18±0.92 48.34±1.91</cell><cell>9.88±0.59</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.99±0.01</cell><cell cols="3">20.45±0.90 59.12±1.71 11.93±0.71</cell></row><row><cell>20</cell><cell>1_2</cell><cell>20</cell><cell>F</cell><cell>0.97±0.01</cell><cell cols="2">20.74±1.88 48.38±2.46</cell><cell>9.72±1.22</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>1.00±0.01</cell><cell cols="3">19.70±1.89 60.09±2.01 11.82±1.46</cell></row><row><cell>20</cell><cell>1_2</cell><cell>60</cell><cell>F</cell><cell>0.97±19.28</cell><cell cols="2">19.28±1.74 47.47±3.07</cell><cell>8.88±1.31</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.99±0.01</cell><cell cols="3">18.04±1.64 59.18±1.46 10.61±1.19</cell></row><row><cell>40</cell><cell>1_1</cell><cell>15</cell><cell>F</cell><cell>0.90±0.09</cell><cell cols="2">14.33±2.47 27.49±6.41</cell><cell>3.68±157</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.94±0.08</cell><cell cols="2">10.98±2.27 52.51±6.01</cell><cell>5.54±1.80</cell></row><row><cell>40</cell><cell>1_2</cell><cell>15</cell><cell>F</cell><cell>0.90±0.03</cell><cell cols="2">15.71±1.92 32.03±4.94</cell><cell>4.61±1.30</cell></row><row><cell></cell><cell></cell><cell></cell><cell>R</cell><cell>0.94±0.03</cell><cell cols="2">12.61±2.21 54.99±3.61</cell><cell>6.52±1.23</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

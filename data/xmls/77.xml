@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Single crystal hybrid perovskite field-effect transistors</title>
+				<funder ref="#_aDda8yT">
+					<orgName type="full">National Natural Science Foundation of China (NSFC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">King Abdullah University of Science and Technology</orgName>
+					<orgName type="abbreviated">KAUST</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Weili</forename><surname>Yu</surname></persName>
+							<idno type="ORCID">0000-0001-5075-9638</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Fine Mechanics and Physics (CIOMP)</orgName>
+								<orgName type="laboratory">State Key Laboratory of Applied Optics (SKLAO)</orgName>
+								<orgName type="institution" key="instit1">The Guo China-US Photonics Laboratory (GPL)</orgName>
+								<orgName type="institution" key="instit2">Changchun Institute of Optics</orgName>
+								<orgName type="institution" key="instit3">Chinese Academy of Sciences (CAS)</orgName>
+								<address>
+									<postCode>130033</postCode>
+									<settlement>Changchun People</settlement>
+									<country>&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Liyang</roleName><forename type="first">Feng</forename><surname>Li</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Liyang</forename><surname>Yu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Muhammad</forename><forename type="middle">R</forename><surname>Niazi</surname></persName>
+							<idno type="ORCID">0000-0003-0449-1559</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuting</forename><surname>Zou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Fine Mechanics and Physics (CIOMP)</orgName>
+								<orgName type="laboratory">State Key Laboratory of Applied Optics (SKLAO)</orgName>
+								<orgName type="institution" key="instit1">The Guo China-US Photonics Laboratory (GPL)</orgName>
+								<orgName type="institution" key="instit2">Changchun Institute of Optics</orgName>
+								<orgName type="institution" key="instit3">Chinese Academy of Sciences (CAS)</orgName>
+								<address>
+									<postCode>130033</postCode>
+									<settlement>Changchun People</settlement>
+									<country>&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><surname>Corzo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aniruddha</forename><surname>Basu</surname></persName>
+							<idno type="ORCID">0000-0002-6650-8160</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chun</forename><surname>Ma</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sukumar</forename><surname>Dey</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Max</forename><forename type="middle">L</forename><surname>Tietze</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ulrich</forename><surname>Buttner</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Nanofabrication Core Lab</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xianbin</forename><surname>Wang</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Nanofabrication Core Lab</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhihong</forename><surname>Wang</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Nanofabrication Core Lab</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mohamed</forename><forename type="middle">N</forename><surname>Hedhili</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Imaging and Characterization Core lab</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chunlei</forename><surname>Guo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Fine Mechanics and Physics (CIOMP)</orgName>
+								<orgName type="laboratory">State Key Laboratory of Applied Optics (SKLAO)</orgName>
+								<orgName type="institution" key="instit1">The Guo China-US Photonics Laboratory (GPL)</orgName>
+								<orgName type="institution" key="instit2">Changchun Institute of Optics</orgName>
+								<orgName type="institution" key="instit3">Chinese Academy of Sciences (CAS)</orgName>
+								<address>
+									<postCode>130033</postCode>
+									<settlement>Changchun People</settlement>
+									<country>&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">The Institute of Optics</orgName>
+								<orgName type="institution">University of Rochester</orgName>
+								<address>
+									<postCode>14627</postCode>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Wu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">School of Materials Science and Engineering</orgName>
+								<orgName type="institution">University of New South Wales (UNSW)</orgName>
+								<address>
+									<postCode>2052</postCode>
+									<settlement>Sydney Australia</settlement>
+									<region>NSW</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aram</forename><surname>Amassian</surname></persName>
+							<idno type="ORCID">0000-0002-5734-1194</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">KAUST Solar Center (KSC)</orgName>
+								<orgName type="department" key="dep2">Division of Physical Sciences and Engineering (PSE)</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<postCode>23955-6900</postCode>
+									<settlement>Thuwal</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">North Carolina State University</orgName>
+								<address>
+									<addrLine>10</addrLine>
+									<postCode>27695</postCode>
+									<settlement>Raleigh</settlement>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Microbial and Molecular Systems</orgName>
+								<orgName type="department" key="dep2">Centre for Surface Chemistry and Catalysis</orgName>
+								<orgName type="institution">KU Leuven -University of Leuven</orgName>
+								<address>
+									<addrLine>Celestijnenlaan 200F</addrLine>
+									<postCode>B-3001</postCode>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Single crystal hybrid perovskite field-effect transistors</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7A856221B39C0A4FA4250DF5188198EE</idno>
+					<idno type="DOI">10.1038/s41467-018-07706-9</idno>
+					<note type="submission">Received: 19 January 2018 Accepted: 14 November 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The fields of photovoltaics, photodetection and light emission have seen tremendous activity in recent years with the advent of hybrid organic-inorganic perovskites. Yet, there have been far fewer reports of perovskite-based field-effect transistors. The lateral and interfacial transport requirements of transistors make them particularly vulnerable to surface contamination and defects rife in polycrystalline films and bulk single crystals. Here, we demonstrate a spatially-confined inverse temperature crystallization strategy which synthesizes micrometre-thin single crystals of methylammonium lead halide perovskites MAPbX 3 (X = Cl, Br, I) with sub-nanometer surface roughness and very low surface contamination. These benefit the integration of MAPbX 3 crystals into ambipolar transistors and yield record, room-temperature field-effect mobility up to 4.7 and 1.5 cm 2 V -1 s -1 in p and n channel devices respectively, with 10 4 to 10 5 on-off ratio and low turn-on voltages. This work paves the way for integrating hybrid perovskite crystals into printed, flexible and transparent electronics.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>H ybrid organic-inorganic lead halide perovskites (CH 3 NH 3 PbX 3 , X = Cl, Br, and I) have emerged as a remarkable solution-processable semiconductor over the past few years, fast becoming a serious contender for efficient thin film photovoltaics (PVs) <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref> . Good carrier transport properties along the vertical direction have made even polycrystalline films with small grain size sufficiently good to achieve power conversion efficiency of more than 20%. The situation is markedly different in electronic devices, such as field-effect transistors (FETs), where fast and unimpeded lateral charge transport should occur through the confines of the semiconductor-dielectric interface over much longer distances <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> . Consequently, the presence of grain boundaries, interfacial contamination, and other defects can severely hinder field-effect carrier mobility and FET device operation <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> . Grain boundaries in polycrystalline hybrid perovskites have been linked to significant lateral tunnel junctions, a problem further exacerbated by the tendency of lead halide and perovskite hydrates to form at surfaces, interfaces, and even in grain boundaries <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> . It is perhaps for these reasons that very few reports have emerged on working perovskite FETs, particularly at room temperature <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> . Duan and co-workers <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> made CH 3 NH 3 PbI 3 FETs with different size microplates and demonstrated field-effect mobility at low temperatures. Sirringhaus and co-workers <ref type="bibr" target="#b13">14</ref> optimized thin film processing and achieved room temperature electron field-effect mobility of 0.5 cm 2 V -1 s -1 . More recently, Nazeeruddin and coworkers <ref type="bibr" target="#b14">15</ref> demonstrated high quality mixed cation perovskite films yielding balanced ambipolar FETs with carrier mobility ca. 2 cm 2 V -1 s -1 at room temperature.</p><p>Single crystals (SCs) are normally far less defective than polycrystalline films in most materials and may be best suited to overcome these challenges, as they eliminate grain boundary defects altogether. Bulk SCs (BSCs) of hybrid perovskites have already been reported to exhibit higher carrier mobility, longer carrier diffusion length, and lower trap density than polycrystalline films <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21</ref> . To date, however, bulk perovskite SCs continue to underperform in optoelectronic devices, such as solar cells <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref> and photodetectors <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b23">24</ref> , as compared to their polycrystalline thin film (PTF) counterparts <ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref> , and there are no reports to date of SC perovskite use in FETs. This can be attributed to extensive surface contamination due to incomplete precursor conversion and hydration of the perovskite crystal faces, which change the near-surface composition, structure, morphology, and electronic properties <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b28">29</ref> . Such imperfections are expected to severely impact electrical contacts, interfacial charge transport in the channel and to hurt FET device operation <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b27">28</ref> . Cleaning and peeling procedures have been attempted and are commonly used prior to investigation of optoelectronic properties of BSCs, but these are not practical and have not been shown to work for FET devices <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> . Integration of crystals into planar device architectures is also challenging unless crystallization methods, such as anti-solvent vapor-assisted crystallization <ref type="bibr" target="#b19">20</ref> , low temperature solution <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> , or inverse temperature crystallization approaches <ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> are adapted to the device integration needs as well.</p><p>Here, we show a spatially confined inverse temperature crystallization method that successfully synthesizes controlled micrometer-thin single crystals (TSCs) of different hybrid perovskites (MAPbX 3 , X = Cl, Br, and I) with tunable lateral size ranging from micrometers to millimeters, as needed. As confinement templates the crystal's top and bottom facets, the SC achieves conformal growth on flat and pre-patterned surfaces with excellent adhesion. TSCs with sub-nanometer surface roughness and remarkably low surface contamination are demonstrated despite fabrication in ambient air. Ambipolar MAPbX 3 -based TSC-FETs with bottom-gate bottom-contact and bottom-gate top-contact architectures are demonstrated and achieve record field-effect hole (electron) mobilities as high as 3.8 (0.32), 3.6 (0.26), and 4.7 (1.51)cm 2 V -1 s -1 for X = Cl, Br, and I, respectively. The devices also exhibited on/off ratio up to 10 5 and low turn-on and threshold voltages. Substrates pre-patterned with Au contacts were also shown to yield working FETs, demonstrating conformal crystal growth on patterned surfaces. The successful demonstration of high-performance TSC-FETs is attributed to the superior semiconductor-dielectric interface in the channel achieved owing to the significantly reduced roughness, defects, and contamination of the confined crystal facet as compared to polycrystalline films and free-grown BSCs. This approach paves the way for electronic devices and circuits based on hybrid perovskite semiconductors and also addresses key integration issues for perovskite single crystals into devices requiring lateral charge transport.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Fabrication of hybrid perovskite TSCs. Saidaminov et al. <ref type="bibr" target="#b29">30</ref> first reported that MAPbX 3 (X = Cl, Br, and I) perovskites exhibit an inverse temperature solubility behavior in certain solvents, which has been utilized to grow macroscopic perovskite single crystals <ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b32">33</ref> . Liu et al. <ref type="bibr" target="#b30">31</ref> developed the technique and fabricated 150-µm-thick single-crystalline perovskite wafers. Chen and coworkers. <ref type="bibr" target="#b22">23</ref> demonstrated that thickness can be tuned by changing the distance between two substrates. Our method takes a further step in the direction of TSC fabrication by confining the starting solution between two substrates-one or both of which can be pre-patterned with electrodes-separated by a fixed spacer intended to control the thickness, contact quality, and promote lateral growth. In Fig. <ref type="figure" target="#fig_0">1a</ref>, we show a schematic representation of the thickness-confined crystallization strategy. In this example, a 2.5-µm-thick polyethylene terephthalate (PET) film was used as spacer between two glass slides and molten at 270 °C to achieve good adhesion. The perovskite ink was injected between the two slides and was drawn through capillary forces. Crystallization occurred under heating (see Methods for details). A key difference between this approach and the inverse temperature crystallization in a beaker, vial, or even a substrate <ref type="bibr" target="#b29">30</ref> is that our method provides additional control knobs of importance to device integration, in terms of the confinement spacing, geometry, choice of confining materials-including surface engineered or pre-patterned surfaces, and the starting volume of ink, which can be replenished as needed. The confinement spacer and the volume of ink determine the thickness and lateral size of the TSCs, respectively, while the confining material also dictates the roughness of the crystal's top and bottom surfaces. Fluorescence microscopy images and related optical micrographs of typical MAPbX 3 (X = Cl, Br, and I) crystals grown using this method (Fig. <ref type="figure" target="#fig_0">1b</ref>) show lateral dimensions reaching the millimeter scale in a single run, while the thickness (approximately 2.45 μm) is fixed by the spacer (Fig. <ref type="figure" target="#fig_0">1c</ref>, Supplementary Figure <ref type="figure" target="#fig_0">1a-c</ref>).</p><p>Single crystal microstructure and surface properties. Notable advantages of the confined crystallization method are the superior microstructure and morphology in comparison with polycrystalline films. These advantages include formation of a single domain macroscopic crystal that is free of domain and grain boundaries and which can be defined as a single crystal and behave as such. We confirm this by inspecting the crystalline structure, optical properties, and surface morphology of the TSCs. X-ray diffraction (XRD) measurements on MAPbX 3 TSCs (Fig. <ref type="figure" target="#fig_0">1d</ref>) reveal that the MAPbCl 3 and MAPbBr 3 TSCs have a cubic lattice, while the MAPbI 3 TSC has a tetragonal lattice. XRD data comparing PTFs, TSCs, and BSCs of MAPbBr 3 (Fig. <ref type="figure" target="#fig_1">2a</ref>) clearly show that the structure of the TSC is identical to BSC samples, as expected. We further analyzed the crystallinity of the MAPbBr 3 TSC using XRD rocking curve (XRC) analysis of the (001) diffraction (Supplementary Figure <ref type="figure" target="#fig_1">2</ref>). The full-width at half-maximum was found to be 0.063°. The narrow width of the (001) peak is quantitatively comparable to the other reported values for MAPbBr 3 SCs and validates the high-quality singlecrystalline nature of our materials <ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b33">34,</ref><ref type="bibr" target="#b34">35</ref> . Ultraviolet-Visible (UV-Vis) absorbance and photoluminescence spectra of the TSCs are also very similar to those of BSCs (Supplementary Figure <ref type="figure" target="#fig_0">1d,</ref><ref type="figure" target="#fig_0">1e</ref>).</p><p>Importantly, the surface of the TSCs look featureless in the confined regions under scanning electron microscopy (SEM, Supplementary Figure <ref type="figure">3</ref>) and atomic force microscopy (AFM, Fig. <ref type="figure" target="#fig_1">2b,</ref><ref type="figure">c</ref>). By contrast, PTFs exhibit a large number of crystals, domains, and pinholes, while the surface of the BSC shows evidence of significant corrugation and roughness left over from the crystallization process. The surface of the TSC inspected after removal of the confining superstrate is extremely smooth, as well as free of any apparent grain and domain boundaries, pointing to their single-crystalline nature. AFM images comparing MAPbBr 3 thin film (Fig. <ref type="figure" target="#fig_1">2b</ref>) and TSC (Fig. <ref type="figure" target="#fig_1">2c</ref>) surfaces reveal a starkly different root mean-squared (RMS) surface roughness of 16.5 nm vs. 0.21 nm, respectively. In fact, we found the RMS roughness of all three halide TSCs to be one to two orders of magnitude lower than polycrystalline films and bulk crystals (Fig. <ref type="figure" target="#fig_1">2d</ref>) <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref> . This is largely owing to the confined growth method which forces the crystal to undergo conformal growth against the very smooth confining substrate and superstrate.</p><p>Further examination of the surface of TSCs revealed the appearance of atomically flat terraces near the unconfined edges of the crystals, as seen by scanning tunneling microscopy (STM) measurements performed in ultra-high vacuum (UHV conditions). STM micrographs obtained in UHV (Fig. <ref type="figure" target="#fig_1">2e</ref>) reveal atomically flat terraces with an apparent step height consistent with perovskite lattice planes (crystal lattices of 5.68 and 5.92 Å for cubic MAPbCl 3 and MAPbBr 3 , respectively). The appearance of terracing with monolayer steps on one or more of the facets of a macroscopic crystal is usually ascribed to its homoepitaxial growth behavior, either via layer-by-layer or step flow processes. This offers further evidence in favor of the single-crystalline nature of TSCs. We did not observe this layered structure on the edges of MAPbI 3 TSCs, which may be due to the tetragonal crystal structure of MAPbI 3 TSCs 26 , whereas the other crystals are cubic.</p><p>X-ray photoelectron spectroscopy (XPS) measurements performed on MAPbI 3 TSCs and BSCs show clear peaks at 533.7 and 532.4 eV in the latter case, which are assigned to the -COOH <ref type="bibr" target="#b39">40</ref> and -COH groups <ref type="bibr" target="#b40">41</ref> , respectively (Fig. <ref type="figure" target="#fig_1">2f</ref>). These peaks are absent from the surface of TSCs, which is remarkable for these materials considering that the confined samples were grown in ambient air. Separation from the superstrate was performed inside a nitrogen glove box prior to the XPS measurement and transfer to UHV by using a vacuum suitcase to avoid additional contamination by exposure of the free surface to air. The XPS analysis indicates that the buried interfaces of TSCs grown via confinement are mostly free of the surface chemical contaminations commonly seen on free-grown crystals and polycrystalline films. The formation of high-quality, planar, smooth, grain boundary-free, and contamination-free crystal facets is particularly useful in the context of device integration. Many device architectures require at least one high-quality facet to make contacts, while others may require two parallel facets. Bottomgate bottom-contact (BGBC) and top-gate top-contact FETs require one high-quality facet for both channel and contacts, whereas bottom-gate top-contact (BGTC) and top-gate bottomcontact FETs use opposing facets for channel and contacts. Below, we will demonstrate that the confinement method can yield working BGBC and BGTC FET devices requiring one or two facets of the TSCs, respectively.</p><p>Single crystal FETs. We have fabricated BGTC FETs with channel length (L) ranging from 10 to 150 µm (schematic shown in Fig. <ref type="figure">3a</ref>). The channel width (W) depended upon the lateral size of the TSCs and was measured individually for each TSC that was successfully coated with a pair of Au electrodes (see Supplementary Figure <ref type="figure">4</ref>). A highly n-doped Si wafer with a 240 nm SiO 2 layer (capacitance C i = 15nFcm -2 ) was employed as the substrate, gate electrode, and gate dielectric. We found Au (work function around 4.7 eV) <ref type="bibr" target="#b41">42</ref> to be a suitable contact for both hole and electron injection as the valance band maximum/conduction band minimum of MAPbX 3 (X = I, Br, and Cl) are 3.8/5.3 eV for I, 3.38/5.68 eV for Br, and 2.94/5.82 eV for Cl <ref type="bibr" target="#b42">43</ref> . Additional BGTC devices were also fabricated with lower work function contacts, including Ag and Al. However, the devices either did not operate or were damaged shortly after initiating measurement. We suspect chemical damage to the contacts which showed evidence of discoloration shortly after fabrication. Figure <ref type="figure">3b-d</ref> show the ambipolar transfer characteristics of the BGTC devices based on MAPbCl 3 , MAPbBr 3 , and MAPbI 3 TSCs measured at room temperature at a drain voltage (V DS ) of -30 V for gate voltage (V GS ) sweep from -40 V to 40 V, along with I DS 1/2 vs. V GS plots. The plots appear linear over a wide range of V GS for both p-and n-type transports, which demonstrates ambipolar behavior and high-quality devices. It is worth mentioning that the transport property is sensitive to device fabrication conditions, such as the temperature, electrode materials, doping state, and dielectric interface <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b15">16</ref> . In this case, the use of Au electrodes, along with room temperature measurement of device characteristics, may explain the ambipolar behavior consistent with previous reports <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b15">16</ref> . The field-effect mobility (μ) can be extracted in the saturation regime using the saturated I DS vs. V GS relationship:</p><formula xml:id="formula_0">I DS ¼ W 2L C i μ V GS À V TH ð Þ 2 .</formula><p>Accordingly, the maximum saturation hole (electron) mobilities for the devices based on MAPbCl 3 , MAPbBr 3 , and MAPbI 3 TSCs are found to be 2.6 (2.2), 3.1 (1.8), and 2.9 (1.1)cm 2 V -1 s -1 , respectively (see Table <ref type="table">1</ref> and Supplementary Table <ref type="table">1</ref>). Supplementary Figure <ref type="figure">5</ref> shows the saturation field-effect mobility vs. gate voltage for the devices based on MAPbCl 3 , MAPbBr 3 , and MAPbI 3 TSCs employing the topcontact configuration. The saturation mobility values stay flat after the tune-on gate voltage and agree with the values reported in Table <ref type="table">1</ref> and Supplementary Table <ref type="table">1</ref>. The statistical distribution of hole mobility for 60 devices is shown in Fig. <ref type="figure">3e</ref>, with the average hole (electron) mobility of 1.8 (1.3), 1.9 (1.1), and 1.5 (0.7)cm 2 V -1 s -1 , respectively, for MAPbCl 3 , MAPbBr 3 , and MAPbI 3 TSC devices. The mobility was found to increase as the channel increased from 10 to 150μm (Supplementary Figure <ref type="figure">6a</ref>), which may be attributed to reduced relative influence of contact resistance as the channel resistance increases (Supplementary Figure <ref type="figure">6b-d</ref>), while field-dependent transport does not appear to be dominant. The current on/off ratios are found to be on the order of 2.4 × 10 4 , 4.8 × 10 3 , and 6.7 × 10 3 , while the threshold voltages (V TH ) are found to be 4.4, -4.9, and -13.2 V, for X = Cl, Br, and I, respectively. The positive shift of V TH may be attributed to unintentional oxygen-induced hole doping from the bottom dielectric surface <ref type="bibr" target="#b5">6</ref> , which was UV-O 3 treated to increase hydroxyl groups and enhance the adhesion between TSCs and the SiO 2 /Si substrate <ref type="bibr" target="#b10">11</ref> .</p><p>The output characteristics (I DS vs. V DS ) obtained for the devices operating in the hole-enhancement mode are displayed in Fig. <ref type="figure">3f-h</ref>. At low V GS , the device exhibits ambipolar transport with diode-like current-voltage (I-V) characteristics; however, at high V GS , unipolar transport was observed with standard linearto-saturation I-V transistor characteristics. The performance of FETs is normally affected by the contact resistance between the source/drain electrodes and the active layer <ref type="bibr" target="#b43">44</ref> , and the total device resistance R total multiplied by the channel width W is calculated  to be 80, 150, and 195kΩcm for MAPbCl 3 , MAPbBr 3 , and MAPbI 3 , respectively, (Supplementary Figure <ref type="figure">6b-d</ref>) highlighting generally good contacts. Supplementary Figure <ref type="figure">7</ref> summarizes the results of the transconductance (dI DS /dV GS ) <ref type="bibr" target="#b44">45,</ref><ref type="bibr" target="#b45">46</ref> for our perovskite SC transistors. The best-performing p-type device based on MAPbCl 3 SCs possesses a peak transconductance of 0.2 mS (at</p><formula xml:id="formula_1">I DS 1/2 (A 1/2 ) V GS (V) V DS (V) V GS (V) V GS = V GS =<label>10</label></formula><formula xml:id="formula_2">V GS = -35 V).</formula><p>We believe that the high carrier mobility of perovskite SCs is the key reason behind the high currents and transconductances observed. The contact resistance and transconductance provide fine perspectives to analyze the device, which are valuable for investigating the carrier injection at the interface between the perovskite and electrodes and for designing better device with large amplification <ref type="bibr" target="#b44">45,</ref><ref type="bibr" target="#b45">46</ref> .</p><p>It is important to note that BGTC devices were successful despite charges having to travel through a micrometer-thick semiconductor layer to reach the channel, much more than is typical for thin film transistors <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b43">44</ref> . To exclude the effect of crystal thickness, we have fabricated BGBC devices by growing SCs directly onto the substrate pre-patterned with Au electrodes (Fig. <ref type="figure">4a</ref>). One key benefit of this approach is the excellent adhesion of the SCs to the pre-patterned electrodes, as indicated by delamination of the metal contacts from the substrate when attempting to peel off the crystals (Supplementary Figure <ref type="figure">8</ref>). The bottom surface morphologies of perovskite TSCs were imaged by AFM as shown in Supplementary Figure <ref type="figure">9</ref>, which reveals a small RMS roughness (0.70, 1.23, and 1.02 nm for MAPbCl 3 , MAPbBr 3 , and MAPbI 3 , respectively) indicative of a smooth interface for the buried interface as well. However, we also noted instances where Au contacts seemed discolored and other instances where Au contacts delaminated, suggesting undesirable chemical interactions with the perovskite ink or etching of the Cr adhesion layer <ref type="bibr" target="#b46">47</ref> . Perhaps as a result of this, BGBC devices tended to fail when the applied gate voltage was &gt;± 10 V, thus limiting the fieldeffect mobility analysis window to the linear regime. Not surprisingly, BGBC devices fabricated with substrates prepatterned with Ag and Al electrodes failed to operate, as the contacts did not survive the harsh environment and conditions of crystal growth. In some cases, Au electrodes were also seen to delaminate and float to the surface of the solution after just a few hours of inverse temperature crystallization. We ascribe this to etching of the Cr adhesion layer used prior to Au deposition.</p><p>For MAPbI 3 , generally smaller crystals were typically obtained in the presence of pre-patterned Au electrodes (see Supplementary Figure <ref type="figure" target="#fig_0">10</ref>), suggesting that the presence of metal influences the crystallization process. The transfer curves of BGBC devices based on MAPbX 3 with X = Cl, Br, and I (Fig. <ref type="figure">4b-d</ref>) show asymmetric curves with an ambipolar behavior similar to BGTC devices (see output curves in Supplementary Figure <ref type="figure" target="#fig_0">11</ref>). We should mention that the I DS for the MAPbI 3 -based device is about 10 times higher than that of the Cl-and Br-based devices, which is due to the fact that the channel width (W) of each device depended upon the lateral size of the TSCs and was measured individually for each TSC. The figures of merit and the channel size of BGBC devices are summarized in Table 2 (V GS scanning direction: from -10 to 10 V; V DS = -2 V). The maximum linear hole (electron) mobilities of 3.8 (0.32), 3.6 (0.26), and 4.7 (1.51) cm 2 V -1 s -1 at room temperature were achieved for X = Cl, Br, and I, respectively (Table <ref type="table">2</ref> and Supplementary Figure <ref type="figure" target="#fig_1">12</ref>), while the average linear hole (electron) mobilities for the same were 2.1 (0.27), 2.3 (0.19), and 2.9 (1.12)cm 2 V -1 s -1 (Supplementary Table <ref type="table">2</ref>). The mobility vs. V GS for the FETs based on MAPbCl 3 , MAPbBr 3 , and MAPbI 3 TSCs is shown in Supplementary Figure <ref type="figure" target="#fig_2">13</ref>. At a value of V DS = -2 V, the linear charge mobilities are corresponding to the these shown in Table <ref type="table">2</ref> and Supplementary Table <ref type="table">2</ref>. The current on/off ratios are found to be on the order of 10 5 and V TH was found to be typically low (±1.6 V). The variations in the mobility are difficult to explain with the current level of understanding of hybrid perovskites and will require significantly more experimental and theoretical insight. The same can be said for differences in the polarity of devices. Both are realistically linked to the choice of contact material, to processing conditions, and to the quality of the channel. The SC-electrode contact resistance plays a role. Mobility is known to be linked to the quality of the SC-dielectric interface in the channel of FET devices. Hence, the presence of and variations in structural and morphological defects, chemical contaminations, and unreacted reagents are expected to influence carrier mobility.</p><p>The state-of-the-art mobility results highlight the overall success and versatility of the confinement crystallization approach and its ability to successfully integrate hybrid perovskite SCs into FET devices even when pre-patterned electrodes are used. The relatively high field-effect mobility measured in hybrid perovskite SC-FET devices at room temperature can be attributed to excellent planarity, absence of grain and domain boundaries, low surface roughness, and reduced chemical contamination at the buried semiconductor-dielectric interface inside the channel. Mitigation of these imperfections through confined crystallization has helped the FET devices tap more easily into the properties of the bulk semiconductor. We have calculated the interfacial trap state density (N it ) from the subthreshold swing, S, in the subthreshold regime (Supplementary Figures <ref type="figure" target="#fig_4">14</ref> and<ref type="figure" target="#fig_0">15</ref>) using the formulae S = dV GS /d(log I DS ) and N it = (Sq/k B T ln 10-1)(C i /q), where q is the elementary charge, k B is the Boltzmann constant, and T is the temperature, as summarized in Tables <ref type="table">1</ref> and<ref type="table">2</ref>. The calculated N it values for MAPbX 3 TSCs with X = Cl, Br, and I in BGBC (BGTC) device configurations are 3.3 × 10 12 (5.3 × 10 12 ), 3.0 × 10 12 (4.6 × 10 12 ), and 3.8 × 10 11 (3.7 × 10 12 )eV -1 cm -2 . The MAPbI 3 SC-FET exhibits the lowest S of 0.6 and 3.8 Vdec -1 , respectively, in BGBC and BGTC devices, corresponding to the lowest N it . The low N it values point to the formation of a reasonably high-quality semiconductor-dielectric interface. It should be noted here that the N it for the I-based devices were ca. 10 times lower than those of the Cl-and Br-based devices, because of differences in lateral size of the SCs defining the channel width (W).</p><p>By comparing with the state-of-art FET researches based on perovskite materials (Supplementary Table <ref type="table" target="#tab_2">3</ref>), the field-effect mobility values reported at room temperature for MAPbCl 3 , MAPbBr 3 , and MAPbBr 3 are the highest to date for FETs made, thus far, with polycrystalline films of these materials <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b10">11</ref> and are the first report of single crystal hybrid perovskite FET devices.</p><p>Table <ref type="table">1</ref> The figures of merit of BGTC TSC-FET devices based on MAPbX 3 (X = Cl, Br, and I) The hole mobility of MAPbI 3 perovskites is improved by approximately two-to fivevfold compared with the PTF mobility at room temperature <ref type="bibr" target="#b6">7</ref> , and is a rough order of magnitude higher than that measured at 77 K <ref type="bibr" target="#b10">11</ref> . It is also worth noting that the hole mobilities reported herein are competitive with many other solution-processed semiconductors used in p-channel FETs, including organics <ref type="bibr" target="#b47">48</ref> , metal oxides <ref type="bibr" target="#b48">49</ref> , pseudo halides <ref type="bibr" target="#b49">50,</ref><ref type="bibr" target="#b50">51</ref> , and quantum dot solids <ref type="bibr" target="#b51">52</ref> . Hybrid perovskite semiconductors have recently been identified as mixed ionic-electronic conductors owing to the ability of charged defect ions to migrate under an external bias <ref type="bibr" target="#b52">[53]</ref><ref type="bibr" target="#b53">[54]</ref><ref type="bibr" target="#b54">[55]</ref> . The resulting effect is a hysteresis in current-voltage sweeps. This effect has been broadly reported for solar cells, and more recently in memristors and light-emitting FETs fabricated using hybrid perovskites <ref type="bibr" target="#b55">[56]</ref><ref type="bibr" target="#b56">[57]</ref><ref type="bibr" target="#b57">[58]</ref> . The hysteresis effects was speculated to be related to screening effects arising from fieldinduced drift of methylammonium cations <ref type="bibr" target="#b58">59</ref> . Charge traps and surface dipoles at the untreated dielectric-semiconductor interface may also be attributed to the hysteresis effect <ref type="bibr" target="#b59">60</ref> . For BGBC devices, the hysteretic behavior and influence of scan rate and direction on FET devices based on MAPbCl 3 , MAPbBr 3 , and MAPbI 3 TSCs was studied by sweeping the  Table <ref type="table">2</ref> The figures of merit of BGBC TSC-FET devices based on MAPbX 3 (X = Cl, Br, and I)</p><formula xml:id="formula_3">TSCs W/L (µm µm -1 ) Highest µ h (cm 2 V -1 s -1 ) Average µ h (cm 2 V -1 s -1 ) On/off ratio V TH (V) N it (eV -1 cm -2 ) S (V dec -1 )</formula><formula xml:id="formula_4">I DS (A) I DS (A) V GS (V) VGS (V) V GS (V) IDS (µA) I DS (µA) I DS (µA) V DS = -2 V V DS = -2 V</formula><formula xml:id="formula_5">TSCs W/L (µm µm -1 ) Highest µ h (cm 2 V -1 s -1 ) Average µ h (cm 2 V -1 s -1 ) On/off ratio V TH (V) N it (eV -1 cm -2 ) S (V dec -1 )</formula><p>MAPbCl voltage in transfer curves in the sequence -10 → 0 → + 10 → 0 → -10 V for BGBC devices at rates ranging from 0.05 to 0.25 V s -1 . The V GS forward and reverse scanning directions at a rate of 0.05 V s -1 are shown in Supplementary Figure <ref type="figure" target="#fig_0">16</ref>. We can find that the carrier mobility extracted from the forward scanning gate sweep is higher than that extracted from the reverse scanning gate sweep, especially in the case of MAPbI 3 . The effect was lower in MAPbCl 3 and negligible in MAPbBr 3 . The measured current values are plotted on a logarithmic scale in Supplementary Figure <ref type="figure" target="#fig_0">17</ref>. The transfer curves and the output curves exhibit weak but notable hysteresis effects (Fig. <ref type="figure">4</ref>), which is fortunately not substantial in low sweep rates. Moreover, larger open circuit voltages <ref type="bibr" target="#b9">10</ref> (the difference of voltage between two current minimum points) and less pronounced hysteresis were detected in conditions of slower sweep rate of the transfer curves. The hysteresis becomes more severe and the saturation current decreased with increasing sweep rate. For instance, significant hysteretic behavior was observed when BGTC devices (Supplementary Figure <ref type="figure" target="#fig_0">18</ref>) were deliberately subjected to large V GS sweeps (±40 V) and fast sweep rate (0.5 V s -1 ). Defect ion migration is more favorable at slower than at faster sweep rates, since they are less mobile than electronic carriers (electrons and holes), making hysteresis more severe and reducing the saturation current in faster sweep conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We have demonstrated high-performance FET devices based on MAPbX 3 (X = Cl, Br, and I) hybrid perovskite single crystals both in BGTC and BGBC device configurations. The confined crystal growth approach was found to be crucial for the successful integration of hybrid perovskite SCs into FET devices, a class of devices that has been particularly challenging to fabricate and operate for MAPbX 3 semiconductors. In particular, the spatial confinement during the inverse temperature crystallization process produced topographically ultra-smooth top and bottom facets free of grains or domain boundaries and any other corrugations typically observed in free-grown crystals and polycrystalline films. This is credited with producing highquality semiconductor-dielectric interfaces in the channel, free of common morphological defects and chemical impurities often found on the surface of hybrid perovskite SC polycrystalline films. This approach also eliminates grain boundaries common in polycrystalline films and known to be a source of resistance to lateral transport due to tunnel junction formation. Through vertical confinement, the crystals also easily grew laterally, allowing them to reach millimeter scale or larger and readily bridged FET channels ranging in length from 10 to 150μm. Use of a pre-patterned substrate with metal electrodes furthermore promoted conformal growth of the TSCs into the channel and formed high-quality semiconductor-dielectric interface as well as electrical contacts with strong adhesion. The on/off current ratio in the 10 3 -10 5 range was readily achieved at room temperature. Furthermore, the devices showed low operating voltages (&lt;5 V) with the lowest (&lt;2 V) voltages observed in BCBG devices. Overall, the maximum room temperature hole (electron) mobility ranged from 2.6 to 4.7 (0.26-2.2)cm 2 V -1 s -1 across the different halides and device configurations, with average hole (electron) mobility in the 1.5-2.9 (0.19-1.3)cm 2 V -1 s -1 range, significantly outperforming thin film-based MAPbI 3 FET devices reported to date (Supplementary Characterization. UV-Vis absorbance spectra were measured using a Cary 5000 (Varian) spectrophotometer equipped with an integrating sphere. Photoluminescence measurements were conducted on a DXR Smart Raman spectrometer using the excitation lasers at 325 and 473 nm. Fluorescence microscopy measurements were performed in Zeiss LSM 710 Upright Confocal Microscope. Optical micrographs were acquired using a Nikon SMZ25 stereomicroscope. Film and crystal thickness were measured by a DEKTAK 8 profilometer (Veeco). XRD measurements were performed at room temperature using a D8 Discover X-ray diffractometer (Bruker). XRC was measured by Bruker D8 Advance using a wavelength of 1.54 Å and LynxEye XE-T detector with 0D mode. SEM was performed using an FEI Nova Nano 630. 2D SEM was taken on a Phenom ProX system. STM characterization was executed in UHV conditions (5.0 × 10 -10 mbar) in a variable temperature STM (VT-STM; Omicron Nanotechnology). Chemically etched polycrystalline tungsten wire was used as STM tip for imaging, which was further cleaned by electron bombardment in situ in UHV to reach atomically resolved imaging of HOPG. As-grown SC samples on conducting substrate (ITO) were mounted on a sample plate for STM studies. All images were acquired with a tunneling parameter of 2.4 V, 0.6 nA. For XPS measurements, the as-grown samples were grown and sealed in a vial in N 2 -filled glove box, and quickly transferred to the XPS vacuum chamber. XPS studies were carried out using a Kratos Axis Ultra DLD spectrometer equipped with amonochromatic Al Ka X-ray source (hν = 1486.6 eV) operating at 150 W, as well as a multichannel plate and a delay line detector under a vacuum pressure of 1 × 10 -9 mbar. Measurements were performed in hybrid mode using electrostatic and magnetic lenses, and the take-off angle (the angle between the sample surface normal and the electron optical axis of the spectrometer) was 0°. Binding energies were referenced to the C 1s peak of the (C-C, C-H) bond, which was set to 285.0 eV. The data were analyzed using the commercially available software program CASAXPS.</p><p>FET fabrication and characterization. For BGBC FET devices, the Si/SiO 2 substrates (capacitance C i of 15nFcm -2 ) with gold pattern were used as substrates. For BGTC FET devices, perovskite TSCs were first grown on the Si/SiO 2 substrates, and then 80 nm Au electrode was thermally evaporated on top with masks. Different lengths (10, 20, 50, 100, and 150 μm) were utilized. The channel width (W) depends upon the lateral size of the TSC and was measured individually for each TSC that was successfully grown on a pair of FET device electrodes. I-V measurements were performed at room temperature using a Keithley 4200 Semiconductor Parametric Analyzer and a Signotone Micromanipulator S-1160 probe station in continuous mode. The measuring process was conducted under vacuum. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Hybrid perovskite TSC fabrication. a Schematic representation of spatially confined inverse temperature crystallization method for producing thin single crystals (TSCs). b Fluorescence microscopy images of MAPbI 3 , MAPbBr 3 , and MAPbCl 3 TSCs (which are excited with a pulsed 450, 473, and 405 nm laser, respectively). Scale bar: 100 μm. Inset: optical images of MAPbI 3 , MAPbBr 3 , and MAPbCl 3 TSCs. Scale bar: 200 μm. c Height profile of MAPbBr 3 TSC indicating its thickness is about 2.45 µm. d XRD spectra of synthesized MAPbX 3 TSCs, where X = I, Br, and Cl, respectively</figDesc><graphic coords="3,73.69,576.80,299.32,95.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Microstructure and surface properties of TSCs. a XRD data comparing the polycrystalline thin film (PTF) to the TSC and bulk single crystal (BSC) forms of MAPbBr 3 . Surface topography of a MAPbBr 3 PTF (b) and that of a TSC (c) as measured by AFM, of which the root mean squared (RMS) roughness for PTF and TSC are 16.5 and 0.21 nm, respectively. Scale bar: 400 nm. d RMS surface roughness of MAPbX 3 (X = Cl, Br, and I) polycrystalline film and TSCs. The error bar reflects the statistical variation in roughness in different parts of the sample. e Scanning tunneling microscopy (STM) image of the surface region near the edge of a MAPbBr 3 TSC. Scale bar: 50 nm. f XPS spectra of the surface of MAPbI 3 TSC and BSC</figDesc><graphic coords="4,185.35,160.07,86.20,78.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>1 )Fig. 3</head><label>13</label><figDesc>Fig. 3 Characteristics of top-contact TSC-FETs. a Schematic of the bottom-gate, top-contact (BGTC) device with a TSC hybrid perovskite as semiconductor layer. Transfer characteristics (I DS vs. V GS (black solid square) and I DS 1/2 vs. V GS (red solid line)), as well as the fit lines (blue solid line) for b MAPbCl 3 , c MAPbBr 3 , and d MAPbI 3 TSC-FETs, V GS ranging from -40 to 40 V. V DS = -30 V. e Saturation mobility statistics for 60 devices. The box plot graphically depicts the statistical population of numerical data, including the maximum, the minimum, as well as the average (median) mobilities. Channel length: 50 μm. Output characteristics of TSC-FETs based on f MAPbCl 3 , g MAPbBr 3 , and h MAPbI 3</figDesc><graphic coords="5,359.80,502.70,154.84,118.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>1 )Fig. 4</head><label>14</label><figDesc>Fig. 4 Characteristics of bottom-contact TSC-FETs. a Schematic representation of bottom-gate, bottom-contact (BGBC) TSC-FET device. Representative transfer characteristics of TSC-FETs of b MAPbCl 3 , c MAPbBr 3 , and d MAPbI 3 using forward/reverse gate voltage sweeps from -10 to 10 V at a rate of 0.05 V s -1 , with V DS = -2 V. Insets of b-d show the linear regime of the respective devices. e Field-effect hole mobility distribution for 20 devices fabricated and tested for each halide perovskite</figDesc><graphic coords="7,337.45,314.51,137.32,115.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,85.35,85.35,425.20,270.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,142.90,105.70,309.60,237.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,85.05,105.75,417.85,129.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,85.10,110.75,425.00,137.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,85.10,85.10,425.00,119.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,85.05,105.75,407.45,312.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,85.05,105.75,396.20,167.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="20,85.10,105.85,424.80,120.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="23,85.10,105.70,425.25,120.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="24,85.10,105.85,425.60,121.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="27,85.10,117.85,432.10,126.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="28,85.10,105.70,423.80,118.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="29,85.35,105.75,373.35,135.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>for transparent and imperceptible electronics. Overall, this work demonstrates the feasibility of solutiongrown organohalide perovskite FET devices by addressing interfaces and contacts. This makes hybrid perovskites a viable material platform for printed and transparent electronics. The substrate (glass or Si/SiO 2 pre-patterned with Au electrodes for FET fabrication) and superstrate (glass) with dimensions of 1.5 cm × 1.5 cm were cleaned by rinsing with acetone, iso-proponal, and deionized water in turn. After drying in vacuum oven overnight, the substrates were exposed to UV-O 3 for 10 min. Subsequently, two PET strips were attached to the substrate with a lateral spacing of several millimeters. The superstrate was placed on top and the sandwiched stack was heated to 270 °C on a hot plate for 5 min to melt the PET and help adhere the substrate and the superstrate. The substrates were transferred upon cooling to a nitrogen glove box (below 0.1ppm O 2 and 0.1ppm H 2 O). The hybrid perovskite MAPbX 3 (X = Cl, Br, and I) were resolved in DMF, DMF, and GBL, respectively, at 1 M concentration to prepare the precursor solution in the glove box. A small volume (6 µl) of precursor solution was then injected at the edge of the sandwich and was drawn and spread into the gap through capillary force. Crystal growth was achieved by placing the stack on a hot plate and annealing at a fixed temperature of 60 °C (2 days), 80 °C (2 days), and 100 °C (3 days) for MAPbCl 3 , MAPbBr 3 , and MAPbI 3 , respectively.</figDesc><table><row><cell>Methods</cell></row><row><cell>Chemicals. The CH 3 NH 3 X (X = Cl, Br, and I) were purchased from Dyesol and</cell></row><row><cell>used as received. Lead halide PbX 2 (X = Cl, Br, and I) dimethylformamide (DMF)</cell></row><row><cell>and γ-butyrolactone (GBL) were purchased from Sigma-Aldrich and used as</cell></row><row><cell>received. PET film (2.5 µm thick) was purchased from 2spi.com.</cell></row><row><cell>TSC synthesis.</cell></row></table><note><p><p><p>). During the revision of this paper, a relevant article to the topic of perovskite FETs was published.</p>61  </p>Demonstration of transparent MAPbCl 3 SCs yielding field-effect saturation hole (electron) mobility as high as 2.6 (2.2)cm 2 V -1 s -1 makes this a potentially interesting material candidate</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>61. Zeidell, A. M. et al. Enhanced Charge Transport in Hybrid Perovskite Field-Effect Transistors via Microstructure Control. Adv. Elec. Mater. 0, 1800316 (2018).</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATURE COMMUNICATIONS | (2018) 9:5354 | https://doi.org/10.1038/s41467-018-07706-9 | www.nature.com/naturecommunications</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The research reported in this publication was supported by funding from <rs type="funder">King Abdullah University of Science and Technology (KAUST)</rs>. W.Y. acknowledges the financial support from <rs type="funder">National Natural Science Foundation of China (NSFC</rs>, No. <rs type="grantNumber">61705227</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_aDda8yT">
+					<idno type="grant-number">61705227</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Additional data related to this paper may be requested from the authors.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary Information accompanies this paper at <ref type="url" target="https://doi.org/10.1038/s41467-018-07706-9">https://doi.org/10.1038/s41467-018-07706-9</ref>.</p><p>Competing interests: W.Y., A.A., and L.Y. have a US patent application related to this work (Filed on 10 June 2016, WO2018047066). The remaining authors declare no competing interests.</p><p>Reprints and permission information is available online at <ref type="url" target="http://npg.nature.com/reprintsandpermissions/">http://npg.nature.com/ reprintsandpermissions/</ref> Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Single-crystal hybrid perovskite field-effect transistors</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Table 1. The figures of merit of BGTC thin SC-FET devices.</head><p>Thin SCs Highest µh (cm 2 V -1 s -</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">)</head><p>Average µh</p><p>µh standard deviations (cm 2 V -1 s -1 )</p><p>Highest µe</p><p>Average µe</p><p>µe standard deviations (cm 2 V -1 s -1 ) MAPbCl3 </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Organometal halide perovskites as visible-light sensitizers for photovoltaic cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Teshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shirai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="6050" to="6051" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Efficient hybrid solar cells based on meso-superstructured organometal halide perovskites</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Teuscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="643" to="647" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">High-performance photovoltaic perovskite layers fabricated through intramolecular exchange</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="1234" to="1237" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Functional organic field-effect transistors</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Q</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="4427" to="4447" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Semiconducting pi-conjugated systems in field-effect transistors: a material odyssey of organic electronics</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Q</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="2208" to="2267" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Spiro-OMeTAD single crystals: remarkably enhanced charge-carrier transport via mesoscale ordering</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">1501491</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ambipolar solution-processed hybrid perovskite phototransistors</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">8238</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Transformation of the excited state and photovoltaic efficiency of CH 3 NH 3 PbI 3 perovskite upon controlled exposure to humidified air</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Christians</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Miranda Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Kamat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="1530" to="1538" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Surface restructuring of hybrid perovskite crystals</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Murali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1119" to="1126" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Anomalous photovoltaic effect in organic-inorganic hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Huang. Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1602164</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Wafer-scale growth of large arrays of perovskite microplate crystals for functional electronics and optoelectronics</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">150061</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Size-dependent phase transition in methylammonium lead iodide perovskite microplate crystals</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">11330</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The effect of thermal annealing on charge transport in organolead halide perovskite microplate field-effect transistors</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1601959</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Understanding charge transport in lead iodide perovskite thin-film field-effect transistors</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Senanayak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1601935</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Ambipolar triple cation perovskite field effect transistors and inverters</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yusoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">M</forename><surname>Rb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1602940</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Lead iodide perovskite light-emitting field-effect transistor</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Chin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cortecchia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Soci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7383</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Electrostatic gating of hybrid halide perovskite field-effect transistors: balanced ambipolar transport at room-temperature</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">V</forename><surname>Vardeny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">D</forename><surname>Jurchescu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MRS Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="297" to="301" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Solution-processed organic-inorganic perovskite fieldeffect transistors with high hole mobilities</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsushima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="10275" to="10281" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Metal-halide perovskite transistors for printed electronics: challenges and opportunities</title>
+		<author>
+			<persName><forename type="first">Y.-H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pattanasattayavong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Anthopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1702838</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="519" to="522" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths &gt;175 μm in solution grown CH3NH3PbI3 single crystals</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="967" to="970" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Highly narrowband perovskite single-crystal photodetectors enabled by surface-charge recombination</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="679" to="686" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Solution-grown monocrystalline hybrid perovskite films for hole-transporter-free solar cells</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Peng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3383" to="3390" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Air-stable and solutionprocessable perovskite photodetectors for solar-blind UV and visible light</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nakamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="535" to="539" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Armin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Burn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meredith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Filterless narrowband visible photodetectors</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="687" to="694" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Sensitive X-ray detectors made of methylammonium lead tribromide perovskite single crystals</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="333" to="339" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Sensitive X-ray detectors made of methylammonium lead tribromide perovskite single crystals</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5404</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">High-performance perovskite-graphene hybrid photodetector</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="41" to="46" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Double charged surface layers in lead halide perovskite crystals</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Sarmah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2021" to="2027" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">High-quality bulk hybrid perovskite single crystals within minutes by inverse temperature crystallization</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Saidaminov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7586</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Two-inch-sized perovskite CH 3 NH 3 PbX 3 (X = Cl, Br, I) crystals: growth and characterization</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="5176" to="5183" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">CH 3 NH 3 PbCl 3 single crystals: inverse temperature crystallization and visible-blind UV-photodetector</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Maculan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="3781" to="3786" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">General space-confined on-substrate fabrication of thickness-adjustable hybrid perovskite single-crystalline thin films</title>
+		<author>
+			<persName><forename type="first">Y.-X</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="16196" to="16199" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Perovskite CH 3 NH 3 PbI 3 (Cl) single crystals: rapid solution growth, unparalleled crystalline quality, and low trap density toward 108 cm -3</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="9409" to="9412" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">High-performance single-crystalline perovskite thin-film photodetector</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1704333</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Inorganic hole conductor-based lead halide perovskite solar cells with 12.4% conversion efficiency</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Qin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">3834</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Ultrathin Cu 2 O as an efficient inorganic hole transporting material for perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="6173" to="6179" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Impact of microstructure on local carrier lifetime in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>De Quilettes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="683" to="686" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Atomically thin two-dimensional organic-inorganic hybrid perovskites</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page">1518</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Adsorption of some substituted ethylene molecules on Pt(111) at 95 K Part 1: NEXAFS, XPS and UPS studies</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bournel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Laffon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Parent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tourillon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Surf. Sci</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="60" to="78" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Use of the oxygen KLL Auger lines in identification of surface chemical states by electron spectroscopy for chemical analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Zatko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Raymond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Chem</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1445" to="1451" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Controlling electron and hole charge injection in ambipolar organic field-effect transistors by self-assembled monolayers</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Func. Mater</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="2407" to="2415" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Band alignment of the hybrid halide perovskites CH 3 NH 3 PbCl 3 , CH 3 NH 3 PbBr 3 and CH 3 NH 3 PbI 3</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Frost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Horiz</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="228" to="231" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Charge injection in solution-processed organic fieldeffect transistors: physics, models and characterization methods</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Natali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caironi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1357" to="1387" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Organic electrochemical transistors with maximum transconductance at zero gate bias</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rivnay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="7010" to="7014" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">High transconductance organic electrochemical transistors</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Khodagholy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">2133</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Interfacial degradation of planar lead halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guerrero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="218" to="224" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Solution-printed organic semiconductor blends exhibiting transport properties on par with single crystals</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Niazi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">8598</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Heterojunction oxide thin-film transistors with unprecedented electron mobility grown from solution</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Faber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1602640</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Hole-transporting transistors and circuits based on the transparent inorganic semiconductor copper(I) thiocyanate (CuSCN) processed from solution at room temperature</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pattanasattayavong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1504" to="1509" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Electric field-induced hole transport in copper(I) thiocyanate (CuSCN) thin-films processed from solution at room temperature</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pattanasattayavong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="4154" to="4156" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Bottom-and top-gate field-effect thin-film transistors with p channels of sintered HgTe nanocrystals</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-R</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">173107</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Ionic transport in hybrid lead iodide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Eames</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7497</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Hysteresis-suppressed high-efficiency flexible perovskite solar cells using solid-state ionic-liquids for effective electron transport</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="5206" to="5213" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Pure crystal orientation and anisotropic charge transport in large-area hybrid perovskite films</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">13407</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Lead iodide perovskite light-emitting field-effect transistor</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Chin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cortecchia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Soci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7383</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Iodine migration and its effect on hysteresis in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2446" to="2454" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Hysteresis-less mesoscopic CH 3 NH 3 PbI 3 perovskite hybrid solar cells by introduction of Li-treated TiO2 electrode</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Energy</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="530" to="539" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Giant switchable photovoltaic effect in organometal trihalide perovskite devices</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="193" to="208" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Electron and ambipolar transport in organic field-effect transistors</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zaumseil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sirringhaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="1296" to="1323" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

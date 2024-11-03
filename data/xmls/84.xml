@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">In situ study on film formation mechanism of organic-inorganic hybrid perovskite solar cells: controlling the solvate phase by additive system</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sehyun</forename><surname>Lee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">School of Materials Science and Engineering, Research Institute for Solar and Sustainable Energies</orgName>
+								<orgName type="department" key="dep2">Gwangju Institute of Science and Technology (GIST)</orgName>
+								<address>
+									<addrLine>261 Cheomdan-gwagiro Buk-gu</addrLine>
+									<postCode>500- 712</postCode>
+									<settlement>Gwangju</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ming-Chung</forename><surname>Tang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Materials Science and Chemical Engineering</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<settlement>Thuwal</settlement>
+									<region>Kingdom</region>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rahim</forename><surname>Munir</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Materials Science and Chemical Engineering</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<settlement>Thuwal</settlement>
+									<region>Kingdom</region>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dounya</forename><surname>Barrit</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Materials Science and Chemical Engineering</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<settlement>Thuwal</settlement>
+									<region>Kingdom</region>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Yeon-Ju</forename><surname>Kim</surname></persName>
+							<email>kimdy@gist.ac.kr</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">School of Materials Science and Engineering, Research Institute for Solar and Sustainable Energies</orgName>
+								<orgName type="department" key="dep2">Gwangju Institute of Science and Technology (GIST)</orgName>
+								<address>
+									<addrLine>261 Cheomdan-gwagiro Buk-gu</addrLine>
+									<postCode>500- 712</postCode>
+									<settlement>Gwangju</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rira</forename><surname>Kang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">School of Materials Science and Engineering, Research Institute for Solar and Sustainable Energies</orgName>
+								<orgName type="department" key="dep2">Gwangju Institute of Science and Technology (GIST)</orgName>
+								<address>
+									<addrLine>261 Cheomdan-gwagiro Buk-gu</addrLine>
+									<postCode>500- 712</postCode>
+									<settlement>Gwangju</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jin-Mun</forename><surname>Yun</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Radiation Research Division for Industry and Environment</orgName>
+								<orgName type="institution">Korea Atomic Energy Research Institute (KAERI)</orgName>
+								<address>
+									<addrLine>Geumgu-gil 29 Jeongeup-si Jeollabuk-do 580-185</addrLine>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Detlef-M</forename><surname>Smilgies</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Synchrotron Source (CHESS)</orgName>
+								<orgName type="institution" key="instit1">Cornell High Energy</orgName>
+								<orgName type="institution" key="instit2">Cornell University</orgName>
+								<address>
+									<postCode>14850</postCode>
+									<settlement>Ithaca</settlement>
+									<region>New-York</region>
+									<country key="US">United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aram</forename><surname>Amassian</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Materials Science and Chemical Engineering</orgName>
+								<orgName type="institution">King Abdullah University of Science and Technology (KAUST)</orgName>
+								<address>
+									<settlement>Thuwal</settlement>
+									<region>Kingdom</region>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Materials Science and Engineering</orgName>
+								<orgName type="institution">North Carolina State University</orgName>
+								<address>
+									<addrLine>911 Partners Way</addrLine>
+									<postCode>27043</postCode>
+									<settlement>Raleigh</settlement>
+									<region>North Carolina</region>
+									<country key="US">United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dong-Yu</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">School of Materials Science and Engineering, Research Institute for Solar and Sustainable Energies</orgName>
+								<orgName type="department" key="dep2">Gwangju Institute of Science and Technology (GIST)</orgName>
+								<address>
+									<addrLine>261 Cheomdan-gwagiro Buk-gu</addrLine>
+									<postCode>500- 712</postCode>
+									<settlement>Gwangju</settlement>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">In situ study on film formation mechanism of organic-inorganic hybrid perovskite solar cells: controlling the solvate phase by additive system</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FD0B670231731C382AB2DF7ADA2752D7</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental</head><p>Material preparations. All additives and solvents were purchased from Sigma Aldrich and used without further purification. PC 61 BM (&gt;99.5%) for ETLs was purchased from EM INDEX. PEDOT:PSS (Baytron P, AI 4083) was used for HTLs. The two precursor materials of CH 3 NH 3 I (Methylammonium iodide (MAI), Dyesol Ltd.) and PbI 2 (Lead (II) iodide, 99.9985% (metals basis), Alfa Aesar Co., Inc.) was used as received without further purification.</p><p>Fabrication of planar heterojunction PeSCs. Glass/ITO/PEDOT:PSS/MAPbI 3 /PC 61 BM/Al structured P-I-N PeSCs were fabricated in similar manner as our previous report <ref type="bibr">38</ref> . First, Glass/ITO substrates (10 Ohm/sq, AMG Tech.) were cleaned with de-ionized water (10 min), acetone (10 min), and isopropyl alcohol (20 min) in a bath-type ultrasound. UV/O 3 treatment for 15 min was implemented after drying in an oven at 100 °C for 10 min. The PEDOT:PSS HTL (~40 nm) was spin-coated on the top of the cleaned ITO-coated glass substrates for 40 s at over 5,000 rpm and thermal annealing at 150 °C was implemented for 10 min in air. A 40 wt% perovskite solution composed of a 1:1 molar ratio of MAI:PbI 2 dissolved in DMF solvent in an N 2 -filled glove box was used. For each additive, 60 μl was added to 1 ml of the 40 wt% DMF precursor solution and each additive/DMF mixed perovskite solution was deposited on top of a PEDOT:PSS layer at 5,000 rpm for 60 s with 3 s acceleration, followed by annealing at 100 °C for 5 min in an N 2 -filled glove box. A PCBM solution (20 mgml -1 dissolved in Chlorobenzene) was deposited on the prepared perovskite film as an ETL (~60 nm) at 700 rpm for 30 s and 2,000 rpm for 3 s without thermal annealing in an N 2 -filled glove box. Finally, 100 nm-thick Al electrodes were deposited using a thermal evaporator at a 4 Å/s deposition rate and ~10 -7 torr pressure. XRD spectra were clearly showed that the residual PbI 2 peaks at 12.8 ˚ is observed in pristine and w/NOP samples. The orthorhombic lattice of (110) and (220) phase of representative perovskite peaks are also detected in 14.2 ˚ and 28.5 ˚, respectively. The w/CHP has a higher crystallinity among additive samples without residual PbI 2 crystal phase. The interaction between solvents and PbI 2 molecules was evaluated by Fourier transform infrared spectroscopy (FT-IR) measurement. The FT-IR spectra of Fig. <ref type="figure" target="#fig_1">S4a</ref> indicated the νC=O of the amide functional group, which could have a Lewis base interaction with PbI 2 molecules <ref type="bibr" target="#b0">[1]</ref> for all solvents. The FT-IR spectra of as-cast PbI 2 films (i.e., without thermal annealing) in Fig. <ref type="figure">6b</ref> showed different degrees of wavenumber shifts toward lower wavenumber compared to the FT-IR spectra of the solvents. The intensity of the Lewis acid-base interaction with PbI 2 can be compared using the degree of wavenumber shift of the νC=O peak as displayed in the bracket of the Fig. <ref type="figure" target="#fig_1">S4b</ref> graph. The degree of wavenumber shifts for pristine, w/NMP, w/NEP, and w/CHP were 30, 67, 76, and 84 cm -1 , respectively. All additives showed at least a twice larger shift than pristine, which implies that the amide group in the pyrrolidone structure possesses the potential for strongly interacting with PbI 2 molecules. The largest wavenumber shift of w/CHP induced the state in which the CHP molecules were enough to interrupt the formation of PbI 2 :DMF solvate phase due to the strong interaction between CHP and the PbI 2 molecules. The results of FT-IR were supported by the density function theory (DFT) calculation, which was implemented for all solvents. As shown in Fig. <ref type="figure" target="#fig_2">S5</ref>, the partial charge of oxygen (red spheres) for DMF, NMP, NEP, and CHP were -0.367, -0.371, -0.373, and -0.377, respectively.</p><p>CHP showed the most negative partial charge value, which well matched the FT-IR results, and the partial charge values of the other solvents were also observed as corresponding to the trend of the FT-IR results. Even though this partial charge difference is not large, this could be considered as one of the reasons why CHP most effectively suppressed DMF:PbI 2 solvate, however, other structural reasons may exist.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure S1 |Figure S3 |</head><label>S1S3</label><figDesc>Figure S1 | RMS roughness graph of various perovskite films.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure S4 |</head><label>S4</label><figDesc>Figure S4 | FT-IR spectra of νC=O peaks in amide group. a, Various solvents, and b, As-</figDesc><graphic coords="7,72.00,85.05,453.60,172.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure S5 |</head><label>S5</label><figDesc>Figure S5 | DFT calculations of used solvents and partial charge value of oxygen in the</figDesc><graphic coords="8,72.00,85.05,451.30,335.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,72.00,140.25,450.25,356.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,73.21,85.05,448.89,313.35" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Device measurement and characterization. The photovoltaic performances of PeSCs were evaluated by the current density-voltage (J-V) characteristics, which were measured under simulated AM 1.5 G conditions (100 mW/cm 2 ) with a Keithley 2400 instrument that had been calibrated with a Si reference cell (SRC-1000-TC-KG5-N, VLSI Standards. Inc.). The perovskite film images were obtained with an atomic force microscopy (AFM, Agilent 5400), scanning electron microscope (SEM, HITACHI S-4700), and optical microscopy (Nikon LV-100). In situ UV-Vis measurements under spin-coating conditions were obtained by F20-UVX spectrometer with a tungsten halogen light source (Filmetrics, Inc.) with an integration time of 0.5 s for each spectrum in an N 2 -filled glove box. In situ UV-Vis is implemented exactly with the same spin-coating speed for device fabrications using 5000 rpm. In situ GIWAXS measurements were conducted at the Cornell High Energy Synchrotron Source (CHESS) on the D1 beam line. The measurements during spin-coating at 5,000 rpm were performed by customized spin-coating stage and controlled by the computer outside the hutch. Each 2 D GIWAXS data was obtained with a 0.2 s time interval until 300 s to observe the detailed information at room temperature. After dropping each precursor solution on the Glass/ITO/PEDOT:PSS substrate, in situ GIWAXS measurements started within 1 min. All in situ GIWAXS measurements were performed in an ambient atmosphere under &gt; 20% relative humidity. The Lewis acid-base interaction between PbI 2 and solvents, and the Fourier Transform Infrared Spectroscopy (FT-IR, Bruker Tensor 27) of the attenuated total reflectance (ATR) mode was used to determine the wavenumber shift of the νC=O peaks. PbI 2 solutions with various additives were spin-coated on top of the glass substrate and scratched out through a blade to obtain the as-cast powder.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Son</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Jang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page">8696</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

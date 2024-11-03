@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dynamic light scattering: a practical guide and applications in biomedical sciences</title>
+				<funder ref="#_GJnPUuC">
+					<orgName type="full">NSERC</orgName>
+				</funder>
+				<funder ref="#_zfVaMDC #_3xYyUJC #_GUsYHt6">
+					<orgName type="full">Canadian Institutes of Health Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">BAnalytical Quantitative Relations in Biochemistry^</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-10-06">6 October 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jörg</forename><surname>Stetefeld</surname></persName>
+							<email>jorg.stetefeld@ad.umanitoba.ca</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Manitoba</orgName>
+								<address>
+									<addrLine>144 Dysart Road</addrLine>
+									<postCode>R3T 2N2</postCode>
+									<settlement>Winnipeg</settlement>
+									<region>Manitoba</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Biochemistry and Medical Genetics</orgName>
+								<orgName type="institution">University of Manitoba</orgName>
+								<address>
+									<addrLine>745 Bannatyne Avenue -Basic Medical Sciences Building</addrLine>
+									<postCode>R3E 0J9</postCode>
+									<settlement>Winnipeg</settlement>
+									<region>Manitoba</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sean</forename><forename type="middle">A</forename><surname>Mckenna</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Manitoba</orgName>
+								<address>
+									<addrLine>144 Dysart Road</addrLine>
+									<postCode>R3T 2N2</postCode>
+									<settlement>Winnipeg</settlement>
+									<region>Manitoba</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Biochemistry and Medical Genetics</orgName>
+								<orgName type="institution">University of Manitoba</orgName>
+								<address>
+									<addrLine>745 Bannatyne Avenue -Basic Medical Sciences Building</addrLine>
+									<postCode>R3E 0J9</postCode>
+									<settlement>Winnipeg</settlement>
+									<region>Manitoba</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Trushar</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+							<email>trushar.patel@uleth.ca</email>
+							<affiliation key="aff2">
+								<orgName type="department">School of Biosciences</orgName>
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<addrLine>Edgbaston</addrLine>
+									<postCode>B15 2TT</postCode>
+									<settlement>Birmingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Chemistry &amp; Biochemistry</orgName>
+								<orgName type="institution" key="instit1">Alberta RNA Research and Training Institute</orgName>
+								<orgName type="institution" key="instit2">University of Lethbridge</orgName>
+								<address>
+									<addrLine>4401 University Drive</addrLine>
+									<postCode>T1K 3M4</postCode>
+									<settlement>Lethbridge Alberta</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dynamic light scattering: a practical guide and applications in biomedical sciences</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2016-10-06">6 October 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C04AD604D99847BD99BC65BFB2841E21</idno>
+					<idno type="DOI">10.1007/s12551-016-0218-6</idno>
+					<note type="submission">Received: 13 June 2016 / Accepted: 8 September 2016 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Analytical ultracentrifuge</term>
+					<term>Diffusion coefficient</term>
+					<term>Dynamic light scattering</term>
+					<term>Hydrodynamic radius</term>
+					<term>Light scattering</term>
+					<term>Protein-ligand interactions</term>
+					<term>Protein-nucleic acid complexes</term>
+					<term>Protein-protein complexes</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Dynamic light scattering (DLS), also known as photon correlation spectroscopy (PCS), is a very powerful tool for studying the diffusion behaviour of macromolecules in solution. The diffusion coefficient, and hence the hydrodynamic radii calculated from it, depends on the size and shape of macromolecules. In this review, we provide evidence of the usefulness of DLS to study the homogeneity of proteins, nucleic acids, and complexes of protein-protein or protein-nucleic acid preparations, as well as to study protein-small molecule interactions. Further, we provide examples of DLS's application both as a complementary method to analytical ultracentrifugation studies and as a screening tool to validate solution scattering models using determined hydrodynamic radii.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Detection of light scattering from matter is a useful technique with applications in numerous scientific disciplines where, depending on the light source and detector, specific properties of molecules can be studied. In a typical light-scattering experiment, sample is exposed to a monochromatic wave of light and an appropriate detector detects the signal. One of the earliest light-scattering experiments was described by John Tyndall, which characterized light scattering from colloidal suspensions <ref type="bibr">(Tyndall effect)</ref>, where particles are larger than the wavelength of the incident light <ref type="bibr" target="#b93">(Tyndall 1868)</ref>. Soon after, Lord Rayleigh described light scattering from particles that are smaller than the wavelength of light (Rayleigh scattering), which explained both that the sky's blue colour is a result of scattering of light due to atmospheric particles and that the refractive index of the scattering medium plays a crucial role in light scattering <ref type="bibr">(Strutt 1871a, b)</ref>. In contrast to Rayleigh theory, Gustav <ref type="bibr" target="#b55">Mie (1908)</ref> described a theory <ref type="bibr">(Mie theory)</ref> to study the scattering of light from absorbing and non-absorbing particles that are large compared to the wavelength of light by taking into account particle shape and the difference in refractive index between particles and the medium the particles are present in. Peter Debye suggested that scattering for particles can be studied independently of assumptions on mass, size, or shape as a function of angle <ref type="bibr" target="#b13">(Debye 1915)</ref>, which is often referred as Rayleigh-Debye scattering.</p><p>The usefulness of light scattering as a method to characterize the diffusion behaviour of particles in solution resulted from a series of seminal discoveries. <ref type="bibr">Einstein and</ref> Smoluchowski proposed that liquid should be considered as a continuous medium where thermal fluctuations create inhomogeneities, which result in density and concentration fluctuations (Fluctuation theory of light scattering, <ref type="bibr" target="#b21">Einstein (1910)</ref>; v. <ref type="bibr" target="#b94">Smoluchowski 1908)</ref>. <ref type="bibr" target="#b19">Einstein (1905)</ref> also established Brownian motion theory (named after Robert Brown) explaining molecular motion of particles. He established that particles were subjected to random forces due to constant collision with solvent molecules resulting in random walk of particles, and that the mean squared displacement of particles due to Brownian motion is proportional to time. Later, Einstein also established a relationship between the diffusion coefficient of particles to their translational friction by including the discovery from Sir George <ref type="bibr" target="#b87">Stokes (1845)</ref> that suggested that the friction exerted by a moving particle is proportional to its radius and to the viscosity of the solvent surrounding particles <ref type="bibr" target="#b20">(Einstein 1906)</ref>. At the same time, William Sutherland also presented a very similar derivation of the Stokes-Einstein equation independently <ref type="bibr" target="#b90">(Sutherland 1905)</ref>. However, until this point the role of optical anisotropy on angular dependence, intensity, and polarization of scattered light had not been studied. <ref type="bibr" target="#b11">Cabannes and Rocard (1929)</ref> and <ref type="bibr" target="#b26">Gans (1921;</ref><ref type="bibr" target="#b27">1923)</ref> addressed the theory of optically anisotropic scatters as well as their influence on polarisation of scattered light. By this time the Rayleigh-Gans-Debye (RGD) theory was established that included scattering from large particles; however, <ref type="bibr" target="#b99">Zimm's (1945;</ref><ref type="bibr" target="#b100">1948)</ref> modifications to RGD equations led the foundation of modern lightscattering approaches that are being utilized to determine size, shape, and molecular weight of macromolecules in solution. On the other hand, Leon <ref type="bibr" target="#b7">Brillouin (1914;</ref><ref type="bibr" target="#b8">1922)</ref> proposed formation of two peaks in the frequency distribution of scattered light caused by the scattering of light by phonons (quasi-particles of sound), resulting in two peaks in the Rayleigh (central) line in the frequency spectrum which was later named as the Brillouin doublet. This phenomenon was further evaluated by <ref type="bibr" target="#b30">Gross (1930)</ref> and <ref type="bibr" target="#b46">Landau and Placzek (1934)</ref>, which in conjunction with the development of laser optics in the 1960s would revolutionize the light-scattering studies of molecules in liquids. <ref type="bibr" target="#b69">Pecora (1964)</ref> established that the diffusion of macromolecules in solution led to broadening of the frequency profile of scattered light. Pike and co-workers developed the first digital autocorrelator in 1969 and performed experiments on haemocyanin to determine its diffusion coefficient <ref type="bibr" target="#b24">(Foord et al. 1970)</ref>. Thus, the relationship between light scattering and diffusion behaviour of particles was established and experimentally verified, which eventually allowed characterization of molecules in solution using light-scattering methods. These events are briefly summarised in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Over the years, Pecora, Cummins, Pike and others <ref type="bibr" target="#b5">(Bloomfield and Lim 1978;</ref><ref type="bibr" target="#b12">Cummins et al. 1964;</ref><ref type="bibr" target="#b25">Fujime 1972;</ref><ref type="bibr" target="#b40">Jakeman and Pike 1969;</ref><ref type="bibr" target="#b70">Pecora 1972;</ref><ref type="bibr" target="#b71">Pike 1972</ref>) had developed various approaches to determine the diffusion coefficient of molecules in solution, and ultimately their contributions led to the development of the modern dynamic lightscattering (DLS) instrument, with Malvern Instruments (Malvern, UK) commercializing the first modern DLS instruments followed by Brookhaven (Long Island, USA) and ALV (Langen, Germany). Since its inception, DLS has proven particularly popular in determining hydrodynamic behavior of proteins, nucleic acids, and viruses due to its ability to provide information on both size and aggregation. There are already a number of excellent reviews detailing the theory and applications of DLS <ref type="bibr">(Bloomfield 1981;</ref><ref type="bibr" target="#b25">Fujime 1972;</ref><ref type="bibr" target="#b32">Harding and Jumel 1998;</ref><ref type="bibr" target="#b33">Harvey 1973;</ref><ref type="bibr" target="#b41">Jamieson et al. 1972;</ref><ref type="bibr" target="#b48">Lorber et al. 2012;</ref><ref type="bibr" target="#b57">Nieuwenhuysen and Clauwaert 1981;</ref><ref type="bibr" target="#b59">Nobbmann et al. 2007;</ref><ref type="bibr" target="#b78">Rimai et al. 1970;</ref><ref type="bibr" target="#b82">Schurr 1977;</ref><ref type="bibr" target="#b84">Serdyuk et al. 2007;</ref><ref type="bibr" target="#b96">Van Holde 1970;</ref><ref type="bibr" target="#b98">Zakharov and Scheffold 2009)</ref>. Here, our aim is to provide a brief theoretical background, an update on applications of DLS in studying proteins, nucleic acids, and their complexes, and a discussion of the benefits that modern instruments offer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theoretical considerations</head><p>When a monochromatic beam of light encounters solution containing macromolecules, light scatters in all directions as a function of the size and shape of the macromolecules. In static light scattering, the intensity of scattered light is analysed as timeaveraged intensity, which provides useful information on molecular weight and radius of gyration of macromolecules. On the other hand, if the intensity fluctuations (caused due to Brownian motion of macromolecules in solution) of scattered light is analysed, the diffusion coefficient (D τ ) that is related to hydrodynamic size of macromolecules can be obtained. Dynamic light scattering, also known as photon correlation spectroscopy or quasi-elastic light scattering, is a technique that primarily measures the Brownian motion of macromolecules in solution that arises due to bombardment from solvent molecules, and relates this motion to the size (or D τ ) of particles. Such motion of macromolecules depends on their size, temperature, and solvent viscosity <ref type="bibr" target="#b32">(Harding and Jumel 1998)</ref>. Therefore, knowledge of accurate temperature is essential for DLS measurements, since the viscosity of solvent depends on the temperature <ref type="bibr" target="#b31">(Harding 1999)</ref>. When the movement of particles over a time range is monitored, information on the size of macromolecules can be obtained, as large particles diffuse slowly, resulting in similar positions at different time points, compared to small particles (such as solvent molecules) which move faster and therefore do not adopt a specific position.</p><p>In a dynamic light-scattering instrument, when laser light encounters macromolecules the incident light scatters in all directions and scattering intensity is recorded by a detector. The monochromatic incident light will undergo a phenomenon called Doppler broadening as the macromolecules are in continuous motion in solution <ref type="bibr" target="#b32">(Harding and Jumel 1998)</ref>. The scattered light will either result in mutually destructive phases and cancel each other out, or in mutually constructive phases to produce a detectable signal. The digital autocorrelator then correlates intensity fluctuations of scattered light with respect to time (ns-μs) to determine how rapidly the intensity fluctuates, which is related to the diffusion behaviour of macromolecules. In a dynamic light-scattering experiment, we measure the G 2 (τ), an intensity correlation function (or second-order correlation function) that describes the motion of macromolecules under investigation and can be expressed as an integral over the product of intensities at time t and delayed time (t + τ) <ref type="bibr" target="#b4">(Berne and Pecora 1976)</ref>:</p><formula xml:id="formula_0">G 2 τ ð Þ ¼ I t ð ÞI t þ τ ð Þ h i ð<label>1Þ</label></formula><p>where, τ is the lag time between the two time-points.</p><p>The G 2 (τ) can be normalised as:</p><formula xml:id="formula_1">g 2 τ ð Þ ¼ I t ð ÞI t þ τ ð Þ h i I t ð Þ h i 2<label>ð2Þ</label></formula><p>The braces in both equations represent averaging of properties over the duration of the experiment (time t).</p><p>In a typical light-scattering experiment, it is not possible to precisely know how each particle moves in solution; however, the motion of particles relative to each other is correlated by means of an electric field correlation function, G 1 (τ), also known as the first-order correlation function, which illustrates correlated particle movement and can be defined as:</p><formula xml:id="formula_2">G 1 τ ð Þ ¼ E t ð ÞE t þ τ ð Þ h i<label>ð3Þ</label></formula><p>where, E(t) and E(t+τ) represent the scattered electric fields at times (t) and (t + τ) Similarly to equation 2, an equation 3 can be normalized as:</p><formula xml:id="formula_3">g 1 τ ð Þ ¼ E t ð ÞE t þ τ ð Þ h i E t ð ÞE t ð Þ h i<label>ð4Þ</label></formula><p>The g 1 (τ) and g 2 (τ) can be coupled to each other by the <ref type="bibr">Siegert relation (1949)</ref> based on an approximation that the scattering is homodyne (photodetector detects only Mie scattering: scattering of light from particles larger than the wavelength of light <ref type="bibr" target="#b55">Mie (1908)</ref> Brownian motion theory: collision with solvent molecules results in random motion of particles <ref type="bibr" target="#b19">Einstein (1905)</ref> Stokes-Einstein relationship: combines light scattering and diffusion behaviour of particles <ref type="bibr" target="#b20">Einstein (1906)</ref>, <ref type="bibr" target="#b90">Sutherland (1905)</ref> Fluctuation theory of light scattering: thermal fluctuations result into local inhomogeneities and intensity of scattered light can be determined by the mean-square fluctuations in density and/or concentration <ref type="bibr" target="#b21">Einstein (1910</ref><ref type="bibr" target="#b94">), v. Smoluchowski (1908)</ref> Rayleigh-Debye scattering: particles can be studied without assumptions on mass, size or shape as a function of angle <ref type="bibr" target="#b13">Debye (1915)</ref> Theory of optically anisotropic scatters <ref type="bibr" target="#b11">Cabannes and</ref><ref type="bibr">Rocard (1929), Gans (1921;</ref><ref type="bibr" target="#b27">1923)</ref> Brillouin doublet: theory and verification <ref type="bibr" target="#b7">Brillouin (1914;</ref><ref type="bibr" target="#b8">1922)</ref>, <ref type="bibr" target="#b30">Gross (1930)</ref>, <ref type="bibr" target="#b46">Landau and Placzek (1934)</ref> Siegert relation: relationship between the electric field correlation and intensity correlation function <ref type="bibr" target="#b85">Siegert (1949)</ref> Beginning of the modern light scattering approaches Pecora (1964) Digital autocorrelator development and diffusion coefficient measurement of haemocyanin <ref type="bibr" target="#b24">Foord et al. (1970)</ref> Cumulant analysis method for monomodal systems Koppel (1972) Exponential sampling method <ref type="bibr" target="#b64">Ostrowsky et al. (1981)</ref> Constrained regularization method for inverting data <ref type="bibr">Provencher (1982a;</ref><ref type="bibr">1982b</ref>) Non-negative least squares analysis method <ref type="bibr" target="#b56">Morrison et al. (1985)</ref> Maximum-entropy method <ref type="bibr">Livesey et al. (1986) Nyeo and</ref><ref type="bibr" target="#b60">Chu (1989)</ref> Singular value and reconstruction method <ref type="bibr" target="#b22">Finsy et al. (1992;</ref><ref type="bibr">1989)</ref> scattered light) and that the photon counting is a random Gaussian process,</p><formula xml:id="formula_4">g 2 τ ð Þ ¼ B þ β g 1 τ ð Þ j j 2<label>ð5Þ</label></formula><p>where, B is the baseline (∼1) and β is the coherence factor that depends on detector area, optical alignment, and scattering properties of macromolecules.</p><p>For monodisperse particles, the electric field correlation factor, g 1 (τ) decays exponentially and is dependent on a decay constant, Γ, for macromolecules undergoing a Brownian motion.</p><formula xml:id="formula_5">g 1 τ ð Þ ¼ e -Γτ<label>ð6Þ</label></formula><p>Therefore, equation 5 can be rewritten as:</p><formula xml:id="formula_6">g 2 τ ð Þ ¼ 1 þ βe -2Γτ<label>ð7Þ</label></formula><p>However, for a polydisperse system, g 1 (τ) cannot be represented as a single exponential decay but as an intensityweighed integral over a distribution of decay rates G(Γ) represented as:</p><formula xml:id="formula_7">g 1 τ ð Þ ¼ Z 0 ∞ G Γ ð Þe -Γ τ dΓ<label>ð8Þ</label></formula><p>The decay constant, Γ in equation 6 is directly related to the diffusion behaviour of macromolecules (D τ, ) as expressed in the following equation.</p><formula xml:id="formula_8">Γ ¼ -D τ q 2<label>ð9Þ</label></formula><p>In Equation 9, the Bragg wave vector q is proportional to solvent refractive index n <ref type="bibr" target="#b31">(Harding 1999)</ref>.</p><formula xml:id="formula_9">q ¼ 4πη λ sin θ=2 ð Þ<label>ð10Þ</label></formula><p>Where, λ is the wavelength of incident light and, θ is angle at which the detector is placed.</p><p>Therefore, equation 7 can be rewritten as:</p><formula xml:id="formula_10">g 2 τ ð Þ ¼ 1 þ βe -2D τ q 2 τ<label>ð11Þ</label></formula><p>Thus, equation 11 connects the particle motion with the measured fluctuations <ref type="bibr" target="#b9">(Burchard 1983)</ref>.</p><p>DLS instruments employ either a detector at 90 °(e.g., DynaPro ® NanoStar ® from Wyatt Technology or Zetasizer Nano S90 ® from Malvern Instruments) or a backscatter detection system at 173 °(e.g., Zetasizer Nano S ® from Malvern Instruments) and at 158 °(DynaPro Plate Reader ® from Malvern Instruments) close to the incident light of 180 °. Compared to the detection at 90 °, at a high scattering angle, the contributions of rotational diffusion effects in the observed autocorrelation profiles can be neglected and the D τ can be obtained <ref type="bibr" target="#b31">(Harding 1999;</ref><ref type="bibr" target="#b75">Pusey 1972</ref>). As light does not travel through the entire sample in the cuvette, the backscattering detection system also allows for measurement of the D τ of highly concentrated samples since multiple scattering phenomenon (scattering of a photon by more than one particles in contrast to scattering of a photon by only one particle) of scattered light can be avoided. Furthermore, large dust particles and contaminants scatter more light in the forward direction as their scattering becomes wavelength-independent compared to smaller size particles (Rayleigh scattering) that have nearly equal scattering in both directions, scattering contribution of large particles could be avoided in a backscatter detecting system.</p><p>As the translational diffusion coefficient, D τ , is concentration-dependent, it should be measured at multiple concentrations and extrapolated to infinite dilution (D 0 τ ) as a standard practice. Furthermore, the D 0 τ can be converted to the standard solvent conditions (viscosity and temperature of water at 20 °C) to obtain D 0 τ,20,w <ref type="bibr" target="#b32">(Harding and Jumel 1998;</ref><ref type="bibr" target="#b77">Raltson 1993)</ref>. The D τ is extremely useful in the determination of other important hydrodynamic parameters. For example, the hydrodynamic radius (R h ), which can be defined as the radius of a hypothetical sphere that diffuses at the same rate as particle under investigation, can be obtained using the Stokes-Einstein equation <ref type="bibr" target="#b75">(Pusey 1972)</ref>.</p><formula xml:id="formula_11">D τ ¼ k B T 6πηR h<label>ð12Þ</label></formula><p>Where k B is Boltzmann coefficient (1.380 × 10 -23 kg.m 2 .s -2 .K -1 ), T is an absolute temperature, and η is the viscosity of medium.</p><p>Additionally, the translational frictional coefficient, f (F/v, ratio of frictional force F experienced by moving particles due to Brownian motion and the velocity v of the particle) that provides information on the shape of macromolecules can also be calculated using D τ by the following equation.</p><formula xml:id="formula_12">f ¼ RT N A D t<label>ð13Þ</label></formula><p>Where R is a gas constant (8.314 × 10 -7 erg/mol.K), T is an absolute temperature, and N A is Avogadro's number (6.022137 × 10 23 mol).</p><p>The frictional coefficient can also be calculated using R h and equation (12) <ref type="bibr" target="#b92">(Tanford 1961)</ref>.</p><formula xml:id="formula_13">f ¼ 6πηR h<label>ð14Þ</label></formula><p>The translational frictional coefficient can be further used along with the D τ to calculate frictional ratio (f/f 0 , ratio of Stokes radius to that of a sphere with the volume of an unsolvated macromolecule) of macromolecules that can provide information with regard to the solution conformation of macromolecules. For a compact sphere, the frictional ratio is unity and as the shape of macromolecules deviate from compact sphere, f/f 0 increases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>Modern instruments are supplied with packages that perform data analysis, using various approaches to primarily evaluate size and homogeneity of macromolecules. In this section, we provide the background in brief on data analysis strategies. The correlation function (equation 11) contains information on diffusion behaviour of macromolecules under investigation, which in turn has information on R h (equation 12). In order to gain reliable information on diffusion coefficient, primarily two approaches are used to fit the correlation functionmonomodal distribution and nonmonomodal distribution methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monomodal distributioncumulant analysis</head><p>The cumulant analysis method, also known as the method that does not require a priori information, provides mean values of the diffusion coefficient but not the distribution of diffusion coefficients. Therefore, this method is only suitable for Gaussian-like distributions around the mean values. As explained in equation 6, the electric field correlation factor, g 1 (τ) decays exponentially and is dependent on a decay constant, Γ(Γ = -D τ q 2 ). For a monodisperse system, the g 1 (τ) can be treated as a single exponential decay function to calculate the decay constant and hence the diffusion coefficient. However, often the experimental system is polydisperse, which requires the g 1 (τ) to be treated as the sum of several exponential decay functions that decays at different rates.</p><p>The cumulant analysis method was introduced by <ref type="bibr" target="#b44">Koppel (1972)</ref> which became widely popular due to its ease and reliability, and was considered as the method of choice by the International Standards Organisation (ISO) in 1996 and again in 2008 <ref type="bibr" target="#b39">(ISO 2008)</ref>. Other methods including singular value and reconstruction methods were also developed, however, they are not as popular for the data analysis <ref type="bibr" target="#b23">(Finsy et al. 1989</ref><ref type="bibr" target="#b22">(Finsy et al. , 1992))</ref>. <ref type="bibr" target="#b44">Koppel (1972)</ref> derived the cumulativegenerating function K(-τ, Γ) that is related to the logarithm of g 1 (τ) and the m th cumulant of distribution function k m (Γ):</p><formula xml:id="formula_14">k m Γ ð Þ ¼ d m K -τ; Γ ð Þ m d -τ ð Þ -τ ¼ 0 where; K -τ; Γ ð Þ ¼ lng 1 τ ð Þ<label>ð15Þ</label></formula><p>The k m (Γ) can be rewritten to derive moments about the mean (μ m ):</p><formula xml:id="formula_15">μ m ¼ Z 0 ∞ G Γ ð Þ Γ - Γ ð Þ m dΓ<label>ð16Þ</label></formula><p>as</p><formula xml:id="formula_16">k 1 τ ð Þ ¼ Z 0 ∞ G Γ ð ÞΓ dΓ ¼ Γ ; k 2 τ ð Þ ¼ μ 2 ; k 3 τ ð Þ ¼ μ 3 ; k 4 τ ð Þ ¼ μ 4 -3μ 2 2 …<label>ð17Þ</label></formula><p>where, Γ is the mean of Γ values. Here, based on the Taylor expansion of K(-τ, Γ) about (τ) = 0, the lng 1 (τ) (see, equation 15) can be rewritten as:</p><formula xml:id="formula_17">K -τ; Γ ð Þ¼lng 1 τ ð Þ ¼ - Γ τ þ k 2 2! τ 2 - k 3 3! τ 3 þ k 4 4! τ 4 …<label>ð18Þ</label></formula><p>If we now recall equation 5, <ref type="bibr">[Siegert relation (1949)</ref>] and convert it to a logarithmic mode, we can obtain,</p><formula xml:id="formula_18">ln g 2 τ ð Þ-B ð Þ¼ln β þ 2lng 1 τ ð Þ<label>ð19Þ</label></formula><p>Finally, by combining equations 18 and 19, we can obtain:</p><formula xml:id="formula_19">ln g 2 τ ð Þ-B ð Þ¼ln β þ 2 - Γ τ þ k 2 2! τ 2 - k 3 3! τ 3 þ k 4 4! τ 4 …<label>ð20Þ</label></formula><p>Equation 20 has some useful properties. First of all, the experimentally measured and normalized g 2 (τ) could be plotted against (τ) to fit the parameters on the right-hand side of the equation. The Γ (k 1 ), k 2 , k 3 and k 4 represents average, variance, skewness and kurtosis of measured distributions respectively for the decay rates of the Gaussian distribution. More importantly, the polydispersity index (PDI) could be derived by using k 2 / Γ 2 relationship. Ideally, parameters above k 3 are not used to prevent over fitting of the data. It should be noted that often data truncation is required (typically when the autocorrelation function decays ∼ 10 % of the maximum value) because as the signal decays into the baseline, the higher noise could drive signal to negative values which are not useful as the data processing requires mathematical treatment of data such as square root and logarithm. Also, random errors lead to huge variations fitting of cumulants. For example, with the highly sophisticated instruments, random errors in Γ could be as low as 1 % but for k 2 it could be as high as 20 %. Therefore, the high-order cumulants are not recommended to be used <ref type="bibr" target="#b44">(Koppel 1972)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Non-monomodal distribution methods</head><p>Unlike the cumulant analysis, non-monomodal methods do not assume a certain type of distribution of diffusion properties, and are more suitable for polydisperse systems. The nonnegative least squares (NNLS) method was developed by <ref type="bibr" target="#b56">Morrison et al. (1985)</ref> for broad monomodal or multimodal distributions, which involves non-negativity constraints and the geometrical spacing of the distribution based on the Laplace transform of equation 8. The NNLS method uses decay constants Γ representing decay rates G(Γ) spaced in a linear or logarithmic form over a chosen ranges of Γ. For Γ i , the b i coefficients can be obtained from the best fit to the data with in the NNLS constraints using following equation.</p><formula xml:id="formula_20">χ 2 ¼ X N j¼1 g 1 τ j À Á - X M i¼1 b i e -Γ i τ j ð Þ " # 2<label>ð21Þ</label></formula><p>Where N is the number of data points and M is the number of decay constants with the constraint that Γ i , and b i are zero or positive values <ref type="bibr" target="#b34">(Hassan and Kulshreshtha 2006)</ref>.</p><p>The main drawback of NNLS is its sensitivity to small variations in measurements (of both, data and errors). To address this issue, the maximum-entropy <ref type="bibr" target="#b47">(Livesey et al. 1986</ref>) method was developed, which was subsequently modified to include geometrical spacing <ref type="bibr" target="#b60">(Nyeo and Chu 1989)</ref>.</p><p>Another inversion method that utilizes restraints to specify the range and values of a set of Γ i , before data processing, to obtain a unique set of parameters for a reliable fit, is known as the exponential sampling method where, Γ i values are exponentially spaced <ref type="bibr" target="#b64">(Ostrowsky et al. 1981</ref>):</p><formula xml:id="formula_21">Γ iþ1 ¼ Γ i e ηπ=ω max ð Þ<label>ð22Þ</label></formula><p>where, ω max is the maximum possible value of ω determined by the experimental noise that does not involve negative values for b i in equation 21. It is calculated through a trial and error method by gradually increasing ω until negative values for the distribution coefficients are obtained. Since each Γ is related to the R h (equations 9, 10 and 12), a frequency histogram of the radius distribution can be obtained using this method.</p><p>The constrained regularization method for inverting data (CONTIN) that also involves Laplase transform was developed by <ref type="bibr">Provencher (1982a;</ref><ref type="bibr">1982b;</ref><ref type="bibr" target="#b74">with Stepanek 1996)</ref> and is one of the most popular data analysis methods that does not involve sequential optimization of ω max like the exponential sampling method. The CONTIN technique uses a modified version of NNLS equation that includes minimization of regularised residuals (unlike minimization of residuals in the NNLS equation) and an appropriate weighing function.</p><p>Therefore, a modified expression of equation 21 can be written as:</p><formula xml:id="formula_22">χ 2 ¼ X N j¼1 1 . σ 2 i g 1 τ j À Á - Z G Γ ð Þe -Γτ ð Þ dΓ ! 2 þ α 2 LG Γ ð Þ k k 2<label>ð23Þ</label></formula><p>Here, α is a regularizer that adds an additional constraint on the solution while performing data analysis, whereas L is the operator of regularizer.</p><p>The CONTIN method employs a nonlinear statistical technique to smooth the solution, a regularizer parameter based on the F-test and a parsimony principle that chooses distribution function with the least detailed distribution that agrees with the data, resulting in narrower distributions. The major discoveries in data analysis are briefly summarised in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Although the DLS measures the PDI (cumulant analysis, <ref type="formula" target="#formula_19">20</ref>), it should not be compared with the PDI measured by the static light-scattering method (ratio of weight-average molar mass to number-average molar mass, M w /M n ) as based on the k 2 / Γ 2 ratio, PDI from DLS is in the range of 0-1, where in theory, a value of zero represents a monodisperse system, whereas that for M w /M n would be ∼1.</p><formula xml:id="formula_23">k 2 / Γ 2 , Equation</formula><p>Typically, the cumulant analysis method is suitable for samples with the PDI of ∼0.1, i.e., monodisperse system. The PDI value of 0.1 to 0.7 represents nearly monodisperse preparation, whereas PDI &gt;0.7 suggests broad distribution of macromolecular sizes in solution and non-monomodal distribution methods should be considered for data analysis. PDI of &lt; 0.05 is rarely observed in biological systems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Size distribution of hydrodynamic radius</head><p>The methods described in sections 3.1 and 3.2 will provide distribution of diffusion behaviour, and hence the distribution of R h . The averaged diffusion coefficient (&lt;D τ &gt;) in a given system can be expressed as:</p><formula xml:id="formula_24">D τ h i ¼ X i N i M 2 w;i P q; R ð ÞD τi X i N i M 2 w;i P q; R ð Þ<label>ð24Þ</label></formula><p>where M w is the molecular weight of N number of particles, and P(q,R) is the intraparticle interface. Equation 24 describes the dependence of the diffusion coefficient on M w 2 , which explains that the technique is inherently biased for molecules with higher molecular weights. It should also be noted that the scattering of light depends on the refractive index of macromolecules, and that the term P(q,R) can be approximated to 1 for molecules sufficiently smaller than the wavelength of the incident light, resulting in z-averaged D τ . Since it is the intensity fluctuations of macromolecules that are being collected and analysed in a DLS experiment, the first-hand information on R h is based on the intensity-weighted distribution or simply, intensity distribution that provides z-average R h . As light scattering depends on the refractive index of macromolecules and solvent viscosity, the z-averaged R h requires input of these two properties. According to the Rayleigh approximation, the intensity distribution is approximately proportional to (size) 6 for small particles <ref type="bibr" target="#b2">(Barnett 1942)</ref>, as presented in equation 25. It should be noted that the z-averaged R h from DLS should only be compared with R h from other methods if the molecules under investigation are monodisperse and display monomodal distribution, particles are spherical in shape, and are solubilized in suitable buffer system, as the intensity distribution depends on the refractive index of molecules and viscosity of the medium.</p><formula xml:id="formula_25">% I a ¼ a 6 N a ⋅ 100 N a a 6 þ N b b 6<label>ð25Þ</label></formula><p>Equation 25 describes intensity distribution for a solution containing N a and N b molecules with size a and b respectively. The %I a presents intensity-weighted distribution for particles with size a, based on the relative amount of intensity of molecules with size a (Malvern 2014).</p><p>The intensity-weighted distribution can be converted to volume-weighted distribution that represents relative proportion of multiple sizes in a particular sample based on their volume or size but not their intensity, by taking advantage of the Mie theory. According to the Rayleigh approximation, the mass of spherical molecules is proportional to (size) 3 . If the density of a system is uniform, mass can be approximated to the volume, implying that the volume-weighted distribution is proportional to (size) 3 , which is why the R h from volume distribution is smaller compared to intensity-weighted distribution.</p><formula xml:id="formula_26">%V a ¼ a 3 N a⋅ 100 N a a 3 þ N b b 3<label>ð26Þ</label></formula><p>Equation 26 describes volume distribution for a solution containing N a and N b molecules with size a and b respectively. The %V a presents volume-weighted distribution for molecules with size a, based on the volume of molecules with size a.</p><p>In addition to the knowledge of refractive index and viscosity, volume distribution relies on the assumption that all the molecules are homogenous and spherical in shape, and that the intensity distribution has no errors. Because volume distribution presents distribution of sizes based on volume/mass of molecules, it is practically more useful.</p><p>The intensity-weighted distributions can also be converted to number-weighted distributions that represent number of molecules in each bin in a given histogram. Equation <ref type="formula" target="#formula_27">27</ref>presents number distribution for a system containing two molecules.</p><formula xml:id="formula_27">%N a ¼ N a ⋅ 100 N a þ N b<label>ð27Þ</label></formula><p>Where, N a and N b are molecules with size a and b respectively. The %N a presents number-weighted distribution for molecules with size a based on the number of molecules with size a.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Standard operating protocol</head><p>We have used a Zetasizer Nano S from Malvern Instruments Ltd. to perform all the experiments described here with lowvolume quartz cuvette ZEN2112 from Hellma Analytics. However, the approach could be modified to suit any equivalent modern DLS instrument.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cuvette cleaning</head><p>For efficient cleaning, it is recommended to use a dedicated cuvette washer (e.g., C1295 from Sigma-Aldrich).</p><p>&amp; Wash cuvette with approximately 5 ml of 5 % solution of Hellmanex TM from Hellma Analytics or similar detergent solution. &amp; Wash cuvette with approximately 5 ml of 5 % acetic acid solution (ACS grade). &amp; Wash cuvette with approximately 10 ml of ultrapure water (e.g., Type 1 quality water from Milipore Milli-Q systems). &amp; Dry cuvette with approximately 5 ml of 70 % ethanol.</p><p>Keep cuvette for additional 5 minutes on the cuvette washer to allow sufficient drying. &amp; Dust particles scatter light that may affect the DLS measurements. A standard check is then performed to ensure sufficient cleaning using only filtered buffer in the cuvette, where an error (e.g., insufficient counts to obtain reliable results) results indicating that the cuvette is clean and contains no particles that can interfere with measurements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysing biomolecular preparations to detect aggregation</head><p>We refer to preparations containing proteins, glycoproteins, nucleic acids (RNA, DNA), protein-protein complexes (PPC) or protein-nucleic acids complexes (PNC) as biomolecular preparations. It is important to note that samples subjected to DLS analysis are Bpolished samples^and not Bcrude preparations^meaning that the proteins, nucleic acids, or their complexes have been already purified by means of various forms of chromatography [e.g., affinity chromatography, ionexchange chromatography, hydrophobic interaction chromatography, and/or size exclusion chromatography (SEC)] to achieve a high level of purity. One of the most important criteria in biomedical sciences is ensuring that the biomolecular preparation is devoid of high molecular weight aggregates (HMWA), as aggregation can be a major rate-limiting factor in biochemical, biophysical, and biopharmaceutical studies. For example, an aggregated and/or inhomogeneous sample will be difficult to crystallisean essential step to obtain a highresolution structure by X-ray crystallography. Several biophysical techniques such as small-angle X-ray scattering (SAXS) and small angel neutron scattering (SANS) can only provide reliable information for monodisperse and homogenous preparations, as molecules with higher molecular weight (albeit at extremely low concentration) will scatter heavily thereby affecting the outcomes of these experiments. As a practical commercial example, therapeutic antibodies need to go through a rigorous analysis that involves investigation of their aggregation state (amongst other properties including temperature, storage stability, and degradation) before the selection of a lead antibody candidate for therapeutic applications.</p><p>The following is a standard protocol the authors use in their laboratory for analysis of proteins, antibodies, glycoproteins, nucleic acids, and their complexes for structure biology applications.</p><p>&amp; Clean cuvette as described in subsection BMonomodal distributioncumulant analysis^. &amp; Filter the sample through 0.1 μm filter (e.g., Ultrafree-MC VV Centrifugal Filter, Merck Millipore) to remove large particulates from the preparation. &amp; It is critical to study aggregation state at the working concentrations (concentrations at which the downstream study is planned, e.g., crystallization or antibody dose).</p><p>Prior to all measurements, concentration for polished sample should be accurately measured. &amp; Often, biological samples are precious since they require time and resources. To minimise the sample requirement, we use a cuvette that requires only ∼12 μl of filtered concentrated sample. However, to avoid air bubbles we load ∼20 μl of sample carefully by reaching the bottom of the cuvette with a straight pipette tip. &amp; The software package that accompanies modern DLS instruments (such as the Zetasizer Nano S software) enables creation of a standard operating protocol (SOP) for an individual sample. We recommend that for each particular sample, a SOP should be prepared that contains essential information such as the buffer composition and experimental temperature (that in turn will calculate the viscosity at particular temperature and refractive index of buffer: essential parameters for reliable DLS measurements).</p><p>&amp; Perform the R h distribution measurements at least five times to obtain reproducible results at high concentration.</p><p>In order to study the concentration dependence of R h , we dilute the preparation by directly adding filtered buffer into the cuvette containing a high concentration of sample followed by gentle mixing using pipette and collect data. We continue this practice for multiple concentrations.</p><p>Often, we use well-characterised proteins such as BSA or ovalbumin as positive controls to ensure that the instrument is performing as expected. In addition, several NIST (National Institute of Standards and Technology) standards such as 60 nm or 100 nm polystyrene latex spheres should also be used to ensure proper instrument function.</p><p>The Zetasizer software provides a number of analysis methods to study aggregation by DLS. Size Distribution by Intensity and Size Distribution by Volume are the most widely used methods, whose theories are discussed in the BData analysis^section, and usefulness in practice is discussed in the next sections. The choice of the analysis method will depend on the objective of study. For example, if an analysis is aimed to study the presence of trace amount of aggregates for lead therapeutic antibody preparation (to achieve aggregationfree preparation), the intensity distribution method is more suitable, as high molecular weight aggregates will disproportionately scatter light relative to smaller particles enabling detection despite their relatively low concentration in the sample. On the other hand, if the study is aimed to investigate homogeneity to set-up crystallization trials or for additional biochemical/biophysical characterisation using analytical ultracentrifuge, SAXS, etc., purity around 95 % is acceptable and the volume distribution method can be used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Applications</head><p>The dynamic light-scattering technique has a number of advantages over other methods. For example, it is possible to conduct experiments with wide range of sample buffer and wide range of temperature as well as concentrations. DLS is also a non-invasive technique that requires comparatively low amounts of sample and provides reliable estimates of the quality of preparation rapidly. In the following sections, we describe applications of DLS to study homogeneity of proteins, RNA, and their complexes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Detecting aggregation of recombinant proteins</head><p>Probing homogeneity of biomolecular preparations is required for various types of downstream experiments and applications. This section focuses on study of a multi-domain extracellular matrix protein (ECM), nidogen-1 (ND-1), and a wellstudied globular protein, ovalbumin.</p><p>ND-1 (139 kDa) is a key basement membrane protein that primarily interacts with other ECM proteins such as laminin, perlecan, fibulin, and fibronectin <ref type="bibr" target="#b29">(Gerl et al. 1991;</ref><ref type="bibr" target="#b38">Hsieh et al. 1994;</ref><ref type="bibr" target="#b51">Mayer et al. 1993;</ref><ref type="bibr">Sasaki et al. 1995a, b)</ref>. It is a very difficult system to study, as it undergoes proteolytic degradation as well as aggregation. In order to investigate its lowresolution structure, we required a homogenous preparation devoid of both degradation and aggregation. Initial expression and purification trials produced heterogeneous preparations as presented in Fig. <ref type="figure" target="#fig_0">1a</ref> and<ref type="figure">b</ref>; however, subsequent optimization achieved high quality preparations without significant degradation and with less than 5 % of HMWA as detected by intensity distributions (Fig. <ref type="figure" target="#fig_0">1c</ref>). It is important to note that in Rayleigh scattering, the scattering intensity depends on the 6th power of the size of molecules <ref type="bibr" target="#b2">(Barnett 1942)</ref>, and therefore despite being present in negligible amounts, the HMWA R h peak intensity is disproportionately represented relative to the dominant smaller molecular weight monodisperse species in the same preparation. Therefore, the HMWA peak is absent in the volume distribution (Fig. <ref type="figure" target="#fig_0">1d</ref>). This example clearly highlights DLS as a sensitive tool to screen for even trace amounts of HMWA in biomolecule preparations.</p><p>Figure <ref type="figure" target="#fig_1">2a</ref> presents an intensity distribution profile for ovalbumin (44 kDa) at multiple concentrations, where HMWA (&gt;100 nm) are visible for each concentration. However, the volume distribution profiles derived from the intensity information for each concentration display a single peak, since the amount of aggregates is negligible (Fig. <ref type="figure" target="#fig_1">2b</ref>). As a volume distribution profile represents the relative volume of high and low molecular weight species in a preparation (discussed in section 3.3), we will mainly focus on the volume distribution profiles in subsequent sections. Ideally, to report R h value, it should be first measured multiple times at each individual concentration followed by calculating mean R h value at each concentration and plotting against concentration to eliminate concentration effects, similar to the approach taken with diffusion and sedimentation coefficient measurements. We have provided an example here with ovalbumin (Fig. <ref type="figure" target="#fig_1">2c</ref>), a practice that is routinely followed in our approach for proteins and nucleic acids as well as PPC and PNC to obtain a reliable a Hydrodynamic radius distribution by intensity for nidogen-1 (ND-1) at 0.4 mg/ml, indicating that although there is a major peak for each measurement, there are multiple peaks visible between 15 nm and 500 nm (x-axis) suggesting the presence of high molecular weight aggregated species. Degradation at 4 nm is also visible for one of the measurements in red colour. b Hydrodynamic radius distribution by volume derived from intensity profiles for ND-1 at 0.4 mg/ml concentration, suggesting that volume distribution is not sensitive enough for detecting scant amount of aggregation. However, peaks from multiple runs do not coincide with each other: that essentially is a reflection of heterogeneous sample.</p><p>Again, the degradation is visible for the measurement that is clearly visible for intensity distribution. c Similar to a, the aggregation studies for ND-1 were performed at 0.5 mg/m for a preparation optimized to obtain cleaner sample, indicating that compared to a, the level of aggregation is severely reduced. d Homogeneity of ND-1 reflected by volume distribution of nearly identical peaks from multiple measurements, demonstrating highly purified and homogenous preparation. Recombinant ND-1 (139 kDa) was expressed into 293-EBNA cells and purified using affinity chromatography, followed by SEC in 50 mM Tris-HCl (pH 7.5), 200 mM NaCl buffer as described earlier <ref type="bibr" target="#b65">(Patel et al. 2014)</ref> estimate of R h . In addition to ovalbumin, we also evaluated routinely used molecular weight standards that are globular in shape at a single concentration to evaluate resolution of DLS measurements (Table <ref type="table" target="#tab_1">2</ref>). Fig. <ref type="figure" target="#fig_1">2d</ref> presents gradual increase in R h from 1.82 nm for aprotinin with M w of 6.5 kDa to 8.71 nm for thyroglobulin with M w of 670 nm, suggesting that it is possible to study macromolecules with a wide range of molecular weights.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protein-protein interaction studies</head><p>In addition to detection of aggregation in biomolecular preparations, DLS can also be employed to study PPC. Ideally, the SEC-purified proteins are first studied by DLS alone, followed by analysis of the complex by DLS after SEC purification. An example of PPC studies using DLS is provided in Fig. <ref type="figure">3a</ref> and b, which presents DLS data for ND-1 (139 kDa), LM γ-1 (109 kDa), and their complex. LM γ-1, an interacting partner of ND-1 and Net4, plays crucial roles in basement membrane formation <ref type="bibr" target="#b6">(Breitkreutz et al. 2004;</ref><ref type="bibr" target="#b81">Schneiders et al. 2007</ref>) cell migration, and metastasis <ref type="bibr" target="#b45">(Kuratomi et al. 2002)</ref>. Single nucleotide polymorphisms in LM γ-1 gene is linked with premature ovarian failure <ref type="bibr" target="#b76">(Pyun et al. 2012)</ref>. Figure <ref type="figure">3a</ref> presents the R h distribution data for SEC purified ND-1 and LM γ-1 proteins at single concentration. After studying how individual proteins behave at multiple concentrations in terms of their homogeneity by DLS, we also investigated their complex using DLS (Fig. <ref type="figure">3a</ref>). The R h distribution studied at multiple concentrations suggested that both proteins are highly monodisperse in solution, with R h of 6.80 ± 0.10 nm and 6.40 ± 0.05 nm respectively (Fig. <ref type="figure">3b</ref>). Furthermore, the complex of ND-1 -LM γ-1 was also found to be monodisperse with R h of 9.00 ± 0.04 nm (Fig. <ref type="figure">3b</ref>). This example clearly demonstrates the strengths of DLS techniquevery rapid measurements and requiring low amounts of purified components to study protein-protein interactions. However, since large molecules scatter light more strongly, even a trace amount of aggregation can be detected using intensity distribution. In both cases, nearly identical positions of peak suggest a homogenous preparation. For biophysical and structure biology applications, such preparations are acceptable; however, for therapeutic antibodies, further optimization may be required. c Plot of R h vs concentration for ovalbulin, where the y-axis intercept provides concentration-independent R h of 2.88 ± 0.06 nm. d Hydrodynamic radius for frequently used molecular weight standards to calibrate size exclusion column was measured at single concentration. The details for molecular weights and concentrations are provided in Table <ref type="table" target="#tab_1">2</ref>. Note that all of the proteins used here are globular proteins; therefore, it is possible to compare their R h profiles in terms of molecular weight. The smallest protein here is aprotinin (Mw 6.5 kDa) with R h of 1.82 nm, a value that increases with increase in molecular weight to 8.71 nm for thyroglobulin (Mw 670 kDa). Ovalbumin (44 kDa) was purchased from Fischer Scientific (BP2535) and solubilised using 20 mM phosphate buffer (pH 7.0) for DLS measurements <ref type="bibr" target="#b83">(Scott et al. 2011)</ref>. The molecular weight standards kit was purchased from GE healthcare, and DLS data were collected in 50 mM Tris (pH 8.0), 150 mM NaCl buffer</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Homogeneity of viral RNA molecules</head><p>RNA molecules are highly labile, since exposure to trace amounts of ribonuclease impurities present in aqueous solutions and reagents, air and dust particles, as well as direct human skin contact with RNA preparations, can result in RNA degradation. Our dynamic light-scattering instrument is regularly used to study homogeneity of in-vitro transcribed RNA. The West Nile virus genome terminal regions (5' and 3') are recognised by an enzyme called 2' 5' oligoadenylate synthetase 1 (OAS1), which is a part of an innate immune system. Once viral RNA is recognised, OAS1 synthesises 2'-5'-linked oligoadenylates that ultimately stimulate RNase L in order to slow viral propagation <ref type="bibr" target="#b37">(Hovanessian and Justesen 2007)</ref>. We studied interactions of the 5' terminal region (5' TR) with OAS1 as well as 3' terminal region (3' TR) using a variety of biochemical and biophysical tools, one of which was DLS. While interpreting DLS data for RNA molecules, it should be noted that the folded RNA structures are typically extended; therefore, the R h of RNA is often observed to be higher compared to a globular protein of similar molecular weight. This effect has been observed qualitatively by SEC <ref type="bibr" target="#b43">(Kim et al. 2007)</ref>. Figures <ref type="figure" target="#fig_3">4a</ref> and<ref type="figure">b</ref> present a monodisperse preparation of the West Nile virus 5' TR based on intensity and volume distributions respectively at 3.5 mg/ml, whereas Fig. <ref type="figure" target="#fig_3">4c</ref> and<ref type="figure">d</ref> presents intensity and volume distributions for 3' TR from West Nile virus at 2.7 mg/ml. Both distributions for each sample suggest that the 5' TR and 3' TR RNA are free of any aggregation and suitable for lowresolution shape determination using SAXS. The DLS data for 5' TR (47.5 kDa) and 3' TR (37.5 kDa) were calculated at multiple concentrations to obtain R h of 5.1 ± 0.02 nm and 3.46 ± 0.06 nm respectively compared to ovalbumin, a globular protein with M w of 44 kDa that has R h of ∼3 nm, suggesting that both of these RNA has an extended structure in solution, which was later confirmed by low-resolution solution scattering studies <ref type="bibr" target="#b15">(Deo et al. 2014</ref><ref type="bibr" target="#b14">(Deo et al. , 2015))</ref>. These examples clearly establish DLS as an ideal method to study homogeneity and conformation of RNA molecules prepared in laboratory using in-vitro transcription.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protein-RNA interaction studies</head><p>As with PPC studies, protein-RNA complexes can also be studied using DLS. We have used DLS to characterise OAS1-RNA complex and PKR-RNA complexes. In order to study the homogeneity of complexes, it is ideal to simultaneously study individual components. Therefore, host OAS1 (41 kDa) protein, 5' TR RNA as well as 3' TR RNA from West Nile virus were studied at multiple concentrations. As mentioned above, Fig. <ref type="figure" target="#fig_3">4</ref> displays homogeneity of 5' TR and 3' TR, whereas Fig. <ref type="figure" target="#fig_4">5a</ref> presents DLS data for OAS1 demonstrating monodispersity of OAS1. Additionally, the purity of 5' TR-OAS1 complex and 3' TR-OAS1 complex is also evident from Fig. <ref type="figure" target="#fig_4">5a</ref>. The complexes (5' TR-OAS1 and 3' TR-OAS1) were also studied at multiple concentrations, similarly to OAS1, 5' TR, and 3' TR. The DLS data for individual components and complex suggest that all the species are highly pure in solution. The R h values obtained from  <ref type="figure">3</ref> Homogeneity of protein-protein complexes. a Hydrodynamic radius distribution of ND-1, laminin γ-1 (LM γ-1) arm, and their complex at 3 mg/ml indicating purity of individual species as well as their complex. b Concentration dependence of ND-1, LM γ-1 arm, and their complex up to 4 mg/ml <ref type="bibr" target="#b65">(Patel et al. 2014)</ref>. Recombinant ND-1 (139 kDa) and LM γ-1 (109 kDa) were expressed into 293-EBNA cells and purified using affinity chromatography followed by SEC. Complex of ND-1-LM γ-1 was purified using SEC, and DLS measurements were performed in 50 mM Tris-HCl (pH 7.5), 200 mM NaCl buffer as described earlier <ref type="bibr" target="#b65">(Patel et al. 2014</ref>) multiple concentrations are: OAS1 (3.30 ± 0.3 nm), 5' TR (5.10 ± 0.2 nm), 3' TR (3.36 ± 0.06 nm), 5' TR-OAS1 (4.92 ± 0.07) and 3' TR-OAS1 (5.45 ± 0.03). OAS1 is a globular-shaped protein <ref type="bibr" target="#b15">(Deo et al. 2014;</ref><ref type="bibr" target="#b16">Donovan et al. 2013)</ref>, whereas both RNA molecules were found to be extended in solution. Isothermal titration calorimetry studies for both complexes established 1:1 ration of individual species <ref type="bibr" target="#b15">(Deo et al. 2014</ref><ref type="bibr" target="#b14">(Deo et al. , 2015))</ref>; therefore, a decrease of R h for 5' TR-OAS1 complex and an increase of R h in 3' TR-OAS1 complex clearly indicate conformational change in RNA molecules. Overall, both examples suggest that DLS, in conjunction with other methods, can be employed to study conformational changes mediated by interacting partners in solution.</p><p>PKR is a major player of innate immunity providing support against viral infection by recognising viral doublestranded RNA, and ultimately influences a number of cellular activities <ref type="bibr" target="#b28">(Garcia et al. 2006)</ref>. It is composed of two doublestranded RNA binding motifs (dsRBM) connected by a flexible linker as well as a kinase domain that is linked to dsRBMs by a linker <ref type="bibr" target="#b17">(Dzananovic et al. 2014;</ref><ref type="bibr" target="#b52">McKenna et al. 2007)</ref>. In order to study the low-resolution structure of double-stranded RNA binding domain of PKR (PKR 1-169 , 18.8 kDa) in complex with adenovirus VA I RNA that lacks the terminal region (VA I ΔTS, 32.2 kDa), DLS was employed as a tool to study homogeneity of PKR 1-169 , VA I ΔTS and their complex. The homogeneity of each species and the complex is evident from Fig. <ref type="figure" target="#fig_4">5c</ref>, that essentially has a single peak for each sample without any HMWA. The DLS data were collected at multiple concentrations and extrapolated to infinite dilution to obtain R h of 2.80 ± 0.10 nm for PKR 1-169 , 3.30 ± 0.04 nm for VA I ΔTS and 3.90 ± 0.2 nm for their complex <ref type="bibr" target="#b17">(Dzananovic et al. 2014)</ref>. This example suggests that as above, DLS can be a powerful tool to study homogeneity of proteins, RNA, and their complexes. As described in Section 5.6, these R h values can also used to validate low-resolution structures or individual components and complexes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protein-small molecules interactions</head><p>Agrin is a heparin sulphate proteoglycan located in the extracellular matrix, and plays a crucial role in aggregation of neuromuscular junction <ref type="bibr" target="#b58">(Nitkin et al. 1987</ref>) and formation of synapses <ref type="bibr" target="#b35">(Hilgenberg et al. 2006;</ref><ref type="bibr" target="#b36">Hoover et al. 2003;</ref><ref type="bibr" target="#b42">Khan et al. 2001)</ref>. It is composed of an N-terminal domain (NtA), a series of follistatin-like domains (FS), and three laminin G-like Cterminal domains (G1, G2, and G3) <ref type="bibr" target="#b50">(Mascarenhas et al. 2003;</ref><ref type="bibr" target="#b86">Stetefeld et al. 2001)</ref>. The C-terminal G3 domain of agrin is known to interact with calcium if the alternative amino-acid splicing site has eight amino-acid inserts present <ref type="bibr">(Stetefeld et al. 2004</ref>). However, we attempted to investigate if the G3 domain without any amino acid present at the splice site can interact with divalent cations. It should be noted that the G3 domain was expressed as a fusion protein that contains Fc domain of human IgG (G 3 B 0 Fc), which facilitates purification by means of protein A affinity chromatography. For each measurement, 20 μl of G 3 B 0 Fc (∼1 mg/ml) protein was added to a clean cuvette and allowed to equilibrate to 20 °C for 5 minutes followed by measurement of R h . Multiple measurements for intensity distribution (a) and volume distribution (b) at 3.5 mg/ml suggest that the 5' TR RNA is highly pure and devoid of any aggregation. Similarly, 3' untranslated region (3' TR) from West Nile virus was also studied using DLS at 2.7 mg/ml, where a and b present intensity and volume distributions suggesting presence of a homogenous solution of 3' TR. The 5' and 3' untranslated regions (5' TR -47.5 kDa, 3' TR -37.5 kDa) from West Nile virus were prepared using an in-vitro transcription method followed by purification using SEC and DLS analysis in 50 mM Tris (pH 7.0), 100 mM NaCl buffer as described earlier <ref type="bibr" target="#b15">(Deo et al. 2014</ref><ref type="bibr" target="#b14">(Deo et al. , 2015) )</ref> As presented in Fig. <ref type="figure">6</ref> for each set of experiments, an R h of ∼ 5 nm was observed for G 3 B 0 Fc that corresponds to a monomer as deduced from AUC and DLS experiments <ref type="bibr" target="#b66">(Patel et al. 2011)</ref>. After measuring the R h for G 3 B 0 F c protein, CaCl 2 was added into the cuvette to final concentration of 5 mM followed by temperature equilibrium/incubation for 5 minutes prior to measurement of R h to determine effect of CaCl 2 on protein. The procedure was repeated to increase CaCl 2 concentration up to 50 mM. Figure <ref type="figure">6a</ref> demonstrates the effect of CaCl 2 , where addition of 5 mM CaCl 2 led to formation of a supramolecular complex of G 3 B 0 Fc yielding two peaks (major peak ∼ 600 nm) that increased to ∼ 800 nm when CaCl 2 concentration was increased to 50 mM. Since EDTA binds to divalent cations, we then added EDTA to final concentration of 5 mM into the cuvette containing G 3 B 0 Fc protein with 50 mM CaCl 2 . After 5 minutes of temperature equilibrium of sample, the DLS measurements were performed, which yielded a peak at ∼ 5 nm for G 3 B 0 Fc that is nearly identical to the first measurement where CaCl 2 was absent. Similarly, experiments were performed to study effect of MnCl 2 and ZnCl 2 where the R h for G 3 B 0 Fc was measured first followed by addition to MnCl 2 or ZnCl 2 to final concentration of only 2 mM, which resulted into supramolecular complex with peak ∼ 900 nm which could be reduced to the original size of G 3 B 0 Fc upon addition of EDTA to final concentration of 5 mM, as presented in Fig. <ref type="figure">6b</ref> and<ref type="figure">c</ref>. We also performed similar experiments with MgCl 2 ; however, only marginal increase in R h for G 3 B 0 Fc was observed at 50 mM MgCl 2 concentration (data not shown). These results demonstrate that the G 3 domain of agrin can interact with metal ions resulting into reversible aggregates of various sizes depending on the metal ion. However, if such behaviour of G 3 domain of agrin in vitro has any biological relevance remains to be demonstrated. It could be argued that the presence of Fc domain may influence such behaviour of agrin G 3 protein; however, we were unable to find such effect of cations on antibodies in (2.2 mg/ml), 5' TR-OAS1 complex (4.0 mg/ml), and 3' TR-OAS1 complex (3.5 mg/ml). b The concentration dependence of OAS1, 5' TR, 3' TR, 5' TR -OAS1, and 3' TR-OAS1 complex. c Hydrodynamic radius distribution for PKR 1-169 (3.5 mg/ml), VA I ΔTS (1.2 mg/ml), and VA I ΔTS-PKR 1-169 complex (1 mg/ml), suggesting homogeneity of all three species. d Dynamic light scattering data for PKR 1-169 , VA I ΔTS, and VA I ΔTS-PKR 1-169 complex are presented at multiple concentrations. Human OAS1 (41 kDa) was expressed in BL21(DE3) cells followed by purification by means of affinity and SEC <ref type="bibr" target="#b54">(Meng et al. 2012)</ref>. DLS data were measured in 50 mM Tris (pH 7.5), 100 mM NaCl, 1 mM DTT buffer <ref type="bibr" target="#b15">(Deo et al. 2014)</ref>. The 5' TR-OAS1 and 3'-TR OAS1 complexes were purified using SEC and analysed using DLS in 50 mM Tris (pH 7.5), 40 mM NaCl, and 1 mM EDTA <ref type="bibr" target="#b14">(Deo et al. 2015)</ref>. Similarly, the adenovirus VA I RNA lacking the terminal stem-loop RNA (VA I ΔTS, 32.3 kDa) was prepared by in-vitro transcription method followed by purification using SEC <ref type="bibr" target="#b17">(Dzananovic et al. 2014)</ref>, whereas human protein kinase R (PKR) lacking the Cterminal kinase domain (PKR 1-169 18.8 kDa) was expressed into BL21(DE3) cells, purified by means of affinity and SEC followed by DLS data collection in 50 mM Tris (pH 7.50), 100 mM NaCl, and 5 mM 2-mercaptoethanol <ref type="bibr" target="#b18">(Dzananovic et al. 2013)</ref>. DLS data for SEC purified VAIΔTS-PKR 1-169 complex was collected in 50 mM Tris (pH 7.50), 100 mM NaCl buffer <ref type="bibr" target="#b17">(Dzananovic et al. 2014)</ref> the literature. Nevertheless, our data shows that it is possible to study aggregation of macromolecules induced by small molecules using DLS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Complementary hydrodynamic methods enhanced by DLS measurements</head><p>Apart from providing information on homogeneity, DLS can also be employed as a complementary method to study size and shape of macromolecules. In this section, we will provide a brief outline of applications of DLS as a complementary method.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Molecular weight determination</head><p>Molecular weight is one of the most important properties of any molecule. Comparison of sequence molecular weight of proteins or nucleic acids with experimentally determined molecular weight can provide useful information such as their oligomeric status, degradation, or change in molecular weight upon interaction between binding partners. There are a number of methods that can provide molecular weight information. For example, SEC can, in theory provide molecular weight for proteins, nucleic acids, or complexes. However, the molecular weight calculated from SEC relies on the assumption that the molecular weight standard and biomolecules being studied  <ref type="figure">6</ref> Protein-small molecules interaction studies. The mouse G 3 B 0 protein fused with human Fc domain of IgG-G 3 B 0 Fc was studied using DLS at 1 mg/ml. a, b, and c presents volume distribution profiles for G 3 B 0 Fc protein and its interactions with divalent cations. a A single peak for G 3 B 0 Fc appears at ∼5 nm which resolves into two peaks at ∼ 100 nm and ∼ 600 nm upon addition of 5 mM CaCl 2 . The higher molecular weight peak further increases up to ∼ 700 nm in the presence of 50 mM CaCl 2 . However, addition of EDTA (5 mM) reduces the huge complex of G 3 B 0 Fc-50 mM CaCl2 to ∼ 5 nm that essentially overlays on G 3 B 0 Fc data. Similarly, addition of only 2 mM MnCl 2 (b) and 2 mM ZnCl 2 (c) increases the size of G 3 B 0 Fc from ∼ 5 nm to ∼900 nm, indicating presence of a very heavy aggregate. Addition of EDTA (5 mM in both cases) again reduces the heavy complex to monomeric size of G 3 B 0 Fc. The C-terminal laminin G-like G 3 domain variant of chicken agrin without insert of amino acids at the alternative splice site B (B 0 ), G 3 B 0 was expressed as a fusion protein, with human Fc domain of IgG-G 3 B 0 Fc being expressed using HEK293 cells as described previously <ref type="bibr" target="#b66">(Patel et al. 2011)</ref>. The G 3 B 0 Fc protein was affinity purified, followed by DLS data collection in 20 mM Tris, 150 mM NaCl at pH 7.2 adopt a spherical shape; deviations in shape typically result in overestimates of molecular weight from elongated structures. A more reliable method for calculating molecular weight is to combine sedimentation coefficient data from an analytical ultracentrifuge and R h from the dynamic light scattering using the Svedberg equation <ref type="bibr" target="#b91">(Svedberg and Pedersen 1940)</ref>,</p><formula xml:id="formula_28">M w ¼ 6πη 0 R h N A s 0 20;w 1- vρ 0<label>ð28Þ</label></formula><p>where, v is the partial specific volume, η o is the solvent viscosity and ρ o is the solvent density. Previously, we have used such an approach to determine molecular weights of proteinslaminin γ-1 arm, G 3 domain of agrin fused with human IgG Fc, N-terminal domain of RHAU, and OAS1, as well as VA I RNA <ref type="bibr" target="#b15">(Deo et al. 2014;</ref><ref type="bibr" target="#b17">Dzananovic et al. 2014;</ref><ref type="bibr" target="#b53">Meier et al. 2013;</ref><ref type="bibr" target="#b67">Patel et al. 2010</ref><ref type="bibr" target="#b66">Patel et al. , 2011))</ref>. Thus, R h information from DLS can be a very useful parameter when combined with the sedimentation coefficient to obtain molecular weight information.</p><p>Homogeneity studies of biological samples exposed to high-energy X-rays SAXS is a type of static light-scattering technique that utilizes Xrays to allow determination of low-resolution shape of macromolecules in solution. SAXS data can either be collected at the synchrotron using high-energy X-rays or from in-house sources where the X-rays source is much weaker. Typically, in-house SAXS data collection (∼20 °C) requires 2-4 hours of sample exposure time to X-rays, compared to the synchrotron source that requires only a few seconds. Furthermore, while collecting SAXS data, the user normally collects data for multiple samples in a single experimental setup starting from buffer, meaning that it could take over 10 hours for some samples. Therefore, samples susceptible to either storage at ∼20 °C for extended periods or radiation damage may alter the homogenous preparation of macromolecules to degraded and/or aggregated states. We routinely use DLS to determine sample homogeneity of samples after SAXS data collection of protein, RNA, and their complexes <ref type="bibr" target="#b15">(Deo et al. 2014</ref><ref type="bibr" target="#b14">(Deo et al. , 2015;;</ref><ref type="bibr" target="#b18">Dzananovic et al. 2013</ref><ref type="bibr" target="#b17">Dzananovic et al. , 2014;;</ref><ref type="bibr" target="#b53">Meier et al. 2013;</ref><ref type="bibr" target="#b65">Patel et al. 2014)</ref>.</p><p>Furthermore, DLS measurements are an extremely useful independent crosscheck used to validate ab-initio shape reconstruction of macromolecules using SAXS data, a heavily computational process. To validate SAXS models without any bias, we calculate hydrodynamic parameters including R h and sedimentation coefficient from the models using program HYDROPRO <ref type="bibr">(Ortega et al. 2011b)</ref>, and compare them to experimentally determined properties by DLS and complementary hydrodynamic techniques. It is also possible to study DNA and polysaccharides using packages in the HYDRO family <ref type="bibr" target="#b0">(Amoros et al. 2011;</ref><ref type="bibr" target="#b3">Benitez et al. 2015)</ref>. We have followed such practice for proteins, RNA, DNA, and their complexes <ref type="bibr" target="#b1">(Ariyo et al. 2015;</ref><ref type="bibr" target="#b15">Deo et al. 2014</ref><ref type="bibr" target="#b14">Deo et al. , 2015;;</ref><ref type="bibr" target="#b18">Dzananovic et al. 2013</ref><ref type="bibr" target="#b17">Dzananovic et al. , 2014;;</ref><ref type="bibr" target="#b53">Meier et al. 2013;</ref><ref type="bibr" target="#b67">Patel et al. 2010</ref><ref type="bibr" target="#b66">Patel et al. , 2011</ref><ref type="bibr" target="#b68">Patel et al. , 2012</ref><ref type="bibr" target="#b65">Patel et al. , 2014;;</ref><ref type="bibr" target="#b95">Vadlamani et al. 2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Shape analysis in combination with radius of gyration</head><p>The radius of gyration (R g ) parameter, defined as an average root mean squared distance from the centre of the mass of a macromolecule, can be obtained using static light-scattering studies where the intensity of scattered light is analysed. For proteins and nucleic acids, SAXS or SANS methods are employed to measure R g . The ratio of R g to R h could provide indication of conformation of macromolecules in solution. For globular proteins the ration is ∼ 0.70, and it increases as the shape changes from globular to extended rigid particles <ref type="bibr" target="#b10">(Burchard 1992)</ref>. Table <ref type="table" target="#tab_2">3</ref> summarises the R g and R h values of some of the proteins and RNA we have studied previously, with their R g /R h ratios. We have used SAXS data to construct low-resolution structures of these macromolecules, which essentially validated our preliminary shape information of these macromolecules. Thus, the DLS can be used in conjunction with static light scattering to deduce shape information.</p><p>In order to obtain more reliable and unbiased information on shape (flexible coil, rods, cylinders, spheres) of macromolecules (DNA, RNA, polysaccharides, proteins, and viruses), Garcia de la Torre and colleagues <ref type="bibr" target="#b0">(Amoros et al. 2011</ref>; Ortega and Garcia de la Torre 2007) developed a different concept where instead of using R h and R g as well as their ratios, a variation of those properties and their ratios were implemented. For example, instead of using R h or D τ , equivalent radii, T that is related to diffusion properties (T = f/6πη 0 ) can be used. Similarly, for R g , equivalent radii, G ( ffiffiffiffiffiffiffi ffi 5=3 p R g ) can be used, which in turn could be utilised to obtain G/T, which is a very useful ratio indicating solution conformation of macromolecules <ref type="bibr">(Ortega et al. 2011a;</ref><ref type="bibr" target="#b63">Ortega and Garcia de la Torre 2007)</ref>. Typically, the ration of G/T is ∼1 for spherical particles and &gt;1 for elongated macromolecules (Table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>Although DLS is a highly useful method as discussed above, it suffers the following disadvantages:</p><p>(i) DLS measurements are very sensitive to temperature and solvent viscosity. Therefore, the temperature must be kept constant and solvent viscosity must be known for a reliable DLS experiment. (ii) DLS is a low-resolution method that often cannot separate molecules that are closely related (e.g., monomer and dimer).</p><p>(iii) Although it is possible to measure the molecular weight using DLS where intensity of scattered light [K*c/R θ , where K* is an optical parameter, c is concentration and R θ is an angular dependent light-scattering parameter, also known as the Rayleigh ratio; see <ref type="bibr" target="#b97">Wyatt (1993)</ref> for more details] is plotted against concentration, it is not a very reliable and reproducible method. In such cases, alternate methods such as static light scattering coupled with multiangle laser light scattering and analytical ultracentrifuge should be used. (iv) DLS is also restricted to transparent sample preparation. (v) As the scattering intensity depends on the 6th power of the size of macromolecules (I proportional d 6 where d is a diameter of macromolecule), large aggregateseven a very small amount will affect the measurements. Therefore, the sample-holding cuvette must be cleaned thoroughly and sample must be filtered prior to DLS measurements. (vi) The signal from DLS depends on the size and concentration of macromolecules. Therefore, to obtain reliable measurements, optimization of range of concentration may be required.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In this review, we have provided a brief historical and theoretical background on DLS. The examples for homogeneity and interaction studies of proteins, nucleic acids, and their complexes using a highly versatile DLS method are also presented. Although it suffers from minor limitations as discussed in section 6, it is gaining popularity in academic and industrial laboratories. DLS is a non-invasive method that provides fast, precise, and reproducible quality check to study aggregation in biomolecular preparation requiring very little amounts of sample. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig.1Evaluating homogeneity of protein solution. a Hydrodynamic radius distribution by intensity for nidogen-1 (ND-1) at 0.4 mg/ml, indicating that although there is a major peak for each measurement, there are multiple peaks visible between 15 nm and 500 nm (x-axis) suggesting the presence of high molecular weight aggregated species. Degradation at 4 nm is also visible for one of the measurements in red colour. b Hydrodynamic radius distribution by volume derived from intensity profiles for ND-1 at 0.4 mg/ml concentration, suggesting that volume distribution is not sensitive enough for detecting scant amount of aggregation. However, peaks from multiple runs do not coincide with each other: that essentially is a reflection of heterogeneous sample.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig.2Homogeneity studies of ovalbumin. a and b represents R h distribution at multiples concentrations for ovalbumin. The intensity distributions (a) suggest presence of ∼5 % aggregated material at 100 nm and above. Those peaks are not present in volume distribution profiles (b) since the amount of aggregated material is negligible. However, since large molecules scatter light more strongly, even a trace amount of aggregation can be detected using intensity distribution. In both cases, nearly identical positions of peak suggest a homogenous preparation. For biophysical and structure biology applications, such preparations are acceptable; however, for therapeutic antibodies, further optimization may be required. c Plot of R h vs concentration for ovalbulin, where the y-axis intercept provides concentration-independent R h of 2.88 ± 0.06 nm. d Hydrodynamic radius for frequently used molecular weight</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Fig.3Homogeneity of protein-protein complexes. a Hydrodynamic radius distribution of ND-1, laminin γ-1 (LM γ-1) arm, and their complex at 3 mg/ml indicating purity of individual species as well as their complex. b Concentration dependence of ND-1, LM γ-1 arm, and their complex up to 4 mg/ml<ref type="bibr" target="#b65">(Patel et al. 2014)</ref>. Recombinant ND-1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4</head><label>4</label><figDesc>Fig.4Evaluating homogeneity of viral RNA preparations. Multiple measurements for intensity distribution (a) and volume distribution (b) at 3.5 mg/ml suggest that the 5' TR RNA is highly pure and devoid of any aggregation. Similarly, 3' untranslated region (3' TR) from West Nile virus was also studied using DLS at 2.7 mg/ml, where a and b present intensity and volume distributions suggesting presence of a homogenous solution of 3' TR. The 5' and 3' untranslated regions (5' TR -47.5 kDa, 3' TR -37.5 kDa) from West Nile virus were prepared using an in-vitro transcription method followed by purification using SEC and DLS analysis in 50 mM Tris (pH 7.0), 100 mM NaCl buffer as described earlier<ref type="bibr" target="#b15">(Deo et al. 2014</ref><ref type="bibr" target="#b14">(Deo et al. , 2015) )</ref> </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5</head><label>5</label><figDesc>Fig.5Homogeneity of protein-RNA complexes. a Homogeneity studies of OAS1 (2.2 mg/ml), 5' TR-OAS1 complex (4.0 mg/ml), and 3' TR-OAS1 complex (3.5 mg/ml). b The concentration dependence of OAS1, 5' TR, 3' TR, 5' TR -OAS1, and 3' TR-OAS1 complex. c Hydrodynamic radius distribution for PKR 1-169 (3.5 mg/ml), VA I ΔTS (1.2 mg/ml), and VA I ΔTS-PKR 1-169 complex (1 mg/ml), suggesting homogeneity of all three species. d Dynamic light scattering data for PKR 1-169 , VA I ΔTS, and VA I ΔTS-PKR 1-169 complex are presented at multiple concentrations. Human OAS1 (41 kDa) was expressed in BL21(DE3) cells followed by purification by means of affinity and SEC<ref type="bibr" target="#b54">(Meng et al. 2012)</ref>. DLS data were measured in 50 mM Tris (pH 7.5), 100 mM NaCl, 1 mM DTT buffer<ref type="bibr" target="#b15">(Deo et al. 2014)</ref>. The 5'</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>Fig.6Protein-small molecules interaction studies. The mouse G 3 B 0 protein fused with human Fc domain of IgG-G 3 B 0 Fc was studied using DLS at 1 mg/ml. a, b, and c presents volume distribution profiles for G 3 B 0 Fc protein and its interactions with divalent cations. a A single peak for G 3 B 0 Fc appears at ∼5 nm which resolves into two peaks at ∼ 100 nm and ∼ 600 nm upon addition of 5 mM CaCl 2 . The higher molecular weight peak further increases up to ∼ 700 nm in the presence of 50 mM CaCl 2 . However, addition of EDTA (5 mM) reduces the huge complex of G 3 B 0 Fc-50 mM CaCl2 to ∼ 5 nm that essentially overlays on G 3 B 0 Fc data. Similarly, addition of only 2 mM MnCl 2 (b) and 2 mM ZnCl 2 (c) increases the size of G 3 B 0 Fc from ∼ 5 nm to ∼900 nm, indicating presence of a very heavy aggregate. Addition of EDTA (5 mM in both cases) again reduces the heavy complex to monomeric size of G 3 B 0 Fc. The C-terminal laminin G-like G 3 domain variant of chicken agrin without insert of amino acids at the alternative splice site B (B 0 ), G 3 B 0 was expressed as a fusion protein, with human Fc domain of IgG-G 3 B 0 Fc being expressed using HEK293 cells as described previously<ref type="bibr" target="#b66">(Patel et al. 2011)</ref>. The G 3 B 0 Fc protein was affinity purified, followed by DLS data collection in 20 mM Tris, 150 mM NaCl at pH 7.2</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc></figDesc><table><row><cell>Timeline of major</cell><cell></cell><cell></cell></row><row><cell>events</cell><cell>Historical developments</cell><cell>References</cell></row><row><cell></cell><cell>Friction experienced by moving particles is related to its radius</cell><cell>Stokes (1845)</cell></row><row><cell></cell><cell>and solvent viscosity</cell><cell></cell></row><row><cell></cell><cell>Tyndall effect: light scattering from colloidal suspensions</cell><cell>Tyndall (1868)</cell></row><row><cell></cell><cell>Rayleigh scattering: blue colour of sky due to the scattering</cell><cell>Strutt (1871a; 1871b)</cell></row><row><cell></cell><cell>of light by atmospheric particles, importance of refractive</cell><cell></cell></row><row><cell></cell><cell>index in light scattering</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Hydrodynamic radius of routinely used globular proteins</figDesc><table><row><cell>Protein</cell><cell>M w (kDa)</cell><cell>Conc. (g/l)</cell><cell>R h (nm)*</cell></row><row><cell>Thyroglobulin</cell><cell>670</cell><cell>2</cell><cell>8.71 ± 0.21</cell></row><row><cell>Ferritin</cell><cell>440</cell><cell>3</cell><cell>7.17 ± 0.24</cell></row><row><cell>Aldolase</cell><cell>158</cell><cell>4</cell><cell>4.98 ± 0.08</cell></row><row><cell>Conalbumin</cell><cell>75</cell><cell>5</cell><cell>3.72 ± 0.08</cell></row><row><cell>Ovalbumin</cell><cell>44</cell><cell>5</cell><cell>2.98 ± 0.04</cell></row><row><cell>Carbonic anhydrase</cell><cell>29</cell><cell>6</cell><cell>2.37 ± 0.05</cell></row><row><cell>Aprotinin</cell><cell>6.5</cell><cell>8</cell><cell>1.82 ± 0.05</cell></row><row><cell cols="4">* Determined at a single concentration in 50 mM Tris, 150 mM NaCl at</cell></row><row><cell>pH 8.0</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Combination of radius of gyration and hydrodynamic radius provides shape information</figDesc><table><row><cell>Samples</cell><cell>R g (nm)</cell><cell>R h (nm)</cell><cell>R g /R h</cell><cell>G/T</cell><cell>Shape</cell><cell>Reference</cell></row><row><cell>ND-1</cell><cell>7.20 ± 0.10</cell><cell>6.80 ± 0.10</cell><cell>1.06</cell><cell>1.36</cell><cell>elongated</cell><cell>Patel et al. 2014</cell></row><row><cell>OAS1</cell><cell>2.28 ± 0.02</cell><cell>3.0 ± 0.03</cell><cell>0.76</cell><cell>0.98</cell><cell>globular</cell><cell>Deo et al. 2014</cell></row><row><cell>RHAU 53-105</cell><cell>2.1 ± 0.20</cell><cell>1.90 ± 0.03</cell><cell>1.10</cell><cell>1.41</cell><cell>elongated</cell><cell>Meier et al. 2013</cell></row><row><cell>PKR 1-169</cell><cell>2.53 ± 0.04</cell><cell>2.80 ± 0.01</cell><cell>0.90</cell><cell>1.16</cell><cell>elongated</cell><cell>Dzananovic et al. 2013</cell></row><row><cell>3' TR</cell><cell>4.15 ± 0.03</cell><cell>3.46 ± 0.06</cell><cell>1.12</cell><cell>1.44</cell><cell>elongated</cell><cell>Deo et al. 2015</cell></row><row><cell>5' TR</cell><cell>5.10 ± 0.02</cell><cell>5.10 ± 0.01</cell><cell>1.00</cell><cell>1.29</cell><cell>elongated</cell><cell>Deo et al. 2014</cell></row><row><cell>HIV-1 TAR RNA</cell><cell>2.60 ± 0.05</cell><cell>2.70 ± 0.02</cell><cell>0.96</cell><cell>1.23</cell><cell>elongated</cell><cell>Dzananovic et al. 2013</cell></row><row><cell>Adenovirus VA I RNA</cell><cell>4.35 ± 0.07</cell><cell>3.8 ± 0.04</cell><cell>1.14</cell><cell>1.47</cell><cell>elongated</cell><cell>Deo et al. 2015</cell></row><row><cell>Adenovirus VA I ΔTS</cell><cell>3.71 ± 0.06</cell><cell>3.30 ± 0.04</cell><cell>1.12</cell><cell>1.44</cell><cell>elongated</cell><cell>Dzananovic et al. 2014</cell></row><row><cell>Adenovirus VA I AS</cell><cell>2.45 ± 0.02</cell><cell>2.58 ± 0.05</cell><cell>0.95</cell><cell>1.22</cell><cell>elongated</cell><cell>Dzananovic et al. 2013</cell></row><row><cell>hTR1-20 RNA quadruplex</cell><cell>1.31 ± 0.08</cell><cell>1.91 ± 0.02</cell><cell>0.68</cell><cell>0.87</cell><cell>disk-shaped</cell><cell>Meier et al. 2013</cell></row><row><cell>Q2 RNA quadruplex</cell><cell>1.62 ± 0.01</cell><cell>2.01 ± 0.025</cell><cell>0.81</cell><cell>1.04</cell><cell>disk-shaped</cell><cell>Ariyo et al. 2015</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Biophys Rev (2016) 8:409-427   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments <rs type="institution">TRP acknowledges Manitoba Institute of Child Health</rs> (<rs type="grantNumber">2008-10</rs>) and <rs type="funder">Canadian Institutes of Health Research</rs> (<rs type="grantNumber">2010-12</rs>) for postdoctoral fellowship awards, and <rs type="person">Marie Skłodowska</rs>-<rs type="programName">Curie Fellowship program</rs> (<rs type="grantNumber">2013-15</rs>) for their financial support. JS holds a Canada Research Chair in Structure Biology and was supported by funding from <rs type="funder">NSERC</rs>. SAM is supported by <rs type="funder">NSERC</rs> <rs type="grantName">Discovery grant</rs> (<rs type="grantNumber">RGPIN-2015-06142</rs>). The authors congratulate <rs type="person">Prof. Donald Winzor</rs> on his 80th birthday and thank him for his immense contributions in the development and applications of biophysical methods. <rs type="person">Dr. Patel</rs> thanks <rs type="person">Prof. Winzor</rs> for being his mentor. The authors thank <rs type="person">Drs. Hall</rs> and <rs type="person">Harding</rs> for an opportunity to contribute in a special issue <rs type="funder">BAnalytical Quantitative Relations in Biochemistry^</rs>.</p><p>Compliance with ethical standards</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_zfVaMDC">
+					<idno type="grant-number">2008-10</idno>
+				</org>
+				<org type="funding" xml:id="_3xYyUJC">
+					<idno type="grant-number">2010-12</idno>
+					<orgName type="program" subtype="full">Curie Fellowship program</orgName>
+				</org>
+				<org type="funding" xml:id="_GUsYHt6">
+					<idno type="grant-number">2013-15</idno>
+				</org>
+				<org type="funding" xml:id="_GJnPUuC">
+					<idno type="grant-number">RGPIN-2015-06142</idno>
+					<orgName type="grant-name">Discovery grant</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Hydrodynamic properties of wormlike macromolecules: Monte Carlo simulation and global analysis of experimental data</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Amoros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ortega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>De La Torre</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ma102697q</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Macromolecules</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="5788" to="5797" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Biophysical Characterization of G-Quadruplex Recognition in the PITX1 mRNA by the Specificity Domain of the Helicase RHAU</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Ariyo</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0144510</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">144510</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Some applications of wave-length turbidimetry in the infrared</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Barnett</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/j150415a009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Phys Chem</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="69" to="75" />
+			<date type="published" when="1942">1942</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Prediction of solution properties and dynamics of RNAs by means of Brownian dynamics simulation of coarse-grained models: Ribosomal 5S RNA and phenylalanine transfer RNA</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Benitez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Hernandez Cifre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diaz</forename><surname>Banos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>De La Torre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename></persName>
+		</author>
+		<idno type="DOI">10.1186/s13628-015-0025-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Biophys</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Dynamic light scattering: with applications to chemistry, biology, and physics</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Berne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pecora</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.bb.10.060181.002225</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Biophys Bioeng</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="421" to="450" />
+			<date type="published" when="1976">1976. 1981</date>
+			<publisher>John Wiley &amp; Sons, Inc</publisher>
+			<pubPlace>New York, USA Bloomfield VA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Quasi-elastic light scattering applications in biochemistry and biology</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Quasi-elastic laser light scattering</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Bloomfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Lim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enzymol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="415" to="494" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inhibition of basement membrane formation by a nidogen-binding laminin gamma1-chain fragment in human skinorganotypic cocultures</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Breitkreutz</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jcs.01127</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Sci</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="2611" to="2622" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Light diffusion by a homogeneous transparent body</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brillouin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cr Hebd Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="1331" to="1334" />
+			<date type="published" when="1914">1914</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Diffusion de la lumière et des rayons X par un corps transparent homogène, influence de l&apos;agitation thermique</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brillouin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annales de Physique</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="88" to="122" />
+			<date type="published" when="1922">1922</date>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Static and dynamic light scattering from branched polymers and biopolymers</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Burchard</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/3-540-12030-0_1</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Light scattering from polymers</title>
+		<meeting><address><addrLine>Berlin Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="1" to="124" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Static and dynamic light scattering approaches to structure determination of biopolymers</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Burchard</surname></persName>
+		</author>
+		<editor>Harding SE, Settele DB, Bloomfield VA</editor>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Royal Society of Chemistry</publisher>
+			<biblScope unit="page" from="3" to="22" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Laser light scattering in biochemistry</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Recueil des conférences-rapports de documentation sur la physique</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cabannes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Rocard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">La diffusion moléculaire de la lumière</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="1929">1929</date>
+		</imprint>
+		<respStmt>
+			<orgName>Les Presses Universitaires de France</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Observation of diffusion broadening of Rayleigh scattered light</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Z</forename><surname>Cummins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Knable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Rev Lett</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="150" to="153" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Zerstreuung von Röntgenstrahlen</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Debye</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/andp.19153510606</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annalen der Physik</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="809" to="823" />
+			<date type="published" when="1915">1915</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Characterization of the termini of the West Nile virus genome and their interactions with the small isoform of the 2′ 5′oligoadenylate synthetase family</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Deo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsb.2015.04.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Struct Biol</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="236" to="249" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Activation of 2′ 5′-oligoadenylate synthetase by stem loops at the 5′-end of the West Nile virus genome</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Deo</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0092545</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">92545</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Structural basis for cytosolic double-stranded RNA surveillance by human oligoadenylate synthetase 1</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Donovan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dufner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Korennykh</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1218528110</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1652" to="1657" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Solution conformation of adenovirus virus associated RNA-I and its interaction with PKR</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dzananovic</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsb.2013.11.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Struct Biol</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="page" from="48" to="57" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Recognition of viral RNA stem-loops by the tandem doublestranded RNA binding domains of PKR</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dzananovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Deo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mceleney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mckenna</surname></persName>
+		</author>
+		<idno type="DOI">10.1261/rna.035931.112</idno>
+	</analytic>
+	<monogr>
+		<title level="j">RNA</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="333" to="344" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Einstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/andp.19053220607</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annalen Der Physik</title>
+		<imprint>
+			<biblScope unit="volume">322</biblScope>
+			<biblScope unit="page" from="132" to="148" />
+			<date type="published" when="1905">1905</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Zur Theorie der Brownschen Bewegung</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Einstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/andp.19063240208</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annalen Der Physik</title>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="page" from="371" to="381" />
+			<date type="published" when="1906">1906</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Theory of opalescence of homogenous liquids and liquid mixtures near critical conditions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Einstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annalen Der Physik</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1275" to="1298" />
+			<date type="published" when="1910">1910</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Data Analysis of Multi-Angle Photon Correlation measurements without and with prior knowledge</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Finsy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Degroen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Deriemaeker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gelade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Joosten</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ppsc.19920090133</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Part Part Syst Char</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="237" to="251" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Singular value analysis and reconstruction of photon correlation data equidistant in time</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Finsy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Degroen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Deriemaeker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vanlaethem</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.457260</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Phys</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="7374" to="7383" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Determination of diffusion coefficients of haemocyanin at low concentration by intensity fluctuation spectroscopy of scattered laser light</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Foord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jakeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Oliver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Blagrove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Peacocke</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/227242a0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">227</biblScope>
+			<biblScope unit="page">242</biblScope>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Quasi-elastic scattering of laser light. A new tool for the dynamic study of biological macromolecules</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fujime</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Biophys</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="43" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Asymmetry of gas moleculesan article to determine the molecular form</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annalen Der Physik</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="97" to="123" />
+			<date type="published" when="1921">1921</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Tyndall effect in liquids</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gans</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf01328695</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Z Phys</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="353" to="397" />
+			<date type="published" when="1923">1923</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Impact of protein kinase PKR in cell biology: from antiviral to antiproliferative action</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ventoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Domingo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rivas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esteban</forename><forename type="middle">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1128/MMBR.00027-06</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Microbiol Mol Biol Rev</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="1032" to="1060" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Localization of a major nidogen-binding site to domain III of laminin B2 chain</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gerl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aumailley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Timpl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Biochem</title>
+		<imprint>
+			<biblScope unit="volume">202</biblScope>
+			<biblScope unit="page" from="167" to="174" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Change of wave-length of light due to elastic heat waves at scattering in liquids</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gross</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/126201a0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="201" to="202" />
+			<date type="published" when="1930">1930</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Protein hydrodynamics</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Harding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Protein: a comprehensive treatise</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Allen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Greenwich, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>JAI Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="271" to="305" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Light scattering</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jumel</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/0471140864.ps0708s11</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Current protocols in protein science</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Coligan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Dunn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Ploegh</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Speicher</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Wingfield</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley &amp; Sons, Inc</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Diffusion coefficients and hydrodynamic radii of three spherical RNA viruses by laser light scattering</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Harvey</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0042-6822(73)90313-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Virology</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="365" to="368" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Modification to the cumulant analysis of polydispersity in quasielastic light scattering data</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Kulshreshtha</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jcis.2006.04.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Colloid Interf Sci</title>
+		<imprint>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="page" from="744" to="748" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Alpha3Na+/K+-ATPase is a neuronal receptor for agrin</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Hilgenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Dowd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cell.2006.01.052</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="359" to="369" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The COOH-terminal domain of agrin signals via a synaptic receptor in central nervous system neurons</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Hoover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Hilgenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1083/jcb.200301013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="923" to="932" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The human 2′-5′oligoadenylate synthetase family: unique interferon-inducible enzymes catalyzing 2′-5′ instead of 3′-5′ phosphodiester bond formation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Hovanessian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Justesen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biochi.2007.02.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biochimie</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="779" to="788" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The binding of fibronectin to entactin is mediated through the 29 kDa amino terminal fragment of fibronectin and the G2 domain of entactin</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hsieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Chung</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/bbrc.1994.1402</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Biophys Res Commun</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="1509" to="1517" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Particle size analysisdynamic light scattering</title>
+		<author>
+			<persName><surname>Iso</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">DLS</orgName>
+			</affiliation>
+		</author>
+		<ptr target="https://www.iso.org/obp/ui/-iso:std:iso" />
+	</analytic>
+	<monogr>
+		<title level="m">22412 International Standards Organization</title>
+		<imprint>
+			<date type="published" when="2008">2008. 22412. July 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Spectrum of clipped photon-counting fluctuations of gaussian light</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jakeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pike</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0305-4470/2/3/021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Phys Part Gen</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">411</biblScope>
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Studies of elastin coacervation by quasielastic light scattering</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Jamieson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Downs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Walton</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0005-2795(72)90130-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page" from="34" to="47" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Physiological regulation of the immunological synapse by agrin</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Yam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Soloski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rupp</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1056594</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">292</biblScope>
+			<biblScope unit="page" from="1681" to="1686" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Rapid purification of RNAs using fast performance liquid chromatography (FPLC)</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mckenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Viani</forename><surname>Puglisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Puglisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename></persName>
+		</author>
+		<idno type="DOI">10.1261/rna.342607</idno>
+	</analytic>
+	<monogr>
+		<title level="j">RNA</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="289" to="294" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Analysis of macromolecular polydispersity in intensity correlation spectroscopy: the method of cumulants</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Koppel</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1678153</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Phys</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page">4814</biblScope>
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Laminin gamma 1 chain peptide, C-16 (KAFDITYVRLKF), promotes migration, MMP-9 secretion, and pulmonary metastasis of B16-F10 mouse melanoma cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kuratomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nomizu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ponce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Komiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Kleinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.bjc.6600187</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1169" to="1173" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Struktur der unverschobenen Streulinie</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Landau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Placzek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z Phys Sowjetunion</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="172" to="173" />
+			<date type="published" when="1934">1934</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Maximum entropy analysis of quasielastic light scattering from colloidal dispersions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Livesey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Licinio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Delaye</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.450663</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Phys</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="5102" to="5107" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Protein analysis by dynamic light scattering: methods and techniques for students</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lorber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bailly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kern</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/bmb.20644</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Mol Biol Educ</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="372" to="382" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<ptr target="com/en/pdf/secure/TN101104IntensityVolumeNumber.pdf" />
+		<title level="m">TN101104 Intensity Volume Number. Ma lver n Ins tr um ent s L im it</title>
+		<imprint>
+			<publisher>Malvern Instruments</publisher>
+			<date type="published" when="2014-07">2014. July 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Mapping of the laminin-binding site of the N-terminal agrin domain (NtA)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Mascarenhas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ruegg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Winzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Halfter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Engel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/emboj/cdg041</idno>
+	</analytic>
+	<monogr>
+		<title level="j">EMBO J</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="529" to="536" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">A single EGF-like motif of laminin is responsible for high affinity nidogen binding</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Mayer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EMBO J</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1879" to="1885" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Biophysical and biochemical investigations of dsRNA-activated kinase PKR</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mckenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lindhout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shimoike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Puglisi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0076-6879(07)30014-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Enzymol</title>
+		<imprint>
+			<biblScope unit="volume">430</biblScope>
+			<biblScope unit="page" from="373" to="396" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Binding of G-quadruplexes to the N-terminal recognition domain of the RNA helicase associated with AU-rich element (RHAU)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meier</surname></persName>
+		</author>
+		<idno type="DOI">10.1074/jbc.M113.512970</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="35014" to="35027" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Regulation of the interferon-inducible 2′-5′oligoadenylate synthetases by adenovirus VA(I) RNA</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Deo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dzananovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Donald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Van Dijk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mckenna</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jmb.2012.06.017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">422</biblScope>
+			<biblScope unit="page" from="635" to="649" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Beiträge zur Optik trüber Medien, speziell kolloidaler Metallösungen</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mie</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/andp.19083300302</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Phys</title>
+		<imprint>
+			<biblScope unit="volume">330</biblScope>
+			<biblScope unit="page" from="377" to="445" />
+			<date type="published" when="1908">1908</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Improved techniques for particle size determination by quasi-elastic light scattering</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Grabowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Herb</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/la00064a016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="496" to="501" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Quasi-elastic light scattering of Artemia ribosomes sedimented in a CsCl density gradient</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nieuwenhuysen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clauwaert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biochem Biophys Methods</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="279" to="286" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Identification of agrin, a synaptic organizing protein from Torpedo electric organ</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Nitkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Magill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Fallon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">M</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">J</forename><surname>Mcmahan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="2471" to="2478" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Dynamic light scattering as a relative tool for assessing the molecular integrity and stability of monoclonal antibodies</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Nobbmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02648725.2007.10648095</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnol Genet Eng Rev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="117" to="128" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Maximum-entropy analysis of photon correlation spectroscopy data</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Nyeo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chu</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/ma00200a031</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Macromolecules</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="3998" to="4009" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Global fit and structure optimization of flexible and rigid macromolecules and nanoparticles from analytical ultracentrifugation and other dilute solution properties</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ortega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Amoros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garcia</forename><surname>De La Torre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ymeth.2010.12.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Methods</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="115" to="123" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Prediction of hydrodynamic and other solution properties of rigid proteins from atomic-and residue-level models</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ortega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Amoros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garcia</forename><surname>De La Torre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.bpj.2011.06.046</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biophys J</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="892" to="898" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Equivalent radii and ratios of radii from solution properties as indicators of macromolecular conformation, shape, and flexibility</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ortega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garcia</forename><surname>De La Torre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1021/bm700473f</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biomacromolecules</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2464" to="2475" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Exponential sampling method for light scattering polydispersity analysis</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ostrowsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sornette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pike</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Opt Acta</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1059" to="1070" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Structural elucidation of full-length nidogen and the laminin-nidogen complex in solution</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bernards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mceleney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Winzor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matbio.2013.07.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Matrix Biol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="60" to="67" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">T-shaped arrangement of the recombinant agrin G3-IgG Fc protein</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pro.628</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Protein Sci</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="931" to="940" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Nano-structure of the laminin gamma-1 short arm reveals an extended and curved multidomain assembly</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matbio.2010.07.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Matrix Biol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="565" to="572" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Determination of a molecular shape for netrin-4 from hydrodynamic and small angle X-ray scattering measurements</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reuten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Winzor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.matbio.2011.11.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Matrix Biol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="135" to="140" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Doppler shifts in light scattering from pure liquids and polymer solutions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pecora</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1725368</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Phys</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">1604</biblScope>
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Quasi-elastic light scattering from macromolecules</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pecora</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.bb.01.060172.001353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Biophys Bioeng</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="257" to="276" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">The accuracy of diffusion-constant measurements by digital autocorrelation of photon-counting fluctuations</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pike</surname></persName>
+		</author>
+		<idno type="DOI">10.1051/jphyscol:1972132</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal de Physique Colloques</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1" to="177" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">A constrained regularization method for inverting data represented by linear algebraic or integral equations</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Provencher</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0010-4655(82)90173-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Phys Commun</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="213" to="227" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">CONTIN: A general purpose constrained regularization programm for inverting noisy linear algebraic and integral equations</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Provencher</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0010-4655(82)90174-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Phys Commun</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="90174" to="90176" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Global analysis of dynamic light scattering autocorrelation functions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Provencher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stepanek</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ppsc.19960130507</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Part Part Syst Char</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="291" to="294" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Correlation and light beating spectroscopy</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Pusey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Photon correlation and light beating spectroscopy</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">Z</forename><surname>Cummings</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pike</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Plenum</publisher>
+			<date type="published" when="1972">1972</date>
+			<biblScope unit="page" from="387" to="428" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">LAMC1 gene is associated with premature ovarian failure</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Pyun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Cha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kwack</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.maturitas.2012.01.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Maturitas</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="402" to="406" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">Introduction to analytical ultracentrifugation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Raltson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Beckman Instruments, Inc</publisher>
+			<pubPlace>Fullerton CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Quasi-elastic light scattering by diffusional fluctuations in RNase solutions</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rimai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hichmott</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Carew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cole</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0006-3495(70)86283-X</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biophys J</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="20" to="37" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Timpl R (1995a) Binding of mouse and human fibulin-2 to extracellular matrix ligands</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gohring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Chu</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/jmbi.1995.0664</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="892" to="899" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Structural characterization of two variants of fibulin-1 that differ in nidogen affinity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kostka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gohring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wiedemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Timpl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">245</biblScope>
+			<biblScope unit="page" from="241" to="250" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Binding of netrin-4 to laminin short arms regulates basement membrane assembly</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">I</forename><surname>Schneiders</surname></persName>
+		</author>
+		<idno type="DOI">10.1074/jbc.M703137200</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">282</biblScope>
+			<biblScope unit="page" from="23750" to="23758" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Dynamic light scattering of biopolymers and biocolloids</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Schurr</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/10409237709105461</idno>
+	</analytic>
+	<monogr>
+		<title level="j">CRC Crit Rev Biochem</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="371" to="431" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Examination of the discrepancy between size estimates for ovalbumin from small-angle X-ray scattering and other physicochemical measurements</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dmt</forename><surname>Besong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Winzor</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jp2006149</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Phys Chem B</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="10725" to="10729" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">N</forename><surname>Serdyuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Zaccai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zaccai</surname></persName>
+		</author>
+		<title level="m">Methods in Molecular Biophysics : Structure, Dynamics, Function</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">On the fluctuations in signals returned by many independently moving scatterers</title>
+		<author>
+			<persName><forename type="first">Ajf</forename><surname>Siegert</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.str.2004.02.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Structure</title>
+		<editor>
+			<persName><forename type="first">Cambridge</forename><surname>Mit</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">465</biblScope>
+			<biblScope unit="page" from="503" to="515" />
+			<date type="published" when="1949">1949. 2004</date>
+		</imprint>
+		<respStmt>
+			<orgName>Massachusetts Institute of Technology, Radiation Laboratory</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Report</note>
+	<note>Modulation of agrin function by alternative splicing and Ca2+ binding</note>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">The laminin-binding domain of agrin is structurally related to N-TIMP-1</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stetefeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/90422</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Struct Biol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="705" to="709" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">On the theories of internal friction of fluids in motion</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Stokes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans Cam Philos Soc</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="287" to="305" />
+			<date type="published" when="1845">1845</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">On the scattering of light by small particles</title>
+		<idno type="DOI">10.1080/14786447108640507</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Mag Ser</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">41</biblScope>
+			<biblScope unit="page" from="447" to="454" />
+		</imprint>
+	</monogr>
+	<note>Strutt JW (1871a) LVIII</note>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">On the light from the sky, its polarization and colour</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Strutt</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14786447108640479</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Mag Ser</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">41</biblScope>
+			<biblScope unit="page" from="274" to="279" />
+			<date type="published" when="1871">1871b</date>
+		</imprint>
+	</monogr>
+	<note>XXXVI</note>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">LXXV. A dynamical theory of diffusion for nonelectrolytes and the molecular mass of albumin</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sutherland</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14786440509463331</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Mag Ser</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="781" to="785" />
+			<date type="published" when="1905">1905</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">The ultracentrifuge</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Svedberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">O</forename><surname>Pedersen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1940">1940</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title level="m" type="main">Physical chemistry of macromolecules</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tanford</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jps.2600510233</idno>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<publisher>John Wiley &amp; Sons, Inc</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">On the Blue Colour of the Sky, the Polarization of Skylight, and on the Polarization of Light by Cloudy Matter Generally</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tyndall</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspl.1868.0033</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Royal Society of London</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="223" to="233" />
+			<date type="published" when="1868">1868</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Molekular-kinetische Theorie der Opaleszenz von Gasen im kritischen Zustande, sowie einiger verwandter Erscheinungen</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Smoluchowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/andp.19083300203</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annalen der Physik</title>
+		<imprint>
+			<biblScope unit="volume">330</biblScope>
+			<biblScope unit="page" from="205" to="226" />
+			<date type="published" when="1908">1908</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">The beta-lactamase gene regulator AmpR is a tetramer that recognizes and binds the D-Ala-D-Ala motif of its repressor UDP-N-acetylmuramic acid (MurNAc)-pentapeptide</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vadlamani</surname></persName>
+		</author>
+		<idno type="DOI">10.1074/jbc.M114.618199</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">290</biblScope>
+			<biblScope unit="page" from="2630" to="2643" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Physical characterization of the protein molecule</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Van Holde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Biol Biochem Biophys</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2" to="24" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Light scattering and the absolute characterization of macromolecules</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Wyatt</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0003-2670(93)80373-S</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anal Chim Acta</title>
+		<imprint>
+			<biblScope unit="volume">272</biblScope>
+			<biblScope unit="issue">93</biblScope>
+			<biblScope unit="page">80373</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title level="m" type="main">Light scattering reviews 4: single light scattering and radiative transfer</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zakharov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Scheffold</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-540-74276-0_8</idno>
+		<editor>Kokhanovsky A</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="433" to="467" />
+			<pubPlace>Berlin Heidelberg</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Advances in dynamic light scattering techniques</note>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Molecular theory of the scattering of light in fluids</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Zimm</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1724013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Phys</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="141" to="145" />
+			<date type="published" when="1945">1945</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Apparatus and methods for measurement and interpretation of the angular variation of light scattering; preliminary results on polystyrene solutions</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Zimm</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.1746740</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Phys</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1099" to="1116" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ammonia for post-healing of formamidinium-based Perovskite films</title>
+				<funder>
+					<orgName type="full">Qingdao Key Lab of Solar Energy Utilization &amp; Energy Storage Technology</orgName>
+				</funder>
+				<funder ref="#_dXXCkdm #_xPBj7fj">
+					<orgName type="full">Natural Science Foundation of Shandong Province</orgName>
+				</funder>
+				<funder ref="#_Xgzk4ad">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_CpBRwNb">
+					<orgName type="full">Shandong Energy Institute</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Funding of Young Taishan Scholars</orgName>
+				</funder>
+				<funder ref="#_F2sBYFj">
+					<orgName type="full">Youth Innovation Promotion Association CAS</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Zhipeng</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiao</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zaiwei</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhipeng</forename><surname>Shao</surname></persName>
+							<idno type="ORCID">0000-0002-1915-7636</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lianzheng</forename><surname>Hao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yi</forename><surname>Rao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Chen</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dachang</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qiangqiang</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiuhong</forename><surname>Sun</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Caiyun</forename><surname>Gao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bingqian</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xianzhao</forename><surname>Wang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Li</forename><surname>Wang</surname></persName>
+							<idno type="ORCID">0000-0003-4035-1609</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">College of Materials Science and Engineering</orgName>
+								<orgName type="institution">Qingdao University of Science and Technology</orgName>
+								<address>
+									<postCode>266042</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guanglei</forename><surname>Cui</surname></persName>
+							<idno type="ORCID">0000-0001-5987-7569</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Future Technology</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">School of Future Technology</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Future Technology</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">School of Future Technology</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Shuping</forename><surname>Pang</surname></persName>
+							<email>pangsp@qibebt.ac.cn</email>
+							<idno type="ORCID">0000-0002-2526-4104</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiao</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xianzhao</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Qingdao Institute of Bioenergy and Bioprocess Technology</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>266101</postCode>
+									<settlement>Qingdao</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">P. R. China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ammonia for post-healing of formamidinium-based Perovskite films</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">14A93925AC5DBAF80B5F8EF03746675E</idno>
+					<idno type="DOI">10.1038/s41467-022-32047-z</idno>
+					<note type="submission">Received: 28 November 2021 Accepted: 13 July 2022 Check for updates</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Solvents employed for perovskite film fabrication not only play important roles in dissolving the precursors but also participate in crystallization process. High boiling point aprotic solvents with O-donor ligands have been extensively studied, but the formation of a highly uniform halide perovskite film still requires the participation of additives or an additional step to accelerate the nucleation rate. The volatile aliphatic methylamine with both coordinating ligands and hydrogen protons as solvent or post-healing gas facilitates the process of methylamine-based perovskite films with high crystallinity, few defects, and easy large-scale fabrication as well. However, the attempt in formamidinium-containing perovskites is challenged heretofore. Here, we reveal that the degradation of formamidinium-containing perovskites in aliphatic amines environment results from the transimination reaction of formamidinium cation and aliphatic amines along with the formation of ammonia. Based on this mechanism, ammonia is selected as a post-healing gas for a highly uniform, compact formamidinium-based perovskite films. In particular, low temperature is proved to be crucial to enable formamidiniumbased perovskite materials to absorb enough ammonia molecules and form a liquid intermediate state which is the key to eliminating voids in raw films. As a result, the champion perovskite solar cell based on ammonia post-healing achieves a power conversion efficiency of 23.21% with excellent reproducibility. Especially the module power conversion efficiency with 14 cm 2 active area is over 20%. This ammonia post-healing treatment potentially makes it easier to upscale fabrication of highly efficient formamidinium-based devices.</p><p>Halide perovskite materials with the general formula ABX 3 , where A refers to a monovalent cation such as methylammonium (CH 3 NH 3 + , MA + ), formamidinium (HC(NH 2 ) 2 + , FA + ), Cs + , B represents a divalent cation such as Pb 2+ , Sn 2+ , Ge 2+ , and X represents a halide ion such as I -, Br -, Cl -, have emerged as a class of promising light-harvesting materials in photovoltaics since 2009 1 . The highest certified power conversion efficiency (PCE) of perovskite solar cells (PSCs) has so far been up to 25.7% 2 , which is comparable to that of widely commercialized Si-based solar cells. The crystal structure of halide perovskites can be regarded as a [MX 6 ] 4-octahedron in a three-dimensional (3D) space with a</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>common apex angle connecting. The A site ions fill up the gap of the octahedral and the structure is stabilized by Van der Waals forces <ref type="bibr" target="#b2">3</ref> . These special structural characteristics provide a variety of solution processing methods to prepare perovskite films <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref> .</p><p>The high boiling point aprotic N,N-dimethylformamide (DMF), γbutyrolactone (GBL), dimethyl sulfoxide (DMSO) and N,N-dimethylacetamide (DMA) are the common solvents employed to dissolve the perovskite precursors with the formation of solvated iodoplumbate complexes because of the strong coordination between O-donor ligands (OLs) and Pb(II) <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref> . The Lewis basicity of solvents is thought to correlate with the "coordinating ability" with lead halide salts, which can be predicted by their Gutmann's Donor Number (D N ) with a trend of DMSO &gt; DMA &gt; DMF &gt; GBL <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> . High D N solvents with strong coordination with the Pb(II) center also result in the formation of intermediate phase OL-PbI 2 -RAI (RA refers to MA or FA, etc.) prior to perovskite phase during the film fabrication process. The anisotropic growth nature of the intermediate phase leads to rough films with onedimensional (1D) fiber-like structures and a large proportion of void area <ref type="bibr" target="#b11">12</ref> . In this regard, stronger coordinating additives (such as thiourea <ref type="bibr" target="#b12">13</ref> and pyridine <ref type="bibr" target="#b13">14</ref> ) and/or the fast nucleation strategies (such as anti-solvent extraction, gas-quenching, and vacuum-assisted drying) have been introduced to regulate the growth process of the intermediate phase to achieve highly uniform perovskite films with good crystallinity <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> .</p><p>Among them, methylamine (MA 0 ) featured with the presence of hydrogen bonding and low boiling point has become an impressive coordination agent for the MAPbI 3 material. In this case, the formed intermediate phase is a metastable (PbI 2 -MAI)•xMA 0 complex, instead of simple coordinate bond-dominated OL-PbI 2 -MAI adducts. Easy formation of highly uniform (PbI 2 -MAI)•xMA 0 films and following conversion to highly uniform perovskite films are closely related to the self-leveling behavior of (PbI 2 -MAI)•xMA 0 liquid intermediate phase and the ultrafast evaporation of MA 0 gas. MA 0 employed as a posthealing gas to eliminate the voids in the MAPbI 3 perovskite film is firstly reported by Zhou et al. in 2015 <ref type="bibr" target="#b16">17</ref> , and the adoption of MA 0 as a volatile solvent system has become a commercially viable technology for MAPbI 3 devices with excellent device reproducibility <ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref> . In comparison with MAPbI 3 , α-FAPbI 3 has higher theoretical efficiency and thermal stability. The undesired phase transition to non-perovskite phase δ-FAPbI 3 has been well dissolved by alloying a small amount of Cs + , MA + to tailor the tolerance factor <ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> . We have attempted to introduce MA 0 gas-related methods for the fabrication of FAcontaining perovskite layers, unfortunately, resulting in degradation of the 3D perovskite phase <ref type="bibr" target="#b17">18</ref> . The underlying reason for the irreversible transformation of FAPbI 3 with MA 0 treatment is still not fully clear, let alone make efforts to solve this problem.</p><p>Here, we have systematically studied the underlying chemical reactions between aliphatic amines/formamidine (FA 0 ) gases and FAI salt, and elucidated the addition-elimination reaction between amine compound and the imine band of FA 0 with the formation of ammonia (NH 3 ), also named transimination reaction. Based on this mechanism, NH 3 is selected as a post-healing gas to avoid the degradation of the FA-based perovskite phase during the post treatment. It is demonstrated that decreasing processing temperature is crucial for FAbased perovskite layer to enhance the absorption of NH 3 molecules, leading to the formation of a desired liquid intermediate state. Selfleveling behavior of the liquid intermediate state can quickly heal the voids in the rough perovskite film and finally form a highly uniform and compact film with the evaporation of NH 3 . At last, the PCE of FAbased PSC based on this NH 3 post-healing strategy is more than 23% with a certified PCE of 22.22%. Especially, the PSC module achieves a PCE of 20.61% which is comparable with the highest reports in PSC modules. These results demonstrate the large advantage of the NH 3 gas post-healing technology in upscaling fabrication of highly efficient PSCs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The degradation evidence of formamidinium-containing perovskites in aliphatic amines environment Nuclear magnetic resonance (NMR) spectroscopy is a particularly practical tool for quantifying the relative amounts of the organic cations and related chemical reactions in the perovskite precursor <ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref> . We started with the study of the underlying chemical reactions between FA 0 /R-NH 2 (RA 0 ) gases and FAI salt (Table <ref type="table" target="#tab_0">1</ref>). The gases involved include FA 0 , MA 0 , ethylamine (EA 0 ), n-propylamine (PA 0 ), nbutylamine (BA 0 ), and NH 3 . The detailed preparation procedures of the relevant gases are provided in the methods section.</p><p>The synthesis of FA 0 is tricky because of its instability. Mixed FACl and NaOH powders are expected to form FA 0 by the neutralization as shown in Supplementary Scheme 1a. To study their product, deuterated DMSO (DMSO-d 6 ) solvent is used to collect released gas from the mixed powders at room temperature (RT) by a simple equipment (Supplementary Fig. <ref type="figure" target="#fig_0">1a</ref>) for 1 H nuclear magnetic resonance ( 1 H NMR) measurement. Only NH 3 signal is detected in the 1 H NMR (Table <ref type="table" target="#tab_0">1</ref> (No. 1) and Supplementary Fig. <ref type="figure">4</ref>). We think that the high boiling point of FA 0 likely makes FA 0 molecules difficult to diffuse into DMSO-d 6 solvent. The formation of NH 3 is indicative of the existence of some chemical reactions in the process of gas preparation (Supplementary Fig. <ref type="figure" target="#fig_2">2</ref>). When the temperature of the reactor and the gas pipeline is increased to 150 °C and DMSO-d 6 solvent is still kept at RT, four main compounds are detected: s-triazine, formamide, FA 0 , and NH 3 (Table <ref type="table" target="#tab_0">1</ref> (No. 2) and Supplementary Fig. <ref type="figure">5</ref>). The formation of s-triazine is because of the transimination reaction of three FA 0 molecules along with the formation of NH 3 (Supplementary Fig. <ref type="figure" target="#fig_7">2b</ref>) <ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> . The s-triazine has also been detected when the FAI powder is heated at 150 °C32 . Formamide is attributed to the hydrolyzation product of FA 0 (Supplementary Fig. <ref type="figure" target="#fig_7">2c</ref>) in the presence of H 2 O which is generated from the neutralization between FACl and NaOH. Considering the long-time interval from gas collection to 1 H NMR measurement, we then employ acetic acid (HOAc) to capture FA 0 so as to limit these chemical reactions in DMSOd 6 solvent by the quick formation of FAAc. As expected, <ref type="bibr" target="#b0">1</ref> H NMR spectrum verifies that the reaction product at 150 °C only exists FAAc rather than s-triazine, formamide, or NH 4 Ac (Table <ref type="table" target="#tab_0">1</ref> (No. 3) and Supplementary Fig. <ref type="figure">6</ref>). The above results strongly indicate the formation and instability of FA 0 . When FAI powder is exposed to FA 0 , there is hardly any change in chemical compositions except the formation of a tiny amount of formamide as the presence of H 2 O (Table <ref type="table" target="#tab_0">1</ref> (No. 4), Supplementary Fig. <ref type="figure">7</ref>). These spontaneous reactions and instability of FA 0 seriously limit its practical application in post-healing FA-based perovskite films.</p><p>In comparison with FA 0 , amines are more stable. When FAI powder is treated with MA 0 , EA 0 , PA 0 , or BA 0 , the powder quickly transforms into a liquid state. After the liquid is held at 60 °C for 6 h and then vacuumed (Supplementary Fig. <ref type="figure" target="#fig_0">1b</ref>), it is unexpected that there are no FAI signals in <ref type="bibr" target="#b0">1</ref> H NMR spectrum of the final powder samples (Table <ref type="table" target="#tab_0">1</ref> (No. 5-8), Supplementary Figs. 8-11).</p><p>Taking MA 0 as an example (Table <ref type="table" target="#tab_0">1</ref> (No. 5)), we find that the main signals in <ref type="bibr" target="#b0">1</ref> H NMR spectrum belong to N,N'-dimethyl formamidinium iodide (DMFAI) (Supplementary Figs. <ref type="figure" target="#fig_3">3</ref> and<ref type="figure">8</ref>) <ref type="bibr" target="#b32">33</ref> . The related chemical reactions are illustrated in Fig. <ref type="figure" target="#fig_0">1</ref> (i, ii). The lone-pair electrons of N atom in nucleophilic MA 0 molecule can attack electrophilic imine bond in FAI, which leads to the formation of N-methyl formamidinium iodide (MFAI) by a transimination process (Fig. <ref type="figure" target="#fig_0">1</ref>(i), Supplementary Fig. <ref type="figure" target="#fig_1">3</ref>) <ref type="bibr" target="#b33">34</ref> . The imine bond in the formed MFAI can carry out the second transimination reaction with MA 0 to form DMFAI (Fig. <ref type="figure" target="#fig_0">1</ref>(ii), Supplementary Fig. <ref type="figure" target="#fig_1">3</ref>). With excessive MA 0 and holding for enough time, FAI can fully transform into DMFAI. Similarly, when FAI powders are treated with EA 0 , PA 0 and BA 0 gases, the transimination reaction also occur with the formation of DEFAI, DPFAI and DBFAI, respectively (Table <ref type="table" target="#tab_0">1</ref> (No. 6-8), Supplementary Figs. 9-11, Fig. <ref type="figure" target="#fig_0">1(i,</ref><ref type="figure">ii</ref>)).</p><p>When FAI powder is treated by RA 0 (R is referred to H, Me, Et etc.) gas with some H 2 O vapor evaporated from their aqueous solution (Supplementary Fig. <ref type="figure" target="#fig_0">1c</ref>), the final product is RAI rather than FAI, RFAI or DRFAI (Table <ref type="table" target="#tab_0">1</ref> (No. 9-11), Supplementary Figs. 12-14). Considering there is no reaction between FAI salt and H 2 O (Table <ref type="table" target="#tab_0">1</ref> (No. 12), Supplementary Fig. <ref type="figure" target="#fig_0">15</ref>), the formation of RAI mentioned above is due to the reversible ion exchange reactions between FAI, RFAI or DRFAI and RA 0 with the formation of RAI and FA 0 , RFA 0 , or DRFA 0 . The hydrolysis reactions of FA 0 , RFA 0 , and DRFA 0 lead to the formation of volatile HCOOH and RA 0 , which in turn promotes the ion exchange reactions towards the formation of RAI (Fig. <ref type="figure" target="#fig_0">1 (iii-x</ref>)) <ref type="bibr" target="#b34">35</ref> . Supplementary Fig. <ref type="figure" target="#fig_0">16</ref> shows the optical photos and XRD patterns of α-FAPbI 3 films before and after MA 0 post-healing treatment. δ-FAPbI 3 , MFAPbI 3 , and DMFAPbI 3 films are also measured for comparison. The formation of the non-perovskite phase after MA 0 post-healing the α-FAPbI 3 film is because of the conversion from FA + to MFA + and DMFA + . This is why aliphatic amines cannot be employed as solvents or post-healing gases for the fabrication of FA-containing perovskite materials. Inspired by the above transimination reaction, NH 3 is selected to avoid the change of composition after the gas post-healing treatment. The 1 H NMR spectrum well verifies no composition change of FAI powder after being treated with NH 3 gas (Table <ref type="table" target="#tab_0">1</ref> (No. 13), Supplementary Fig. <ref type="figure" target="#fig_0">17</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Feasibility analysis of ammonia as the healing gas</head><p>The reversible absorption-desorption process of gas is crucial for the post-healing strategy. MAI and FAI samples are weighted during MA 0 / NH 3 absorption and desorption as shown in Fig. <ref type="figure" target="#fig_7">2a</ref>. The whole process can be divided into gas absorption at RT (Stage I), desorption at RT (Stage II), and desorption at 80 °C (Stage III). When exposed to MA 0 , MAI quickly absorbs MA 0 and reaches a saturated state with the x value of about 2.5 in MAI•xMA 0 (the x value is very sensitive to temperature and pressure). The liquid MAI•xMA 0 complex removed from MA 0 atmosphere desorbs MA 0 gas spontaneously until it transforms into a relative stable semi-solid-state with the x value of about 1.1, which is denoted as stage II. After further heating at 80 °C for 10 min (Stage III), the sample returns to a white powder with the same weight as the initial MAI, which means the complete reversibility of absorptiondesorption process in MAI-MA 0 pair. In FAI-MA 0 pair, the Stage I and Stage II are similar to these of MAI-MA 0 pair, but the weight of the final powder in the Stage III cannot return back to the initial value of FAI because of the formation of MFAI and DMFAI as presented in Fig. <ref type="figure" target="#fig_7">2a</ref>.</p><p>FAI powder exposed to NH 3 gas atmosphere rapidly achieves a liquid phase FAI•xNH 3 (Supplementary Fig. <ref type="figure" target="#fig_0">18</ref>) with the x value of ∼3.0 (Stage I). The liquid phase transforms into an ice-like transparent solidstate FAI•xNH 3 with x ∼ 1.3 as NH 3 desorption in Stage II and the XRD pattern of the ice-like complex is shown in Supplementary Fig. <ref type="figure" target="#fig_0">17</ref>. The following thermal annealing at 80 °C fully removes the absorbed NH 3 molecules and leads to the formation of a white powder with the same weight as the initial FAI (Stage III). This phenomenon, similar to that of MAI-MA 0 pair, preliminarily indicates the feasibility of the NH 3 as a post-healing gas for FA-based perovskite films.</p><p>To make a profound study, the chemical reaction and intermolecular interactions between FAPbI 3 precursors and NH 3 molecules, the solution <ref type="bibr" target="#b14">15</ref> N NMR spectra are measured as shown in Fig. <ref type="figure" target="#fig_7">2b</ref> and Supplementary Figs. 19-24. The measured isotopically labeled <ref type="bibr" target="#b14">15</ref> N samples are <ref type="bibr" target="#b14">15</ref> NH 3 , FAI treated with <ref type="bibr" target="#b14">15</ref> NH 3 , and vacuumed (FAI( 15 N)), FAI absorbing <ref type="bibr" target="#b14">15</ref> NH 3 molecules (FAI•x <ref type="bibr" target="#b14">15</ref> NH 3 ), PbI 2 absorbing 15 NH 3 molecules (PbI 2 •x 15 NH 3 ), and FAPbI 3 absorbing 15 NH 3 molecules (FAP-bI 3 •x <ref type="bibr" target="#b14">15</ref> NH 3 ). The 15 N chemical shift of <ref type="bibr" target="#b14">15</ref> NH 3 in DMSO-d 6 is -377.46 ppm. The 15 N NMR spectrum of FAI after treatment with <ref type="bibr" target="#b14">15</ref> NH 3 (FAI ( 15 N)) shows the <ref type="bibr" target="#b14">15</ref> N signal at -356.33 ppm, which indicates the existence of transimination reaction between NH 3 and FAI (Supplementary Fig. <ref type="figure" target="#fig_1">3</ref>). The reaction process between the NH 3 and FAI is similar to the transimination reaction involving the aliphatic amine. The lone-pair electrons of N atom in NH 3 can attack electrophilic imine bond in FAI,  <ref type="figure">N</ref>) with hydrogen bond interaction with NH 3 and that of <ref type="bibr" target="#b14">15</ref> NH 3 with coordination bond interaction with Pb(II), respectively. The coexistence of hydrogen bond and coordination bond in the intermediate phase FAPbI 3 •x 15 NH 3 is also supported by the solid-state <ref type="bibr" target="#b14">15</ref> N NMR result in Supplementary Fig. 25.</p><p>NH 3 , employed as a post-healing gas, should also have good solubility for the FA-based perovskite precursors, including PbI 2 and FAI powders. The color of mixed PbI 2 /FAI powder exposed in NH 3 gas atmosphere turns into light yellow from the yellow of PbI 2 at 20 °C36 . The mass difference before and after absorption shows that the absorbed NH 3 molecule number per FAPbI 3 is ∼4. While FAPbI 3 •4NH 3 is still a solid-state rather than an expected liquid state, which is very different from liquid MAPbI 3 •xMA with x of only 3 <ref type="bibr" target="#b16">17</ref> . One possible reason is the much smaller size of NH 3 than MA 0 . We have found that the absorbed amount of gas is highly dependent on processing temperature <ref type="bibr" target="#b22">23</ref> . Lowering the processing temperature to -5 °C leads to the formation of a white powder with x value of ∼6. At -15 °C, a flowable slurry with the x value of ∼12 is formed, as shown in Fig. <ref type="figure" target="#fig_7">2d</ref>.</p><p>The kinetic process of NH 3 desorption from the flowable FAP-bI 3 •xNH 3 complex is measured by monitoring its weight change with temperature increased step-by-step from 20 °C to 120 °C under an open condition. The absorbing NH 3 number per FAPbI 3 as the function of time illustrated in Fig. <ref type="figure" target="#fig_7">2e</ref> shows that the weight of </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparation and characterization of thin films</head><p>Then the NH 3 post-healing strategy is employed to prepare FAbased perovskite films based on a homemade chamber with a semiconductor chilling plate controlling chamber temperature (Supplementary Fig. <ref type="figure" target="#fig_7">26</ref>). As shown in Supplementary Fig. <ref type="figure" target="#fig_7">27a,</ref><ref type="figure">b</ref>, the raw FAPbI 3 film with voids by the traditional one-step spin-coating method can transform into a uniform film after NH 3 post-healing at -15 °C. The NH 3 post-healing FAPbI 3 is denoted as NH 3 -FAPbI 3 . The XRD spectra show that the NH 3 -FAPbI 3 film has better crystallinity and less undesired δ phase than the raw film (Supplementary Fig. <ref type="figure" target="#fig_7">27c</ref>). This leads to the increasing PCE of the NH 3 -FAPbI 3 device compared to the raw-FAPbI 3 device (Supplementary Fig. <ref type="figure" target="#fig_7">27d</ref>). While the PCE of NH 3 -FAPbI 3 device is still limited due to the existence of undesired δ-phase in the perovskite film. To prepare highly efficient PSCs, cesium (Cs) doped FAPbI 3 material system FA 0.9 Cs 0.1 PbI 3 (FACsPbI 3 ) is selected. The NH 3 post-healing process of FACsPbI 3 film is schematically illustrated in Fig. <ref type="figure" target="#fig_3">3a</ref>. Due to the thin thickness of perovskite films, the NH 3 gas absorption and desorption are much easier and faster than those of powder samples. The SEM images show that the raw FACsPbI 3 film could be well healed by the NH 3 post-healing method in the temperature range from -15 °C to 0 °C, and -15 °C was used for NH 3 gas post-healing in the following study (Supplementary Fig. <ref type="figure" target="#fig_7">28</ref>). The scanning electron microscope (SEM) image (Fig. <ref type="figure" target="#fig_3">3b</ref>) shows that there are some micrometer-scale voids in the raw FACsPbI 3 film. While the NH 3 -FACsPbI 3 film is dense and smooth (Fig. <ref type="figure" target="#fig_3">3c</ref>), resulting from the self-leveling of the liquid intermediate state and the quick desorbing process of the NH 3 . This gas post-healing treatment with the self-leveling behavior is essentially different from the traditional posttreatment using DMF <ref type="bibr" target="#b36">37</ref> , MASCN vapor <ref type="bibr" target="#b24">25</ref> , etc. The corresponding atomic force microscope (AFM) images (Supplementary Fig. <ref type="figure" target="#fig_7">29</ref>) show that the root mean square (RMS) roughness of NH 3 -FACsPbI 3 film is only 9 nm over a 20 × 20 µm 2 area, which is even lower than that of the film prepared by the traditional antisolvent method (24 nm) (denoted as anti-FACsPbI 3 ).</p><p>X-ray diffraction (XRD) patterns in Fig. <ref type="figure" target="#fig_3">3d</ref> and<ref type="figure">e</ref> show that the NH 3 post-healing strategy can improve the orientation of the perovskite film, and the diffraction intensity of (110) peak of the NH 3 -FACsPbI 3 perovskite film is about 100 times stronger than that of the raw FACsPbI 3 perovskite film. Besides, NH 3 post-healing decreases the full-width half-maximum (FWHM) of the (110) peak from 0.203 o to 0.114 o (Fig. <ref type="figure" target="#fig_3">3e</ref>). As shown in ultraviolet-visible (UV-Vis) optical absorption spectra (Fig. <ref type="figure" target="#fig_3">3f</ref>) and their Tauc plot curves (Supplementary Fig. <ref type="figure" target="#fig_3">30</ref>), the raw and NH 3 -FACsPbI 3 perovskite films present almost the same absorption edge and band gap of 1.54 eV. While the absorbance of NH 3 -FACsPbI 3 perovskite film exhibits an obvious increase compared to that of raw perovskite film, resulting from the removal of voids. Photoluminescence (PL) peak of the NH 3 -FACsPbI 3 film is similar to that of the anti-FACsPbI 3 film (Supplementary Fig. <ref type="figure" target="#fig_3">31</ref>), but obviously blue shift and narrow in comparison with the raw FACsPbI 3 film, which indicates a low trap density of NH 3 -FACsPbI 3 and anti-FACsPbI 3 films in comparison with the raw film <ref type="bibr" target="#b37">38</ref> . The reduced defect density is also evidenced by the charge-limited current (SCLC) and timeresolved photoluminescence (TRPL) results in Supplementary Fig. <ref type="figure" target="#fig_7">32</ref>. The calculated defect density from the SCLC curves decreases from 3.97 × 10 16 to 9.62 × 10 15 cm -3 . And the TRPL results show that the NH 3 -FACsPbI 3 film has a much longer trap-assisted nonradiative lifetime (τ = 5.6 μs) than the Raw FACsPbI 3 film (τ = 3.2 μs).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device performance evaluation</head><p>The planar devices with a configuration of FTO/TiO 2 -SnO 2 /perovskite/ 2,2′,7,7′-tetrakis(N,N-di-p-methoxyphenyl-amine)-9,9′-spirobifluorene (Spiro-OMeTAD)/Au are fabricated. The champion solar cell (Fig. <ref type="figure">4a</ref>) based on NH 3 -FACsPbI 3 film displays a PCE of 23.21%, with opencircuit voltage (V OC ) of 1.16 V, short-circuit current density (J SC ) of 24.65 mA/cm 2 , fill factor (FF) of 81.20%, demonstrating obvious improvement in comparison with the PCE of 10.92% of the control device based on raw FACsPbI 3 film and comparable performance compared to the devices (PCE = 22.99%) based on the anti-FACsPbI 3 film in our lab (Supplementary Fig. <ref type="figure" target="#fig_3">33</ref>). The certified PCE of NH 3 -FACsPbI 3 PSC is 22.22% (Supplementary Fig. <ref type="figure" target="#fig_3">34</ref>). Meanwhile, there is less hysteresis for the NH 3 -FACsPbI 3 device (Supplementary Fig. <ref type="figure" target="#fig_3">35</ref>). The stabilized power output (SPO) of NH 3 -FACsPbI 3 champion cells is 22.93%, shown in Supplementary Fig. <ref type="figure" target="#fig_3">36</ref>. The J SC of NH 3 -FACsPbI 3 PSC is comparable with the integrated J SC from EQE results (24.41 mA/cm 2 ) in Fig. <ref type="figure">4b</ref>. The distribution histogram of PCE based on 50 NH 3 -FACsPbI 3 devices at reverse scan direction (Fig. <ref type="figure">4c</ref>, Supplementary Table <ref type="table" target="#tab_0">1</ref>) shows excellent reproducibility of high-performance NH 3 post-healing devices. The cross-sectional SEM image of NH 3 -FACsPbI 3 PSC shows the uniform thickness and good interfacial contact of perovskite film with transport layers (Supplementary Fig. <ref type="figure" target="#fig_3">37</ref>). Combined NH 3 gas healing and the doctor-blading technology (Suzhou GCL Nano Co. Ltd.), a prototype PSC module consisting 10 cells in series connection achieves a PCE of 20.61% (Fig. <ref type="figure">4d</ref>) and the certified PCE of the module is 19.38% (Supplementary Fig. <ref type="figure" target="#fig_3">38</ref>) with an estimated active area of 14.00 cm 2 , which is comparable with the reported highest efficiencies in perovskite modules <ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref> .</p><p>To further evaluate the device stability based on NH 3 posthealing treatment, the high-efficiency NH 3 -FACsPbI 3 , anti-FACsPbI 3 , anti-FA 0.90 Cs 0.05 MA 0.05 PbI 3 (anti-FMCsPbI 3 ), and anti-MAPbI 3 PSCs are employed. As the low PCE, raw FACsPbI 3 device has not been chosen to study its stability. The shelf stability of unencapsulated devices in Fig. <ref type="figure">4e</ref> shows that NH 3 -FACsPbI 3 device has negligible performance loss after 320 days of storage, which is similar to the anti-FACsPbI 3 devices and much better than anti-FMCsPbI 3 and anti-MAPbI 3 . The XRD and UV-Vis spectra of these aged perovskite films in 320-day-aged PSCs (Supplementary Figs. 39-41) show that NH 3 -FACsPbI 3 film keeps its strong light absorption, and has few PbI 2 . Meanwhile, NH 3 -FACsPbI 3 device still maintains decent crosssectional morphology with clear grain boundaries (Supplementary Fig. <ref type="figure" target="#fig_7">42</ref>). What's more, the maximum power point (MPP) of the unencapsulated NH 3 -FACsPbI 3 , anti-FACsPbI 3 , anti-FMCsPbI 3, and anti-MAPbI 3 PSCs is tracked under white light emitting diode (LED) irradiation (Fig. <ref type="figure">4f</ref>, Supplementary Fig. <ref type="figure" target="#fig_3">43</ref>) with an intensity equivalent to 1 sun in N 2 atmosphere. After 500 h of continuous light soaking, the NH 3 -FACsPbI 3 device maintains 80% of its initial efficiency, and the stability trend of MPP tracking is consistent with that of shelf stability in these devices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We have systematically studied the transimination reactions between FA/RA gases and FAI salt, and further developed an NH 3 gas posthealing strategy for upscale fabrication of high-quality FA-based perovskite films. The low operating temperature during NH 3 posthealing process is vital to enable FA-based perovskite materials to absorb enough NH 3 molecules and transform into a flowable intermediate state. Based on this strategy, the champion device achieves a PCE of 23.21% (Certified PCE of 22.22%), and the PCE of the perovskite module is up to 20.61%. Meanwhile, the device stability based on this strategy is also comparable with that of the state-of-the-art antisolvent method. This NH 3 gas post-healing technology is compatible with established commercial technologies to efficiently remove voids in the raw FA-based films and therefore opens a direction for fabrication of large-scale high-efficient FA-based PSCs. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material synthesis</head><p>For the synthesis of N-methyl formamidinium iodide (MFAI), Methylamine alcohol solution (30-33 wt. % in anhydrous ethanol, 425 μl, about 2.8 mmol) was added dropwise to a solution of formamidinium iodide (FAI, 516 mg, 3 mmol) in 30 ml anhydrous ethanol under nitrogen protection, and the mixture was stirred at 0 °C for 2 h. Subsequently, the solvent was evaporated under reduced pressure and the residue was recrystallized in the mix solvent of isopropanol and ethyl acetate in glove box to obtain the MFAI powder. The synthesis of N, N'-dimethyl formamidinium iodide (DMFAI) was similar to that of MFAI, but the amount of the methylamine alcohol solution was increased to 1 ml.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NMR sample fabrication</head><p>For solution <ref type="bibr" target="#b0">1</ref> H NMR characterization of the sample in Table <ref type="table" target="#tab_0">1</ref> (No.1), the mixture of 5.0 g FACl and 5.0 g NaOH was reacted at RT in a conical flask, and the generated gas was collected by 0.5 ml DMSO-d 6 . For samples in Table <ref type="table" target="#tab_0">1</ref> (No. 2-4), the mixture of 5.0 g FACl and 5.0 g NaOH was reacted at 150 °C, and the generated gas was collected by 0. For solution <ref type="bibr" target="#b14">15</ref> N NMR characterization, <ref type="bibr" target="#b14">15</ref> NH 3 was produced from the reaction between 5.0 g 15 NH 4 Cl (10% 15 N labelled) and 5.0 g NaOH at 60 °C, and the generated gas was collected by 0.5 ml DMSO-d 6 . FAI ( 15 N) was produced based on the reaction between 0.2 g FAI and excess <ref type="bibr" target="#b14">15</ref> NH 3 at RT for 6 h, followed by vacuum treatment. FAI•x 15 NH 3 , PbI 2 •x 15 NH 3 , and FAPbI 3 •x 15 NH 3 were generated between the reaction between 0.2 g FAI, 0.2 g PbI 2 , or 0.2 g FAPbI 3 precursor powders and excess <ref type="bibr" target="#b14">15</ref> NH 3 at RT for 6 h, but without vacuum treatment.</p><p>The above samples were directly dissolved in DMSO-d 6 for 15 N NMR measurement.</p><p>The NMR sample fabrication of FAPbI 3 •x 15 NH 3 for the solid-state NMR spectrum was similar to that of the solution <ref type="bibr" target="#b14">15</ref> N NMR spectrum, but <ref type="bibr" target="#b14">15</ref> N isotope source for preparing <ref type="bibr" target="#b14">15</ref> NH 3 was used <ref type="bibr" target="#b14">15</ref> NH 4 Cl (99% <ref type="bibr" target="#b14">15</ref> N labelled) as the requirement of high <ref type="bibr" target="#b14">15</ref> N concentration for solidstate NMR.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NMR measurements</head><p>The solution 1 H NMR spectra were measured with a Bruker AVANCE III 600 instrument operating at 600.13 MHz at 298 K. Chemical shifts d (ppm) were referenced to the internal solvent signals.</p><p>The solution 1 H-decoupled <ref type="bibr" target="#b14">15</ref> N NMR spectra (pules program zgig) were acquired using a Bruker Avance III 600 instrument operating at 600. 13 MHz for 1 H and 60.82 MHz for <ref type="bibr" target="#b14">15</ref> N. The 15 N chemical shifts were determined from 1 M urea in DMSO (-303.20 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) as external standard reference 42. The relaxation delay was 10 s, the acquisition time was 1.3 s, and 128 scans were accumulated.</p><p>The solid-state NMR experiment was performed on a Bruker AVNCE 400 spectrometer operating at 399.95 MHz for 1 H and 40.54 MHz for <ref type="bibr" target="#b14">15</ref> N. The obtained sample was packed into a 7 mm ZrO 2 rotor. The 15 N chemical shifts were determined from the 15 NH 4 Cl (-341.17 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) <ref type="bibr" target="#b42">43</ref> . The HPEDC pulse sequence was used. The acquisition time was 50 ms, the spin rate was 3 kHz, and the recycle delay was 5 s. The two-pulse phase-modulation (TPPM) decoupling was used during the acquisition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perovskite film fabrication</head><p>Raw FACsPbI 3 films: The perovskite precursor was prepared by mixing PbI 2 : FAI: CsI (1:0.9:0.1 molar ratio) in DMF solvent (1.40 M). Raw FAPbI 3 films: The perovskite precursor was prepared by mixing PbI 2 : FAI (1:1 molar ratio) in DMF solvent (1.40 M). The raw FACsPbI 3 and FAPbI 3 films were simply fabricated by one-step spin-coating at 4000 rpm for 30 s and then heated at 140 °C for 20 min.</p><p>NH 3 -FACsPbI 3 film: After spin-coating, the raw FACsPbI 3 film was annealed at 140 °C for 5 min, and then transferred into a homemade chamber with a temperature from 20 to -15 °C. N 2 gas was used to remove the moisture-laden air in the chamber. Subsequently, NH 3 gas was quickly introduced into the chamber and maintained for ∼5 s. Then the NH 3 gas is removed from the chamber and the film was further annealed at 140 °C for 20 min. For NH 3 -FAPbI 3 film, the film treatment process is the same as above, and the temperature of the homemade chamber is -15 °C for NH 3 post-healing process.</p><p>For anti-FACsPbI 3 , anti-FMCsPbI 3 , and anti-MAPbI 3 films, the perovskite precursors were prepared in DMF: DMSO (3:7, 1.40 M) by stoichiometric ratios. The perovskite solution was spin-coated in a two-step at 1000 rpm and 4000 rpm for 10 s and 30 s, respectively. During the second step, 300 μl anisole was drop-casted quickly at the tenth second of the second step. The anti-MAPbI 3 perovskite film was then heated at 100 °C for 20 min, and the other films were heated at 140 °C for 20 min.</p><p>The α-FAPbI 3 , δ-FAPbI 3 , MFAPbI 3 , and DMFAPbI 3 films were fabricated from their DMF solution with a concentration of 1.40 M using chlorobenzene as the antisolvent. The α-FAPbI 3 , MFAPbI 3 , and DMFAPbI 3 films were obtained after heating treatment at 140 °C for 20 min. The δ-FAPbI 3 film was achieved by exposing α-FAPbI 3 film in the air (RH &gt; 50%) until fully transformed into yellow. The MA-FAPbI 3 film was prepared by the MA 0 gas post-healing the α-FAPbI 3 film and then heated at 140 °C for 20 min.</p><p>The annealing process of all thin films is in ambient air conditions (30-40% humidity).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device fabrication</head><p>The methods described are similar to that reference 44. Fluorine doped tin oxide (FTO)-coated glass (2.20 mm, 7Ω sq -1 ) was used as the substrate for the devices. The compact TiO 2 layer (∼10 nm) was deposited by atomic layer deposition (ALD) for 200 cycles and annealed at 500 °C for 30 min in ambient air. For ALD TiO 2 deposition, titanium (IV) isopropoxide (TTIP) and H 2 O as Ti and O sources, respectively. The TTIP precursor was held at 75 °C. Pulse/exposure/ purge times of 1 s/8 s/25 s were used for the TTIP and 0.1 s/8 s/25 s for H 2 O precursor, and the deposition temperature was set to 120 °C. On top of the c-TiO 2 layer, SnO x -Cl layer was deposited by spincoating at a speed of 3000 rpm for 30 s from an aged SnCl 4 aqueous solution (1:75 with deionized water by volume), followed by a sintering heat-treatment of 200 °C for 30 min in air and then transferred to the glove box for device fabrication. The perovskite layers were fabricated as described above. For the surface passivation, 1 mg ml -1 of Phenyltrimethylammonium tribromide (PTAB) solution in isopropanol was spin-coated on these perovskite films at 4000 rpm for 30 s.</p><p>The spiro-OMeTAD chlorobenzene solution (72.3 mg ml -1 ) with 28.8 μl 4-tert-butylpyridine (96%, Aldrich-Sigma) and 17.5 μl lithium bis(trifluoro-methanesulfonyl) imide (Li-TSFI, Aldrich-Sigma) solution (520 mg Li-TSFI (98%) in 1 ml acetonitrile (99.8%, Aldrich-Sigma)) was spin-coated on top of the perovskite film at 3000 rpm for 30 s. The devices were put into a dry-air box (RH &lt; 3%) for 12 h. Finally, 80 nm thick Au electrode was thermally evaporated.</p><p>For fabricating modules, P1 etching process was pre-patterned on FTO glass (5 cm × 5 cm) with a 1064 nm fiber laser (Han's laser). The laser power ratio, laser duty cycle, and laser frequency were 30%, 5%, and 50 kHz, respectively. Then, patterned FTO substrates were cleaned and treated by UV Ozone Cleaner (Ossila) for 15 min. The TiO 2 /SnO 2 , PTAB, and Spiro-OMeTAD layers were prepared with the same procedure as presented above. The large-size raw FACsPbI 3 perovskite film was prepared through the doctor-blading method (provided by Suzhou GCL Nano Co. Ltd.). The NH 3 post-healing strategy was carried out on it to form a large-scale NH 3 -FACsPbI 3 film. For P2 etching process, the laser used was a 532 nm laser with a laser power ratio of 65%, a laser duty cycle of 5%, and a laser frequency of 100 kHz. 80 nm thick Au electrodes were thermally evaporated under vacuum to complete the modules fabrication. Finally, P3 etching used the same laser with P2 with a laser power ratio of 50%, a laser duty cycle of 5%, and a laser frequency of 100 kHz. P4 is an etching procedure for cleaning the edge of the modules, the laser used in P4 is the same with P1 with a laser power ratio of 40%, the laser duty cycle of 10%, and a laser frequency of 100 kHz.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perovskite film and device characterization</head><p>The characterization described are similar to that reference 44. XRD spectra were measured by Ultima IV of Rigaku with Cu Kα radiation (1.5406 Å). The UV-Vis absorbance spectra were measured by QE Pro (Ocean Optics). Top view, cross-section SEM images were obtained with a field-emission SEM (S-4800, Hitachi). Steady PL spectra were recorded on QE Pro excited at 460 nm. AFM measurements were performed in contact mode (5400, Agilent). EQE measurement was calculated using certified incident photon to current conversion efficiency equipment from Enlitech (QE-R). Time-resolved photoluminescence (TRPL) experiments were performed by Steady State and Transient State Fluorescence Spectrometer (Edinburgh FLS980). The testing conditions as the films were photoexcited at 483.6 nm pulse width ∼ 118.6 ps, 5 mW/pulse, and emission were collected on the surface side of the film (perovskite/ glass substrate).</p><p>J-V curves of the as-fabricated PSCs were measured using a SourceMeter (Keithley 2400) under simulated one-sun AM 1.5 G 100 mW cm -2 intensity (Oriel Sol3A Class AAA, Newport) with a scan rate of 200 mV/s (the voltage step is 20 mV with no delay time) from reverse and forward two scanning directions in air condition around 25 °C. The typical active area of PSCs is 0.09 cm 2 defined by a metal mask. The area of the mask (0.08713 cm 2 ) used for certification was certified by the National Institute of Metrology, China, No. CDjc2021-10891. The intensity of one-sun AM 1.5 G illumination was calibrated using a Si-reference cell certified by the National Renewable Energy Laboratory. SPO is measured by tracking the current under a fixed voltage which is decided by the voltage of maximum power point at the J-V curve. Here, the fixed voltage of NH 3 -FACsPbI 3 device is 1.002 V.</p><p>For the stability tests, all PSCs were without encapsulation. For shelf-life stability, the devices were stored in a dark environment with a humidity of 10-30%, and the photovoltaic performance of PSCs was measured every ten days. The operational stability was performed using a stability setup (LC Auto-Test 24, Shenzhen Lancheng Technology Co., Ltd.), tested under continuous light illumination and maximum power point tracking (controlled and monitored to be 15 °C). The light source consisted of an array of white LEDs powered by a constant current. The LED type is MG-A200A-AE with an emission spectrum of 400-750 nm (Supplementary Fig. <ref type="figure">40</ref>). Equivalent sun intensities were calibrated using a calibrated Si-reference cell. During aging, the device is connected with a 100 Ohm load resistance. The PSCs were masked and placed inside a sample holder purged with continuous N 2 flow. J-V curves with reverse voltage scans were recorded every 12 h during the whole operational test. </p><formula xml:id="formula_0">V OC =0.86 V J SC =17.32 mA/cm 2 FF=45.12% PCE=6.72% V OC =1.00 V J SC =22.81 mA/cm 2 FF=66.52% PCE=15.23%</formula><p>Supplementary Fig. <ref type="figure" target="#fig_7">32 (a,</ref><ref type="figure">b</ref>) J-V characteristics derived from the SCLC measurements with a structure of FTO/SnO2/perovskite/PCBM/Au and (c) Time-resolved photoluminescence decay curves of the Raw and NH3-FACsPbI3 films.</p><p>The preparation details of thin film samples are as follows, Raw FACsPbI3 films: The perovskite precursor is prepared by mixing PbI2: FAI: CsI (1:0.9:0.1 molar ratio) in DMF solvent (1.40 M). The Raw FACsPbI3 films are simply fabricated by one-step spin coating at 4000 rpm for 30 s, and then heated at 140 ˚C for 20 min in ambient air conditions (30-40% humidity). NH3-FACsPbI3 film: After spin coating, the raw FACsPbI3 film is annealed at 140 ˚C for 5 min in ambient air conditions (30-40% humidity), and then transferred into a home-made chamber with the temperature around -15 ˚C. N2 gas is used to remove the moisture-laden air in the chamber. Subsequently, NH3 gas is quickly introduced into the chamber and maintained for ~5 s. Then the NH3 gas is removed from the chamber and the film is further annealed at 140 ˚C for 20 min in ambient air conditions (30-40% humidity). After annealing, some perovskite films are spin coated surface protective layer for the TRPL test, 50 mg ml -1 of polymethyl methacrylate (PMMA) solution in chlorobenzene was spincoated on some films surface at 3000 rpm for 30 s and without further annealing process. Editorial Notes : This manuscript has been previously reviewed at another journal that is not operating a transparent peer review scheme. This document only contains reviewer comments and rebuttal letters for versions considered at Nature Communications. Parts of this Peer Review File have been redacted as indicated to remove third-party material where no permission to publish could be obtained.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REVIEWER COMMENTS</head><p>Reviewer #2 (Remarks to the Author):</p><p>This is an interesting study which could be useful for the fabrication of large-area FA-based PSCs.</p><p>The following questions need to be properly addressed before publication.</p><p>1. The authors consider a lower trap density of perovskite films after the treatment simply based on the blue shifted and narrowed PL peaks. However, it would be a bit risky to draw to such a conclusion by just PL data because differences in stoichiometry, thickness as well as other factors would also show an impact on the shape and position of PL spectra. I would recommend to further consolidate the claim of decreased trap density by doing other characterizations, such as pumpprobe terahertz or TRMC.</p><p>2. How does the NH3 post healing process affect the thickness of the films considering there have a liquid intermediate during the process.</p><p>3.I appreciate that the statistics have now been included in the stability data. However, details, such as the number of devices and batches, the definition of the error bars,should be properly described in the figure caption as well.</p><p>Reviewer #4 (Remarks to the Author):</p><p>The review is attached.</p><p>The article Li et al. reports a strategy for fabricating perovskite films using ammonia treatment to induce high uniformity. The authors use NMR to elucidate the mechanism of action of NH3 and other amines, and fabricate high efficiency and highly stable devices, comparable to those fabricated using conventional antisolvent approaches.</p><p>While the experimental results are of high quality and the authors provide very important insights about the molecular level mechanism of action of the proposed strategy, the reviewer feels that the level of novelty does not warrant publication in Nature Energy, since similar gas healing approaches have previously been proposed, for example, based on methylamine (ref. 17). The work will be of high interest to the broad chemistry readership in another journal, such as Nat.</p><p>Commun.</p><p>Before it can be considered for publication, the authors should substantially improve the discussion surrounding the NMR data, since many of the statements are currently given with no explanation or reference, as detailed below:</p><p>"We think that the high boiling point of FA 0 likely makes FA 0 molecules difficult to diffuse into DMSO-d6 solvent." -why would boiling point affect solubility of FA 0 ? As a highly polar molecule, formamidine should be well soluble in DMSO. There is no evidence in the data that FA 0 does form. This makes the caption of Table <ref type="table" target="#tab_0">1</ref> "The synthesis of formamidine (FA 0 ) and chemical reactions between FA 0 /amines/NH3 gases and FAI salt" and the surrounding discussion unsubstantiated.</p><p>There are also a number of issues in the interpretation of the NMR data: the assignment is insufficient, some peaks are not discussed and references are not cited to corroborate the proposed assignments. Please assign each signal to the moiety it corresponds to on a given molecule (rather than simply marking the peaks with asterisks, as one would do for an XRD pattern). As is, the assignments are arbitrary and cannot be treated as valid. Please also label the peak of the residual solvent protons.</p><p>Extended Data Figure <ref type="figure" target="#fig_1">3</ref>: 0.70 ppm is suggested to be NH3 while naively a much larger chemical shift is expected due to the high electronegativity of nitrogen. <ref type="url" target="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805">https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805</ref> indeed shows that NH4 + resonates around 7 ppm). Please discuss this discrepancy. What is the signal at 3.48 ppm? Increasing the pH, as suggested in the work above, would substantially facilitate interpretation of the spectra in general by narrowing the peaks of exchangeable (NH, OH) protons and evidencing their Jcoupling to the neighbouring protons.</p><p>Extended Data Figure <ref type="figure">4</ref>: FA has either two or three 1 H peaks depending on pH (CH and NH at 8 ppm and between 8-9 ppm, respectively, see Figure <ref type="figure">5</ref> in the work referenced above). The data shown here do not support the presence of FA, as currently assigned. NH3 in this case is assigned to a peak at 3.54 ppm, in contradiction to Extended Data Figure <ref type="figure" target="#fig_1">3</ref>. S-triazine and formamide are assigned with no explanation or reference given. Finally, there are a number of peaks in the 7.5-9 ppm region which are not assigned at all. Extended Data Figure <ref type="figure">5</ref>: Please assign each signal to the corresponding moiety. The peak at 3.2 ppm in panel 'a' is not assigned. Extended Data Figure <ref type="figure">6</ref>: Please assign each signal to the corresponding moiety. The peak at 3.42 ppm is not assigned. Extended Data Figure <ref type="figure">7</ref>: Please assign each signal to the corresponding moiety. There are a large number of peaks which are not assigned. Extended Data Figure <ref type="figure">8</ref>: Please assign each signal to the corresponding moiety and explain the observed J-couplings in the context of the assignment. Extended Data Figure <ref type="figure">9</ref>-13, 16, 19-23 As above. Extended Data Figure <ref type="figure" target="#fig_4">24</ref>: what is this assignment based on? Comparing with the liquid-state spectra in Figure <ref type="figure" target="#fig_0">1</ref>, the 15N of FAI resonates at higher frequencies than that of PbI2.xNH3. Why is the assignment in the solid state reversed? Extended Data Figure <ref type="figure" target="#fig_0">19</ref>-23: please assign the reference (urea) signal.</p><p>Figure <ref type="figure" target="#fig_0">1</ref>: regarding "FAI treated with 15 NH3 and vacuumed (FAI( 15 N))" -the authors attribute the 15N peak to 15N-labelled FAI. According to Scheme 1, the reaction of FAI with NH3 should yield NH4I and FA 0 , which is then evacuated. Table <ref type="table" target="#tab_0">1</ref> and Ext. Data Fig. <ref type="figure" target="#fig_0">16</ref> show that the reaction product is FAI, but this creates confusion (since Scheme 1 states that R can be equal H). Based on Scheme 1 it is also unclear how the 15 N-labelled nitrogen of NH3 would end up in FAI. Figure <ref type="figure" target="#fig_0">1c</ref> clarifies this issue but it is still in apparent contradiction to the generality of Scheme 1.</p><p>Figure <ref type="figure" target="#fig_0">1b</ref> also contains a number of peaks which are not assigned (two small peaks in the FAI.xNH3 spectrum), suggesting that the reaction is more complex. Why is there no signal from the 15 NH3 species in this case while FAPbI3.xNH3 contains it? "The hydrolysis reactions of FA 0 , RFA 0 and DRFA 0 lead to the formation of volatile HCOOH and RA 0 " -what is this conclusion based on? How was the presence of the volatile products concluded?</p><p>"The s-triazine with a boiling point of 114 ˚C is attributed to the transimination reaction of three FA 0 molecules along with the formation of NH3" -this is not a transimination reaction but condensation: please refer to <ref type="url" target="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805">https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805</ref> and the references within (in particular by Schaeffer et al., ref. 20).</p><p>Finally, since NMR is not a commonly used technique in the field of halide perovskite fabrication, it would be beneficial to include a brief introduction to its main tenets and differences relative to XRD etc. A few relevant recent reviews on the subject include <ref type="url" target="https://www.nature.com/articles/s41570-021-00309-x">https://www.nature.com/articles/s41570-021-00309-x</ref>  <ref type="url" target="https://pubs.acs.org/doi/abs/10.1021/jacs.0c07338">https://pubs.acs.org/doi/abs/10.1021/jacs.0c07338</ref> </p><p>1. The TRPL data look abnormal to me. The bare perovskite films without charge extraction layer should exhibit mono-exponential decay profile, where the trap-assisted recombination dominates. However, the raw perovskite film clearly displays a bi-exponential characteristic, can you explain? 2. Both the raw and post-treated perovskite films were fitted into a bi-exponential decay. Can you explain why fit into bi-exponential? What are the physical meanings of the fast and slow components? Response: Thank you for your suggestion. As for the pure perovskite films, there are generally three mechanisms determine PL decay: first-order (trap-assisted nonradiative); second-order (radiative); and third-order (Auger) recombination, and their contributions depend on the intensity of the excitation laser fluence (Nat. Commun. 9, 3021 (2018); Nat. Energy 6, 63 (2021)). The third-order recombination constant under this carrier density is very small (k 3 &lt;&lt; 10 -30 cm 6 /s) and is only narrowly observed in the initial stage (Nat. Energy 6, 63-71 (2021)). Thus, the third-order mechanism in PL decay analysis is usually neglected. Commonly, the carrier lifetime values were obtained by using the biexponential equation Y = A 1 exp(-t/τ 1 ) + A 2 exp(-t/τ 2 ), where τ 1 and τ 2 denote the fast and slow decay time and are related to the trap-assisted nonradiative and radiative recombination processes, respectively. (Science 370, 108-112 (2020); Nat. Commun. 12, 1554 (2021)).</p><p>3.The lifetime were only 132 ns for the treated films, which is much shorter than the previous studies for FACs based perovskites (typically a few hundreds of nanoseconds to microseconds). Any explanation? Response: Thank you for your helpful suggestion. The lifetime of 132.78 ns and 10.06 ns in the manuscript is the fast components which is related to the trap-assisted nonradiative, and the longer time in the previous studies for FACs based perovskites generally refer to the average lifetime τ ave (Nat. Commun. 12, 6603 (2021); Nat. Commun. 12, 1554 (2021)). To avoid ambiguity, we have revised the expression in the manuscript. We also reprocessed the TRPL results in Supplementary Figure <ref type="figure" target="#fig_3">30c</ref> and the lifetime of the trap-assisted nonradiative (τ 1 ) was fitted into 6.50 ns and 58.45 ns for Raw and NH 3 -FACsPbI 3 films, respectively. The value of fitting depends heavily on the selection range of data, and our data is equivalent to the results of Nat. Commun. 9, 3021 (2018). The relevant revision is as follows: "The reduced defect density is also evidence by the charge-limited current (SCLC) and time-resolved photoluminescence (TRPL) results in Supplementary Fig. <ref type="figure" target="#fig_3">30</ref>. The calculated defect density from the SCLC curves decreases from 3.97 × 10 16 to 9.62 × 10 15 cm -3 . And the TRPL results shows that the NH 3 -FACsPbI 3 film has a much longer trap-assisted nonradiative lifetime (τ 1 =58.45 ns) than the Raw FACsPbI 3 film (τ 1 =6.50 ns)."</p><p>I thank the authors for the clarification. The control (untreated) film shows quite a long PL lifetime of over 2 microseconds. The control films are full of pinholes and vacancies, indicating its poor quality. Although the morphology does not necessarily indicate strong PL quenching, 2 microseconds is still too long for such a defective film. FYI, the perovskite used in the champion inverted cells published recently on Science is only around 2 microseconds (Science 376, 416-420 (2022)). The authors need to explain why such a defective film show very long PL lifetime. Also, I strongly suggest the authors to double check the TRPL to verify if the lifetimes are consistent in different samples.</p><p>For the small-area cell, the authors provided certified efficiency, however, the certified efficiency is 1% lower than the lab-measured one. If the discrepancy still exists or even amplified for largearea modules remain uncertain. Considering the champion efficiency to date have achieved 25.7% for small-area nip structured cells, the 22% certified efficiency reported in this work is not very high. In this sense, the large-area modules would be critical important to justify the importance of the work. I recommend to include certified efficiency of the fabricated modules in the paper. We thank the reviewer for all the helpful comments and suggestions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>We remeasured the lifetimes of the NH3-FACsPbI3 film and the Raw-FACsPbI3 film based on time-resolved photoluminescence (TRPL), as shown in Figure <ref type="figure" target="#fig_0">R1</ref>. In order to avoid the effect from humidity, a raw-FACsPbI3 film with polymethyl methacrylate (PMMA) protective layer is also added. The PL lifetime of NH3-FACsPbI3 is 4.0 μs, and the PL lifetimes of Raw-FACsPbI3 without PMMA and with PMMA are 2.4 and 2.1 μs, respectively.</p><p>The remeasured PL lifetime results are consistent with those of the last time. The excitation light of the films is at 483.6 nm with pulse width of ~ 118.6 ps and power of 5 mW/pulse, and the emission light is collected from the side of perovskite surface for the film (Edinburgh FLS980).The pinholes in the raw film leading to low efficiency of the device is mainly attributed to the connection of hole transport layer (HTL) and electrode transport layer (ETL), which leads to the serious carrier nonradiative recombination. The lifetimes from TRPL spectra for perovskite films (perovskite/ glass substrate) are closely related with the vacancy and nonradiative recombination in perovskite films, rather than the interfaces of perovskite/ETL, perovskite/HTL or ETL/HTL. We also noted that the measuring conditions such as the wavelength and intensity of the excitation light show obvious effect on lifetime (Energy Environ. Sci., 2022,15, 2096-2107), which may lead to the large difference with similar perovskite films from different groups. The preparation details of thin film samples are provided in the notes of Supplementary Fig. <ref type="figure" target="#fig_7">32</ref>.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc>Fig.1| Chemical reactions related to FAI. The transimination reactions and the ion exchange reactions between FAI and RA 0 molecules (R refers to H, Me, Et, n-Pr, or n-Bu etc.), and the hydrolysis reactions of FA 0 , RFA 0 , and DRFA 0 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FAPbI 3 •</head><label>3</label><figDesc>xNH 3 slurry drops rapidly at the initial stage and then decreases slowly in 30 min at 20 °C. Then the sample was annealed at 40 °C for 30 min and 60 °C for 30 min showing continuously slow weight loss by weighing at regular intervals. At 80 °C, the sample quickly reaches a relatively stable state then almost no weight loss in the maintained 30 min and the NH 3 molecular number per FAPbI 3 is about 1.0. Finally, the x value quickly decreases to 0 when the sample is annealed at 120 C.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 |</head><label>2</label><figDesc>Fig. 2 | The interaction of NH 3 with FA-based perovskite or precursors. a Absorption and desorption behavior of MAI-MA 0 , FAI-MA 0 , and FAI-NH 3 . b The solution 15 N NMR spectra of 15 NH 3 , FAI( 15 N), FAI•x 15 NH 3 , PbI 2 •x 15 NH 3 , and FAP-bI 3 •x 15 NH 3 . Signals: i, 15 N signal in 15 NH 3 ; ii, 15 N signal in FAI ( 15 N); iii, 15 N signal in FAI hydrogen bonded with 15 NH 3 ; iv, 15 N signal of 15 NH 3 coordinated with Pb(II). c Reaction mechanism of transimination reactions between NH 3 and FAI. d The photographs of PbI 2 /FAI powder in NH 3 atmosphere under different temperatures. e The calculated x value of FAPbI 3 •xNH 3 complex in an open condition under different temperatures.</figDesc><graphic coords="4,109.00,56.96,398.68,260.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Properties of perovskite Films. a Schematic illustration of NH 3 posthealing FACsPbI 3 perovskite thin film. b, c Scanning electron microscope (SEM) images of (b) raw FACsPbI 3 and (c)NH 3 -FACsPbI 3 perovskite films. d, e X-ray</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>2 VFig. 4 |</head><label>24</label><figDesc>Fig. 4 | Device performance and stability. a Current density-voltage (J-V) curve of the champion PSCs based on NH 3 -FACsPbI 3 . b External quantum efficiency (EQE, red) and the integrated short-circuit current density (blue) of the champion NH 3 -FACsPbI 3 device. c Histogram of the power conversion efficiency for 50 NH 3 -FACsPbI 3 PSCs. d J-V curve of NH 3 -FACsPbI 3 PSC module. e Normalized power conversion efficiency (PCE) of unencapsulated NH 3 -FACsPbI 3 , anti-FACsPbI 3 , anti-FMCsPbI 3, and anti-MAPbI 3 devices with the storage time of 320 days under 10-30% relative humidity at room temperature. f Evolution of the normalized PCE over time measured by maximum power point tracking of unencapsulated NH 3 -FACsPbI 3 , anti-FACsPbI 3 , anti-FMCsPbI 3, and anti-MAPbI 3 devices under light soaking with full solar intensity. Standard deviation (error bar) was calculated from three individual devices in the same batch.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Reviewer # 2</head><label>2</label><figDesc>remarks: I thank the authors for the clarification. The control (untreated) film shows quite a long PL lifetime of over 2 microseconds. The control films are full of pinholes and vacancies, indicating its poor quality. Although the morphology does not necessarily indicate strong PL quenching, 2 microseconds is still too long for such a defective film. FYI, the perovskite used in the champion inverted cells published recently on Science is only around 2 microseconds (Science 376, 416-420 (2022)). The authors need to explain why such a defective film show very long PL lifetime. Also, I strongly suggest the authors to double check the TRPL to verify if the lifetimes are consistent in different samples.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure</head><label></label><figDesc>Figure R1 Time-resolved photoluminescence decay curves of the Raw-and NH3-FACsPbI3 films.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head></head><label></label><figDesc>Raw FACsPbI 3 (w/o PMMA) (2.4 μs) Raw FACsPbI 3 (w/ PMMA) (2.1 μs) PL counts (Normalized) PL decay time (μs)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,197.35,72.00,217.30,314.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,130.40,72.00,351.15,187.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="15,72.06,49.61,467.86,331.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,121.54,72.04,368.51,255.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,125.74,392.85,360.53,254.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,110.80,72.00,390.37,243.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,125.68,72.00,360.65,225.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="20,125.65,72.00,360.64,227.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="21,130.31,53.35,351.39,254.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="21,121.49,387.85,369.02,255.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="22,120.04,72.05,371.59,255.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="22,127.54,397.48,356.62,255.03" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="23,192.63,72.00,226.73,236.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="23,124.54,393.45,362.69,255.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="24,135.75,369.62,340.15,285.49" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="25,135.75,72.00,340.09,237.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="25,135.75,407.78,340.14,237.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="26,135.75,72.00,340.14,237.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="26,135.75,407.83,340.14,237.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="27,135.75,72.00,340.14,237.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="27,135.75,421.90,340.13,255.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="29,112.50,72.00,386.57,166.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="33,178.45,72.00,255.09,207.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="33,178.80,419.98,254.40,211.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="35,164.27,72.00,283.41,233.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="36,178.45,72.00,255.08,202.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="36,192.63,358.91,226.75,312.97" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="37,109.50,345.28,392.54,275.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 |</head><label>1</label><figDesc>The synthesis of formamidine (FA 0 ) and chemical reactions between FA 0 /amines/NH 3 gases and FAI salt</figDesc><table><row><cell>No.</cell><cell>Gas generation</cell><cell>Gas collection</cell><cell>Product a</cell></row><row><cell>1</cell><cell>FACl, NaOH, RT</cell><cell>DMSO-d 6</cell><cell>NH 3</cell></row><row><cell>2</cell><cell>FACl, NaOH, 150 °C</cell><cell>DMSO-d 6</cell><cell>s-triazine, formamide,</cell></row><row><cell></cell><cell></cell><cell></cell><cell>FA, NH 3</cell></row><row><cell>3</cell><cell>FACl, NaOH, 150 °C</cell><cell>HOAc</cell><cell>FAAc b</cell></row><row><cell>4</cell><cell>FACl, NaOH, 150 °C</cell><cell>FAI powder</cell><cell>FAI, formamide b</cell></row><row><cell>5</cell><cell>MA in EtOH, 60 °C</cell><cell>FAI powder</cell><cell>DMFAI b</cell></row><row><cell>6</cell><cell>EACl, NaOH, 60 °C</cell><cell>FAI powder</cell><cell>DEFAI b</cell></row><row><cell>7</cell><cell>PA, 60 °C</cell><cell>FAI powder</cell><cell>DPFAI b</cell></row><row><cell>8</cell><cell>BA, 60 C</cell><cell>FAI powder</cell><cell>DBFAI b</cell></row><row><cell>9</cell><cell>N H 3 •H 2 O, 60 °C</cell><cell>FAI powder</cell><cell>NH 4 I b</cell></row><row><cell>10</cell><cell>MA in H 2 O, 60 °C</cell><cell>FAI powder</cell><cell>MAI b</cell></row><row><cell>11</cell><cell>EA in H 2 O, 60 °C</cell><cell>FAI powder</cell><cell>EAI b</cell></row><row><cell>12</cell><cell>H 2 O, 60 °C</cell><cell>FAI powder</cell><cell>FAI b</cell></row><row><cell>13</cell><cell>NH 3 , RT</cell><cell>FAI powder</cell><cell>FAI b</cell></row></table><note><p><p><p>a The main components are listed.</p>b  </p>The samples are treated with vacuum to remove low boiling point components before 1 H NMR measurement. FACl is formamidine hydrochloride, FA is formamidine, HOAc is acetic acid, FAAc is formamidinium acetic, FAI is formamidinium iodide, MA is methylamine, EtOH is ethyl alcohol, DMFAI is N,N'-dimethyl formamidinium iodide, EACl is ethylamine hydrochloride, DEFAI is N,N'diethyl formamidinium iodide, PA is n-Propylamine, DPFAI is N,N'dipropyl formamidinium iodide, BA is n-Butylamine, DBFAI is N,N'dibutyl formamidinium iodide. MAI is methylaminium iodide, and EAI is ethylamine hydroiodide.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Article https://doi.org/10.1038/s41467-022-32047-z Nature Communications | (2022) 13:4417</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>S.P.P. acknowledges funding from the <rs type="funder">Youth Innovation Promotion Association CAS</rs> (<rs type="grantNumber">Y201944</rs>), <rs type="funder">Funding of Young Taishan Scholars</rs> (tsqn201812110), <rs type="funder">Natural Science Foundation of Shandong Province</rs> (<rs type="grantNumber">ZR2020KB001</rs>), and funding from <rs type="funder">Shandong Energy Institute</rs> (<rs type="grantNumber">SEI I202129</rs>), X.W. thanks the <rs type="funder">Natural Science Foundation of Shandong Province</rs> (<rs type="grantNumber">ZR2020KB001</rs>). Z.P.S. thanks the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51902324</rs>). We thank <rs type="person">Suzhou GCL Nano Co. Ltd</rs>. for the fabrication of large-sized perovskite films and the <rs type="funder">Qingdao Key Lab of Solar Energy Utilization &amp; Energy Storage Technology</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_F2sBYFj">
+					<idno type="grant-number">Y201944</idno>
+				</org>
+				<org type="funding" xml:id="_dXXCkdm">
+					<idno type="grant-number">ZR2020KB001</idno>
+				</org>
+				<org type="funding" xml:id="_CpBRwNb">
+					<idno type="grant-number">SEI I202129</idno>
+				</org>
+				<org type="funding" xml:id="_xPBj7fj">
+					<idno type="grant-number">ZR2020KB001</idno>
+				</org>
+				<org type="funding" xml:id="_Xgzk4ad">
+					<idno type="grant-number">51902324</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Data that support the findings of this study are available in Supplementary Data Files in the Supplementary Information section. Source data are provided with this paper.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Research Reporting Summary linked to this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>L.W., G.L.C., and S.P.P. conceived and planned the experiments with additional input from Z.W.W. and Z.P.S. Z.P.L. fabricated all samples and devices, and performed and analyzed the SEM, XRD experiments, the device efficiency, and stability experiments. X.W. performed and analyzed the NMR experiments. L.Z.H., Y.R., C.C., and D.C.L. carried out the gas absorbing and desorbing test. Q.Q.Z. and X.H.S. assisted with film fabrication and optical measurement. C.Y.G. and B.Q.Z. helped to perform and analyze NMR measurements. X.Z.W. helped to perform TRPL measurements. Z.P.L., Z.W.W., and S.P.P. took the lead in drafting the manuscript and compiled the figures. All authors discussed the results and provided feedback on the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41467-022-32047-z">https://doi.org/10.1038/s41467-022-32047-z</ref>. Supplementary Fig. <ref type="figure">1</ref> Schematic illustration of (a) the chemical reaction between FACl and NaOH powders with the gas collection by DMSO-d6, HOAc, or FAI, (b, c) the chemical reactions between amine gases (R-NH2) and FAI salt in (b) dry condition or (c) wet condition. Supplementary Fig. <ref type="figure">2 (</ref> Supplementary Fig. <ref type="figure">5</ref> The 1 H NMR spectrum of reaction products between FACl and NaOH powders under 150 ˚C directly absorbed by DMSO-d6. The peaks were assigned as: s-triazine, δ 9.30(s, -N=CH); formamide, δ 7.96(s, H-C=O), 7.50(br, -N-H), 7.22(br, -N-H); FA, δ 7.41(s, N-HC=N); HDO, δ 3.54 (br, HDO); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">6</ref> The 1 H NMR spectrum (DMSO-d6) of reaction product between FACl and NaOH powders under 150 ˚C absorbed by HOAc (a) and the commercial FAAc for comparison (b). The peaks were assigned as: FAAc, δ 9.94 for (a) and 9.92 for (b)(br, N-H), 7.76(s, N-HC=N), 1.66(s, -CH3); HDO, δ 3.36 for (a)(br, HDO); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">7</ref> The 1 H NMR spectrum (DMSO-d6) of reaction products between FAI powder and FA 0 . The peaks were assigned as: FAI, δ 8.72(br, N-H), 7.85(s, N-HC=N); formamide, δ 7.95(dd, J1 = 1.4 Hz, J2 = 13.5 Hz, H-C=O), 7.43(br, -N-H), 7.15(br, -N-H); HDO, δ 3.54 (br, HDO); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">8</ref> The 1 H NMR spectrum (DMSO-d6) of the reaction product between FAI powder and MA 0 . The peaks were assigned as: DMFAI, δ 8.95(br, N-H), 7.99(s, N-HC=N), 3.03(s, C=N-CH3), 2.79(s, C-N-CH3); MFA, δ 8.00(br, N-H), 2.58(dd, J1 = 0.54 Hz, J2 = 4.8 Hz, N-CH3); MAI, δ 2.37(s, N-CH3); HDO, δ 3.32 (br, HDO); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">9</ref> The 1 H NMR spectrum (DMSO-d6) of reaction products between FAI powder and EA 0 . The peaks were assigned as: DEFAI, δ 9.34(br, N-H), 8.99(br, N-H), 8.02(d, J = 6.72 Hz, N-HC=N), 3.35(q, J = 7.06 Hz, C=N-CH2), 3.18(q, J = 6.40 Hz, C-N-CH2), 1.06(m, N-CH2-CH3); DEFA, δ 8.86(br, N-H), 8.24(s, N-HC=N), 3.26(q, J = 7.20 Hz, C-N-CH2), 1.06(m, N-CH2-CH3); EAI, δ 7.57(br, N-H), 2.78(q, J = 7.24 Hz, C-N-CH2), 1.06 (m, N-CH2-CH3); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">10</ref> The Supplementary Fig. <ref type="figure">12</ref> The 1 H NMR spectrum (DMSO-d6) of reaction product between FAI powder and NH3 with the presence of H2O. The peaks were assigned as: NH4I, δ 7.10(s, N-H); HDO, 3.57(s, HDO); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">13</ref> The 1 H NMR spectrum (DMSO-d6) of reaction product between FAI powder and MA 0 with the presence of H2O. The peaks were assigned as: MAI, δ 7.49(s, N-H), 2.33(s, N-CH3); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">14</ref> The 1 H NMR spectrum (DMSO-d6) of reaction product between FAI powder and EA 0 with the presence of H2O. The peaks were assigned as: EAI, δ 7.57(s, N-H); 2.80(q, J = 7.28 Hz, N-CH2), 1.09(t, J = 7.32 Hz, N-CH2-CH3); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. <ref type="figure">15</ref> The 1 H NMR spectrum (DMSO-d6) of reaction product between FAI powder and H2O gas. The peaks were assigned as: FAI, δ 8.57(s, N-H), 7.85(s, N-CH2), N-HC=N); DMSO-d6 residual peak, δ 2.50. Supplementary Fig. 16 The XRD patterns of α-FAPbI3, δ-FAPbI3, MFAPbI3, DMFAPbI3 and MA-FAPbI3 films (MA-FAPbI3 refers to the MA 0 post healing α-FAPbI3 film). Supplementary Fig. <ref type="figure">20</ref> The solution <ref type="bibr" target="#b14">15</ref> N NMR spectrum (DMSO-d6) of 15 NH3. The peak was assigned as: δ -377.46 ppm, <ref type="bibr" target="#b14">15</ref> N signal in 15 NH3. The 15 N chemical shifts were determined from 1 M urea in DMSO (-303.2 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) as external standard reference. Supplementary Fig. <ref type="figure">21</ref> The solution <ref type="bibr" target="#b14">15</ref> N NMR spectrum (DMSO-d6) of FAI( 15 N). The peak was assigned as: δ -356.33 ppm, <ref type="bibr" target="#b14">15</ref> N signal in FAI ( 15 N). The 15 N chemical shifts were determined from 1 M urea in DMSO (-303.2 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) as external standard reference.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Fig. 17</head><p>Supplementary Fig. <ref type="figure">22</ref> The solution <ref type="bibr" target="#b14">15</ref> N NMR spectrum (DMSO-d6) of FAI• x 15 NH3. The peak was assigned as: δ -265.22 ppm, <ref type="bibr" target="#b14">15</ref> N signal in FAI hydrogen bonded with 15 NH3. The 15 N chemical shifts were determined from 1 M urea in DMSO (-303.2 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) as external standard reference. Supplementary Fig. 23 The solution <ref type="bibr" target="#b14">15</ref> N NMR spectrum (DMSO-d6) of PbI2•x 15 NH3. The peak was assigned as: δ -357.51 ppm, <ref type="bibr" target="#b14">15</ref> N signal of <ref type="bibr" target="#b14">15</ref> NH3 coordinated with Pb(II). The 15 N chemical shifts were determined from 1 M urea in DMSO (-303.2 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) as external standard reference. Supplementary Fig. <ref type="figure">24</ref> The solution <ref type="bibr" target="#b14">15</ref> N NMR spectrum (DMSO-d6) of FAPbI3•x 15 NH3. The peaks were assigned as: δ -259.47 ppm, <ref type="bibr" target="#b14">15</ref> N signal of 15 NH3, which have both coordination interaction and hydrogen bond interaction; -265.02 ppm, <ref type="bibr" target="#b14">15</ref> N signal in FAI hydrogen bonded with 15 NH3; -357.53 ppm, <ref type="bibr" target="#b14">15</ref> N signal of <ref type="bibr" target="#b14">15</ref> NH3 coordinated with Pb(II). The 15 N chemical shifts were determined from 1 M urea in DMSO (-303.2 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) as external standard reference. Supplementary Fig. <ref type="figure">25</ref> The solid-state <ref type="bibr" target="#b14">15</ref> N NMR spectrum of FAPbI3•x 15 NH3. Signals: i, <ref type="bibr" target="#b14">15</ref> N signal in FAI( 15 N) hydrogen-bonded with NH3; ii, <ref type="bibr" target="#b14">15</ref> N signal in 15 NH3 coordinated with PbI2; iii, <ref type="bibr" target="#b14">15</ref>    Supplementary Fig. <ref type="figure">41</ref> UV-vis spectra of the NH3-FACsPbI3, anti-FACsPbI3, anti-FMCsPbI3 and anti-MAPbI3 devices after 320 days storage.</p><p>Supplementary Fig. <ref type="figure">42</ref> Cross-sectional SEM images of the devices after 320 days storage.</p><p>Supplementary Fig. 43 Emission spectrum of the white LEDs used in the stability test.</p><p>Supplementary Table <ref type="table">1</ref> The J-V performance parameters of 50 NH3-FACsPbI3 devices at reverse scan direction. Nature Research wishes to improve the reproducibility of the work that we publish. This form is intended for publication with all accepted papers reporting the characterization of photovoltaic devices and provides structure for consistency and transparency in reporting. Some list items might not apply to an individual manuscript, but all fields must be completed for clarity.</p><p>For further information on Nature Research policies, including our data availability policy, see Authors &amp; Referees.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental design</head><p>Please check: are the following details reported in the manuscript? </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Current-voltage characterization</head><p>Current density-voltage (J-V) plots in both forward and backward direction</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>No</head><p>Provided in the Supplementary Information (Supplementary Figure <ref type="figure">33</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Voltage scan conditions</head><p>For instance: scan direction, speed, dwell times</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Provided in the Section of Perovskite film and Device Characterization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Test environment</head><p>For instance: characterization temperature, in air or in glove box</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Provided in the Section of Perovskite film and Device Characterization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protocol for preconditioning of the device before its characterization</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>There is no protocol for preconditioning of the device before its characterization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stability of the J-V characteristic</head><p>Verified with time evolution of the maximum power point or with the photocurrent at maximum power point; see ref. 7 for details.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Provided in the Section of Perovskite film and Device Characterization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Hysteresis or any other unusual behaviour</head><p>Description of the unusual behaviour observed during the characterization</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Provided in the Supporting Information (Supplementary Figure <ref type="figure">33</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Related experimental data Yes</head><p>No Provided in the Supporting Information (Supplementary Figure <ref type="figure">33</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Efficiency External quantum efficiency (EQE) or incident photons to current efficiency (IPCE)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>No</head><p>Provided in Figure <ref type="figure">3b</ref>.</p><p>A comparison between the integrated response under the standard reference spectrum and the response measure under the simulator</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Provided in the Section of Perovskite film and Device Characterization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>For tandem solar cells, the bias illumination and bias voltage used for each subcell</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>There is no tandem solar cells. Variation of the measured short-circuit current density with the mask/aperture area</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Calibration</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>We have not measured short-circuit current density with aperture area.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Performance certification</head><p>Identity of the independent certification laboratory that confirmed the photovoltaic performance</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>No</head><p>Provided in Supplementary Information (Supplementary Figure <ref type="figure">32</ref>, 38)</p><p>A copy of any certificate(s)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Provide in Supplementary Information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Provided in Supplementary Information (Supplementary Figure <ref type="figure">32</ref>, 38)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Statistics Number of solar cells tested Yes</head><p>No Provided in Supplementary Information (Supplementary Table <ref type="table">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis of the device performance Yes</head><p>No Provided in Supplementary Information (Supplementary Table <ref type="table">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.">Long-term stability analysis Type of analysis, bias conditions and environmental conditions</head><p>For instance: illumination type, temperature, atmosphere humidity, encapsulation method, preconditioning temperature</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Provided in Figure <ref type="figure">3e</ref>, f.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The added data and corresponding discussions are emphasized in the revised manuscript</head><p>Referees' comments:</p><p>Reviewer #2 (Remarks to the Author):</p><p>This is an interesting study which could be useful for the fabrication of large-area FA-based PSCs. The following questions need to be properly before publication.</p><p>1. The authors consider a lower trap density of perovskite films after the treatment simply based on the blue shifted and narrowed PL peaks. However, it would be a bit risky to draw to such a conclusion by just PL data because differences in stoichiometry, thickness as well as other factors would also show an impact on the shape and position of PL spectra. I would recommend to further consolidate the claim of decreased trap density by doing other characterizations, such as pump-probe terahertz or TRMC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>We thank the reviewer for all the helpful comments and suggestions.</p><p>In the revised manuscript, we have added the charge-limited current (SCLC) and  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>The NH 3 gas post healing treatment only refers to the elimination of voids and the reduction of the roughness of the The formation of liquid intermediate phase in the NH 3 gas post healing treatment leads to the structural collapse of raw perovskite film and then rearrangement of the high uniform film as the evaporation of NH 3 . The morphology evolution after the NH 3 post healing is clearly presented in Supplementary Fig. <ref type="figure">35</ref>.</p><p>Supplementary Figure <ref type="figure">35</ref> | Cross-sectional SEM images of (a) Raw FACsPbI 3 and (b) NH 3 -FACsPbI 3 PSCs. 3.I appreciate that the statistics have now been included in the stability data. However, details, such as the number of devices and batches, the definition of the error bars, should be properly described in the figure caption as well.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. The figure caption has been reorganized including all of the contents mentioned above.</p><p>Referee #4 (Remarks to the Author):</p><p>The article Li et al. reports a strategy for fabricating perovskite films using ammonia treatment to induce high uniformity. The authors use NMR to elucidate the mechanism of action of NH 3 and other amines, and fabricate high efficiency and highly stable devices, comparable to those fabricated using conventional antisolvent approaches.</p><p>While the experimental results are of high quality and the authors provide very important insights about the molecular level mechanism of action of the proposed strategy, the reviewer feels that the level of novelty does not warrant publication in Nature Energy, since similar gas healing approaches have previously been proposed, for example, based on methylamine (ref. 17). The work will be of high interest to the broad chemistry readership in another journal, such as Nat. Commun.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>We thank the reviewer for the positive comment on our insight about the molecular level mechanism. There may be a misunderstanding. Our paper was submitted to Nat. Commun., not Nature Energy.</p><p>Before it can be considered for publication, the authors should substantially improve the discussion surrounding the NMR data, since many of the statements are currently given with no explanation or reference, as detailed below: "We think that the high boiling point of FA 0 likely makes FA 0 molecules difficult to diffuse into DMSO-d 6 solvent." -why would boiling point affect solubility of FA 0 ? As a highly polar molecule, formamidine should be well soluble in DMSO. There is no evidence in the data that FA 0 does form. This makes the caption of Table <ref type="table">1</ref> "The synthesis of formamidine (FA 0 ) and chemical reactions between FA 0 /amines/NH 3 gases and FAI salt" and the surrounding discussion unsubstantiated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>"We think that the high boiling point of FA 0 likely makes FA 0 molecules difficult to diffuse into DMSO-d 6 solvent." In this context, we performed the experiment at room temperature (Supplementary Fig. <ref type="figure">1a</ref>), thus, the high boiling point of FA 0 cannot volatilize and diffuse into the DMSO-d 6 solvent as gas. The nonvolatile FA 0 undergoes a hydrolysis reaction in the reactor to produce ammonia (NH 3 ). Thus, only NH 3 signal was detected in the 1 H NMR (Table <ref type="table">1</ref>(No.1) and Supplementary Fig. <ref type="figure">2</ref>). When temperature of the reactor and the gas pipeline is increased to 150 ˚C, FA 0 can volatilize and enter the DMSO-d 6 solvent. At the same time, some volatile by-products also enter the DMSO-d 6 solvent, and the main compounds are detected: s-triazine, formamide and FA 0 (Table1 (No.2) and Supplementary Fig. <ref type="figure">3</ref>). The problem here is whether the FA 0 can volatilize easily and diffuse into the DMSO-d 6 solvent, which does not involve the relationship between boiling point and solubility of FA 0 . Supplementary Figure <ref type="figure">1</ref> | (a) Schematic illustration of the chemical reaction between FACl and NaOH powders with the gas collection by DMSO-d 6 under RT or 150 ˚C There are also a number of issues in the interpretation of the NMR data: the assignment is insufficient, some peaks are not discussed and references are not cited to corroborate the proposed assignments. Please assign each signal to the moiety it corresponds to on a given molecule (rather than simply marking the peaks with asterisks, as one would do for an XRD pattern). As is, the assignments are arbitrary and cannot be treated as valid. Please also label the peak of the residual solvent protons.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the helpful suggestion. We have carefully assigned each signal to the corresponding moiety and relevant references have been cited to corroborate the proposed assignments.</p><p>Extended Data Figure <ref type="figure">3</ref>: 0.70 ppm is suggested to be NH 3 while naively a much larger chemical shift is expected due to the high electronegativity of nitrogen. <ref type="url" target="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805">https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805</ref> indeed shows that NH 4 + resonates around 7 ppm). Please discuss this discrepancy. What is the signal at 3.48 ppm? Increasing the pH, as suggested in the work above, would substantially facilitate interpretation of the spectra in general by narrowing the peaks of exchangeable (NH, OH) protons and evidencing their J-coupling to the neighbouring protons.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the kind suggestion. To prove the generating of NH 3 in the experiment, the NMR spectrum of DMSO-d 6 directly absorbing NH 3 was performed (Supplementary Fig. <ref type="figure">2b</ref>) Extended Data Figure <ref type="figure">4</ref>: FA has either two or three 1 H peaks depending on pH (CH and NH at 8 ppm and between 8-9 ppm, respectively, see Figure <ref type="figure">5</ref> in the work referenced above). The data shown here do not support the presence of FA, as currently assigned. NH 3 in this case is assigned to a peak at 3.54 ppm, in contradiction to Extended Data Figure <ref type="figure">3</ref>. S-triazine and formamide are assigned with no explanation or reference given. Finally, there are a number of peaks in the 7.5-9 ppm region which are not assigned at all.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for your suggestion. Due to the multiple reacting possibility of FA 0 in solution, the products are very complex (Chemical Reviews, 1944, 35, 351-425, doi: 10.1021/cr60112a002). For Supplementary Fig. <ref type="figure">3</ref>, we only assigned the main signals. In the 7.5-9 ppm region, although there are many signals with low peak intensity, which caused by a variety of unstable reaction intermediates, and these signals cannot be completely accurately assigned. We believe that such interpretation of the spectrum does not affect our (<ref type="url" target="https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi">https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi</ref>, the print screen as follow).</p><p>Due to the different deuterium reagents and NMR equipment condition, there are subtle differences in chemical shift values between the reference and our spectra. <ref type="bibr" target="#b0">1</ref> H NMR characterization of commercialized s-triazine and formamide was also carried out under the same test conditions (Figure <ref type="figure">R1</ref>), and our results were matched. The signal at 7.40 ppm was assigned as hydrogen in N-CH=N group of FA 0 . This is because in FA 0 which generates after the deprotonation of FAI, the electron cloud density on hydrogen atom in N-CH=N will increase, and the chemical shift value will move to the high field compared with FAI.</p><p>Furthermore, the HOAc/DMSO solution was used to collect the gas produced in the reaction between FACl and NaOH powders and the NMR spectrum shows the FAAc signal (Supplementary Fig. <ref type="figure">4</ref>), which also supports our interpretation of Supplementary Fig. <ref type="figure">3</ref>.</p><p>Moreover, there was an error in the assignment of the signal at 3.54 ppm in Supplementary Fig. <ref type="figure">3</ref>, and it should be the signal of the HDO. We have revised it in the text and SI. The strong HDO signal indicates there was some water generating from the neutralization reaction. The activity hydrogen with low pKa value (such as N-H in amidines and ammonium) could deuterium exchange with HDO causing its signals unobserved. In addition, the signals of FA in the reference (<ref type="url" target="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805">https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805</ref>) is the NMR data of FAI, which is difference with FA 0 .</p><p>Figure <ref type="figure">R1</ref> The print screen (a, b) and 1 H NMR spectra (c, d) of s-triazine and formamide</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>[REDACTED]</head><p>Extended Data Figure <ref type="figure">5</ref>: Please assign each signal to the corresponding moiety. The peak at 3.2 ppm in panel 'a' is not assigned.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. We have assigned each signal to the corresponding moiety.</p><p>"The peaks were assigned as: FAAc, δ 9.94 for (a) and 9.92 for (b)(br, N-H), 7.76(s, N-HC=N),</p><p>1.66(s, -CH 3 ); HDO, δ 3.36 for (a)(br, HDO); DMSO-d 6 residual peak, δ 2.50. The peak at 3.36 ppm in panel 'a' is assigned to HDO."</p><p>Extended Data Figure <ref type="figure">6</ref>: Please assign each signal to the corresponding moiety. The peak at 3.42 ppm is not assigned.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. We have assigned each signal to the corresponding moiety.</p><p>"The peaks were assigned as: FAI, δ 8.72(br, N-H), 7.85(s, N-HC=N); formamide, δ 7.95(dd, J 1 = 1.4 Hz, J 2 = 13.5 Hz, H-C=O), 7.43(br, -N-H), 7.15(br, -N-H); HDO, δ 3.54 (br, HDO). DMSO-d 6 residual peak, δ 2.50.The peak at 3.42 ppm is assigned to HDO."</p><p>Extended Data Figure <ref type="figure">7</ref>: Please assign each signal to the corresponding moiety. There are a large number of peaks which are not assigned.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. We have assigned each signal to the corresponding moiety.</p><p>"The peaks were assigned as: DMFAI, δ 8.95(br, N-H), 7.99(s, N-HC=N), 3.03(s, C=N-CH 3 ), 2.79(s, C-N-CH 3 ); MFA, δ 8.00(br, N-H), 2.58(dd, J 1 = 0.54 Hz, J 2 = 4.8 Hz, N-CH 3 ); MAI, δ 2.37(s, N-CH 3 ); HDO, δ 3.32 (br, HDO); DMSO-d 6 residual peak, δ 2.50."</p><p>Extended Data Figure <ref type="figure">8</ref>: Please assign each signal to the corresponding moiety and explain the observed J-couplings in the context of the assignment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. We have assigned each signal to the corresponding moiety.</p><p>"The peaks were assigned as: DEFAI, δ 9.34(br, N-H), 8.99(br, N-H), 8.02(d, J = 6.72 Hz, N-HC=N), 3.35(q, J = 7.06 Hz, C=N-CH 2 ), 3.18(q, J = 6. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. We have assigned each signal to the corresponding moiety.</p><p>"Supplementary Figure <ref type="figure">8</ref>: The peaks were assigned as: DPFAI, δ  <ref type="bibr" target="#b14">15</ref> N NMR as the <ref type="bibr" target="#b14">15</ref> N signal in FAI( 15 N) without hydrogen bonding.</p><p>While the interaction between NH 3 and PbI 2 is the intermolecular coordination, which will vary with different phase states. In the solution state, because the solvent DMSO also partially participates in the coordination with PbI 2 , the NH 3 donates less electron cloud density towards PbI 2 . In contrast, in solid state, without DMSO coordination, NH 3 will donate more electron cloud density towards PbI 2 , resulting in its chemical shift value moving to the low field. So, the signal at -343.62 ppm in solid-state <ref type="bibr" target="#b14">15</ref> N NMR was assigned as <ref type="bibr" target="#b14">15</ref> N signal in <ref type="bibr" target="#b14">15</ref> NH 3 coordinated with PbI 2 .</p><p>Extended Data Figure <ref type="figure">19</ref>-23: please assign the reference (urea) signal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. We have assigned the reference (urea) signal in the figure caption of Supplementary Fig. <ref type="figure">18</ref>-22 as follows.</p><p>"The 15 N chemical shifts were determined from 1 M urea in DMSO (-303.2 ppm, 10% <ref type="bibr" target="#b14">15</ref> N labelled) as external standard reference."</p><p>Figure <ref type="figure">1</ref>: regarding "FAI treated with <ref type="bibr" target="#b14">15</ref> NH 3 and vacuumed (FAI( 15 N))" -the authors attribute the <ref type="bibr" target="#b14">15</ref> N peak to <ref type="bibr" target="#b14">15</ref> N-labelled FAI. According to Scheme 1, the reaction of FAI with NH 3 should yield NH 4 I and FA 0 , which is then evacuated. Table <ref type="table">1</ref> and Ext. Data Fig. <ref type="figure">16</ref> show that the reaction product is FAI, but this creates confusion (since Scheme 1 states that R can be equal H). Based on Scheme 1 it is also unclear how the <ref type="bibr" target="#b14">15</ref> N-labelled nitrogen of NH 3 would end up in FAI. Figure <ref type="figure">1c</ref> clarifies this issue but it is still in apparent contradiction to the generality of Scheme 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. According to Scheme 1, there are two reactions between FAI and NH 3 , one is the ion exchange reaction, and another is transimination reaction. The both reactions occur simultaneously. On one hand, the ion exchange reaction is reversible, and there is a dynamic equilibrium process in the formed liquid phase FAI•xNH 3 as shown in Supplementary Fig. <ref type="figure">16(b</ref>). When the liquid phase FAI•xNH 3 was evacuated, the volatile ammonia (NH 3 ) in the system will be greatly reduced and the dynamic equilibrium process will be destroyed and the final product is still FAI powder. On the other hand, during the transimination reaction, one external NH 3 molecular added to imine band in FAI, then the other NH 3 was eliminated from reaction intermediate to form the FAI once again (Figure <ref type="figure">1c</ref> &amp; Scheme 1: R = H). When the external NH 3 is labeled by <ref type="bibr" target="#b14">15</ref> N, it can be seen as a different amine with the unlabeled NH 3 . While the transimination reaction occurring between the FAI and 15 NH 3 , the <ref type="bibr" target="#b14">15</ref> N-labelled FAI will be generated.</p><p>Figure <ref type="figure">1b</ref> also contains a number of peaks which are not assigned (two small peaks in the FAI.xNH 3 spectrum), suggesting that the reaction is more complex. Why is there no signal from the 15 NH 3 species in this case while FAPbI 3 •xNH 3 contains it?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for your suggestion. In FAI•xNH 3 sample, there are a variety of hydrogen bond interaction patterns, including N-H⋯I -hydrogen bond and N-H⋯N hydrogen bond, in which the N-H⋯N hydrogen bond also includes the hydrogen bond between NH 3 -FA or NH 3 -NH 3 .</p><p>The small peaks in the spectrum are the signals of NH 3 under different hydrogen bond patterns. These hydrogen bond patterns are complex and difficult to assign one by one. Here, we only assigned the main signals with strong and relatively fixed chemical shift values in different spectra. In FAPbI 3 •xNH 3 spectrum, the signal at -259.47 ppm is supported as the <ref type="bibr" target="#b14">15</ref> NH 3 signal, which has both coordination interaction and hydrogen bond interaction.</p><p>Corresponding modifications have been revised in manuscript and supporting information.</p><p>"The hydrolysis reactions of FA 0 , RFA 0 and DRFA 0 lead to the formation of volatile HCOOH and RA 0 "-what is this conclusion based on? How was the presence of the volatile products concluded?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. The hydrolysis reactions of FA 0 , RFA 0 and DRFA 0 leading to the formation of volatile HCOOH and RA 0 have been reported in 1890s ). Based on the results of experiment Table1 No. 9-11, there were only RAI product remaining. We supported that FA should degrade to volatile products, and considering the presence of water, we believed the hydrolysis reactions occurring. We have added the above reference in the manuscript.</p><p>"The s-triazine with a boiling point of 114 ˚C is attributed to the transimination reaction of three FA 0 molecules along with the formation of NH 3 " -this is not a transimination reaction but condensation: please refer to <ref type="url" target="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805">https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b09805</ref> </p><p>and the references within (in particular by Schaeffer et al., ref. 20).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for the suggestion. We have noticed that the reaction mechanism of three So, we support that this condensation belongs to transimination reaction.</p><p>Finally, since NMR is not a commonly used technique in the field of halide perovskite fabrication, it would be beneficial to include a brief introduction to its main tenets and differences relative to XRD etc. A few relevant recent reviews on the subject include <ref type="url" target="https://www.nature.com/articles/s41570-021-00309-x">https://www.nature.com/articles/s41570-021-00309-x</ref>  <ref type="url" target="https://pubs.acs.org/doi/abs/10.1021/jacs.0c07338">https://pubs.acs.org/doi/abs/10.1021/jacs.0c07338</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thank you for your kind suggestion. A brief introduction about Nuclear magnetic resonance (NMR) spectroscopy has been added in manuscript as follows.</p><p>"Nuclear magnetic resonance (NMR) spectroscopy is a particularly practical tool for quantifying the relative amounts of the organic cations and related chemical reactions in the perovskite precursor."</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REVIEWER COMMENTS</head><p>Reviewer #2 (Remarks to the Author):</p><p>1. The TRPL data look abnormal to me. The bare perovskite films without charge extraction layer should exhibit mono-exponential decay profile, where the trap-assisted recombination dominates. However, the raw perovskite film clearly displays a bi-exponential characteristic, can you explain?</p><p>2.Both the the raw and post-treated perovskite films were fitted into a bi-exponential decay. Can you explain why fit into bi-exponential? What are the physical meanings of the fast and slow components?</p><p>3.The lifetime were only 132 ns for the treated films, which is much shorter than the previous studies for FACs based perovskites (typically a few hundreds of nanoseconds to microseconds). Any explanation?</p><p>4. I do not see experimental details of the TRPL measurement in the manuscript, which should be added.</p><p>Reviewer #4 (Remarks to the Author):</p><p>The authors have now addressed my queries in full. The results and their analysis are of high quality and warrant publication.</p><p>One final minor comment: there is an issue with the reference numbers in the revised manuscript, please double check.</p><p>"Nuclear magnetic resonance (NMR) spectroscopy is a particularly practical tool for quantifying the relative amounts of the organic cations and related chemical reactions in the perovskite precursor"</p><p>The authors accidentally reference in this sentence the works related to FA degradation (30-33)  whereas the pertinent works would be general review articles providing an overview of the use of NMR in halide perovskite studies, for example: <ref type="url" target="https://www.nature.com/articles/s41570-021-00309-x">https://www.nature.com/articles/s41570-021-00309-x</ref> Supplementary Figure <ref type="figure">30</ref> | (c) Time-resolved photoluminescence decay curves of the Raw and NH 3 -FACsPbI 3 films. The carrier lifetime values were fitted by using the biexponential equation Y = A 1 exp(-t/τ 1 ) + A 2 exp(-t/τ 2 ), where τ 1 and τ 2 denote the fast and slow decay time and are related to the trap-assisted nonradiative and radiative recombination processes, respectively. The films were photoexcited at 405 nm, and emission were collected on the surface side of the film (perovskite/FTO glass substrate).</p><p>4. I do not see experimental details of the TRPL measurement in the manuscript, which should be added.</p><p>Response: Thank you for your considerable suggestion, we have added the experimental details of the TRPL measurement to the section of Perovskite film and Device Characterization. The relevant revision is as follows: "Time-resolved photoluminescence (TRPL) experiments were performed with a Fluorolog using a pulsed source at 405 nm (NanoLED 402-LH from Horiba, pulse width &lt;200 ps, 11 pJ/pulse, approx. 1 mm 2 spot size), and the signal was recorded at 805 nm using the Time-Correlated Single Photon Counting (TCSPC) technique."</p><p>Reviewer #4 (Remarks to the Author):</p><p>The authors have now addressed my queries in full. The results and their analysis are of high quality and warrant publication. One final minor comment: there is an issue with the reference numbers in the revised manuscript, please double check. "Nuclear magnetic resonance (NMR) spectroscopy is a particularly practical tool for quantifying the relative amounts of the organic cations and related chemical reactions in the perovskite precursor"</p><p>The authors accidentally reference in this sentence the works related to FA degradation (30-33)  whereas the pertinent works would be general review articles providing an overview of the use of NMR in halide perovskite </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REVIEWER COMMENTS</head><p>Reviewer #2 (Remarks to the Author):</p><p>1. Regarding the interpretation of TRPL data there is nothing to do with Auger, because the excitation laser fluence is too low for the Auger to kick in. I would also be highly suspicious if the bimolecular recombination would happen at such a low excitaion intensity. I would expect only monomolecular recombination occurred in the film. The authors attribute the fast and slow decays of the TRPL to trap-assisted nonradiative and radiative process, respectively, which should be wrong in this circumstance.</p><p>2. Once again, the PL lifetime is only around 100 ns which usually observed in defective films, but seems to be unusual for the high efficiency perovskite films as the authors reported. I suggest the authors to remeasure the TRPL data to double check if the measurements were properly carried out.</p><p>Reviewer #2 (Remarks to the Author):</p><p>1. Regarding the interpretation of TRPL data there is nothing to do with Auger, because the excitation laser fluence is too low for the Auger to kick in. I would also be highly suspicious if the bimolecular recombination would happen at such a low excitaion intensity. I would expect only monomolecular recombination occurred in the film. The authors attribute the fast and slow decays of the TRPL to trap-assisted nonradiative and radiative process, respectively, which should be wrong in this circumstance.</p><p>2. Once again, the PL lifetime is only around 100 ns which usually observed in defective films, but seems to be unusual for the high efficiency perovskite films as the authors reported. I suggest the authors to remeasure the TRPL data to double check if the measurements were properly carried out.</p><p>Response: Thank you for your kind suggestion. The data in the old version may be insufficient due to the decomposition of the sample during mailing process. We remeasured the TRPL data and relevant TRPL results in Supplementary Figure <ref type="figure">30c</ref> have been revised. The lifetime of the Raw and NH3-FACsPbI3 films was fitted into 20.49 μs and 41.34 μs, respectively. The relevant revision is as follows: "The reduced defect density is also evidence by the charge-limited current (SCLC) and timeresolved photoluminescence (TRPL) results in Supplementary Fig. <ref type="figure">30</ref>. The calculated defect density from the SCLC curves decreases from 3.97 × 10 16 to 9.62 × 10 15 cm -3 . And the TRPL results show that the NH3-FACsPbI3 film has a much longer lifetime (τ=41.34 μs) than the Raw FACsPbI3 film (τ=20.49 μs)." Supplementary Figure <ref type="figure">30 | (c</ref>  How are the lifetimes extracted from the TRPL? It seems the lifeimtes are determined simply by the time to ground state which is wrong. Besides, to my knowledge, I have never seen lifetimes of tens of microseconds reported. If the lifetime is actually that long, the defect density in the films should be very low. However, from the SCLC, the defect density is around 10E16 which is very high. The results are not coherent.</p><p>Dear reviewer 2#, Q: How are the lifetimes extracted from the TRPL? It seems the lifeimtes are determined simply by the time to ground state which is wrong. Besides, to my knowledge, I have never seen lifetimes of tens of microseconds reported. If the lifetime is actually that long, the defect density in the films should be very low. However, from the SCLC, the defect density is around 10E16 which is very high. The results are not coherent.</p><p>A: Thanks for your comments. We further checked and recalculated the lifetimes of TRPL, finding an error for the fitting value in the last version. We are very sorry about it. Now we corrected the lifetimes that are 3.2 and 5.6 μs for the Raw FACsPbI3 and NH3-FACsPbI3, in the revised manuscript, respectively. We are really grateful for your comment and reminding. We hope that the revised version can meet the strict requirements and high standards of Nature Communications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Best, Shuping Pang</head><p>Further Editorial Questions： -what were the previous errors you found regarding TRPL/SCLC/lifetimes; -how were the errors addressed; -step-by-step methodological process from acquiring the data, processing, analysis, and the calculations performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response:</head><p>Thanks for giving us an opportunity to explain our errors in the last revised manuscript.</p><p>There are two errors. One is that we used the bi-exponential fitting instead of the monoexponential fitting, and the other is the error in unit conversion.</p><p>In the last revised manuscript, the wrong statement is "the TRPL results show that the NH3-FACsPbI3 film has a much longer lifetime (τ=41.34 μs) than the Raw FACsPbI3 film (τ=20.49 μs)". The lifetime was calculated by bi-exponential fitting with the average lifetimes are of 4314 ns and 2049 ns for the perovskite films after and before NH3 healing. Therefore, the lifetime should be 4.134 μs and 2.049 μs, but not 41.34 μs and 20.49 μs. The error happened in the unit conversion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Former processing:</head><p>The TRPL original data is mapped by Origin software, and fitted with the Expdec2  As the reviewer suggested before, the lifetime should be calculated by monoexponential fitting of the perovskite film without charge extraction layer (the previous comment is as follows).</p><p>Here, the same curves have been calculated as the reviewer suggested by the monoexponential fitting (y / ) as demonstrated in Figure <ref type="figure">R2</ref>, and the lifetimes value are 3.2 and 5.6 μs for the Raw FACsPbI3 and NH3-FACsPbI3 films, respectively. For the small-area cell, the authors provided certified efficiency, however, the certified efficiency is 1% lower than the lab-measured one. If the discrepancy still exists or even amplified for large-area modules remain uncertain. Considering the champion efficiency to date have achieved 25.7% for small-area nip structured cells, the 22% certified efficiency reported in this work is not very high. In this sense, the large-area modules would be critical important to justify the importance of the work. I recommend to include certified efficiency of the fabricated modules in the paper.</p><p>Response: We certified the modules and obtained a certified efficiency of 19.38% on an active area of 14 cm 2 .</p><p>The corresponding report is provided in the supporting information (Supplementary Fig. <ref type="figure">38</ref>). [REDACTED]</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Teshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shirai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="6050" to="6051" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<ptr target="https://www.nrel.gov/pv/cell-efficiency.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Research-Cell Efficiency Records NREL</title>
+		<imprint>
+			<date type="published" when="2021-06-07">June 7, 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The emergence of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ho-Baillie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="506" to="514" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Solvent engineering for high-performance inorganic-organic hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="897" to="903" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Sequential deposition as a route to highperformance perovskite-sensitized solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Burschka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">499</biblScope>
+			<biblScope unit="page" from="316" to="319" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Surface passivation of perovskite film for efficient solar cells</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="460" to="466" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Understanding of perovskite crystal growth and film formation in scalable deposition processes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="1653" to="1687" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The additive coordination effect on hybrids perovskite crystallization and high-performance solar cell</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="9862" to="9868" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">High-performance photovoltaic perovskite layers fabricated through intramolecular exchange</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="1234" to="1237" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Influence of solvent coordination on hybrid organic-inorganic perovskite formation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hamill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-L</forename><surname>Loo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="92" to="97" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Understanding the solution chemistry of lead halide perovskites precursors</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Radicchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mosconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Elisei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nunzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>De Angelis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="3400" to="3409" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Investigation on crystallization of CH 3 NH 3 PbI 3 perovskite and Its intermediate phase from polar aprotic solvents</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cryst. Growth Des</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="959" to="965" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Highly efficient and stable perovskite solar cells based on monolithically grained CH 3 NH 3 PbI 3 film</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Fei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1602017</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Toward all room-temperature, solution-processed, high-performance planar perovskite solar cells: a new scheme of pyridine-promoted perovskite formation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1604695</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Engineering halide perovskite crystals through precursor chemistry</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Binks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">1903613</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Control of crystal growth toward scalable fabrication of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1807047</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Methylamine-gas-induced defect-healing behavior of CH 3 NH 3 PbI 3 thin films for perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">M</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="9705" to="9709" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Trash into treasure: δ-FAPbI 3 polymorph stabilized MAPbI 3 perovskite with power conversion efficiency beyond 21%</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1707143</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A nonionic and low-entropic MA(MMA) n PbI 3 -ink for fast crystallization of perovskite thin films</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="615" to="630" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Nonstoichiometric acid-base reaction as reliable synthetic route to highly stable CH 3 NH 3 PbI 3 perovskite film</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Long</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">13503</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Gas-solid reaction based over one-micrometer thick stable perovskite films for efficient solar cells and modules</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">3880</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A low viscosity, low boiling point, clean solvent system for the rapid crystallisation of highly specular perovskite films</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Noel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="145" to="152" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Transformative evolution of organolead triiodide perovskite thin films from strong room-temperature solid-gas interaction between HPbI 3 -CH 3 NH 2 precursor pair</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="750" to="753" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">2D perovskite stabilized phase-pure formamidin ium perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">3021</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Vapor-assisted deposition of highly efficient, stable black-phase FAPbI 3 perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page">74</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Cesium-containing triple cation perovskite solar cells: improved stability, reproducibility and high efficiency</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1989" to="1997" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Entropic stabilization of mixed A-cation ABX 3 metal halide perovskites for high performance perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="656" to="662" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Multifunctional molecular modulators for perovskite solar cells with over 20% efficiency and high operational stability</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">4482</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Formamidinium and cesium hybridization for photo-and moisture-stable perovskite solar cell</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1501310</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Synthesis of the sym-triazine system. I. trimerization and cotrimerization of amidines</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Schaefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hechenbleikner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P</forename><surname>Wystrach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="1466" to="1470" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Interfaces in metal halide perovskites probed by solid-state NMR spectroscopy</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Dahlman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kubicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N M</forename><surname>Reddy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="19206" to="19244" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">NMR spectroscopy probes microstructure, dynamics and doping of metal halide perovskites</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kubicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Grey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Emsley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Chem</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="624" to="645" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Perovskite solution aging: what happened and how to inhibit?</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1369" to="1378" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Fast transimination in organic solvents in the absence of proton and metal catalysts. A key to imine metathesis catalyzed by primary amines under mild conditions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ciaccia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cacciapaglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mencarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mandolini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Di Stefano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Sci</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="2253" to="2261" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The chemistry of the amidines</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Shriner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Neumann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="351" to="425" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Films and crystalline powder of PbI 2 intercalated with ammonia and pyridine</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Preda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Sci.: Mater. Electron</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="465" to="470" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Solvent annealing of perovskite-induced crystal growth for photovoltaic-device efficiency enhancement</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="6503" to="6509" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Electron-hole diffusion lengths &gt;175 μm in solution-grown CH3NH3PbI3 single crystals</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="967" to="970" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Lead halide-templated crystallization of methylaminefree perovskite for efficient photovoltaic modules</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="1327" to="1332" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Stabilizing perovskite-substrate interfaces for high-performance perovskite modules</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="902" to="907" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A simple one-step method with wide processing window for high-quality perovskite mini-module fabrication</title>
+		<author>
+			<persName><forename type="first">H.-H</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="958" to="974" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Solvent effects on nitrogen chemical shifts</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-C</forename><forename type="middle">C</forename><surname>Carlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nekoueishahraki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Brath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Erdélyi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rep. NMR Spectrosc</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="73" to="210" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Chemical shift standards in highresolution solid-state NMR (2) 15 N nuclei</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayamizu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Chem. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="688" to="690" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Inhibiting ion migration by guanidinium cation doping for efficient perovskite solar cells with enhanced operational stability</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sol. RRL</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">220003</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

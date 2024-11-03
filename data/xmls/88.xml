@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Molecular Doping Enabled Scalable Blading of Efficient Hole-Transport-Layer-Free Perovskite Solar Cells</title>
+				<funder ref="#_eNJarxK #_QdgczUd">
+					<orgName type="full">Office of Naval Research</orgName>
+				</funder>
+				<funder ref="#_Rd7DfPR #_qA79Ru9">
+					<orgName type="full">National Science Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Wu-Qiang</forename><surname>Wu</surname></persName>
+							<idno type="ORCID">0000-0001-5414-5668</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Qi</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physical Sciences</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<postCode>27599</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yanjun</forename><surname>Fang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physical Sciences</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<postCode>27599</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuchuan</forename><surname>Shao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physical Sciences</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<postCode>27599</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shi</forename><surname>Tang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yehao</forename><surname>Deng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physical Sciences</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<postCode>27599</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Haidong</forename><surname>Lu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ye</forename><surname>Liu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tao</forename><surname>Li</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhibin</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physical Sciences</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<postCode>27599</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexei</forename><surname>Gruverman</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physics and Astronomy</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Jinsong</forename><surname>Huang</surname></persName>
+							<email>jhuang@unc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Applied Physical Sciences</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<postCode>27599</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of Nebraska-Lincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>NE</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Molecular Doping Enabled Scalable Blading of Efficient Hole-Transport-Layer-Free Perovskite Solar Cells</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C9FD808F8E3AE88AEA77B61A435FC11B</idno>
+					<idno type="DOI">10.1038/s41467-018-04028-8</idno>
+					<note type="submission">Received: 23 November 2017 Accepted: 27 March 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The efficiencies of perovskite solar cells (PSCs) are now reaching such consistently high levels that scalable manufacturing at low cost is becoming critical. However, this remains challenging due to the expensive hole-transporting materials usually employed, and difficulties associated with the scalable deposition of other functional layers. By simplifying the device architecture, hole-transport-layer-free PSCs with improved photovoltaic performance are fabricated via a scalable doctor-blading process. Molecular doping of halide perovskite films improved the conductivity of the films and their electronic contact with the conductive substrate, resulting in a reduced series resistance. It facilitates the extraction of photoexcited holes from perovskite directly to the conductive substrate. The bladed hole-transport-layerfree PSCs showed a stabilized power conversion efficiency above 20.0%. This work represents a significant step towards the scalable, cost-effective manufacturing of PSCs with both high performance and simple fabrication processes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S</head><p>ince their first report in 2009, halide perovskite solar cells (PSCs) have attracted enormous interest as emerging lightto-electricity conversion optoelectronic devices with both high efficiency and ease of solution processability <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref> . To date, the power conversion efficiencies (PCEs) of solution-processed PSCs have been certified at well above 20% <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref> . However, all topperforming PSCs were fabricated by a spin-coating method which is unsuitable for high throughput and scalable module production. Several scalable film deposition techniques have been developed for PSC fabrication, such as doctor-blading <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> , spray deposition <ref type="bibr" target="#b10">11</ref> , slot-die coating <ref type="bibr" target="#b11">12</ref> , solution printing <ref type="bibr" target="#b12">13</ref> , and electrodeposition <ref type="bibr" target="#b13">14</ref> . In particular, doctor-blade coating with a controlled substrate temperature has gained most success in depositing highquality perovskite films with large grains and controllable optoelectronic properties <ref type="bibr" target="#b14">15</ref> . Moreover, blade coating has great potential to be scaled up for roll-to-roll fabrication. Encouragingly, the PCEs of PSCs with bladed perovskite layers have steadily increased to above 19%, approaching the levels of their spin-coated counterparts <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b15">16</ref> .</p><p>A next step towards the scalable fabrication of PSCs is to coat the charge transport layers by scalable processes. However, the existing multiple-layer device structures, either p-i-n or n-i-p structures with a hole transport layer (HTL), perovskite, and electron transport layer (ETL), impose a great challenge on the scalable fabrication of PSCs in a cost-effective manner <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref> . First, high-performance organic hole-transporting materials, such as 2,2′,7,7′-Tetrakis[N,N-di(4-methoxyphenyl)amino]-9,9′-spirobifluorene (spiro-OMeTAD), are much more expensive than perovskite materials. Second, for the devices with p-i-n structure, it is difficult to blade-coat perovskite films onto a hydrophobic HTL, e.g., poly(bis(4-phenyl)(2,4,6-trimethylphenyl)amine) (PTAA), while a hydrophilic HTL, e.g., NiO x , is difficult to form on plastic substrates at low temperature, nor can easily be coated at optimal thickness and electronic quality to achieve the highest device efficiency. Hence, we believe that the elimination of the HTL from the PSC device architecture can be an effective way to solve this challenge. By reducing one step of the standard coating process, at least one third of the manufacture cost and time can be saved, in addition to savings of material cost for the HTL.</p><p>The reported ambipolar charge transport characteristics of halide perovskite materials endow them with great potential to construct PSCs with simplified device architecture, such as HTLfree PSCs with either conventional or inverted structure <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref> . Yet, a critical challenge for HTL-free PSCs is the ineffective hole collection by indium tin oxide (ITO) because of mismatched work functions between ITO and the perovskite, which generally causes significant efficiency loss <ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref> . In addition, the construction of HTL-free devices by the blade-coating method faces more challenges due to rougher and more non-uniform perovskite films, than do those prepared by spin-coating with the antisolvent method.</p><p>Here we report a molecular-doping strategy for a perovskite layer to doctor-blade HTL-free PSCs with a simplified device structure of ITO/perovskite/ETL/Cu. Doping methylammonium lead iodide (MAPbI 3 ) films with 2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane (F4TCNQ), a strong electron-withdrawing molecule, leads to a modified ITO/MAPbI 3 interface with favorable band bending, which facilitates the extraction of photoexcited holes from perovskite to ITO electrode. Combining additive engineering and solvent annealing, high-quality MAPbI 3 films are obtained with full surface coverage, micrometer-sized grains, and improved crystallinity. By employing a bladed and doped MAPbI 3 film as the photoactive layer in a HTL-free device structure, a stabilized PCE over 20.0% with almost no J-V hysteresis is obtained.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Perovskite films fabrication and molecular doping. The MAPbI 3 perovskite films were directly deposited onto blank ITO glass substrates by a previously reported doctor-blading method <ref type="bibr" target="#b8">9</ref> , which is schematically illustrated in Fig. <ref type="figure" target="#fig_0">1a</ref>. Before blade coating, the ITO substrates were cleaned by a UV-ozone treatment to improve their wettability to perovskite solution <ref type="bibr" target="#b22">23</ref> . MAPbI 3 precursor dissolved in N,N-diethylformamide (DMF) containing ptype dopant (F4TCNQ) was dripped onto substrates which were heated at 150 °C, followed by a quick blading process to spread the solution onto the substrates. After blading, the perovskite precursor solution dried in a few seconds, and the substrates were quickly removed from the hot plate and annealed at 100 °C for varied durations. The bladed perovskite films showed thicknesses of 500 ± 20 nm from cross-sectional imaging (Fig. <ref type="figure" target="#fig_0">1b</ref>) by scanning electron microscopy (SEM). To implement molecular doping of the perovskite layer, F4TCNQ with chemical structure shown in Fig. <ref type="figure" target="#fig_0">1a</ref> was dissolved in DMF separately, and then added to the as-prepared MAPbI 3 precursor solution. Perovskite films made without or with F4TCNQ were denoted as MAPbI 3 or MAPbI 3 :F4TCNQ, respectively.</p><p>The doping of perovskite is expected to change the work function of the films. Kelvin probe force microscopy (KPFM) was used to determine the surface potential change of perovskite films upon F4TCNQ mixing. In addition to direct mixing of F4TCNQ and MAPbI 3 in precursor solution, MAPbI 3 :F4TCNQ was prepared by solid diffusion via heating F4TCNQ powder on MAPbI 3 and then removing the excess F4TCNQ. The topography and contact potential difference (CPD) images of pristine MAPbI 3 and MAPbI 3 :F4TCNQ films by either standard solution mixing or solid diffusion are shown in Fig. <ref type="figure" target="#fig_0">1c-h</ref>. For better comparison, the three CPD images are flattened and presented in the same color scale, while the histograms of the absolute CPD values of the three types of films are plotted in Fig. <ref type="figure" target="#fig_0">1i</ref>. The pure MAPbI 3 film has coarse grains and uniform CPD distribution (Fig. <ref type="figure" target="#fig_0">1c,</ref><ref type="figure">f</ref>). In contrast, solution mixed MAPbI 3 :F4TCNQ film, in which uniform doping is expected, has fine grains and greater heterogeneity of the CPD distribution (Fig. <ref type="figure" target="#fig_0">1d,</ref><ref type="figure">g</ref>). For the sample with solid-diffused F4TCNQ, some small F4TCNQ particles were placed on top of a MAPbI 3 film, and the CPD imaging was conducted around the edge (the green color line as indicated in Fig. <ref type="figure" target="#fig_0">1h</ref>) to include both neat and doped perovskite regions. Such method leads to a clear edge between diffused and undiffused regions that can be visualized in the CPD image (Fig. <ref type="figure" target="#fig_0">1h</ref>), thus the CPD heterogeneity is even higher. The change of absolute CPD caused by F4TCNQ doping is clearly demonstrated in Fig. <ref type="figure" target="#fig_0">1i</ref>. A decrease of surface potential or in other words an increase of work function was observed for the MAPbI 3 :F4TCNQ films, irrespective of direct mixing or solid diffusion. The increase of heterogeneity for the MAPbI 3 :F4TCNQ films is also reflected in the broadening of the curves. This confirmed p-type doping of MAPbI 3 by F4TCNQ. Specifically, after the addition of electronwithdrawing F4TCNQ molecule to the MAPbI 3 , owing to the deep lowest unoccupied molecular orbital (LUMO) level of F4TCNQ, electrons in the valance band of MAPbI 3 can be thermally activated into the LUMO level of F4TCNQ, which leaves holes in MAPbI 3 and thus causes its p-doping (Fig. <ref type="figure" target="#fig_0">1j</ref>). As a result, the hole concentration in the MAPbI 3 film increased. The carrier concentration change upon F4TCNQ doping has been evaluated by analyzing the dark capacitance vs. voltage (C-V) characteristics of the perovskite devices (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>). Charge density profiles were extracted from the C-V curves using Mott-Schottky analysis <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27</ref> . The carrier concentration in the perovskite layer was calculated to be 0.6 × 10 16 cm -3 in the neat MAPbI 3 film which increased to 2.4 × 10 16 cm -3 after the addition of 0.03 wt% F4TCNQ. This molecular p-type doping strategy enabled the fabrication of an HTL-free PSC with a simplified device configuration but still effective p-n heterojunction (i.e., p-doped perovskite and n-type ETL), and thus enhanced device performance.</p><p>Electronic properties of doped perovskite films. The electronic properties of the MAPbI 3 :F4TCNQ films were investigated by comparing their current density-voltage (J-V) characteristics with pristine MAPbI 3 films deposited on glass substrates in the dark condition. The lateral conductivity was measured across gold electrodes spaced 100 µm apart (Fig. <ref type="figure" target="#fig_1">2a</ref>). As shown in Fig. <ref type="figure" target="#fig_1">2b</ref>, the MAPbI 3 :F4TCNQ film exhibited a nearly tenfold increase in conductivity over the neat MAPbI 3 film, which confirmed that F4TCNQ doped MAPbI 3 . The charge transfer from MAPbI 3 to F4TCNQ is expected to cause quenching of photoluminescence (PL) from the MAPbI 3 layer, which was measured by using time-resolved photoluminescence (TRPL) decay for MAPbI 3 films deposited on glass substrates (Fig. <ref type="figure" target="#fig_1">2c</ref>). The MAPbI 3 :F4TCNQ prepared on glass substrate showed a PL lifetime of 65 ns, which is fourfold shorter than the PL lifetime of pristine MAPbI 3 film (268 ns) on glass.</p><p>The relative large molecular size of F4TCNQ likely prevents its integration into the lattice of MAPbI 3 . Therefore, we speculate that F4TCNQ molecules most probably remain at the grain boundary (GB) regions of perovskite films and/or perovskite/ electrode interfaces. To determine the lateral distribution of F4TCNQ molecules, the local dark conductivity at grains and GBs was measured using conducting atomic force microscopy (c-AFM). Figure <ref type="figure" target="#fig_1">2d</ref> illustrates the c-AFM setup, where the microscope tip was positioned at locations randomly chosen from topographic AFM images (Fig. <ref type="figure" target="#fig_1">2e,</ref><ref type="figure">g</ref>). The tip bias was scanned in the range to -2.0 V at a rate of 0.14 V s -1 . For the neat MAPbI 3 film, the dark currents were similar at the grain and GB regions (Fig. <ref type="figure" target="#fig_1">2f</ref> and Supplementary Fig. <ref type="figure" target="#fig_1">2a,</ref><ref type="figure">b</ref>), which is in accordance with previous reporting <ref type="bibr" target="#b27">28</ref> . In sharp contrast, the dark currents measured at the GB regions of the MAPbI 3 :F4TCNQ film were notably higher (Fig. <ref type="figure" target="#fig_1">2h</ref> and Supplementary Figs. <ref type="figure" target="#fig_1">2c,</ref><ref type="figure">d</ref>), elucidating the remarkably improved conductivity at the GB region after molecular doping of MAPbI 3 by F4TCNQ. At the regions close to GBs, the F4TCNQ molecules and MAPbI 3 undergo charge transfer, leading to an increase in carrier density in MAPbI 3 and thus the enhanced dark conductivity <ref type="bibr" target="#b28">29</ref> .</p><p>Morphologies and crystallinities of perovskite films. Highquality perovskite films with large grains, high crystallinity and complete surface coverage are also crucial to achieving high-  <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> . Figure <ref type="figure" target="#fig_2">3a,</ref><ref type="figure">b</ref> show representative SEM images of the bladed perovskite films after optimization, which featured a uniform morphology that extended hundreds of micrometers. The perovskite domains were densely packed together, and without observable voids at domain boundaries (Fig. <ref type="figure" target="#fig_2">3a</ref>). It should be noted that these domains are not single crystalline grains. Each micrometer-scale convection domain was comprised of micro-sized grains ranging from 800 to 1700 nm (average above 1 μm, Fig. <ref type="figure" target="#fig_2">3b</ref>). Photovoltaic performances of doped perovskite devices. The impact of molecular doping by F4TCNQ on photovoltaic performance was investigated in detail. As illustrated in Fig. <ref type="figure" target="#fig_2">3c</ref>, inverted HTL-free PSCs were fabricated with a device configuration of ITO/MAPbI 3 :F4TCNQ/ETL/Cu. The corresponding photovoltaic performances for PSCs based on different F4TCNQ concentrations have been displayed in the Supplementary Table <ref type="table" target="#tab_0">1</ref>, which indicated the optimal F4TCNQ concentration was 0.03 wt%. Figure <ref type="figure" target="#fig_2">3d</ref> shows the current density vs. voltage (J-V) characteristics of PSCs based on the pristine MAPbI 3 films and MAPbI 3 :F4TCNQ films (with 0.03 wt% F4TCNQ), with photovoltaic parameters summarized in Table <ref type="table" target="#tab_0">1</ref>. The reference PSC without F4TCNQ (i.e., MAPbI 3 ) exhibited a poor PCE of just 11.0%, which is in accordance with that of most reported HTL-free PSCs <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> . Surprisingly, with the addition of F4TCNQ, notable concurrent enhancements of the J sc , V oc , and FF have been achieved. The champion cell based on MAPbI 3 :F4TCNQ film achieved the highest PCE of 20.2%, with a J sc of 22.7 mA cm -2 , a V oc of 1.10 V, and a FF of 0.81. To the best of our knowledge, this is the record efficiency for the bladed PSCs in the absence of HTLs. For comparison, the PSC based on the PTAA HTL and undoped MAPbI 3 layer has been fabricated, which showcases a PCE of 19.5%, along with a J sc of 22.1 mA cm -2 , a V oc of 1.12 V, and a FF of 0.79. This result is in good agreement with our previous reports <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b15">16</ref> . It is worth noting that the demonstrated HTL-free device showed similar or even better photovoltaic performance, highlighting the effectiveness of such a doping strategy for constructing high-performance PSCs with not only a simpler structure, but also less deposition steps and lower material cost. The J-V curves of MAPbI 3 :F4TCNQ-based device were measured in both reverse and forward scan modes at a scan rate of 0.1 V s -1 , and almost no hysteresis was observed (Supplementary Fig. <ref type="figure">8</ref>). Figure <ref type="figure" target="#fig_2">3e</ref> shows the stabilized photocurrent density of this device as measured at 0.93 V, giving a stabilized PCE exceeding 20.0% under continuous light soaking. This high stabilized PCE output is among the best record for HTL-free PSCs, and is quite remarkable given that the device is prepared using a scalable fabrication method. Figure <ref type="figure" target="#fig_2">3f</ref> shows the external quantum efficiency (EQE) of the champion device. The integrated J sc from the EQE measurement agreed well with the J sc values measured under AM 1.5 G one sun illumination (Fig. <ref type="figure" target="#fig_2">3d</ref>). The fabrication procedure was repeated to confirm the reliability and reproducibility of the results. The PCE histogram was collected from 30 independent cells (Fig. <ref type="figure" target="#fig_2">3g</ref>), revealing that more than 73% of the cells had PCEs above 18.0%, and more than 93% had PCEs higher than 17.0% under one sun illumination. A study of the stability for the devices with or without HTL has been conducted.  The devices were stored under ambient conditions (where humidity and temperature were about 20% and 25 °C, respectively) without any encapsulation. As compared to the devices with HTL, the HTL-free device exhibits a slightly better stability, which maintained over 92% of its initial PCE after storage for 500 h (Supplementary Fig. <ref type="figure">9</ref>). It is noted from Fig. <ref type="figure" target="#fig_2">3d</ref> and Table <ref type="table" target="#tab_0">1</ref> that the almost twofold efficiency enhancement in the F4TCNQ-doped devices primarily originates from the remarkable FF increase. Further analysis of the J-V curves in Fig. <ref type="figure" target="#fig_2">3d</ref> revealed that F4TCNQ doping of the perovskite layer significantly reduced device series resistance (R s ) from 25.6 Ω cm 2 for undoped device to 2.6 Ω cm 2 for doped device. The influence of R s on device FF has been well established in diode based solar cells <ref type="bibr" target="#b31">32</ref> , according to the classical equation based on diode equation:</p><formula xml:id="formula_0">I ¼ I L À I 0 exp qðV þ IR s Þ nkT<label>ð1Þ</label></formula><p>where I is the device output current, I L is the maximum light generated current, I 0 is saturated dark current, R s is series resistance, n is ideal factor, k is Boltzmann constant, T is temperature. Assuming a diode ideal factor of 1, the FFs for the undoped and doped devices were calculated to be 53% and 83% from Eq. ( <ref type="formula" target="#formula_0">1</ref>), which are very close to measured values of 56% and 81%, respectively. This indicates the increased FF for the devices with doped MAPbI 3 is mainly caused by the reduction of the series resistance. To find out the origin of reduced series resistance by F4TCNQ doping, energy level diagrams are constructed and shown in Fig. <ref type="figure" target="#fig_3">4</ref> for the perovskite/ITO interface with or without F4TCNQ doping. Here the energy levels were extracted from the literature for the films made with same composition and similar method <ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b33">34</ref> . For undoped MAPbI 3 , the Fermi level of pristine MAPbI 3 (nearly intrinsic) is slightly lower than that of ITO (-4.7 eV) <ref type="bibr" target="#b33">34</ref> . The Fermi level lines up during contact formation and causes a downward band-bending in MAPbI 3 , which forms a barrier for hole extraction from MAPbI 3 to ITO (Fig. <ref type="figure" target="#fig_3">4a</ref>). This would also increase the possibility of charge recombination and increase series resistance at the ITO/ perovskite interface. In contrast, the incorporation of F4TCNQ in the MAPbI 3 films turns the MAPbI 3 to more p-type, particularly at the interface of ITO and MAPbI 3 , which should avert band-bending direction (Fig. <ref type="figure" target="#fig_3">4b</ref>). This was confirmed by surface potential measurement that the F4TCNQ doping can increase work function of perovskite by ~0.1 to 0.2 eV (Fig. <ref type="figure" target="#fig_0">1i</ref>).</p><p>As is shown in Fig. <ref type="figure" target="#fig_3">4b</ref>, the F4TCNQ doping results in an upward band bending at the ITO/MAPbI 3 :F4TCNQ interface. In this case, the hole transfer from F4TCNQ-doped MAPbI 3 to ITO is thus facilitated, resulting in a reduced series resistance to increase FF <ref type="bibr" target="#b34">35</ref> . The diode Eq. ( <ref type="formula" target="#formula_0">1</ref>) predicts that R s variation has no influence on device V oc , while in our case, the F4TCNQ doping increased device V oc from 1.00 to 1.10 V. This discrepancy indicates there is another factor, in addition to R s , which leads to the V oc enhancement. To find out the reason, a transient photovoltage spectroscopy (TPV) measurement was also carried out to understand the charge carrier recombination dynamics. As shown in Supplementary Fig. <ref type="figure" target="#fig_0">10</ref>, the MAPbI 3 :F4TCNQ-based PSC had a longer carrier lifetime (0.69 μs) than the reference device based on neat MAPbI 3 (0.30 μs) under one sun illumination. This result was consistent with the larger V oc for the device with doping. The observed carrier recombination lifetime enhancement could be a result of band-bending configuration change due to doping, though there may be other reasons that may also change the carrier recombination lifetime. For instance, for the device with undoped MAPbI 3 , the retarded hole extraction would increase the possibility of charge recombination, because they cannot be effectively extracted out.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We demonstrated how molecular doping influences the series resistance and interfacial charge transfer within HTL-free PSC devices with or without F4TCNQ incorporated in the perovskite layer. In the absence of HTL, both the electrons and holes can transport to the ITO/perovskite interface and recombine there, leading to serious interfacial charge recombination and thus inferior charge collection <ref type="bibr" target="#b35">36</ref> . In addition, the mismatched work functions between perovskite and ITO would induce an undesirable energy barrier that leads to inferior hole transfer. These situations are all very detrimental to device performance. Molecular doping of perovskite by F4TCNQ to some extent induces favorable interfacial band bending, which allows efficient transport of holes at ITO/perovskite interface (Fig. <ref type="figure" target="#fig_3">4b</ref>) <ref type="bibr" target="#b34">35</ref> .</p><p>Choosing an appropriate p-type dopant with proper molecular size and selected surface hydrophility with ITO substrate is promising to further improve the ITO/perovskite interfacial affinity. Owing to the larger molecular size of F4TCNQ than the interstitial sites in perovskite structure, the F4TCNQ concentrated at the grain boundary regions. The dopant assisted with charge dissociation and thus resulting in more balanced transfer of electrons and holes to their respective electrodes, which decreased the possibility of the charge carrier recombination. We found the charge trap density within MAPbI 3 :F4TCNQ-based PSC was even slightly smaller than its pristine MAPbI 3 counterpart (Supplementary Fig. <ref type="figure" target="#fig_0">11</ref>). It has been demonstrated that the trap sites within the organic semiconductors can be reduced due to partial filling by doping, typically at very low doping levels <ref type="bibr" target="#b36">37</ref> .</p><p>In summary, an additive-assisted strategy for p-type molecular doping of solution-bladed perovskite films was demonstrated. F4TCNQ-doped MAPbI 3 films show increased electrical conductivity, especially at grain boundary regions, and increased charge carrier concentrations. The incorporation of F4TCNQ in perovskite layers could modify the ITO/perovskite interface with reduced series resistance, which could be attributed to the favorable interfacial band bending for facilitated hole transfer and extraction from perovskite to ITO. The simple but effective approach enabled the scalable fabrication of HTL-free PSC devices with a simplified device geometry. Molecular doping of perovskite film by F4TCNQ led to the considerable enhancement of photovoltaic performance from 11.0 to 20.2%. The MAPbI 3 : F4TCNQ-based device exhibited a stabilized PCE that exceeded 20.0% and negligible hysteresis. This effective doping strategy eliminates the HTL preparation step, thus simplifying the PSC fabrication process and reducing costs. Extending the application of this doping technique to a broader range of semiconducting materials will definitely benefit the construction of other high performance, printed optoelectronic devices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Materials preparation. Lead iodide (PbI 2 , 99.9985%) was purchased from Alfa Aesar. Methylammonium iodide (MAI) was purchased from Dyesol. MACl (98%), 2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane (F4TCNQ, 97%), N,Ndimethylformamide (DMF, anhydrous, 99.8%), DMSO (99.9%), acetonitrile (anhydrous, 99.8%) and CBZ (anhydrous, 99.8%) were purchased from Sigma-Aldrich. All chemicals were used as received without further purification.</p><p>Device fabrication. The ITO glass substrates were ultrasonically washed with deionized water, acetone, and isopropanol for 30 min successively. After drying, the cleaned ITO glass was treated by UV-ozone (UVO) for 15 min then used immediately for device fabrication. To form a perovskite precursor (1 M), an equimolar ratio of PbI 2 and MAI was dissolved in DMF with different amounts of MHP (0.075 wt% to 0.300 wt%), F4TCNQ (0.01 wt% to 0.05 wt%), and 0.5 wt% MACl (for chlorine-containing precursor) added as required. Specifically, to implement solution-processed molecular doping of the perovskite photoactive layer, F4TCNQ was dissolved in DMF separately, and then added to the solution of as-prepared MAPbI 3 precursor solution. Typically, MHP/DMF additive was used to increase grain size, improve perovskite film crystallinity, and surface coverage. The bladed coating of perovskite films was conducted in an N 2 -purged glovebox (below 1.0 ppm O 2 and H 2 O). The perovskite precursor solution (~5 to 10 μL) was dripped onto the ITO glass on a hot plate set at 150 °C, then swiped linearly by a glass blade at a speed of 0.75 cm s -1 . The as-prepared perovskite films were then annealed at 100 °C for 30 min. For solvent annealing, the perovskite films were annealed under a vapor of mixed DMSO/CBZ solvent (1:1 v/v) at 100 °C for 30 min according to a literature method <ref type="bibr" target="#b30">31</ref> . Finally, C 60 (20 nm, Nano-C), bathocuproine (BCP, 8 nm, Sigma-Aldrich), and Cu electrode (80 nm) were sequentially deposited on the perovskite layer by thermal evaporation to form a complete PSC device. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Doctor blading and doping of perovskite films by F4TCNQ. a Schematic illustration of a doctor-bladed perovskite film and the chemical structure of F4TCNQ dopant. b Cross-sectional SEM image of the MAPbI 3 film deposited directly onto ITO glass via bladed coating at 150 °C, showing the film thickness of around 500 nm. Topography KPFM images of c, f MAPbI 3 , d, g F4TCNQ-doped MAPbI 3 , and e, h F4TCNQ solid-diffused MAPbI 3 films. CPD represents the contact potential difference between the tip and sample's surface. i Surface potential profiles of different perovskite films as indicated. j Schematic illustration of the energy diagram and electron transfer process for MAPbI 3 :F4TCNQ blends</figDesc><graphic coords="15,188.95,320.96,151.00,79.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Conductivities and photoluminescence lifetimes of neat or doped perovskite films. a Geometry for the lateral conductivity measurement: the perovskite films were 500 nm thick, with 1 mm gold (Au) electrodes separated by 100 μm. b J-V curves of neat or F4TCNQ-doped MAPbI 3 deposited on normal glass substrates, where the current was measured along the lateral direction. c TRPL decay curves of glass/MAPbI 3 and glass/MAPbI 3 :F4TCNQ. PL lifetimes were calculated by single exponential fitting. d c-AFM setup. Topographic AFM images of e MAPbI 3 and g MAPbI 3 :F4TCNQ films, with locations where the c-AFM tip measured the grain and GB currents. Local dark currents measured at the GBs and on the grains for the f MAPbI 3 film and h MAPbI 3 : F4TCNQ film</figDesc><graphic coords="16,150.82,405.92,126.52,125.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Perovskite film morphology, device structure, and photovoltaic performance. a Low magnification and b high magnification SEM images of bladed and doped MAPbI 3 film prepared with MHP (0.225 wt%) and MACl (0.5 wt%) as additive, followed by co-solvents annealing treatment. c Schematic illustration of the HTL-free device configuration. d J-V characteristics, e Steady-state current and stabilized PCE measured at a maximum power point (0.93 V), f EQE and integrated current density, and g PCE histogram of PSCs based on MAPbI 3 :F4TCNQ films (with 0.03 wt% F4TCNQ)</figDesc><graphic coords="17,171.73,268.94,92.20,75.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4</head><label>4</label><figDesc>Fig. 4 Interfacial hole transfer dynamics. Schematic illustrations of hole transfer at the a ITO/MAPbI 3 or b ITO/F4TCNQ-doped MAPbI 3 interface</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Device characterization. SEM images were obtained with a Quanta 200 FEG environmental SEM. X-ray diffraction (XRD) patterns were acquired by a Bruker D8 Discover Diffractometer with Cu Kα radiation (1.5406 Å). PL spectrum was measured with a Horiba iHR320 Imaging Spectrometer at room temperature. A 532 nm green laser (Laserglow Technologies) with an intensity of 100 mW cm -2 was used as the excitation source. TRPL was obtained using the DeltaPro with a pulsed laser source at 406 nm (Horiba NanoLED 402-LH; pulse width below 200 ps, 20 pJ per pulse, ~1 mm 2 spot size), and the signal was recorded using time corrected TCSPC. c-AFM measurements were performed on an Asylum Research MFP-3D AFM using Pt-coated Si conductive probes (PPP-EFM, Nanosensors). The conductivity of perovskite films was measured by a two-electrode method on glass substrates. The J-V characteristics of the cells (voltage scanning rate 0.1 V s -1 ) and the steady photocurrent under maximum power output bias (0.93 V) were recorded with a Keithley 2400 source-meter under simulated AM 1.5 G irradiation by a Xenon lamp (Oriel 67005), which was calibrated by a silicon diode equipped with a Schott visible color KG5 glass filter. EQE was measured with a Newport QE measurement kit. The J-V and EQE measurements were conducted under ambient air conditions without encapsulation. A non-reflective shadow mask was used to define a 0.08 cm 2 active area of the PSCs. The series resistance (R s ) is derived from the slope of the J-V curve at the open-circuit voltage point. TPV decay was measured under 1 sun illumination and recorded by a 1 GHz Agilent digital oscilloscope.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,70.00,77.95,449.00,347.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,71.00,78.45,453.00,324.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,83.00,83.05,453.00,208.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,71.00,71.05,441.50,390.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,71.00,77.35,453.00,205.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,71.15,70.85,448.50,396.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,74.50,84.05,449.10,362.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,81.00,86.05,422.10,347.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,71.15,70.55,428.90,347.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,90.00,110.15,403.00,303.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Photovoltaic parameters of PSCs employing neat or doped perovskite layers under one sun light illumination (AM 1.5 G, 100 mW cm -2 )</figDesc><table><row><cell>PSCs</cell><cell cols="4">J sc (mA cm -2 ) V oc (mV) η (%) Average</cell><cell>FF</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>η (%)</cell><cell></cell></row><row><cell>MAPbI 3</cell><cell>19.7</cell><cell>1.00</cell><cell>11.0</cell><cell>9.52 ± 0.72</cell><cell>0.56</cell></row><row><cell>MAPbI 3 :</cell><cell>22.7</cell><cell>1.10</cell><cell cols="3">20.2 18.85 ± 0.35 0.81</cell></row><row><cell>F4TCNQ</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">Data for average PCE (η) were calculated from at least 30 devices</cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATURE COMMUNICATIONS | (2018) 9:1625 | DOI: 10.1038/s41467-018-04028-8 | www.nature.com/naturecommunications</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We thank the financial support from <rs type="funder">Office of Naval Research</rs> under awards <rs type="grantNumber">N00014-15-1-2713</rs> and <rs type="grantNumber">N00014-17-1-2619</rs>, and <rs type="funder">National Science Foundation</rs> under awards <rs type="grantNumber">DMR-1505535</rs> and <rs type="grantNumber">DMR-1420645</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_eNJarxK">
+					<idno type="grant-number">N00014-15-1-2713</idno>
+				</org>
+				<org type="funding" xml:id="_QdgczUd">
+					<idno type="grant-number">N00014-17-1-2619</idno>
+				</org>
+				<org type="funding" xml:id="_Rd7DfPR">
+					<idno type="grant-number">DMR-1505535</idno>
+				</org>
+				<org type="funding" xml:id="_qA79Ru9">
+					<idno type="grant-number">DMR-1420645</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data availability. The data that support the findings of this study are available from the corresponding author on reasonable request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Increasing the MHP concentration in the precursor solution led to enlarged grains and enhanced crystallinity of for the perovskite films (Supplementary Fig. <ref type="figure">5</ref> and Fig. <ref type="figure">6</ref>). <ref type="figure">7|</ref> XRD patterns of bladed perovskite films prepared using a co-solvent annealing technique in the absence or presence of MACl.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Figure</head><p>The main MAPbI 3 XRD peaks, i.e. (110), ( <ref type="formula">112</ref>) and (224), intensified after the introduction of 0.5 wt% excess MACl (Supplementary Fig. <ref type="figure">7</ref>), suggesting that chlorine plays an important role in improving the crystallinity of perovskite films.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Table 1| Photovoltaic parameters obtained from HTL-free PSCs employing</head><p>Supplementary Figure <ref type="figure">8| J-V</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary Information accompanies this paper at <ref type="url" target="https://doi.org/10.1038/s41467-018-04028-8">https://doi.org/10.1038/s41467-018-04028-8</ref>.</p><p>Competing interests: The authors declare no competing interests.</p><p>Reprints and permission information is available online at <ref type="url" target="http://npg.nature.com/reprintsandpermissions/">http://npg.nature.com/ reprintsandpermissions/</ref> Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Organometal halide perovskites as visible-light sensitizers for photovoltaic cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Teshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shirai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="6050" to="6051" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The rapid evolution of highly efficient perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Correa-Baena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="710" to="727" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A vacuum flash-assisted solution process for high-efficiency largearea perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="page" from="58" to="62" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Iodide management in formamidinium-lead-halide-based perovskite layers for efficient solar cells</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">356</biblScope>
+			<biblScope unit="page" from="1376" to="1379" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Defect passivation in hybrid perovskite solar cells using quaternary ammonium halide anions and cations</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17102</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Efficient luminescent solar cells based on tailored mixed-cation perovskites</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">1501170</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Enhanced environmental stability of planar heterojunction perovskite solar cells based on blade-coating</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-C</forename><surname>Chueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K Y</forename><surname>Jen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1401229</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Air-stable, efficient mixedcation perovskite solar cells with Cu electrode by scalable fabrication of active layer</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1600372</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Scalable fabrication of efficient organolead trihalide perovskite solar cells with doctor-bladed active layers</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1544" to="1550" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Perovskite ink with wide processing window for scalable high-efficiency solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17038</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Efficient planar heterojunction mixed-halide perovskite solar cells deposited via spray-deposition</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Barrows</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2944" to="2950" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Toward large scale roll-to-roll production of fully printed perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hwang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1241" to="1247" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Meniscus-assisted solution printing of large-grained perovskite films for high-efficiency solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">16045</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A scalable electrodeposition route to the low-cost, versatile and controllable fabrication of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Energy</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="216" to="226" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Vividly colorful hybrid perovskite solar cells by doctor-blade coating with perovskite photonic nanostructures</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Horiz</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="578" to="583" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Composition engineering in doctor-blading of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1700302</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Non-wetting surface-driven high-aspect-ratio crystalline grain growth for efficient hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7747</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">CuSCN-based inverted planar perovskite solar cell with an average PCE of 15</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano. Lett</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3723" to="3728" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Perovskite solar cells: influence of hole transporting materials on power conversion efficiency</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ameen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ChemSusChem</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="10" to="27" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Integrated planar and bulk dual heterojunctions capable of efficient electron and hole extraction for perovskite solar cells with 17% efficiency</title>
+		<author>
+			<persName><forename type="first">W.-Q</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Energy</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="187" to="194" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Mesoscopic CH 3 NH 3 PbI 3 /TiO 2 heterojunction solar cells</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Etgar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="17396" to="17399" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Hole-conductor-free planar perovskite solar cells with 16.0% efficiency</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="18389" to="18394" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Highperformance hole-transporting layer-free conventional perovskite/fullerene heterojunction thin-film solar cells</title>
+		<author>
+			<persName><forename type="first">K.-W</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-C</forename><surname>Chueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-C</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="9128" to="9132" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A Strategy to simplify the preparation process of perovskite solar cells by co-deposition of a hole-conductor and a perovskite layer</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="9648" to="9654" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A breakthrough efficiency of 19.9% obtained in inverted perovskite solar cells by using an efficient trap statepassivator Cu(thiourea)I</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="7504" to="7512" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Molecular doping enhances photoconductivity in polymer bulk heterojunction solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="7038" to="7044" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Sensitivity of the Mott-Schottky analysis in organic solar cells</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kirchartz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="7672" to="7680" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Grain boundary dominated ion migration in polycrystalline organic-inorganic halide perovskite films</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1752" to="1759" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Direct observation of doping sites in temperaturecontrolled, p-doped P 3 HT thin films by conducting atomic force microscopy</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Duong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="6069" to="6073" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Unraveling the hidden function of a stabilizer in a precursor in improving hybrid perovskite film morphology for high efficiency solar cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="867" to="872" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Optimizing semiconductor thin films with smooth surfaces and well-interconnected networks for high-performance perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">W.-Q</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-B</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Caruso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="12463" to="12470" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Doped hole transport layer for efficiency enhancement in planar heterojunction organolead trihalide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Energy</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="275" to="280" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Electronic level alignment in inverted organometal perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schulz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater. Interfaces</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">1400532</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Qualifying composition dependent p and n self-doping in CH 3 NH 3 PbI 3</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page">163508</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Band bending in conjugated polymer layers</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lange</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page">216402</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Highly efficient electron-selective layer free perovskite solar cells by constructing effective p-n heterojunction</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sol. RRL</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">1600027</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Controlling molecular doping in organic semiconductors</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Moulé</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1703063</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

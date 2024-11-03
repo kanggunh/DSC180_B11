@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">341 for interaction between two spheres 283, 363, 406 for interaction between two crossed cylinders 294, 370, 412 for interaction between two parallel cylinders 292, 369, 411 for interaction between two parallel torus particles 416 validity of 310</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">341 for interaction between two spheres 283, 363, 406 for interaction between two crossed cylinders 294, 370, 412 for interaction between two parallel cylinders 292, 369, 411 for interaction between two parallel torus particles 416 validity of 310</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4A6DA5924F7CECC4964FCEEB17A940D3</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Charge regulation model 201 Colloid vibration current 512 Colloid vibration potential 497 Complex conductivity 511 Concentrated suspension of soft particles dynamic electrophoretic mobility 508 electrical conductivity 480 electrophoretic mobility 468 sedimentation potential in 485 sedimentation velocity in 485 Conductivity (see Electrical conductivity) Constant surface charge density model (see also Double layer interaction at constant surface charge density) 201, 205, 223, 241, 252, 273, 352 Constant surface potential model (see also Double layer interaction at constant surface potential) 198, 223, 225 Counterion 3, 11, 28 Co-ion 3, 11, 28 CVP (see Colloid Vibration Potential) CVI (see Colloid Vibration Current) Cylindrical polyelectrolyte (see also porous cylinder) 372, 448, 477 Cylindrical soft particle (see Soft cylinder)</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C O P Y R I G H T E D M A T E R I A L</head><note type="other">1</note><p>The potential and charge of colloidal particles play a fundamental role in their interfacial electric phenomena such as electrostatic interaction between them and their motion in an electric field <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr">[3]</ref><ref type="bibr">[4]</ref>. When a charged colloidal particle is immersed in an electrolyte solution, mobile electrolyte ions with charges of the sign opposite to that of the particle surface charges, which are called counterions, tend to approach the particle surface and neutralize the particle surface charges, but thermal motion of these ions prevents accumulation of the ions so that an ionic cloud is formed around the particle. In the ionic cloud, the concentration of counterions becomes very high while that of coions (electrolyte ions with charges of the same sign as the particle surface charges) is very low, as schematically shown in Fig. <ref type="figure" target="#fig_5">1</ref>.1, which shows the distribution of ions around a charged spherical particle of radius a. The ionic cloud together with the particle surface charge forms an electrical double layer. Such an electrical double layer is often called an electrical diffuse double layer, since the distribution of electrolyte ions in the ionic cloud takes a diffusive structure due to thermal motion of ions. The electric properties of charged colloidal particles in an electrolyte solution strongly depend on the distributions of electrolyte ions and of the electric potential across the electrical double layer around the particle surface. The potential distribution is usually described by the Poisson-Boltzmann equation <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr">[3]</ref><ref type="bibr">[4]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2">THE POISSON-BOLTZMANN EQUATION</head><p>Consider a uniformly charged particle immersed in a liquid containing N ionic species with valence z i and bulk concentration (number density) n 1 i (i ¼ 1, 2, . . . , N) (in units of m À3 ). From the electroneutrality condition, we have</p><formula xml:id="formula_0">X N i¼1 z i n 1 i ¼ 0 ð1:1Þ</formula><p>Usually we need to consider only electrolyte ions as charged species. The electric potential c(r) at position r outside the particle, measured relative to the bulk solution phase, where c is set equal to zero, is related to the charge density r el (r) at the same point by the Poisson equation, namely,</p><formula xml:id="formula_1">Dc(r) ¼ À r el (r) e r e o ð1:<label>2Þ</label></formula><p>where D is the Laplacian, e r is the relative permittivity of the electrolyte solution, and e o is the permittivity of the vacuum. We assume that the distribution of the electrolyte ions n i (r) obeys Boltzmann's law, namely,</p><formula xml:id="formula_2">n i (r) ¼ n 1 i exp À z i ec(r) kT ð1:3Þ</formula><p>where n i (r) is the concentration (number density) of the ith ionic species at position r, e is the elementary electric charge, k is Boltzmann's constant, and T is the absolute temperature. The charge density r el (r) at position r is thus given by  This is the Poisson-Boltzmann equation for the potential distribution c(r). The surface charge density s of the particle is related to the potential derivative normal to the particle surface as</p><formula xml:id="formula_3">r el (r) ¼ X N i¼1 z i en i (r) ¼ X N i¼1 z i en 1 i exp À z i ec(r) kT<label>ð1</label></formula><formula xml:id="formula_4">e p @c @n À e r @c @n ¼ s e o ð1:<label>6Þ</label></formula><p>where e p is the relative permittivity of the particle and n is the outward normal at the particle surface. If the internal electric fields inside the particle can be neglected, then the boundary condition (1.6) reduces to</p><formula xml:id="formula_5">@c @n ¼ À s e r e o</formula><p>ð1:7Þ</p><p>If the potential c is low, namely,   (vi) For a mixed solution of 1-1 electrolyte of concentration n 1 and 3-1 electrolyte of concentration n 2 ,</p><formula xml:id="formula_6">z i ec kT (<label>1</label></formula><formula xml:id="formula_7">k ¼ 2(n 1 þ 6n 2 )e 2</formula><p>e r e o kT 1=2 ð1:16Þ</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.3">PLATE</head><p>Consider the potential distribution around a uniformly charged plate-like particle in a general electrolyte solution composed of N ionic species with valence z i and bulk concentration (number density) n 1 i (i ¼ 1, 2, . . . , N) (in units of m À3 ). We take an x-axis perpendicular to the plate surface with its origin x ¼ 0 at the plate surface so that the region x &lt; 0 corresponds to the internal region of the plate while the region x &gt; 0 corresponds to the solution phase (Fig. <ref type="figure" target="#fig_36">1.</ref>2). The electric potential c(x) at position x outside the plate, measured relative to the bulk solution phase, where c is set equal to zero, is related to the charge density r el (x) of free mobile charged species by the Poisson equation (Eq. (1.2)), namely,</p><formula xml:id="formula_8">d 2 c(x) dx 2 ¼ À r el (x)</formula><p>e r e o ð1:17Þ</p><p>We assume that the distribution of the electrolyte ions n i (x) obeys Boltzmann's law, namely,</p><formula xml:id="formula_9">n i (x) ¼ n 1 i exp À z i ec(x) kT ð1:18Þ</formula><p>where n i (x) is the concentration (number density) of the ith ionic species at position x. The charge density r el (x) at position x is thus given by </p><formula xml:id="formula_10">r el (x) ¼ X N i¼1 z i en i (x) ¼ X N i¼1 z i en</formula><formula xml:id="formula_11">d 2 c(x) dx 2 ¼ À 1 e r e o X N i¼1 z i en 1 i exp À z i ec(x) kT ð1:20Þ</formula><p>We solve the planar Poisson-Boltzmann equation (1.20) subject to the boundary conditions:</p><formula xml:id="formula_12">c ¼ c o at x ¼ 0 ð1:21Þ c ! 0; dc dx ! 0 as x ! 1 ð1:22Þ</formula><p>where c o is the potential at the plate surface x ¼ 0, which we call the surface potential.</p><p>If the internal electric fields inside the particle can be neglected, then the surface charge density s of the particle is related to the potential derivative normal to the        or inversely,  </p><formula xml:id="formula_13">with g ¼ tanh zec o 4kT ¼ exp(zec o =2kT) À 1 exp(zec o =2kT) þ 1 ¼ exp(y o =2) À 1 exp(y o =2) þ 1 ð1:39Þ</formula><formula xml:id="formula_14">c o ¼ 2kT ze arcsinh s ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ffi 8ne r e o kT p ¼ 2kT ze arcsinh zes 2e r e o kkT ¼ 2kT ze ln zes 2e r e o kkT þ zes 2e r e o kkT 2 þ<label>1</label></formula><formula xml:id="formula_15">( ) " #<label>ð1</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.3.3">Arbitrary Potential: Asymmetrical Electrolyte</head><p>When a charged plate is immersed in a 2-1 electrolyte (e.g., CaCl 2 ) of bulk concentration n, the Poisson-Boltzmann equation (1.20) becomes</p><formula xml:id="formula_16">d 2 c(x) dx 2 ¼ À 2en e r e o exp À 2ec(x) kT À exp ec(x) kT ! ð1:43Þ</formula><p>where the first term on the right-hand side of Eq. (1.43) corresponds to divalent cations while the second to monovalent anions. Equation (1.43) subject to the boundary conditions (1.21) and (1.22) can be integrated by multiplying dy/dx on both sides of Eq. ( <ref type="formula" target="#formula_3">1</ref>.43) to give</p><formula xml:id="formula_17">c(x) ¼ kT e ln 3 2 1 þ 2 3 g 0 e Àkx 1 À 2 3 g 0 e Àkx ! 2 À 1 2 2 4 3 5 ð1:44Þ with g 0 ¼ 3 2 2 3 e y o þ 1 3 1=2 À 1 2 3 e y o þ 1 3 1=2 þ 1 8 &gt; &lt; &gt; : 9 &gt; = &gt; ; ð1:<label>45Þ</label></formula><formula xml:id="formula_18">y o ¼ ec o kT ð1:46Þ</formula><p>where y o is the scaled surface potential and k is given by Eq. (1.13). By substituting Eq. (1.44) into Eq. (1.23), we obtain the following relationship between the surface potential c o and the surface charge density s:</p><formula xml:id="formula_19">s ¼ e r e o kkT e 1 À exp À ec o kT &amp; ' 2 3 exp ec o kT þ 2 3 &amp; ' 1=2 ð1:47Þ</formula><p>If s is small and thus c o is low, then the potential distribution c(x) (Eq. (1.44)) and the s-c o relationship (Eq. (1.47)) are given by Eqs. (1.25) and (1.26), respectively, which also hold for general electrolytes.</p><p>Next consider the case of a mixed solution of 1-1 electrolyte of bulk concentration n 1 and 2-1 electrolyte of bulk concentration n 2 . The Poisson-Boltzmann equation (1.5) becomes </p><formula xml:id="formula_20">d 2 c(x) dx 2 ¼ À e e r e o n 1 exp À ec(x) kT þ 2n 2 exp À 2ec(x) kT À (n 1 þ 2n 2 )exp ec(x) kT !<label>ð1</label></formula><formula xml:id="formula_21">c(x) ¼ kT e ln 1 1 À Z=3 1 þ (1 À Z=3)g 00 e Àkx 1 À (1 À Z=3)g 00 e Àkx &amp; ' 2 À Z=3 1 À Z=3 " # ð1:49Þ with Z ¼ 3n 2 n 1 þ 3n 2</formula><p>ð1:50Þ</p><formula xml:id="formula_22">g 00 ¼ 1 1 À Z=3 f(1 À Z=3)e y o þ Z=3g 1=2 À 1 f(1 À Z=3)e y o þ Z=3g 1=2 þ 1 " # ð1:51Þ</formula><p>where y o is the scaled surface potential defined by Eq. (1.46) and k is given by Eq. <ref type="bibr">(1.14)</ref>. The relationship between s and c o , which is derived from Eqs. (1.23) and (1.49), is given by</p><formula xml:id="formula_23">s ¼ e r e o kkT e (1 À e Ày o ) 1 À Z 3 e y o þ Z 3 h i 1=2 ð1:<label>52Þ</label></formula><formula xml:id="formula_24">1.3.</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Arbitrary Potential: General Electrolyte</head><p>In the case of a charged plate immersed in a general electrolyte, the Poisson-Boltzmann equation <ref type="bibr">(1.20)</ref>, in terms of the scaled potential y(x) ¼ ec/kT, is rewritten as</p><formula xml:id="formula_25">d 2 y dx 2 ¼ À k 2 P N i¼1 z i n i e Àz i y P N i¼1 z 2 i n i ð1:53Þ</formula><p>where the Debye-Hu ¨ckel parameter k is given by Eq. (1.10). The boundary conditions are given by Eqs. (1.21) and <ref type="bibr">(1.22)</ref>. Since y o and dy/dx are of opposite sign, integration of Eq. (1.53) gives</p><formula xml:id="formula_26">dy dx ¼ Àsgn(y o )k 2 P N i¼1 n i (e Àz i y À 1) P N i¼1 z 2 i n i " #<label>1=2</label></formula><p>ð1:54Þ</p><p>where sgn(y o ) ¼ þ1 for y o &gt; 0 and À1 for y o &lt; 0. Note that the sign of 1 À exp(Ày) equals that of y o . Equation (1.54) is thus rewritten as</p><formula xml:id="formula_27">dy dx ¼ Àkf (y) ð1:55Þ with f (y) ¼ sgn(y o ) 2 P N i¼1 n i (e Àz i y À 1) P N i¼1 z 2 i n i " # 1=2 ¼ (1 À e Ày ) 2 P N i¼1 n i (e Àz i y À 1) (1 À e Ày ) 2 P N i¼1 z 2 i n i " # 1=2</formula><p>ð1:56Þ</p><p>Note that as y ! 0, f(y) ! y. Explicit expressions for f(y) for some simple cases are given below.</p><p>(i) For a symmetrical electrolyte of valence z, f (y) ¼ 2 sinh(zy=2) ð1:57Þ</p><p>(ii) For a monovalent electrolyte,</p><formula xml:id="formula_28">f (y) ¼ 2 sinh(y=2) ð1:58Þ (iii) For a 2-1 electrolyte, f (y) ¼ (1 À e Ày ) 2 3 e y þ 1 3 1=2 ð1:<label>59Þ</label></formula><p>(iv) For a mixed solution of 2-1 electrolyte of concentration n 2 and 1-1 electrolyte of concentration n 1 ,</p><formula xml:id="formula_29">f (y) ¼ (1 À e Ày ) 1 À Z 3 e y þ Z 3 h i 1=2 ð1:60Þ with Z ¼ 3n 2 n 1 þ 3n 2 ð1:61Þ (v) For a 3-1 electrolyte, f (y) ¼ (1 À e Ày ) 1 2 e y þ 1 3 þ 1 6</formula><p>e Ày 1=2 ð1:62Þ</p><p>(vi) For a mixed solution of 3-1 electrolyte of concentration n 2 and 1-1 electrolyte of concentration n 1 ,  </p><formula xml:id="formula_30">f (y) ¼ (1 À e Ày ) 1À Z 0 2 e y þ Z 0 3 þ Z 0 6 e Ày ! 1=2 ð1:63Þ PLATE with Z 0 ¼ 6n 2 n 1 þ</formula><formula xml:id="formula_31">d 2 c dr 2 þ 2 r dc dr ¼ À 1 e r e o X N i¼1 z i en 1 i exp À z i ec kT ð1:68Þ</formula><p>where we have taken the spherical coordinate system with its origin r ¼ 0 placed at the center of the sphere and r is the distance from the center of the particle (Fig. If we introduce the distance x ¼ r À a measured from the sphere surface, then Eq. (1.72) becomes</p><formula xml:id="formula_32">c(x) ¼ c o a a þ x e Àkx ð1:<label>73Þ</label></formula><p>For x ( a, Eq. (1.73) reduces to the potential distribution around the planar surface given by Eq. <ref type="bibr">(1.19</ref>). This result implies that in the region very near the particle surface, the surface curvature may be neglected so that the surface can be regarded as planar. In the limit of k ! 0, Eq. (1.72) becomes c(r) ¼ c o a r ð1:74Þ which is the Coulomb potential distribution around a sphere as if there were no electrolyte ions or electrical double layers. Note that Eq. (1.74) implies that the potential decays over distances of the particle radius a, instead of the double layer thickness 1/k. The surface charge density s of the particle is related to the particle surface potential c o obtained from the boundary condition at the sphere surface, </p><formula xml:id="formula_33">@c @r r¼a þ ¼ À s e</formula><formula xml:id="formula_34">c o ¼ s e r e o k(1 þ 1=ka)</formula><p>ð1:76Þ</p><p>For ka ) 1, Eq. (1.76) tends to Eq. (1.26) for the c o -s relationship for the plate case. That is, for ka ) 1, the curvature of the particle surface may be neglected so that the particle surface can be regarded as planar. In the opposite limit of ka ( 1, Eq. (1.76) tends to</p><formula xml:id="formula_35">c o ¼ sa e r e o ð1:<label>77Þ</label></formula><p>If we introduce the total charge Q ¼ 4pa 2 on the particle surface, then Eq. (1.77) can be rewritten as</p><formula xml:id="formula_36">c o ¼ Q 4pe r e o a</formula><p>ð1:78Þ which is the Coulomb potential. This implies that for ka ( 1, the existence of the electrical double layer may be ignored. Figures 1.8 and 1.9, respectively, show that Eq. (1.76) tends to Eq. (1.26) for a planar c o -s relationship for ka ) 1 and to the Coulomb potential given by Eq. (1.78) for ka ( 1. It is seen that the surface potential c o of a spherical particle of radius a can be regarded as c o of a plate for ka ! 10 2 (Fig. <ref type="figure" target="#fig_36">1.8</ref>) and as the Coulomb potential for ka 10 À2 (Fig. <ref type="figure" target="#fig_5">1</ref>.9). That is, for ka 10 À2 , the presence of the electrical double layer can be neglected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.4.2">Surface Charge Density-Surface Potential Relationship: Symmetrical Electrolyte</head><p>When the magnitude of the surface potential is arbitrary so that the Debye-Hu ¨ckel linearization cannot be allowed, we have to solve the original nonlinear spherical Poisson-Boltzmann equation <ref type="bibr">(1.68</ref>). This equation has not been solved but its approximate analytic solutions have been derived <ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref>. Consider a sphere of radius a with a surface charge density s immersed in a symmetrical electrolyte solution of valence z and bulk concentration n. Equation (1.68) in the present case becomes   Loeb et al. tabulated numerical computer solutions to the nonlinear spherical Poisson-Boltzmann equation (1.63). On the basis of their numerical tables, they discovered the following empirical formula for the s-c o relationship:</p><formula xml:id="formula_37">s ¼ 2e r e o kkT ze sinh zec o 2kT þ 2 ka tanh zec o 4kT ! ð1:<label>80Þ</label></formula><p>where the Debye-Hu ¨ckel parameter k is given by Eq. <ref type="bibr">(1.11)</ref>. A mathematical basis of Eq. (1.80) was given by Ohshima et al. <ref type="bibr">[7]</ref>, who showed that if, on the left-hand side of Eq. (1.79), we replace 2/r with its large a limiting form 2/a and dc/dr with that for a planar surface (the zeroth-order approximation given by Eq. ( where y ¼ zec/kT is the scaled potential (Eq. (1.28)). Since the right-hand side of Eq. (1.82) involves only y (and does not involve r explicitly), Eq. (1.82) can be readily integrated by multiplying dy/dr on its both sides to yield</p><formula xml:id="formula_38">dy dr ¼ À2k sinh y 2 1 þ 2 ka cosh 2 (y=4) ! 1=2</formula><p>ð1:83Þ</p><p>By expanding Eq. (1.83) with respect to 1/ka and retaining up to the first order of 1/ka, we obtain</p><formula xml:id="formula_39">dy dr ¼ À2k sinh y 2 1 þ 1 ka cosh 2 (y=4) ! ð1:<label>84Þ</label></formula><p>Substituting Eq. (1.84) into Eq. (1.75), we obtain Eq. (1.80), which is the firstorder s-c o relationship.</p><p>A more accurate s-c o relationship can be obtained by using the first-order approximation given by Eq. (1.84) (not using the zeroth-order approximation for a planar surface given by Eq. (1.34)) in the replacement of Eq. (1.81), namely, 2 r dy dr ! 2 a dy dr first-order</p><formula xml:id="formula_40">¼ À 4 a k sinh y 2 1 þ 1 ka cosh 2 (y=4) ! ð1:85Þ</formula><p>The result is</p><formula xml:id="formula_41">s ¼ 2e r e o kkT ze sinh zec o 2kT 1 þ 1 ka 2 cosh 2 (zec o =4kT) þ 1 (ka) 2 8ln[cosh(zec o =4kT)] sinh 2 (zec o =2kT) ! 1=2</formula><p>ð1:86Þ which is the second-order s-c o relationship <ref type="bibr">[4]</ref>. The relative error of Eq. (1.80) is less than 1% for ka ! 5 and that of Eq. (1.86) is less than 1% for ka ! 1. Note that as y o increases, Eqs. (1.80) and (1.86) approach Eq. (1.41). That is, as the surface potential y o increases, the dependence of y o on ka becomes smaller. Figure <ref type="figure" target="#fig_5">1</ref>.10 gives the s-c o relationship for various values of ka calculated from Eq. (1.86) in comparison with the low-potential approximation (Eq. (1.76)).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.4.3">Surface Charge Density-Surface Potential Relationship: Asymmetrical Electrolyte</head><p>The above approximation method can also be applied to the case of a sphere in a 2-1 symmetrical solution, yielding <ref type="bibr">[4]</ref> s ¼ e r e o kkT e pq þ 2f(3 À p)q À 3g kapq ! ð1:87Þ as the first-order s-c o relationship and</p><formula xml:id="formula_42">s ¼ e r e o kkT e pq 1 þ 4 ka (3 À p)q À 3 (pq) 2 þ 4 (ka) 2 (pq) 2 6ln q þ 1 2 þ ln(1 À p) &amp; ' ! 1=2 ð1:<label>88Þ</label></formula><p>as the second-order s-c o relationship, where</p><formula xml:id="formula_43">p ¼ 1 À exp( À ec o =kT) ð1:89Þ q ¼ 2 3 exp ec o kT þ 1<label>3</label></formula><formula xml:id="formula_44">! 1=2 ð1:90Þ</formula><p>and k is the Debye-Hu ¨ckel parameter for a 2-1 electrolyte solution (Eq. (1.13)).</p><p>For the case of a mixed solution of 1-1 electrolyte of concentration n 1 and 2-1 electrolyte of concentration n 2 , the first-order s-c o relationship is given by <ref type="bibr">[7]</ref> s</p><formula xml:id="formula_45">¼ e r e o kkT e pt þ 2 kapt (3 À p)t À 3 À 3 1=2 (1 À Z) 2Z 1=2 &amp; ln f1 þ (Z=3) 1=2 gft À (Z=3) 1=2 g f1 À (Z=3) 1=2 gft þ (Z=3) 1=2 g !)# ð1:91Þ with t ¼ 1 À Z 3 exp ec o kT þ Z<label>3</label></formula><formula xml:id="formula_46">! 1=2 ð1:92Þ Z ¼ 3n 2 n 1 þ 3n 2 ð1:93Þ</formula><p>where k is the Debye-Hu ¨ckel parameter for a mixed solution of 1-1 and 2-1 electrolytes (Eq. (1.14)) and p is given by Eq. (1.89).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.4.4">Surface Charge Density-Surface Potential Relationship: General Electrolyte</head><p>The above method can be extended to the case of general electrolytes composed of N ionic species with valence z i and bulk concentration (number density) n 1 i (i ¼ 1, 2, . . . , N) (in units of m À3 ) <ref type="bibr">[8]</ref>. The spherical Poisson-Boltzmann equation (1.68) can be rewritten in terms of the scaled potential y ec/kT as</p><formula xml:id="formula_47">d 2 y dr 2 þ 2 r dy dr ¼ À k 2 P N i¼1 z i n i e Àz i y P N i¼1 z 2 i n i ð1:94Þ</formula><p>where k is the Debye-Hu ¨ckel parameter of the solution and defined by Eq. (1.10).</p><p>In the limit of large ka, Eq. ( </p><formula xml:id="formula_49">d 2 y dr 2 ¼ 2k a f (y) þ k 2 f (y) df dy ð1:100Þ</formula><p>which is readily integrated to give</p><formula xml:id="formula_50">dy dr ¼ Àkf (y) 1 þ 4 kaf 2 (y) Z y 0 f (u)du ! 1=2</formula><p>ð1:101Þ By expanding Eq. (1.101) with respect to 1/ka and retaining up to the first order of 1/ka, we have </p><formula xml:id="formula_51">dy dr ¼ Àkf (y) 1 þ 2 kaf 2 (y) Z y 0 f (u)du</formula><formula xml:id="formula_52">¼ À 2k a f (y) 1 þ 2 lkaf 2 (y) Z y 0 f (u)du ! ð1:105Þ</formula><p>where we have introduced a fitting parameter l. Then, Eq. (1.94) becomes</p><formula xml:id="formula_53">d 2 y dr 2 ¼ 2k a f (y) 1 þ 2 lkaf 2 (y) Z y 0 f (u)du ! þ k 2 f (y) df dy ð1:106Þ which is integrated to give s ¼ e r e o kkT e f (y o ) 1 þ 4 kaf 2 (y o ) Z y o 0 f (y)dy þ 8 l(ka) 2 f 2 (y o ) Z y o 0 1 f (y) Z y 0 f (u)du &amp; ' dy ! 1=2</formula><p>ð1:107Þ</p><p>In the limit of small y o , Eq. (1.107) tends to</p><formula xml:id="formula_54">s ¼ e r e o kc o 1 þ 2 ka þ 2 l(ka) 2 ! 1=2</formula><p>ð1:108Þ</p><p>We thus choose l ¼ 2 to obtain Eq. (1.104). Therefore, Eq. (1.107) becomes  <ref type="formula" target="#formula_3">1</ref>.109) and carrying out numerical integration, we can derive the first-order and second-order s-y o relationships, respectively. The relative error of Eq. (1.103) is less than 1% for ka ! 5 and that of Eq. (1.109) is less than 1% for ka ! 1.</p><formula xml:id="formula_55">s ¼ e r e o kkT e f (y o ) 1 þ 4 kaf 2 (y o ) Z y o 0 f (y)dy þ 4 (ka) 2 f 2 (y o ) Z y o 0 1 f (y) Z y 0 f (u)du &amp; ' dy ! 1=2<label>ð1</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.4.5">Potential Distribution Around a Sphere with Arbitrary Potential</head><p>By using an approximation method similar to the above method and the method of White <ref type="bibr">[6]</ref>, one can derive an accurate analytic expression for the potential distribution around a spherical particle. Consider a sphere of radius a in a symmetrical electrolyte solution of valence z and bulk concentration n <ref type="bibr">[7]</ref>. The spherical Poisson-Boltzmann equation (1.68) in this case becomes</p><formula xml:id="formula_56">d 2 y dr 2 þ 2 r dy dr ¼ k 2 sinh y ð1:110Þ</formula><p>where y ¼ zec/kT is the scaled potential. Making the change of variables</p><formula xml:id="formula_57">s ¼ a r exp( À k(r À a)) ð1:<label>111Þ</label></formula><p>we can rewrite Eq. (1.110) as</p><formula xml:id="formula_58">s 2 d 2 y ds 2 þ s dy ds ¼ sinh y À 2ka þ 1 (ka þ 1) 2 G(y) ð1:112Þ</formula><p>where </p><formula xml:id="formula_59">G(y) ¼ 2kr þ 1 2ka þ 1 ka þ 1 kr þ</formula><formula xml:id="formula_60">s dy ds ¼ 2ka þ 1 (ka þ 1) 2 sinh y 2 1 þ 2ka þ 1 (ka) 2 cosh 2 (y=4) ! 1=2</formula><p>ð1:120Þ</p><p>which is further integrated to give</p><formula xml:id="formula_61">y(r) ¼ 2ln (1 þ Bs)(1 þ Bs=(2ka þ 1)) (1 À Bs)(1 À Bs=(2ka þ 1)) ! ð1:121Þ or c(r) ¼ 2kT ze ln (1 þ Bs)(1 þ Bs=(2ka þ 1)) (1 À Bs)(1 À Bs=(2ka þ 1)) ! ð1:122Þ where B ¼ ((2ka þ 1)=(ka þ 1))tanh(y o =4) 1 þ 1 À ((2ka þ 1)=(ka þ 1) 2 )tanh 2 (y o =4) È É 1=2 ð1:123Þ</formula><p>The relative error of Eq. (1.122) is less than 1% for ka ! 1. Note also that Eq. (1.121) or (1.122) exhibits the correct asymptotic form, namely, y(r) ¼ costant Â s ð1:124Þ</p><p>Figure <ref type="figure" target="#fig_5">1</ref>.11 gives the scaled potential distribution y(r) around a positively charged spherical particle of radius a with y o ¼ 2 in a symmetrical electrolyte solution of valence z for several values of ka. Solid lines are the exact solutions to Eq. (1.110) and dashed lines are the Debye-Hu ¨ckel linearized results (Eq. (1.72)). Note that Eq. (1.122) is in excellent agreement with the exact results. Figure <ref type="figure" target="#fig_5">1</ref>.12 shows the plot of the equipotential lines around a sphere with y o ¼ 2 at ka ¼ 1 calculated from Eq. (1.121). Figures 1.13 and 1.14, respectively, are the density plots of counterions (anions) (n_(r) ¼ n exp(þy(r))) and coions (cations) (n þ (r) ¼ n exp(Ày(r))) around the sphere calculated from Eq. (1.121).</p><p>Note that one can obtain the s-y o relationship from Eq. (1.120),</p><formula xml:id="formula_62">s ¼ Àe r e o dy dr r¼a þ ¼ e r e o kkT e ka þ 1 ka s dy ds s¼1 ¼ 2e r e o kkT e sinh y o 2 1 þ 2ka þ 1 (ka) 2 cosh 2 (y o =4) ! 1=2</formula><p>ð1:125Þ  We obtain the potential distribution around a sphere of radius a having a surface potential c o immersed in a solution of general electrolytes <ref type="bibr">[9]</ref>. The Poisson-Boltzmann equation for the electric potential c(r) is given by Eq. (1.94), which, in terms of f(r), is rewritten as</p><formula xml:id="formula_63">d 2 y dr 2 þ 2 r dy dr ¼ k 2 f (y) dy dr ð1:<label>126Þ</label></formula><p>with f(r) given by Eq. (1.56). We make the change of variables (Eq. (1.111)) and rewrite Eq. (1.126) as  which is integrated once to give s dy ds ¼ f (y) ð1:129Þ</p><formula xml:id="formula_64">s 2 d 2 y ds 2 þ s dy ds ¼ f (y) df dy À 2kr þ 1 (kr þ 1)</formula><p>We then replace the second term on the right-hand side of Eq. (1.127) with its large ka limiting form, that is, kr ! ka and s dy/ds ! f(y) (Eq. (1.120)),</p><formula xml:id="formula_65">2kr þ 1 (kr þ 1) 2 f (y) df dy À s dy ds &amp; ' ! 2ka þ 1 (ka þ 1) 2 f (y) df dy À f (y) &amp; ' ð1:<label>130Þ</label></formula><p>Equation (1.127) then becomes </p><formula xml:id="formula_66">s 2 d 2 y ds 2 þ s dy ds ¼ þf (y) df dy À 2ka þ 1 (ka þ 1)</formula><formula xml:id="formula_67">F(y) ¼ ka ka þ 1 f (y) 1 þ 2(2ka þ 1) (ka) 2 1 f 2 (y) Z y 0 f (u)du ! 1=2</formula><p>ð1:133Þ</p><p>Note that F(y) ! y as y ! 0 and that F(y) ! f(y) as ka ! 1. Expressions for F (y) for several cases are given below.</p><p>(i) For a 1-1 electrolyte solution,</p><formula xml:id="formula_68">F(y) ¼ 2ka ka þ 1 sinh y 2 1 þ 2(2ka þ 1) (ka) 2 1 cosh 2 (y=4) ! 1=2</formula><p>ð1:134Þ</p><p>(ii) For the case of 2-1 electrolytes,</p><formula xml:id="formula_69">F(y) ¼ ka ka þ 1 (1 À e Ày ) 2 3 e y þ 1 3 1=2 1þ 2(2ka þ 1)(2 þ e Ày )( 2 3 e y þ 1 3 ) 1=2 À3 (ka) 2 (1Àe Ày ) 2 ( 2 3 e y þ 1 3 ) " # 1=2 ð1:<label>135Þ</label></formula><p>(iii) For the case of a mixed solution of 1-1 electrolyte of concentration n 1 and 2-1 electrolyte of concentration n 2 ,</p><formula xml:id="formula_70">F(y) ¼ ka ka þ 1 (1 À e Ày ) 1 À Z 3 e y þ Z 3 h i 1=2 Â 1 þ 2(2ka þ 1) (ka) 2 (1 À e Ày ) 2 f(1 À Z=3)e y þ Z=3g Â (2 þ e Ày ) ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ffi 1 À Z 3 e y þ Z 3 r À 3 À ffiffi ffi 3 p (1 À Z) 2 ffiffi ffi Z p &amp; Âln f ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi (1 À Z=3)e y þ Z=3 p À ffiffiffiffiffiffiffi ffi Z=3 p g(1 þ ffiffiffiffiffiffiffi ffi Z=3 p ) f ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi (1 À Z=3)e y þ Z=3 p þ ffiffiffiffiffiffiffi ffi Z=3 p g(1 À ffiffiffiffiffiffiffi ffi Z=3 p ) !)# 1=2 ð1:136Þ</formula><p>where Z is defined by Eq. (1.61). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Equation (1.132) is integrated again to give</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.5">CYLINDER</head><p>A similar approximation method can be applied for the case of infinitely long cylindrical particles of radius a in a general electrolyte composed of N ionic species with valence z i and bulk concentration n i (i ¼ 1, 2, . . . , N). The cylindrical Poisson-Boltzmann equation is</p><formula xml:id="formula_71">d 2 c dr 2 þ 1 r dc dr ¼ À 1 e r e o X N i¼1 z i en 1 i exp À z i ec kT ð1:138Þ</formula><p>where r is the radial distance measured from the center of the cylinder (Fig. <ref type="figure" target="#fig_5">1</ref>.15). The conditions (1.69), (1.70), and (1.75) for a spherical particle of radius a are also CYLINDER applied for a cylindrical particle of radius a, namely,</p><formula xml:id="formula_72">c ¼ c o at r ¼ a þ ð1:139Þ c ! 0; dc dr ! 0 as r ! 1 ð1:140Þ @c @r r¼a þ ¼ À s e r e o ð1:<label>141Þ</label></formula><p>where s is the surface charge density of the cylinder.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.5.1">Low Potential</head><p>For low potentials, Eq. (1.128) reduces to</p><formula xml:id="formula_73">d 2 c dr 2 þ 1 r dc dr ¼ k 2 c ð1:142Þ</formula><p>where k is given by Eq. (1.10). The solution is</p><formula xml:id="formula_74">c(r) ¼ c o K 0 (kr) K 0 (ka) ð1:143Þ FIGURE 1.15 A cylinder of radius a.</formula><p>where c o is the surface potential of the particle and K n (z) is the modified Bessel function of the second kind of order n. The surface charge density s of the particle is obtained from Eq. (1.141) as</p><formula xml:id="formula_75">s ¼ e r e o kc o K 1 (ka) K 0 (ka) ð1:144Þ or c o ¼ s e r e o k K 0 (ka) K 1 (ka)</formula><p>ð1:145Þ</p><p>In the limit of ka ! 1, Eq. (1.145) approaches Eq. (1.26) for the plate case.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.5.2">Arbitrary Potential: Symmetrical Electrolyte</head><p>For arbitrary c o , accurate approximate analytic formulas have been derived <ref type="bibr">[7,</ref><ref type="bibr">10]</ref>, as will be shown below. Consider a cylinder of radius a with a surface charge density s immersed in a symmetrical electrolyte solution of valence z and bulk concentration n. Equation (1.138) in this case becomes</p><formula xml:id="formula_76">d 2 y dr 2 þ 1 r dy dr ¼ k 2 sinh y ð1:146Þ</formula><p>where y ¼ zec/kT is the scaled potential. By making the change of variables <ref type="bibr">[6]</ref> c ¼ K 0 (kr) K 0 (ka) ð1:147Þ</p><p>we can rewrite Eq. (1.146) as</p><formula xml:id="formula_77">c 2 d 2 y dc 2 þ c dy dc ¼ sinh y À (1 À b 2 )H(y) ð1:148Þ</formula><p>where </p><formula xml:id="formula_78">H(y) ¼ 1 À fK 0 (kr)=K 1 (kr)g 2 1 À b 2 " # sinh y À c dy dc ð1:149Þ b ¼ K 0 (ka) K 1 (ka)<label>ð1</label></formula><formula xml:id="formula_79">y(c) ¼ 2ln 1 þ tanh(y o =4)c 1 À tanh(y o =4)c ! ð1:154Þ</formula><p>an expression obtained by White <ref type="bibr">[6]</ref>. We note that from Eq. (1.149)</p><formula xml:id="formula_80">H(y) ka!1 ¼ sinh y À 2 sinh(y=2) ð1:155Þ</formula><p>and replacing H(y) in Eq. ( <ref type="formula">148</ref>) by its large ka limiting form (Eq. (1.155)) we obtain</p><formula xml:id="formula_81">c 2 d 2 y dc 2 þ c dy dc ¼ sinh y À (1 À b 2 ) sinh y À 2 sinh(y=2) f g ð1:156Þ</formula><p>This equation can be integrated to give</p><formula xml:id="formula_82">y(r) ¼ 2 ln (1 þ Dc)f1 þ ((1 À b)=(1 þ b))Dcg (1 À Dc)f1 À ((1 À b)=(1 þ b))Dcg ! ð1:157Þ and s ¼ 2e r e o kkT ze sinh y o 2 1 þ 1 b 2 À 1 1 cosh 2 (y o =4) ! 1=2 ð1:158Þ with D ¼ 1 þ b ð Þtanh(y o =4) 1 þ 1 À (1 À b 2 )tanh 2 (y o =4) È É 1=2 ð1:159Þ</formula><p>where y o ¼ zec o /kT is the scaled surface potential of the cylinder. For low potentials, Eq. (1.158) reduces to Eq. (1.144).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.5.3">Arbitrary Potential: General Electrolytes</head><p>We start with Eq. (1.138), which can be rewritten as</p><formula xml:id="formula_83">d 2 y dr 2 þ 1 r dy dr ¼ À k 2 P N i¼1 z i n i e Àz i y P N i¼1 z 2 i n i ð1:160Þ</formula><p>where y ¼ ec=kT Equation (1.160) may further be rewritten as</p><formula xml:id="formula_84">d 2 y dr 2 þ 1 r dy dr ¼ k 2 f (y) df dy ð1:161Þ</formula><p>where f(y) is defined by Eq. (1.56). Making the change of variables (Eq. (1.147)), we can rewrite Eq. (1.161) as</p><formula xml:id="formula_85">c 2 d 2 y dc 2 þ c dy dc ¼ f (y) df dy À 1 À K 0 (kr) K 1 (kr) &amp; ' 2 " # f (y) df dy À c dy dc &amp; ' ð1:162Þ When ka ) 1, Eq. (1.162) reduces to c 2 d 2 y dc 2 þ c dy dc ¼ f (y) df dy ð1:163Þ Equation (1.163) is integrated once to give c dy dc ¼ f (y) ð1:164Þ</formula><p>We then replace the second term on the right-hand side of Eq. (1.162) with its large ka limiting form, namely,</p><formula xml:id="formula_86">1 À K 0 (kr) K 1 (kr) &amp; ' 2 " # f (y) df dy À c dy dc &amp; ' ! (1 À b 2 ) f (y) df dy À f (y) &amp; ' ð1:165Þ Equation (1.162) then becomes c 2 d 2 y dc 2 þ c dy dc ¼ f (y) df dy À (1 À b 2 ) f (y) df dy À f (y) &amp; ' ð1:166Þ</formula><p>and integrating the result once gives</p><formula xml:id="formula_87">c dy dc ¼ F(y) ð1:167Þ with F(y) ¼ bf (y) 1 þ 2 1 b 2 À 1 1 f 2 (y) Z y 0 f (u)du ! 1=2</formula><p>ð1:168Þ</p><p>Note that F(y) ! y as y ! 0 and that F(y) ! f(y) as ka ! 1. Expressions for F (y) for several cases are given below.</p><p>(i) For a 1-1 electrolyte solution,</p><formula xml:id="formula_88">F(y) ¼ 2b sinh y 2 1 þ 1 b 2 À 1 1 cosh 2 (y=4) ! 1=2</formula><p>ð1:169Þ</p><p>(ii) For the case of 2-1 electrolytes,</p><formula xml:id="formula_89">F(y) ¼ b(1 À e Ày ) 2 3 e y þ 1 3 1=2 " 1 þ 2 1 b 2 À 1 (2 þ e Ày )( 2 3 e y þ 1 3 ) 1=2 À 3 (1 À 2 Ày ) 2 ( 2 3 e y þ 1 3 ) # 1=2</formula><p>ð1:170Þ</p><p>(iii) For the case of a mixed solution of 1-1 electrolyte of concentration n 1 and 2-1 electrolyte of concentration n 2 ,</p><formula xml:id="formula_90">F(y) ¼ b(1 À e Ày ) 1 À Z 3 e y þ Z 3 h i 1=2 Â 1 þ 2(b À2 À 1) (1 À e Ày ) 2 f(1 À Z=3)e y þ Z=3g Â (2 þ e Ày ) ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi 1 À Z 3 e y þ Z 3 r À 3 À ffiffi ffi 3 p (1 À Z) 2 ffiffi ffi Z p &amp; Âln f ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi (1 À Z=3)e y þ Z=3 p À ffiffiffiffiffiffiffi ffi Z=3 p g(1 þ ffiffiffiffiffiffiffi ffi Z=3 p ) f ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi (1 À Z=3)e y þ Z=3 p þ ffiffiffiffiffiffiffi ffi Z=3 p g(1 À ffiffiffiffiffiffiffi ffi Z=3 p ) !#) 1=2 ð1:171Þ</formula><p>where Z is defined by Eq. (1.61).</p><p>The relationship between the reduced surface charge density s and the reduced surface potential y o ¼ ec o /KT follows immediately from Eq. (1.141), namely <ref type="bibr">[10]</ref>, For the case of a cylinder having a surface potential y o in a 1-1 electrolyte solution, F(y) is given by Eq. (1.169). Substitution of Eq. (1.169) into Eq. (1.172) yields Eq. (1.158) with z ¼ 1. For the case of 2-1 electrolytes, F(y) is given by Eq. (1.170).</p><formula xml:id="formula_91">s ¼ Àe r e o @c @r r¼a þ ¼ e</formula><p>The s-y o relationship is thus given by</p><formula xml:id="formula_92">s ¼ e r e o kkT e pq 1 þ 2 1 b 2 À 1 (3 À p)q À 3 (pq) 2 ! 1=2 ð1:173Þ</formula><p>For a mixed solution of 1-1 electrolyte of concentration n 1 and 2-1 electrolyte of concentration n 2 , F(y) is given by Eq. (1.171). The s-y o relationship is thus given by</p><formula xml:id="formula_93">s ¼ e r e o kkT e pt 1 þ 2(b À2 À 1) (pt) 2 (3 À p) f t À 3 À ffiffi ffi 3 p (1 À Z) 2 ffiffi ffi Z p ln (t À ffiffiffiffiffiffiffi ffi Z=3 p )(1 þ ffiffiffiffiffiffiffi ffi Z=3 p ) (t þ ffiffiffiffiffiffiffi ffi Z=3 p )(1 À ffiffiffiffiffiffiffi ffi Z=3 p ) !)# 1=2 ð1:174Þ with t ¼ ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi 1 À Z 3 e y o þ Z 3 r ð1:<label>175Þ</label></formula><p>Similarly, for the case of 3-1 electrolytes, F(y) is calculated from f(y) (Eq. (1.62)). For a mixed solution of 3-1 electrolyte of concentration n 2 and 1-1 electrolyte of concentration n 1 , F(y) is calculated from f(y) (Eq. (1.63)). By substituting the obtained expressions for F(y) into Eq. (1.172) and carrying out numerical integration, we can derive the s-y o relationship.</p><p>Equation Equation (1.176) gives the general expression for the potential distribution around a cylinder. For the special case of a cylinder in a 1-1 electrolyte, in which case F(y) is given by Eq. (1.134), we obtain Eq. (1.157) with z ¼ 1. For other types of electrolytes, one can calculate by using Eq. (1.176) with the help of the corresponding expression for F(y).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.6">ASYMPTOTIC BEHAVIOR OF POTENTIAL AND EFFECTIVE SURFACE POTENTIAL</head><p>Consider here the asymptotic behavior of the potential distribution around a particle (plate, sphere, or cylinder) at large distances, which will also be used for calculating the electrostatic interaction between two particles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.6.1">Plate</head><p>Consider a charged plate with arbitrary surface potential c o in a symmetrical electrolyte solution of valence z and Debye-Hu ¨ckel parameter k. We take an x-axis perpendicular to the plate surface with its origin at the plate surface so that the region x &gt; 0 corresponds to the solution phase while the region x &lt; 0 to the plate interior. Equation (1.37) (or Eq. (1.38)) for the potential distribution c(x) around the surface in the region far from the surface, that is, at large kx, takes the form where g is defined by Eq. (1.39). For small potentials, the effective surface potential c eff tends to the real surface potential c o . Figure <ref type="figure" target="#fig_5">1</ref>.16 shows the asymptotic solution (Eq. (1.178)) in comparison with the exact solution (Eq. (1.37)). For a sphere in a 2-1 electrolyte solution, it follows from Eq. (1.44) that c(x) asymptotes</p><formula xml:id="formula_94">c(x) ¼ 4kT e g 0 e Àkx ¼ kT e Á 6 ( 2 3 e y o þ 1 3 ) 1=2 À 1 ( 2 3 e y o þ 1 3 ) 1=2 þ 1 ( ) e Àkx ð1:<label>181Þ</label></formula><p>where g 0 is defined by Eq. <ref type="bibr">(1.45</ref>). The effective surface potential c eff is thus given by</p><formula xml:id="formula_95">c eff ¼ 4kT e g 0 ¼ kT e Á 6 ( 2 3 e y o þ 1 3 ) 1=2 À 1 ( 2 3 e y o þ 1 3 ) 1=2 þ 1 ( ) ð1:182Þ</formula><p>and the scaled effective surface potential Y ¼ zey eff /kT is given by</p><formula xml:id="formula_96">Y ¼ 4g 0 ¼ 6 ( 2 3 e y o þ 1 3 ) 1=2 À 1 ( 2 3 e y o þ 1 3 ) 1=2 þ 1 ( ) ð1:<label>183Þ</label></formula><p>For the case of a mixed solution of 1-1 electrolyte of bulk concentration n 1 and 2-1 electrolyte of bulk concentration n 2 , Eq. (1.48) in the region far from the surface, that is, at large kx, takes the form c(x) ¼ 4kT e g 00 e Àkx ¼ 4kT e</p><formula xml:id="formula_97">1 1 À Z=3 f(1 À Z=3)e y o þ Z=3g 1=2 À 1 f(1 À Z=3)e y o þ Z=3g 1=2 þ 1 " # e Àkx ð1:<label>184Þ</label></formula><p>where Z and g 00 are defined by Eqs. (1.50) and (1.51), respectively. The effective surface potential c eff is thus given by</p><formula xml:id="formula_98">c eff ¼ 4kT e g 00 ¼ 4kT e 1 1 À Z=3 f(1 À Z=3)e y o þ Z=3g 1=2 À 1 f(1 À Z=3)e y o þ Z=3g 1=2 þ 1 " # ð1:185Þ</formula><p>and the scaled effective surface potential Y ¼ zey eff /kT is given by We obtain the scaled effective surface potential Y for a plate having a surface potential c o (or scaled surface potential y o ) immersed in a solution of general electrolytes <ref type="bibr">[9]</ref>. Integration of the Poisson-Boltzmann equation for the electric potential c(x) is given by Eq. (1.65), namely,</p><formula xml:id="formula_99">Y ¼ 4g 00 ¼ 4 1 1 À Z=3 f(1 À Z=3)e y o þ Z=3g 1=2 À 1 f(1 À Z=3)e y o þ Z=3g 1=2 þ 1 " # ð1:186Þ</formula><formula xml:id="formula_100">kx ¼ Z y o y dy f (y) ð1:<label>187Þ</label></formula><p>where y ¼ ec/kT and f(x) is defined by Eq. (1.56). Equation (1.187) can be rewritten as</p><formula xml:id="formula_101">kx ¼ Z y o y 1 f (y) À 1 y &amp; ' dy þ Z y o y 1 y dy ¼ Z y o y 1 f (y) À 1 y &amp; '</formula><p>dy þ ln y o À ln yj j j ð1:188Þ Note here that the asymptotic form y(x) must be</p><formula xml:id="formula_102">y(x) ¼ constant Â exp( À kx) ð1:189Þ or kx ¼ constant À ln yj j ð1:<label>190Þ</label></formula><p>Therefore, the integral term of (1.188) must become independent of y at large x. Since y tends to zero in the limit of large x, the lower limit of the integration may be replaced by zero. We thus find that the asymptotic form y(x) satisfies</p><formula xml:id="formula_103">kx ¼ Z y o 0 1 f (y) À 1 y &amp; ' dy þ ln y o j À ln yj j j ð1:<label>191Þ</label></formula><p>It can be shown that the asymptotic form of y(x) satisfies</p><formula xml:id="formula_104">y(x) ¼ Ye Àkx ð1:192Þ with Y ¼ y o exp Z y o 0 1 f (y) À 1 y &amp; ' dy ! ð1:<label>193Þ</label></formula><p>Equation (1.193) is the required expression for the scaled effective surface potential (or the asymptotic constant) Y. Wilemski <ref type="bibr">[11]</ref> has derived an expression for Y (Eq. <ref type="bibr">(15)</ref> with Eq. ( <ref type="formula">12</ref>) in his paper <ref type="bibr">[11]</ref>), which can be shown to be equivalent to Eq. <ref type="bibr">(1.193)</ref>. For a planar surface having scaled surface potentials y o in a z-z symmetrical electrolyte solution, Eq. (1.193) reproduces Eq. (1.180). Similarly, for the case of a planar surface having a scaled surface potential y o in a 2-1 electrolyte solution, Eq. (1.193) reproduces Eq. (1.183), while for the case of a mixed solution of 1-1 electrolyte of concentration n 1 and 2-1 electrolyte of concentration n 2 , it gives Eq. (1.186).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.6.2">Sphere</head><p>The asymptotic expression for the potential of a spherical particle of radius a in a symmetrical electrolyte solution of valence z and Debye-Hu ¨ckel parameter k at a large distance r from the center of the sphere may be expressed as</p><formula xml:id="formula_105">c(r) ¼ c eff a r e Àk(rÀa) ð1:194Þ y(r) ¼ ze kT c(r) ¼ Y a r e Àk(rÀa) ð1:<label>195Þ</label></formula><p>where r is the radial distance measured from the sphere center, c eff is the effective surface potential, and Y ¼ zec eff /kT is the scaled effective surface potential of a sphere. From Eq. (1.122) we obtain</p><formula xml:id="formula_106">c eff ¼ kT ze Á 8 tanh(y o =4) 1 þ f1 À ((2ka þ 1)=(ka þ 1) 2 )tanh 2 (y o =4)g 1=2 ð1:196Þ or Y ¼ 8 tanh(y o =4) 1 þ f1 À ((2ka þ 1)=(ka þ 1) 2 )tanh 2 (y o =4)g 1=2 ð1:<label>197Þ</label></formula><p>It can be shown that c eff reduces to the real surface potential c o in the low-potential limit.</p><p>We obtain an approximate expression for the scaled effective surface potential Y for a sphere of radius a having a surface potential c o (or scaled surface potential y o ¼ ey o /kT) immersed in a solution of general electrolytes <ref type="bibr">[9]</ref>. The Poisson-Boltzmann equation for the scaled electric potential y(r) ¼ ec/kT is approximately given by Eq. (1.137), namely,</p><formula xml:id="formula_107">Àln s ¼ Z y o y dy F(y) ð1:198Þ with s ¼ a r exp( À k(r À a)) ð1:<label>199Þ</label></formula><p>where F(y) is defined by Eq. (1.133). It can be shown that the scaled effective surface potential Y ¼ ec eff /kT is given by</p><formula xml:id="formula_108">Y ¼ y o exp Z y o 0 1 F(y) À 1 y &amp; ' dy ! ð1:<label>200Þ</label></formula><p>Equation (1.200) is the required expression for the scaled effective surface potential (or the asymptotic constant) Y and reproduces Eq. (1.197) for a sphere of radius a having a surface potential c o in a symmetrical electrolyte solution of valence z. The relative error of Eq. (1.200) is less than 1% for ka ! 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.6.3">Cylinder</head><p>The effective surface potential c eff or scaled effective surface potential Y ¼ zec eff / kT of a cylinder in a symmetrical electrolyte solution of valence z can be obtained from the asymptotic form of the potential around the cylinder, which in turn is derived from Eq. (1.157) as <ref type="bibr">[7]</ref> y(r) ¼ Yc ð1:201Þ</p><formula xml:id="formula_109">with c ¼ K 0 (kr) K 0 (ka) ð1:202Þ and Y ¼ 8 tanh(y o =4) 1 þ f1 À (1 À b 2 )tanh 2 (y o =4)g 1=2 ð1:<label>203Þ</label></formula><p>where r is the distance from the axis of the cylinder and b ¼ K 0 (ka) K 1 (ka) ð1:204Þ</p><p>We obtain an approximate expression for the scaled effective surface potential Y for a cylinder of radius a having a surface potential c eff (or scaled surface potential Y ¼ ec eff /kT) immersed in a solution of general electrolytes . The Poisson-Boltzmann equation for the scaled electric potential y(r) ¼ ec/kT is approximately given by Eq. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.7">NEARLY SPHERICAL PARTICLE</head><p>So far we have treated uniformly charged planar, spherical, or cylindrical particles. For general cases other than the above examples, it is not easy to solve analytically the Poisson-Boltzmann equation (1.5). In the following, we give an example in which one can derive approximate solutions.</p><p>We give below a simple method to derive an approximate solution to the linearized Poisson-Boltzmann equation (1.9) for the potential distribution c(r) around a nearly spherical spheroidal particle immersed in an electrolyte solution <ref type="bibr">[12]</ref>. This method is based on Maxwell's method <ref type="bibr">[13]</ref> to derive an approximate solution to the Laplace equation for the potential distribution around a nearly spherical particle.</p><p>Consider first a prolate spheroid with a constant uniform surface potential c o in an electrolyte solution (Fig. <ref type="figure" target="#fig_5">1</ref>.17a). The potential c is assumed to be low enough to obey the linearized Poisson-Boltzmann equation (1.9). We choose the z-axis as the axis of symmetry and the center of the prolate as the origin. Let a and b be the major and minor axes of the prolate, respectively. The equation for the surface of the prolate is then given by</p><formula xml:id="formula_110">x 2 þ y 2 b 2 þ z 2 a 2 ¼ 1 ð1:207Þ</formula><p>We introduce the spherical polar coordinate (r, , ), that is, NEARLY SPHERICAL PARTICLE which is an approximate equation for the surface of the prolate with low eccentricity e p (which is correct to order e 2 p ). The solution to Eq. (1.9) must satisfy the boundary conditions that c tends to zero as r ! 1 and c ¼ c o at the prolate surface (given by Eq. (1.209)). We thus obtain where k n (z) is the modified spherical Bessel function of the second kind of order n.</p><formula xml:id="formula_111">r 2 ¼ x 2 þ y 2 þ z</formula><p>We can also obtain the surface charge density s() from Eq. (1.210), namely, s() ¼ Àe r e o @c @n ¼ Àe r e o cos a @c @r at r ¼ a 1 þ e 2 </p><formula xml:id="formula_112">¼ 1 þ 1 ka þ e 2 p 3ka 1À 2 þ 2ka þ (ka) 2 &amp; À(1 þ ka) f9 þ 9ka þ 4(ka) 2 þ (ka) 3 g 2f3 þ 3ka þ (ka) 2 g (3 cos 2 À 1)</formula><p>'! ð1:212Þ  We next consider the case of an oblate spheroid with constant surface potential c o (Fig. <ref type="figure" target="#fig_5">1</ref>.17b). The surface of the oblate is given by</p><formula xml:id="formula_113">x 2 þ y 2 a 2 þ z 2 b 2 ¼ 1 ð1:213Þ</formula><p>where the z-axis is again the axis of symmetry, a and b are the major and minor semiaxes, respectively. Equation (1.213) can be approximated by   </p><formula xml:id="formula_114">r ¼ a 1 þ e 2 o 2 sin 2 ¼ a 1 À e 2</formula><formula xml:id="formula_115">¼ 1 þ 1 kb À e 2 o 3kb 1À ½ 2 þ 2kb þ (kb) 2 È À(1 þ kb) f9 þ 9kb þ 4(kb) 2 þ (kb) 3 g 2f3 þ 3kb þ (kb)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C O P Y R I G H T E D M A T E R I A L</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>:4Þ which is the required relation between c(r) and r el (r). Combining Eqs. (1.2) and (1.4) gives Dc(r) ¼ À 1 e r e o X N i¼1 z i en 1 i exp À z i ec(r) kT ð1:5Þ</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIGURE 1 . 1</head><label>11</label><figDesc>FIGURE 1.1 Electrical double layer around a positively charged colloidal particle. The particle is surrounded by an ionic cloud, forming the electrical double layer of thickness 1/k, in which the concentration of counterions is greater than that of coions.</figDesc><graphic coords="22,130.94,66.71,178.53,170.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Equation ( 1 . 9 )</head><label>19</label><figDesc>is the linearized Poisson-Boltzmann equation and k in Eq. (1.10) is the Debye-Hu ¨ckel parameter. This linearization is called the Debye-Hu ¨ckel approximation and Eq. (1.9) is called the Debye-Hu ¨ckel equation. The reciprocal of k (i.e., 1/k), which is called the Debye length, corresponds to the thickness of the double layer. Note that n 1 i in Eqs. (1.5) and (1.10) is given in units of m À3 . If one uses the units of M (mol/L), then n</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1.3 exhibits g as a function of y o , showing that g is a linearly increasing function of y o for low y o , namely, g % y o 4 ¼ zec o 4kT ð1:40Þ but reaches a plateau value at 1 for jy o j ! 8.Figure 1.4 shows y(x) for several values of y o calculated from Eq. (1.37) in comparison with the Debye-Hu ¨ckel linearized solution (Eq. (1.25)). It is seen that the Debye-Hu ¨ckel approximation is good for low potentials (|y o | 1). As seen from Eqs. (1.25) and (1.37), the potential c(x) across the electrical double layer varies nearly</figDesc><graphic coords="28,123.17,400.75,194.06,185.73" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 1 .</head><label>1</label><figDesc>4 shows y(x) for several values of y o calculated from Eq. (1.37) in comparison with the Debye-Hu ¨ckel linearized solution (Eq. (1.25)). It is seen that the Debye-Hu ¨ckel approximation is good for low potentials (|y o | 1). As seen from Eqs. (1.25) and (1.37), the potential c(x) across the electrical double layer varies nearly</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>FIGURE 1 . 3 g</head><label>13</label><figDesc>FIGURE 1.3 g as a function of jy o j (Eq. (1.39)).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>FIGURE 1 . 5</head><label>15</label><figDesc>FIGURE 1.5 Concentrations of counterions (anions) n À (x) and coions (cations) n + (x) around a positively charged planar surface (arbitrary scale). Calculated from Eqs. (1.3) and (1.26) for y o ¼ 2.</figDesc><graphic coords="29,119.94,368.88,204.04,195.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>FIGURE 1 . 4</head><label>14</label><figDesc>FIGURE 1.4 Potential distribution y(x) zec(x)/kT around a positively charged plate with scaled surface potential y o zec o /kT. Calculated for y o ¼ 1, 2, and 4. Solid lines, exact solution (Eq. (1.37)); dashed lines, the Debye-Hu ¨ckel linearized solution (Eq. (1.25)).</figDesc><graphic coords="29,135.08,66.71,173.76,172.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head></head><label></label><figDesc>PLATEconcentrations of counterion (n À (x) ¼ n exp(y(x))) and coions (n þ (x) ¼ n exp(Ày(x))) around a positively charged plate as a function of the distance x from the plate surface, showing that these quantities decay almost exponentially over the distance of the Debye length 1/k just like the potential distribution c(x) in Fig.1.4. By substituting Eq. (1.38) into Eq. (1.23), we obtain the following relationship connecting c o and s: s ¼ 2e r e o kkT ze sinh zec o 2kT ¼ (8ne r e o kT) 1=2 sinh zec o 2kT ð1:41Þ</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head></head><label></label><figDesc>:42Þ If s is small and thus c o is low, that is, the condition (Eq. (1.8)) is fulfilled, then Eq. (1.38) reduces to Eq. (1.25) with the surface potential given by Eq. (1.26). Figure 1.6 shows the s-c o relationship calculated from Eq. (1.42) in comparison with the approximate results (Eq. (1.26)). The deviation of Eq. (1.26) from Eq. (1.42) becomes significant as the charge density s increases.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>FIGURE 1 . 6</head><label>16</label><figDesc>FIGURE 1.6 Scaled surface potential y o ¼ zec o /kT as a function of the scaled surface charge density s Ã ¼ zes/e r e o kkT for a positively charged planar plate in a symmetrical electrolyte solution of valence z. Solid line, exact solution (Eq. (1.41)); dashed line, Debye-Hu ¨ckel linearized solution (Eq. (1.26)).</figDesc><graphic coords="30,118.18,351.59,204.04,201.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head></head><label></label><figDesc>:48Þ PLATE Equation (1.48) subject to the boundary conditions (1.21) and (1.22) can be easily integrated to give</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>1. 4 SPHERE</head><label>4</label><figDesc>Consider a spherical particle of radius a in a general electrolyte solution. The electric potential c(r) at position r obeys the following spherical Poisson-Boltzmann equation[3]:</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head></head><label></label><figDesc>1.7). The boundary conditions for c(r), which are similar to Eqs. (1.21) and (1.22) for a planar surface, are given by c ¼ c o at r ¼ a þ ð1:69Þ c ! 0; dc dr ! 0 as zr ! 1 ð1:70Þ 1.4.1 Low Potential When the potential is low, Eq. (1.68) can be linearized to give d 2 c dr 2 þ 2 r dc dr ¼ k 2 c ð1:71Þ The solution to Eq. (1.71) subject to Eqs. (1.69) and (1.70) is c(r) ¼ c o a r e Àk(rÀa) ð1:72Þ</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>FIGURE 1 . 7 A</head><label>17</label><figDesc>FIGURE 1.7 A sphere of radius a.</figDesc><graphic coords="35,144.88,66.71,154.20,121.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head>FIGURE 1 . 8</head><label>18</label><figDesc>FIGURE 1.8 Surface potential c o and surface charge density s relationship of a spherical particle of radius a as a function of ka calculated with Eq. (1.76). For ka ! 10 2 , the surface potential c o can be regarded as c o = s/e r e o k for the surface potential of a plate.</figDesc><graphic coords="37,125.61,66.71,192.64,180.11" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>FIGURE 1 . 9</head><label>19</label><figDesc>FIGURE 1.9 Surface potential c o and surface charge density s relationship of a spherical particle of radius a as a function of ka calculated with Eq. (1.76). For ka 10 À2 , the surface potential c o can be regarded as the Coulomb potential c o = Q/4pe r e o a.</figDesc><graphic coords="37,126.52,384.48,190.94,178.81" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head>FIGURE 1 . 10</head><label>110</label><figDesc>FIGURE 1.10 Scaled surface charge density s Ã = zes/e r e o kkT as a function of the scaled surface potential y o = zec o /kT for a positively charged sphere in a symmetrical electrolyte solution of valence z for various values of ka. Solid line, exact solution (Eq. (1.86)); dashed line, Debye-Hu ¨ckel linearized solution (Eq. (1.76)).</figDesc><graphic coords="39,122.32,66.71,199.28,193.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>! ð1: 102Þ From</head><label>102Þ</label><figDesc>Eqs.(1.75) and (1.102) we obtain the first-order s-y o relationship, namely, Note that since f(y o ) ! y o as y o ! 0, Eq. (1.103) tends to the correct form in the limit of small y o (Eq. (1.76)), namely,s ¼ e r e o k 1 þ 1 ka c o ð1:104ÞWe can further obtain the second-order s-y o relationship by replacing the second term on the left-hand side of Eq. (1.94) by the corresponding quantity for the firstorder case (i.e., by using Eq. (1.101) instead of Eq. (1.97)), namely,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_22"><head></head><label></label><figDesc>:109Þ which is the required second-order s-y o relationship. For some simple cases, from Eqs. (1.103) and (1.109) with Eq. (1.56) one can derive explicit expressions for the s-y o relationship. Indeed, for 1-1 and 2-1 electrolyte solutions and their mixed solution, Eqs. (1.103) and (1.109) with Eqs. (1.58)-(1.60) yield Eqs. (1.80) and (1.86)-(1.88). As another example, one can derive expressions for the s-y o relationship for the case of 3-1 electrolytes of concentration n. In this case, the Debye-Hu ¨ckel parameter k and f(y) are given by Eqs. (1.15) and (1.62), respectively. By substituting Eq. (1.62) into Eqs. (1.103) and (</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_23"><head>FIGURE 1 . 11 FIGURE 1 . 13</head><label>111113</label><figDesc>FIGURE 1.11 Scaled potential distribution y(r) around a positively charged spherical particle of radius a with y o ¼ 2 in a symmetrical electrolyte solution of valence z for several values of ka. Solid lines, exact solution to Eq. (1.110); dashed lines, Debye-Hu ¨ckel linearized solution (Eq. (1.72)). Note that the results obtained from Eq. (1.122) agree with the exact results within the linewidth.</figDesc><graphic coords="45,121.87,347.28,200.13,195.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_24"><head>FIGURE 1 . 12</head><label>112</label><figDesc>FIGURE 1.12 Contour lines (isopotential lines) for c(r) around a positively charged sphere with y o ¼ 2 at ka ¼ 1. Arbitrary scale.</figDesc><graphic coords="46,112.23,66.71,216.00,216.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_25"><head>FIGURE 1 . 14</head><label>114</label><figDesc>FIGURE 1.14 Density plots of coions (cations) around a positively charged spherical particle with y o ¼ 2 at ka ¼ 1. Calculated from n + (r) ¼ n exp(Ày(r)) with the help of Eq. (1.121).The darker region indicates the higher density and n + (r) tends to its bulk value n far from the particle.</figDesc><graphic coords="47,113.99,66.71,216.00,216.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_26"><head></head><label></label><figDesc>Substituting Eq. (1.134) into Eq. (1.137), we obtain Eq. (1.122) with z ¼ 1. For a 2-1 electrolyte and a mixture of 1-1 and 2-1 electrolytes, one can numerically calculate y(r) from Eq. (1.137) with the help of Eqs. (1.135) and (1.136) for F(y). For a 3-1 electrolyte and a mixture of 1-1 and 3-1 electrolytes, one can numerically calculate F(y) from f(y) (Eqs. (1.62) and (1.63)) with the help of Eq. (1.133) and then calculate y(r) from Eq. (1.137).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_27"><head>2 d 2 y dc 2</head><label>22</label><figDesc>:150Þ and the boundary conditions (1.139) and (1.140) as y ¼ y o for c ¼ 1 ð1:151Þ y ¼ dy ds ¼ 0 for c ¼ 0 ð1:152Þ In the limit ka ) 1, Eq. (1.148) reduces to c</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_28"><head>r e o kkT e K 1</head><label>1</label><figDesc>Note that when jy o j ( 1, Eq. (1.172) gives the correct limiting form (Eq. (1.144)), since F(y) ! y as y ! 0.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_29"><head></head><label></label><figDesc>(1.167) is integrated again to give Àln c ¼</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_30"><head>FIGURE 1 .</head><label>1</label><figDesc>FIGURE 1.16 Potential distribution y(x) around a positively charged plate with scaled surface potential y o zec o /kT in a symmetrical electrolyte solution for y o ¼ 1, 2, and 5. Solid lines are exact results (Eq. (1.37)), dashed lines are asymptotic results (Eq. (1.178)), and dotted lines are the Debye-Hu ¨ckel approximation (Eq. (1.25)).</figDesc><graphic coords="57,119.37,66.71,205.17,199.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_31"><head>Equation ( 1 .</head><label>1</label><figDesc>where F(y) is defined by Eq. (1.168). It can be shown that the scaled effective surface potential Y ¼ ec eff /kT is given by Y ¼ y o exp 206) reproduces Eq. (1.203) for a cylinder in a symmetrical electrolyte solution of valence z. The relative error of Eq. (1.206) is less than 1% for ka ! 1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_32"><head>FIGURE 1 .</head><label>1</label><figDesc>FIGURE 1.17 Prolate spheroid (a) and oblate spheroid (b). a and b are the major and minor semiaxes, respectively. The z-axis is the axis of symmetry.</figDesc><graphic coords="61,119.94,469.29,204.04,106.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_34"><head></head><label></label><figDesc>where a is the angle between n and r. It can be shown that cosa ¼ 1 þ O(e4p ). Then we find from Eqs. (1.210) and (1.211) that s() e r e o kc o</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_35"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1.18 shows equipotential lines (contours) around a prolate spheroid on the z-x plane at y ¼ 0, calculated from Eq. (1.210) at ka ¼ 1.5 and kb ¼ 1.</figDesc><graphic coords="62,141.60,403.75,157.21,171.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_36"><head>FIGURE 1 .</head><label>1</label><figDesc>FIGURE 1.18 Equipotential lines (contours) around a prolate spheroid on the z-x plane at y ¼ 0. Calculated from Eq. (1.210) at ka ¼ 1.5 and kb ¼ 1 (arbitrary size).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_37"><head></head><label></label><figDesc>where the eccentricity e o of the oblate is given bye o ¼ ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi (a=b) 2 À 1 q ð1:215ÞAfter carrying out the same procedure as employed for the case of the prolate spheroid, we find that c(r, ) and the s-c o relationship, both correct to order e 2 o , are given by c(r; ) ¼ c o b r e Àk(rÀb) À c o (1 þ kb) e r e o kc o</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>1  i must be replaced by 1000N A n 1 i , N A being Avogadro's number.Expressions for k for various types of electrolytes are explicitly given below.</figDesc><table><row><cell>k ¼</cell><cell>2z 2 e 2 n e r e o kT</cell><cell>1=2</cell><cell>ð1:11Þ</cell></row></table><note><p>(i) For a symmetrical electrolyte of valence z and bulk concentration n, (ii) For a 1-1 symmetrical electrolyte of bulk concentration n, k ¼ 2e 2 n e r e o kT 1=2 ð1:12Þ</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>À1 . This field, which is generated by s, is equal to s/e r e o . Thus, we have c o /k À1 ¼ s/e r e o , resulting in Eq.(1.26).</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>PLATE PLATE</cell></row><row><cell cols="5">particle surface by (see Eq. (1.7)) then Eq. (1.27) becomes is the scaled surface potential. Thus, we obtain</cell></row><row><cell cols="5">dc dx d 2 y x¼0 þ dx 2 ¼ k 2 sinh y ¼ À s e r e o y(x) ¼ 4 arctanh(ge Àkx ) ¼ 2 ln</cell><cell>1 þ ge Àkx 1 À ge Àkx</cell><cell>ð1:23Þ ð1:29Þ ð1:37Þ</cell></row><row><cell cols="5">where the Debye-Hu ¨ckel parameter k is given by Eq. (1.11). Note that y(x) is scaled or</cell></row><row><cell cols="5">Charged surface If the potential c is low (Eq. (1.8)), then Eq. (1.20) reduces to the following linear-1.3.1 Low Potential by kT/ze, which is the thermal energy measured in units of volts. At room tempera-tures, kT/ze (with z ¼ 1) amounts to ca. 25 mV. Equation (1.29) can be solved by multiplying dy/dx on its both sides to give c(x) ¼ 2kT ze ln 1 þ ge Àkx 1 À ge Àkx ð1:38Þ</cell></row><row><cell cols="5">ized Poisson-Boltzmann equation (Eq. (1.9)):</cell></row><row><cell></cell><cell cols="2">dy dx</cell><cell cols="2">d 2 c dx 2 ¼ k 2 c d 2 y dx 2 ¼ k 2 sinh y</cell><cell>dy dx</cell><cell>ð1:24Þ ð1:30Þ</cell></row><row><cell cols="5">The solution to Eq. (1.24) subject to Eqs. (1.21) and (1.22) can be easily ob-which is transformed into</cell></row><row><cell cols="5">1/κ FIGURE 1.2 Schematic representation of potential distribution c(x) near the positively charged plate. tained: c(x) ¼ c o e Àkx ð1:25Þ 1 2 d dx dy dx ( ) 2 ¼ k 2 d dx cosh y ð1:31Þ</cell></row><row><cell cols="5">Equations (1.23) and (1.25) give the following surface charge density-surface potential (s-c o ) relationship: Integration of Eq. (1.31) gives</cell></row><row><cell>dy dx</cell><cell>2</cell><cell cols="3">c 0 ¼ ¼ 2k 2 cosh y þ constant s e r e o k</cell><cell>ð1:26Þ ð1:32Þ</cell></row><row><cell cols="5">Equation (1.26) has the following simple physical meaning. Since c decays from By taking into account Eq. (1.22), we find that constant ¼ À2k 2 so that Eq. c o to zero over a distance of the order of k À1 (Eq. (1.25)), the electric field at the (1.32) becomes particle surface is approximately given by c o /k 1.3.2 Arbitrary Potential: Symmetrical Electrolyte dy dx 2 ¼ 2k 2 (cosh y À 1) ¼ 4k 2 sinh 2 y 2 ð1:33Þ</cell></row><row><cell cols="5">Now we solve the original nonlinear Poisson-Boltzmann equation (1.20). If the Since y and dy/dx are of opposite sign, we obtain from Eq. (1.33)</cell></row><row><cell cols="5">plate is immersed in a symmetrical electrolyte of valence z and bulk concentration n, then Eq. (1.20) becomes d 2 c(x) dx 2 ¼ À zen e r e o exp À zec(x) kT À exp dy ¼ À2k sinh(y=2) ð1:34Þ dx ! zec(x) Equation (1.34) can be further integrated to give kT ¼ 2zen e r e o sinh zec(x) kT ð1:27Þ Z y o y Z x dy 0 2 sinh(y=2) ¼ k dx ð1:35Þ</cell></row><row><cell cols="5">We introduce the dimensionless potential y(x) where</cell></row><row><cell></cell><cell></cell><cell></cell><cell>y ¼ y o ¼</cell><cell>zec kT zec o kT</cell><cell>ð1:28Þ ð1:36Þ</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head></head><label></label><figDesc>6n 2 ð1:64Þ By integrating Eq. (1.55) between x ¼ 0 (y ¼ y o ) and x ¼ x (y ¼ y), we obtain For a symmetrical electrolyte of valence z, 2-1 electrolytes, and a mixed solution of 2-1 electrolyte of concentration n 2 and 1-1 electrolyte of concentration n 1 , Eq.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">kx ¼</cell><cell>Z y o y</cell><cell>dy f (y)</cell><cell>ð1:65Þ</cell></row><row><cell cols="8">which gives the relationship between y and x. For a symmetrical electrolyte of va-</cell></row><row><cell cols="8">lence z, 2-1 electrolytes, and a mixed solution of 2-1 electrolyte of concentration n 2</cell></row><row><cell cols="8">and 1-1 electrolyte of concentration n 1 , Eq. (1.65) reproduces Eqs. (1.38), (1.44),</cell></row><row><cell cols="3">and (1.49), respectively.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="8">The surface charge density-surface potential (s-y o ) relationship is obtained from</cell></row><row><cell cols="8">Eqs. (1.23) and (1.55) and given in terms of f(y o ) as</cell></row><row><cell></cell><cell></cell><cell cols="3">s ¼ Àe r e o</cell><cell cols="2">dc dx</cell><cell>x¼0 þ</cell><cell>¼</cell><cell>e r e o kkT e</cell><cell>f (y o )</cell><cell>ð1:66Þ</cell></row><row><cell>or</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">s ¼</cell><cell cols="2">e r e 0 kkT e</cell><cell cols="2">sgn(y o ) 6 6 6 6 4 2</cell><cell cols="2">2</cell><cell>i¼1 X N n i (e Àz i y 0 À 1) X N z 3 i n i</cell><cell>7 5 7 7 7 3 1=2</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>i¼1</cell></row><row><cell>¼</cell><cell cols="2">e r e 0 kkT e</cell><cell cols="5">sgn(y o )(1 À e Ày 0 )</cell><cell>2 6 6 6 6 4</cell><cell>2 (1 À e Ày 0 ) 2 X N i¼1 n i (e Àz i y 0 À 1) X N z 2 i n i</cell><cell>3 7 7 7 7 5</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>i¼1</cell></row><row><cell cols="8">(1.67) combined with Eqs. (1.57), (1.59), and (1.60) reproduces Eqs. (1.41), (1.47),</cell></row><row><cell cols="3">and (1.52), respectively.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p><p>1=2</p>ð1:67Þ Note that as y o ! 0, f(y o ) ! y o so that for low y o Eq. (1.67) reduces to Eq. (1.26).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head></head><label></label><figDesc>.94) reduces to the planar Poisson-Boltzmann equation (1.53), namely,</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell cols="4">d 2 y dr 2 ¼ À</cell><cell cols="4">k 2 P N i¼1 z i n i e Àz i y P N i¼1 z 2 i n i</cell><cell>ð1:95Þ</cell></row><row><cell cols="5">Integration of Eq. (1.95) gives</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>dy dr</cell><cell cols="5">¼ Àsgn(y o )k</cell><cell cols="2">"</cell><cell>2</cell><cell cols="2">P N i¼1 n i (e Àz i y À 1) P N i¼1 z 2 i n i</cell><cell># 1=2</cell><cell>ð1:96Þ</cell></row><row><cell cols="7">Equation (1.96) is thus rewritten as</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">dy dr</cell><cell cols="4">¼ Àkf (y)</cell><cell>ð1:97Þ</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">r¼a þ</cell><cell>¼</cell><cell>e r e o kkT e</cell><cell>f (y o )</cell><cell>ð1:98Þ</cell></row><row><cell cols="11">where y o ec/kT is the scaled surface potential. Equation (1.98) is the zeroth-order</cell></row><row><cell>s-y o relationship.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="11">To obtain the first-order s-y o relationship, we replace the second term on the</cell></row><row><cell cols="11">left-hand side of Eq. (1.94) by the corresponding quantity for the planar case (Eq.</cell></row><row><cell>(1.88)), namely,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>2 r</cell><cell>dy dr</cell><cell>!</cell><cell>2 a</cell><cell>dy dr</cell><cell cols="5">zeroth-order</cell><cell>¼ À</cell><cell>2k a</cell><cell>f (y)</cell><cell>ð1:99Þ</cell></row><row><cell cols="5">Equation (1.94) thus becomes</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>where f(y) is defined by Eq. (1.56). Note that as y ! 0, f(y) tends to y and the right-hand side of Eq. (1.94) is expressed as k 2 f(y)df/dy. By combining Eqs. (1.75) and (1.97), we obtain s ¼ Àe r e o dc dr</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head></head><label></label><figDesc>which can also be obtained directly from Eqs. (1.210) and (1.212) by interchanging a $ b and replacing e 2 p by Àe 2 o . The last term on the right-hand side of Eqs. (1.210), (1.212), (1.216), and (1.217) corresponds to the deviation of the particle shape from a sphere.</figDesc><table><row><cell>CONTENTS</cell><cell></cell></row><row><cell>Preface</cell><cell>xiii</cell></row><row><cell>List of Symbols</cell><cell>xv</cell></row><row><cell>PART I POTENTIAL AND CHARGE AT INTERFACES</cell><cell>1</cell></row><row><cell>1 Potential and Charge of a Hard Particle</cell><cell>3</cell></row><row><cell>1.1 Introduction, 3</cell><cell></cell></row><row><cell>1.2 The Poisson-Boltzmann Equation, 3</cell><cell></cell></row><row><cell>1.3 Plate, 6</cell><cell></cell></row><row><cell>1.3.1 Low Potential, 8</cell><cell></cell></row><row><cell>1.3.2 Arbitrary Potential: Symmetrical Electrolyte, 8</cell><cell></cell></row><row><cell>1.3.3 Arbitrary Potential: Asymmetrical Electrolyte, 13</cell><cell></cell></row><row><cell>1.3.4 Arbitrary Potential: General Electrolyte, 14</cell><cell></cell></row><row><cell>1.4 Sphere, 16</cell><cell></cell></row><row><cell>1.4.1 Low Potential, 17</cell><cell></cell></row><row><cell>'! 1.4.2 Surface Charge Density-Surface Potential Relationship: Symmetrical Electrolyte, 18</cell><cell>ð1:217Þ</cell></row><row><cell>(3 cos 2 À 1) 1.4.3 Surface Charge Density-Surface Potential Relationship: 2 g Asymmetrical Electrolyte, 21</cell><cell></cell></row><row><cell>1.4.4 Surface Charge Density-Surface Potential Relationship:</cell><cell></cell></row><row><cell>General Electrolyte, 22</cell><cell></cell></row><row><cell>1.4.5 Potential Distribution Around a Sphere</cell><cell></cell></row><row><cell>with Arbitrary Potential, 25</cell><cell></cell></row><row><cell>1.5 Cylinder, 31</cell><cell></cell></row><row><cell>1.5.1 Low Potential, 32</cell><cell></cell></row><row><cell>1.5.2 Arbitrary Potential: Symmetrical Electrolyte, 33</cell><cell></cell></row><row><cell>1.5.3 Arbitrary Potential: General Electrolytes, 34</cell><cell></cell></row><row><cell cols="2">1.6 Asymptotic Behavior of Potential and Effective Surface Potential, 37</cell></row><row><cell>1.6.1 Plate, 38</cell><cell></cell></row><row><cell>1.6.2 Sphere, 41</cell><cell></cell></row><row><cell>1.6.3 Cylinder, 42</cell><cell></cell></row><row><cell>1.7 Nearly Spherical Particle, 43</cell><cell></cell></row><row><cell>References, 45</cell><cell></cell></row><row><cell></cell><cell>v</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head>2</head><label></label><figDesc>Potential Distribution Around a Nonuniformly Charged Surface and Discrete Charge Effects 47 2.1 Introduction, 47 2.2 The Poisson-Boltzmann Equation for a Surface with an Arbitrary Fixed Surface Charge Distribution, 47 2.3 Discrete Charge Effect, 56</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>POTENTIAL AND CHARGE OF A HARD PARTICLE</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Derjaguin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Landau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Physicochim</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">633</biblScope>
+			<date type="published" when="1941">1941</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J W</forename><surname>Verwey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Th</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Overbeek</surname></persName>
+		</author>
+		<title level="m">Theory of the Stability of Lyophobic Colloids</title>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Electrical Phenomena at Interfaces: Fundamentals, Measurements, and Applications, 2nd edition, revised and expanded</title>
+		<editor>H. Ohshima and K. Furusawa</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Dekker</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Theory of Colloid and Interfacial Electric Phenomena</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohshima</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Elsevier/Academic Press</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Loeb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Th</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Overbeek</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wiersema</surname></persName>
+		</author>
+		<title level="m">The Electrical Double Layer Around a Spherical Colloid Particle</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc., Faraday Trans. 2</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page">577</biblScope>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Healy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page">17</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="page">525</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page">45</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">200</biblScope>
+			<biblScope unit="page">291</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wilemski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Colloid Interface Sci</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page">111</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colloids Surf. A: Physicochem. Eng. Aspects</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Maxwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">A Treatise on Electricity and Magnetism</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">62</biblScope>
+			<pubPlace>Dover, New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Modified Poisson-Boltzmann Equation 63</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Electrolyte Solution Containing Rod-like Divalent Cations</title>
+		<imprint>
+			<biblScope unit="page">63</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Electrolyte Solution Containing Rod-like Zwitterions</title>
+		<imprint>
+			<biblScope unit="page">70</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Self-atmosphere Potential of Ions</title>
+		<imprint>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 Planar Soft Surface</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">83</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Poisson-Boltzmann Equation</title>
+		<imprint>
+			<biblScope unit="page">83</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Potential Distribution Across a Surface Charge Layer</title>
+		<imprint>
+			<biblScope unit="page">87</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Thick Surface Charge Layer and Donnan Potential</title>
+	</analytic>
+	<monogr>
+		<title level="m">Transition Between Donnan Potential and Surface Potential</title>
+		<imprint>
+			<biblScope unit="page">91</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Donnan Potential in a General Electrolyte</title>
+		<imprint>
+			<biblScope unit="page">92</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">2 Surface Potential-Donnan Potential Relationship</title>
+		<imprint>
+			<biblScope unit="page">95</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Cylindrical Soft Particle</title>
+		<imprint>
+			<biblScope unit="page">100</biblScope>
+			<publisher>Low Charge Density Case</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">2 Surface Potential-Donnan Potential Relationship</title>
+		<imprint>
+			<biblScope unit="page">101</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m">Asymptotic Behavior of Potential and Effective Surface Potential of a Soft Particle</title>
+		<imprint>
+			<biblScope unit="page">102</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m">Sphere</title>
+		<imprint>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Nonuniformly Charged Surface Layer: Isoelectric Point</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">110</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Free Energy of a Charged Surface 111 5</title>
+		<imprint>
+			<biblScope unit="page">111</biblScope>
+		</imprint>
+	</monogr>
+	<note>Introduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Helmholtz Free Energy and Tension of a Hard Surface, 111 5.2.1 Charged Surface with Ion Adsorption</title>
+		<imprint>
+			<biblScope unit="page">116</biblScope>
+		</imprint>
+	</monogr>
+	<note>111 5.2.2 Charged Surface with Dissociable Groups</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Alternative Expression for F el</title>
+		<imprint>
+			<biblScope unit="page">122</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Layer Free Energy for a Planar Soft Surface</title>
+		<imprint>
+			<biblScope unit="page">127</biblScope>
+		</imprint>
+	</monogr>
+	<note>5 Free Energy of a Soft Surface, 123 5.5.1 General Expression, 123 5.5.2 Expressions for the Double</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Soft Surface with Dissociable Groups</title>
+		<imprint>
+			<biblScope unit="page">128</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Potential Distribution Around a Charged Particle in a Salt-Free Medium 132</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m">2 Spherical Particle</title>
+		<imprint>
+			<biblScope unit="page">133</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m">3 Cylindrical Particle</title>
+		<imprint>
+			<biblScope unit="page">143</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Effects of a Small Amount of Added Salts</title>
+		<imprint>
+			<biblScope unit="page">146</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m">5 Spherical Soft Particle</title>
+		<imprint>
+			<biblScope unit="page">152</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">PART II INTERACTION BETWEEN SURFACES 163 7 Electrostatic Interaction of Point Charges in an Inhomogeneous Medium 165</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 Planar Geometry</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">166</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m">3 Cylindrical Geometry</title>
+		<imprint>
+			<biblScope unit="page">180</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Force and Potential Energy of the Double-Layer Interaction Between Two Charged Colloidal Particles 186</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Direct Calculation of Interaction Force</title>
+		<imprint>
+			<biblScope unit="page">188</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Free Energy of Double-Layer Interaction, 198 8.4.1 Interaction at Constant Surface Charge Density</title>
+		<imprint>
+			<biblScope unit="page">200</biblScope>
+		</imprint>
+	</monogr>
+	<note>199 8.4.2 Interaction at Constants Surface Potential</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Alternative Expression for the Electric Part of the Free Energy of Double-Layer Interaction</title>
+		<imprint>
+			<biblScope unit="page">201</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m">Charge Regulation Model</title>
+		<imprint>
+			<biblScope unit="page">201</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">202 CONTENTS vii</title>
+		<author>
+			<persName><surname>References</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Double-Layer Interaction Between Two Parallel Similar Plates 203</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">2 Interaction Between Two Parallel Similar Plates</title>
+		<imprint>
+			<biblScope unit="page">203</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Interaction at Constant Surface Charge Density</title>
+		<imprint>
+			<biblScope unit="page">208</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">2 Interaction at Constant Surface Potential</title>
+		<imprint>
+			<biblScope unit="page">211</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">4 Arbitrary Potential Case</orgName>
+		</author>
+		<imprint>
+			<biblScope unit="page">214</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Interaction at Constant Surface Charge Density</title>
+		<imprint>
+			<biblScope unit="page">214</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m">Constant Surface Potential</title>
+		<imprint>
+			<biblScope unit="page">224</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Comparison Between the Theory of Derjaguin and Landau and the Theory of Verwey and Overbeek</title>
+		<imprint>
+			<biblScope unit="page">226</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Approximate Analytic Expressions for Moderate Potentials</title>
+		<imprint>
+			<biblScope unit="page">227</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Alternative Method of Linearization of the Poisson-Boltzmann Equation</title>
+		<imprint>
+			<biblScope unit="page">231</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Interaction at Constant Surface Potential</title>
+		<imprint>
+			<biblScope unit="page">231</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Interaction at Constant Surface Charge Density</title>
+		<imprint>
+			<biblScope unit="page">234</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m">Electrostatic Interaction Between Two Parallel Dissimilar Plates 241 10.1 Introduction</title>
+		<imprint>
+			<biblScope unit="page">241</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Interaction Between Two Parallel Dissimilar Plates, 241 10.3 Low Potential Case, 244 10.3.1 Interaction at Constant Surface Charge Density, 244 10.3.2 Interaction at Constant Surface Potential</title>
+		<imprint>
+			<biblScope unit="page">252</biblScope>
+		</imprint>
+	</monogr>
+	<note>3.3 Mixed Case</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Arbitrary Potential: Interaction at Constant Surface Charge Density</title>
+		<imprint>
+			<biblScope unit="page">258</biblScope>
+		</imprint>
+	</monogr>
+	<note>252 10.4.1 Isodynamic Curves, 252 10.4.2 Interaction Energy</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">5 Approximate Analytic Expressions for Moderate Potentials</title>
+		<imprint>
+			<biblScope unit="volume">262</biblScope>
+			<biblScope unit="page">263</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Linear Superposition Approximation for the Double-Layer Interaction of Particles at Large Separations 265 11.1 Introduction, 265 11.2 Two Parallel Plates, 265 11.2.1 Similar Plates</title>
+		<imprint>
+			<biblScope unit="page">279</biblScope>
+		</imprint>
+	</monogr>
+	<note>265 11.2.2 Dissimilar Plates, 270 11.2.3 Hypothetical Charge, 276 11.3 Two Spheres, 278 11.4 Two Cylinders</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">281 viii CONTENTS</title>
+		<author>
+			<persName><surname>References</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Derjaguin&apos;s Approximation at Small Separations 283 12.1 Introduction, 283 12.2 Two Spheres, 283 12.2.1 Low Potentials, 285 12.2.2 Moderate Potentials</title>
+		<imprint>
+			<biblScope unit="page">288</biblScope>
+		</imprint>
+	</monogr>
+	<note>286 12.2.3 Arbitrary Potentials: Derjaguin&apos;s Approximation Combined with the Linear Superposition Approximation</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Curvature Correction to Derjaguin&apos; Approximation, 290 12.3 Two Parallel Cylinders, 292 12.4 Two Crossed Cylinders</title>
+		<imprint>
+			<biblScope unit="page">294</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Donnan Potential-Regulated Interaction Between Porous Particles 298 13</title>
+		<imprint>
+			<biblScope unit="page">298</biblScope>
+		</imprint>
+	</monogr>
+	<note>Introduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m">Two Parallel Semi-infinite Ion-penetrable Membranes (Porous Plates)</title>
+		<imprint>
+			<biblScope unit="page">298</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m">4 Two Parallel Porous Cylinders</title>
+		<imprint>
+			<biblScope unit="page">310</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">5 Two Parallel Membranes with Arbitrary Potentials</title>
+		<imprint>
+			<biblScope unit="page">317</biblScope>
+		</imprint>
+	</monogr>
+	<note>Interaction Force and Isodynamic Curves. 5.2 Interaction Energy</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">6 pH Dependence of Electrostatic Interaction Between Ion-penetrable Membranes</title>
+		<imprint>
+			<biblScope unit="page">320</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Series Expansion Representations for the Double-Layer Interaction Between Two Particles 323 14.1 Introduction, 323 14.2 Schwartz&apos;s Method</title>
+		<imprint>
+			<biblScope unit="page">327</biblScope>
+		</imprint>
+	</monogr>
+	<note>323 14.3 Two Spheres</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m">Two Parallel Cylinders, 348 14.6 Plate and Cylinder</title>
+		<imprint>
+			<publisher>Plate and Sphere</publisher>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page">353</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m">Electrostatic Interaction Between Soft Particles 357 15.1 Introduction</title>
+		<imprint>
+			<biblScope unit="page">357</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Interaction Between Two Parallel Dissimilar Soft Plates, 357 15.3 Interaction Between Two Dissimilar Soft Spheres</title>
+		<imprint>
+			<biblScope unit="page">420</biblScope>
+		</imprint>
+	</monogr>
+	<note>363 15.4 Interaction Between Two Dissimilar Soft Cylinders, 369 References, 374 CONTENTS ix 20.2 Interaction Between Lipid Bilayers</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m">3 Interaction Between Soft Spheres</title>
+		<imprint>
+			<biblScope unit="page">425</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m">PART III ELECTROKINETIC PHENOMENA AT INTERFACES 431 21 Electrophoretic Mobility of Soft Particles 433 21.1 Introduction</title>
+		<imprint>
+			<biblScope unit="page">433</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Brief Summary of Electrophoresis of Hard Particles, 433 21.3 General Theory of Electrophoretic Mobility of Soft Particles, 435 21.4 Analytic Approximations for the Electrophoretic Mobility of Spherical Soft Particles</title>
+		<imprint>
+			<biblScope unit="page">447</biblScope>
+		</imprint>
+	</monogr>
+	<note>Large Spherical Soft Particles. 440 21.4.2 Weakly Charged Spherical Soft Particles, 444 21.4.3 Cylindrical Soft Particles</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main">Electrokinetic Flow Between Two Parallel Soft Plates, 449 21.6 Soft Particle Analysis of the Electrophoretic Mobility of Biological Cells and Their Model Particles</title>
+		<imprint>
+			<biblScope unit="page">454</biblScope>
+		</imprint>
+	</monogr>
+	<note>21.6.1 RAW117 Lymphosarcoma Cells and Their Variant Cells</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">2 Poly(N-isopropylacrylamide) Hydrogel-Coated Latex, 455 21.7 Electrophoresis of Nonuniformly Charged Soft Particles, 457 21.8 Other Topics of Electrophoresis of Soft Particles</title>
+		<imprint>
+			<biblScope unit="volume">463</biblScope>
+			<biblScope unit="page">464</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title level="m">22 Electrophoretic Mobility of Concentrated Soft Particles 468 22.1 Introduction</title>
+		<imprint>
+			<biblScope unit="page">468</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Electrophoretic Mobility of Concentrated Soft Particles</title>
+		<imprint>
+			<biblScope unit="volume">475</biblScope>
+			<biblScope unit="page">479</biblScope>
+		</imprint>
+	</monogr>
+	<note>Electroosmotic Velocity in an Array of Soft Cylinders</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">23 Electrical Conductivity of a Suspension of Soft Particles 480 23.1 Introduction, 480 23.2 Basic Equations</title>
+		<imprint>
+			<biblScope unit="page">480</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m">3 Electrical Conductivity</title>
+		<imprint>
+			<biblScope unit="page">481</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title level="m" type="main">24 Sedimentation Potential and Velocity in a Suspension of Soft Particles 485 24.1 Introduction</title>
+		<imprint>
+			<biblScope unit="page">485</biblScope>
+		</imprint>
+	</monogr>
+	<note>2 Basic Equations</note>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title level="m" type="main">Sedimentation Velocity of a Soft Particle</title>
+		<imprint>
+			<biblScope unit="page" from="490" to="514" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title level="m" type="main">Average Electric Current and Potential</title>
+		<imprint>
+			<biblScope unit="page" from="491" to="515" />
+		</imprint>
+	</monogr>
+	<note>490 24.5 Sedimentation Potential</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title level="m" type="main">Onsager&apos;s Reciprocal Relation</title>
+		<imprint>
+			<biblScope unit="page">494</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title level="m">Diffusion Coefficient of a Soft Particle</title>
+		<imprint>
+			<biblScope unit="page">495</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title level="m" type="main">Dynamic Electrophoretic Mobility of a Soft Particle 497 25.1 Introduction, 497 25.2 Basic Equations</title>
+		<imprint>
+			<biblScope unit="page">503</biblScope>
+		</imprint>
+	</monogr>
+	<note>497 25.3 Linearized Equations, 499 25.4 Equation of Motion of a Soft Particle, 501 25.5 General Mobility Expression, 501 25.6 Approximate Mobility Formula</note>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">Colloid Vibration Potential in a Suspension of Soft Particles 508 26.1 Introduction</title>
+		<imprint>
+			<biblScope unit="page">508</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title level="m" type="main">Colloid Vibration Potential and Ion Vibration Potential</title>
+		<imprint>
+			<biblScope unit="volume">508</biblScope>
+			<biblScope unit="page">513</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title level="m" type="main">Effective Viscosity of a Suspension of Soft Particles 515 27.1 Introduction, 515 27.2 Basic Equations</title>
+		<imprint>
+			<biblScope unit="page">516</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main">Approximation for Low Fixed-Charge Densities, 523 27.6 Effective Viscosity of a Concentrated Suspension of Uncharged Porous Spheres</title>
+		<imprint>
+			<biblScope unit="page">527</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

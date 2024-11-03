@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Molecular Interaction Modulating Ruddlesden-Popper Tinbased Perovskite Crystallization</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Han</forename><surname>Pan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Physics and Optoelectronic Engineering</orgName>
+								<orgName type="institution">Yangtze University</orgName>
+								<address>
+									<postCode>434023</postCode>
+									<settlement>Jingzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yong</forename><surname>Zheng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Physics and Optoelectronic Engineering</orgName>
+								<orgName type="institution">Yangtze University</orgName>
+								<address>
+									<postCode>434023</postCode>
+									<settlement>Jingzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wenqing</forename><surname>He</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Wenxing</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Physics and Optoelectronic Engineering</orgName>
+								<orgName type="institution">Yangtze University</orgName>
+								<address>
+									<postCode>434023</postCode>
+									<settlement>Jingzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiu</forename><surname>Gong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Physics and Optoelectronic Engineering</orgName>
+								<orgName type="institution">Yangtze University</orgName>
+								<address>
+									<postCode>434023</postCode>
+									<settlement>Jingzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">College of Physics</orgName>
+								<orgName type="department" key="dep2">Guizhou Province Key Laboratory for Photoelectrics Technology and Application</orgName>
+								<orgName type="institution">Guizhou University</orgName>
+								<address>
+									<postCode>550025</postCode>
+									<settlement>Guiyang</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiaodong</forename><surname>Liu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">College of Chemistry and Environmental Engineering</orgName>
+								<orgName type="institution">Yangtze University</orgName>
+								<address>
+									<postCode>434023</postCode>
+									<settlement>Jingzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qiang</forename><surname>Wei</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="laboratory">State Key Laboratory of Heavy Oil Processing</orgName>
+								<orgName type="institution">China University of Petroleum</orgName>
+								<address>
+									<postCode>102249</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yan</forename><surname>Liu</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">School of Physics and Optoelectronic Engineering</orgName>
+								<orgName type="institution">Ludong University</orgName>
+								<address>
+									<postCode>264025</postCode>
+									<settlement>Yantai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yan</forename><surname>Shen</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Wuhan National Laboratory for Optoelectronics</orgName>
+								<orgName type="department" key="dep2">School of Optoelectronic Science and Engineering</orgName>
+								<orgName type="institution">Huazhong University of Science and Technology</orgName>
+								<address>
+									<addrLine>Wuhan 430074</addrLine>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mingkui</forename><surname>Wang</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Wuhan National Laboratory for Optoelectronics</orgName>
+								<orgName type="department" key="dep2">School of Optoelectronic Science and Engineering</orgName>
+								<orgName type="institution">Huazhong University of Science and Technology</orgName>
+								<address>
+									<addrLine>Wuhan 430074</addrLine>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Molecular Interaction Modulating Ruddlesden-Popper Tinbased Perovskite Crystallization</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FD780DD60EE223761D9966A22EA103FD</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Section</head><p>SnI 2 (99.999%), hydroiodic acid (57 wt.% in H 2 O, distilled, stabilized, 99.95%), hypophosphorous acid solution (50 wt.% in H 2 O) and formamidinium iodide (≥99%, anhydrous) were purchased from Sigma-Aldrich and used as received. Benzylamine (99%) and 2-Thiophenemethylamine (97%) were purchased from Aladdin and used as received.</p><p>Synthesis of BEI and THI: hydroiodic acid (12.3 g, 0.055 mol) reacted with benzylamine (5.3 g, 0.05 mol.) for 2 hours under ice bath. The crude product was separated out by evaporating the solvent under reduced pressure. White crystals were obtained after washed with diethyl ether, recrystallized in ethanol and drying at 60 °C overnight in a vacuum. THI was prepared using the same method, only changed the benzylamine to 2-Thiophenemethylamine The perovskite precursor solutions were prepared by mixing BEI or THI, FAI, SnI 2 and SnF 2 in anhydrous in DMF and DMSO (volume ratio is 4:1) with a molar ratio of 2:3:4:0.1. The concentration of (BE) 2 FA 3 Sn 4 I 17 and (TH) 2 FA 3 Sn 4 I 17 is 0.1 M. The mixture solutions were stirred for 2h in N 2 glove box.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device fabrication</head><p>The ITO glass was sequentially cleaned with detergent, deionized water, acetone and ethanol, and then treated in UV-ozone for 30 min. A 40 nm thick PEDOT:PSS (Baytron PVP Al 4083) was spin-coated onto the ITO substrate at 4500 rpm for 40 s and annealed at 140 °C for 10 min in air. After perovskite films were spin-coated at 4000 rpm for 60 s and then annealed on 60 °C for 10 seconds and post on 100 °C for 10 minutes, PC61BM (20 mg•mL -1 in chlorobenzene) and BCP (0.5 mg•mL -1 in isopropanol) were sequentially coated at 2000 rpm for 40 s and 4000 rpm for 40 s, respectively. Finally, 100 nm Ag was deposited by thermal evaporation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization</head><p>XRD measurements were performed with a Shimadzu XRD-6100 diffractometer with Cu Kα radiation. The surface morphology of films were characterized with FEI Nova Nano SEM 450. The crystallization process of perovskite films fabricated from the solutions were recorded by optical microscope (Olympus BX51). Visible absorption spectra were recorded using a PerkinElmer Lambda1050 spectrophotometer. The steady-state photoluminescence (PL) spectrum was measured using Horiba Jobin Yvon system with an excitation laser beam at 532 nm and a repetition rate of 76 MHz. The time-resolved luminescence decays were obtained with time-correlated single photo counting system (PicoHarp 300, PicoQuant GmbH). The excitation light source was </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Determination of aggregation rate</head><p>The initial aggregation rate constant (k) of colloids is determined by the initial increase of the hydrodynamic radius D h with time t in the period from aggregation initiation (t 0 ) to the time when D h reached 1.25 D h : <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> (1)</p><formula xml:id="formula_0">  0 0 1 h t dD t k N dt        </formula><p>where N 0 is the initial concentration of colloidal solutions. The value of dD h (t)/dt was obtained through a linear least-squares regression analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measure</head><p>Density functional theory (DFT) calculation was performed by DMol 3 code of Materials Studio. The generalized gradient approximation of revised-Perdew-Burke-Ernzerhof (GGA-RPBE) function and Grimme of DFT-D dispersion correction were used to treat all the energy changes <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> . The core treatment was effective core potentials (ECP) and the basis set was DNP v4.4. The k-point was set as 3 × 3 × 1 and the size of vacuum region was 20 Å <ref type="bibr" target="#b4">5</ref> . The detailed calculation parameters were reported in our previous studies <ref type="bibr" target="#b5">6</ref> . The typical perovskite framework contained 23 Iodine atoms and 10 Tin atoms as well as 4 FA molecules in the middle layer, as shown in Fig. <ref type="figure">1</ref>. The lattice parameters of one perovskite unit were a=b=8.8379 Å after optimization. During calculation, the bottom and the middle layer was fixed and the top layer was relaxed to simulate the constraint.</p><p>The adsorption energy of molecules on perovskite surface was defined as Eq. ( <ref type="formula" target="#formula_1">2</ref>).</p><p>(</p><formula xml:id="formula_1">)<label>2</label></formula><formula xml:id="formula_2">ads cat mol cat mol E E E E    </formula><p>Where is the energy of adsorbed molecule on catalyst surface, is the energy</p><formula xml:id="formula_3">cat mol E  cat E</formula><p>of bare catalyst surface and is the energy of the molecule in gas phase.           </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Ti:Sapphire laser (Mira 900, Coherent; 76 MHz, 130 fs). The photocurrent-voltage (J-V) characteristics of Cl-PEA2MA3Pb4I13 solar cells were obtained by a Keithley model 2400 digital source meter. A xenon light source solar simulator (450 W, Oriel, model 9119) with AM 1.5G filter (Oriel, model 91192) was used to give an irradiance of 100 mW cm-2 at the surface of the solar cells. The incident photon conversion efficiency (IPCE) measurement was obtained with alternating current (AC) model (130 Hz). The dynamic light scattering and zeta potential measurement of the perovskite precursor solutions were measured using Brookhaven 90Plus Particle Size and PALS Zeta Potential Analyzer.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure S1 .</head><label>S1</label><figDesc>Figure S1. Diagram of the perovskite model, (a) side view, (b) top view.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure S2 .</head><label>S2</label><figDesc>Figure S2. (a) X-ray photoelectron spectroscopy (XPS) spectrum of N 1s and (b) Fourier transform infrared (FT-IR) spectrum for BEI, BE 2 FA 3 Sn 4 I 13 , THI and TH 2 FA 3 Sn 4 I 13 . Dotted lines present NH 3 + stretching vibration.</figDesc><graphic coords="6,127.40,74.69,340.16,134.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure S3 .</head><label>S3</label><figDesc>Figure S3. Aggregation profiles of (a) BE 2 FA 3 Sn 4 I 13 -based and (b) TH 2 FA 3 Sn 4 I 13 -based colloids at selected concentrations of 0.1, 0.2, 0.4, 0.6, and 0.8 mol.</figDesc><graphic coords="7,127.40,73.20,340.50,137.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure S4 .</head><label>S4</label><figDesc>Figure S4. XPS spectra of (a) C 1s, (b) N 1s, (c) Sn 3d and (d) I 3d for TH 2 FA 3 Sn 4 I 13 and FASnI 3 perovskites films.</figDesc><graphic coords="8,127.40,79.64,340.16,264.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure S5 .</head><label>S5</label><figDesc>Figure S5. XRD patterns of BE 2 FA 3 Sn 4 I 13 -based and TH 2 FA 3 Sn 4 I 13 -based perovskite films.</figDesc><graphic coords="9,184.26,94.18,226.77,173.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure S6 .</head><label>S6</label><figDesc>Figure S6. Steady-state PL spectra of BE 2 FA 3 Sn 4 I 13 -based and TH 2 FA 3 Sn 4 I 13 -based perovskite films.</figDesc><graphic coords="10,184.26,101.98,226.77,173.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure S7 .</head><label>S7</label><figDesc>Figure S7. Semi-log plot of EQE values versus photon energy of the BE 2 FA 3 Sn 4 I 13 -based and TH 2 FA 3 Sn 4 I 13 -based devices.</figDesc><graphic coords="11,184.26,78.58,226.77,173.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure S9 .</head><label>S9</label><figDesc>Figure S9. Normalized PCEs versus time for the BE 2 FA 3 Sn 4 I 13 -based and TH 2 FA 3 Sn 4 I 13 -based devices.</figDesc><graphic coords="13,184.20,78.98,226.90,173.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure S10 .</head><label>S10</label><figDesc>Figure S10. (a) The top-view SEM images and (b) GIWAXS of FU 2 FA 3 Sn 4 I 13 -based film.</figDesc><graphic coords="14,127.40,76.09,340.16,132.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure S11 .</head><label>S11</label><figDesc>Figure S11. The photocurrent J-V curve of FU 2 FA 3 Sn 4 I 13 -based device.</figDesc><graphic coords="15,184.26,78.58,226.77,173.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table S1 .</head><label>S1</label><figDesc>The photovoltaic parameters of the BE 2 FA 3 Sn 4 I 13 -based and TH 2 FA 3 Sn 4 I 13 -based devices with different scan directions.</figDesc><table><row><cell>Device</cell><cell>Scan direction</cell><cell>Voc (V)</cell><cell>Jsc (mA cm -2 )</cell><cell>FF (%)</cell><cell>PCE (%)</cell></row><row><cell></cell><cell>RS</cell><cell>0.53</cell><cell>14.88</cell><cell>51.2</cell><cell>4.04</cell></row><row><cell>BE 2 FA 3 Sn 4 I 13</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>FS</cell><cell>0.51</cell><cell>14.34</cell><cell>47.2</cell><cell>3.45</cell></row><row><cell></cell><cell>RS</cell><cell>0.68</cell><cell>20.94</cell><cell>63.4</cell><cell>9.03</cell></row><row><cell>TH 2 FA 3 Sn 4 I 13</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>FS</cell><cell>0.67</cell><cell>20.87</cell><cell>61.2</cell><cell>8.64</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Elimelech</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="10994" to="11001" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Flury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">658</biblScope>
+			<biblScope unit="page" from="1306" to="1315" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Nørskov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physical Review B</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page">7413</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">WIREs Computational Molecular Science</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grimme</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="211" to="228" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Monkhorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="5188" to="5192" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Catal. Today</title>
+		<imprint>
+			<biblScope unit="volume">353</biblScope>
+			<biblScope unit="page" from="39" to="46" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

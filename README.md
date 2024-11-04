@@ -1,5 +1,17 @@
 # Perovskite Solar Cells: Literature Mining Project
 
+## Retrieving the data locally:
+
+(1) To download the data, simply enter the following url to google spreadsheet and download this as 150_Research_paper.csv:
+
+https://docs.google.com/spreadsheets/d/1nqRxqx5By7RB9sd4FP2A8C4HIG8gLmumeVd3iRfyvzo/edit?usp=sharing
+
+(2) Edit the file: __config/data-params.json__ to include the path/location of the downloaded data in the value of the _indir_ key
+
+## Running the project
+
+* To install the dependencies, run the following command from the root directory of the project: `pip install -r requirements.txt`
+
 ### Introduction
 This project aims to optimize the discovery of small molecules that improve the stability of perovskite solar cells. By leveraging literature mining, graph-based molecular representations, and machine learning models, we seek to identify patterns that lead to successful molecules and generate deeper insights into perovskite solar cell performance. The current methods rely heavily on Edisonian experimentation, which is inefficient. Our goal is to automate and streamline this discovery process using data-driven techniques.
 

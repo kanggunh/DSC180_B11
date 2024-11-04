@@ -1,2 +1,2 @@
-model,accuracy,recall,ber
+model_name,accuracy,recall,BER
 flan,0.6363636363636364,0.375,0.3713235294117647

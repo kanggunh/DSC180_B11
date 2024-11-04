@@ -30,3 +30,8 @@ We plan to capture the following variables from each research paper:
 - `ETL/HTL Type`: Electron Transport Layer and Hole Transport Layer types.
 - `Perovskite Composition`: Materials used in the perovskite layer.
 - `Molecule SMILES`: Simplified Molecular Input Line Entry System representation.
+
+### Running the project
+- To install the dependencies, run the following command from the root directory of the project: <code>pip install -r requirements.txt</code>
+- To use GROBID (accessed in notebooks_for_checkpoint/scraping_texts.ipynb), install [docker](https://docs.docker.com/engine/install/), 
+then run the following command to download and run GROBID's image: <code>docker run --rm --init --ulimit core=0 -p 8070:8070 lfoppiano/grobid:0.8.1</code>. This will initialize GROBID on http://localhost:8070.

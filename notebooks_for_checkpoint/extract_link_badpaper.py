@@ -1,3 +1,6 @@
+"""Run this python file to create a dataframe of all irrelevent papers in perovskite research"""
+
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd

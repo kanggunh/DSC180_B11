@@ -66,7 +66,7 @@ bad_paperdf = pd.DataFrame({
 # bad_paperdf["doi"] = bad_paperdf["link"].apply(lambda x: x.split('doi.org/')[-1] if 'doi.org/' in x else None)
 
 #Export this pdf as a csv file
-bad_paperdf.to_csv("Jill's Work\Irrelevent_paper.csv", index=False)
+bad_paperdf.to_csv("Irrelevent_paper.csv", index=False)
 
 '''
 DO THIS ONCE link_list is completed!!!

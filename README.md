@@ -26,23 +26,6 @@ This project aims to optimize the discovery of small molecules that improve the 
 - Literature Mining: Mining relevant papers from databases and journals, and extracting variables like molecule structure, efficiency, stability, and perovskite composition.
 - Model Training: Using the database to train a machine learning model that predicts optimal molecules for perovskite solar cells.
 
-### Tasks Breakdown
-**Fall 2024**
-- Week 1-4: Paper collection and filtering, schema development
-- Week 5: Analyze the Data
-- Week 6-9: Web scraping and literature mining
-- Week 10: Finalize data collection and begin early model development
-
-### Variables and Schema
-We plan to capture the following variables from each research paper:
-- `Control PCE`: Power conversion efficiency under control conditions.
-- `Treatment PCE`: Power conversion efficiency when specific molecules are added.
-- `VOC`: Open-circuit voltage.
-- `Stability (Hours)`: The stability of the solar cells in hours.
-- `ETL/HTL Type`: Electron Transport Layer and Hole Transport Layer types.
-- `Perovskite Composition`: Materials used in the perovskite layer.
-- `Molecule SMILES`: Simplified Molecular Input Line Entry System representation.
-
 ### Running the project
 - To install the dependencies, run the following command from the root directory of the project: <code>pip install -r requirements.txt</code>
 - To use GROBID (accessed in notebooks_for_checkpoint/scraping_texts.ipynb), install [docker](https://docs.docker.com/engine/install/), 

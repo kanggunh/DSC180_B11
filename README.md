@@ -34,17 +34,17 @@ All relevant files for evaluation are located in the `notebooks_for_checkpoint` 
 
 ### Step 1: Generating a Relevant vs. Irrelevant Research Papers Database for Classification
 
-1. **`extract_link_badpaper.py`**  
+1. **`1_extract_link_badpaper.py`**  
    This script takes two URLs of irrelevant research papers, performs literature mining, and scrapes all references from these papers. These references form a training set representing irrelevant papers.  
    - **Output**: After successful execution, it generates an `irrelevant_papers.csv` file in the `data` folder.
 
-2. **`Scrapint_texts.ipynb`**  
+2. **`2_Scrapint_texts.ipynb`**  
    Ensure that two CSV files, `150_research_papers.csv` and `irrelevant_papers.csv`, are available in the `data` folder. This notebook accesses these research papers via URLs and extracts clean text data.  
    - **Output**: Upon completion, it outputs a `merged_label.csv` file in the `data` folder, which is used for classification testing.
 
 ### Step 2: Building and Evaluating Classification Models
 
-1. **`TF-IDF_vectorizer_and_models.ipynb`**  
+1. **`3_TF-IDF_vectorizer_and_models.ipynb`**  
    This notebook performs five classification algorithms:
    - Logistic Regression
    - Naive Bayes
@@ -54,24 +54,24 @@ All relevant files for evaluation are located in the `notebooks_for_checkpoint` 
 
    Each model undergoes hyperparameter tuning to find optimal settings. The results are saved as CSV files in the `data/model_results` folder, and visualizations show the performance before and after tuning.
 
-2. **`flan_model.ipynb`**  
+2. **`4_flan_model.ipynb`**  
    This notebook performs classification using Google’s Fine-tuned Language Net model.  
    - **Output**: The performance results are saved as a CSV file in the `data/model_results` folder.
 
-3. **`sciBERT.ipynb`**  
+3. **`5_sciBERT.ipynb`**  
    This notebook performs classification using the SciBERT model.  
    - **Output**: The performance results are saved as a CSV file in the `data/model_results` folder.
 
-4. **`model_analysis.ipynb`**  
+4. **`6_model_analysis.ipynb`**  
    This notebook aggregates the results from all models and compares the Accuracy, Recall, and Balanced Error Rate (BER) metrics for each model. Visualizations illustrate these comparisons, showing Random Forest with the highest Accuracy and BER.
    - **Visualization**:  
      <img src="notebooks_for_checkpoint\classification_compare.png" alt="Comparing performance metric for ALL classification perfomed " width="400">
 
 ### Additional Tasks for Data Extraction
 
-1. **`database_searcher.ipynb`**  
+1. **`7_database_searcher.ipynb`**  
    This notebook includes a function that retrieves key variables (e.g., efficiency, condition, PCE) from a given research paper's DOI using the Perovskite Database. It is intended for use in the extraction phase of our project.
 
-2. **`xml_generator.ipynb`**  
+2. **`8_xml_generator.ipynb`**  
    This notebook generates a PDF version of a research paper from its link and then converts it into XML using GROBID. The generated PDFs and XML files are stored in the `data/pdfs` and `data/xmls` folders, respectively.
 

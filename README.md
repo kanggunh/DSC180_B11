@@ -1,15 +1,17 @@
 # Perovskite Solar Cells: Literature Mining Project
 
 ### Introduction
-This project aims to optimize the discovery of small molecules that improve the stability of perovskite solar cells. By leveraging literature mining, graph-based molecular representations, and machine learning models, we seek to identify patterns that lead to successful molecules and generate deeper insights into perovskite solar cell performance. The current methods rely heavily on Edisonian experimentation, which is inefficient. Our goal is to automate and streamline this discovery process using data-driven techniques.
+This project aims to optimize the discovery of small molecule that improve the stability of perovskite solar cells. By leveraging literature mining, graph-based molecular representations, and machine learning models, we seek to identify patterns that lead to successful molecules and generate deeper insights into perovskite solar cell performance. The current methods rely heavily on Edisonian experimentation, which is inefficient. Our goal is to automate and streamline this discovery process using data-driven techniques, focusing on the vast body of research already conducted in this field.
 
 ### Objectives
+- Collects bodies of research paper links and classify the paper that is relevent to our specific domain or not. 
 - Database Creation: Build a comprehensive dataset from scientific literature detailing molecules, their interactions with perovskites, and the outcomes (efficiency, stability, etc.).
 - Molecular Representation: Use SMILES (Simplified Molecular Input Line Entry System) to represent molecules in a format suitable for machine learning models.
 - Literature Mining: Automate data extraction from published research papers using NLP techniques (e.g., SciBERT, scraping tools).
 - Model Training: Develop a model that predicts the success of small molecules in improving perovskite solar cell stability and efficiency.
 
 ### Project Timeline
+- Paper collection / filtering: Develop a classification model that, given a research paper link, determines whether the paper is relevant to our study. Relevant papers are then processed for further data mining.
 - Exploration: Mining relevant papers and journals and then analyzing and summarize the data we have collected so far.
 - Literature Mining: Mining relevant papers from databases and journals, and extracting variables like molecule structure, efficiency, stability, and perovskite composition.
 - Model Training: Using the database to train a machine learning model that predicts optimal molecules for perovskite solar cells.

@@ -7,880 +7,971 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_mJD4BqA">
-					<orgName type="full">U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering Division</orgName>
+				<funder>
+					<orgName type="full">APRC</orgName>
 				</funder>
-				<funder ref="#_hrqmqtj">
-					<orgName type="full">Office of Science, Office of Basic Energy Sciences</orgName>
+				<funder ref="#_JRSpswe">
+					<orgName type="full">National Science Foundation</orgName>
+					<orgName type="abbreviated">NSF</orgName>
 				</funder>
-				<funder ref="#_j9B646Z">
-					<orgName type="full">U.S. Department of Energy</orgName>
+				<funder ref="#_cmy7BMq">
+					<orgName type="full">Hong Kong Research Grants Council</orgName>
+				</funder>
+				<funder ref="#_qh9edQz #_xzrvVdJ #_T4fzYUF">
+					<orgName type="full">City University of Hong Kong</orgName>
+				</funder>
+				<funder ref="#_cuV6NeV">
+					<orgName type="full">ARG</orgName>
+				</funder>
+				<funder ref="#_G3b84Dg #_C9hP5d5">
+					<orgName type="full">Innovation and Technology Support Programme</orgName>
+				</funder>
+				<funder ref="#_FdyN6RP #_TuD47pq">
+					<orgName type="full">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
-				<availability status="unknown"><licence/></availability>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-09-21">21 September 2020</date>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
 						<author>
+							<persName><forename type="first">Zhengtao</forename><surname>Xu</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department">Electrical Engineering and Computer Sciences</orgName>
-								<orgName type="institution">University of California at Berkeley</orgName>
 								<address>
-									<postCode>94720</postCode>
-									<settlement>Berkeley</settlement>
-									<region>CA</region>
-									<country key="US">USA</country>
+									<addrLine>0 1 0 5.1100 5.1100 5.1062 0.0038 1 1 0 8.8600 8.8600 8.8501 0.0099 0 2 0 10.2400 10.2400 10.2226 0.0174 0 0 1 12.2200 12.2200 12.2201 -0.0001 1 2 0 13.4800 13.4800 13.5368 -0.0568 1 3 0 18.5300 18.5300 18.4848 0.0452 1 4 0 23.5600 23.5600 23</addrLine>
+									<postCode>5576 0.0024</postCode>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<affiliation key="aff1">
-								<orgName type="department">Materials Sciences Division</orgName>
-								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
+							<persName><forename type="first">Zonglong</forename><surname>Zhu</surname></persName>
+							<affiliation key="aff0">
 								<address>
-									<postCode>94720</postCode>
-									<settlement>Berkeley</settlement>
-									<region>CA</region>
-									<country key="US">USA</country>
+									<addrLine>0 1 0 5.1100 5.1100 5.1062 0.0038 1 1 0 8.8600 8.8600 8.8501 0.0099 0 2 0 10.2400 10.2400 10.2226 0.0174 0 0 1 12.2200 12.2200 12.2201 -0.0001 1 2 0 13.4800 13.4800 13.5368 -0.0568 1 3 0 18.5300 18.5300 18.4848 0.0452 1 4 0 23.5600 23.5600 23</addrLine>
+									<postCode>5576 0.0024</postCode>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<affiliation key="aff2">
-								<orgName type="department">Department of Materials Science</orgName>
-								<orgName type="institution">University of California at Berkeley</orgName>
+							<persName><forename type="first">-Y</forename><surname>Jen</surname></persName>
+							<affiliation key="aff0">
 								<address>
-									<postCode>94720</postCode>
-									<settlement>Berkeley</settlement>
-									<region>CA</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<affiliation key="aff3">
-								<orgName type="institution">National Center for Electron Microscopy</orgName>
-								<address>
-									<addrLine>Molecular Foundry</addrLine>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<affiliation key="aff4">
-								<orgName type="laboratory">Army Research Laboratory</orgName>
-								<orgName type="institution">Lawrence Berkeley National Laboratory</orgName>
-								<address>
-									<addrLine>2800 Powder Mill Road</addrLine>
-									<postCode>94720 20783</postCode>
-									<settlement>Berkeley Adelphi</settlement>
-									<region>CA MD</region>
-									<country>USA US USA</country>
+									<addrLine>0 1 0 5.1100 5.1100 5.1062 0.0038 1 1 0 8.8600 8.8600 8.8501 0.0099 0 2 0 10.2400 10.2400 10.2226 0.0174 0 0 1 12.2200 12.2200 12.2201 -0.0001 1 2 0 13.4800 13.4800 13.5368 -0.0568 1 3 0 18.5300 18.5300 18.4848 0.0452 1 4 0 23.5600 23.5600 23</addrLine>
+									<postCode>5576 0.0024</postCode>
 								</address>
 							</affiliation>
 						</author>
 					</analytic>
 					<monogr>
 						<imprint>
-							<date/>
+							<date type="published" when="2020-09-21">21 September 2020</date>
 						</imprint>
 					</monogr>
-					<idno type="MD5">AB831F36A0254C7E8F13D58E9FCC5813</idno>
-					<idno type="DOI">10.1038/s41467-017-00516-5</idno>
-					<note type="submission">Received: 27 February 2017 Accepted: 5 July 2017</note>
+					<idno type="MD5">DD98E1F27FC090DD9ACEBBD5009CB6C7</idno>
+					<idno type="DOI">10.1038/s41565-020-0765-7</idno>
+					<note type="submission">Received: 9 December 2019; Accepted: 13 August 2020;</note>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:40+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
 		</encodingDesc>
 		<profileDesc>
-			<abstract/>
+			<textClass>
+				<keywords>
+					<term>Any methods</term>
+					<term>additional references</term>
+					<term>Nature Research reporting summaries</term>
+					<term>source data</term>
+					<term>extended data</term>
+					<term>supplementary information</term>
+					<term>acknowledgements</term>
+					<term>peer review information</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Sqrt(Sum(2Th O-C)**2)/(Nref-Npar)): 0.0337 Sqrt(Sum(2Th O-C)**2)/Nref): 0.0285 Final values: (Standard errors on 2nd line)</p></div>
+			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>Here, ri = xie1 + yie2 is the (2D) vector describing the position of atom i (e1 and e2 are the unit vectors defining the coordinate system), 𝑉 o is the depth of the potential minima, 𝑎 o is the equilibrium spring length (measured in units of 𝑎 s ), and the first sum is taken over nearest neighbors, counting each spring once.</p><p>The effects of thermal expansion mismatch are then explored as follows. A finite triangular shaped sample is defined. The initial configuration has each atom at a minimum of the substrate potential. A small random component is added to the positions of each atom, and the total potential energy of the system is then minimized. After minimization, the equilibrium length of the springs connecting the atoms, 𝑎 o , is reduced by a small amount (0.001 in dimensionless units), and the energy minimization is carried out again, using Mathematica's FindMinimum function with the initial positions chosen to be the positions found from the prior minimization. This process is repeated until the final value of 𝑎 o = 0.99.</p><p>In this model, the initial state corresponds to the growth temperature of the material. It is assumed that at the growth temperature, the materials are lattice matched. This is, in general, not true. However, for the case of the amorphous substrate, this is probably a reasonable assumption, as the growing film is not likely strained at the growth temperature. The reduction in the equilibrium spring length, then, is meant to model the thermal contraction of the WSe2 film relative to the substrate. A reduction of 1% in the spring length is comparable to the thermal expansion mismatch between WSe2 and SiO2.</p><p>The model is then used to explore the amplitude of the substrate corrugation required to retain the thermal mismatch strain. The amplitude of the substrate potential, 𝑉 o , is reduced to the point where it can no longer sustain a 1% strain in the film. It is important to note that this strain (1)  is sample size dependent, with larger samples requiring smaller, on average, corrugations to sustain the strain. Accordingly, we have considered an equilateral triangular sample containing 45,451 "atoms," with an edge length of approximately 100 nm (this corresponds to minimizing a function of roughly 91,000 variables, exploration of larger sizes is computationally more difficult). We considered a range of potential energy corrugation amplitudes, 𝑉 o . For 𝑉 o &lt;&lt; 1, an example of the pattern of relaxation that we observe is shown in Supplementary Figure <ref type="figure">1 (b</ref>). Here, the imposed thermal mismatch strain is 0.8% biaxial. The strain plotted is defined to be (</p><p>) (𝜀 𝑥𝑥 + 𝜀 𝑦𝑦 ), with</p><formula xml:id="formula_1">𝜀 𝑖𝑗 = (<label>1 2</label></formula><p>) (</p><formula xml:id="formula_2">𝜕𝑢 𝑖 𝜕𝑥 𝑗 + 𝜕𝑢 𝑗 𝜕𝑥 𝑖</formula><p>), and 𝑢 𝑖 the 𝑖th component of the displacement. The sample displays an interesting strain pattern. The interior of the sample retains much of the thermal mismatch strain, though the strain is not perfectly uniform. The edges of the sample show a clear strain relaxation.</p><p>Through trial and error, we discovered that a potential corrugation amplitude of 𝑉 o ≈ 5 <ref type="bibr">× 10 -4</ref> was sufficient to retain the substrate lattice parameter over most of the sample (the results are shown in Supplementary Figure <ref type="figure">1 (b)</ref>). Recall that this amplitude is measured in units of</p><formula xml:id="formula_3">1 2 𝜅𝑎 s 2 .</formula><p>If one can compute the value of</p><formula xml:id="formula_4">1 2</formula><p>𝜅𝑎 s 2 for WSe2, one can then assess the level of corrugation needed to sustain the thermal mismatch strain in the sample.</p><p>A value of</p><formula xml:id="formula_5">1 2</formula><p>𝜅𝑎 s 2 representing the properties of WSe2 can be found as follows. Consider a spring network as shown in Supplementary Figure <ref type="figure">1</ref> (a). There are three springs per lattice point, and under a biaxial strain of -0.7% measured from their equilibrium length, they have a strain energy per unit cell of approximately:</p><formula xml:id="formula_6">𝐸 strain = 3 1 2 𝜅𝑎 s 2 (0.007) 2</formula><p>This strain energy can be compared with the strain energy of the WSe2 monolayer under equivalent strain.</p><p>(2)</p><p>To compute the strain energy of the WSe2 monolayer, we employ linear elasticity theory.</p><p>The lattice parameter and elastic constants for WSe2 are computed as discussed below, arriving at the values 𝐶 11 = 120 J m -2 and 𝐶 12 = 23 J m -2 , and 𝑎 o = 3.361 Å. Note that since the elastic constants represent the elastic properties of a 2D material, they have dimension of energy per area.</p><p>Noting that the elastic energy of the film computed under a biaxial strain of 𝜀 is given by (𝐶 11 + 𝐶 12 )𝜀 2 , and equating the two strain energies we find:</p><formula xml:id="formula_7">1 3 (𝐶 11 + 𝐶 12 ) 𝐴 = 1 2 𝜅𝑎 s 2</formula><p>with 𝐴 being the unstrained area of a unit cell. Carrying out the computation, using the DFT lattice parameter, one concludes that for WSe2, the parameter</p><formula xml:id="formula_8">1 2</formula><p>𝜅𝑎 s 2 = 28.4 eV. Noting that we can stabilize a strained film with a surface corrugation at the atomic scale of 𝑉 o ≈ 5 × 10 -4 , we conclude that the film will be stable in the strained state if the corrugation at the atomic scale is of the order of 14 meV over the range of a single unit cell.</p><p>This required corrugation, then, sets a scale for the retention of thermal mismatch strain.</p><p>It is much less than a typical covalent bond strength (of the order of 1 eV). Interestingly, this corrugation is very near to the strength of a typical van der Waals bond (of the order of 20-40 meV). We conclude that a covalent bond between the atoms of the growing film and that of the substrate is not necessary to enable strain tuning of the film via thermal expansion mismatch.</p><p>The elastic constants of a monolayer of WSe2 were calculated using the plane-wave density functional theory (DFT) program VASP <ref type="bibr">1</ref> . Projector augmented wave potentials were used for the ion-electron interactions, 2 and the PBE generalized gradient approximation was used for the exchange-correlation functional 3 . The system modeled was a WSe2 monolayer, which was represented by a 3 atom cell with a 15.44 Å vacuum layer, normal to the monolayer. The plane wave energy cutoff was 600 eV, and the tetrahedron smearing method was used. The electronic</p><p>self-consistent loop's convergence criterion was set to 1 x 10 -8 , and the system was relaxed until the Hellmann-Feynman forces on each atom were below 0.001 eV Å -1 . A gamma centered 29 × 29 × 1 Monkhorst pack grid was used to sample k-space. First, the system was relaxed allowing the cell and atomic positions to change. The lattice parameter for monolayer WSe2 was found to be 3.316 Å. Using the relaxed system, the elastic constants were found using the method presented by de Jong et. al <ref type="bibr">4</ref> . The 2D elastic constants for monolayer WSe2 were calculated to be C11 = 120 J m -2 and C12 = 23 J m -2 .</p><p>Supplementary Note 2: Expected strain from lattice misfit.</p><p>Due to the fact that the WSe2 is not covalently bound to the growth substrate we would not expect the strain to be transferred from the mismatch between the lattice constant of the substrate and the 2D material. However, to verify this we calculated the expected strain due to lattice misfit.</p><p>The lattice misfit equation for heteroepitaxial strain is given by 5 :</p><formula xml:id="formula_10">𝑓 = 𝑎 Sub (𝑇) -𝑎 2D (𝑇) 𝑎 2D (𝑇)</formula><p>where aSub, a2D, and T are the lattice parameter of the substrate, the lattice parameter of the 2D material, and temperature respectively. In the case where f &gt; 0 the film is expected to be under tensile strain, while for the case where f &lt; 0 the film is expected to be under compressive strain. In our case we compute the expected lattice misfit both at room temperature as well as the growth temperature. The results are summarized in Supplementary Table <ref type="table">1</ref>, and indicate that we would expect that samples grown on AlN are under compressive strain while samples grown on Sapphire and STO are under tensile strain. This is highly inconsistent with the experimental results, which indicate that samples grown on AlN are under tensile strain, samples grown on STO are under compressive strain, and samples grown on Sapphire are relaxed, suggesting that the strain we observe in our samples does not originate from lattice mismatch.</p><p>(</p><formula xml:id="formula_11">)<label>4</label></formula><p>Layer control: We found that the temperature of the WO3/promoter boat plays a significant role in optimization of the WSe2 thickness. By varying the temperature of the WO3/promoter boat while keeping the other growth parameters constant, we could control the thickness of the material being grown. Synthesis initiated at 875°C results in predominantly monolayers domains. When the synthesis begins at 900°C, both WSe2 monolayer and bilayer are observed. Growth initiated at temperatures greater than 900°C result in multilayer growth. This behavior can be attributed to increasing tungsten vapor pressure at high temperatures. It is important to note that for WSe2 grown at different temperatures (Fig. <ref type="figure" target="#fig_3">3 (c</ref>) and Supplementary Fig. <ref type="figure" target="#fig_5">5</ref>), the WO3/promoter boat and the target substrates were placed in separate furnace zones (shown schematically in Supplementary Fig. <ref type="figure">7 (b)</ref>).</p><p>Device fabrication: Back-gated devices were fabricated on WSe2 samples grown on fused silica and transferred to Si/SiO2 (50 nm thick oxide) substrates as well as WSe2 directly exfoliated on Si/SiO2 (50 nm thick oxide) substrates to further verify material quality. All patterning was performed using electron beam lithography with PMMA C4 as the resist. Samples were first etched using XeF2, and subsequently 40 nm thick Ni was deposited by thermal evaporation as the contact electrode. Both CVD and exfoliated WSe2 devices show ambipolar behavior with similar on-currents as shown in Supplementary Figure <ref type="figure" target="#fig_3">13</ref>.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>ARTICLE</head><p>Strain-engineered growth of two-dimensional materials Geun Ho Ahn 1,2 , Matin Amani The application of strain to semiconductors allows for controlled modification of their band structure. This principle is employed for the manufacturing of devices ranging from highperformance transistors to solid-state lasers. Traditionally, strain is typically achieved via growth on lattice-mismatched substrates. For two-dimensional (2D) semiconductors, this is not feasible as they typically do not interact epitaxially with the substrate. Here, we demonstrate controlled strain engineering of 2D semiconductors during synthesis by utilizing the thermal coefficient of expansion mismatch between the substrate and semiconductor.</p><p>Using WSe 2 as a model system, we demonstrate stable built-in strains ranging from 1% tensile to 0.2% compressive on substrates with different thermal coefficient of expansion. Consequently, we observe a dramatic modulation of the band structure, manifested by a strain-driven indirect-to-direct bandgap transition and brightening of the dark exciton in bilayer and monolayer WSe 2 , respectively. The growth method developed here should enable flexibility in design of more sophisticated devices based on 2D materials.</p><p>T wo-dimensional (2D) transition metal dichalcogenides (TMDCs) have been the subject of focused research owing to their potential applications in optoelectronics and sub 10 nm transistors <ref type="bibr">1,</ref><ref type="bibr">2</ref> . The primary attraction of TMDCs such as MoS 2 and WSe 2 for both applications is their naturally terminated surface, which allows them to be scaled down to the atomic limit without the concern of surface dangling bonds. Furthermore, in many 2D materials, a number of desirable properties emerge at the monolayer limit, the most notable of which being the presence of a direct bandgap. Many studies based on mechanical bending of exfoliated 2D TMDCs have been conducted on flexible substrates, and they have shown that the application of strain can tune the properties of this new class of materials <ref type="bibr">[3]</ref><ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr" target="#b10">[6]</ref> . For example, it has been demonstrated that in multilayer WSe 2 , particularly in nominally indirect-gap bilayer WSe 2 , application of tensile strain can result in a transition from an indirect-to-direct bandgap <ref type="bibr" target="#b11">7</ref> . However, studies on the effects of strain in TMDCs have been limited to mechanical bending of samples, and there has yet to be a technique, which can directly realize built-in tensile and compressive strains.</p><p>Traditionally, strain engineering of semiconductors has been leveraged to tune the electronic band structure of high-performance devices, the most notable of which being to reduce intervalley scattering, increase mobility in Si transistors, and reduce the hole effective mass in III-V semiconductor lasers <ref type="bibr" target="#b12">8,</ref><ref type="bibr" target="#b13">9</ref> . Growth on epitaxial substrates with a controlled lattice constant mismatch has typically been utilized to establish built-in strain in three-dimensional semiconductors <ref type="bibr" target="#b14">10</ref> . However, due to the relatively weak interaction between 2D materials and substrates, this established method of strain engineering is likely not applicable for the strain-engineered growth of TMDCs. Therefore, a route toward development of large-area strained TMDCs on a practical substrate is highly desirable. Significant research efforts have been made to realize large area TMDCs, with the majority of efforts focusing on chemical vapor deposition (CVD) <ref type="bibr" target="#b15">[11]</ref><ref type="bibr" target="#b16">[12]</ref><ref type="bibr" target="#b17">[13]</ref> . Interestingly, a number of studies employing CVD growth of 2D materials have reported apparent strain in the synthesized samples <ref type="bibr" target="#b18">14,</ref><ref type="bibr" target="#b19">15</ref> .</p><p>However, growth of high-quality 2D materials with controllable built-in strain has not been realized. Hence, properties that are difficult to probe via mechanical bending experiments, such as low-temperature optical measurements and electrical performance, have yet to be explored.</p><p>In this work, we demonstrate strain engineering of 2D materials directly via CVD growth while simultaneously maintaining high material quality, by utilizing the thermal coefficient of expansion (TCE) mismatch between the TMDC and the growth substrate. Electron diffraction of strained monolayers grown directly onto transmission electron microscopy (TEM) windows is utilized to unambiguously quantify strain. Using WSe 2 as a model system, we show that it is possible to obtain both tensile (of ~1%) and compressive (0.2%) strained 2D semiconductors over large areas on rigid substrates. Furthermore, in the WSe 2 model system we show indirect-to-direct optical transition in tensile strained WSe 2 bilayers as well as removal of dark exciton quenching in WSe 2 monolayers.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>TCE-mismatch induced strain. Owing to the high growth temperatures used to synthesize TMDCs, the TCE mismatch between the substrate and the 2D semiconductor can be utilized to control the strain in the synthesized 2D material, as shown schematically in Fig. <ref type="figure">1</ref>. The theoretical upper limit for the strain, assuming no relaxation, can be calculated using the difference in lattice constant of the substrate and 2D semiconductor at room temperature and synthesis temperature:</p><formula xml:id="formula_12">ε T g À Á ¼ a 2D T g À Á À a 2D 25 C ð Þ a 2D 25 C ð Þ À a Sub T g À Á À a Sub 25 C ð Þ a Sub 25 C ð Þ<label>ð1Þ</label></formula><p>where a 2D is the in-plane lattice constant for the 2D material being grown, a Sub is the in-plane lattice constant of the substrate, and T g is the growth temperature. More generally, this can be calculated using the temperature dependent thermal expansion coefficient for the 2D material (α 2D ) and substrate (α Sub ) Fig. <ref type="figure">1</ref> Strain-engineered growth of WSe 2 using TCE-mismatch. Schematic of the process through which strain is realized during the growth of 2D materials via mismatch in substrate and TMDC thermal expansion coefficient. a Tensile strain is achieved when the TCE of the substrate is less than that of the 2D material, b relaxed samples are achieved when the TCE of the substrate and 2D material match, and c compressive strain is achieved when the TCE of the substrate is greater than that of the 2D material according to:</p><formula xml:id="formula_13">ε T g À Á ¼ Z T g 25 C α 2D T ð ÞdT À Z T g 25 C α Sub T ð ÞdT<label>ð2Þ</label></formula><p>To retain the strain generated from TCE-mismatch, the bonding between the 2D layer and the substrate must be sufficiently strong and corrugated to maintain the nonslip condition that transmits strain to the layer. Although one expects strains of this magnitude to arise during epitaxial growth, it is difficult to see how a similar strain can arise for films bound by van der Waals forces to an amorphous substrate. Experimentally, the corrugation in the film must be large enough to retain the strain upon cooling. To estimate the magnitude of the corrugation necessary to sustain the strain, we analyzed a 2D Frenkel-Kontorova model <ref type="bibr" target="#b20">16</ref> , shown in Supplementary Note 1 and Supplementary Fig. <ref type="figure">1</ref>. This model suggests that atomic binding energy variations of as little as 14 meV over the range of the unit cell are capable of retaining strains of the magnitude of those observed experimentally. This variation is ~1% of a typical covalent bond strength, and very near to the typical strength of a van der Waals bond. Though a more detailed theory needs to be developed, especially to understand the surface chemistry immediately prior to growth to determine the nature of the bonding, this simple analysis suggests that thermal-expansion mismatch can strain a film, even in the case of weak binding between the film and the substrate. It should be noted that in a previous study, local heating of MoS 2 using a laser was used to generate strains of up to 0.2% arising from the TCE-mismatch of MoS 2 with the substrate <ref type="bibr" target="#b21">17</ref> . Although this method does not generate built-in strains (strain is released once the laser is turned off), it suggests that the MoS 2 -substrate bonding is strong enough to enable TCE-mismatched induced strain engineering <ref type="bibr" target="#b21">17</ref> .</p><p>To demonstrate strain-engineered CVD growth of WSe 2 , four substrates were chosen, which have a range of TCEs. Fused silica and aluminum nitride (AlN) have a TCE of 0.55 and 5.5 ppm, respectively, much smaller than that of WSe 2 (9.5 ± 3.2 ppm), and would be expected to induce tensile strain <ref type="bibr">3,</ref><ref type="bibr" target="#b22">[18]</ref><ref type="bibr" target="#b23">[19]</ref><ref type="bibr" target="#b24">[20]</ref><ref type="bibr" target="#b25">[21]</ref><ref type="bibr" target="#b26">[22]</ref> . In contrast, sapphire has a TCE closely matched to WSe 2 and would be expected to produce relaxed samples and strontium titanate (STO) with a TCE of 12 ppm should yield compressively strained samples <ref type="bibr" target="#b24">20,</ref><ref type="bibr" target="#b27">23,</ref><ref type="bibr" target="#b28">24</ref> . The sample was rapidly quenched after growth to limit relaxation in the WSe 2 . It is important to note that the rapid quenching process was found to be important in maintaining the presence of strain, and delay of the quenching step can result in partial relaxation of the 2D material.</p><p>Characterization strain and material quality. To characterize the strain present in the as-grown material, multiple characterization methods were utilized. First, electron diffraction was performed on WSe 2 as-grown on SiO 2 TEM grids and WSe 2 transferred to SiO 2 TEM grids. The resulting diffraction patterns are shown in Figs. <ref type="figure" target="#fig_2">2a-c</ref>. In all TEM diffraction measurements on WSe 2 , the camera length and lens aberrations of the imaging systems were calibrated using polycrystalline aluminum and single crystal aluminum calibration samples (Ted Pella), and the microscope lens settings were left constant for all subsequent measurements. Corresponding images and photoluminescence (PL) spectra of the samples in Figs. <ref type="figure" target="#fig_2">2b,</ref><ref type="figure">c</ref> are shown in Supplementary Fig. <ref type="figure" target="#fig_0">2</ref>. By comparing the lattice constant extracted from the diffraction patterns of strained (as-grown) and unstrained (transferred) WSe 2 , and utilizing the center of mass for 75 diffraction spots from each pattern, we calculate that a 1.39 ± 0.28% tensile strain is present in the as-grown sample. The calculated error represents the standard deviation in lattice constant value over 75 measured diffraction spots. Raman spectrum shown in Fig. <ref type="figure" target="#fig_2">2d</ref> reveals a shift of the E' in-plane Raman mode of 1.5 ± 0.2 cm -1 between as-grown and transferred WSe 2 . We note that the strain measured here is biaxial, not uniaxial, in contrast to mechanical bending studies and thus we do not observe splitting of the E′ mode. Therefore, the theoretically calculated value for the Grüneisen parameter (χ) of WSe 2 is used to calculate the expected peak shift according to: ω ε ð Þ ¼ ω 0 þ χε, which is consistent with the approximately 1% tensile strain measured via diffraction <ref type="bibr" target="#b29">[25]</ref><ref type="bibr" target="#b30">[26]</ref><ref type="bibr" target="#b31">[27]</ref> . It should also be noted that after transfer the E' mode shows no shift relative to samples prepared either by exfoliation or as-grown on sapphire. High resolution Raman mapping was performed and is shown in Figs. <ref type="figure" target="#fig_2">2e,</ref><ref type="figure">f</ref> for WSe 2 crystals as-grown on fused silica and transferred to a new fused silica substrate, respectively. We observe a uniform Raman shift throughout the full WSe 2 domain for both samples indicating that the strain is uniformly distributed within the sample on the scale of the Raman spot size. In addition, PL and atomic force microscopy images of as-grown WSe 2 on fused silica are shown in Supplementary Fig. <ref type="figure" target="#fig_3">3</ref>.</p><p>PL measurements were employed to measure the bandgap as a function of strain. Figure <ref type="figure" target="#fig_3">3a</ref> shows PL spectra of samples grown on all substrates investigated in this work as well as an exfoliated reference. There is a large spectral shift of 120 meV between samples grown on fused silica with near zero TCE and STO, which has the highest TCE of all substrates investigated in this work. Figure <ref type="figure" target="#fig_3">3b</ref> shows the estimated strain from the PL peak shift as a function of predicted strain in WSe 2 , vs. the lattice mismatch between the substrate and TMDC lattice constant. Strain values are determined from the experimentally measured PL peak position (measurement error was calculated using the standard deviation of strain measured from fifteen different crystals) and theoretically calculated bandgap as a function of strain extracted from refs <ref type="bibr">3,</ref><ref type="bibr" target="#b31">27</ref> . It is important to note that we utilized the difference in peak position relative to an unstrained sample to eliminate effects from absolute bandgap error relative to theoretical calculations. We performed an analysis of the expected strain due to lattice parameter misfit (Supplementary Table <ref type="table">1</ref> and Supplementary Note 2) to rule out the influence of epitaxial strain between the substrate and WSe 2 . From this calculation, the expected strain from the lattice mismatch shows the opposite trend as compared with what we observe experimentally. We find that our experimentally realized strain per ΔTCE of -0.10 ± 0.01% per ppm K -1 is in excellent agreement with the theoretical value of -0.09% per ppm K -1 . To verify that the substrate does not affect the PL peak shape or position of monolayer WSe 2 , samples were transferred to the four substrates used in this study (Supplementary Fig. <ref type="figure" target="#fig_4">4</ref>) and no shift of the PL peak was observed. The impact of growth temperature to tune the strain was also studied using fused silica as the substrate. Figure <ref type="figure" target="#fig_3">3c</ref> shows the tensile strain in monolayer WSe 2 grown at different temperatures, estimated using PL peak position. We are able to tune the strain from 0.94 ± 0.06% to 0.67 ± 0.05% as the growth temperature is changed from 900 to 673 °C. PL spectra corresponding to Fig. <ref type="figure" target="#fig_3">3c</ref> is shown in Supplementary Fig. <ref type="figure" target="#fig_5">5</ref>.</p><p>Tensile strain engineering of mono-and bilayer WSe 2 . Calibrated PL measurements were used to provide a gauge of material quality. We find that strained WSe 2 monolayers as-grown on fused silica show comparable PL intensity to exfoliated WSe 2 , demonstrating that strain engineering of 2D materials can be achieved without compromising material performance. Specifically, as exfoliated samples show a typical quantum yield (QY) of 2.3 ± 0.4%, while samples grown on fused silica show a typical QY of 1.9 ± 0.6%. Upon transfer, the strain within the as-grown material is released and its emission peak shifts to 1.65 eV, closely matching that of exfoliated samples, as shown in Fig. <ref type="figure" target="#fig_4">4a</ref>. In addition to emission, the absorption spectrum of the as-grown monolayer was measured and is shown in Fig. <ref type="figure" target="#fig_4">4b</ref>. The absorption spectra clearly shows that the A and B exciton resonances are red- shifted with the presence of tensile strain, and are consistent with the observed shift in the emission. Interestingly, the absorption of the C exciton peak shows no shift between the as-grown and exfoliated samples, which is consistent with previously reported mechanical bending experiments on exfoliated monolayers, although it should be noted that in these experiments the strain was uniaxial <ref type="bibr" target="#b32">28</ref> . More interestingly, it has been previously demonstrated using bending experiments that under the application of a uniaxial strain of ~1.5%, bilayer WSe 2 undergoes an indirect-to-direct bandgap transition <ref type="bibr" target="#b11">7</ref> . This effect is caused by an increase in the energy level of the indirect valley at the Σ point as well as a corresponding decrease in the energy level of the direct valley at the K point <ref type="bibr" target="#b11">7</ref> . While it is important to note these results are obtained under uniaxial strain, similar trends between uniaxial and biaxial strain have been observed in theoretical studies on other 2D material systems <ref type="bibr" target="#b33">29</ref> . Figure <ref type="figure" target="#fig_4">4c</ref> depicts the PL spectra of as-grown, exfoliated and transferred bilayer WSe 2 . In the asgrown strained bilayer, we observe a single sharp PL peak, as oppose to a broader spectrum corresponding to emission from both the indirect and direct bandgaps observed in the unstrained exfoliated and transferred samples. Moreover, the intensity of the PL is reduced by approximately 50 times upon transfer and resultant release of tensile strain as shown in Fig. <ref type="figure" target="#fig_4">4c</ref>. This phenomenon can possibly be attributed to the optical transition from indirect-to-direct in bilayer WSe 2 in the presence of tensile strain. This is in good agreement with previous reports on the indirect-to-direct optical transition of WSe 2 through bending experiments, although these previous studies utilized uniaxial strain <ref type="bibr" target="#b11">7</ref> . The normalized PL spectra for bilayer WSe 2 grown on fused silica after transfer, as well as unstrained samples grown on sapphire and prepared by exfoliation, are shown in Supplementary Fig. <ref type="figure">6</ref> and show a very similar spectral shape. Absorption of WSe 2 bilayer samples was also measured and is shown in Fig. <ref type="figure" target="#fig_4">4d</ref>.</p><p>To further characterize WSe 2 monolayers, we performed low-temperature PL measurements. Numerous studies have experimentally observed that the PL of monolayer WSe 2 is quenched at reduced temperatures. This behavior is unusual for a direct bandgap semiconductor and has been attributed to the formation of dark excitons with an energy level ~30 meV below the bright state <ref type="bibr" target="#b34">30,</ref><ref type="bibr" target="#b35">31</ref> . It has been hypothesized that at low temperatures the bright exciton is allowed to relax to the lower energy level resulting in a reduction of the PL QY. Conversely, both theoretical and experimental studies have suggested that unstrained monolayer WSe 2 is an indirect-gap semiconductor, with a small (&lt; 3kT) energy difference between the indirect and direct gaps <ref type="bibr" target="#b36">32,</ref><ref type="bibr" target="#b37">33</ref> . Upon cooling of exfoliated monolayer WSe 2 samples, we observe results similar to what has been previously reported as shown in the inset of Fig. <ref type="figure" target="#fig_5">5a</ref>, which is a reduction in PL emission at low temperatures. However, for the case of tensile strained monolayer WSe 2 as-grown on fused silica we observe the opposite trend (Fig. <ref type="figure" target="#fig_5">5</ref>). As the temperature is reduced from 300 to 6 K the PL intensity increases by over an order of magnitude, resulting in a final PL QY of 14% as shown in Fig. <ref type="figure" target="#fig_5">5d</ref>. The nature of the physical mechanism for the dramatic difference in the temperaturedependent behavior can be directly attributed to band structure modification due to the presence of strain. However, it remains unclear if this is due to an indirect-to-direct bandgap transition or an increase in the energy level of the dark state.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In summary, we have demonstrated controlled and stable strain engineering of 2D materials by growth, realized through TCE mismatch between the substrate and 2D material. The demonstrated strain engineering allows for dramatic modulation of the physical properties of 2D materials. Using WSe 2 as a model system, we have achieved a strain induced indirect-to-direct optical transition in directly grown WSe 2 bilayer, resulting in an amplification of the PL intensity by over fifty times. We have also shown tunable PL emission of WSe 2 monolayer, whereas maintaining its high performance. Notably, in the monolayer case under tensile strain, we observed increasing luminescence at reduced temperatures, in stark contrast with what has been reported in the unstrained exfoliated material, suggesting that strain can be utilized to brighten the dark exciton. This practical route for the direct realization of strain engineering in 2D materials can allow for the characterization of device properties as a function of strain as well as enable optical measurements that are not accessible to samples strained by physical bending or stretching. Our work depicts that biaxial strains of 1% tensile to 0.2% compressive can be obtained by using readily achievable differences in the thermal expansion coefficients by choosing an appropriate growth substrate. By expanding upon this method, it may be possible to obtain uniaxial strain via growth on substrates with anisotropic thermal expansion coefficients or obtain significantly higher strain values via growth on piezoelectric substrates <ref type="bibr" target="#b38">34,</ref><ref type="bibr" target="#b39">35</ref> .</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Material growth. WSe 2 was grown on several substrates with varying thermal expansion coefficients using CVD. Specifically, growth was performed on fused silica (amorphous), aluminum nitride (c-plane), Sapphire (c-plane), or strontium titanate (&lt;100&gt;); all substrates were electronic grade and have a root mean square surface roughness of &lt;10 Å. Substrates were first cleaned by sonication in acetone and isopropyl alcohol for 10 min. The growth was carried out using a two-heatingzone furnace (DaePoong Industry, 50602); a schematic of the growth setup is shown in Supplementary Fig. <ref type="figure">7</ref>. The cleaned substrates were loaded into the downstream zone, and a ceramic boat containing mixture of WO 3 and potassium bromide (KBr) was then placed next to the substrates. KBr was mixed with WO 3 at a ratio of 1:2, with the KBr acting as a promoter for the growth. This is similar to methods described in ref. <ref type="bibr" target="#b40">36</ref> . However, we found that several salts can be used and the choice of promoter has a significant role in determining the ultimate sample morphology (this is further discussed in the Supplementary Methods). It should be noted that regardless of the promoter used, the strain present in the sample was unaffected as shown in Supplementary Fig. <ref type="figure">8</ref>. A ceramic boat containing 500 mg Se powder was placed in the center of the upstream zone. After loading, the quartz tube was evacuated and Ar was introduced at 60 sccm resulting in a pressure of 2.6 Torr. The temperature of upstream zone was then ramped to 100 °C and the downstream furnace was subsequently ramped to a setpoint of 825 °C. The set point of the upstream zone was adjusted such that the residual heat from the downstream zone results in vaporization of Se. Once the temperature of downstream furnace was stabilized, hydrogen was introduced at a flow rate of 40 sccm (total pressure of 3 Torr). This initiates the growth as the presence of hydrogen is required to decompose and vaporize WO x <ref type="bibr" target="#b41">37</ref> . The growth time used was 15 min. Once the growth is complete, hydrogen flow was stopped, and the furnace was opened to rapidly cool the sample. The influence of the H 2 /Ar ratio, growth time and growth pressure is discussed in the Supplementary Methods and are shown in Supplementary Figs 9-11. Optical microscope images of samples grown on various substrates is shown in Supplementary Fig. <ref type="figure" target="#fig_2">12</ref>. Specific growth conditions were tuned to optimize the PL QY of the as-grown samples and to either promote growth of bilayer or monolayer domains (discussed in Supplementary Methods). It should be noted that for growths where the substrate temperature was varied the WO 3 /KBr boat was placed in the center of the first heating zone and the Se boat was placed at the edge of the first heating zone. The substrates were placed in the center of the second heating zone. The position of Se boat was adjusted to control the temperature. Transfer of grown WSe 2 is done using a HF based wet transfer technique with PMMA as the transfer medium using the specific procedure described in ref. <ref type="bibr" target="#b15">11</ref> . The electrical performance of CVD WSe 2 grown on fused silica and transferred to Si/SiO 2 is also compared to that of exfoliated samples, and is shown in Supplementary Fig. <ref type="figure" target="#fig_3">13</ref>.</p><p>Transmission electron microscopy. WSe 2 monolayers were directly grown and transferred on 8 nm thick SiO 2 membranes (Ted Pella) for electron diffraction measurements in order to directly measure the lattice constant of the strained and unstrained samples, respectively. Electron diffraction measurements were Optical characterization. The PL data presented in this work was obtained using a custom built micro-PL instrument described in detail in ref. <ref type="bibr">1</ref> . In brief, measurements were performed using the continuous wave 514.5 nm line of an Ar + laser (Lexel 95) and the laser power was adjusted using neutral density filters. The laser was focused on the sample using an 80 × objective lens (NA = 0.9). The PL signal was measured using the same objective lens, passed through a 550 nm dielectric longpass filter, dispersed by a f = 340 mm spectrometer with a 150 g mm -1 grating, and detected using by an Si CCD camera (Andor iDus BEX2-DD). Prior to each measurement the CCD background was obtained and subsequently subtracted from the PL acquisition. The sensitivity of the instrument as a function of wavelength (instrument function) was determined through measurement of a virtual Lambertian blackbody source under the objective, created by imaging the illumination from a temperature stabilized lamp (ThorLabs SLS201) on a diffuse reflector (Spectralon). The system efficiency was determined by measuring the response of the excitation laser focused onto a diffuse reflector (Spectralon), with the 550 nm longpass filter removed. The measured external quantum efficiency was converted to QY using sample absorption at the pump wavelength and the fraction of light, which is able to escape the sample (1/4n 2 , where n is the refractive index of the medium). All measurements shown in this work were performed at an incident power of 1.5 W cm -2 (corresponding to a laser power of 200 nW). This laser power is significantly below the onset of biexcitonic recombination in WSe 2 <ref type="bibr" target="#b42">38</ref> . Low temperature measurements were performed using a long working distance 50 × objective lens in a micro-cryostat (Janis) with an infrasil window. The procedure described previously was used to calculate the sample PL efficiency. PL imaging was performed on the samples to determine their uniformity. Measurements were performed using a florescence microscopy setup using a 470 nm light emitting diode as the excitation source and a CCD detector (Andor Luca). Raman measurements and high-resolution mapping were performed to characterize the strain in the WSe 2 . Raman spectra were obtained using a WITec Alpha 300RA equipped with a piezo electric scanning stage. The sample was excited using the 532 nm line of a frequency-doubled Nd:YAG laser as the excitation source and focused on the sample using a 100 × objective.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2 𝑖</head><label>2</label><figDesc>𝐸 potential = ∑ (|𝐫 𝑖 -𝐫 𝑗 | -𝑎 o )</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Transmission electron microscopy images and Raman spectroscopy of monolayer WSe 2 . a Overlay of diffraction spots for as-grown and transferred monolayer WSe 2 , showing a 1.39 ± 0.28% strain in samples grown directly on the TEM membrane. Scale bar is 10 nm -1 . b Electron diffraction patterns of a tensile strained WSe 2 monolayer grown directly on an 8 nm SiO 2 TEM membrane and c a WSe 2 monolayer transferred to the same thickness membrane. Scale bar is 10 nm -1 . d Raman spectra of WSe 2 monolayers grown on various substrates. e, f Raman mapping of E' peak position for a (e) tensile strained WSe 2 monolayer as-grown on fused silica and a (f) WSe 2 monolayer transferred to release strain; data are plotted using the same false color scheme. Scale bar is 20 μm, data range is 250.5 to 247.0 cm -1</figDesc><graphic coords="26,115.18,226.16,350.20,73.72" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Strain engineering of 2D materials. a PL spectra for monolayer WSe 2 as-grown on substrates with a range of thermal coefficient of expansion mismatches. b Estimated strain that can be achieved in 2D materials based on the mismatch between the substrate and TMDC thermal coefficient of expansion; data points show measured strain for substrates with a range of thermal expansion coefficient mismatch; dashed gray lines are based on TCE values for WSe 2 obtained from refs 21, 22 , dashed black line shows fit to experimental data. c Estimated strain realized in WSe 2 as-grown on fused silica at various substrate temperatures; dashed gray lines are based on TCE values for WSe 2 obtained from refs 21, 22 , dashed black line shows fit to experimental data. Error bars indicate standard deviation of strain, measured over fifteen samples</figDesc><graphic coords="27,361.03,395.78,158.68,129.76" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4</head><label>4</label><figDesc>Photon energy (eV) 1.7 1.8 1.4 0</figDesc><graphic coords="28,168.61,63.74,124.60,101.92" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5</head><label>5</label><figDesc>Photoluminescence (counts s -1)</figDesc><graphic coords="29,145.69,64.22,144.28,117.52" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,72.00,116.20,467.90,180.70" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,72.00,72.00,468.00,177.05" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,72.00,72.00,468.00,193.75" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,135.75,72.00,340.07,274.20" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,135.00,72.00,341.58,277.75" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,142.23,72.00,327.53,268.85" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,72.00,72.00,468.00,398.70" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,135.75,72.00,340.50,274.40" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,72.00,72.00,468.00,108.45" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,72.00,72.00,468.00,110.60" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,72.00,72.00,468.00,108.20" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,130.50,72.00,350.25,278.97" type="bitmap" /></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATURE COMMUNICATIONS | 8: 608| DOI: 10.1038/s41467-017-00516-5 | www.nature.com/naturecommunications</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 1 Structure modeling for ZrL3</head><p>Collected PXRD patterns for as-made ZrL3 was indexed with CELREF Version 3.0. The structural model of ZrL3, including cell parameters and atomic positions, was generated using Materials Studio (v6.1.0) suit of programs by Accelrys, after considering the indexed cell parameters together with the ligand shape and coordination habits. A structure model was refined by a self-consistent iterative procedure in which successive geometry optimization calculation were performed using the Forcite module of Materials Studio, until the total energy difference was less than 1 x 10 -6 kcal mol -1 . The geometry optimization used a "smart" algorithm which was a cascade of the steepest descent, ABNR, and quasi-Newton methods. The bonded and the short range (van der Waals) non-bonded interactions between the atoms were modeled using the Universal Force Field (UFF). Universal is a purely diagonal, harmonic forcefield. Bond stretching is described by a harmonic term, angle bending by a three-term Fourier cosine expansion, and torsions and inversions by cosine-Fourier expansion terms. The van der Waals interactions are described by the Lennard-Jones potential. Electrostatic interactions are described by atomic monopoles and a screened (distance-dependent) Coulombic term. An LJ cutoff distance of 18.5 Å was used for all geometry optimization simulations. The Ewald sum method was used to compute the electrostatic interactions. The reliability of the structure models was checked by comparing the calculated PXRD patterns and the experimental results.</p><p>The PXRD pattern of ZrL3 can be indexed with a 3D hexagonal unit cell with a = b = 19.9786 Å, c = 7.2427 Å. The a and b are close to the distance between two Zr6 clusters linked by a 1,3,5-Tris(4-carboxyphenyl)benzene linker (19.54 Å in UMCM-309a), indicating a network with Zr6 clusters in the hexagonal lattice points and L3 as linkers. It should be noted that the peak corresponding to the c is not obvious and the selection is somewhat subjective. The pattern of ZrL3 matches that of UMCM-309a indicating a similar structure. <ref type="bibr">1</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Indexing results of PXRD pattern of ZrL3</head><p>Initial values: (Refinement keys on 2nd line) <ref type="figure">--------------</ref>: Base on the indexing result and the component analysis, a model was built with 6-conneted Zr6 clusters as nodes and 3-connected L3 as linkers in the cell from indexing. In the supposed structure, a [Zr6O4(OH)4] cluster is coordinated by six carboxylic group of L3 on the equatorial plane. Six formate groups were assigned on the left coordination sites. The structure model was refined by a self-consistent iterative procedure in which successive geometry optimization calculation were performed using the Forcite module of Materials Studio, until the total energy difference was less than 1 x 10 -6 kcal/mol. The calculated PXRD pattern from the structure model (with modification of crystalline size (20 nm × 20 nm × 2 nm)) fit well with the experimental pattern of ZrL3.</p><formula xml:id="formula_0">Zero</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 2 TGA analysis of ZrL3</head><p>As shown in Supplementary Fig. <ref type="figure">8a</ref>, the mass gradually decreases in the entire temperature range, with no flat, constant weight decidedly reached (even at 950 ℃) in TGA plot for an activated ZrL3 sample (in an N2 atmosphere). The persistent weight loss at high temperatures suggest that the linker molecules did not disintegrate and depart completely, likely leaving behind carbon-containing residues from carbonization and aromatization of the linker components. <ref type="bibr">2</ref> To better probe the MOF composition, the TGA data were re-collected with the sample heated in an air flow, for complete oxidation and removal of the organic components (see Supplementary Fig. <ref type="figure">8b</ref>). A stable residual weight (ca 25%) was reached after 600 ℃, indicating the conversion into the persistent/stable ZrO2 (mw 123.2) as the residue.</p><p>The inflection point at 400 ℃ corresponds to the weight fraction of 66%, which is consistent with the evacuated, dehydrated formula Zr6O8(C27H15O6S6)2O (mw 1947): hydrogen-bonded to the polar -OH, carboxylate, and thiol groups, thus leading to their departure at the higher temperatures (above 180 ℃). The initial weight loss of ca 10% (up to 60 ℃) can be ascribed to the moisture loosely adsorbed on the surface of the MOF solid. In addition, the residual DMF molecules and water molecules either coordinated to the Zr(IV) center or hydrogen-bonded to the O and S groups around the metal nodes of the MOF scaffold. These small molecules guests are encapsulated within the MOF cavities, and do not impact the workings of the perovskite solar device.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 3 Carrier mobility calculation</head><p>The electron-only devices with the configuration of ITO/TiO2/ZrL3/PC61BM/BCP/Ag, ITO/TiO2/ZrL3:bis-C60/BCP/Ag and ITO/TiO2/PC61BM/BCP/Ag were fabricated to calculated the electron mobilities. Also, the hole-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>⁄ =</head><p>, where (mg L -1 ) refers to the remaining concentration of Pb, the number of unoccupied sites of the sorbent at certain time (min), and (g -1 min -1 ) the adsorption rate constant. The is approximated to be a constant.</p><p>Such an approximation is justified in the present condition, in which excess adsorbent (20.0 mg ZrL3) was used so that the sorption sites greatly outnumber the Pb ions (0.0024 mmol Pb). The maximum adsorption capacity ( ) for Pb is calculated to be 355 mg g -1 (7.1 mg of Pb uptake in this experiment), over 14 times the Pb ions present (the starting amount of 0.5 mg). The adsorbent is deployed in large excess to fully suppress the residual heavy metal content. In other words, only a small fraction of the binding sites of the adsorbent will be occupied, which further justifies the first order assumption. The linear plot based on the first five data points yields a of 0.103 min -1 (Fig. <ref type="figure" target="#fig_14">4a</ref>), with the corresponding half-life time being 6.73 mins.</p><p>The affinity of a sorbent for a target metal is described by the distribution coefficient ( ). The is defined as:</p><formula xml:id="formula_1">= Pb(II) sorbed on sorbent (mg g ) Pb(II) in solution (mg mL ) = -×</formula><p>where is the initial concentration of the metal ion, is the final equilibrium concentration of the metal ion, is the volume of the solution (mL) and is the weight of the sorbent used (g). The Kd values for successive adsorption cycles were calculated to be 9.7×10 4 mL g -1 . Cumulative Pore Volume (cm 3 g -1</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 6 Pb(II) sorption isotherm measurement of ZrL3</head><p>)</p><p>Pore width (Å) Supplementary Fig. <ref type="figure" target="#fig_11">15</ref> DFT analysis on the N2 sorption data of a boiling-water-treated ZrL3sample. QSDFT model was employed to show a major pore of 5.67 Å, a micropore surface of 299.5 m 2 g -1 and a micropore volume of 0.107 cm )</p><p>Pore width (Å) Supplementary Fig. <ref type="figure" target="#fig_11">17</ref>  Absorbance (a.u) Wavelength (nm) 0 mg ml -1 10 mg ml -1 20 mg ml -1 30 mg ml -1  Supplementary Fig. 19 The current density-voltage (J-V) characteristics curves of the holeand electron-only devices with the device configuration of ITO/PEDOT:PSS/spiro-OMeTAD/MoO3/Ag and ITO/TiO2/PC61BM/BCP/Ag, respectively. n is the slope of linear regions in the curve. The hole mobility of spiro-OMeTAD and electron mobility of PC61BM were calculated to be 1.07 × 10 -7 and 1.19 × 10 -6 m 2 V -1 s -1 , respectively.  Supplementary Fig. 23 The current density-voltage (J-V) characteristics curves of the hole-and electron-only devices based on ZrL3:bis-C60 with the device structure of ITO/PEDOT:PSS/ZrL3:bis-C60/MoO3/Ag and ITO/TiO2/ZrL3:bis-C60/BCP/Ag. n is the slope of linear regions in the curve. The hole and electron mobilities of ZrL3:bis-C60 were calculated to be 3.25 × 10 -9 and 2.19 × 10 -7 m 2 V -1 s -1 , respectively. ) Voltage (V) 10 mg ml -1 20 mg ml -1 30 mg ml -1 a 32 Supplementary Fig. <ref type="figure" target="#fig_12">25</ref> The J-V curves of champion M-PVSC with reverse and forward scans.  Supplementary Fig. 30 The Tauc plot of bis-C60 thin film prepared on glass substrate. Light intensity (mW cm -2 ) !"##$%&amp;%'()*+ ,)-$% . The parameters of PL lifetime by fitting TRPL curves obtained from the samples prepared on quartz substrate.</p><formula xml:id="formula_2">1.57k B T/q 1.41k B T/q 1 1 0 1 0 0 0.1 1 10 J sc (mA cm -2 ) r-PVSC M-PVSC 1 1 0 1 0 0 0.</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Table 5</head><p>Solar cell performance parameters of r-PVSC and M-PVSC extracted from J-V curves.  A comparison between the integrated response under the standard reference spectrum and the response measure under the simulator</p><formula xml:id="formula_3">Device configuration V oc (V) J sc (mA cm -2 ) F F( % ) P C E( % ) r-PVSC 1.177± 0.</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Efficiency External quantum efficiency (EQE) or incident photons to current efficiency (IPCE)</head><note type="other">Yes No</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>The Jsc obtained from J-V measurement is consistent with the Jsc integrated from EQE spectrum. (Fig. <ref type="figure" target="#fig_12">2C,</ref><ref type="figure" target="#fig_12">2D</ref>).</p><p>For tandem solar cells, the bias illumination and bias voltage used for each subcell Yes No Not relevant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Calibration</head><p>Light source and reference cell or sensor used for the characterization</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes</head><p>No Simulated AM 1.5 G irradiation was from solar simulator (EnliTech, SS-F5, Taiwan). A silicon solar cell (with a KG-2 filter) was used as reference cell (see "Methods" section in main text).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis of the device performance Yes</head><p>No Fig. <ref type="figure" target="#fig_12">2F</ref> and Supplementary Fig. <ref type="figure" target="#fig_6">28</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.">Long-term stability analysis Type of analysis, bias conditions and environmental conditions</head><p>For instance: illumination type, temperature, atmosphere humidity, encapsulation method, preconditioning temperature</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Long-term stability for the cells was measured and analyzed at different conditions including shelf stability in humid air and MPP tracking at elevated temperature in N2-filled glovebox (detailed conditions are described in main text).</p><p>1 Department of Chemistry, City University of Hong Kong, Kowloon, Hong Kong. <ref type="bibr">2</ref> Frontier Institute of Science and Technology (FIST), Xi'an Key Laboratory of Sustainable Energy and Materials Chemistry, Xi'an Jiaotong University, Shanxi, China. <ref type="bibr">3</ref> Department of Materials Science and Engineering, City University of Hong Kong, Kowloon, Hong Kong. <ref type="bibr">4</ref> Department of Chemistry, University of California-Irvine, Irvine, CA, USA. <ref type="bibr">5</ref> Department of Materials Science and Engineering, University of California-Irvine, Irvine, USA. <ref type="bibr">6</ref> Department of Physics and Astronomy, University of California-Irvine, Irvine, CA, USA. <ref type="bibr">7</ref> Irvine Materials Research Institute, University of California-Irvine, Irvine, CA, USA. <ref type="bibr" target="#b15">8</ref> Department of Materials Science and Engineering, University of Washington, Seattle, WA, USA. ✉ e-mail: zhengtao@cityu.edu.hk; zonglzhu@cityu.edu.hk; alexjen@cityu.edu.hk T he certified power conversion efficiency (PCE) of organicinorganic lead halide perovskite solar cells (PVSCs) has reached a new high at 25.2%, which can rival those of market-dominating inorganic photovoltaic technologies, including polycrystalline silicon (p-Si), thin film copper indium gallium selenide and cadmium telluride <ref type="bibr">[1]</ref><ref type="bibr">[2]</ref><ref type="bibr">[3]</ref><ref type="bibr">[4]</ref><ref type="bibr">[5]</ref> . The demonstrated high PCE indicates that it is no longer a limiting factor for commercializing PVSCs. As such, research efforts in this field have been gradually shifted to focus on the reliability and stability issues of PVSCs under ambient conditions, light soaking and thermal stresses <ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr" target="#b15">[8]</ref><ref type="bibr" target="#b16">[9]</ref> . By applying composition and crystal engineering, encapsulation, electrode selections, defect passivation and interfacial modifications, the device lifetime can be prolonged by excluding external environmental tensions <ref type="bibr" target="#b17">[10]</ref><ref type="bibr" target="#b18">[11]</ref><ref type="bibr" target="#b19">[12]</ref><ref type="bibr" target="#b20">[13]</ref> . Nevertheless, long-term stability of PVSCs under operational conditions has yet to be realized, which remains a critical hurdle to overcome before their large-scale implementation. Moreover, compared to the thermally and chemically stable cadmium telluride having low solubility in water (with a solubility product constant (K sp ) below 10 -30 ) and presenting a lower toxicity threat to the environment, lead (Pb)-containing compounds in perovskites (or degraded perovskites) have a much higher K sp of 10 -8 in rainwater <ref type="bibr" target="#b18">11,</ref><ref type="bibr" target="#b21">[14]</ref><ref type="bibr" target="#b22">[15]</ref><ref type="bibr" target="#b23">[16]</ref> . Therefore, to improve PVSC operational stability effectively and eliminate/minimize Pb 2+ leakage from the degraded perovskite absorbers, an integrated solution with proper materials and device configurations is required to enable PVSCs for practical applications.</p><p>Metal-organic frameworks (MOFs) have been recently explored in the perovskite photovoltaic community due to their potential for enhancing photovoltaic performance <ref type="bibr" target="#b24">[17]</ref><ref type="bibr" target="#b25">[18]</ref><ref type="bibr" target="#b26">[19]</ref><ref type="bibr" target="#b27">[20]</ref><ref type="bibr" target="#b28">[21]</ref> . This stems from the relative ease in tuning their functionalities as a versatile class of well-defined hybrid materials. So far, there are only very few cases that report the use of MOFs in PVSCs, indicating the very embryonic stage of this area. Among the limited studies, MOFs have been applied as scaffolds to template the growth of perovskites or as additives/surface modifiers to passivate the defects of perovskites for enhancing the device performance and stability <ref type="bibr" target="#b25">18,</ref><ref type="bibr" target="#b28">21</ref> . However, it is challenging to use a MOF as an efficient charge-transporting layer (CTL) because most of them are quite insulating with low carrier mobilities <ref type="bibr" target="#b26">19</ref> . Additionally, the MOFs utilized in PVSCs are mostly unfunctionalized prototypes that lack the diverse chemical functionalities needed for integrating with PVSCs.</p><p>To address these problems, we have developed a simple and effective strategy by applying a 2D conjugated MOF that possesses n-type electrical behaviour and suitable energy levels as an electron-extraction layer (EEL) at the perovskite/cathode interface. The use of Zr(iv) ions to engage selectively the hard carboxyl groups allows dense free-standing thiol arrays to be built around the Zr(iv)oxo cluster to offer steric shielding and stabilization <ref type="bibr" target="#b29">22,</ref><ref type="bibr" target="#b30">23</ref> . The dense array of thiol groups on the MOF is particularly important because of their capabilities in rigidifying the networks with crosslinked disulfide linkages and in trapping heavy metal ions (such as lead, mercury and so on). In addition, the thiol-functionalized MOF can also form intimate contact with the silver electrode to extract electrons efficiently from PVSCs by reducing the contact resistance and trapping mobile Pb 2+ ions at the perovskite/electrode interface to mitigate the potential impact of the device on environmental sustainability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of 2D MOF and perovskite/MOF films</head><p>As shown in Fig. <ref type="figure" target="#fig_11">1a</ref>, a new linker molecule H 3 L3 was first synthesized (Supplementary Figs. <ref type="figure" target="#fig_10">1</ref><ref type="figure" target="#fig_12">2</ref><ref type="figure" target="#fig_13">3</ref><ref type="figure" target="#fig_14">4</ref>). The peak numbers and assignments Despite the notable progress in perovskite solar cells, maintaining long-term operational stability and minimizing potentially leaked lead (Pb 2+ ) ions are two challenges that are yet to be resolved. Here we address these issues using a thiol-functionalized 2D conjugated metal-organic framework as an electron-extraction layer at the perovskite/cathode interface. The resultant devices exhibit high power conversion efficiency (22.02%) along with a substantially improved long-term operational stability. The perovskite solar cell modified with a metal-organic framework could retain more than 90% of its initial efficiency under accelerated testing conditions, that is continuous light irradiation at maximum power point tracking for 1,000 h at 85 °C. More importantly, the functionalized metal-organic framework could capture most of the Pb 2+ leaked from the degraded perovskite solar cells by forming water-insoluble solids. Therefore, this method that simultaneously tackles the operational stability and lead contamination issues in perovskite solar cells could greatly improve the feasibility of large-scale deployment of perovskite photovoltaic technology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2D metal-organic framework for stable perovskite solar cells with minimized lead leakage</head><note type="other">Shengfan</note><p>in the NMR spectra confirmed the molecular structure of the H 3 L3 linker and indicated the high purity of the H 3 L3 sample used for assembling the Zr(iv)-based MOF product, ZrL3. The corresponding polycrystalline framework solid, ZrL3 (Fig. <ref type="figure" target="#fig_11">1b</ref>), was then solvothermally prepared, using ZrOCl 2 •8H 2 O as the metal source, formic acid as the modulator and ethylene dithiol for stabilizing the thiol groups on the organic linker. The peak S-H stretch at around 2,555 cm -1 can be clearly observed from the FT-IR spectra of H 3 L3 and ZrL3 (Supplementary Figs. <ref type="figure">5</ref> and<ref type="figure">6</ref>), indicating the successfully installed thiol groups in the ZrL3 networks. The powder X-ray diffraction (PXRD) pattern of as-made ZrL3 (Supplementary Fig. <ref type="figure">7</ref>) can be indexed onto hexagonal unit cells (parameters: a = 19.98 Å, c = 7.24 Å (see Supplementary Note 1). The short c axis suggests a single-layer structure based on Zr 6 O 8 clusters as it compares well with the corresponding interlayer distance in a known structure. Elemental analysis and thermogravimetric analysis (TGA) results fit the formula Zr 6 O 4 (OH) 4 (L3) 2 (OH) 6 (H 2 O) 27 (DMF) (DMF = N,N-dimethylformamide) for ZrL3 (Supplementary Fig. <ref type="figure">8</ref> and Note 2). The linker/Zr 6 cluster ratio thus determined suggests full occupancy for the linker sites in ZrL3. The capping sites can be occupied by the formate (HCOO -) and HO -/H 2 O species, but it should be noted that their ratios here cannot be pinpointed by the current data as their small weight fractions do not impact significantly the elemental and TGA results.</p><p>The morphology, micro and atomic structures of the 2D MOF were also characterized by scanning electron microscopy (SEM) and transmission electron microscopy (TEM). The SEM image of ZrL3 features the morphology of thin platelets with dimensions between 100 and 500 nm (Supplementary Fig. <ref type="figure" target="#fig_11">10</ref>). The low magnification image, fast Fourier transform and electron diffraction show the distinct hexagonal arrays of the 2D layers in ZrL3, as demonstrated in Supplementary Fig. <ref type="figure" target="#fig_11">11</ref>. Moreover, atomic resolution high angle annular dark field images from aberration corrected scanning transmission electron microscopy indicate the direct (eclipsed) stacking of the MOF layers (Supplementary Fig. <ref type="figure" target="#fig_12">12</ref>). Individual Zr atoms are seen within the Zr clusters at high magnification. The surface clusters of a thin region were found to be more diffuse compared to the interior. The organic linkers between Zr clusters were seen in the bright field image and the surface of ZrL3 was also shown to be terminated by the organic linkers as in the model (Fig. <ref type="figure" target="#fig_11">1c,</ref><ref type="figure">d</ref>). TEM studies also suggest superior stability of the 2D networks as ZrL3 was stable under prolonged parallel electron beam radiation (~30 e -Å -2 s -1 ) while imaging. The stability of the ZrL3 lattice is further verified by gas sorption studies and PXRD. The N 2 sorption isotherm (77 K) features dominant type-I characteristics of microporous solids (Fig. <ref type="figure" target="#fig_11">1e</ref>), with additional uptake at high P/P 0 regions that can be attributed to capillary condensation in mesopores (for example, arising from the inter-particle/layer spaces).</p><p>The Brunauer-Emmett-Teller surface area is calculated to be 528 m 2 g -1 for ZrL3, which agrees with the simulated accessible solvent surface of 594 m 2 g -1 (Supplementary Fig. <ref type="figure" target="#fig_13">13</ref>). To probe respectively the hydrolytic and thermal stability, ZrL3 was placed in boiling water for 24 hours it was also heated at 100 °C in air for 7 days. The boiling-water-treated sample still showed substantial porosity as per gas sorption studies, even though the surface area was somewhat decreased (369 m 2 g -1 , see also Supplementary Figs. <ref type="figure" target="#fig_14">14</ref> and<ref type="figure" target="#fig_11">15</ref> for the density functional theory analysis of the N 2 sorption data). Moreover, the PXRD pattern of ZrL3 after either boiling-water-treatment or continual heating at 100 °C in air remained strong, indicating the retention of the crystalline phase (Fig. <ref type="figure" target="#fig_11">1f</ref> and Supplementary Fig. <ref type="figure" target="#fig_11">16</ref>). These results demonstrated the superior moisture and thermal stability of ZrL3. The optical bandgap of ZrL3 was determined and calculated to be 2.53 eV from its ultraviolet-visible (UV-vis) diffuse reflectance spectrum, as shown in Fig. <ref type="figure" target="#fig_11">1g</ref>. Additionally, the absorption spectra were also obtained to study the effect of ZrL3 on light harvesting of the perovskite layer (Supplementary Fig. <ref type="figure" target="#fig_11">17</ref>). No obvious change could be found in the absorption spectra with varied thicknesses of ZrL3 and the bandgap of the mixed-cation (Cs/formamidinium (FA)/methylammonium (MA)) perovskite was calculated to be 1.60 eV from the Tauc plot.</p><p>The electron-and hole-only devices were fabricated to study the electrical properties of ZrL3 by the space-charge-limited-current method (Supplementary Figs. 18 and 19 and Note 3) <ref type="bibr" target="#b31">24</ref> . As a result, the electron-and hole-mobilities were calculated to be 2.81 × 10 -7 m 2 V -1 s -1 and 5.36 × 10 -9 m 2 V -1 s -1 , respectively. The relatively higher electron mobility indicated that ZrL3 is more of a n-type material, which would be appropriate for extracting electrons in PVSCs. To investigate the interfacial charge carrier dynamics between perovskite and different EELs, steady-state photoluminescence (PL) and time-resolved photoluminescence (TRPL) spectra were obtained for the perovskite films coated with ZrL3, phenyl-C61-butyric acid methyl ester (PC 61 BM) and PC 61 BM/ZrL3 layers, respectively. As can be seen in Fig. <ref type="figure" target="#fig_11">1h</ref>, the pure perovskite film showed the strongest PL intensity due to the efficient radiative recombination of the photogenerated carriers, while it was apparently quenched upon contacting with the EELs. We note that the perovskite film showed substantially quenched PL when it contacted with ZrL3, suggesting efficient charge extraction from perovskite to ZrL3 (ref. <ref type="bibr" target="#b32">25,</ref><ref type="bibr" target="#b33">26</ref> ). This phenomenon is further confirmed by the TRPL spectra, as shown in Fig. <ref type="figure" target="#fig_11">1i</ref> and summarized in Supplementary Table <ref type="table">1</ref>. The perovskite/ZrL3 film exhibited biexponential decay with a fast (1.6 ns) and a slow (13.8 ns) component after being excited by a pulsed laser. This decay is much shorter than for the perovskite-only sample (137.8 and 632.8 ns). In addition, the perovskite/PC 61 BM/ZrL3 film exhibited a slightly faster PL decay than the perovskite/PC 61 BM film, which might be attributed to the cascade energy alignment in perovskite/PC 61 BM/ZrL3 (see Supplementary Fig. <ref type="figure" target="#fig_12">20</ref> and<ref type="figure" target="#fig_14">Note 4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device architecture and photovoltaic performance</head><p>The inverted planar PVSCs with the device configuration of indium tin oxide (ITO) glass/poly(triarylamine) (PTAA)/perovskite/ PC 61 BM/EEL/silver (Ag) were fabricated and the corresponding energy alignment is provided in Fig. <ref type="figure" target="#fig_12">2a,</ref><ref type="figure">b</ref>. The device without any EEL showed a relatively low PCE of 18.80% with a fill factor (FF) of 71.21%, which was attributed to the non-ideal electron extraction from PC 61 BM to the electrode and the insufficient hole-blocking ability. Encouragingly, by introducing ZrL3 as the EEL between PC 61 BM and Ag, a much higher FF of 76.42% along with a higher PCE of 20.34% was achieved (Supplementary Figs. <ref type="figure" target="#fig_12">21</ref> and<ref type="figure" target="#fig_12">22</ref>). These results suggest the enhanced electron extraction and hole-blocking ability originated from ZrL3, which is consistent with the TRPL results. To extract electrons even more efficiently, a bis-C60 surfactant (previously demonstrated to be able to tune the cathode work function for improving electron extraction in both organic photovoltaic devices and PVSCs (ref. <ref type="bibr" target="#b34">[27]</ref><ref type="bibr" target="#b35">[28]</ref><ref type="bibr" target="#b36">[29]</ref><ref type="bibr" target="#b37">[30]</ref> )) was further incorporated with ZrL3 as a hybrid EEL. Although the mobilities of the ZrL3:bis-C60 hybrid EEL are similar to those of ZrL3, the reduced energy barrier with the cathode will facilitate electron collection (Supplementary Fig. <ref type="figure" target="#fig_13">23</ref>).</p><p>As expected, the PCE of the device with the ZrL3:bis-C60 EEL (denoted as M-PVSC) could be further increased to 22.02% with an FF of 81.28%, open-circuit voltage (V oc ) of 1.20 V and negligible hysteresis. This is among the highest values reported for the planar inverted PVSCs (Fig. <ref type="figure" target="#fig_12">2c</ref>, Supplementary Figs. <ref type="figure" target="#fig_14">24</ref> and<ref type="figure" target="#fig_12">25</ref> and Table <ref type="table">2</ref>). The short-circuit current density (J sc ) obtained from the J-V curve matched well with the integrated value from the external quantum efficiency (EQE) (Fig. <ref type="figure" target="#fig_12">2d</ref>), demonstrating the good reliability of the results. The 'champion' (best) cell of M-PVSC was further held at the maximum power point (MPP) with a bias voltage of 1.03 V under continuous 1 sun illumination (AM 1.5G, 100 mW cm -2 ) to obtain a stabilized photocurrent of 20.97 mA cm -2 , which corresponds to a stabilized PCE of 21.60% (Fig. <ref type="figure" target="#fig_12">2e</ref>). More importantly, the efficiency of the encapsulated M-PVSC was certified to be 21.3% by an independent accredited institute (the National Institute of Metrology, China), which is close to the value measured in house (Supplementary Fig. <ref type="figure" target="#fig_12">26</ref>).</p><p>To elucidate the potential roles ZrL3 and bis-C60 played in the hybrid EEL for device efficiency, the PVSCs using only bis-C60 as the EEL were fabricated as the reference device (denoted as r-PVSC), which affords a slightly lower PCE of 21.32% than that of M-PVSC (Supplementary Fig. <ref type="figure" target="#fig_12">27</ref> and Table <ref type="table">3</ref>). The device performance of the PVSCs with different EELs is summarized in Fig. <ref type="figure" target="#fig_12">2f</ref> and Supplementary Tables <ref type="table">3</ref><ref type="table">4</ref><ref type="table">5</ref>. There are no obvious enhancements in V oc and J sc , while the enhanced PCE for M-PVSCs mainly comes from the FF improvements (Supplementary Fig. <ref type="figure" target="#fig_6">28</ref>). To explore the effect of EEL morphology on the improved FF, atomic force microscopy was employed to characterize the morphology of bis-C60, ZrL3 and ZrL3:bis-C60 prepared on perovskite/PC 61 BM film. The roughness of perovskite/PC 61 BM was slightly reduced from 10.02 to 8.86 nm after coating with bis-C60 (Supplementary Fig. <ref type="figure" target="#fig_12">29)</ref>.</p><p>By contrast, the film roughness of both perovskite/PC 61 BM/ ZrL3 and perovskite/PC 61 BM/ZrL3:bis-C60 films were increased to 36.31 nm and 35.45 nm, respectively and the morphologies of perovskite/PC 61 BM/ZrL3 and perovskite/PC 61 BM/ZrL3:bis-C60 were quite similar. These results implied that the film morphology of hybrid EEL was dominated by ZrL3 and it should not be the reason for the varied FF between the devices with different EELs. Furthermore, given that the hole-blocking ability of the EEL can significantly affect the FF in photovoltaic devices, the energy levels of ZrL3, bis-C60 and ZrL3:bis-C60 were then calculated and are summarized in Supplementary Table <ref type="table">6</ref> (also Supplementary Figs. <ref type="figure" target="#fig_13">30</ref> and<ref type="figure"></ref> 31 and Note 4). It was found that bis-C60 possesses a larger energy barrier for the holes than ZrL3. Therefore, it can potentially provide better hole-blocking ability which is consistent with the higher FF observed in r-PVSC than the devices with ZrL3 EEL alone.</p><p>On the other hand, it is known that the thiol group can interact with Ag by forming S-Ag bonds, which can reduce the contact resistance at the interface <ref type="bibr" target="#b38">[31]</ref><ref type="bibr" target="#b39">[32]</ref><ref type="bibr" target="#b40">[33]</ref><ref type="bibr" target="#b41">[34]</ref> . Thus, it is expected that the S-Ag bonds would form between the dense thiol and disulfide groups in ZrL3 and the Ag electrode to enable M-PVSCs to have better EEL-Ag contact than r-PVSCs. This allows M-PVSCs to have lower contact resistance and higher FF, which is consistent with our previous report <ref type="bibr" target="#b40">33</ref> . Based on these considerations, the high efficiency achieved for M-PVSCs should be mainly attributed to bis-C60, while ZrL3 with the dense thiol groups plays a role in reducing the contact resistance, thus slightly improving the FF.</p><p>The resultant PVSCs were also characterized by light intensity (I) dependent photovoltage and photocurrent density. Supplementary Fig. <ref type="figure" target="#fig_8">32</ref> shows the linear relationships between J sc and I in double-logarithmic scale and the fitted α values are close to 1, which demonstrates the efficient carrier transport and the few bimolecular recombinations for both devices. Additionally, the slopes were calculated from the semi-natural logarithmic plot of V oc versus I. The M-PVSC exhibited a slightly lower slope (1.41 k B T/q) r-PVSC (1.57 k B T/q), where k B , T and q are Boltzmann's constant, absolute temperature and elementary charge, respectively. These results indicate that the trap-assisted Shockley-Read-Hall recombination is reduced in M-PVSC because of the better contact between ZrL3 and the Ag electrode, which contributes to faster charge extraction in M-PVSC.</p><p>In a real-use scenario, perovskites and CTLs in a complete PVSC are susceptible to hydration and oxidation due to abundant moisture and an oxygen atmosphere <ref type="bibr" target="#b42">[35]</ref><ref type="bibr" target="#b43">[36]</ref><ref type="bibr" target="#b44">[37]</ref> . To highlight the superior stability of ZrL3, perovskite/PC 61 BM films were prepared initially on glass and coated with either bis-C60 or ZrL3:bis-C60 hybrid EEL to investigate their ability to protect perovskites against moisture and oxygen. The perovskite/PC 61 BM film with only bis-C60 EEL bleached almost completely after being placed in an ambient environment with a relative humidity (RH) of 75% for over two weeks (Supplementary Fig. <ref type="figure" target="#fig_13">33</ref>). In sharp contrast, no obvious degradation was observed for the perovskite/PC 61 BM film protected by the ZrL3:bis-C60 hybrid EEL. Besides, the contact angle with a drop of water on top of ZrL3:bis-C60 protected perovskite/PC 61 BM film rose from 68.37 to 81.23° (Supplementary Fig. <ref type="figure" target="#fig_14">34</ref>), implying ZrL3 can indeed help prevent moisture from penetrating into perovskite film, which is consistent with its enhanced film stability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Long-term device stability</head><p>To verify the feasibility of using a ZrL3:bis-C60 EEL in enhancing device stability, a comprehensive study was carried out on the encapsulated PVSCs in both humid air and nitrogen atmosphere. The M-PVSC showed superior shelf stability in an ambient environment (with a RH of 75%), maintaining 90% of its initial efficiency after 1,100 hours (Fig. <ref type="figure" target="#fig_13">3a</ref>). By contrast, the PCE of r-PVSC dropped significantly to &lt;50% of its original value. The significantly enhanced stability can be attributed to the strong coordinating ability of Zr(iv) ions and the dense thiol and crosslinked disulfide linkages in ZrL3, which protect perovskites against moisture and oxygen 38 .</p><p>Long-term operational stability of the devices was tested under a white LED lamp with the light intensity equivalent to 1 sun in a N 2 -filled glovebox (Fig. <ref type="figure" target="#fig_13">3b</ref>). Specifically, the operational stability was tested under an accelerated ageing condition: (1) no UV filter for the light source and (2) the devices were monitored at an elevated temperature of 85 °C to estimate their potential for long-term stability. The ZrL3-incorporated cell was tracked at the MPP and the corresponding PCEs obtained from the J-V curve were constantly monitored during the test (Fig. <ref type="figure" target="#fig_13">3c</ref>). The PCE of M-PVSC only dropped slightly to 92% of its initial value after 1,000 hours of ageing. Thus, M-PVSC is among the most stable inverted PVSCs tested under the MPP tracking condition at 85 °C. Moreover, it is observed that the constantly recorded PCEs from the J-V curves of M-PVSC during MPP tracking showed a similar decay trend, demonstrating the good reliability of the testing (Fig. <ref type="figure" target="#fig_13">3c</ref>). In the literature, small-molecule based CTLs/EELs tend to crystallize and form aggregates under thermal stress. This creates pathways for direct interactions between perovskite and metal electrode and so impairs the device performance <ref type="bibr" target="#b44">37</ref> . The superior stability of ZrL3 under thermal stress significantly enhanced the thermal stability of M-PVSC, which was further verified by the stability profile of the PVSCs with only ZrL3 as the EEL (Supplementary Fig. <ref type="figure" target="#fig_13">35</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lead contamination of PVSCs</head><p>To probe the possible sources and mechanisms that cause the degradation in our devices, the depth profiles of Pb, Ag and I ions throughout the un-encapsulated PVSCs were investigated by using time-of-flight secondary-ion mass spectrometry (ToF-SIMS) (Fig. <ref type="figure" target="#fig_13">3d,</ref><ref type="figure">e</ref>). The Pb 2+ signal could be clearly observed to shift towards the Ag electrode through the electron-transporting layer in the r-PVSC after it was aged under the accelerated condition in air (85 °C and 85% RH). This indicates that the perovskite films can be easily decomposed into Pb-containing by-products and ammonium salts under such an aggressive ageing condition, resulting in Pb 2+ diffusion into other layers <ref type="bibr" target="#b42">35,</ref><ref type="bibr" target="#b46">39</ref> . Very encouragingly, almost no Pb 2+ ions could be detected in the Ag layer of M-PVSC and they were "trapped" at the ZrL3:bis-C60/Ag interface to form Pb(ii)-ZrL3 complexes. Unlike the physical encapsulation methods used in reducing lead leakage, this in situ chemical adsorption of Pb 2+ by ZrL3:bis-C60 EEL in the device is a much more effective and sustainable process for long-term practical applications (Fig. <ref type="figure" target="#fig_13">3f</ref>).</p><p>To quantify the adsorption ability of ZrL3 for Pb 2+ ions, sorption kinetics and sorption isotherm measurements were obtained (Fig. <ref type="figure" target="#fig_14">4a</ref>,b and Supplementary Notes 5 and 6). A distribution coefficient K d of around 10 5 ml g -1 , a substantial value of 355 mg g -1 for the Pb adsorption capacity (q max ) and a sorption rate constant (pseudo first-order) of 0.103 min -1 were achieved. These results strongly support the idea that ZrL3 EEL can effectively adsorb Pb 2+ by rapid chemical reactions between thiols and Pb 2+ to minimize the leakage of Pb 2+ ions into the environment. To investigate the lead leakage that occurred in the degraded PVSCs, they were immersed in deionized water with a pH value of ~5.6 (simulating acidic rain) to compare the concentration of water soluble Pb components between M-PVSCs and r-PVSCs, as shown in Fig. <ref type="figure" target="#fig_14">4c</ref>. Pb 2+ testing paper was used to perform a quick check on the Pb 2+ concentration in the contaminated water and it was found that the aqueous extracts from the r-PVSC showed a much higher Pb 2+ concentration compared with those of the M-PVSC.</p><p>An inductively coupled plasma optical emission spectroscopy (ICP-OES) instrument was further used to quantify accurately the Pb 2+ concentrations (Fig. <ref type="figure" target="#fig_14">4d</ref> and Supplementary Fig. <ref type="figure" target="#fig_13">36</ref>). The Pb 2+ concentration decreased drastically to an average value of 7.6 ppm for M-PVSCs compared to 38.4 ppm for r-PVSCs and 38.1 ppm for pure perovskite film, which means over 80% of the leaked Pb 2+ ions from the degraded perovskite could be captured by thiol-functionalized ZrL3 to form water-insoluble Pb(ii)-ZrL3 complexes. This substantially reduced lead leakage was attributed to the chemical reaction between the dense array of thiol and disulfide groups on ZrL3 with leaked Pb 2+ ions from the degraded perovskites. Although this Pb(ii)-trapping process can be further optimized, our results demonstrate a promising strategy to improve simultaneously PVSC long-term operational stability and reduce/ prevent Pb 2+ leakage into the environment. This will greatly facilitate the large-scale deployment of highly efficient PVSCs for clean energy applications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>We have developed an effective strategy to address simultaneously the most challenging operational stability and lead contamination issues in PVSCs by incorporating a functionalized 2D MOF as an EEL into a PVSC. The resultant inverted PVSC achieved a high PCE of &gt;22% (a certified value of 21.3%) and substantially improved long-term operational stability. More importantly, the thiol-containing MOF can capture most of the leaked Pb 2+ (over 80%) from degraded PVSCs by forming a water-insoluble complex. These combined results showed the promise of simultaneously realizing stable and environmental-friendly PVSCs through multi-functional MOFs.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of dimethyl 1,3,5-tris[3′,5′-bis(benzylthio)-4′-(methoxycarbonyl) phenyl] benzene (M3).</head><p>Molecule S1 (2.00 g, 4.36 mmol), bis(pinacolato)diboron (1.107 g, 4.36 mmol), PdCl 2 (PPh 3 ) 2 (77 mg, 0.11 mmol) and anhydrous potassium acetate (941 mg, 9.59 mmol) were loaded in a 250 ml two neck round-bottom flask and dried under vacuum for 30 min. The flask was then connected to a nitrogen atmosphere. Anhydrous 1,4-dioxane (30 ml, bubbled with nitrogen for 10 min beforehand) was added to the flask. The mixture was stirred at 90 °C for 12 h. After cooling to room temperature, K 3 PO 4 aqueous solution (2.3 M, 5.0 ml bubbled with nitrogen for 10 min beforehand) was added, followed by the addition of 1,3,5-tribromobenzene (400 mg, 1.27 mmol). The mixture was stirred at 90 °C for 12 h. After cooling to room temperature, the mixture was poured into water (400 ml) and extracted with DCM (3 × 100 ml). The combined organic phases were washed with distilled water (3 × 200 ml). The organic phase was then dried over anhydrous MgSO 4 and evaporated with a rotary evaporator. The solid residue obtained was purified by flash column chromatography (eluent: DCM/n-hexane/ ethyl acetate, 1:1:0.01) to obtain M3 as a: white solid (987 mg, 64% yield based on 1,3,5-tribromobenzene); <ref type="bibr">1</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of 1,3,5-tris[3′,5′-bis(benzylthio)-4′-carboxyphenyl]benzene (MA3).</head><p>Molecule M3 (485 mg, 0.40 mmol) was dissolved in tetrahydrofuran (7.0 ml) in a 100 ml two neck round-bottom flask, followed by adding KOH solution (8.9 M, 7.0 ml in MeOH/H 2 O, v-v = 1:1). The mixture was stirred at 70 °C for 24 h. After cooling to room temperature, 10% HCl(aq.) was added to the resulting mixture to attain pH &lt; 2. A yellow precipitate formed was filtered, washed extensively with distilled water and suction-dried on a filter paper to afford MA3 as a: brown solid (455 mg, 97% yield based on M1); <ref type="bibr">1</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of 1,3,5-tris(3′,5′-bimercapto-4′-carboxyphenyl)benzene (H 3 L3).</head><p>Molecule MA3 (234 mg, 0.20 mmol), anhydrous AlCl 3 (640 mg, 4.80 mmol), dry DCM (17.0 ml) and dry toluene (2.0 ml) were mixed in a reaction tube in a N 2 -filled glove box. After the reaction tube was taken out, the tube was connected to a N 2 manifold and stirred at room temperature for 2 h. Afterwards, 10% HCl (aq., 10 ml, bubbled with N 2 for five min beforehand) was added to the mixture, followed by stirring at room temperature for 2 h. The yellow precipitate formed was collected by suction filtration and washed with 10% HCl (aq.), distilled water, then DCM and dried under vacuum to afford H 3 L3 as a: brown solid (103 mg, 82% yield based on MA3); <ref type="bibr">1</ref>  Polycrystalline framework solid of ZrL3. H 3 L3 (30 mg, 0.048 mmol) and 10 drops of 1,2-ethanedithiol (170 mg, 1.81 mmol) were dissolved in DMF (3.0 ml), while ZrOCl 2 •8H 2 O (92 mg, 0.29 mmol) and formic acid (≥ 88%, 490 mg, 9.37 mmol) were ultrasonically dissolved in another 3.0 ml DMF. The two mixtures were added to a 25 ml Pyrex glass ampoule. The ampoule was flame-sealed and heated in an oven at 120 °C for 48 h, followed by programmed cooling to room temperature for 12 h. The pale brown powder formed was collected by filtration, then washed with DMF (3 ml × 10) and acetone (3 ml × 10) and dried under nitrogen flow for weight measurement (90 mg). The above powder was denoted as as-made ZrL3.</p><p>Preparation of activated ZrL3. In a nitrogen-filled glovebox, an as-made ZrL3 sample (~80 mg) and DMF (~8 ml) were added to a 15 ml glass vial and heated at 60 °C for 12 h. After cooling to room temperature, the supernatant was replaced with fresh DMF (~8 ml) and heated at 60 °C for 12 h. The above solvent exchange and heating procedures were repeated three times. After that, the above activation procedure was repeated using CH 3 CN. The vacuum-dried powder was denoted as activated ZrL3.</p><p>Elemental analysis found (C (26.70%), H (4.286%), N (0.47%)) and a fitting formula can be determined to be Zr 6 O 4 (OH) 4 (L3) 2 (OH) 6 (H 2 O) 27 (DMF) (molecular mass 2,596.45), which gives a calculated profile as (C (26.37%), H (3.92%), N (0.54%), S (14.82%), Zr (21.08%)). The activated ZrL3 sample was also characterized by TGA in both N 2 and air flows (Supplementary Fig. <ref type="figure">8</ref>, see also Supplementary Fig. <ref type="figure">9</ref> for an informative comparison of TGA data). The TGA measurement conducted in an air flow showed 25.1% ZrO 2 residue, equivalent to a Zr content of 18.6%. Both TGA and elemental analysis results agree with the evacuated, dehydrated formula Zr 6 O 8 (C 27 H 15 O 6 S 6 ) 2 O (molecular mass 1947).</p><p>Boiling-water-treatment of ZrL3. To a 100 ml round-bottom flask charged with a stirring bar, an activated ZrL3 sample (120 mg) and deionized water (30 ml) were added and the mixture was refluxed (using an oil bath at 120 °C) for 24 h. After cooling to room temperature, the resultant MOF solid was collected by filtration and dried under vacuum at 105 °C for 12 h. The above powder was denoted as boiling-water-treated ZrL3.</p><p>Perovskite solar cell fabrication. The pre-patterned ITO (15 Ω sq -1 ) glass substrates were sequentially cleaned by sonication with detergent (Decon 90/ deionized water, v/v = 1:1), deionized water, acetone and IPA for 15 min, respectively. The cleaned ITO glass substrates were then transferred into an oven at a temperature of 100 °C and treated with O 2 plasma for 10 min before use. Then, the hole-transporting layer, that is, 10 mg ml -1 PTAA in toluene (doped with 1 wt% of 2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane (F4-TCNQ)), was spin-coated onto the ITO glass substrate at 4,000 rpm for 30 s and this was subsequently annealed at 150 °C for 10 min. After cooling for 5 min, the mixed-cation perovskite film was then deposited on PTAA by a one-step spin-coating method. The perovskite precursor solution was prepared by mixing CsI, FAI, MABr, PbI 2 and PbBr 2 in DMF/DMSO (v/v = 5:1) to a chemical formula of Cs 0.05 (FA 0.85 MA 0.15 ) 0.95 Pb(I 0.85 Br 0.15 ) 3 .</p><p>Considering the poor wetting ability of the PTAA surface, 50 μl DMF was first spun onto the PTAA layer to improve the wetting ability before depositing the perovskite layer. Then, 60 μl of perovskite precursor solution was spin-coated on PTAA at 1,000 rpm for 10 s and 5,000 rpm for 30 s. During the second step, 110 μl CB as anti-solvent was quickly dripped onto the centre of the perovskite film 15 s before the end of the spin-coating process and then annealed at 60 °C for 5 min and 100 °C for 30 min. The electron-transporting layer, that is PC 61 BM (20 mg ml -1 in CB), was spun onto the perovskite layer with a speed of 2,000 rpm for 30 s, followed by annealing at 90 °C for 10 min. As for the devices with a MOF EEL, ZrL3 solution was first prepared by dispersing ZrL3 into IPA at different concentrations followed by ultrasonication and stirring. Then, the ZrL3 (or ZrL3 doped with 10 wt% of bis-C60) solution was spun onto the PC 61 BM layer at a speed of 2,000 rpm for 60 s. For the reference devices, bis-C60 (2 mg ml -1 in IPA) was spun onto the PC 61 BM with a speed of 2,000 rpm for 30 s. All the spin-coating processes were conducted in a N 2 -filled glovebox with contents of O 2 and H 2 O &lt; 1 ppm at a controlled temperature of 20-25 °C. Finally, 120 nm Ag was thermally evaporated in a high vacuum chamber (&lt;5 × 10 -6 Torr) through a metal shadow mask (aperture area of 0.13 cm 2 is defined by the overlap between the pre-patterned ITO and the back metal electrode).</p><p>Characterizations and measurements. Elemental analysis was performed with a Vario EL III CHN elemental analyser. Infrared spectra in the range 400-4,000 cm -1 were recorded on a Nicolet Avatar 360 FT-IR spectrophotometer. Solution 1 H NMR and 13 C NMR spectra were recorded at room temperature on Bruker superconducting-magnet high-field NMR spectrometers with working frequencies of 300 and 400 MHz, using tetramethylsilane as the internal standard. Chemical shifts (δ) are expressed in ppm relative to the residual solvent reference (for example chloroform-d 1 H: 7.26 ppm, 13 C: 77.0 ppm). Coupling constants are expressed in hertz. TGA was carried out in a nitrogen or air stream using Perkin Elmer thermal analysis equipment (STA 6000) with a heating rate of 2 °C min -1 , with an empty Al 2 O 3 crucible being used as the reference. The porosity and surface area analyses were performed using a Quantachrome Autosorb iQ gas sorption analyser. Samples were outgassed at 0.03 Torr with a 2 °C min -1 ramp to 120 °C and held at 120 °C for 12 h. The samples were then held in vacuum until the analyses started to run. Pore analysis was performed using N 2 at 77.35 K (P/P 0</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>25.1% x (1947/123.2x6) = 25.1% x 2.63 = 66.0%. The preceding stage of weight loss starts from the weight fraction of 88.5% at 180 ℃ (to 66% at 400 ℃); this weight fraction (88.5% at 180 ℃) is consistent with the formula Zr6O4(OH)4(L3)2(OH)6(H2O)27(DMF) (mw 2596): 25.1% x (2596/123.2x6) = 88.1%. This formula is also supported by CHN elemental analysis: found [C (26.70 %), H (4.286 %), N (0.47 %)]; calculated: [C (26.37 %), H (3.92 %), N (0.54%)]. The 27 water molecules of this formula are closely trapped in the cavities of the MOF matrix; the trapping of these water molecules are strengthened by being coordinated to the Zr(IV) centers, and by extensively</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>4 .Fig. 8</head><label>48</label><figDesc>Lead(II) acetate solutions of various Pb(II) concentrations(10, 25, 50, 100, 250, 500, 750 and 1000 mg L -1 ) were prepared using D.I. water, and used in the following adsorption procedure. An activated sample of ZrL3 (5.0 mg) was added to each centrifuge tube containing Pb(II) solution (5.0 mL) with different concentrations. The mixtures were stirred at room temperature for 18 hours. The MOF solids were separated by centrifugation and the supernatant was filtered through a 0.22-µm membrane and analyzed using ICP-OES to determine the remaining Pb(II) content. The saturated Pb adsorption capacity () is calculated by the following mathematical expression: -1 ) is the sorption capacity at equilibrium state, (mg L -1 ) is the Pb concentration remaining in the solution at equilibrium state and (L mg -1 ) is a constant related to binding site affinity. Values for (355 mg g -1 ) and can be obtained from the slope and y-intercept, respectively, by plotting / versus , as shown in Fig.SupplementaryThe TGA plot for an activated ZrL3 sample in (a) an N2 atmosphere and (b) in an air flow. The flattened curve in b indicates the conversion of ZrL3 into residual ZrO2(Please refer to Supplementary Note 2 for detailed analysis.). 14 DFT analysis on the N2 sorption data of an activated ZrL3 sample.QSDFT model was employed to show a major pore of 5.45 Å, a micropore surface of 442.3 m 2 g - 1 and a micropore volume of 0.162 cm 3 g -1 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>(a) UV-vis spectra of perovskite/PC61BM/ZrL3 with different concentration of ZrL3. (b) The Tauc plot of the perovskite film.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Supplementary Fig. 20</head><label>20</label><figDesc>Cyclic voltammetry (CV) curve of ZrL3 thin film.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Supplementary Fig. 24</head><label>24</label><figDesc>The J-V curves of perovskite solar cells based on ZrL3:bis-C60 EEL with different concentrations.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>a 28</head><label>28</label><figDesc>Supplementary Fig.27 (a) The champion J-V curves of r-PVSC and (b) the corresponding hysteresis behavior. Statistics of key photovoltaic parameters obtained from the J-V characteristic for 30 r-PVSC and M-PVSC.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>. 32</head><label>32</label><figDesc>Photon enegy (eV)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. 2D.</head><label></label><figDesc>Fig. 2D.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Wu 1 ,</head><label>1</label><figDesc>Zhen Li 1 , Mu-Qing Li 1,2 , Yingxue Diao 1,3 , Francis Lin 1 , Tiantian Liu 1 , Jie Zhang 1 , Peter Tieu 4 , Wenpei Gao 5 , Feng Qi 1 , Xiaoqing Pan 5,6,7 , Zhengtao Xu 1 ✉ , Zonglong Zhu 1 ✉ and Alex K.-Y. Jen 1,3,8 ✉</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Characterization of ZrL3 and the perovskite films with different eeLs. a, The thiol-decked carboxyl linker H 3 L3. b, Structural model of corresponding 2D MOF ZrL3. c, bright field image. d, Model of ZrL3. e, N 2 sorption isotherm at 77 K and brunauer-Emmett-Teller plot (insets) for the activated ZrL3 before (left) and after (right) boiling-water-treatment. f, PXRD patterns of ZrL3. g, UV-vis diffuse reflectance spectrum of the as-made ZrL3. h,i, PL (h) and TRPL (i) spectra of the perovskite films with different EELs.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Fig. 2 |</head><label>2</label><figDesc>Fig. 2 | Device structure and performance of the PVSCs with ZrL3:bis-C60 eeL. a, Device structure of inverted PVSC. b, Energy level alignment of the used materials. c, J-V curve of the champion PVSC with ZrL3:bis-C60 EEL. d, EQE spectrum and integrated current density of the champion PVSC with ZrL3:bis-C60 EEL. e, Stabilized power output at the MPP for the PVSC with ZrL3:bis-C60 EEL. f, PCE histogram obtained from 30 PVSCs with ZrL3:bis-C60 EEL.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Long-term stability studies for the PVSCs with bis-C60 (r-PVSC) or ZrL3:bis-C60 (M-PVSC) eeL. a, Shelf stability of the encapsulated PVSCs in humid air with RH of 75%. b, Long-term operational stability of the encapsulated PVSCs under MPP tracking at 85 °C under continuous light irradiation with a white LED lamp (100 mW cm -2 ) in a N 2 -filled glovebox. c, PCEs constantly recorded from the J-V curves of M-PVSC during MPP tracking. d,e, ToF-SIMS depth profiles of the pristine (d) and aged (e) PVSCs with bis-C60 (left) or ZrL3:bis-C60 (right) EEL. f, Schematic of degradation process of PVSCs and the immobilization effect of ZrL3 on leaked Pb 2+ ions.</figDesc><graphic coords="58,305.00,282.95,239.76,72.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Fig. 4 |</head><label>4</label><figDesc>Fig. 4 | Lead contamination of the PVSCs with bis-C60 (r-PVSC) or ZrL3:bis-C60 (M-PVSC) eeL. a, Pb(ii) sorption kinetics of an activated ZrL3 sample (20.0 mg) at an initial Pb(ii) concentration of 10.0 ppm. The two insets are the corresponding absorbed Pb(II) amount and the Lagergren first-order kinetic plot of the Pb(II) sorption, respectively. b, Pb(ii) Langmuir sorption isotherm of the activated sample of ZrL3. The inset is the linear fit with the Langmuir adsorption model. c, Degraded PVSCs with bis-C60 (r-PVSC) or ZrL3:bis-C60 (M-PVSC) EEL are immersed into the deionized water with a pH value of ~5.6 and Pb ion testing paper is used to quickly detect the Pb concentration in the contaminated water. d, Pb concentration in the contaminated water was accurately detected by ICP-OES measurements.</figDesc><graphic coords="59,85.85,235.65,148.32,122.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,152.64,105.96,290.64,202.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,152.88,105.72,290.64,203.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>3 g -1 .</figDesc><table><row><cell>a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>b</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>200</cell><cell></cell><cell cols="3">fitted volume measured volume</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2000</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>) g -1 2 uptake (cm 3</cell><cell>100 150</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>dS(d)</cell><cell>1500 1000</cell><cell></cell><cell></cell><cell cols="4">Pore width (Mode) = 5.67 Å</cell><cell></cell></row><row><cell>N</cell><cell>50</cell><cell></cell><cell></cell><cell cols="3">Fitting error = 0.449%</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>500</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.0</cell><cell></cell><cell>0.2</cell><cell>0.4</cell><cell></cell><cell>0.6</cell><cell>0.8</cell><cell></cell><cell>1.0</cell><cell>4</cell><cell>6</cell><cell>8</cell><cell>1 0</cell><cell>1 2</cell><cell>1 4</cell><cell>1 6</cell><cell>1 8</cell><cell>2 0</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">P/P 0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Pore width (Å)</cell><cell></cell><cell></cell></row><row><cell>c</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>d</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>g -1 )</cell><cell>400</cell><cell></cell><cell cols="6">Micropore surface area = 299.5 m 2 g -1</cell><cell>g -1</cell><cell></cell><cell></cell><cell cols="5">Micropore volume = 0.107 cm 3 g -1</cell><cell></cell></row><row><cell>Cumulative Surface Area (m 2</cell><cell>100 200 300</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Cumulative Pore Volume (cm 3</cell><cell>0.04 0.08 0.12</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>4</cell><cell>6</cell><cell>8</cell><cell>1 0</cell><cell>1 2</cell><cell>1 4</cell><cell>1 6</cell><cell>1 8</cell><cell>2 0</cell><cell>4</cell><cell>6</cell><cell>8</cell><cell>1 0</cell><cell>1 2</cell><cell>1 4</cell><cell>1 6</cell><cell>1 8</cell><cell>2 0</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Pore width (Å)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>The starting materials, reagents and solvents for MOF synthesis were purchased from commercial sources, including J&amp;K, Sigma-Aldrich and Anaqua and were used without further purification. Caesium iodide (CsI), formamidinium iodide (FAI) and methylammonium bromide (MABr) were purchased from Dysol. Lead iodide (PbI 2 ) and lead bromide (PbBr 2 ) were purchased from TCI. Phenyl-C61-butyric acid methyl ester (PC 61 BM) was purchased from ADS.</figDesc><table><row><cell>Nature NaNotechNology</cell><cell>Articles</cell></row><row><cell>Methods</cell><cell></cell></row><row><cell>Materials. Poly[bis(4-phenyl)(2,4,6-trimethylphenyl) amine] (PTAA) and bathocuproine</cell><cell></cell></row><row><cell>(BCP, purity of 99.9%) were purchased from Xi'an Polymer Light Technology</cell><cell></cell></row><row><cell>Corporation. The solvents, including DMF, dimethyl sulfoxide (DMSO),</cell><cell></cell></row><row><cell>isopropanol (IPA) and chlorobenzene (CB) were purchased from J&amp;K and used as</cell><cell></cell></row><row><cell>received. Toluene was purchased from Tian Hang Technology Co., Ltd. Silver with</cell><cell></cell></row><row><cell>high purity was purchased from commercial sources.</cell><cell></cell></row><row><cell>Synthesis of methyl 2,6-bis(benzylthio)-4-bromobenzoate (S1). 4-Bromo-</cell><cell></cell></row><row><cell>2,6-difluorobenzoic acid (4.74 g, 0.02 mol) and potassium carbonate (27.6 g,</cell><cell></cell></row><row><cell>0.20 mol) were loaded in a 250 ml two neck round-bottom flask. N-Methyl-</cell><cell></cell></row><row><cell>2-pyrrolidone (100 ml) was added to the flask and the mixture was stirred and</cell><cell></cell></row><row><cell>bubbled with nitrogen at room temperature for 30 min. Benzyl mercaptan (6.0 ml,</cell><cell></cell></row><row><cell>0.05 mol) was then added to the mixture under nitrogen. The mixture was stirred</cell><cell></cell></row><row><cell>at 80 °C for 4 days. After cooling to room temperature, methyl iodide (3.0 ml,</cell><cell></cell></row><row><cell>48.19 mmol) was added to the mixture and the mixture was stirred at room</cell><cell></cell></row><row><cell>temperature for 30 min. The resulting mixture was poured into distilled water</cell><cell></cell></row><row><cell>(800 ml) and extracted with dichloromethane (DCM) (3 × 200 ml). The combined</cell><cell></cell></row><row><cell>organic layer was dried over anhydrous MgSO 4 , evaporated on a rotary evaporator</cell><cell></cell></row><row><cell>and purified by column chromatography (eluent: DCM/hexane, 1:5) to afford S1</cell><cell></cell></row><row><cell>as a: white solid (6.96 g, 76% yield based on 4-bromo-2,6-difluorobenzoic acid); 1 H</cell><cell></cell></row><row><cell>NMR (300 MHz, CDCl 3 ): δ = 7.34-7.18 (m, 12H), 4.05 (s, 4H), 3.91 (s, 3H) ppm; 13 C NMR (75 MHz, CDCl 3 ): δ = 167.35, 138.72, 136.35, 135.67, 133.41, 129.23,</cell><cell></cell></row><row><cell>128.69, 127.70, 123.22, 52.70, 40.48 ppm.</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head></head><label></label><figDesc>H NMR (300 MHz, DMSO-d 6 ): δ = 7.55 (s, 6H), 7.52 (s, 3H), 7.16-7.26 (m, 18H), 7.32-7.35 (m, 12H), 4.35 (s, 12H) ppm; 13 C NMR (75 MHz, DMSO-d 6 ): δ = 168.25, 140.59, 140.33, 138.13, 137.19, 133.64, 129.09, 128.45, 127.23, 125.52, 37.95 ppm.</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head></head><label></label><figDesc>H NMR (400 MHz, acetone-d 6 ): δ = 8.01 (s, 3H), 7.78 (s, 6H) ppm; 1 H NMR (400 MHz, DMF-d 7 ): δ = 8.11 (s, 3H), 7.96 (s, 6H) ppm; 13 C NMR (100 MHz, DMF-d 7 ): δ = 169.14, 142.78, 141.27, 137.32, 129.61, 127.05, 126.85 ppm.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATure NANOTeChNOLOGY | VOL 15 | NOVEMbER 2020 | 934-940 | www.nature.com/naturenanotechnology</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>© The Author(s), under exclusive licence to Springer Nature Limited 2020 NATure NANOTeChNOLOGY | VOL 15 | NOVEMbER 2020 | 934-940 | www.nature.com/naturenanotechnology</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>NATure NANOTeChNOLOGY | www.nature.com/naturenanotechnology</p></note>
 		</body>
 		<back>
 
 			<div type="acknowledgement">
-<div><head>Acknowledgements</head><p>The authors would like to thank <rs type="person">Ian S. Winter</rs> for providing them with his elastic constants code that interfaces with VASP. Materials growth, characterization, and modeling were supported by the <rs type="funder">U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering Division</rs> under contract no. <rs type="grantNumber">DE-AC02-05CH11231</rs> within the <rs type="programName">Electronic Materials Program</rs> (<rs type="grantNumber">KC1201</rs>). Electron Microscopy was performed at the Molecular Foundry which is supported by the <rs type="funder">Office of Science, Office of Basic Energy Sciences</rs>, of the <rs type="funder">U.S. Department of Energy</rs> under Contract No. <rs type="grantNumber">DE-AC02-05CH11231</rs>.</p></div>
+<div><head>Acknowledgements</head><p>The work was supported by the <rs type="funder">APRC</rs> Grant of the <rs type="funder">City University of Hong Kong</rs> (<rs type="grantNumber">9380086</rs>, <rs type="grantNumber">9610421</rs>), an <rs type="grantName">ECS grant</rs> from the <rs type="funder">Hong Kong Research Grants Council</rs> (<rs type="grantNumber">21301319</rs>) and <rs type="funder">Innovation and Technology Support Programme</rs> (<rs type="grantNumber">ITS/497/18FP</rs>, <rs type="grantNumber">GHP/021/18SZ</rs>), the <rs type="projectName">Guangdong Major Project of Basic and Applied Basic Research</rs> (no. <rs type="grantNumber">2019B030302007</rs>) and <rs type="funder">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</rs> (no. <rs type="grantNumber">2019B121205002</rs>). TEM work was conducted using the facilities in the <rs type="institution">Irvine Materials Research Institute (IMRI)</rs> at the <rs type="institution">University of California-Irvine</rs> and supported by the <rs type="funder">NSF</rs> under grants (<rs type="grantNumber">CBET-1159240</rs> and <rs type="grantNumber">DMR-1506535</rs>). This work was also supported by an <rs type="funder">ARG</rs> grant (Project <rs type="grantNumber">9667168</rs>) from the <rs type="funder">City University of Hong Kong</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_mJD4BqA">
-					<idno type="grant-number">DE-AC02-05CH11231</idno>
-					<orgName type="program" subtype="full">Electronic Materials Program</orgName>
+				<org type="funding" xml:id="_qh9edQz">
+					<idno type="grant-number">9380086</idno>
 				</org>
-				<org type="funding" xml:id="_hrqmqtj">
-					<idno type="grant-number">KC1201</idno>
+				<org type="funding" xml:id="_xzrvVdJ">
+					<idno type="grant-number">9610421</idno>
+					<orgName type="grant-name">ECS grant</orgName>
 				</org>
-				<org type="funding" xml:id="_j9B646Z">
-					<idno type="grant-number">DE-AC02-05CH11231</idno>
+				<org type="funding" xml:id="_cmy7BMq">
+					<idno type="grant-number">21301319</idno>
+				</org>
+				<org type="funding" xml:id="_G3b84Dg">
+					<idno type="grant-number">ITS/497/18FP</idno>
+				</org>
+				<org type="funded-project" xml:id="_C9hP5d5">
+					<idno type="grant-number">GHP/021/18SZ</idno>
+					<orgName type="project" subtype="full">Guangdong Major Project of Basic and Applied Basic Research</orgName>
+				</org>
+				<org type="funding" xml:id="_FdyN6RP">
+					<idno type="grant-number">2019B030302007</idno>
+				</org>
+				<org type="funding" xml:id="_TuD47pq">
+					<idno type="grant-number">2019B121205002</idno>
+				</org>
+				<org type="funding" xml:id="_JRSpswe">
+					<idno type="grant-number">CBET-1159240</idno>
+				</org>
+				<org type="funding" xml:id="_cuV6NeV">
+					<idno type="grant-number">DMR-1506535</idno>
+				</org>
+				<org type="funding" xml:id="_T4fzYUF">
+					<idno type="grant-number">9667168</idno>
 				</org>
 			</listOrg>
-
-			<div type="availability">
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data availability. The data that support the findings of this study are available from the corresponding author on request.</p></div>
-			</div>
-
 			<div type="annex">
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Figures</head><p>Supplementary Figure <ref type="figure">1</ref>   </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Notes</head><p>Supplementary Note 1: Frenkel-Kontorova Model to Explore Retention of Thermal-Expansion Mismatch Strains.</p><p>When viewed in the light of epitaxy, the thermal expansion mismatch strain observed in the samples is noteworthy, particularly in the case of the amorphous fused silica. With an amorphous substrate, one does not expect epitaxy, and hence one does not expect epitaxial strain.</p><p>However, the amorphous substrate still represents a corrugated potential, albeit without long-range crystalline order, for the deposited film. It is interesting, then, to consider the amplitude of the corrugation necessary to sustain the thermal-expansion mismatch strain within the films. In order to explore the amplitude of the surface corrugation required to retain the strain arising due to thermal expansion mismatch, we explored a simple 2D Frenkel-Kontorova model <ref type="bibr" target="#b20">16</ref> . Though the model is simple, it provides substantial insight into the considered problem, and enables exploration of the large systems. Though the model is best suited for epitaxy, it does allow exploration of the relationship between the corrugation of the potential and the retention of thermal mismatch strain.</p><p>The 2D Frenkel-Kontorova model considered here consists of a single plane of atoms connected by springs interacting with a substrate potential that has the same triangular symmetry (Supplementary Figure <ref type="figure">1 (a)</ref>). One can think of these atoms as representing the plane of Se atoms in contact with the substrate. The springs strengths model the effective interactions between these atoms, that are, of course, determined by the layers W and Se atoms not indirect contact with the substrate. In dimensionless form, where all lengths are measured in terms of the substrate lattice parameter, as, and all energies measured in terms</p><p>𝜅𝑎 s 2 , with 𝜅 the spring constant of the model, the potential energy of the system can be written as:</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Methods</head><p>The furnace temperature profile as a function of the set point temperature for both zones was characterized to determine the actual sample temperature as well as the cross talk between furnace zones. This was used to adjust the set point of the upstream zone such that the selenium powder would reach the target temperature from excess heat provided by the downstream zone as well as to determine the actual temperature of the growth as compared to the furnace set point. A schematic of the furnace setup used for all growths performed in this study is shown in Supplementary Figure <ref type="figure">7</ref>. For various substrates, several modifications were made to the general procedure used to grow monolayer samples on fused silica described in the main text. Optical images of WSe2 grown on various substrates, as well as the dependence of growth morphology on Ar/H2 ratio, growth time, and gas pressure are shown in Supplementary Figures 9, 10, 11, and 12   respectively. Additionally, photoluminescence imaging and atomic force microscopy were performed to verify sample uniformity and is shown in Supplementary Figure <ref type="figure">3</ref>.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Growth on AlN:</head><p>NaBr is employed as a promotor for the growth of WSe2 instead of KBr. NaBr is mixed with WO3 at 1:2 ratio. All the other growth parameters are kept the same as the method described in the manuscript.</p><p>Growth on sapphire (Al 2 O 3 ): NaCl or KBr is used as a promotor for the growth of WSe2 on sapphire. The promotor is mixed with WO3 at the ratio of 1:2. All the other growth parameters are kept the same as the method described in the manuscript.</p><p>Growth on STO: NaBr is mixed with WO3 at the ratio of 1:2. As the downstream furnace temperature reaches 875°C, the synthesis of the WSe2 is initiated by introducing hydrogen. All the other growth parameters are kept the same as the method described in the manuscript. </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary Information accompanies this paper at doi:10.1038/s41467-017-00516-5.</p><p>Competing interests: The authors declare no competing financial interests.</p><p>Reprints and permission information is available online at <ref type="url" target="http://npg.nature.com/reprintsandpermissions/">http://npg.nature.com/ reprintsandpermissions/</ref> Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Information for</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2D Metal-Organic Framework for Stable Perovskite Solar Cells with</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Minimized Lead Leakage</head><p>Shengfan Wu, Zhen Li, Mu-Qing Li, Yingxue Diao, Francis Lin, Tiantian Liu, Jie Zhang, Peter Tieu, Wenpei Gao, Feng Qi, Xiaoqing Pan, Zhengtao Xu,* Zonglong Zhu,* and Alex K.-Y. Jen* Correspondence to: zhengtao@cityu.edu.hk; zonglzhu@cityu.edu.hk; alexjen@cityu.edu.hk</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>This PDF file includes:</head><p>Supplementary Notes 1 to 6</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Figures 1 to 36</head><p>Supplementary Tables <ref type="table">1 to 6</ref> Supplementary Note 4 Energy level calculation for EELs From the cyclic voltammetry (CV) curve of ZrL3 (see Supplementary Fig. <ref type="figure">20</ref>), the valence band maximum (VBM) of ZrL3 can be calculated to be 6.71 eV, therefore the conduction band minimum (CBM) is accordingly determined to be 4.18 eV due to the optical bandgap of 2.53 eV (Fig. <ref type="figure">1g</ref>) (measurement details please see Method section in main text). The lowest unoccupied molecular orbital (LUMO) of bis-C60 here was referenced in our previous work, which is 4.39 eV <ref type="bibr">3</ref> . Combined with the bandgap of 2.80 eV (Supplementary Fig. <ref type="figure">30</ref>), the highest occupied molecular orbital (HOMO) is calculated to be 7.19 eV for bis-C60. Given that the bandgap of bis-C60 is higher than that of ZrL3 (2.53 eV, see Fig. <ref type="figure">1g</ref>), the optical bandgap of ZrL3:bis-C60 hybrid electron-extraction layer (EEL) should be dominated by ZrL3. On the other hand, according to the ultraviolet photoelectron spectrum (see Supplementary Fig. <ref type="figure">31</ref>), the VBM of ZrL3:bis-60 can be calculated to be 6.94 eV. Therefore, the CBM of ZrL3:bis-C60 is determined to be 4.41 eV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 5 Pb(II) sorption kinetics of ZrL3</head><p>An activated sample of ZrL3 (20.0 mg) and a freshly prepared aqueous solution of lead(II) iodide (10.0 ppm, 50.0 mL) were mixed in a 100-mL round-bottom flask and stirred at room temperature. During the adsorption, the mixture was withdrawn and filtered at intervals through a 0.22-µm membrane filter for all samples (each sample of 0.5 mL), then each of the filtrates was diluted using D.I. water and quantified by ICP-OES to determine the remaining Pb(II) content.</p><p>The present ZrL3 network, with its porosity and well-defined binding sites, appears fitting for the Langmuir model. The kinetic data at the initial stage indeed fit the Lagergren's first order equation. ln( ) = -+ ln ( ) (Fig. <ref type="figure">4a</ref>), which can be rationalized using the Langmuir model in this work. Part a adapted with permission from REF. <ref type="bibr">4</ref> Part b adapted with permission from REF. <ref type="bibr">2</ref> Part c adapted with permission from REF. <ref type="bibr">5</ref> The simple UiO-66 or UiO-67 <ref type="bibr">4</ref> features a single steep weight loss (at 480 °C, panel a) for the linker disintegration and departure. By contrast, the easily formed disulfide crosslinks in ZrL3 and the previously reported UiO-67-(SH)2 (a well-defined MOF structure determined by single crystal Xray diffraction 2 ; panel b), upon heating (e.g., above 300 ℃), can make a transition into the strong thioether linkages (Ar-S-Ar), undergo ring fusing, <ref type="bibr">6</ref> and to the subsequently carbonized residue that cannot be removed under the N2 environment used for the TGA measurements. As a result, the departure of the organic backbone is greatly slowed down, and the curve of weight loss spreads out. (Incidentally, the ZrO2 content of the MOF sample cannot be determined from the residual weight obtained from these N2-protected TGA data. Such a determination, alternatively, can be properly done by using an air flow to fully burn off the carbonized residue, as shown in Supplementary Fig. <ref type="figure">8b</ref>). Moreover, flattened weight loss curves are generally observed for MOF solids in which extensive ring fusing and carbonization of the rigid linker molecules occur in the heating process. For instance, the TGA of the Zr-based MOF pbz-MOF-1 (Supplementary Fig. The simulated accessible solvent surface for ZrL3 was found to be 594 m 2 g -1 (Materials Studio, version 6.1.0, Accelrys), by using an established method of rolling a nitrogen-sized probe molecule (radius 1.84 Å; at a grid interval of 0.25 Å) across the surface of the material (at a grid interval of 0.25 Å). <ref type="bibr">7</ref> The nitrogen-accessible surface area (NASA) thus computed can be benchmarked against the experimental BET surface area from the N2 sorption isotherm, in order to qualitatively assess the quality of the porous sample prepared. <ref type="bibr">7,</ref><ref type="bibr" target="#b15">8</ref> The BET surface area for ZrL3 is measured to be 528 m 2 g -1 , a value largely consistent with the simulated accessible solvent surface of 594 m 2 g -1 , with a deviation of only 12.5% from the latter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary</head><p>Such a small deviation points to an essentially open state of the pore structure, i.e., the channels of MOF matrix are free from the contamination of the bulky ligand molecules of L3.</p><p>Supplementary Fig. 16 The PXRD pattern of ZrL3 after being heated in air at 100 ℃ for 7 days. Supplementary Fig. 31 An ultraviolet photoelectron spectrum (UPS) of the ZrL3:bis-C60 film prepared on ITO substrate. Supplementary Fig. 36 The Pb 2+ concentrations in the contaminated water as detected by ICP-OES measurements.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Articles</head><p>Nature NaNotechNology range of 2 × 10 -7 -0.995). PXRD data were collected in the reflection mode at room temperature on a Philips X'Pert diffractometer equipped with a CPS 180 detector using monochromated Cu-Kα (λ = 1.5418 Å) radiation. The X-ray tube operated at a voltage of 30 kV and a current of 30 mA. The amounts of the metal ions were determined using a PerkinElmer Optima™ 8000 ICP-OES instrument. Scanning transmission electron microscopy images were obtained on a double-aberration-corrected JEOL JEM-300CF instrument at 300 kV. UV-vis absorption spectra were recorded on a Perkin Elmer UV-vis spectrometer (model Lambda 2S). PL and TRPL spectra were recorded on an FLS980 spectrofluorometer (Edinburgh Instruments) with a Xe lamp and a pulsed excitation laser, respectively. Ultraviolet photoelectron spectrum studies were carried out on a VG ESCALAB 220i-XL surface analysis system equipped with a He discharge lamp (hv = 21.22 eV). The morphology of the samples was monitored by SEM (QUATTRO S, Thermal Fisher Scientific). Atomic force microscopy was carried out using a Nanoscope IIIa instrument (Veeco). Cyclic voltammetry was measured on a CH Instruments CHI760E electrochemical analyser/workstation using a conventional three-electrode cell with an ITO strip (5 mm × 35 mm) coated with ZrL3 as the working electrode, a Pt wire counter electrode and a Ag/AgCl reference electrode at a scan rate of 50 mV s -1 using 0.1 M tetrabutylammonium hexafluorophosphate in dry DCM as the electrolyte and referenced to the FeCp 2 / FeCp 2 + (FeCp 2 = Fe(C 5 H 5 ) 2 ) redox couple (-5.10 eV below vacuum level) <ref type="bibr">40</ref> . The working electrode was prepared using a similar method as reported in the literature 41 by casting a dispersion of ZrL3 in isopropanol onto the ITO glass. ToF-SIMS measurement was perfomed using a TOF-SIMS V instrument (ION-TOF GmbH, Cameca IMS 4F), where a 3 keV Cs + ion beam was used for erosion and a 25 keV Bi + pulsed primary ion beam was used for the analysis. The area of analysis was 48 × 48 µm 2 while the sputtering area was 300 × 300 µm 2 .</p><p>The current density-voltage (J-V) characteristics of the photovoltaic devices were measured in a N 2 -filled glovebox at room temperature using a Keithley 2400 SourceMeter under simulated sunlight from a solar simulator (EnliTech, SS-F5). A National Renewable Energy Laboratory calibrated silicon solar cell (with a KG-2 filter) was used to obtain the AM 1.5G (100 mW cm -2 ) light intensity from the solar simulator. The PVSCs were covered with a shading mask with an aperture area of 0.104 cm 2 to ensure the accuracy of the current density obtained from the J-V curves. The J-V measurements were carried out in sweep mode with reverse (from 1.23 V to -0.02 V) and forward (from -0.02 V to 1.23 V) scans with a scan rate of 10 mV s -1 . EQE was carried out using an EQE measurement system (EnliTech, QE-R).</p><p>Reporting Summary. Further information on research design is available in the Nature Research Reporting Summary linked to this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The data that support the plots within this paper and other findings of this study are available from the corresponding author upon reasonable request. Electrochemical considerations for determining absolute frontier orbital energy levels of conjugated polymers for solar cell applications. Adv. Mater. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>Z.Z. and A.K.-Y.J. conceived the ideas and designed the project. Z.Z., A.K.-Y.J. and Z.X. directed and supervised the research. S.W. fabricated and characterized devices. Z.L., T.L. and J.Z. also contributed to device fabrication, characterizations and helped S.W. analyse the data. Z.X., M.-Q.L. and Y.D. designed and synthesized the materials. P.T. and W.G. performed the TEM measurement and P.T., W.G. and X.P. analysed the TEM data. F.L. conducted cyclic voltammetry measurements and analysed the data. F.L. and F.Q. designed the NMR characterization of the digested MOF sample and analysed the data. S.W., Z. Z. and A.K-Y.J. drafted and finalized the manuscript. All the authors revised the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>Authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information is available for this paper at <ref type="url" target="https://doi.org/10.1038/s41565-020-0765-7">https://doi.org/10.1038/ s41565-020-0765-7</ref>.</p><p>Correspondence and requests for materials should be addressed to Z.X., Z.Z. or A.K.-Y.J.</p><p>Reprints and permissions information is available at www.nature.com/reprints. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Solar Cells Reporting Summary</head><p>Nature Research wishes to improve the reproducibility of the work that we publish. This form is intended for publication with all accepted papers reporting the characterization of photovoltaic devices and provides structure for consistency and transparency in reporting. Some list items might not apply to an individual manuscript, but all fields must be completed for clarity.</p><p>For further information on Nature Research policies, including our data availability policy, see Authors &amp; Referees.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental design</head><p>Please check: are the following details reported in the manuscript?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Dimensions</head><p>Area of the tested solar cells</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>The area of the tested solar cells is 0.13 cm2 (see "Methods" section in main text).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method used to determine the device area Yes No</head><p>The device area is defined by the overlap between the pre-patterned ITO and back metal electrode, where the metal electrode is thermally evaporated. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Current-voltage characterization</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Voltage scan conditions</head><p>For instance: scan direction, speed, dwell times</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>The J-V measurements were conducted with sweep mode with reverse (from 1.23 V to -0.02 V) and forward (from -0.02 V to 1.23 V) scan with a scan rate of 10 mV s-1 (see "Methods" section in main text).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Test environment</head><p>For instance: characterization temperature, in air or in glove box</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>All J-V measurements were conducted in N2-filled glovebox at room temperature (see "Methods" section in main text).</p><p>Protocol for preconditioning of the device before its characterization</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>No preconditioning protocol was used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stability of the J-V characteristic</head><p>Verified with time evolution of the maximum power point or with the photocurrent at maximum power point; see ref. 7 for details.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>The steady-outputs were measured with time evolution of the maximum power point in Figs. 2E and 3B.  A comparison between the integrated response under the standard reference spectrum and the response measure under the simulator</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Hysteresis or any other unusual behaviour</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>The Jsc obtained from J-V measurement is consistent with the Jsc integrated from EQE spectrum. (Fig. <ref type="figure">2C,</ref><ref type="figure">2D</ref>).</p><p>For tandem solar cells, the bias illumination and bias voltage used for each subcell Yes No Not relevant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Calibration</head><p>Light source and reference cell or sensor used for the characterization</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes</head><p>No Simulated AM 1.5 G irradiation was from solar simulator (EnliTech, SS-F5, Taiwan). A silicon solar cell (with a KG-2 filter) was used as reference cell (see "Methods" section in main text).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>nature research | solar cells reporting summary</head><p>November 2017</p><p>2</p><p>Confirmation that the reference cell was calibrated and certified</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>The reference cell was calibrated by National Renewable Energy Laboratory (more see "Methods" section in main text).</p><p>Calculation of spectral mismatch between the reference cell and the devices under test</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>The test light source for the device measurement matches well with the one-sun light spectrum and reference cell. The spectral mismatch factor is 1 for the devices 6. Mask/aperture Size of the mask/aperture used during testing Yes</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>No</head><p>The size of the mask used for J-V measurements is 0.104 cm2 (See "Methods" section in main text).</p><p>Variation of the measured short-circuit current density with the mask/aperture area A copy of any certificate(s)</p><note type="other">Yes</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Provide in Supplementary Information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Certificate is provided in Supplementary Fig. <ref type="figure">26</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">Statistics Number of solar cells tested Yes</head><p>No 30 solar cells for each device configurations were tested and statistic for efficiency distribution demonstration (Fig. <ref type="figure">2F</ref> and Supplementary Fig. <ref type="figure">28</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis of the device performance Yes</head><p>No Fig. <ref type="figure">2F</ref> and Supplementary Fig. <ref type="figure">28</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.">Long-term stability analysis Type of analysis, bias conditions and environmental conditions</head><p>For instance: illumination type, temperature, atmosphere humidity, encapsulation method, preconditioning temperature</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yes No</head><p>Long-term stability for the cells was measured and analyzed at different conditions including shelf stability in humid air and MPP tracking at elevated temperature in N2-filled glovebox (detailed conditions are described in main text).</p></div>			</div>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
 	<analytic>
-		<title level="a" type="main">Ab initio molecular dynamics for liquid metals</title>
 		<author>
-			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><surname>Hafner</surname></persName>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Wong-Foy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Matzger</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="m">The Role of Modulators in Controlling Layer Spacings in a Tritopic Linker Based Zirconium 2D Microporous Coordination Polymer</title>
 		<imprint>
-			<biblScope unit="volume">47</biblScope>
-			<biblScope unit="page" from="558" to="561" />
-			<date type="published" when="1993">1993</date>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="4591" to="4593" />
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">From ultrasoft pseudopotentials to the projector augmented -wave method</title>
+		<title level="a" type="main">A Thiol-Functionalized UiO-67-Type Porous Single Crystal: Filling in the Synthetic Gap</title>
 		<author>
-			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
+			<persName><forename type="first">Y.-L</forename><surname>Wong</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">D</forename><surname>Joubert</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Diao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">Inorg. Chem</title>
 		<imprint>
-			<biblScope unit="volume">59</biblScope>
-			<biblScope unit="page">1758</biblScope>
-			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1462" to="1468" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b2">
 	<analytic>
-		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<title level="a" type="main">Effective interfacial layer to enhance efficiency of polymer solar cells via solution-processed fullerene-surfactants</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
+			<persName><forename type="first">C.-Z</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
+		<title level="j">J. Mater. Chem</title>
 		<imprint>
-			<biblScope unit="volume">77</biblScope>
-			<biblScope unit="page" from="3865" to="3868" />
-			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="8574" to="8578" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b3">
 	<analytic>
-		<title level="a" type="main">First-principles study of the structural and elastic properties of rhenium-based transition-metal alloys</title>
+		<title level="a" type="main">A New Zirconium Inorganic Building Brick Forming Metal Organic Frameworks with Exceptional Stability</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>De Jong</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Olmsted</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Van De Walle</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Asta</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Cavka</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<biblScope unit="volume">86</biblScope>
-			<biblScope unit="page">224101</biblScope>
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="13850" to="13851" />
+			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b4">
-	<monogr>
-		<title level="m" type="main">Heteroepitaxy of Semiconductors</title>
+	<analytic>
+		<title level="a" type="main">Reticular Chemistry at Its Best: Directed Assembly of Hexagonal Building Units into the Awaited Metal-Organic Framework with the Intricate Polybenzene Topology, pbz-MOF</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ayers</surname></persName>
+			<persName><forename type="first">D</forename><surname>Alezi</surname></persName>
 		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<date type="published" when="2007">2007</date>
-			<publisher>CRC Press</publisher>
-			<pubPlace>Boca Raton, FL</pubPlace>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="12767" to="12770" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b5">
 	<analytic>
-		<title level="a" type="main">Near-unity photoluminescence quantum yield in MoS 2</title>
+		<title level="a" type="main">Homogeneous and heterogeneous thermal decomposition of diphenyl disulphide</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Amani</surname></persName>
+			<persName><forename type="first">S</forename><surname>Płaza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gruziński</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Science</title>
+		<title level="j">Wear</title>
 		<imprint>
-			<biblScope unit="volume">350</biblScope>
-			<biblScope unit="page" from="1065" to="1068" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">194</biblScope>
+			<biblScope unit="page" from="212" to="218" />
+			<date type="published" when="1996">1996</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b6">
 	<analytic>
-		<title level="a" type="main">MoS 2 transistors with 1-nanometer gate lengths</title>
+		<title level="a" type="main">Development of Computational Methodologies for Metal-Organic Frameworks and Their Application in Gas Separations</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Desai</surname></persName>
+			<persName><forename type="first">Q</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-R</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Science</title>
+		<title level="j">Chem. Rev</title>
 		<imprint>
-			<biblScope unit="volume">354</biblScope>
-			<biblScope unit="page" from="99" to="101" />
-			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="8261" to="8323" />
+			<date type="published" when="2013">2013</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b7">
 	<analytic>
-		<title level="a" type="main">Orbital analysis of electronic structure and phonon dispersion in MoS 2 , MoSe 2 , WS 2 , and WSe 2 monolayers under strain</title>
+		<title level="a" type="main">Calculating Geometric Surface Areas as a Characterization Tool for Metal-Organic Frameworks</title>
 		<author>
-			<persName><forename type="first">C.-H</forename><surname>Chang</surname></persName>
+			<persName><forename type="first">T</forename><surname>Düren</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">X</forename><surname>Fan</surname></persName>
+			<persName><forename type="first">F</forename><surname>Millange</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S.-H</forename><surname>Lin</surname></persName>
+			<persName><forename type="first">G</forename><surname>Férey</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J.-L</forename><surname>Kuo</surname></persName>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Walton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Q</forename><surname>Snurr</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">J. Phys. Chem. C</title>
 		<imprint>
-			<biblScope unit="volume">88</biblScope>
-			<biblScope unit="page">195420</biblScope>
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="15350" to="15356" />
+			<date type="published" when="2007">2007</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b8">
 	<analytic>
-		<title level="a" type="main">Quasiparticle band structures and optical properties of strained monolayer MoS 2 and WS 2</title>
+		<title level="a" type="main">Surface passivation of perovskite film for efficient solar cells</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Shi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Pan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Y.-W</forename><surname>Zhang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Yakobson</surname></persName>
+			<persName><forename type="first">Q</forename><surname>Jiang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">Nat. Photon</title>
 		<imprint>
-			<biblScope unit="volume">87</biblScope>
-			<biblScope unit="page">155304</biblScope>
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="460" to="466" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b9">
 	<analytic>
-		<title level="a" type="main">Structural phase transitions in two-dimensional Mo-and W-dichalcogenide monolayers</title>
+		<title level="a" type="main">An interface stabilized perovskite solar cell with high stabilized efficiency and low voltage loss</title>
 		<author>
-			<persName><forename type="first">K.-A</forename><forename type="middle">N</forename><surname>Duerloo</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Reed</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Yoo</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nat. Commun</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page">4214</biblScope>
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2192" to="2199" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b10">
 	<analytic>
-		<title level="a" type="main">Observation of piezoelectricity in free-standing monolayer MoS 2</title>
+		<title level="a" type="main">Efficient, stable and scalable perovskite solar cells using poly(3-hexylthiophene)</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Jung</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nat. Nano</title>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">10</biblScope>
-			<biblScope unit="page" from="151" to="155" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">567</biblScope>
+			<biblScope unit="page" from="511" to="515" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b11">
 	<analytic>
-		<title level="a" type="main">Strain-induced indirect to direct bandgap transition in multilayer WSe 2</title>
+		<title level="a" type="main">Silicon heterojunction solar cell with interdigitated back contacts for a photoconversion efficiency over 26%</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Desai</surname></persName>
+			<persName><forename type="first">K</forename><surname>Yoshikawa</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nano Lett</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">14</biblScope>
-			<biblScope unit="page" from="4592" to="4597" />
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">17032</biblScope>
+			<date type="published" when="2017">2017</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b12">
 	<analytic>
-		<title level="a" type="main">90-nm logic technology featuring strained-silicon</title>
+		<title level="a" type="main">Methylammonium chloride induces intermediate phase stabilization for efficient perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Thompson</surname></persName>
+			<persName><forename type="first">M</forename><surname>Kim</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">IEEE Trans. Electron Dev</title>
+		<title level="j">Joule</title>
 		<imprint>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page" from="1790" to="1797" />
-			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="2179" to="2192" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b13">
 	<analytic>
-		<title level="a" type="main">Band structure engineering of semiconductor lasers for optical communications</title>
+		<title level="a" type="main">Planar perovskite solar cells with long-term stability using ionic liquid additives</title>
 		<author>
-			<persName><forename type="first">E</forename><surname>Yablonovitch</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Kane</surname></persName>
+			<persName><forename type="first">S</forename><surname>Bai</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Lightw. Technol</title>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="1292" to="1299" />
-			<date type="published" when="1988">1988</date>
+			<biblScope unit="volume">571</biblScope>
+			<biblScope unit="page" from="245" to="250" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b14">
 	<analytic>
-		<title level="a" type="main">Nanometre-scale electronics with III-V compound semiconductors</title>
+		<title level="a" type="main">Tailored interfaces of unencapsulated perovskite solar cells for &gt;1,000 hour operational stability</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Alamo</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Christians</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nature</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">479</biblScope>
-			<biblScope unit="page" from="317" to="323" />
-			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="68" to="74" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b15">
 	<analytic>
-		<title level="a" type="main">Grains and grain boundaries in highly crystalline monolayer molybdenum disulphide</title>
+		<title level="a" type="main">Cation and anion immobilization through chemical bonding enhancement with fluorides for stable halide perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Zande</surname></persName>
+			<persName><forename type="first">N</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nat. Mat</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">12</biblScope>
-			<biblScope unit="page" from="554" to="561" />
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="408" to="415" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b16">
 	<analytic>
-		<title level="a" type="main">Synthesis of high quality two-dimensional materials via chemical vapor deposition</title>
+		<title level="a" type="main">A Eu 3+ -Eu 2+ ion redox shuttle imparts operational durability to Pb-I perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Yu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Chang</surname></persName>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Chem. Sci</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="6705" to="6716" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="265" to="270" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b17">
 	<analytic>
-		<title level="a" type="main">High-mobility three-atom-thick semiconducting films with wafer-scale homogeneity</title>
+		<title level="a" type="main">High performance ambient-air-stable FAPbI 3 perovskite solar cells with molecule-passivated Ruddlesden-Popper/3D heterostructured film</title>
 		<author>
-			<persName><forename type="first">K</forename><surname>Kang</surname></persName>
+			<persName><forename type="first">T</forename><surname>Niu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nature</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<biblScope unit="volume">520</biblScope>
-			<biblScope unit="page" from="656" to="660" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="3358" to="3366" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b18">
 	<analytic>
-		<title level="a" type="main">Strain and structure heterogeneity in MoS 2 atomic layers grown by chemical vapour deposition</title>
+		<title level="a" type="main">Reduction of lead leakage from damaged lead halide perovskite solar modules using self-healing polymer-based encapsulation</title>
 		<author>
-			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Jiang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nat. Commun</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page">5246</biblScope>
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="585" to="593" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b19">
 	<analytic>
-		<title level="a" type="main">Growth-substrate induced performance degradation in chemically synthesized monolayer MoS 2 field effect transistors</title>
+		<title level="a" type="main">Atomic-level passivation mechanism of ammonium salts enabling highly efficient perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Amani</surname></persName>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Alharbi</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
+		<title level="j">Nat. Commun</title>
 		<imprint>
-			<biblScope unit="volume">104</biblScope>
-			<biblScope unit="page">203506</biblScope>
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">3008</biblScope>
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Multifunctional chemical linker imidazoleacetic acid hydrochloride for 21% efficient and stable planar perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-G</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N.-G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<author>
-			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Braun</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Y</forename><surname>Kivshar</surname></persName>
-		</author>
-		<title level="m">The Frenkel-Kontorova Model-Concepts, Method, and Applications</title>
-		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<publisher>Springer</publisher>
-			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">1902902</biblScope>
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b21">
-	<monogr>
-		<title level="m" type="main">Control of biaxial strain in single-layer molybdenite using local thermal expansion of the substrate. 2D Mater</title>
+	<analytic>
+		<title level="a" type="main">Acute oral and inhalation toxicities in rats with cadmium telluride</title>
 		<author>
-			<persName><forename type="first">G</forename><surname>Plechinger</surname></persName>
+			<persName><forename type="first">J</forename><surname>Zayed</surname></persName>
 		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Philippe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J. Toxicol</title>
 		<imprint>
-			<date type="published" when="2015">2015</date>
-			<biblScope unit="page">15006</biblScope>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="259" to="265" />
+			<date type="published" when="2009">2009</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b22">
 	<analytic>
-		<title level="a" type="main">Very low thermal expansion coefficient materials</title>
+		<title level="a" type="main">Glutathione modified gold nanoparticles for sensitive colorimetric detection of Pb 2+ ions in rainwater polluted by leaking perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Roy</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Yu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Agrawal</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Hong</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Mckinstry</surname></persName>
+			<persName><forename type="first">P</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Nazeeruddin</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Annu. Rev. Mater. Sci</title>
+		<title level="j">Anal. Chem</title>
 		<imprint>
-			<biblScope unit="volume">19</biblScope>
-			<biblScope unit="page" from="59" to="81" />
-			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="12316" to="12322" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b23">
 	<analytic>
-		<title level="a" type="main">Thermal expansion of some diamondlike crystals</title>
+		<title level="a" type="main">Rain on methylammonium lead iodide based perovskites: Possible environmental effects of perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Slack</surname></persName>
+			<persName><forename type="first">B</forename><surname>Hailegnaw</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Bartram</surname></persName>
+			<persName><forename type="first">S</forename><surname>Kirmayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Edri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cahen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Appl. Phys</title>
+		<title level="j">J. Phys. Chem. Lett</title>
 		<imprint>
-			<biblScope unit="volume">46</biblScope>
-			<biblScope unit="page" from="89" to="98" />
-			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1543" to="1547" />
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b24">
 	<analytic>
-		<title level="a" type="main">Lattice parameters and thermal expansion of important semiconductors and their substrates</title>
+		<title level="a" type="main">Metal-organic frameworks and their derived materials for electrochemical energy storage and conversion: Promises and challenges</title>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Reeber</surname></persName>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Wu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">K</forename><surname>Wang</surname></persName>
+			<persName><forename type="first">X</forename><forename type="middle">W</forename><surname>Lou</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Mat. Res. Soc. Symp</title>
+		<title level="j">Sci. Adv</title>
 		<imprint>
-			<biblScope unit="volume">662</biblScope>
-			<biblScope unit="page" from="1" to="6" />
-			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">9252</biblScope>
+			<date type="published" when="2017">2017</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b25">
 	<analytic>
-		<title level="a" type="main">The thermal expansion of 2H-MoS 2 , 2H-MoSe 2 , and 2H-WSe 2 between 20 and 800 °C</title>
+		<title level="a" type="main">Doping of [In 2 (phen) 3 Cl 6 ]•CH 3 CN•2H 2 O indium-based metal-organic framework into hole transport layer for enhancing perovskite solar cell efficiencies</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>El-Mahalawy</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Evans</surname></persName>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Appl. Cryst</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">9</biblScope>
-			<biblScope unit="page" from="403" to="406" />
-			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1702052</biblScope>
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Nanocrystalline titanium metal-organic frameworks for highly efficient and flexible perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Ryu</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">Thermal expansion tensors, Grüneisen parameters and photon velocities of bulk MT 2 (M=W and Mo; T=S and Se) from first principle calculations</title>
-		<author>
-			<persName><forename type="first">Y</forename><surname>Ding</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><surname>Xiao</surname></persName>
-		</author>
+		<title level="j">ACS Nano</title>
 		<imprint>
-			<date type="published" when="2015">2015</date>
-			<publisher>RSC Adv</publisher>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page" from="18391" to="18400" />
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="4968" to="4975" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b27">
 	<analytic>
-		<title level="a" type="main">Thermal expansion of AlN, sapphire, and silicon</title>
+		<title level="a" type="main">Enhancing efficiency and stability of photovoltaic cells by using perovskite/Zr-MOF heterojunction including bilayer and hybrid structures</title>
 		<author>
-			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Yim</surname></persName>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Lee</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Paff</surname></persName>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chueh</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Appl. Phys</title>
+		<title level="j">Adv. Sci</title>
 		<imprint>
-			<biblScope unit="volume">45</biblScope>
-			<biblScope unit="page" from="1456" to="1457" />
-			<date type="published" when="1974">1974</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1801715</biblScope>
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b28">
 	<analytic>
-		<title level="a" type="main">High temperature heat capacity and thermal expansion of SrTiO 3 and SrZrO 3 perovskites</title>
+		<title level="a" type="main">Planar heterojunction perovskite solar cells incorporating metal-organic framework nanocrystals</title>
 		<author>
-			<persName><forename type="first">D</forename><surname>Ligny</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><surname>Richet</surname></persName>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Chang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<biblScope unit="volume">53</biblScope>
-			<biblScope unit="page" from="3013" to="3022" />
-			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="7229" to="7235" />
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b29">
 	<analytic>
-		<title level="a" type="main">Thermal expansion, anharmonicity and temperature dependent Raman spectra of single-and few-layer MoSe 2 and WSe 2</title>
+		<title level="a" type="main">Effective mercury sorption by thiol-laced metal-organic frameworks: in strong acid and the vapor phase</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Late</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Shirodkar</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">U</forename><forename type="middle">V</forename><surname>Waghmare</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><forename type="middle">P</forename><surname>Dravid</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">N R</forename><surname>Rao</surname></persName>
+			<persName><forename type="first">K.-K</forename><surname>Yee</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Chem. Phys. Chem</title>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="1592" to="1598" />
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="7795" to="7798" />
+			<date type="published" when="2013">2013</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b30">
 	<analytic>
-		<title level="a" type="main">Anomalous Raman spectra and thickness-dependent electronic properties of WSe 2</title>
+		<title level="a" type="main">A thiol-functionalized UiO-67-type porous single crystal: Filling in the synthetic gap</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Sahin</surname></persName>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Diao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">Inorg. Chem</title>
 		<imprint>
-			<biblScope unit="volume">87</biblScope>
-			<biblScope unit="page">165409</biblScope>
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1462" to="1468" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b31">
 	<analytic>
-		<title level="a" type="main">Tuning the electronic properties of semiconducting transition metal dichalcogenides by applying mechanical strains</title>
+		<title level="a" type="main">Efficient and stable Ruddlesden-Popper perovskite solar cell with tailored interlayer molecular interaction</title>
 		<author>
-			<persName><forename type="first">P</forename><surname>Johari</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><forename type="middle">B</forename><surname>Shenoy</surname></persName>
+			<persName><forename type="first">H</forename><surname>Ren</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">ACS Nano</title>
+		<title level="j">Nat. Photon</title>
 		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="5449" to="5456" />
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="154" to="163" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b32">
-	<monogr>
-		<title level="m" type="main">Reversible uniaxial strain tuning in atomically thin WSe 2 . 2D Mat</title>
+	<analytic>
+		<title level="a" type="main">Interfacial benzenethiol modification facilitates charge transfer and improves stability of cm-sized metal halide perovskite solar cells with up to 20% efficiency</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Schmidt</surname></persName>
+			<persName><forename type="first">J</forename><surname>Lu</surname></persName>
 		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<date type="published" when="2016">2016</date>
-			<biblScope unit="page">21011</biblScope>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1880" to="1889" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b33">
 	<analytic>
-		<title level="a" type="main">Theoretical study on strain-induced variation in electronic properties of MoS 2</title>
+		<title level="a" type="main">In situ back-contact passivation improves photovoltage and fill factor in perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">L</forename><surname>Dong</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Namburu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>O'regan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Dubey</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Dongare</surname></persName>
+			<persName><forename type="first">F</forename><surname>Tan</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Mat. Sci</title>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<biblScope unit="volume">49</biblScope>
-			<biblScope unit="page" from="6762" to="6771" />
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">1807435</biblScope>
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b34">
 	<analytic>
-		<title level="a" type="main">Experimental evidence for dark excitons in monolayer WSe 2</title>
+		<title level="a" type="main">Realizing efficient lead-free formamidinium tin triiodide perovskite solar cells via a sequential deposition route</title>
 		<author>
-			<persName><forename type="first">X.-X</forename><surname>Zhang</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-C</forename><surname>Chueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K Y</forename><surname>Jen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<biblScope unit="volume">115</biblScope>
-			<biblScope unit="page">257403</biblScope>
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1703800</biblScope>
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b35">
 	<analytic>
-		<title level="a" type="main">Probing excitonic dark states in single-layer tungsten disulphide</title>
+		<title level="a" type="main">Highly efficient and stable perovskite solar cells enabled by all-crosslinked charge-transporting layers</title>
 		<author>
-			<persName><forename type="first">Z</forename><surname>Ye</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Zhu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nature</title>
+		<title level="j">Joule</title>
 		<imprint>
-			<biblScope unit="volume">513</biblScope>
-			<biblScope unit="page" from="214" to="218" />
-			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="168" to="183" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b36">
 	<analytic>
-		<title level="a" type="main">Large excitonic effects in monolayers of molybdenum and tungsten dichalcogenides</title>
+		<title level="a" type="main">Effective interfacial layer to enhance efficiency of polymer solar cells via solution-processed fullerene-surfactants</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Ramasubramaniam</surname></persName>
+			<persName><forename type="first">C.-Z</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">J. Mater. Chem</title>
 		<imprint>
-			<biblScope unit="volume">86</biblScope>
-			<biblScope unit="page">115409</biblScope>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="8574" to="8578" />
 			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
@@ -888,120 +979,215 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b37">
 	<analytic>
-		<title level="a" type="main">Probing critical point energies of transition metal dichalcogenides: surprising indirect gap of single layer WSe 2</title>
+		<title level="a" type="main">Enhanced ambient stability of efficient perovskite solar cells by employing a modified fullerene cathode interlayer</title>
 		<author>
-			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-C</forename><surname>Chueh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K Y</forename><surname>Jen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nano Lett</title>
+		<title level="j">Adv. Sci</title>
 		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="6494" to="6500" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1600027</biblScope>
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b38">
 	<analytic>
-		<title level="a" type="main">Nanostructured crystals: Unique hybrid semiconductors exhibiting nearly zero and tunable uniaxial thermal expansion behavior</title>
+		<title level="a" type="main">Activation of thiols at a silver nanoparticle surface</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+			<persName><forename type="first">W</forename><surname>Gan</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">W</forename><surname>Bi</surname></persName>
+			<persName><forename type="first">B</forename><surname>Xu</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">W</forename><surname>Ki</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">X</forename><surname>Huang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Reddy</surname></persName>
+			<persName><forename type="first">H.-L</forename><surname>Dai</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Am. Chem. Soc</title>
+		<title level="j">Angew. Chem. Int. Ed</title>
 		<imprint>
-			<biblScope unit="volume">129</biblScope>
-			<biblScope unit="page" from="14140" to="14141" />
-			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="6622" to="6625" />
+			<date type="published" when="2011">2011</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b39">
 	<analytic>
-		<title level="a" type="main">Anisotropy of thermal expansion in YAlO 3 and NdGaO 3</title>
+		<title level="a" type="main">Structure of octadecyl thiol self-assembled on the silver (111) surface: an incommensurate monolayer</title>
 		<author>
-			<persName><forename type="first">O</forename><surname>Chaix-Pluchery</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><surname>Chenevier</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Robles</surname></persName>
+			<persName><forename type="first">P</forename><surname>Fenter</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
+		<title level="j">Langmuir</title>
 		<imprint>
-			<biblScope unit="volume">86</biblScope>
-			<biblScope unit="page">251911</biblScope>
-			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2013" to="2016" />
+			<date type="published" when="1991">1991</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b40">
 	<analytic>
-		<title level="a" type="main">Halide-assisted atmospheric pressure growth of large area WSe 2 and WS 2 monolayer crystals</title>
+		<title level="a" type="main">Comparison of the structures and wetting properties of self-assembled monolayers of n-alkanethiols on the coinage metal surfaces, copper, silver, and gold</title>
 		<author>
-			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Laibinis</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Mater. Today</title>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<biblScope unit="volume">1</biblScope>
-			<biblScope unit="page" from="60" to="66" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="7152" to="7167" />
+			<date type="published" when="1991">1991</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b41">
 	<analytic>
-		<title level="a" type="main">Chemical vapor deposition of large-sized hexagonal WSe 2 crystals on dielectric substrates</title>
+		<title level="a" type="main">Self-assembled monolayer modified ZnO/metal bilayer cathodes for polymer/fullerene bulk-heterojunction solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+			<persName><forename type="first">H.-L</forename><surname>Yip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Hau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Baek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K Y</forename><surname>Jen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Adv. Matter</title>
+		<title level="j">Appl. Phys. Lett</title>
 		<imprint>
-			<biblScope unit="volume">27</biblScope>
-			<biblScope unit="page" from="6722" to="6727" />
-			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">193313</biblScope>
+			<date type="published" when="2008">2008</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b42">
 	<analytic>
-		<title level="a" type="main">Recombination kinetics and effects of superacid treatment in sulfur-and selenium based transition metal dichalcogenides</title>
+		<title level="a" type="main">Recent advances in improving the stability of perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Amani</surname></persName>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Tiep</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ku</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Fan</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nano Lett</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">16</biblScope>
-			<biblScope unit="page" from="2786" to="2791" />
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1501420</biblScope>
 			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Unveiling the role of tBP-LiTFSI complexes in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="16720" to="16730" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Interface modification by ionic liquid: A promising candidate for indoor light harvesting and stability improvement of planar perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1801509</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Metal acetylacetonate series in interface engineering for full low-temperature-processed, high-performance, and stable planar perovskite solar cells with conversion efficiency over 16% on 1 cm 2 scale</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1603923</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Decomposition and cell failure mechanisms in lead halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Kelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="92" to="101" />
+			<date type="published" when="2017">2017</date>
 		</imprint>
 	</monogr>
 </biblStruct>

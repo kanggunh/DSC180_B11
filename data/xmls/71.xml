@@ -6,52 +6,682 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title level="a" type="main">! &quot;#$%&amp;&apos; %(#)&apos; *+#,-. /0 1%2,%134 +%+#+#50 6 #)10 %/2 7)0 8#&amp;/0 +%+#+#90 /:*%2;&lt;=&gt;? @;A90 /:*%2B*&amp;&apos; 3C%4 D 5#)&apos; &amp; *+#,-. /0 1%E#-*&amp;0 1%#5*($3&apos; %10 *)%4 2,%134 +%+#+#50 6 #)10 %/2 7)0 8#&amp;/0 +%+#+#90 /:*%2;&lt;=&gt;? @;A90 /:*%2B*&amp;&apos; 3C%4 FGHHIJK LMNK OPQ RSTSUQ MVWQ MLLK WMQHTQ PWUQ MVXRYMZK WLSMW[M\P]_NMLOPLK \YPOTVZM_ PVK MQ L ZTOPQ K Y\aU_K _K LNPQ QSVPSMVPOTVLK ZUQ M_ K TYLK YJT_HM_ _ PV]bcPULPSMW[M\PLQ K [PFGHHIJ cMLMOdMY_ M\PLMYOOK LMOdMY_ M\PL]bcPZMK YMOdMY_ M\PK L_ cPTS_ K ZK eM_ K TYT`_ cPZP_ cTOLfZMK YQ R TVSMVMQ Q PQWTZSU_ K Y\]bcPZMK YOK LMOdMY_ M\PK L_ cM_ fOUP_T_cPWTZSQ PgK _ RT`_ cPWTOPfK _cMQ TY\ Q PMVYK Y\WUVdP]hYPSUVSTLPT`_ cPLPYT_ PLK L_ TLcTV_ PY_cM_WUVdPTVVPLPMVWcPVLMVPL_ MV_ K Y\_TULP FGHHIJ_TLK ZUQ M_ PLT_MW_ K dPZM_ _ PV]Ŷ_cPLPYT_ PLfNPiVL_OK LWULLLTZPHTQ PWUQ MVXRYMZK WL ZP_ cTOLK ZSQ PZPY_ POK YFGHHIJ]jPSVPLPY_MYcMYOLk TYK Y_ VTOUW_ K TY_TiVL_ k _ K ZPULPVLMYONP iYK LcNK _ cMYMOdMYWPOcMYOLk TYLPW_ K TYfNcPVPNPK ZSQ PZPY_MYO_PL_GW_ K dPlVTNYK MYSMV_ K WQ PL LK ZUQ M_ K TYL] m#no*&amp; +/pFGHHIJfHTQ PWUQ MVXRYMZK WLfFMY\PdK YXRYMZK WLfGW_ K dPHM_ _ PVfGW_ K dPlVTNYK MY SMV_ K WQ PL</title>
+				<title level="a" type="main">Suppressed Ion Migration in Low-Dimensional Perovskites</title>
+				<funder ref="#_6tjvvtd #_9AeC32y">
+					<orgName type="full">Office of Naval Research</orgName>
+				</funder>
+				<funder ref="#_nfTTdST">
+					<orgName type="full">National Science Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">China Scholarship Council</orgName>
+				</funder>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
-				<availability status="unknown"><licence/></availability>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-06-08">June 8, 2017</date>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
-						<title level="a" type="main">! &quot;#$%&amp;&apos; %(#)&apos; *+#,-. /0 1%2,%134 +%+#+#50 6 #)10 %/2 7)0 8#&amp;/0 +%+#+#90 /:*%2;&lt;=&gt;? @;A90 /:*%2B*&amp;&apos; 3C%4 D 5#)&apos; &amp; *+#,-. /0 1%E#-*&amp;0 1%#5*($3&apos; %10 *)%4 2,%134 +%+#+#50 6 #)10 %/2 7)0 8#&amp;/0 +%+#+#90 /:*%2;&lt;=&gt;? @;A90 /:*%2B*&amp;&apos; 3C%4 FGHHIJK LMNK OPQ RSTSUQ MVWQ MLLK WMQHTQ PWUQ MVXRYMZK WLSMW[M\P]_NMLOPLK \YPOTVZM_ PVK MQ L ZTOPQ K Y\aU_K _K LNPQ QSVPSMVPOTVLK ZUQ M_ K TYLK YJT_HM_ _ PV]bcPULPSMW[M\PLQ K [PFGHHIJ cMLMOdMY_ M\PLMYOOK LMOdMY_ M\PL]bcPZMK YMOdMY_ M\PK L_ cPTS_ K ZK eM_ K TYT`_ cPZP_ cTOLfZMK YQ R TVSMVMQ Q PQWTZSU_ K Y\]bcPZMK YOK LMOdMY_ M\PK L_ cM_ fOUP_T_cPWTZSQ PgK _ RT`_ cPWTOPfK _cMQ TY\ Q PMVYK Y\WUVdP]hYPSUVSTLPT`_ cPLPYT_ PLK L_ TLcTV_ PY_cM_WUVdPTVVPLPMVWcPVLMVPL_ MV_ K Y\_TULP FGHHIJ_TLK ZUQ M_ PLT_MW_ K dPZM_ _ PV]Ŷ_cPLPYT_ PLfNPiVL_OK LWULLLTZPHTQ PWUQ MVXRYMZK WL ZP_ cTOLK ZSQ PZPY_ POK YFGHHIJ]jPSVPLPY_MYcMYOLk TYK Y_ VTOUW_ K TY_TiVL_ k _ K ZPULPVLMYONP iYK LcNK _ cMYMOdMYWPOcMYOLk TYLPW_ K TYfNcPVPNPK ZSQ PZPY_MYO_PL_GW_ K dPlVTNYK MYSMV_ K WQ PL LK ZUQ M_ K TYL] m#no*&amp; +/pFGHHIJfHTQ PWUQ MVXRYMZK WLfFMY\PdK YXRYMZK WLfGW_ K dPHM_ _ PVfGW_ K dPlVTNYK MY SMV_ K WQ PL</title>
+						<author>
+							<persName><forename type="first">Yun</forename><surname>Lin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of NebraskaLincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>Nebraska</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yang</forename><surname>Bai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of NebraskaLincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>Nebraska</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yanjun</forename><surname>Fang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of NebraskaLincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>Nebraska</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Qi</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of NebraskaLincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>Nebraska</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yehao</forename><surname>Deng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of NebraskaLincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>Nebraska</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jinsong</forename><surname>Huang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Mechanical and Materials Engineering</orgName>
+								<orgName type="institution">University of NebraskaLincoln</orgName>
+								<address>
+									<postCode>68588</postCode>
+									<settlement>Lincoln</settlement>
+									<region>Nebraska</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Applied Physical Science</orgName>
+								<orgName type="institution">University of North Carolina</orgName>
+								<address>
+									<postCode>27514</postCode>
+									<settlement>Chapel Hill</settlement>
+									<region>North Carolina</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Suppressed Ion Migration in Low-Dimensional Perovskites</title>
 					</analytic>
 					<monogr>
 						<imprint>
-							<date/>
+							<date type="published" when="2017-06-08">June 8, 2017</date>
 						</imprint>
 					</monogr>
-					<idno type="MD5">6F0D2E9E4B460CD75397A9CD31DF2649</idno>
+					<idno type="MD5">D655E48A716F9FCB147B425AB29404F1</idno>
+					<idno type="DOI">10.1021/acsenergylett.7b00442</idno>
+					<note type="submission">Received: May 24, 2017 Accepted: June 8, 2017</note>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:24+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
 		</encodingDesc>
 		<profileDesc>
-			<abstract/>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ion migration, which occurs in regular three-dimensional perovskites, is shown to be suppressed in low-dimensional perovskites both in the dark and under illumination, an indication of better stability of these materials for solar cells and light-emitting diodes.</p><p>O rganic-inorganic hybrid perovskites are gaining increasing attention in the optoelectronic fields for their applications in solar cells, light-emitting diodes, photodetectors, and radiation detectors. 1 However, the intrinsic stability of regular three-dimensional (3D) perovskites such as CH 3 NH 3 PbI 3 is limited by the very small formation enthalpy of -0.05 eV, 2 which hinders their applications in the real world. Low-dimensional perovskite materials have been shown to possess much larger formation energy and exhibit enhanced ambient stability. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> The efficiencies of two-dimensional (2D) perovskite solar cells were lower than 5% at the earlier stage of research because of the low mobility of charges for transporting between the sheets crossing the thicker organic spacing ligand. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> Recently, a breakthrough has been made by aligning the crystallographic planes of the inorganic perovskite component to be vertical to the substrates using a hot-casting method, which increased the efficiency of the layered perovskite solar cells to 12.5%. 5 A higher efficiency of 15.3% by increasing the layer (n) values in low-dimensional perovskites has been reported. <ref type="bibr" target="#b1">2</ref> One issue arising with the quantum confinement effect of the lowdimensional perovskites is that the exciton binding energy is far beyond the thermal activation energy at room temperature. It was proposed that the layer-edge-states (LES) with lower band gap contribute to the dissociation of excitons into free-carriers in Ruddlesden-Popper perovskites with n &gt; 2. <ref type="bibr" target="#b5">6</ref> </p></div>
+			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="table">36 976)8 7  1 8 61 8 331 33 5 5 351 6 2236 17668  5 331 1 8 61 2363) 38 34556776)1 3  1 23435 678 1 91 8 73) 8 *8 1 3 38 1 325 18 3 1 3  1 ) 6 2231 3 3123 65 5 68 *8</ref> <p>-96)1 3: ;. &lt;=&gt;&lt; ?0/@: ;. &lt; /=: A. &lt; / BC D E 096)1 3: F. &lt;=&gt;&lt; /@: F. &lt; /=: ;. &lt;=&gt;&lt; ?0/ &gt;&lt; E G96)1 3123 6 731: F. &lt;=&gt;&lt; / E H96)1 3: ;. &lt;=&gt;&lt; /@: ;. &lt;=&gt;&lt; ?0/= I D : A. &lt;=&gt;&lt; / &gt;&lt; J8 1 21 28 8 5 331 1 8 665 9634371 66 6 738 gh ijkjl mnopq rstuvw q xyl zpvw pyw q xy n{xp|yu}suuxpy sp~mq vx u~mvy q }w pxyu}u~{y pysp uv}pjq xysp}{y u|q xy m}p uy sp~uy py q mwm| q xmpy vm|q xy m}pm||p|yu mxmysvpxsuw |y ut{q w |y spw q xyupq rstuvxjl tnpw ww q xy py su|spvpyspxxy pq x|q q |p|q y u}pw w xjh q yq xuy{xp|yu}u~{y pysp uv}pt{yy ut{q w |ysppq rstuv w q xyq y su{yxpmv}sq rmw w~mvy q }w pxj gh ijj~m}q mw|umq |p}u~uxq y q ut~vu}pxxpxkyuj mvy q }w pxmvpmw w u}my p|y upm}s~vu}pxxm|~mvy q }w pxq y sp vp|vprq uysmytpw uryum~vu}pxxmvprsuxy~mvy q }w pxq ysp ~vu}pxxuy spm| m}py|umq j L VOV QPNRSTUW X (361238 41 *36565 37)5 Z98 7 <ref type="table">8 )5 1 8 68 8 1 75 8 5 8 1 9235 8 18 1 6)5 1 8 5 3</ref>   <ref type="table">4 3 6 7472225467556 92 6 2 86 7 6 96 92  63 5$ 6 474 4 1 267556 92 6 8 2476 9263 55  2 7 1 36 2 7 824 3 6 74 972 26 92 26 95  6 248 24 12 2 !4 97 6 72 78 6 7 4  6 787 4 2# 6 92 6 2 86 7 6 96 9263 534 6 92  2 5! 84 7892 5! 84 7 #  746 922 2936 792 26 726 2 47 7 82  25525: 4 87345 5692 7 4 2922  2936 7 76 926 4 6 752 2247 2257 72  5 24 7 4 21!</ref> ;&lt; = &gt; ?@A B CD@E F = &gt; GH F &gt; I 0 92 <ref type="table">2;</ref><ref type="table">46 924 4787 7 54 E F 6 926 4 6 7  5 872J8 262 6 256 75 7 82282 6 251!  6 9225 3C 6 92286 2 76 26 5H F &gt; 4692  4 6 7894 6 86 2 7 6 926 92 7 4 2 2 7  5 4 6 136 77"2 72546 4 ! 6922 6 7</ref> KH F &gt; H F &gt; L M?NO P QE F R &gt;@&gt; L I S <ref type="table">92 2R 46 92% 852 6 Q 46 92622 6 3 2O P 6 92  T7 6 "874 6 6 U7 5175!72 4 722546 92  2 2936 7 76 9276 6 752 2247 2257  922 2936 7 76 9272# 5 24 75 V34 7  74 2# 8 4 76 6 7 4 21</ref> <ref type="table">46 927267 2 6 5E [ 6 9276 6 7  5 872J8 26 76964 2# 8 4 76 6 7H [ &gt;  469246 7894 6 86 7 932 7 6 926 92 7 4 2 2  75 4 6 136 77"2 72546 4 ! 6924 2  2</ref>  <ref type="table">96 4 6 75 76 6 776 717 2  5 6 2 6 2 76 92 2 6 67128722 1 2  6 92T 7 5 V34 22 2 4287 2 25_2716  6 926 4</ref>   <ref type="table">2592 2 222 8 74 4 2786 2 6 8 2  $ 69284 2786 2 6 8 24 6 92 76 6 75 V34 787#  2J8 264 26 46926 248 2 769242 # 73 4 75 28#  6 776 76 7 7 26 6 4 6 7 26 6 7 786 2  6 8 246 922V286 25 V34 7872J8 2652254 4 77  6 92 73 4 79 89 45 4 834 4 25 28</ref>    <ref type="table">4 8#3 68685 4 8?7 8?7 2+8,</ref><ref type="table">5 611 4 82$8  #3 68?7 894 85 4 8+3 24 5 4 5 $8 4 815 5 67 #85 4 8  8$5 24 35 5 84 8</ref>  <ref type="table">6973125 5 36 9712785 6 96 9775 2  747 5 377716 ( 78 75 41 76 75 36 9742 17  2 785 6 937 52 4 7 5 23 237 4 6</ref> 3776 24 76 971239 :;&lt;=&gt;?=&gt;@A@B&lt;C:@B 6 235 323712 7 2 =&gt;@DEBAB&gt;F:;&lt;=&gt;?=&gt;@A@B&lt;C:@B 6 235 3 212 74G 6 97 4 7 5 77716 ( 72326 ) 28 7 5 H6 5 23I 97 5 38 75 44 1 5 6 897 76 974 5 6 5 23 76 7 4376 924 75 3) 1 7377 726 9741 5 6 2733 ) J23745 3) 6 7 16 5 3 6 5 1 745 3(2785 6 97 5 25 1(23 123) 5 6 5 2345 46 97 2 285 39 K EB@LM&lt;C N OLP=?MLQ&lt;ROLP=@S T U V@=RBM@PBW X YPEBVODQ&gt;&gt;&gt; Z DR[@PBYP\Y&lt;PS]^W^^W^^W^EB@LMYP\ _ SDROLR?YP\`YP\ a b &lt;OLL@SRMS^:K c SDROLR?OLP=M`YP\ KK =OMM``:K N dR&lt;PS@LQO&lt;&lt;SDROLR``efg`eV@ML[OEMM@OB KT KU &gt;O@D?MLQ&lt;R &lt; C;SELg:h KX &gt;O@D?SPRii ```K  ! " # $%$" &amp;'( ()*+!# , -# ./0 12" )3 0." " .%4 0 " " /5667&amp;% " 1 -4 4 +" 1# " ! 8 9 :;&lt;=&gt;?@ A B=CDE&gt;=F?G&gt;HIGJG K L MBJ&lt;BN?G=GDHGJB=:JGGO:B?P Q MBJ&lt;BN?GRBDH&lt;;SGO:B?P ..0 $0# 0.0!# 2" %# " ! 0 $ 4 3#4 20 /0 12" )3 0." " ., .0 $" 4 " t0+# /0 12" uv" 0$$$ wxy" 1# 0 " '( " uv*z0 " 04 4 3*v # 0 # .0# 0$$$-# 0 $# {%-4 4 +" 1y{ 't|0 $t}' ~0$$ 0# " 10 $ !!" 1 .!# 0 %# +" * " " 0 *+$u $ 0 2# -%4 4 " .%4 0 " # % *0 $)0.!" 1" ." # $%$" &amp;'( ()' 4 0 204 %" #0 $. %.z#1 # 0 # $' ( " # " !+" # $%$0 +0 . 34 " 4 " |*+" " !# 3!*+# !0# " 4 0# " $, # $0 !# *+" 0!" u$" 0. #0 $$ " 3'~ 04 " # $%$ !-20# " 0z4 " 4 " 0 $ +" +% " /0 12" uv' .0 #$" # " " # " !" " 4 " t+# +# 0$!0# " 4 !, " " -# .0 v # 04u4 " !' $0 0+" -4 4 +" 1 # % %# 8 9 ?BDDH&gt;DC?Go:?BJRB=B ~$u %.z#-!0# " 4 0 $!0# " 4 3! " 4 " }0 $*0 $ " ¨-" .%4 0 " zv" 4 " ©*ª*0 $«'!0# " 4 ! " " 0# $u $ " 5 . " *+# +0 u# 0 $ 4 3!0# " 4 4 %. t1" 2 !0# " 4 %.z# -3! 4 %. | *+" 0$" 0. #-4 %. } *0!0# " 4 $ " 3-t' «««4 %. 0 $! " " " v*3*0 $¨ 4 %. *0*0 $© '# $#-!0# " 4 !# !# " " !" u-# !# 0 . 34 * .0 %04-#0$$0 0..0 $0v0.!4 -# #0 . 34 '$ " 3+0 % 00 !0# " 4 -% " $" 0. #0% " .0 ' u 04 +..0 $" # $%$" # % # " ! " " 4 " t«' ..0 $¬.!% " % $z3 /5667&amp;!# -# .04 %4 0 " $%# " 1 " .%4 0 " ' ®# *+.!% .0 {%0# $" !4 0. .$ -04 4!0# " 4 4 3 " " $0 0u4 ' 0.</p><formula xml:id="formula_0">! W&lt; X &gt; ?@A Y CZ@E [ X &gt; GH [ &gt; I \ 92 2W</formula><formula xml:id="formula_1">6 77 KH [ &gt; H [ &gt; L M?NO P QE [ R &gt;@&gt; L ] ^ U7176</formula><p>-.!% " .$4 *+" " % $" % !% ¬ # . 34 4 " |t*+" " 02 #+" -%#, # $" 0 v*3*¨*0 $ 04 * %..$0 $02# 01$2# 04 4!0# " 4 ' ( ¯" 1'+!4 % !%-!# ! $# " !-# 0" 14 !0# " 4 0 $-#t!0# " 4 '" .!4 . .0 3!0# " 4 0 * % 0$$t % " 24 " " " !' $0 0u4 '&amp;" !0" #! " 040z $, u $ 0 % $u 0.! " " -#04 4!0# " ,</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>¦ ~ ~å ae ae ~~ ~ ~ ç« è é ê¡ ë¬ìë ¢íé ê¡ ë ¢¬é î¡ ë ¢ ìë¬ é ï¡ ë ¢ ìë ð ¡ ¢ ~ é î¡ ë¬ìë ¢íé î¡ ë ¢¬ é ï¡ ë ¢¬é ï¡ ë¬ìë ¢ ìë ð ¡ ¢ é ê ~é î ~é ï ~ìë ~ ~ ~~ ñò óô õö ÷øù÷ú øùûüüõ÷ý ý þ ÿ0123 4ñ5 ú 6 07 5 8 ý ý ÷9ý ý</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>)5 5735 5 8 1 23735 5 31 665 5 61 23) 36)373 9 1 8 75 3723708 1 239 31 65 *3 34556776 8 31235 3*1 261 23735 5F ]^C ?03 )5 1)18 173761 65 5 3.76e38 *268 9f 8 1 233455677 8 1 /</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>827#5 4 62%8$84 5 $86B # 5 +t84 87 8 95 45 27 *2%84 4 834# 838#68 #5 4 5 4 82#5 4 *5 627 7 * " A8 6,83 5 %84 *883 827#5 4 23 8#68#5 4 62%8 8%# 5 +48387 24 5 5 A2%7 8 u35 4 83 827,27 #867 7 5 $2 ' 5T/ ¬ 2325 #'( )°$9*83 86,834 8 #2$84 27-#24 5 4 5 8 .0' 5± q 2q0' 5To r¬38 1864 5 ,87 A82$8 62%88*5 4 4 845 $8#5 4 *88424 5 $8 4 815 4 85 $#7 24 5 D!0'( '94 5 4 87 7 #4 7 $85 #,5 3 4 #27$265 826ß# 83 62 5 4 27 77 5 S85 4 85 #62 8 862?84 3 2126S2+845 67 #8 $81865 ?6 824 #3 8 A8 8126S2+8*83 828% 4 88,87 183 3%4 83# 83 9*5</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>5 76 97 717G JI35 6 436 976 2 4 6 7 6 25 178374 6 5 1 74425 36 6 5 1 74 97 5 374u 6 2v783731 76 76 974 5 6 5 23(275 369 775 73) 4 5 23485 6 97 5 25 1(23 1235 6 5 2345 3 5 716 5 234</figDesc></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>'!# !# 4 !-.0 {%0# $" !4 0. * " # $" . " *-0°" #2# $*+# °" $" % " ±" -!# " 04!0 " 2!0# " 4 1" 2 z3</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Recent studies show the improved ambient stability and thermal stability of the low-dimensional perovskite films, while there is no study yet on the ion migration stability in these materials, which represents a big concern for the 3D perovskites for solar cell applications. <ref type="bibr" target="#b6">7</ref> The low-dimensional perovskites have been employed in field-effect transistors <ref type="bibr" target="#b7">8</ref> and in light-emitting devices. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> These devices generally operate under large applied electric field and thus need an even much lower ion migration rate for a reasonable stability.</p><p>In this Energy Express, we investigate the ion migration stability in the Ruddlesden-Popper type low-dimensional perovskites by measuring the ion conductivity and ion migration activation energy. The crystal structure of 2D perovskites (BA) 2 (MA) 3 Pb 4 I 13 (n = 4) used in this study is shown in the Abstract graphic; these perovskites have been reported to yield the highest efficiency among 2D perovskites with the layer (n) values less than six. The anionic inorganic layers are separated from one another by the organic n-butylammonium (BA) spacer cations. These layered structures stack together to form 2D perovskites. The X-ray diffraction (XRD) pattern is shown in Figure <ref type="figure" target="#fig_0">1a</ref>. Three diffraction peaks at 14.20°, 28.48°, and 43.28°a re indexed to be (1̅ 11̅ ), (202), and (313) crystallographic planes, respectively. <ref type="bibr" target="#b4">5</ref> The optical absorption and photoluminescence spectra of perovskite films are shown in Figure <ref type="figure" target="#fig_0">1b</ref>. The PL peak position gives an optical band gap of 1.70 eV. No obvious excitonic absorption peak was observed, indicating that the excitons are almost ionized into free carriers at room temperature by the presence of the LES in (BA) 2 (MA) 3 Pb 4 I 13 . <ref type="bibr" target="#b5">6</ref> The top-view and cross-sectional scanning electron microscopy (SEM) images are shown in Figure <ref type="figure" target="#fig_0">1c</ref>. The pinhole-free films formed by regular hot-casting method without antisolvent.</p><p>The activation energy of ionic conductivity can quantitatively characterize the rate of ion migration, which can be extracted from the temperature-dependent electrical conductivity by the Nernst-Einstein relation: σ(T) = (σ 0 /T) exp(-E a /KT), where k is the Boltzmann constant, σ 0 a constant, and T temperature. The device geometry for conductivity measurement is shown in Figure <ref type="figure" target="#fig_0">1d</ref>. The temperature-dependent conductivity was measured in the dark and under 0.25 sun illumination for both 3D CH 3 NH 3 PbI 3 and 2D (BA) 2 (MA) 3 Pb 4 I 13 films (Figure <ref type="figure" target="#fig_0">1e,</ref><ref type="figure">f</ref>). The conductivity in the low-temperature region is mainly ascribed to electronic conduction, because ion migration is suppressed. For the 3D CH 3 NH 3 PbI 3 film, when temperature is increased to 260 K, ionic conductivity begins to dominate total conductivity. The activation energy for ion conduction was fitted to be 0.19 eV in the dark and reduced to 0.03 eV under 0.25 sun illumination. The large activation of 0.19 eV is assigned to ion migration, and small activation of 0.03 eV agrees well with previous reports. <ref type="bibr" target="#b10">11</ref> The transition temperature for electronic-to ion migration-dominated conduction was also reduced from 260 K in the dark to 240 K under illumination. It should be noted that the activation energy of ion migration in 3D CH 3 NH 3 PbI 3 is sensitive to the grain size and crystallinity of the 3D CH 3 NH 3 PbI 3 grains and can vary depending on the fabrication process.</p><p>For 2D (BA) 2 (MA) 3 Pb 4 I 13 films, we did not observe such a transition process from electronic to ionic conductivity when the temperature was increased to 330 K for the films both in the dark and under illumination. A constant slope was observed with an activation energy of 41 ± 7 meV, which should be in the range for electronic conduction. This result well confirms the suppression of ion migration up to 330 K in 2D perovskite films. We believe that organic spacing layers in 2D perovskites should cause the absence of notable ion migration, while it is not clear yet whether there is contribution from the special geometry of grain boundaries in 2D perovskite films.</p><p>The absence of obvious ion migration in 2D perovskites should impact the device efficiency and stability. The ion migration-related phenomena, including photocurrent hysteresis, such as switchable photovoltaics, <ref type="bibr" target="#b10">11</ref> photoinduced poling effect, <ref type="bibr" target="#b11">12</ref> light-induced phase separation, <ref type="bibr" target="#b12">13</ref> giant dielectric constant, <ref type="bibr" target="#b13">14</ref> and self-healing, 15 will be unlikely to occur. It will also alleviate the ion migration-related degradation process. The ion migration in 3D perovskite devices can accelerate the decomposition of perovskite films, create defects as nonradiative recombination centers, and cause degradation of charge transport layers and corrosion of metal electrodes. Apart from the enhanced moisture resistance introduced by the hydrophobicity of the long BA cation chain, we speculate that the moisture and oxygen ingression in low-dimensional perovskite films may be also suppressed because of the suppression, which contributes to the enhancement of stability of the devices based on these materials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>■ AUTHOR INFORMATION</head><p>Corresponding Author *E-mail: jhuang2@unl.edu. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>ORCIDFigure 1 .</head><label>1</label><figDesc>Figure 1. XRD (a), absorption and photoluminescence spectrum (b), and SEM image (c) of 2D perovskite (BA) 2 (MA) 3 Pb 4 I 13 films; temperaturedependent conductivity measurement geometry (d) and the results of MAPbI 3 (e) and (BA) 2 (MA) 3 Pb 4 I 13 (f) polycrystalline films.</figDesc><graphic coords="2,158.85,69.17,307.16,158.40" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded via UNIV OF CALIFORNIA SAN DIEGO on November 8, 2024 at 06:43:42 (UTC).See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.</p></note>
 		</body>
 		<back>
-			<div type="annex">
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>0 1 2341 5637 8 9 7 1 3 3 1 559 !" !# # $771 1 3%&amp;3 5 3'($))*4 75+37 5, -3-5%3 ,%3.*(/2 703715, 3 3315%52 5%',7 3' 7 1 ,%1'%333- <ref type="table">1</ref><ref type="table">2</ref><ref type="table">3</ref><ref type="table">4</ref><ref type="table">5</ref><ref type="table">6</ref><ref type="table">7</ref><ref type="table">%33%  1 5%%32 31 ,</ref><ref type="table">37  93 31 ,</ref><ref type="table">3' 3 331 55,</ref>1 23 -,7 55$-1 33: 52 + 1 -377 0, 1 57 ' 3 '+ 1 -37121233+3 7 7 1 31051 5 7+3-7-% 3-1 5/2 7 31 , 327&amp;333-31 1 0+ 3031 3% ($))*4; 7 33-500%&lt;7=+ 5+3 &gt;7 3 ?@ '%51 23 7 233,7 3%-,7 1 50 0+ 3031 1 57A B5C D52333 ' 12 7 7 3-1 523% 7 -,7 72521 5&amp;, %32-7 7 5$-1 33 : 52 + 1 -37 '22 -2-&amp;3,7 3%73=0+ 35 2521 5 0+ 3031-,7 1 50031 25%7 1 5($))*4/23 0+ 3031 1 55$-1 33: 52 + 1 -37-57 7 1 75 %% 4 5 -3 E F G HFE I; J @A BK'B0C223 3F 7123048 1 ,%351 23-1 3 1 1; -57 1 1 @%E I; J @ 7123, 1 5 31 1 533-1 5 /235 31 1 533-1 5335 ,1 5533 1 03 74 33&amp;19BL</p><p>)57 151 23 31 , 371 5&amp;3%%3%15($))*43, 3 2 1 432MNN -7 7 /237 0+ 37 121 7157% 7 503-7 71 21%53775031 2 47 0 151 235323 2115%%O5 7 1 -3' 1 23-7 35-1 33+ 8 1 -3'53P ,7 133%1 5%% 5 -3157+3-7-+ 3 3 3% % 3-1 551 23+ 1 -34 -312 7 751+ 1 3 -8 1 5 5 -3'23725, %51&amp;, %32+ -7 7 Q 1 2 7 -7 3'23P ,7 1%% 5 -31 5123537 3%1-50+,1 3%  <ref type="table">5+1 5 53 +7 5 %7 71 23?4050?;22 -2 71 23  7 -3 -1 5V51 23 51 1 5% W,7 5 9BL@ '  22 -227,03 -3 ,3 1 31235+1 5X3  5 133%15%%73-5%3 ,32 1 2123 5 -3; P ,7 1  -5+11 23 32 1 21 233</ref> &amp;<ref type="table">3&lt;7 -3?%%%  15,323</ref> &amp;<ref type="table">3 50&lt; 4A 4NYC ?@1 213+ 38  7 31 7123-1 3 1</ref>   ! "#$ # % &amp; '# ( )# )($ (# "# *() ! ) $ '((+$ , ! "# $ $ )$ -$ (!")+# %.# (+$ $ $ $ ! $ # (+ )# # $ )' $ "$ # / # # -$ (%('+( ($ ($ ' ! ) )# ,"$0$ $ $ $ ! $1$ + % 142 6253748564579</p><p>.( # +8(( # " $! )$ $ "" 9"(+$ (! ((+(# : 9;&lt;"(+ ;($ $ (%*;=9&gt; / ;=?@ABC=?DAE: &gt; FG/ DA/ DABH/ 9I*IJ/ D?@ABC&lt; ' ;II;&gt; K*=DDH@C=?DAE' L&gt; *F=DDCA@=?D?D'(+L&gt; *=DDCA@=?D?D%($ $!$ M&gt; ( $ # ( ((K") #$ + !$ $ $ M ( -+,;/ &gt; K $ / $ $ : N($ O @A?E@D&lt;! "(++ ,$ IL &amp;?D?D )%  </p></div>			</div>
+
+			<div type="acknowledgement">
+<div><p>The authors declare no competing financial interest.</p></div>
+<div><head>■ ACKNOWLEDGMENTS</head><p>This work was supported by the <rs type="funder">Office of Naval Research</rs> (<rs type="grantNumber">N00014-17-1-2163</rs> and <rs type="grantNumber">N00014-15-1-2713</rs>) and <rs type="funder">National Science Foundation</rs> (<rs type="grantNumber">DMR-1505535</rs>). Y.L. thanks the support from <rs type="funder">China Scholarship Council</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_6tjvvtd">
+					<idno type="grant-number">N00014-17-1-2163</idno>
+				</org>
+				<org type="funding" xml:id="_9AeC32y">
+					<idno type="grant-number">N00014-15-1-2713</idno>
+				</org>
+				<org type="funding" xml:id="_nfTTdST">
+					<idno type="grant-number">DMR-1505535</idno>
+				</org>
+			</listOrg>
 			<div type="references">
 
-				<listBibl/>
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gruverman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="315" to="321" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Quan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Comin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Voznyy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Beauregard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hoogland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Kirmani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Amassian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="2649" to="2655" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Hoke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Solis-Ibarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mcgehee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Karunadasa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Angew</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Chem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="11414" to="11417" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">K</forename><surname>Farha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="7843" to="7850" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-C</forename><surname>Blancon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Asadpour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Harutyunyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Neukirch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Verduzco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Crochet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tretiak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">536</biblScope>
+			<biblScope unit="page" from="312" to="316" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J.-C</forename><surname>Blancon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pedesseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Katan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kepenekian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Soe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Appavoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sfeir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="1288" to="1292" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="286" to="293" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kagan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mitzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dimitrakopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">286</biblScope>
+			<biblScope unit="page" from="945" to="947" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photonics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="699" to="704" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Quan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Comin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Walters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sabatini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Voznyy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hoogland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Beauregard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kanjanaboos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="872" to="877" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Centrone</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1500615" to="1500621" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1500721" to="1500726" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Hoke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Slotcavage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Dohner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Bowring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Karunadasa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mcgehee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="613" to="617" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Juarez-Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Badia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Garcia-Belmonte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mora-Sero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bisquert ; Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="10228" to="10236" />
+			<date type="published" when="2014">2014. 2016</date>
+		</imprint>
+	</monogr>
+	<note>Nat. Commun.</note>
+</biblStruct>
+
+				</listBibl>
 			</div>
 		</back>
 	</text>

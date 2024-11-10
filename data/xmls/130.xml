@@ -6,268 +6,133 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title level="a" type="main">Strain-engineered artificial atom as a broad-spectrum solar energy funnel</title>
-				<funder ref="#_sjzNqhS">
-					<orgName type="full">National Science Foundation</orgName>
-					<orgName type="abbreviated">NSF</orgName>
+				<title level="a" type="main">Oriented nucleation in formamidinium perovskite for photovoltaics</title>
+				<funder ref="#_MTxQcBj">
+					<orgName type="full">National Center for High Performance Computing of Turkey (UHeM)</orgName>
 				</funder>
-				<funder ref="#_cPACx32">
-					<orgName type="full">AFOSR</orgName>
+				<funder ref="#_U44an6P">
+					<orgName type="full">US Department of Energy Office of Science User Facility</orgName>
 				</funder>
-				<funder ref="#_ACRyrPZ #_6Ec3AKU #_JXqmFXh #_8Fq9RAA">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_xeSE68h">
+					<orgName type="full">Office of Science and Office of Basic Energy Article Sciences of the US Department of Energy</orgName>
 				</funder>
-				<funder ref="#_6ASb69g">
-					<orgName type="full">Programs of China</orgName>
+				<funder>
+					<orgName type="full">Valais Energy Demonstrators fund</orgName>
 				</funder>
-				<funder ref="#_8fkkC4N">
-					<orgName type="full">NSFC</orgName>
+				<funder>
+					<orgName type="full">Westlake University</orgName>
+				</funder>
+				<funder ref="#_ksKBZcG">
+					<orgName type="full">Natural Science Foundation of Zhejiang Province of China</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Instrumentation and Service Center for Physical Sciences</orgName>
+				</funder>
+				<funder ref="#_x6uKtPn #_fWavfHz">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_v5mfJM6">
+					<orgName type="full">Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering</orgName>
+				</funder>
+				<funder ref="#_e8ByrzE">
+					<orgName type="full">German Research Foundation (DFG)</orgName>
+				</funder>
+				<funder ref="#_HjhNfBc">
+					<orgName type="full">Foundation for Innovative Research Groups of the National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
-				<availability  status="unknown">
-					<licence/>
-				</availability>
-				<date type="published" when="2012">25 NOVEMBER 2012</date>
+				<availability status="unknown"><licence/></availability>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
 						<author>
-							<persName><forename type="first">Ji</forename><surname>Feng</surname></persName>
-							<affiliation key="aff0">
-								<orgName type="department">School of Physics</orgName>
-								<orgName type="laboratory">International Center for Quantum Materials</orgName>
-								<orgName type="institution">Peking University</orgName>
-								<address>
-									<postCode>100871</postCode>
-									<settlement>Beijing</settlement>
-									<country key="CN">China</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff3">
-								<orgName type="department">School of Physics</orgName>
-								<orgName type="laboratory">International Center for Quantum Materials</orgName>
-								<orgName type="institution">Peking University</orgName>
-								<address>
-									<postCode>100871</postCode>
-									<settlement>Beijing</settlement>
-									<country key="CN">China</country>
-								</address>
-							</affiliation>
+							<persName><forename type="first">Pengju</forename><surname>Shi</surname></persName>
 						</author>
 						<author>
-							<persName><forename type="first">Xiaofeng</forename><surname>Qian</surname></persName>
-							<affiliation key="aff1">
-								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff4">
-								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
-								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff1">
-								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff4">
-								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
-								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
+							<persName><forename type="first">Yong</forename><surname>Ding</surname></persName>
 						</author>
 						<author>
-							<persName><forename type="first">Cheng-Wei</forename><surname>Huang</surname></persName>
-							<affiliation key="aff1">
-								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff4">
-								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
-								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff1">
-								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff4">
-								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
-								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
+							<persName><forename type="first">Qiyu</forename><surname>Xing</surname></persName>
 						</author>
-						<author role="corresp">
-							<persName><forename type="first">Ju</forename><surname>Li</surname></persName>
-							<email>liju@mit.edu</email>
-							<affiliation key="aff0">
-								<orgName type="department">School of Physics</orgName>
-								<orgName type="laboratory">International Center for Quantum Materials</orgName>
-								<orgName type="institution">Peking University</orgName>
-								<address>
-									<postCode>100871</postCode>
-									<settlement>Beijing</settlement>
-									<country key="CN">China</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff1">
-								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff2">
-								<orgName type="department">Frontier Institute of Science and Technology</orgName>
-								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
-								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
-								<address>
-									<postCode>710049</postCode>
-									<settlement>Xi&apos;an</settlement>
-									<country>China;</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff3">
-								<orgName type="department">School of Physics</orgName>
-								<orgName type="laboratory">International Center for Quantum Materials</orgName>
-								<orgName type="institution">Peking University</orgName>
-								<address>
-									<postCode>100871</postCode>
-									<settlement>Beijing</settlement>
-									<country key="CN">China</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff4">
-								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
-								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff5">
-								<orgName type="department">Frontier Institute of Science and Technology</orgName>
-								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
-								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
-								<address>
-									<postCode>710049</postCode>
-									<settlement>Xi&apos;an</settlement>
-									<country key="CN">China</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff1">
-								<orgName type="department">Department of Nuclear Science and Engineering and Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff2">
-								<orgName type="department">Frontier Institute of Science and Technology</orgName>
-								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
-								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
-								<address>
-									<postCode>710049</postCode>
-									<settlement>Xi&apos;an</settlement>
-									<country>China;</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff4">
-								<orgName type="department" key="dep1">Department of Nuclear Science and Engineering</orgName>
-								<orgName type="department" key="dep2">Department of Materials Science and Engineering</orgName>
-								<orgName type="institution">Massachusetts Institute of Technology</orgName>
-								<address>
-									<postCode>02139</postCode>
-									<settlement>Cambridge</settlement>
-									<region>Massachusetts</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-							<affiliation key="aff5">
-								<orgName type="department">Frontier Institute of Science and Technology</orgName>
-								<orgName type="laboratory">State Key Laboratory for Mechanical Behavior of Materials</orgName>
-								<orgName type="institution">Xi&apos;an Jiaotong University</orgName>
-								<address>
-									<postCode>710049</postCode>
-									<settlement>Xi&apos;an</settlement>
-									<country key="CN">China</country>
-								</address>
-							</affiliation>
+						<author>
+							<persName><forename type="first">Tim</forename><surname>Kodalle</surname></persName>
 						</author>
-						<title level="a" type="main">Strain-engineered artificial atom as a broad-spectrum solar energy funnel</title>
+						<author>
+							<persName><forename type="first">Carolin</forename><forename type="middle">M</forename><surname>Sutter- Fella</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ilhan</forename><surname>Yavuz</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Canglang</forename><surname>Yao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Wei</forename><surname>Fan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jiazhe</forename><surname>Xu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yuan</forename><surname>Tian</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Danyu</forename><surname>Gu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ke</forename><surname>Zhao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shaun</forename><surname>Tan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Xu</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Libing</forename><surname>Yao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paul</forename><forename type="middle">J</forename><surname>Dyson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jonathan</forename><forename type="middle">L</forename><surname>Slack</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Deren</forename><surname>Yang</surname></persName>
+							<email>yangy@ucla.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Jingjing</forename><surname>Xue</surname></persName>
+							<email>jjxue@ucla.edu</email>
+						</author>
+						<author>
+							<persName><forename type="first">Mohammad</forename><forename type="middle">Khaja</forename><surname>Nazeeruddin</surname></persName>
+							<email>mdkhaja.nazeeruddin@epfl.ch</email>
+						</author>
+						<author>
+							<persName><forename type="first">Yang</forename><surname>Yang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rui</forename><surname>Wang</surname></persName>
+							<email>wangrui@westlake.edu.cn</email>
+						</author>
+						<title level="a" type="main">Oriented nucleation in formamidinium perovskite for photovoltaics</title>
 					</analytic>
 					<monogr>
 						<imprint>
-							<date type="published" when="2012">25 NOVEMBER 2012</date>
+							<date/>
 						</imprint>
 					</monogr>
-					<idno type="MD5">2239B4B420F6A99190A43708347297AF</idno>
-					<idno type="DOI">10.1038/NPHOTON.2012.285</idno>
+					<idno type="MD5">FCF2EA702F175FBCDBA9C7EFF408B005</idno>
+					<idno type="DOI">10.1038/s41586-023-06208-z</idno>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:42+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -275,1047 +140,232 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</encodingDesc>
 		<profileDesc>
 			<abstract>
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>An optoelectronic material with a spatially varying bandgap that is tunable is highly desirable for use in photovoltaics, photocatalysis and photodetection. Elastic strain has the potential to be used to achieve rapid and reversible tuning of the bandgap. However, as a result of plasticity or fracture, conventional materials cannot sustain a high enough elastic strain to create sufficient changes in their physical properties. Recently, an emergent class of materials-named 'ultrastrength materials'-have been shown to avoid inelastic relaxation up to a significant fraction of their ideal strength. Here, we illustrate theoretically and computationally that elastic strain is a viable agent for creating a continuously varying bandgap profile in an initially homogeneous, atomically thin membrane. We propose that a photovoltaic device made from a strainengineered MoS 2 monolayer will capture a broad range of the solar spectrum and concentrate excitons or charge carriers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Investigating perovskite surface energy by DFT Calculations</head><p>First-principles calculations were carried out using the VASP code 1,2  . A GGA type Perdew-Burke-Ernzerhof (PBE) 3,4  functional to define the exchange-correlation. Dispersion correction to the energy using Grimme's DFT-D3 scheme is included 5,6  . Projectoraugmented-wave (PAW) pseudopotentials 7 for all atoms were used for valence-core interactions. A high kinetic energy cutoff of 500 eV was chosen for the plane wave basis set expansion. A 10 -5 eV break condition were considered in the self-consistent field calculations. Atomic positions and cell shapes were allowed to relax using a conjugate gradient algorithm until all Hellman-Feynman forces are smaller than 0.02 eV/Å. A 4x4x1centered k-point mesh was chosen for Brillouin-zone sampling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 2</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Investigating perovskite nucleation and growth by in-situ grazing-incidence x-ray diffraction</head><p>In situ XRD is performed at the Advanced Light Source (ALS), at Lawrence Berkeley National Laboratory (LBNL) on beamline 12.3.2 using synchrotron x-ray beam with energy of 10keV and coupled with a homebuilt stage as shown in [Pratap et al., Acta Cryst.  (2019). A75, a155-156]. The angle between x-ray beam and sample is around 1°. The measurement time for each pattern is 1.818s and the signal is collected by a 2D Pilatus 1M detector (Dectris Ltd.). For the fabrication of perovskite film, the PbI2 solution was spincoated on the substrate at 1500 rpm for 40 s, and then, the FAI/PAd, FAI/BAd, FAI/PRd solution or FAI solution was spin-coated on the PbI2 film at 1800 rpm for 40 s (for simplification, the first-step and the second-step precursor was denoted as PbI2 solution and FAI solution respectively, and the exact composition followed the descriptions in the Method part), followed by pre-annealing at 90 °C for 1 min and 150 °C for 10 min with 40% humidity. The signal was captured upon dropping the IPA solution so that the crystallization process during the spin-coating can be monitored.</p><p>Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</p></div>
 			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>T he ability to continuously control the bandgap in optoelectronic materials, in a low-cost manner, is highly desirable for a wide range of energy and sensing applications, including photovoltaics <ref type="bibr">[1]</ref><ref type="bibr">[2]</ref><ref type="bibr">[3]</ref> , photocatalysis <ref type="bibr">4</ref> and photodetection <ref type="bibr">5</ref> . For example, the efficiency of photovoltaic devices comprising a single p-n junction is subject to the thermodynamic constraint of the Shockley-Queisser limit <ref type="bibr">1</ref> , as only a limited portion of solar energy can be absorbed. Although tandem solar cells consisting of multijunctions with cascaded bandgaps can achieve higher absorption efficiencies, the increased complexity of their fabrication and the high cost of materials are major drawbacks. It would therefore be a great advantage if one could fine-tune the bandgap within a single semiconducting material. Like chemical composition, elastic strain is a continuous variable that is capable of altering many physical and chemical properties. Although elastic strain engineering is a straightforward concept, its potential in photonics remains largely under-exploited. The key hurdle is the fact that conventional bulk-scale materials cannot sustain a high enough elastic strain to induce sufficient changes to the physical properties before they deform plastically or break.</p><p>Recently, materials belonging to an emergent class termed 'ultrastrength materials' <ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr" target="#b7">[8]</ref> have been found to avoid inelastic relaxation up to a significant fraction of their ideal strengths; that is, materials of different size and dimensionality can exhibit dramatically distinct physical and chemical properties as well as mechanical strengths. Atomically thin membranes are a notable family of materials that exhibit the property of ultrastrength <ref type="bibr" target="#b7">8,</ref><ref type="bibr">9</ref> . The elastic strain of a graphene monolayer has been predicted theoretically and also measured experimentally to be as high as 25% (refs 8,10,11), while that of bulk graphite rarely survives beyond 0.1% strain. Recently, a monolayer of molybdenum disulphide (MoS 2 ) was experimentally exfoliated and characterized. It demonstrated an effective in-plane strain of up to 11% (ref. 12), a direct bandgap of 1.9 eV under strain-free conditions <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> and a more than 10,000-fold enhancement of its luminescence quantum yield compared to its bulk counterpart <ref type="bibr" target="#b12">13</ref> . The high elastic strain limit should make it possible to control the electronic and optical properties of two-dimensional materials through simple elastic strain engineering, which is often infeasible in their three-dimensional bulk phases. In addition, the lattice symmetry of MoS 2 also demonstrates a unique valley-selective circular dichroism <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> .</p><p>Here, we illustrate theoretically and computationally that elastic strain is a viable agent for creating a continuously varying bandgap profile in an initially homogeneous, atomically thin membrane. As a proof of concept, an 'artificial atom' made of a nanoindented MoS 2 monolayer was investigated and predicted to be able to absorb a broad range of the solar spectrum from 2.0 eV to 1.1 eV as the biaxial strain increases from 0% to 9%. More importantly, the continuous spatial variation of electron and hole energies, together with the large exciton binding energy in the MoS 2 artificial atoms, makes it a unique solar energy funnel for conveying and concentrating the photoexcited charge carriers along the elastic strain gradient.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introducing inhomogeneous elastic strain</head><p>When subjecting an atomically thin membrane to a simple external load, as shown in Fig. <ref type="figure" target="#fig_0">1a</ref>, an inhomogeneous strain field can be created. The equilibrium geometry for a thin membrane is given by the Fo ¨ppl-Hencky equation for membrane deformation under a stretching force at the boundaries only. For the geometry depicted in Fig. <ref type="figure" target="#fig_0">1a</ref>, we have, for any line l( y), h l dxs a ¼ f a , where f a is the stretching force on the boundary and h is the nominal membrane thickness. Owing to the force balance, the continuously narrowing membrane geometry can efficiently focus the tensile strain.</p><p>For the proposed device to function, inelastic strain relaxation as a result of dislocation plasticity or fracture must be avoided <ref type="bibr">6</ref> . With a high-quality atomic membrane with minimal lattice defects, the edge lengths should also be minimized, as they are preferential sites for stress-aided defect nucleation <ref type="bibr" target="#b16">17</ref> . We thus arrive at a setup similar to nanoindentation <ref type="bibr" target="#b17">18</ref> , where a semiconducting membrane covers a circular hole on a substrate, with its rim clamped (Fig. <ref type="figure" target="#fig_0">1b</ref>). A force probe is used to indent the suspended membrane, which will then deform towards a bottom contact. The stress gradient and hence the elastic strain gradient are maintained by the concentrated load setup with the stress scaling inversely with the radius: s r ≈ 1/r for r , R (outer radius). Such a strain field resembles the potential field of a two-dimensional hydrogenic atom (but at a much larger length scale). It is in this sense that the strain-engineered atomic membrane can be regarded as a mesoscopic 'artificial atom' with electronic and optical properties that depend strongly on the strain and stress fields.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Broad-spectrum solar energy funnel</head><p>The connection between elastic strain and electronic structure in a strain-engineered artificial atom becomes apparent when the membrane is a semiconductor whose bandgap reflects a covalent bonding interaction. When stretched elastically, the covalent interaction generally weakens as the bonds lengthen, and consequently becomes a function of the imposed strain field. The stress is expected to exert significant modulation on the band energies and bandgap, analogous to band bending in a diode. The general principle here is to create a device with an electronic structure that has a continuous spatial variation due to an inhomogeneous strain field.</p><p>The scenario of continuous band bending leads us to propose the concept of a solar energy funnel. Based on the energy profiles of quasiparticles (that is, electrons and holes) and photoexcited states (that is, free electron-hole pairs or strongly bound excitons), three funnelling mechanisms are possible, as shown in Fig. <ref type="figure" target="#fig_0">1c-e</ref>. In a Type I funnel, the energy level of photoexcited electrons continuously decreases towards the centre, while that of holes increases. Consequently, charge carriers are concentrated at the centre, as long as the lifetime of carriers is large enough for carrier migration before electron-hole recombination takes place. However, if both levels decrease with increasing strain, the result will depend on the strength of the Coulomb interaction between the quasiparticles, that is, the exciton binding energy. With weak exciton binding, electron-hole pairs will be separated by the built-in field and move in opposite directions, resulting in a Type II funnel. On the other hand, if the binding energy of an exciton is large enough to hold the electron-hole pair together despite the built-in field, the decreasing exciton energy profile will drive the exciton to migrate towards the centre. A device based on this mechanism is classified as a Type III funnel. In all three types, the varying band/carrier energy leads to a funnelling effect. The strength of exciton binding energy determines whether Type II or III funnelling will operate in the device when the quasiparticle energy of both electron and hole decreases towards the centre of the membrane. A key advantage of such a strain-engineered device is that the performance of these devices can be adjusted to the lighting environment, as the optical bandgap is also continuously tunable.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strain-dependent properties of MoS 2 monolayer</head><p>The structure of the MoS 2 monolayer is shown in the inset to Fig. <ref type="figure" target="#fig_2">2d</ref> (Supplementary Fig. <ref type="figure" target="#fig_0">S1</ref>) and exhibits a remarkable trigonal prismatic geometry <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b18">19</ref> . On application of a biaxial strain, Poisson contraction 20 is expected. Owing to its hexagonal space group (P 6m2) symmetry, the MoS 2 monolayer has isotropic in-plane elasticity, so the bandgap depends only on the two-dimensional hydrostatic strain invariant to the linear order. We therefore focus on the effect of biaxial strain on electronic structure. First-principles density functional theory <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> (DFT) calculations (see Methods) indicate that both direct and indirect DFT bandgaps decrease (Fig. <ref type="figure" target="#fig_2">2a,</ref><ref type="figure">b</ref>), so a transition from direct bandgap to indirect bandgap occurs once the biaxial strain is applied. Other groups <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> have recently reported a similar DFT bandgap reduction under biaxial tensile strain.</p><p>To acquire an accurate electronic band energy profile for the device design, we also performed many-body GW calculations <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> (G, Green's function; W, screened Coulomb interaction; see Methods). The strain-dependent bandgaps are shown in Fig. <ref type="figure" target="#fig_2">2b</ref>, and the strain-dependent energy levels for an electron and hole at the K point in the first Brillouin zone are shown in Fig. <ref type="figure" target="#fig_2">2d</ref>. As shown in Fig. <ref type="figure" target="#fig_2">2b</ref>, the direct and indirect bandgaps calculated Notice that although the bulk of the electrodes are metallic (for example, transparent conducting oxide), they are coated with semiconducting buffers to facilitate selective quasiparticle collection (detailed in the text). This setup completely removes the edges of the membrane ribbon in a, as these can serve as preferential sites for stress-aided defect nucleation. c-e, Three broad-spectrum solar energy funnelling mechanisms arising from a different band bending and exciton binding profile in the strain-engineered semiconducting membrane.</p><p>from DFT and GW are indeed similar, except for a constant shift of 0.7 eV. Furthermore, the dielectric functions and electron energy loss spectrum of a MoS 2 monolayer are also predicted to undergo substantial changes under biaxial tensile strain (Supplementary Fig. <ref type="figure" target="#fig_7">S2</ref>).</p><p>The biaxial strain also modifies the absorption spectra and optical gap of the monolayer-the latter being another physical quantity important for device operation. As screening is generally reduced in a two-dimensional material, photoexcited quasiparticles in a MoS 2 monolayer are expected to experience stronger Coulomb attractions. We therefore go beyond the random-phase approximation by solving the Bethe-Salpeter equation (BSE) <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> with GW quasiparticle energies. The calculated strain-dependent optical absorption spectra are displayed in Fig. <ref type="figure" target="#fig_2">2c</ref> and show that the direct-to-indirect transition of the bandgap with biaxial strain does not affect the strength of the vertical optical absorption compared to the GW direct bandgap in Fig. <ref type="figure" target="#fig_2">2b</ref>, BSE; it only shifts the whole spectrum to lower energy due to exciton binding. The lowest optical excitation in Fig. <ref type="figure" target="#fig_2">2c</ref> originates from the doubly degenerate singlet excitons around the K points <ref type="bibr" target="#b28">29</ref> . The exciton energy of 2.0 eV at zero strain is in excellent agreement with the A peak at 1.9 eV measured using photoluminescence spectroscopy <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> (the fine structure due to spin-orbit coupling discussed in ref. 29 is ignored here as it will not affect the main conclusion of strain-dependent electronic and optical energies). The excitation energy experiences substantial reduction when the strain is imposed, decreasing to 1.1 eV at 9% biaxial strain. We then arrive at a roughly constant exciton binding energy of 0.5 eV from 0% to 9% biaxial strain. Such large constant exciton binding energy together with the reduced quasiparticle energies (Fig. <ref type="figure" target="#fig_2">2d</ref>) makes the strainengineered artificial MoS 2 atom a Type III solar energy funnel.</p><p>Exciton wavefunctions for the lowest excitation under zero strain are displayed in Supplementary Fig. <ref type="figure" target="#fig_3">S3</ref>. The hole state is dominated by d x 2 -y 2 and d xy orbitals of molybdenum atoms and p x and p y orbitals of sulphur atoms, and the electron state is dominated by d z 2 orbitals of molybdenum atoms. The large exciton radius ( 2 nm) and exciton binding energy ( 0.5 eV) indicate a mixed Frenkel-Wannier-Mott exciton character. This arises from the reduced screening in two-dimensional atomically thin materials and thus stronger Coulomb attraction between electrons and holes upon photoexcitation.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nanoindented MoS 2 monolayer as artificial atoms</head><p>To compute the morphology of the MoS 2 monolayer in the proposed device, we used a bicontinuum finite-element simulation <ref type="bibr" target="#b29">30</ref> , with a force field parameterized in the Tersoff potential form <ref type="bibr" target="#b30">31</ref> (see Supplementary Information). This coarse-grained force field method yields essentially the same membrane morphology as the analytical solution to the Fo ¨ppl-Hencky equations <ref type="bibr" target="#b31">32</ref> (Supplementary Fig. <ref type="figure" target="#fig_8">S4</ref>). The computed morphology of the deformed membrane shows characteristic scale invariance; that is,  w/R as a function of r/R is nearly independent of R for R . 100 Å, where w is the vertical displacement at radius r. In practice, a force probe with a rounded tip (Fig. <ref type="figure" target="#fig_0">1b</ref>) can be used to avoid stress singularity near the centre. A relaxed atomic structure of nanoindented MoS 2 membrane is shown in Fig. <ref type="figure" target="#fig_3">3a</ref>, demonstrating a maximum vertical displacement of Z ¼ R/5. The displacement increases gradually towards the centre of the membrane. This is expected as the boundary conditions (edge clamping and central indenting) have cylindrical symmetry, and the hexagonal lattice implies the same symmetry in the Young's modulus and Poisson ratio <ref type="bibr" target="#b32">33</ref> . The computed biaxial field is visualized in Fig. <ref type="figure" target="#fig_3">3b</ref> (see Supplementary Information for calculation details). Right at the clamped rim of the suspended membrane, the biaxial strain has a small abrupt increase due to the boundary used in the simulation. As one moves inwards, the strain increases quickly, corresponding to the increase in radial stress. Because the tip of the force probe is rounded, the elastic strain does not diverge near the centre of the membrane. With the computed strain pattern shown in Fig. <ref type="figure" target="#fig_3">3b</ref>, we can map out the energy profiles of electronic and optical excitations on the membrane in a semiclassical sense, using those of the MoS 2 monolayer under different amounts of homogeneous biaxial strain, as presented above. The mapped band edges of electrons and holes and the energy profile of excitons for the representative membrane are shown in Fig. <ref type="figure" target="#fig_3">3c</ref> and<ref type="figure">d</ref>, respectively. Both valence and conduction band edges are shifted downward from the rim to the centre. At the region with slowly varying strain, there is a large plateau where the positions of the band edges are almost constant, with an area occupying almost two-thirds of the circular region. The spatial variation of exciton energy in the membrane, except for the sign difference, is very similar to the strain profile, as the total exciton energy changes almost linearly with respect to the applied biaxial strain (Fig. <ref type="figure" target="#fig_2">2b</ref>).</p><formula xml:id="formula_0">η = 0% η = 1% η = 2% η = 3% η = 4% η = 5% η = 6% η = 7% η = 8% η = 9%</formula><p>The size of Type III solar energy funnel device is essentially constrained by the exciton drift length, beyond which radiative recombination will dominate and prevent the exciton from reaching the electrodes at the centre. The exciton drift length <ref type="bibr" target="#b33">34</ref> can be estimated by</p><formula xml:id="formula_1">l drift = kvl drift t 1/2 = ∇E exc m exc t dephase t 1/2<label>(1)</label></formula><p>where t 1/2 is the exciton lifetime and kvl drift is the average drift velocity. The latter is then estimated by the acceleration of the exciton due to the exciton energy gradient ∇E exc within phase relaxation time kvl drift . The exciton mass is denoted m exc . As we would like to have most excitons collected at the centre of the membrane, the radius of the membrane should be set to the drift length, that is, R ¼ l drift . Hence, the spatial gradient of the exciton energy ∇E exc can be approximated by DE exc /R. We therefore have an effective membrane radius,</p><formula xml:id="formula_2">R = m -1 exc DE exc t dephase t 1/2 .<label>(2)</label></formula><p>In the plateau region, the energy variation DE exc is 0.1 eV. As we do not know exciton mass m exc and phase relaxation time t dephase , we approximate them by the electron rest mass m e and 5 ps in GaAs 35 , respectively. Fortunately, the exciton lifetime t 1/2 of a MoS 2 monolayer has recently been measured <ref type="bibr" target="#b35">36</ref> , with a fast photoluminescence decay component of 5 ps at temperatures of 4.5-150 K and a slow decay component of 100 ps at 270 K. The estimated radius of the atomic membrane is then 660 nm and 3 mm for the fast and slow decay components, respectively. Compared to the above characteristic size of the membrane, the exciton radius of 2 nm (Supplementary Fig. <ref type="figure" target="#fig_3">S3</ref>) is indeed much smaller, meaning that the strain profile continuously and smoothly varies over a length scale comparable to the exciton size in the region of interest. The continuum strain mapping procedure is therefore justified. It is now entirely plausible that upon excitation from the ground state, the excitons will be swept by the straininduced potential gradient and funnelled toward the centre. As both hole and electron carriers are bound in the same direction, we expect that the membrane will stay essentially charge neutral during device operation. This is advantageous, as charging might otherwise significantly reduce the efficiency of the carrier funnelling. The final charge separation and harvesting of solar energy can be achieved by contacting an electron-collecting transparent semiconductor on top of the arrangement and a hole-collecting semiconductor at the bottom (Fig. <ref type="figure" target="#fig_0">1b</ref>), with appropriate bandedge alignments to ensure one-way electron/hole flow, as in standard photovoltaic technology. As the electron-hole pairs represent energetic excited states, the membrane device works like a battery with an electropotential DV ext , DV int .</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>What we have created in the MoS 2 membrane with the elastic strain pattern is a continuous bending of the energy levels of electrons, holes and excitons, similar to that in a photodiode, except that the photoexcited electron-hole pairs in MoS 2 are strongly bound excitons. When an electron-hole pair is generated in the plateau region following light absorption, the semiclassical potential for the quasiparticles exerts forces on the electron and hole in opposite directions. However, the large exciton binding energy will force the electron-hole pair to hold together like a molecule (despite a small polarization) and migrate towards the centre of the membrane. This is different from the case of a photodiode, where electron-hole pairs quickly dissociate, with the electrons and holes then migrating in opposite directions.</p><p>Although not central to the proposed photocarrier funnelling effect, the eventual collection of solar energy is also critical. To efficiently extract charge carriers from the centre, the device design shown in the schematic in Fig. <ref type="figure" target="#fig_0">1b</ref> was proposed, with a band alignment as shown in Fig. <ref type="figure" target="#fig_4">4</ref>. Such a structure is similar to that of organic photovoltaic cells <ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38</ref> . The charge extraction process is accomplished with two carrier-collecting contacts, one of which is the indenter itself, and the other is located beneath the indented MoS 2 membrane. The bulk of the electrodes are made of transparent conducting oxide to maximize illumination of the membrane. Key to the design are two semiconducting buffer layers, which cover the electrodes and come into direct contact with the MoS 2 monolayer. The role of these buffer layers is to selectively admit one type of charge carrier (electron or hole) while blocking the other. The carrier selectivity of these buffers arises from band alignment (detailed in Fig. <ref type="figure" target="#fig_4">4</ref>) and follows the standard principle from photovoltaics. The nanoindenter tip in Fig. <ref type="figure" target="#fig_0">1b</ref> should therefore be made of, or coated with, transparent semiconductors with selected band edges. This is particularly important when building a functional funnel device such as that in Fig. <ref type="figure" target="#fig_0">1b</ref>, because the buffer layers can help suppress direct tunnelling of carriers between anode and cathode and allow for efficient extraction of charge carriers. A layered patterning scheme is also proposed in Supplementary Fig. <ref type="figure">S6</ref> to achieve arrays of strain-engineered artificial atoms.</p><p>The concept of a solar energy funnel achieved by engineering the electronic band energy and optical bandgap is not entirely new, and has been demonstrated experimentally in several nanostructures with graded gaps, including layer-by-layer assembled CdTe nanocrystals of different sizes <ref type="bibr" target="#b38">39</ref> and core-shell and corrugated carbon nanotube filaments <ref type="bibr" target="#b39">40</ref> . Here, however, we have explored an alternative approach by generating continuously varying electronic band energy and optical bandgap in two-dimensional atomically thin membranes, by means of inhomogeneous elastic strain engineering within a single crystalline material. We would like to emphasize that it is the varying profile of band energy that leads to the direct funnelling effect, while the strength of the exciton binding energy determines whether a Type II or Type III funnel device is created. The present approach is enabled by recent rapid advances in two-dimensional atomically thin sheets such as graphene, hexagonal boron-nitride, MoS 2 monolayer and so on. All of these have been exfoliated experimentally and characterized to have very high elastic strain limits. In addition, MoS 2 has some other attractive properties such as high thermal stability and chemical inertness. We therefore expect that the proposed funnel device can be verified by experiments in the near future.</p><p>In closing, we would like to make three remarks. First, photovoltaic conversion and the solar energy funnel are not the only applications of the proposed artificial atom. For example, without the electrodes, the excitons concentrated at the centre will be relaxed through radiative recombination, resulting in stronger luminescence near the centre of the membrane. This may be useful for exciton lasing, if an appropriate resonator design is devised <ref type="bibr" target="#b40">41</ref> . The unique feature of the device, as exemplified above, is its mechanical tunability; the frequency and intensity of the emission can be tuned continuously by varying the applied strain to the atomic membrane. Second, the concept of a strainengineered artificial atom may work with many other atomically thin sheets, including GaS, GaSe, GaTe, MX 2 -type dichalcogenides (M¼Mo, Nb, Ni, Sn, Ti, Ta, Pt, V, W, Hf and so on, and X¼S, Se, Te), M 2 X 3 -type trichalcogenides (M¼As, Bi, Sb and so on, and X¼S, Se, Te), MPX 3 (X¼S, Se), MAX 3 (A¼Si, Ge, and X¼S, Se, Te), and alloy sheets like M x M ′ 1-x S 2 . It can also be applied to other thin membranes based on conventional materials, such as a silicon nanomembrane <ref type="bibr" target="#b41">42</ref> , which can sustain a significant tensile strain of a few percent. This level of tension is sufficient to induce the proposed funnelling effect, even though the driving force is still not as large as in maximally indented atomic sheets. Finally, although we illustrate the application of the elastically deformed membrane semiconductor as a solar energy concentrator, we would also like to emphasize the more general notion of it being a tunable artificial atom. Each deformable membrane should have its own characteristic excitations (electronic and electromagnetic). Upon juxtaposition, they will interact electronically The atomic membrane lies on the x-y plane, and the indentation is along the z-direction. Two semiconducting buffer layers between the MoS 2 monolayer and the two electrodes serve as electron-selective and holeselective transporters due to their specific band alignment with respect to the MoS 2 monolayer. These two buffer layers are thick enough to make direct tunnelling negligible. In addition, a transparent conducting oxide is used as the cathode so as not to block the incoming light from the top.</p><p>and optically. It is our hope, then, that complex superlattice arrays of these artificial atoms can be built on a whole membrane, the properties of which will be tuned at the level of the fundamental 'atomic' building blocks by strain engineering.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Ground-state properties of MoS 2 monolayer. The ground-state atomic structure of MoS 2 monolayer under different biaxial strains was first assessed by DFT <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> calculations. These were carried out using the Vienna Ab initio Simulation Package (VASP) with a plane wave basis <ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b43">44</ref> and the projector-augmented wave method <ref type="bibr" target="#b44">45</ref> . Exchange-correlation functionals in a Perdew-Berke-Ernzerhof (PBE) form <ref type="bibr" target="#b45">46</ref> within the generalized-gradient approximation (GGA) <ref type="bibr" target="#b46">47,</ref><ref type="bibr" target="#b47">48</ref> were used in all DFT calculations. We adopted the Monkhorst-Pack scheme <ref type="bibr" target="#b48">49</ref> of k-point sampling for zone integration, and selected the number of k-points to achieve a convergence in total energy within 1 meV/atom. The total energy of each optimized structure was calculated again with the more accurate tetrahedron zone summation with Blo ¨chl correction <ref type="bibr" target="#b49">50</ref> . A qualitative electronic band structure for different biaxial tensile strain was also obtained from DFT-PBE calculations.</p><p>Excited-state properties of MoS 2 monolayer. Two physical quantities related to this design of solar energy funnel are the electronic excitation energy (quasiparticle band energy for electron and hole) and optical excitation energy (exciton energy). However, neither of these can be obtained accurately from DFT Kohn-Sham eigen energies using the GGA exchange-correlation function. We therefore computed quasiparticle energies for electrons and holes using many-body perturbation theory calculations within Hedin's G 0 W 0 approximation <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> , while the optical absorption spectra and exciton energies were further obtained by solving a Bethe-Salpeter equation <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> on top of G 0 W 0 quasiparticle energies within the Tamm-Dancoff approximation, which explicitly takes into account Coulomb interactions between quasi-electrons and quasi-holes. Here, an energy cutoff of 350 eV and Monkhorst-Pack k-point sampling of 18 × 18 × 1 were chosen. Both GW and BSE calculations require much more computational effort and memory storage than DFT calculations, because the GW method needs to evaluate frequency-dependent nonlocal self-energy and the BSE method is essentially solving two-particle Green's function, whereas DFT with GGA functions is intrinsically local and frequencyindependent. Because an exciton corresponds to the excitation of electron-hole pairs, its wavefunction is a six-dimensional quantity, C(r e , r h ) = k,vc A vck f ck (r e ) f * vk (r h ), where f ck (r e ) and f vk (r h ) are electron and hole wavefunctions. We have reconstructed exciton wavefunctions and plotted out the corresponding electron (hole) wavefunction by holding its counterpart hole (electron) at a specific location (Supplementary Fig. <ref type="figure" target="#fig_3">S3</ref>). Spin-orbit coupling is not included as it will not affect the main conclusion of strain-dependent electronic and optical bandgaps of MoS 2 monolayer.</p><p>Geometry of the MoS 2 membrane under nanoindentation. Owing to the large size of the atomic membrane under consideration here, it is unrealistic for us to relax the nanoindented membrane by first-principles DFT calculation directly. We therefore fitted a set of Tersoff potential parameters for MoS 2 , and then performed force-field calculations to obtain the geometry of the MoS 2 membrane under indentation. More details are provided in the Supplementary Information. </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Inhomogeneous elastic strain in atomically thin membrane</head><p>When subjecting an atomically thin membrane to a simple external load as shown in Fig. <ref type="figure" target="#fig_0">1a</ref> of the paper, an inhomogeneous strain field is created. The equilibrium geometry at the thin membrane limit is given by the Föppl-Hencky equation for a membrane deformation under stretching force only at the boundaries,</p><formula xml:id="formula_3">2 αβ σ 0 α β w ∂ = ∂ ∂ , αβ σ 0 β ∂ = ∂ (S1)</formula><p>where α,β = x, y, w is the displacement along z-direction, σ αβ the stress tensor, and the pressure differential across the membrane is taken to be zero. The first and second equations express the force balances along the z-direction and x-y plane, respectively. For the geometry depicted in Fig. <ref type="figure" target="#fig_0">1a</ref>, we have for line λ(y), h∫ λ dxσα = f𝛼𝛼, where f𝛼𝛼 is the stretching force on the boundary and h is nominal membrane thickness. Apparently, the average tensile stress in y-direction along line λ(y) is ( )</p><formula xml:id="formula_4">α α | | σ f h y λ = . (S2)</formula><p>Thus, a continuously narrowing membrane geometry can efficiently focus the stress and the tensile strain. For a simple concentric geometry, the width w scales as r -1 , where r=(x 2 +y 2 ) 1/2 , so the elastic strain and strain-controlled properties (e.g. band gap) would also scale as r -1 .</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. Ground-state atomic and electronic structure of monolayer MoS 2</head><p>MoS 2 belongs to a family of low-dimensional semiconductors, the transition metal dichalcogenides MX 2 (X = S, Se). The structure of MoS 2 monolayer is shown in Fig. <ref type="figure" target="#fig_0">S1</ref>, where Mo atom sits in the cage formed by six sulfur atoms, forming a remarkable trigonal prismatic geometry <ref type="bibr">1,</ref><ref type="bibr">2</ref> . Crystal field splitting in such geometry determines its electronic structure, resulting in the states near the band gap largely residing on Mo atoms. This is clearly seen from electronic density of states (DOS) (Fig. <ref type="figure" target="#fig_0">S1</ref>) obtained from first-principles density-functional theory <ref type="bibr">3,</ref><ref type="bibr">4</ref> (DFT) calculations. Owing to its hexagonal space group ( P6m2 ) symmetry, MoS 2 monolayer has isotropic in-plane elasticity, so the band gap depends only on the hydrostatic strain invariant in 2D (i.e., biaxial strain), η hydro = (η xx + η yy )/2, in the linear order. We therefore focus on the effect of biaxial strain on the electronic and optical properties of MoS 2 monolayer in the main text.</p><p>However, it is known that DFT using local density approximation or generalized gradient approximation of exchange-correlation functional usually underestimates by 30%-50% the true quasiparticle band gap. The DFT band structure (Fig. <ref type="figure" target="#fig_2">2a</ref>) and DOS (Fig. <ref type="figure" target="#fig_0">S1c</ref>) only provide qualitative of electronic structure of monolayer MoS 2 . We thus have performed quasiparticle GW calculations for electron and hole energy levels and solved Bethe-Salpeter equation (BSE) for optical excitation energy and absorption spectrum. These two quantities together with the nonlinear strain map are the key physical parameters used in our device design. optical properties are found to be altered significantly under biaxial strain, which could be important for designing 2D photonic using arrays of strain-engineered atomic membranes. and the Poisson ratio (ν) <ref type="bibr">5,</ref><ref type="bibr">6</ref> . Second, the bipartite lattice of MoS 2 monolayer renders its mechanical deformation amenable to a bicontinuum treatment <ref type="bibr">7</ref> . Therefore, we choose the Tersoff's force field that has a three-body angular term, <ref type="bibr" target="#b7">8</ref> with which a graphene-like structure is stable. The pair of S atoms occupying each site on the honeycomb net is treated as one particle.</p><p>Further, we ignore the mass difference between the Mo and S-pair sites, which is appropriate NATURE PHOTONICS | www.nature.com/naturephotonics when only static morphology is sought. We also assume the variation of the potential corresponding to bending modes Mo-S-Mo and S-Mo-S identical. Again, this is justified as only Young's modulus and Poisson's ratio determine the static response to an external stress <ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref> .</p><p>Although Föppl-Hencky equation for circular membrane under a central load does entail the possibility of wrinkling instability 6 , we have not seen wrinkle formation in the membrane up to the point of membrane rupture in our simulations. We started with the Tersoff potential 8 for carbon, and found that the only modifications we needed were, following the same notations in Ref. The local strain is computed as follows. We compute the surface normal of, say, the i-th atom with a bicubic interpolation of the surface, with which the tangent plane can be located. We then project the initial atomic con6uration onto the tangent plane <ref type="bibr">9</ref> . As shown in Fig. <ref type="figure">S5a</ref>, the curved surface of the deformed membrane is denoted S, and the tangent plane S t . Six second-nearest neighbors, as shown in Fig. <ref type="figure">S5b</ref>, are selected to compute the least-square atomic strain. The least-square atomic strain is computed as follows. Let ji j i = -d r r for the current configuration, and 0 0 0 ji j i = -r r for the reference configuration. Then matrices i W , V i and J i are define as, </p><formula xml:id="formula_5">J i = V i -1 W i (S5)</formula><p>With which the strain tensor is: T 1 ( ) 2</p><formula xml:id="formula_6">i i i = - η J J I (S6)</formula><p>And the hydrostatic strain invariant is defined as</p><formula xml:id="formula_7">𝛈𝛈 hydro,2D = 1 2</formula><p>Tr 𝛈𝛈 ! (S7) </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 |</head><label>1</label><figDesc>Figure1| Introducing inhomogeneous strain and classifying funnelling mechanisms. a, Schematic of an inhomogeneously strained membrane ribbon with varying width l (dashed line). The two electrodes mechanically impose a vertical displacement on the central region of the membrane. Without the two electrodes, the equilibrium geometry of the membrane is flat. b, Schematic device setup for elastic strain-engineered artificial atom (not drawn to scale). Notice that although the bulk of the electrodes are metallic (for example, transparent conducting oxide), they are coated with semiconducting buffers to facilitate selective quasiparticle collection (detailed in the text). This setup completely removes the edges of the membrane ribbon in a, as these can serve as preferential sites for stress-aided defect nucleation. c-e, Three broad-spectrum solar energy funnelling mechanisms arising from a different band bending and exciton binding profile in the strain-engineered semiconducting membrane.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>energy (eV) Optical absorption spectra (a.u.)</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 |</head><label>2</label><figDesc>Figure 2 | Strain-dependent electronic and optical properties of MoS 2 monolayer. a, Electronic DFT band structure of monolayer MoS 2 under different biaxial strains from 0% (blue line) to 9% (red line). b, Direct and indirect bandgaps under different biaxial strains calculated using DFT and GW. The GW direct bandgap refers to the minimal direct transition energy. It is located at the K points of the hexagonal Brillouin zone, indicated by an arrow in a. The corresponding lowest optical excitation energy (black triangles) is calculated by BSE on top of GW quasiparticle energies with electron-hole Coulomb interaction included. c, Biaxial strain-dependent optical absorption spectra calculated by BSE. d, Biaxial strain-dependent GW quasiparticle energies for electrons and holes at the K point. Inset: atomic structure of MoS 2 monolayer.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 |</head><label>3</label><figDesc>Figure 3 | Structural and physical properties of nanoindented MoS 2 monolayer. a, Atomic structure of circular MoS 2 membrane under indentation with a maximum vertical displacement of R/5 (R, circular membrane radius). b, Biaxial strain in the MoS 2 membrane calculated from the least-square atomic strain tensor. c,d, Corresponding local electron and hole energy profile (c) and local exciton energy profile (d). These are directly mapped from the profiles of homogeneously biaxial strained MoS 2 monolayer against the biaxial invariants of the strain tensor in inhomonegeously deformed MoS 2 membrane under indentation.</figDesc><graphic coords="4,331.35,224.98,185.13,99.04" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4 |</head><label>4</label><figDesc>Figure 4 | Schematic of charge extraction near the centre of the atomic membrane.The atomic membrane lies on the x-y plane, and the indentation is along the z-direction. Two semiconducting buffer layers between the MoS 2 monolayer and the two electrodes serve as electron-selective and holeselective transporters due to their specific band alignment with respect to the MoS 2 monolayer. These two buffer layers are thick enough to make direct tunnelling negligible. In addition, a transparent conducting oxide is used as the cathode so as not to block the incoming light from the top.</figDesc><graphic coords="5,151.59,131.05,56.20,59.92" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Received 13</head><label>13</label><figDesc>March 2012; accepted 17 October 2012; published online 25 November 2012</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure S1 |C. Strain-dependent dielectric functions and electron energy loss spectrum of monolayer MoS 2</head><label>S12</label><figDesc>Figure S1 | Structure of monolayer MoS 2 viewed from (a) side and (b) top. (c) Electronic DOS of MoS 2 monolayer from DFT calculations, with projection onto Mo and S atoms. Inset: the local coordiation of a Mo atom and the crystal-field splitting of its d-orbitals at the Brillouin zone centre.</figDesc><graphic coords="10,67.37,231.97,455.91,182.45" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure S2 |</head><label>S2</label><figDesc>Figure S2 | Strain-dependent real (ε 1 ) and imaginary (ε 2 ) part of dielectric functions and electron energy loss spectrum of monolayer MoS 2 for light polarized parallel to the monolayer surface.</figDesc><graphic coords="11,191.20,115.58,224.69,501.50" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure S4 |</head><label>S4</label><figDesc>Figure S4 | Comparison between the membrane geometry computed from the coarse-grained force-field calculation and the exact results. Here, the vertical displacement w(r) and the radius r are both scaled by R 0 /R, where R 0 = 100 Å and R is the radius of the current simulation in Å.</figDesc><graphic coords="13,130.54,259.57,341.25,260.98" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>8 :A 6 NATURE</head><label>86</label><figDesc>Figure S5 | (a) The tangent plane. (b) Six nearest neighbors included in the calculation of the least-square strain.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,61.46,78.60,455.89,199.45" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,94.46,313.70,401.91,200.35" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,88.38,78.47,432.68,259.50" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>10,11    </figDesc><table /><note><p>NATURE PHOTONICS | www.nature.com/naturephotonics 7 SUPPLEMENTARY INFORMATION DOI: 10.1038/NPHOTON.2012.285 © 2012 Macmillan Publishers Limited. All rights reserved.</p></note></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2012 Macmillan Publishers Limited. All rights reserved.</p></note>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>NATURE PHOTONICS | www.nature.com/naturephotonics</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The surfaces were modeled by a periodic slab consisting of perovskite layers, separated by at least 15-20 Å of vacuum in the surface normal direction. To calculate the surface energy of the slabs along 100 and 111 of FAPbI3 with and without the organic amidinium cations (PAd, BAd, and PRd) we considered the following method.</p><p>We first calculate the cleavage energy of the clean surface generated from the bulk FAPbI3</p><formula xml:id="formula_0">𝜎 𝑐𝑙𝑣 = 1 2 [𝐺 𝑠𝑙𝑎𝑏 𝑢𝑟𝑙 -𝑁𝐺 𝑏𝑢𝑙𝑘 + ∑ 𝑛 𝑖 𝜇 𝑖 ] 𝑖 .</formula><p>Here, 𝐺 𝑠𝑙𝑎𝑏 𝑢𝑟𝑙 is the energy of the unrelaxed slab, 𝐺 𝑏𝑢𝑙𝑘 = 𝜇 𝐹𝐴 + 𝜇 𝑃𝑏 + 3𝜇 𝐼 is the energy per unit formula of the bulk FAPbI3. 𝜇 𝐹𝐴 , 𝜇 𝑃𝑏 and 𝜇 𝐼 are the chemical potentials of FA, Pb and I, respectively. 𝑛 𝑖 is the number of FA, Pb and I appropriately removed from or added to the reservoir to create the slab. The relaxation energy of the cleaved surface is then calculated from</p><formula xml:id="formula_1">𝜎 𝑟𝑙𝑥 = 𝐺 𝑠𝑙𝑎𝑏 𝑟𝑙𝑥 -𝐺 𝑠𝑙𝑎𝑏 𝑢𝑟𝑙 ,</formula><p>where 𝐺 𝑠𝑙𝑎𝑏 𝑟𝑙𝑥 is the energy of the relaxed perovskite slab. Surface energy is calculated from 𝛾 = (𝜎 𝑟𝑙𝑥 + 𝜎 𝑐𝑙𝑣 )/𝐴, where 𝐴 is the area of the slab surface. For the case of slabs with molecular cations, we first cleaved the perovskite, to generate the slab, and incorporated the cation over the surface and then relaxed the cation over the surface while fixing the atomic positions of the slab. We later performed a full relaxation over the relaxed-cation and slab system to calculate the relaxation energy and then the surface energy. Supplementary Fig. <ref type="figure" target="#fig_2">10</ref> showed the slabs for perovskite (100) and (111) planes with PAd, and the reduction in their surface energies compared with the control. Supplementary Fig. <ref type="figure" target="#fig_2">15</ref> | Box plots showing the distribution of the PCEs for perovskite devices fabricated with PRd, BAd, PAd and the control. Centre line, median; box limits, 25 th and 75 th percentiles; whiskers, outliers. Notes: In this case, the width of P2 lines and P3 lines was 200 μm and 100 μm respectively, and the geometric fill factor (GFF) was around 0.90. The black phase of formamidinium lead iodide (FAPbI 3 ) perovskite shows huge promise as an efficient photovoltaic, but it is not favoured energetically at room temperature, meaning that the undesirable yellow phases are always present alongside it during crystallization <ref type="bibr">[1]</ref><ref type="bibr">[2]</ref><ref type="bibr">[3]</ref><ref type="bibr">[4]</ref> . This problem has made it difficult to formulate the fast crystallization process of perovskite and develop guidelines governing the formation of black-phase FAPbI 3 (refs. 5,6). Here we use in situ monitoring of the perovskite crystallization process to report an oriented nucleation mechanism that can help to avoid the presence of undesirable phases and improve the performance of photovoltaic devices in different film-processing scenarios. The resulting device has a demonstrated power-conversion efficiency of 25.4% (certified 25.0%) and the module, which has an area of 27.83 cm 2 , has achieved an impressive certified aperture efficiency of 21.4%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Oriented nucleation in formamidinium perovskite for photovoltaics</head><note type="other">Pengju</note><p>FAPbI 3 has an impressive bandgap and thermal resistance, and has therefore emerged as the most promising candidate perovskite for use as a photovoltaic device <ref type="bibr">[1]</ref><ref type="bibr">[2]</ref><ref type="bibr">[3]</ref><ref type="bibr">7,</ref><ref type="bibr">8</ref> . However, the photoactive black phase of FAPbI 3 is not energetically favoured at room temperature <ref type="bibr">4,</ref><ref type="bibr">9,</ref><ref type="bibr" target="#b18">10</ref> . Polytype formation and the presence of other intermediate non-photoactive phases can readily occur, which undermines its photovoltaic performance. Several approaches have been developed to promote the formation of black-phase FAPbI 3 at room temperature, such as adduct formation with PbI 2 and solvent engineering using ionic liquids <ref type="bibr" target="#b19">11,</ref><ref type="bibr" target="#b20">12</ref> .</p><p>Unfortunately, the fast crystallization kinetics of FAPbI 3 perovskites precludes in-depth investigations of its film-formation processes <ref type="bibr">5,</ref><ref type="bibr">6</ref> . The microscale mechanism of its phase evolution during crystallization has yet to be unambiguously defined <ref type="bibr" target="#b21">13,</ref><ref type="bibr" target="#b22">14</ref> . This lack of information has hampered the development of more-rational and targeted design of film-processing methods for efficient FAPbI 3 perovskite absorbers, especially for different film-processing scenarios, such as one-step and two-step film-deposition protocols and small-and large-area devices <ref type="bibr" target="#b23">[15]</ref><ref type="bibr" target="#b24">[16]</ref><ref type="bibr" target="#b25">[17]</ref><ref type="bibr" target="#b26">[18]</ref> . A strategy to promote the formation of black-phase FAPbI 3 in one processing scenario usually fails when applied to other situations. In this study we observed an oriented nucleation mechanism that originated from the reduced surface energy of a specific crystallographic plane, and this enabled us to avoid the yellow phase of FAPbI 3 and governed the formation of black-phase FAPbI 3 . We verified the mechanism for different film-deposition methods and found it could be applied to improve the performance of both small-area devices and solar modules.</p><p>In a two-step deposition protocol for perovskite films, in which the PbI 2 and organo-halide precursors were deposited sequentially, intermediate non-photoactive phases were always observed at room temperature. The X-ray diffraction (XRD) patterns of the deposited perovskite film at room temperature showed diffraction peaks corresponding to the (100) planes of the black phase, accompanied by diffraction peaks of the the hexagonal perovskite polytype 2H and 6H intermediate phases (Fig. <ref type="figure" target="#fig_2">1a</ref>). When pentanamidine hydrochloride (PAD) was incorporated in the precursor of the organic cations, the intermediate phases were eliminated. Density-functional theory calculations and Fourier transform infrared (FTIR) spectroscopy were used to investigate how PAD interacts with the Pb-I framework. As modelled in Fig. <ref type="figure" target="#fig_2">1b</ref>, the positively charged amidinium head of PAD was able to anchor into the octahedral cavity of the black-phase perovskite by means of electrostatic and hydrogen-bonding interactions. Peak shifts of the C=N and N-H vibration could be seen in the FTIR spectra of PAD after mixing with PbI 2 , confirming the strong interaction between PAD and the Pb-I framework through the amidinium unit (Extended Data Fig. <ref type="figure" target="#fig_1">1</ref>). This interaction exposed the hydrophobic alkyl chain of PAD such that it was stacked in an ordered manner on the black-phase perovskite (100) plane. As a result, compared with the other planes, the surface energy of the perovskite (100) plane was decreased the most (it fell by 64% from 3.16 to 1.14 eV) when the plane was terminated by PAD (see Supplementary Note 1 for details of the calculation and the variations in surface energy of different crystallographic planes). The and Westlake Institute for Advanced Study, Westlake University, Hangzhou, China. <ref type="bibr">3</ref> Institute of Chemical Sciences and Engineering, École Polytechnique Fédérale de Lausanne, EPFL VALAIS, Sion, Switzerland. <ref type="bibr">4</ref> Beijing Key Laboratory of Novel Thin-Film Solar Cells, North China Electric Power University, Beijing, China. <ref type="bibr">5</ref> Department of Materials Science and Engineering and California NanoSystems Institute, University of California Los Angeles, Los Angeles, CA, USA. <ref type="bibr">6</ref> Molecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. <ref type="bibr">7</ref> Department of Physics, Marmara University, Istanbul, Turkey. <ref type="bibr">8</ref> Laboratory of Advanced Materials, Department of Chemistry, Fudan University, Shanghai, China. <ref type="bibr">9</ref> Instrumentation and Service Center for Molecular Sciences, Westlake University, Hangzhou, China. <ref type="bibr" target="#b18">10</ref> Advanced Light Source, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. <ref type="bibr" target="#b19">11</ref> Research Center for Industries of the Future, Westlake University, Hangzhou, China. <ref type="bibr" target="#b20">12</ref> Division of Solar Energy Conversion and Catalysis at Westlake University, Zhejiang Baima Lake Laboratory Co., Ltd, Hangzhou, China. <ref type="bibr" target="#b21">13</ref> These authors contributed equally: Pengju Shi, Yong Ding, Bin Ding, Qiyu Xing. ✉ e-mail: jjxue@zju.edu.cn; mdkhaja.nazeeruddin@epfl.ch; yangy@ucla.edu; wangrui@westlake.edu.cn configuration of this interaction was corroborated by the formation of a two-dimensional perovskite phase, characterized by XRD of the perovskite film fabricated with PAD (Supplementary Fig. <ref type="figure" target="#fig_1">1</ref>). The reduced dimension of the perovskite phase evidenced the extremely low surface energy of the (100) plane. This thermodynamic driving force led to the preferential formation of the (100) orientation of black-phase perovskite, which determined the crystallization texture and promoted the formation of black-phase perovskite crystals. By contrast, the relatively even energy profile of the phase transformation process without PAD resulted in the coexistence of several phases and orientations (Fig. <ref type="figure" target="#fig_2">1c</ref>).</p><p>We used synchrotron-based multimodal in situ probes to analyse the crystallization of perovskites from the precursors and to verify the oriented nucleation mechanism. The details of the measurements and film-processing procedures are shown in Supplementary Note 2. In situ grazing-incidence X-ray diffraction (GIXRD) measurements revealed that the perovskite nucleated when the formamidinium iodide solution was dropped onto pre-deposited PbI 2 ; this could be seen by the emergence of the perovskite (100) diffraction peak (Fig. <ref type="figure">2a</ref>). During the spin-coating process, the peak intensity of the (100) plane gradually increased, which we describe as a nucleation stage in which the disappearance, formation and growth of the nuclei take place concurrently. The subsequent annealing step led to a rapid rise in the intensity of the (100) peak, indicating a fast crystal growth process. During the nucleation stage, the control perovskite film showed diffraction peaks corresponding to multiple intermediate phases, whereas the film using PAD featured a clean (100) diffraction pattern of black-phase perovskite. This finding indicates that incorporating PAD suppressed the formation of yellow phases from the start of the nucleation process. Notably, the control film had a faster increase in the (100) peak intensity during the nucleation stage than that with PAD, indicating that PAD led to delayed nucleation kinetics. This slower nucleation may be attributed to the strong interaction of PAD with the Pb-I framework, because the formamidinium had to compete with PAD to interact with the Pb-I, slowing down the reaction. The in situ azimuth angle mapping was extracted from the GIXRD patterns of the perovskite (100) plane during the nucleation stage (Fig. <ref type="figure">2b</ref>). The azimuth angle showed a broad distribution ranging approximately from 60° to 120°, indicating that the control sample had a fairly random crystallographic orientation. However, a sharp peak centred at the azimuth angle of 90° was observed when PAD was incorporated, and the half-peak width remained as small as around 8°. These findings verified that there is a nucleation stage with a preferred out-of-plane orientation along the (100) facet, which we described as an oriented nucleation mechanism.</p><p>We studied the proposed mechanism further by varying the length of the alkyl chain attached to the organic amidinium cation, thereby modulating the effect on the surface energy. Butylamidine hydrochloride (BAD) and propionamidine hydrochloride (PRD), which have shorter alkyl chains than PAD, were investigated. Calculations based on density-functional theory revealed an increase in the surface energy of the perovskite (100) plane as the alkyl chain became shorter (Extended Data Fig. <ref type="figure">2</ref>). The (100) plane that terminated with PRD, BAD or PAD, which featured an increasingly elongated and exposed organic tail and thus increased hydrophobicity, had a calculated surface energy of 1.57, 1.20 and 1.14 eV nm -2 , respectively. In situ GIXRD measurements revealed that both BAD and PRD suppressed the formation of intermediate photo-inactive phases during the nucleation stage (Extended Data Fig. <ref type="figure">3</ref>). However, the in situ azimuth angle mapped during the nucleation stage demonstrated different levels of oriented nucleation as the surface energy varied (Extended Data Fig. <ref type="figure" target="#fig_4">4</ref>). Because adding PAD provided the lowest surface energy of the perovskite (100) plane, it induced the most-oriented nucleation of the three additives. Despite the ability of BAD and PRD to induce more-oriented nucleation than the control sample, they resulted in broader azimuth-angle distributions than did PAD. These observations demonstrated that the oriented nucleation and the promoted formation of black-phase perovskite were governed by the surface energy of perovskite (100) plane. In situ photoluminescence measurements provided further evidence of the sluggish nucleation kinetics. The evolution of the photoluminescence spectra of the perovskite films during the nucleation stage is shown in Fig. <ref type="figure">2c</ref>. Without PAD, a photoluminescence peak at 770 nm rose rapidly, which we attribute to the photoactive perovskite phase. With PAD in the precursor solution, the photoluminescence peak appeared at 760 nm with delayed kinetics. The slight blue-shift in the photoluminescence peak could be attributed to the smaller size of the nuclei, which could either lead to compressive lattice strain or induce stronger quantum confinement (Extended Data Fig. <ref type="figure">5</ref>). This in turn provided evidence of the slower nucleation kinetics in perovskite films with PAD. Sluggish nucleation kinetics were also observed for BAD and PRD (Extended Data Fig. <ref type="figure">6</ref>), but to a lesser extent than for PAD, further confirming the important role of surface energy in regulating the crystallization. The strong interaction between the inorganic framework of the perovskite and the PAD cation lowered the surface energy of the (100) plane, leading to slower nucleation kinetics with preferred crystallographic orientation. This oriented nucleation mechanism governed the subsequent crystal growth step, which also followed the preferred orientation along the (100) facet <ref type="bibr" target="#b27">19</ref> (Supplementary Fig. <ref type="figure">2</ref>). The resulting perovskite film exhibited higher crystallinity and conductivity, as indicated by the increased intensity of the XRD patterns and by conductive atomic-force-microscopy measurements, respectively (Supplementary Figs. <ref type="figure">3</ref> and<ref type="figure" target="#fig_4">4</ref>). The film also had larger grain sizes as a result of the slower nucleation (Supplementary Fig. <ref type="figure">5</ref>). The enhanced photoluminescence intensity and prolonged photoluminescence lifetime of the PAD-based perovskite film indicated that there were fewer non-radiative recombination sites (Extended Data Fig. <ref type="figure">7</ref>).</p><p>We investigated the incorporation of PAD in a one-step deposition protocol and observed the elimination of the yellow phase. As revealed by the in situ XRD measurements, a mixture of intermediate phases appeared with the black-phase perovskite during crystallization in the absence of PAD (Fig. <ref type="figure">3a</ref>). By contrast, incorporating PAD eliminated all the intermediate phases, leading to a single diffraction feature apparent from the (100) plane of black-phase perovskite (Fig. <ref type="figure">3b</ref>). In situ photoluminescence measurements of the perovskite films with and without PAD were performed (Supplementary Note 3). The evolution profiles of the photoluminescence peak positions and photoluminescence intensity with time are shown in Fig. <ref type="figure">3c,</ref><ref type="figure">d</ref>, respectively. In the control sample, we observed a turning point (highlighted by the red dashed area in Fig. <ref type="figure">3c,</ref><ref type="figure">d</ref>) in the evolution profile of the photoluminescence peak position, which coincides with fluctuations in photoluminescence intensity. In general, changes in the photoluminescence peak position may be related to lattice or structural changes. Therefore this turning point might indicate the emergence of intermediate phases during the crystallization, in addition to the black phase. The perovskite film with PAD instead exhibited a smooth photoluminescence evolution profile for both peak position and peak intensity, further verifying the direct conversion to the black phase. The perovskite film with PAD exhibited considerably enhanced photoluminescence intensity and photoluminescence lifetime (Fig. <ref type="figure">3e,</ref><ref type="figure">f</ref>), indicative of pure black-phase perovskite with reduced non-radiative recombination sites in the film.</p><p>We subsequently evaluated the photovoltaic performance of the fabricated solar-cell devices. For the two-step deposition protocol (Extended Data Fig. <ref type="figure">8</ref>), the device made with PAD had the best power conversion efficiency (PCE), achieving 24.0%, whereas the best control device had a PCE of only 22.9%, primarily because the PAD version had an increased fill factor and open circuit voltage (Fig. <ref type="figure" target="#fig_4">4a</ref>). This was attributed to the reduced non-radiative recombination in the device with PAD, as demonstrated by the slower transient photovoltage decay (Supplementary Fig. <ref type="figure">6</ref>). The short-circuit currents of the device were marginally enhanced, reflecting the slightly faster transient photocurrent decay of the device with PAD <ref type="bibr" target="#b28">20,</ref><ref type="bibr" target="#b29">21</ref> (Supplementary Fig. <ref type="figure">7</ref>). A similar trend in device performance was observed for the one-step method (Fig. <ref type="figure" target="#fig_4">4b</ref> and Extended Data Fig. <ref type="figure">9</ref>). The device with PAD demonstrated an improved PCE of up to 25.4% (certified at 25.0%). The histogram of PCEs for 36 devices is shown in Fig. <ref type="figure" target="#fig_4">4c</ref> (the detailed parameters are shown in Supplementary Table <ref type="table" target="#tab_0">1</ref>), which confirms that the performance improvements of devices made with PAD were highly reproducible (a 5.6% improvement in average PCE from 23.7 ± 0.4% to 25.0 ± 0.4% when PAD was incorporated). We further extended the application of PAD to the fabrication of solar modules to verify its compatibility with upscaled devices. A high aperture efficiency of 21.4% (certified) was achieved for the PAD-based perovskite module with an area of 27.83 cm 2 (Fig. <ref type="figure" target="#fig_4">4d</ref>). The module showed an average PCE of 20.4%, whereas the control module had an average PCE of only 18.9%, further demonstrating the universality of the approach (Extended Data Fig. <ref type="figure" target="#fig_2">10</ref>). Our fabricated devices also demonstrated considerably improved operational stability. When tracked at the maximum power point (MPP) with constant illumination at 30 ± 3 °C, the PCE of the control device fell by 30%, whereas the device fabricated with PAD maintained 95% of its initial PCE after more than 1,000 h (Fig. <ref type="figure" target="#fig_4">4e</ref>). In an accelerated-ageing test at 65 ± 3 °C and 85 ± 5% relative humidity, the device with PAD kept more than 82% of its initial PCE after more than 500 h when held at the MPP under constant illumination, whereas the PCE of the control device decreased by around 37% (Supplementary Fig. <ref type="figure">8</ref>). This increased stability could be attributed to the higher crystallinity, reduced defect density and reduced surface energy caused by PAD <ref type="bibr">8,</ref><ref type="bibr" target="#b30">22,</ref><ref type="bibr" target="#b31">23</ref> (Supplementary Fig. <ref type="figure">9</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online content</head><p>Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at <ref type="url" target="https://doi.org/10.1038/s41586-023-06208-z">https://doi.org/10.1038/s41586-023-06208-z</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials</head><p>Solvents and chemicals used in the two-step method were obtained commercially and used without further purification. N,N-dimethylformamide (DMF; anhydrous, 99.8%), dimethyl sulfoxide (DMSO; anhydrous, at least 99.9%), chlorobenzene (anhydrous, 99.8%), isopropanol (anhydrous, 99.5%), 2-methoxyethanol (anhydrous, 99.8%), water (ACS grade), 4-tert-butylpyridine (99%), bis(trifluoromethane)sulfonimide lithium salt (Li-TFSI; 99.95% trace metal basis), PbI 2 (99.999%, perovskite grade), caesium iodide (CsI; 99.999%), silver and gold were obtained from Sigma-Aldrich. Methylammonium chloride (MACl; 99%) and formamidinium iodide (FAI) were obtained from Greatcell Solar. FK209 and Spiro-OMeTAD (99.8%) were obtained from Xi'an Polymer Light Technology. Pentanamidine hydrochloride, butylamidine hydrochloride and propionamidine hydrochloride were obtained from BLDpharm. Tin oxide (SnO 2 ) nanoparticles (15 wt% in water) were obtained from Alfa-Aesar. The materials used in the experiments of the one-step method included: lead(II) iodide (PbI 2 ; 99.99%, TCI), tin(II) chloride dihydrate (SnCl 2 •2H 2 O; 98%, Acros), tin(IV) chloride (99%, Sigma-Aldrich), hydrochloric acid (HCl; 37 wt% in water, Sigma-Aldrich), MACl (99.99%, Greatcell Solar), FAI (99.99%, Greatcell Solar), DMF (99.8%, Sigma-Aldrich), DMSO (99.9%, Sigma-Aldrich), 2-propanol (99.5%, Sigma-Aldrich), chlorobenzene (99.8%, Sigma-Aldrich), Spiro-OMeTAD (Borun), Li-TFSI (99.95%, Sigma-Aldrich), FK209 Co(III) TFSI salt (Sigma-Aldrich) and acetonitrile (ACN; 99.8%, Sigma-Aldrich).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device fabrication</head><p>Fabrication of perovskite solar cells by the two-step method. In the two-step method, perovskite solar cells were fabricated with the following structure: indium tin oxide (ITO)/SnO 2 /FA 0.95 Cs 0.05 PbI 3 / Spiro-OMeTAD/Ag (or Au). The ITO glass was precleaned in an ultrasonic bath of acetone and isopropanol and was ultraviolet light-ozone treated for 20 min before use. A thin layer (around 30 nm) of SnO 2 was spin-coated onto the ITO glass and baked at 165 °C for 35 min. SnO 2 solution was diluted in water (V SnO2 :V H2O at a ratio of 1:4) before spin-coating. After cooling to room temperature, the glass, ITO and SnO 2 substrates were transferred to a nitrogen glove box. The PbI 2 solution was prepared by dissolving 1.4 M PbI 2 and 0.07 M CsI into 1 ml DMF or DMSO (v/v 94/6). The FAI solution for the control film was prepared by dissolving 80 mg FAI and 13 mg MACl in 1 ml isopropanol. For the preparation of precursors with PAD, BAD or PRD, 2.05 mg PAD, 1.84 mg BAD or 1.63 mg PRD was added to the FAI solution in isopropanol. The solution was stirred overnight before use. To fabricate the perovskite layer, the PbI 2 solution was spin-coated on the substrate at 1,500 rpm for 40 s, and the FAI-PAD, FAI-BAD or FAI-PRD solution was then spin-coated on the PbI 2 film at 1,800 rpm for 40 s, followed by pre-annealing in the glove box at 90 °C for 1 min and annealing outside the glove box at 150 °C for 10 min with 30-40% humidity. The first-step and second-step precursors are denoted as the PbI 2 solution and the FAI solution, respectively, for simplicity, with the exact compositions described above). The Spiro-OMeTAD solution (60 mg Spiro-OMeTAD in 700 μl chlorobenzene with 25.5 μl 4-tert-butylpyridine, 15.5 μl Li-TFSI (520 mg ml -1 in ACN) and 12.5 μl FK209 (375 mg ml -1 in ACN)) was spun onto the perovskite film as a hole conductor. The devices were completed by evaporating 100 nm of either gold or silver in a vacuum chamber (base pressure, 5 × 10 -4 Pa), and the aperture area of the device is 0.1 cm 2 , designated by the shadow mask.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fabrication of perovskite solar cells by the one-step method.</head><p>The device with an architecture of fluorine-doped tin oxide (FTO) glass/compact TiO 2 layer (c-TiO 2 )/compact SnO 2 layer, (c-SnO 2 )/ Cs 0.05 MA 0.05 FA 0.9 PbI 3 (PVK)/spiro-OMeTAD (HTM)/Au structure was fabricated. The patterned FTO substrate (Asahi FTO glass, 12-13 Ω cm -2 ) was sequentially cleaned with detergent (5% Hellmanex in water), deionized water, acetone and isopropanol in an ultrasonic bath for 30 min. The FTO substrate was then further cleaned with ultraviolet light-ozone surface treatment for 15 min. The c-TiO 2 and SnO 2 layers were sequentially deposited on the clean FTO substrate by chemical bath deposition. The substrate was annealed on a hotplate at 190 °C for 60 min. The perovskite precursor solution (1.4 M) was prepared by adding 645.4 mg PbI 2 , 216.7 mg FAI, 11.1 mg methylammonium iodide and 11.8 mg CsCl into a mixture of 200 μl DMSO and 800 μl DMF. The solution was then stirred for 2 h at 60 °C before 2.09 mg PAD was dissolved into 1.0 ml of DMSO to make a stock solution (concentration around 0.52 M). After ultraviolet light-ozone treatment of the substrates for 15 min, the perovskite precursor solution was spin-coated onto the surface of the FTO/c-TiO 2 /c-SnO 2 substrate at 1,000 rpm for 10 s, accelerated to 5,000 rpm for 5 s and maintained at this speed for 20 s. This process was done in an N 2 -filled glove box. The substrate was then placed in custom-made rapid vacuum drying equipment. After pumping for 20 s, a brown, transparent perovskite film with a mirror-like surface was obtained. The fresh perovskite layer was annealed at 100 °C for 1 h and then at 150 °C for 10 min. Then 60 μl phenethylammonium iodide (PEAI) solution (5 mg ml -1 in isopropanol) was spin-coated on the perovskite film at 5,000 rpm for 30 s. A hole transport layer was deposited on the perovskite film by depositing a doped spiro-OMeTAD solution at 3,000 rpm for 30 s. The doped spiro-OMeTAD solution was prepared by dissolving 105 mg of spiro-OMeTAD and 41 μl 4-tert-butylpyridine in 1,343 μl chlorobenzene with an additional 25 μl Li-TFSI solution (517 mg ml -1 in ACN) and 19 μl cobalt-complex solution (376 mg ml -1 in ACN). Finally, a gold layer approximately 70 nm thick was evaporated on the spiro-OMeTAD layer as the back electrode, and the aperture area of the certified device is 0.06 cm 2 .</p><p>Fabrication of perovskite modules. Perovskite solar modules, with 8 subcells connected in series, were fabricated on FTO glass substrates with a size of 6.5 × 7.0 cm. The series interconnection of the module was realized by P1, P2 and P3 lines, which were patterned using a laser scribing system with a 1,064 nm laser and a power of 20 W (Trotec). The FTO substrate was pre-patterned for P1 (a width of 50 μm) by means of 60% laser power at a speed of 300 mm s -1 with a frequency of 65 kHz and a pulse width of 120 ns. The subsequent processes for the preparation of c-TiO 2 and c-SnO 2 substrates are the same as the procedures for the small-area device. The perovskite precursor deposition and fabrication procedures were similar to those of the small-size solar cells, except for the concentration of perovskite precursor. A perovskite precursor (1.2 M) was used to make the perovskite layer by spin-coating and the custom-made gas-induced pump method. The perovskite precursor was spin-coated on the c-TiO 2 and c-SnO 2 substrates, which are similar to those for the small-size devices. The perovskite films were annealed at 100 °C for 1 h and 150 °C for 10 min. After cooling to room temperature, the Spiro-OMeTAD layer was similar to those of the small-size devices. The P2 lines (a width of 150 μm) were patterned before the gold evaporation process step with an average laser power of 15% at a speed of 1,000 μm s -1 and a frequency of 65 kHz for a pulse duration of 120 ns. When a gold layer 70 nm thick was deposited, the P3 line (a width of 100 μm) was fabricated under the same scribing conditions as the P2 line. The distance between P1 and P3 was around 400 μm and the geometric fill factor was around 0.93.</p><p>For solar modules prepared by the blade-coating method (Coatmaster 510), perovskite solar modules with 9 subcells connected in series were fabricated on FTO glass substrates with a size of 6.5 × 7.0 cm. The processes for the preparation of c-TiO 2 and c-SnO 2 substrates and the fabrication of spiro-OMeTAD, as well as the gold electrode, were the same as for the gas-pump method. The perovskite precursor solution (1.2 M) was prepared by dissolving 580.9 mg PbI 2 , 185.7 mg FAI, 9.5 mg methylammonium iodide and 10.8 mg CsCl into 1.0 ml 2-methoxyethanol. The precursor solution was blade-coated onto the c-TiO 2 and c-SnO 2 substrates with a gap of 260 μm at a movement speed of 21 mm s -1 in the N 2 glovebox. The N 2 knife was operated at 30 psi during blade-coating and the as-obtained perovskite films were annealed at 100 °C for 1 h and 150 °C for 10 min. The laser scribing procedures were the same as for the gas-pump method, but the geometric fill factor was 0.91.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stability test</head><p>The photovoltaic devices to be tested for stability were fabricated as described above. They were encapsulated by a glass-glass encapsulation technology combined with an edge seal (curing sealant 3035B, ThreeBond) to seal the device under ultraviolet light (LED flood lamp, DELOLUX 20). The edge of the device was first cleared by laser. Indium was soldered on the FTO and gold electrodes on the edge of the 15 mm × 25 mm substrate. A glass coverslip with a size of 13 mm × 23 mm was placed on top of the gold layer of the device. Sealant was placed on the edges of the coverslip to seal the gap between the coverslip and device. Finally, ultraviolet light was used to induce cross-linking between the sealant and the coverslip at 25% of maximum power for 120 s in the glove box. For the stability test at ambient conditions (30 ± 3 °C), unencapsulated devices were evaluated. For the accelerated-degradation test, the encapsulated devices were kept in a thermo-hygrostat (GP/TH-150, SH Guangpin), which was set to 85 ± 5% relative humidity at 65 ± 3 °C. The performance of the devices was measured electronically using a 22-bit delta-sigma analogue-to-digital converter. A reference Si photodiode was placed in close to the devices to record the light intensity. Long-term stability tests were done at the MPP using a tracking algorithm for an illumination of 1 sun (standard illumination at 1 kW m -2 ) according to the ISOS-L-3 protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device characterization</head><p>Current density-voltage characteristics of photovoltaic cells were determined using a Keithley 2400 source measurement unit under a simulated AM1.5G spectrum with an Oriel 9600 solar simulator. Typically, small devices were measured in a reverse scan (1.20 V to 0 V with steps of 0.01 V for one-step devices and 1.25 V to 0 V with steps of 0.02 V for two-step devices). The modules were measured in a reverse scan (from 9.45 V to 0 V) at a constant scan speed of 100 mV s -1 with a step of 50 mV. For the measurement of high-efficiency devices, an antireflection film was applied to the surface of devices. All devices were measured without pre-conditioning such as light-soaking or a bias voltage. The steady-state power-conversion efficiency was calculated by measuring the stabilized photocurrent density under a constant bias voltage. External quantum efficiencies were measured using an integrated system (Enlitech) and a lock-in amplifier with a current preamplifier under the short-circuit condition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material characterization and spectroscopic investigation</head><p>Ultraviolet-light and visual-light absorption spectra of the perovskite films were obtained using a Shimadzu UV-VIS-NIR (UV3600Plus + UV2700) spectrometer equipped with an integrating sphere, in which monochromatic light was incident to the substrate side. To measure time-resolved photoluminescence, the sample was excited using a picosecond-pulse diode laser (Pico-quant LDH 450) with a roughly 70-ps pulse width and a repetition rate of 20 MHz or 10 MHz, focused on a sample with a 100× objective lens and a numerical aperture of 0.90. The photoluminescence signal was acquired through the TCSPC strobelock system. The total instrument response function for the photoluminescence decay was less than 200 ps and the temporal resolution was less than 30 ps. XRD experiments were performed using a sealed-tube Cu X-ray source, equipped with 1D LynxEye detector. The in situ experiment was performed with a high-brilliance rotational point-focused Cu X-ray source, equipped with duo detectors of a scintillation counter and LynxEye. The in situ chamber of TC DOME created a robust heating environment and measurement was initiated with a temperature increasing from room temperature to an air temperature of 450 K, followed by XRD data collection. The transient photovoltage and transient photocurrent were measured by a photo-electrochemical system. A conductive atomic-force microscope was used for environmental atomic force microscopy, and an X-ray photoelectron spectrometer was used (ThermoFisher ESCALAB Xi+). Al Kα radiation (1486.6 eV) was used as the excitation source. Transmission FTIR spectroscopy was done using an FT/IR-6100 ( Jasco). PAD was mixed with PbI 2 using a molar ratio of 1:1 for the FTIR measurements. Ultraviolet-light photoelectron spectroscopy measurements were carried out to determine the work function and the position of valence band maximum of materials. A helium discharge lamp, emitting ultraviolet-light energy at 21.2 eV, was used for excitation. All ultraviolet-light photoelectron spectroscopy measurements were made using standard procedures with a -10 V bias applied between the samples and detectors. Clean gold was used as a reference.</p><p>Grazing-incidence X-ray diffraction (GIXRD) was performed during spin coating and thermal annealing in a custom-made spin coater. The spin coater is attached to the endstation of beamline 12.3.2 at the Advanced Light Source (ALS), Lawrence Berkeley National Laboratory. This custom-made setup allows thin film fabrication from solutions including remotely triggered antisolvent dripping during the measurement in the hutch. While the film is fabricated, diffraction and PL data can be collected simultaneously. The incoming X-ray beam was at a shallow angle of 1° with a beam energy of 10 keV. A DECTRIS Pilatus 1M X-ray detector at an angle of 35° to the sample plane and a sample-to-detector distance of ~189 mm was used. Measurements were carried out on an area of 0.06 mm 2 (12 mm × 0.005 mm) with an approximate flux of ~109 photons s -1 . The spin coater setup is designed in such a way that the experiment can be performed remotely, avoiding any transfer delays between film deposition and annealing. Samples were heated using a temperature ramp of about 4.5 °C s -1 to their annealing temperature. The diffraction data was collected with a frame rate of 1.8 s -1 . The 2D diffraction images were initially analysed using custom-made software and then further analysed by using Igor Pro 8.04 software using Irena and Nika packages <ref type="bibr">24,</ref><ref type="bibr">25</ref> . </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Shi 1 , 2 , 13 ,</head><label>1213</label><figDesc>Yong Ding 3,4,13 , Bin Ding 3,13 , Qiyu Xing 5,13 , Tim Kodalle 6 , Carolin M. Sutter-Fella 6 , Ilhan Yavuz 7 , Canglang Yao 8 , Wei Fan 1,2 , Jiazhe Xu 2 , Yuan Tian 1,2 , Danyu Gu 9 , Ke Zhao 1,2 , Shaun Tan 5 , Xu Zhang 2 , Libing Yao 2 , Paul J. Dyson 3 , Jonathan L. Slack 10 , Deren Yang 1 , Jingjing Xue 1 ✉ , Mohammad Khaja Nazeeruddin 3 ✉ , Yang Yang 5 ✉ &amp; Rui Wang 2,11,12 ✉</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>1 State</head><label>1</label><figDesc>https://doi.org/10.1038/s41586-023-06208Key Laboratory of Silicon Materials and Advanced Semiconductor Materials, School of Materials Science and Engineering, Zhejiang University, Hangzhou, China.2  School of Engineering</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Direct formation of black-phase FAPbI 3 at room temperature and the driving force. a, XRD patterns of perovskite films after spin-coating the precursors at room temperature, where 2θ is the change in angle. b, Theoretical models of the perovskite (100) plane without PAD (left) and with PAD (right). c, Schematic illustration of the thermodynamic driving force and the kinetics of the oriented nucleation of perovskite films. E, change in energy; a.u., arbitrary units.</figDesc><graphic coords="39,54.13,204.05,170.66,107.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 2 |Fig. 3 | 2 )Fig. 4 |</head><label>2324</label><figDesc>Photoluminescence intensity (a.u.)</figDesc><graphic coords="40,414.93,183.63,104.66,100.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Extended Data Fig. 4 |</head><label>4</label><figDesc>Evolutions of the azimuth angles during the nucleation stage of perovskite films. Evolution of the azimuth angle during the nucleation of a, the control perovskite film and the films fabricated with b, PRd, c, BAd and d, PAd. Extended Data Fig. 5 | In-situ GIXRD monitoring of the initial nucleation stage of perovskite films. In-situ GIXRD monitoring of the initial nucleation stage of perovskite films fabricated a, with and b, without PAd. The control perovskite nuclei contained a diffraction peak at around 14°, whereas the one with PAd showed a diffraction peak at around 14.4°, indicating compressive strain within the lattice of the perovskite nuclei.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,121.20,72.00,369.51,148.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,167.08,72.00,277.85,240.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,97.95,72.00,416.10,123.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="20,139.13,78.00,333.72,237.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="23,139.23,78.00,333.50,185.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="25,141.75,72.00,327.90,197.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="26,198.00,85.80,215.45,271.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="27,159.75,85.80,291.80,416.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="28,186.00,78.00,239.70,306.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="29,122.20,72.00,367.59,258.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="46,45.47,48.96,510.00,175.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="47,45.47,48.96,510.00,203.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="48,76.55,48.96,447.84,403.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="50,45.47,48.96,510.00,220.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="51,45.47,48.96,510.00,109.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="52,105.47,48.96,390.00,163.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="53,45.47,48.96,510.00,212.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="54,146.63,48.96,307.68,408.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="55,45.47,48.96,510.00,219.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 |</head><label>1</label><figDesc>Summary of the photovoltaic parameters of the devices made by one-step method</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>PCE (%)</cell><cell></cell></row><row><cell>One step</cell><cell>FF (%)</cell><cell>Voc (V)</cell><cell>Jsc (mA/cm 2 )</cell><cell>average</cell><cell>best</cell></row><row><cell>PAd</cell><cell>82.0±1.0</cell><cell>1.15±0.01</cell><cell>26.2±0.1</cell><cell>25.0±0.4</cell><cell>25.4</cell></row><row><cell>Control</cell><cell>81.0±1.0</cell><cell>1.10±0.02</cell><cell>26.2±0.1</cell><cell>23.7±0.4</cell><cell>24.1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 |</head><label>2</label><figDesc>Summary of the photovoltaic parameters of the devices made by two-step method</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>PCE (%)</cell><cell></cell></row><row><cell>Two step</cell><cell>FF (%)</cell><cell>V oc (V)</cell><cell>J sc (mA/cm 2 )</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>average</cell><cell>best</cell></row><row><cell>PAd</cell><cell>77.0±2.4</cell><cell>1.18±0.02</cell><cell>25.1±0.8</cell><cell>23.2±0.9</cell><cell>24.0</cell></row><row><cell>Control</cell><cell>70.0±7.0</cell><cell>1.13±0.06</cell><cell>25.1±0.4</cell><cell>19.9±3.0</cell><cell>22.9</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 |</head><label>3</label><figDesc>Summary of the photovoltaic parameters of the modules</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>PCE (%)</cell><cell></cell></row><row><cell>Module</cell><cell>FF (%)</cell><cell>Voc (V)</cell><cell>Isc (mA)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>average</cell><cell>best</cell></row><row><cell>PAd</cell><cell>79.0±1.0</cell><cell>9.31±0.04</cell><cell>84.2±1.7</cell><cell>20.4±0.3</cell><cell>20.7</cell></row><row><cell>Control</cell><cell>75.0±4.0</cell><cell>9.05±0.15</cell><cell>84.0±1.5</cell><cell>18.9±1.2</cell><cell>20.1</cell></row></table></figure>
 		</body>
 		<back>
 
 			<div type="acknowledgement">
-<div><head>Acknowledgements</head><p>The authors appreciate helpful discussions with <rs type="person">S.G. Johnson</rs> and <rs type="person">M. Loncar</rs>, and acknowledge support from the <rs type="funder">NSF</rs> (<rs type="grantNumber">DMR-1120901</rs>) and <rs type="funder">AFOSR</rs> (<rs type="grantNumber">FA9550-08-1-0325</rs>), as well as <rs type="funder">NSFC</rs> Project <rs type="grantNumber">11174009</rs> and <rs type="grantNumber">973</rs> <rs type="funder">Programs of China</rs> (<rs type="grantNumber">2010CB631003</rs>, <rs type="grantNumber">2011CBA00109</rs>, <rs type="grantNumber">2012CB619402</rs>, <rs type="grantNumber">2013CB921900</rs>).</p></div>
+<div><p>Acknowledgements We thank <rs type="person">X. Miao</rs>, <rs type="person">L. Liu</rs>, <rs type="person">T. Zhou</rs> from <rs type="funder">Instrumentation and Service Center for Physical Sciences</rs>, and <rs type="person">X. Lu</rs> and <rs type="person">Z. Chen</rs> from <rs type="affiliation">Instrumentation Service Center for Molecular Sciences, Westlake University</rs> for help with characterizations and <rs type="person">S. Yuan</rs> from <rs type="affiliation">Zhejiang University</rs> for discussions about the crystallization of perovskites. J.Xue. and R.W. acknowledge a grant from the <rs type="funder">Natural Science Foundation of Zhejiang Province of China</rs> (<rs type="grantNumber">LD22E020002</rs>). J.<rs type="person">Xue</rs>. acknowledges grants from the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">62274146</rs>), the <rs type="funder">Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering</rs> (<rs type="grantNumber">2021SZ-FR006</rs>) and the <rs type="funder">Foundation for Innovative Research Groups of the National Natural Science Foundation of China</rs> (<rs type="grantNumber">61721005</rs>). R.W. acknowledges funding from <rs type="funder">Westlake University</rs>. M.K.N. and P.J.D. thank the <rs type="funder">Valais Energy Demonstrators fund</rs>. This work was also supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">62204209</rs>). We used the resources of the Advanced Light Source and the <rs type="funder">US Department of Energy Office of Science User Facility</rs> (contract <rs type="grantNumber">DE-AC02-05CH11231</rs>), beamline <rs type="grantNumber">12.3.2</rs> and the in situ spin coater. Work at the Molecular Foundry was supported by the <rs type="funder">Office of Science and Office of Basic Energy Article Sciences of the US Department of Energy</rs> (contract <rs type="grantNumber">DE-AC02-05CH11231) T.K</rs>. thanks the <rs type="funder">German Research Foundation (DFG)</rs> for funding (<rs type="grantNumber">KO6414</rs>). Computing resources used in this work were provided by the <rs type="funder">National Center for High Performance Computing of Turkey (UHeM)</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_sjzNqhS">
-					<idno type="grant-number">DMR-1120901</idno>
+				<org type="funding" xml:id="_ksKBZcG">
+					<idno type="grant-number">LD22E020002</idno>
 				</org>
-				<org type="funding" xml:id="_cPACx32">
-					<idno type="grant-number">FA9550-08-1-0325</idno>
+				<org type="funding" xml:id="_x6uKtPn">
+					<idno type="grant-number">62274146</idno>
 				</org>
-				<org type="funding" xml:id="_8fkkC4N">
-					<idno type="grant-number">11174009</idno>
+				<org type="funding" xml:id="_v5mfJM6">
+					<idno type="grant-number">2021SZ-FR006</idno>
 				</org>
-				<org type="funding" xml:id="_6ASb69g">
-					<idno type="grant-number">973</idno>
+				<org type="funding" xml:id="_HjhNfBc">
+					<idno type="grant-number">61721005</idno>
 				</org>
-				<org type="funding" xml:id="_ACRyrPZ">
-					<idno type="grant-number">2010CB631003</idno>
+				<org type="funding" xml:id="_fWavfHz">
+					<idno type="grant-number">62204209</idno>
 				</org>
-				<org type="funding" xml:id="_6Ec3AKU">
-					<idno type="grant-number">2011CBA00109</idno>
+				<org type="funding" xml:id="_U44an6P">
+					<idno type="grant-number">DE-AC02-05CH11231</idno>
 				</org>
-				<org type="funding" xml:id="_JXqmFXh">
-					<idno type="grant-number">2012CB619402</idno>
+				<org type="funding" xml:id="_xeSE68h">
+					<idno type="grant-number">12.3.2</idno>
 				</org>
-				<org type="funding" xml:id="_8Fq9RAA">
-					<idno type="grant-number">2013CB921900</idno>
+				<org type="funding" xml:id="_e8ByrzE">
+					<idno type="grant-number">DE-AC02-05CH11231) T.K</idno>
+				</org>
+				<org type="funding" xml:id="_MTxQcBj">
+					<idno type="grant-number">KO6414</idno>
 				</org>
 			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The data that support the findings of this study are available from the corresponding authors upon reasonable request.</p><p>24. Ilavsky, J. Nika: software for two-dimensional data reduction. J. Appl. Crystallogr. 45,  324-328 (2012). 25. Ilavsky, J. &amp; Jemian, P. R. Irena: tool suite for modeling and analysis of small-angle scattering. J. Appl. Crystallogr. 42, 347-353 (2009).</p></div>
+			</div>
+
 			<div type="annex">
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>J.L. designed the project. J.F., X.F.Q. and C.W.H. carried out the calculations and the modelling. J.F., X.F.Q. and J.L. wrote the paper. All authors contributed to discussions of the results.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information is available in the online version of the paper. Reprints and permission information is available online at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/reprints</ref>. Correspondence and requests for materials should be addressed to J.L.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing financial interests</head><p>The authors declare no competing financial interests.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Information</head><p>Strain-engineered artificial atom as a broad-spectrum solar energy funnel </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTARY INFORMATION</head></div>			</div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 3 Investigating perovskite nucleation and growth by in situ PL</head><p>In situ PL measurement is performed with a homebuilt platform in Nitrogen glovebox at Lawrence Berkeley National Laboratory (LBNL). A 532-nm laser diode was used as excitation source and PL emission was collected by an Ocean Optics Spectrometer (Flame) along with optical fibers, optical filters and several planoconvex lenses as described in previous work <ref type="bibr">8,</ref><ref type="bibr">9</ref> . The power density of the laser was about 100mW/cm 3 but the intensity reaching the sample could vary as the source to sample distance could differ. Integration time of each spectrum was about 100ms during the measurement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Note 4 Supplementary investigations to rule out other possible mechanisms</head><p>The role of Cl -: To investigate the role of Cl -, we used the same amount of MACl to replace the PAd-Cl. As revealed by the XRD measurement of the perovskite film after spin-coating the precursors at the room temperature, the incorporation of MACl did not eliminate the non-photoactive phases and facilitate the formation of black-phase perovskite as PAd-Cl did (Supplementary Fig. <ref type="figure">11</ref>). Therefore, we can rule out the role of Cl -in inducing this mechanism. Furthermore, we used XPS to compare the perovskite samples incorporating BAd, PAd and the control after annealing. As shown in Supplementary Fig. <ref type="figure">12</ref>, BAd, PAd and the control sample showed the same amount of Cl remaining in the as-fabricated perovskite films, which further verified that Cl -in PAd-Cl did not play any special function to induce the oriented nucleation mechanism.</p><p>Energy level: We performed the ultra-violet photoemission spectroscopy (UPS) of the perovskite films with and without PAd to investigate the energy levels of the perovskite films. Supplementary Fig. <ref type="figure">13</ref> showed the band diagram extracted from the UPS data (Supplementary Fig. <ref type="figure">14</ref>), demonstrating that perovskite with PAd showed a larger energy offset between the VBMs of the perovskite and the hole transporting layer. This energy loss could in general lead to a decrease in the open circuit voltage and thus the PCE. However, the PAd-based device showed a better photovoltaic performance than the control. We thus did not attribute the increase in the photovoltaic performance to the change in the energy level. Moreover, we studied the energy level of perovskite fabricated with BAd to further verify the mechanism. The perovskite film fabricated with BAd showed almost the same VBM as that of the control. Nevertheless, BAd-based device demonstrated better PCEs than the control (Supplementary Fig. <ref type="figure">15</ref>), which further corroborated the significant role of the oriented nucleation over the energy levels. Supplementary Fig. <ref type="figure">25 | Current-voltage (I-V</ref>) curves of the perovskite photovoltaic devices fabricated via blade-coating method with an active area of 26.38 cm 2 , demonstrating an active-area PCE of 20.8% (aperture PCE of 18.9%) for the device with PAd, and 18.6% (aperture PCE of 16.9%) for the control device.</p><p>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.</p><p>Author contributions J.Xue., R.W. and P.S. conceived the idea. P.S. did the two-step fabrication of perovskite films and devices, and performed the data analysis under the supervision of J. Xue. and R.W. Y.D. and B.D. did the one-step fabrication of the small-area perovskite devices and fabricated the modules under the supervision of M.K.N. Q.X. and S.T. did the in situ characterizations under the supervision of Y.Y. and C.M.S.-F. C.M.S.-F., J.L.S. and T.K. designed the in situ photoluminescence, the in situ multimodal diffraction monitoring system and facilitated the in situ measurements. I.Y. and C.Y. did the theoretical calculations. W.F., J.Xu., Y.T., D.G., X.Z., K.Z. and L.Y. assisted with the characterizations and device fabrication. P.J.D. and D.Y. provided discussions. J.Xue. wrote the manuscript. All the authors discussed the results and commented on the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information Supplementary information The online version contains supplementary material available at</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head></div>			</div>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
 	<analytic>
-		<title level="a" type="main">Detailed balance limit of efficiency of p-n junction solar cells</title>
-		<author>
-			<persName><forename type="first">W</forename><surname>Shockley</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Queisser</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Appl. Phys</title>
-		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="510" to="519" />
-			<date type="published" when="1961">1961</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b1">
-	<analytic>
-		<title level="a" type="main">Detailed features in the local mode overtone bands of ethane, neopentane, tetramethylbutane, and hexamethylbenzene</title>
-		<author>
-			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Henry</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><forename type="middle">R A</forename><surname>Greenlay</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Chem. Phys</title>
-		<imprint>
-			<biblScope unit="volume">72</biblScope>
-			<biblScope unit="page" from="5516" to="5524" />
-			<date type="published" when="1980">1980</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b2">
-	<analytic>
-		<title level="a" type="main">Detailed balance limit of the efficiency of tandem solar-cells</title>
-		<author>
-			<persName><forename type="first">A</forename><surname>De Vos</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Phys. D</title>
-		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="839" to="846" />
-			<date type="published" when="1980">1980</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b3">
-	<analytic>
-		<title level="a" type="main">Silicon quantum dots: a general photocatalyst for reduction, decomposition, and selective oxidation reactions</title>
-		<author>
-			<persName><forename type="first">Z</forename><surname>Kang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">H A</forename><surname>Tsang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N-B</forename><surname>Wong</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S-T</forename><surname>Lee</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Am. Chem. Soc</title>
-		<imprint>
-			<biblScope unit="volume">129</biblScope>
-			<biblScope unit="page" from="12090" to="12091" />
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b4">
-	<analytic>
-		<title level="a" type="main">Solution-processed PbS quantum dot infrared photodetectors and photovoltaics</title>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mcdonald</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nature Mater</title>
-		<imprint>
-			<biblScope unit="volume">4</biblScope>
-			<biblScope unit="page" from="138" to="142" />
-			<date type="published" when="2005">2005</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b5">
-	<analytic>
-		<title level="a" type="main">Ultra-strength materials</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Zhu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Prog. Mater. Sci</title>
-		<imprint>
-			<biblScope unit="volume">55</biblScope>
-			<biblScope unit="page" from="710" to="757" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b6">
-	<analytic>
-		<title level="a" type="main">Mechanics of ultra-strength materials</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Zhu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Ogata</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Yip</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">MRS Bull</title>
-		<imprint>
-			<biblScope unit="volume">34</biblScope>
-			<biblScope unit="page" from="167" to="172" />
-			<date type="published" when="2009">2009</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b7">
-	<analytic>
-		<title level="a" type="main">Measurement of the elastic properties and intrinsic strength of monolayer graphene</title>
-		<author>
-			<persName><forename type="first">C</forename><surname>Lee</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">X</forename><forename type="middle">D</forename><surname>Wei</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kysar</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Hone</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Science</title>
-		<imprint>
-			<biblScope unit="volume">321</biblScope>
-			<biblScope unit="page" from="385" to="388" />
-			<date type="published" when="2008">2008</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b8">
-	<analytic>
-		<title level="a" type="main">Two-dimensional atomic crystals</title>
-		<author>
-			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Novoselov</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Proc. Natl Acad. Sci. USA</title>
-		<imprint>
-			<biblScope unit="volume">102</biblScope>
-			<biblScope unit="page" from="10451" to="10453" />
-			<date type="published" when="2005">2005</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b9">
-	<analytic>
-		<title level="a" type="main">Ab initio calculation of ideal strength and phonon instability of graphene under tension</title>
-		<author>
-			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ming</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">76</biblScope>
-			<biblScope unit="page">64120</biblScope>
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b10">
-	<analytic>
-		<title level="a" type="main">Patterning of graphene</title>
-		<author>
-			<persName><forename type="first">J</forename><surname>Feng</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nanoscale</title>
-		<imprint>
-			<biblScope unit="volume">4</biblScope>
-			<biblScope unit="page" from="4883" to="4899" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b11">
-	<analytic>
-		<title level="a" type="main">Stretching and breaking of ultrathin MoS 2</title>
-		<author>
-			<persName><forename type="first">S</forename><surname>Bertolazzi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Brivio</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Kis</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">ACS Nano</title>
-		<imprint>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page" from="9703" to="9709" />
-			<date type="published" when="2011">2011</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b12">
-	<analytic>
-		<title level="a" type="main">Atomically thin MoS 2 : a new direct-gap semiconductor</title>
-		<author>
-			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Mak</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><surname>Lee</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Hone</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Shan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Heinz</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
-		<imprint>
-			<biblScope unit="volume">105</biblScope>
-			<biblScope unit="page">136805</biblScope>
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b13">
-	<analytic>
-		<title level="a" type="main">Emerging photoluminescence in monolayer MoS 2</title>
-		<author>
-			<persName><forename type="first">A</forename><surname>Splendiani</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nano Lett</title>
-		<imprint>
-			<biblScope unit="volume">10</biblScope>
-			<biblScope unit="page" from="1271" to="1275" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b14">
-	<analytic>
-		<title level="a" type="main">Valley-selective circular dichroism of monolayer molybdenum disulphide</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Cao</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nature Commun</title>
-		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="page">887</biblScope>
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b15">
-	<analytic>
-		<title level="a" type="main">Coupled spin and valley physics in monolayers of MoS 2 and other group-VI dichalcogenides</title>
-		<author>
-			<persName><forename type="first">D</forename><surname>Xiao</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G-B</forename><surname>Liu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Feng</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Yao</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
-		<imprint>
-			<biblScope unit="volume">108</biblScope>
-			<biblScope unit="page">196802</biblScope>
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b16">
-	<analytic>
-		<title level="a" type="main">The mechanics and physics of defect nucleation</title>
-		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">MRS Bull</title>
-		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="151" to="159" />
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b17">
-	<analytic>
-		<title level="a" type="main">Atomistic mechanisms governing elastic limit and incipient plasticity in crystals</title>
-		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Van Vliet</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Zhu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Yip</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Suresh</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nature</title>
-		<imprint>
-			<biblScope unit="volume">418</biblScope>
-			<biblScope unit="page" from="307" to="310" />
-			<date type="published" when="2002">2002</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b18">
-	<analytic>
-		<title level="a" type="main">Bicapped tetrahedral, trigonal prismatic, and octahedral alternatives in main and transition group sixcoordination</title>
-		<author>
-			<persName><forename type="first">R</forename><surname>Hoffmann</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Howell</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rossi</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Am. Chem. Soc</title>
-		<imprint>
-			<biblScope unit="volume">98</biblScope>
-			<biblScope unit="page" from="2484" to="2492" />
-			<date type="published" when="1976">1976</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b19">
-	<analytic>
-		<title/>
-		<author>
-			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Landau</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Lifshits</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kosevich</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Pitaevskii</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">L. P. Theory of Elasticity 3rd English edn</title>
-		<imprint>
-			<biblScope unit="volume">12</biblScope>
-			<date type="published" when="1986">1986</date>
-			<publisher>Pergamon Press</publisher>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b20">
-	<analytic>
-		<title level="a" type="main">Inhomogeneous electron gas</title>
-		<author>
-			<persName><forename type="first">P</forename><surname>Hohenberg</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">136</biblScope>
-			<biblScope unit="page" from="864" to="B871" />
-			<date type="published" when="1964">1964</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b21">
-	<analytic>
-		<title level="a" type="main">Self-consistent equations including exchange and correlation effects</title>
-		<author>
-			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Sham</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev</title>
-		<imprint>
-			<biblScope unit="volume">140</biblScope>
-			<biblScope unit="page" from="1133" to="A1138" />
-			<date type="published" when="1965">1965</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b22">
-	<analytic>
-		<title level="a" type="main">Straininduced semiconductor to metal transition in the two-dimensional honeycomb structure of MoS 2</title>
-		<author>
-			<persName><forename type="first">E</forename><surname>Scalise</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Houssa</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><surname>Pourtois</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Afanas'ev</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Stesmans</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nano Res</title>
-		<imprint>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page" from="43" to="48" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b23">
-	<analytic>
-		<title level="a" type="main">Thickness and strain effects on electronic structures of transition metal dichalcogenides: 2H-MX 2 semiconductors</title>
-		<author>
-			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Yun</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Han</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Hong</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Kim</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lee</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W;</forename><surname>M¼mo</surname></persName>
-		</author>
-		<author>
-			<persName><surname>X¼s</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Se</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">)</forename><surname>Te</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">85</biblScope>
-			<biblScope unit="page">33305</biblScope>
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b24">
-	<analytic>
-		<title level="a" type="main">New method for calculating one-particle Green&apos;s function with application to electron-gas problem</title>
-		<author>
-			<persName><forename type="first">L</forename><surname>Hedin</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev</title>
-		<imprint>
-			<biblScope unit="volume">139</biblScope>
-			<biblScope unit="page" from="796" to="A823" />
-			<date type="published" when="1965">1965</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b25">
-	<analytic>
-		<title level="a" type="main">First-principles theory of quasiparticles: calculation of band-gaps in semiconductors and insulators</title>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Hybertsen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Louie</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
-		<imprint>
-			<biblScope unit="volume">55</biblScope>
-			<biblScope unit="page" from="1418" to="1421" />
-			<date type="published" when="1985">1985</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b26">
-	<analytic>
-		<title level="a" type="main">A relativistic equation for bound-state problems</title>
-		<author>
-			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Salpeter</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Bethe</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev</title>
-		<imprint>
-			<biblScope unit="volume">84</biblScope>
-			<biblScope unit="page" from="1232" to="1242" />
-			<date type="published" when="1951">1951</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b27">
-	<analytic>
-		<title level="a" type="main">Electronic excitations: density-functional versus many-body Green&apos;s-function approaches</title>
-		<author>
-			<persName><forename type="first">G</forename><surname>Onida</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><surname>Reining</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Rubio</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Rev. Mod. Phys</title>
-		<imprint>
-			<biblScope unit="volume">74</biblScope>
-			<biblScope unit="page" from="601" to="659" />
-			<date type="published" when="2002">2002</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b28">
-	<analytic>
-		<title level="a" type="main">Large excitonic effects in monolayers of molybdenum and tungsten dichalcogenides</title>
-		<author>
-			<persName><forename type="first">A</forename><surname>Ramasubramaniam</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">86</biblScope>
-			<biblScope unit="page">115409</biblScope>
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b29">
-	<analytic>
-		<title level="a" type="main">Carbon nanostructures as an electromechanical bicontinuum</title>
-		<author>
-			<persName><forename type="first">C</forename><surname>Nisoli</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Lammert</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><surname>Mockensturm</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Crespi</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
-		<imprint>
-			<biblScope unit="volume">99</biblScope>
-			<biblScope unit="page">45501</biblScope>
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b30">
-	<analytic>
-		<title level="a" type="main">New empirical-approach for the structure and energy of covalent systems</title>
-		<author>
-			<persName><forename type="first">J</forename><surname>Tersoff</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">37</biblScope>
-			<biblScope unit="page" from="6991" to="7000" />
-			<date type="published" when="1988">1988</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b31">
-	<analytic>
-		<title level="a" type="main">Large deflection of circular membrane under concentrated force</title>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Jin</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Appl. Math. Mech. Engl</title>
-		<imprint>
-			<biblScope unit="volume">29</biblScope>
-			<biblScope unit="page" from="889" to="896" />
-			<date type="published" when="2008">2008</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b32">
-	<monogr>
-		<title level="m" type="main">Physical Properties of Crystals: Their Representation by Tensors and Matrices 20-30</title>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Nye</surname></persName>
-		</author>
-		<imprint>
-			<date type="published" when="1985">1985</date>
-			<publisher>Clarendon Press</publisher>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b33">
-	<analytic>
-		<title level="a" type="main">Long-range pair transport in graded band gap and its applications</title>
-		<author>
-			<persName><forename type="first">M</forename><surname>Shimizu</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Lumin</title>
-		<imprint>
-			<biblScope unit="volume">119</biblScope>
-			<biblScope unit="page" from="51" to="54" />
-			<date type="published" when="2006">2006</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b34">
-	<analytic>
-		<title level="a" type="main">Collision broadening of two-dimensional excitons in GaAs single quantum well</title>
-		<author>
-			<persName><forename type="first">A</forename><surname>Honold</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><surname>Schultheis</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Kuhl</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Tu</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">40</biblScope>
-			<biblScope unit="page" from="6442" to="6445" />
-			<date type="published" when="1989">1989</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b35">
-	<analytic>
-		<title level="a" type="main">Lowtemperature photocarrier dynamics in monolayer MoS 2</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Korn</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Heydrich</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Hirmer</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Schmutzler</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><surname>Schuller</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
-		<imprint>
-			<biblScope unit="volume">99</biblScope>
-			<biblScope unit="page">102109</biblScope>
-			<date type="published" when="2011">2011</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b36">
-	<analytic>
-		<title level="a" type="main">New architecture for high-efficiency polymer photovoltaic cells using solution-based titanium oxide as an optical spacer</title>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Adv. Mater</title>
-		<imprint>
-			<biblScope unit="volume">18</biblScope>
-			<biblScope unit="page" from="572" to="576" />
-			<date type="published" when="2006">2006</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b37">
-	<analytic>
-		<title level="a" type="main">Polymer solar cells</title>
-		<author>
-			<persName><forename type="first">G</forename><surname>Li</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Zhu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nature Photon</title>
-		<imprint>
-			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="153" to="161" />
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b38">
-	<analytic>
-		<title level="a" type="main">Exciton recycling in graded gap nanocrystal structures</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Franzl</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Klar</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Schietinger</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Rogach</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Feldmann</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nano Lett</title>
-		<imprint>
-			<biblScope unit="volume">4</biblScope>
-			<biblScope unit="page" from="1599" to="1603" />
-			<date type="published" when="2004">2004</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b39">
-	<analytic>
-		<title level="a" type="main">Exciton antennas and concentrators from core-shell and corrugated carbon nanotube filaments of homogeneous composition</title>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Han</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nature Mater</title>
-		<imprint>
-			<biblScope unit="volume">9</biblScope>
-			<biblScope unit="page" from="833" to="839" />
-			<date type="published" when="2010">2010</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b40">
-	<analytic>
-		<title level="a" type="main">Direct-bandgap properties and evidence for ultraviolet lasing of hexagonal boron nitride single crystal</title>
-		<author>
-			<persName><forename type="first">K</forename><surname>Watanabe</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Taniguchi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><surname>Kanda</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nature Mater</title>
-		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="page" from="404" to="409" />
-			<date type="published" when="2004">2004</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b41">
-	<analytic>
-		<title level="a" type="main">Silicon nanomembranes</title>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Lagally</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">MRS Bull</title>
-		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="57" to="63" />
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b42">
-	<analytic>
 		<title level="a" type="main">Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set</title>
 		<author>
 			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><surname>Furthmu ¨ller</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Comput. Mater. Sci</title>
 		<imprint>
 			<biblScope unit="volume">6</biblScope>
-			<biblScope unit="page" from="15" to="50" />
 			<date type="published" when="1996">1996</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
-<biblStruct xml:id="b43">
+<biblStruct xml:id="b1">
 	<analytic>
-		<title level="a" type="main">Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set</title>
+		<title level="a" type="main">Efficient iterative schemes forab initiototal-energy calculations using a plane-wave basis set</title>
 		<author>
 			<persName><forename type="first">G</forename><surname>Kresse</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">J</forename><surname>Furthmu ¨ller</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Phys. Rev. B</title>
 		<imprint>
 			<biblScope unit="volume">54</biblScope>
-			<biblScope unit="page" from="11169" to="11186" />
 			<date type="published" when="1996">1996</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
-<biblStruct xml:id="b44">
+<biblStruct xml:id="b2">
 	<analytic>
-		<title level="a" type="main">Projector augmented-wave method</title>
+		<title level="a" type="main">Restoring the density-gradient expansion for exchange in solids and surfaces</title>
 		<author>
-			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blo ¨chl</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page">136406</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthias</forename><surname>Ernzerhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Lett</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grimme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Antony</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ehrlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krieg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page">154104</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Semiempirical GGA-type density functional constructed with a longrange dispersion correction</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grimme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Chem</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1787" to="1799" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Projector augmented-wave method</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blochl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. B Condens Matter</title>
 		<imprint>
 			<biblScope unit="volume">50</biblScope>
 			<biblScope unit="page" from="17953" to="17979" />
@@ -1324,354 +374,479 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	</monogr>
 </biblStruct>
 
-<biblStruct xml:id="b45">
+<biblStruct xml:id="b7">
 	<analytic>
-		<title level="a" type="main">Generalized gradient approximation made simple</title>
+		<title level="a" type="main">Performance-limiting formation dynamics in mixed-halide perovskites</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Perdew</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Burke</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Ernzerhof</surname></persName>
+			<persName><forename type="first">T</forename><surname>Huang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
+		<title level="j">Sci. Adv</title>
 		<imprint>
-			<biblScope unit="volume">77</biblScope>
-			<biblScope unit="page" from="3865" to="3868" />
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1799</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mechanism of Additive-Assisted Room-Temperature Processing of Metal Halide Perovskite Thin Films</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abdelsamie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Mater. &amp; Inter</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="13212" to="13225" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Stabilized tilted-octahedra halide perovskites inhibit local formation of performance-limiting phases</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A S</forename><surname>Doherty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="page" from="1598" to="1605" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High-efficiency perovskite solar cells based on the black polymorph of HC(NH 2 ) 2 PbI 3</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-J</forename><surname>Seol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-N</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N.-G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4991" to="4998" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Methylammonium-free, high-performance, and stable perovskite solar cells on a planar architecture</title>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Turren-Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hagfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saliba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="449" to="453" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Surface ligand management for stable FAPbI 3 perovskite quantum dot solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1866" to="1878" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Facile fabrication of large-grain CH 3 NH 3 PbI 3-x Br x films for high-efficiency solar cells via CH 3 NH 3 Br-selective Ostwald ripening</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">12305</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Rapid hybrid perovskite film crystallization from solution</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sánchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pfeifer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Vlachopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hagfeldt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="7108" to="7131" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="982" to="988" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Surface passivation of perovskite film for efficient solar cells</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="460" to="466" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Recent advances in improving phase stability of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Qiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small Methods</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1900877</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Propylammonium chloride additive for efficient and stable FAPbI 3 perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">2102538</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Lead halide-templated crystallization of methylamine-free perovskite for efficient photovoltaic modules</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="1327" to="1332" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Stabilizing black-phase formamidinium perovskite formation at room temperature and high humidity</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="1359" to="1364" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Revealing phase evolution mechanism for stabilizing formamidiniumbased lead halide perovskites by a key intermediate phase</title>
+		<author>
+			<persName><forename type="first">Z.-A</forename><surname>Nan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2513" to="2526" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A systematic review of metal halide perovskite crystallization and film formation mechanism unveiled by in situ GIWAXS</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">2105290</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Scalable fabrication of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mater</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">18017</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Metal-halide perovskite crystallization kinetics: a review of experimental and theoretical studies</title>
+		<author>
+			<persName><forename type="first">Y.-M</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-L</forename><surname>Yip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">2100784</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Control of crystal growth toward scalable fabrication of perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-N</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N.-G</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1807047</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A strategic review on processing routes towards highly efficient perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dubey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="2406" to="2431" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The roles of oriented nucleation and oriented growth on recrystallization textures in commercial purity aluminium</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Engler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Vatne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Sci. Eng. A</title>
+		<imprint>
+			<biblScope unit="volume">205</biblScope>
+			<biblScope unit="page" from="187" to="198" />
 			<date type="published" when="1996">1996</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
-<biblStruct xml:id="b46">
+<biblStruct xml:id="b28">
 	<analytic>
-		<title level="a" type="main">Beyond the local-density approximation in calculations of ground-state electronic-properties</title>
+		<title level="a" type="main">Efficient and stable solution-processed planar perovskite solar cells via contact passivation</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Langreth</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mehl</surname></persName>
+			<persName><forename type="first">H</forename><surname>Tan</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. B</title>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="722" to="726" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Monolithic all-perovskite tandem solar cells with 24.8% efficiency exploiting comproportionation to suppress Sn(II) oxidation in precursor ink</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="864" to="873" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Solid-phase hetero epitaxial growth of α-phase formamidinium perovskite</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">5514</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Phenylalkylamine passivation of organolead halide perovskites enabling high-efficiency and air-stable photovoltaic cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
 		<imprint>
 			<biblScope unit="volume">28</biblScope>
-			<biblScope unit="page" from="1809" to="1834" />
-			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="9986" to="9992" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b47">
-	<analytic>
-		<title level="a" type="main">Density-functional exchange-energy approximation with correct asymptotic-behavior</title>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Becke</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. A</title>
-		<imprint>
-			<biblScope unit="volume">38</biblScope>
-			<biblScope unit="page" from="3098" to="3100" />
-			<date type="published" when="1988">1988</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b48">
-	<analytic>
-		<title level="a" type="main">Special points for Brillouin-zone integrations</title>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Monkhorst</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Pack</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="5188" to="5192" />
-			<date type="published" when="1976">1976</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b49">
-	<analytic>
-		<title level="a" type="main">Improved tetrahedron method for Brillouin-zone integrations</title>
-		<author>
-			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Blo ¨chl</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">O</forename><surname>Jepsen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">O</forename><forename type="middle">K</forename><surname>Andersen</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">49</biblScope>
-			<biblScope unit="page" from="16223" to="16233" />
-			<date type="published" when="1994">1994</date>
-		</imprint>
-	</monogr>
-	<note>References</note>
-</biblStruct>
-
-<biblStruct xml:id="b50">
-	<analytic>
-		<title level="a" type="main">Bicapped trigonal prismatic, and octahedral alternatives in main and transition group six-coordination</title>
-		<author>
-			<persName><forename type="first">R</forename><surname>Hoffmann</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Howell</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Rossi</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Am. Chem. Soc</title>
-		<imprint>
-			<biblScope unit="volume">98</biblScope>
-			<biblScope unit="page" from="2484" to="2492" />
-			<date type="published" when="1976">1976</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b51">
-	<analytic>
-		<title level="a" type="main">Valley-selective circular dichroism of monolayer molybdenum disulphide</title>
-		<author>
-			<persName><forename type="first">T</forename><surname>Cao</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Nature Commun</title>
-		<imprint>
-			<biblScope unit="page">3</biblScope>
-			<date type="published" when="2012">2012</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b52">
-	<analytic>
-		<title level="a" type="main">Inhomogeneous electron gas</title>
-		<author>
-			<persName><forename type="first">P</forename><surname>Hohenberg</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">136</biblScope>
-			<biblScope unit="page" from="864" to="B871" />
-			<date type="published" when="1964">1964</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b53">
-	<analytic>
-		<title level="a" type="main">Self-consistent equations including exchange and correlation effects</title>
-		<author>
-			<persName><forename type="first">W</forename><surname>Kohn</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Sham</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev</title>
-		<imprint>
-			<biblScope unit="volume">140</biblScope>
-			<biblScope unit="page" from="1133" to="A1138" />
-			<date type="published" when="1965">1965</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b54">
-	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Landau</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Lifshits</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kosevich</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Pitaevskii</surname></persName>
-		</author>
-		<imprint>
-			<date type="published" when="1986">1986</date>
-			<publisher>Pergamon Press</publisher>
-		</imprint>
-	</monogr>
-	<note>rd English edn</note>
-</biblStruct>
-
-<biblStruct xml:id="b55">
-	<analytic>
-		<title level="a" type="main">Large deflection of circular membrane under concentrated force</title>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Jin</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Appl. Math. Mech.-Engl</title>
-		<imprint>
-			<biblScope unit="volume">29</biblScope>
-			<biblScope unit="page" from="889" to="896" />
-			<date type="published" when="2008">2008</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b56">
-	<analytic>
-		<title level="a" type="main">Carbon nanostructures as an electromechanical bicontinuum</title>
-		<author>
-			<persName><forename type="first">C</forename><surname>Nisoli</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Lammert</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><surname>Mockensturm</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Crespi</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
-		<imprint>
-			<biblScope unit="volume">99</biblScope>
-			<biblScope unit="page">45501</biblScope>
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b57">
-	<analytic>
-		<title/>
-		<idno>nature.com/naturephotonics</idno>
-	</analytic>
-	<monogr>
-		<title level="j">NATURE PHOTONICS | www</title>
-		<imprint/>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b58">
-	<analytic>
-		<title level="a" type="main">New empirical-approach for the structure and energy of covalent systems</title>
-		<author>
-			<persName><forename type="first">J</forename><surname>Tersoff</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. B</title>
-		<imprint>
-			<biblScope unit="volume">37</biblScope>
-			<biblScope unit="page" from="6991" to="7000" />
-			<date type="published" when="1988">1988</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b59">
-	<analytic>
-		<title level="a" type="main">An atomistic-based finite deformation membrane for single layer crystalline films</title>
-		<author>
-			<persName><forename type="first">M</forename><surname>Arroyo</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Belytschko</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Mech. Phys. Solids</title>
-		<imprint>
-			<biblScope unit="volume">50</biblScope>
-			<biblScope unit="page" from="1941" to="1977" />
-			<date type="published" when="2002">2002</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b60">
-	<analytic>
-		<title level="a" type="main">Theory of shear banding in metallic glasses and molecular dynamics calculations</title>
-		<author>
-			<persName><forename type="first">F</forename><surname>Shimizu</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Ogata</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Li</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Mater. Trans</title>
-		<imprint>
-			<biblScope unit="volume">48</biblScope>
-			<biblScope unit="page" from="2923" to="2927" />
-			<date type="published" when="2007">2007</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b61">
-	<analytic>
-		<title level="a" type="main">Dynamics of viscoplastic deformation in amorphous solids</title>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Falk</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Langer</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Phys. Rev. E</title>
-		<imprint>
-			<biblScope unit="volume">57</biblScope>
-			<biblScope unit="page" from="7192" to="7205" />
-			<date type="published" when="1998">1998</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b62">
-	<analytic>
-		<title/>
-		<idno>nature.com/naturephotonics</idno>
-	</analytic>
-	<monogr>
-		<title level="j">NATURE PHOTONICS | www</title>
-		<imprint/>
 	</monogr>
 </biblStruct>
 

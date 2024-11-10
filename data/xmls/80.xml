@@ -6,7 +6,33 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title level="a" type="main">Supplementary information Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells</title>
+				<title level="a" type="main">Polymer-templated nucleation and crystal growth of perovskite films for solar cells with efficiency greater than 21%</title>
+				<funder ref="#_dtHfZmS">
+					<orgName type="full">SNSF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">SNF-NanoTera (SYNERGY)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">CCEM-CH</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Swiss Federal Office of Energy (SYNERGY)</orgName>
+				</funder>
+				<funder ref="#_fhcz7Pu">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">King Abdulaziz City for Science and Technology</orgName>
+					<orgName type="abbreviated">KACST</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">China Scholarship Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Swiss National Science Foundation</orgName>
+					<orgName type="abbreviated">SNSF</orgName>
+				</funder>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
@@ -16,103 +42,228 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 				<biblStruct>
 					<analytic>
 						<author>
-							<persName><forename type="first">Giles</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
+							<persName><forename type="first">Dongqin</forename><surname>Bi</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department">Department of Physics</orgName>
-								<orgName type="laboratory">Clarendon Laboratory</orgName>
-								<orgName type="institution">University of Oxford</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
 								<address>
-									<addrLine>Parks Road</addrLine>
-									<postCode>OX1 3PU</postCode>
-									<settlement>Oxford</settlement>
-									<country key="GB">UK</country>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Laboratory of Photomolecular Science</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Laboratory of Photomolecular Science</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Samuel</forename><forename type="middle">D</forename><surname>Stranks</surname></persName>
+							<persName><forename type="first">Chenyi</forename><surname>Yi</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department">Department of Physics</orgName>
-								<orgName type="laboratory">Clarendon Laboratory</orgName>
-								<orgName type="institution">University of Oxford</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
 								<address>
-									<addrLine>Parks Road</addrLine>
-									<postCode>OX1 3PU</postCode>
-									<settlement>Oxford</settlement>
-									<country key="GB">UK</country>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Christopher</forename><surname>Menelaou</surname></persName>
+							<persName><forename type="first">Jingshan</forename><surname>Luo</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department">Department of Physics</orgName>
-								<orgName type="laboratory">Clarendon Laboratory</orgName>
-								<orgName type="institution">University of Oxford</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
 								<address>
-									<addrLine>Parks Road</addrLine>
-									<postCode>OX1 3PU</postCode>
-									<settlement>Oxford</settlement>
-									<country key="GB">UK</country>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Michael</forename><forename type="middle">B</forename><surname>Johnston</surname></persName>
+							<persName><forename type="first">Jean-David</forename><surname>Décoppet</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department">Department of Physics</orgName>
-								<orgName type="laboratory">Clarendon Laboratory</orgName>
-								<orgName type="institution">University of Oxford</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
 								<address>
-									<addrLine>Parks Road</addrLine>
-									<postCode>OX1 3PU</postCode>
-									<settlement>Oxford</settlement>
-									<country key="GB">UK</country>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Laura</forename><forename type="middle">M</forename><surname>Herz</surname></persName>
+							<persName><forename type="first">Fei</forename><surname>Zhang</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department">Department of Physics</orgName>
-								<orgName type="laboratory">Clarendon Laboratory</orgName>
-								<orgName type="institution">University of Oxford</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
 								<address>
-									<addrLine>Parks Road</addrLine>
-									<postCode>OX1 3PU</postCode>
-									<settlement>Oxford</settlement>
-									<country key="GB">UK</country>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Henry</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+							<persName><forename type="first">Shaik</forename><forename type="middle">Mohammed</forename><surname>Zakeeruddin</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department">Department of Physics</orgName>
-								<orgName type="laboratory">Clarendon Laboratory</orgName>
-								<orgName type="institution">University of Oxford</orgName>
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
 								<address>
-									<addrLine>Parks Road</addrLine>
-									<postCode>OX1 3PU</postCode>
-									<settlement>Oxford</settlement>
-									<country key="GB">UK</country>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
 								</address>
 							</affiliation>
 						</author>
-						<title level="a" type="main">Supplementary information Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells</title>
+						<author>
+							<persName><forename type="first">Xiong</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anders</forename><surname>Hagfeldt</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Laboratory of Photomolecular Science</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Laboratory of Photomolecular Science</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Michael</forename><surname>Grätzel</surname></persName>
+							<email>michael.graetzel@epfl.ch</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">Ecole polytechnique fédérale de Lausanne</orgName>
+								<address>
+									<postCode>CH-1015</postCode>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Polymer-templated nucleation and crystal growth of perovskite films for solar cells with efficiency greater than 21%</title>
 					</analytic>
 					<monogr>
 						<imprint>
 							<date/>
 						</imprint>
 					</monogr>
-					<idno type="MD5">A23EA4A5E9F7FEF6C8F19A7C971B792F</idno>
+					<idno type="MD5">836D45B8EF71FD5ADAD77CC7C1248538</idno>
+					<idno type="DOI">10.1038/NENERGY.2016.142</idno>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:44+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -124,265 +275,503 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Methods and Materials</head><p>Materials. Unless otherwise stated, all materials were purchased from Sigma-Aldrich or Alfa Aesar and used as received. Spiro-OMeTAD was purchased from Borun Chemicals.</p><p>Perovskite precursor synthesis: Formamidinium iodide (FAI) and formamidinium bromide (FABr) were synthesised by dissolving formamidinium acetate powder in a 2x molar excess of 57%w/w hydroiodic acid (for FAI) or 48%w/w hydrobromic acid (for FABr). After addition of acid the solution was left stirring for 10 minutes at 50 o C. Upon drying at 100 o C, a yellow-white powder is formed. This was then washed with diethyl ether and recrystallized twice with ethanol, to form white needle-like crystals. Before use, it was dried overnight in a vacuum oven.</p><p>To form FAPbI 3 and FAPbBr 3 precursor solutions, FAI and PbI 2 or FABr and PbBr 2 were dissolved in anhydrous N,N-dimethylformamide (DMF) in a 1:1 molar ratio, at 0.88M of each reagent, to give a 0.88M perovskite precursor solution. To form the FAPbI 3y Br 3(1-y) perovskite precursors, mixtures were made of the FAPbI 3 and FAPbBr 3 solutions in the required ratios. CsPbI 3 precursor was prepared by dissolving equimolar amounts of CsI and PbI 2 in dimethyl sulfoxide at 0.6M, in a nitrogen-filled glovebox. Films were spin-coated at 2000rpm and annealed at 100 o C for 5 minutes in the glovebox. MAPbI 3 precursor was prepared by dissolving equimolar amounts of methylammonium iodide (synthesised according to a literature procedure) <ref type="bibr" target="#b0">1</ref> and PbI 2 in DMF at 0.88M, in a nitrogen-filled glovebox. Films were spin-coated at 2000rpm and annealed at 100 o C for 5 minutes in the glovebox.</p><p>Film formation: For uniform and continuous film formation of FAPbI 3 , just before spin-coating, 60µl of hydroiodic acid (57%w/w) was added to 1ml of the 0.88M precursor solution. To form films for optical characterisation and device fabrication, the FAPbI 3 precursor was diluted down to 0.55M with DMF.</p><p>For the FAPbI 3y Br 3(1-y) samples for optical measurements, precursors were used as is, and spin-coated and annealed on glass in a nitrogen-filled glovebox at 170 o C for 25 minutes.</p><p>For the time-resolved photoluminescence samples of FAPbI 3 , the 0.55M precursor with added HI was spincoated on clean glass substrates in a nitrogen-filled glovebox at 2000rpm. The films were then annealed in air at 170 o C for 10 minutes. This gave very uniform layers ~400 nm thick of FAPbI 3 . For the non-quenching sample, 10mg/ml PMMA in chlorobenzene was spin-coated on top of the perovskite at 1000rpm. For the quenching samples, 30mg/ml PCBM and 50mg/ml Spiro-OMeTAD were spin-coated on top of the perovskite at 1000rpm and 2000rpm respectively. Substrate Preparation: Devices were fabricated on fluorine-doped tin oxide (FTO) coated glass (Pilkington, 7Ω □ -1 ). Initially FTO was removed from regions under the anode contact by etching the FTO with 2M HCl and zinc powder. Substrates were then cleaned sequentially in hallmanex detergent, acetone, propan-2-ol and oxygen plasma. A ~50nm hole-blocking layer of compact TiO 2 was deposited by spin-coating a mildly acidic solution of titanium isopropoxide in ethanol (350ul in 5ml ethanol with 0.013M HCl) at 2000rpm, and annealed at 500°C for 30 minutes.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perovskite Solar Cell Fabrication:</head><p>To form the FAPbI 3 layer, the 0.55M precursor with added HI was spincoated in a nitrogen-filled glovebox at 2000rpm, on a substrate heated to 85 o C. The films were then annealed in air at 170 o C for 10 minutes. This gave a very uniform layer ~400nm thick of FAPbI 3 .</p><p>For FAPbI 3y Br 3(1-y) devices, these were fabricated in the same way, by diluting precursor solutions down to 0.55M and adding a mixture of HI and HBr in the required ratio to maintain the correct iodide/bromide fraction.</p><p>The hole-transporting layer was then deposited via spin-coating a 0.788M solution in chlorobenzene of 2,2',7,7'-tetrakis-(N,N-di-p-methoxyphenylamine)9,9'-spirobifluorene (spiro-OMeTAD), with additives of 0.0184 lithium bis(trifluoromethanesulfonyl)imide (added in 0.61M acetonitrile solution) and 0.0659M 4tert-butylpyridine. Spin-coating was carried out in air at 2000rpm. Gold electrodes were thermally evaporated under vacuum of ~10 <ref type="bibr">-6</ref> Torr, at a rate of ~0.1nm/s, to complete the devices.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device characterisation:</head><p>The current density-voltage (J-V) curves were measured (2400 Series SourceMeter, Keithley Instruments) under simulated AM 1.5 sunlight at 100 mWcm -2 irradiance generated by an Abet Class AAB sun 2000 simulator, with the intensity calibrated with an NREL calibrated KG5 filtered Si reference cell. The mismatch factor was calculated to be 1.2% between 400 and 1100nm. <ref type="bibr" target="#b1">2</ref> The solar cells were masked with a metal aperture to define the active area, typically 0.0625cm -2 and measured in a lighttight sample holder to minimize any edge effects.</p><p>External Quantum Efficiency measurements: External quantum efficiency was measured via fouriertransform photocurrent spectroscopy, a fast and sensitive spectral characterization method. <ref type="bibr" target="#b2">3</ref> This was carried out using the modulated beam of a Bruker Vertex 80v Fourier Transform Interferometer with tungsten lamp source and a Stanford Research SR570 current preamplifier. Samples were calibrated to a Newport-calibratedreference silicon solar cell with a known external quantum efficiency. The solar cells were masked with a metal aperture to define the active area, typically 0.0625cm -2 .</p><p>Optical measurements: Transmittance and reflectance spectra were collected with a Varian Cary 300 UV-Vis spectrophotometer with an internally coupled integrating sphere. Materials Characterization: A Hitachi S-4300 field emission scanning electron microscope was used to acquire SEM images. Sample thicknesses were measured using a Veeco Dektak 150 surface profileometer. X-ray diffraction spectra were obtained from full devices with no evaporated electrodes, using a Panalytical X'Pert Pro x-ray diffractometer.</p><p>Photoluminescence measurements: Steady-state and time-resolved PL measurements were acquired using a time-correlated single photon counting (TCSPC) setup (FluoTime 300, PicoQuant GmbH). Film samples were photoexcited using a 507nm laser head (LDH-P-C-510, PicoQuant GmbH) pulsed at frequencies between 0.3-10MHz, with a pulse duration of 117ps and fluence of ~30nJ/cm 2 . The PL was collected using a high resolution monochromator and hybrid photomultiplier detector assembly (PMA Hybrid 40, PicoQuant GmbH).</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diffusion modeling:</head><p>The PL decay dynamics were modeled by calculating the number and distribution of excitations in the film n(x,t) according to the 1-D diffusion equation,</p><formula xml:id="formula_0">( ) ( ) ( ) ( ) (S1),</formula><p>where D is the diffusion coefficient and k(t) is the PL decay rate in the absence of any quencher material. <ref type="bibr" target="#b3">4</ref> The total decay rate, k = 1/k f + 1/k nr = βτ -β t β-1 , was determined by fitting a stretched exponential decay to the PL data measured from perovskite layers with PMMA and assumed independent of the capping material. The effect of the quenching layer was included by assuming that all excitons which reach the interface are quenched with unit efficiency (n(L,t)=0, where x=0 at the glass/perovskite interface and L is the perovskite film thickness). As the excitation pulse was from the glass substrate side of the samples, the initial distribution of excitons was taken to be n(x,0)=n 0 exp(-αx), where α=A/L (absorbance at 507 nm / perovskite layer thickness). Any deviation from this distribution due to reflection of the laser pulse at the perovskite/quencher interface was assumed to be negligible. In order to calculate the diffusion length L D , the diffusion coefficient was varied to minimize the reduced chi-squared value,</p><formula xml:id="formula_1">( ) ∑ ( ( ) ( )) ( ) (S2),</formula><p>where y(t) and y c (t) are the measured and calculated PL intensities at time t, n is the number of data points and p is the number of fitting parameters. <ref type="bibr" target="#b4">5</ref> The equation was solved numerically using the Crank-Nicholson algorithm and the number of excitons integrated across the entire film in order to determine the total PL intensity at time t. Both the stretched exponential and 1-D diffusion models were fit to the experimental TCSPC data by iterative reconvolution with the instrument response function (IRF) which was recorded separately, such that the observed PL intensity,</p><formula xml:id="formula_2">( ) ∫ ( ) ( ) (S3),</formula><p>is the result of the real decay curve,f(t), convolved with the IRF, g(t). <ref type="bibr" target="#b4">5</ref> The diffusion length L D is given by √ , where  = 1/k is the recombination lifetime in the absence of a quencher. The errors reported in the text account for errors in the fitting procedure and in sample thickness. The latter is approximated to be ±25nm.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Perovskite Tolerance Factor</head><p>The tolerance factor for a particular perovskite has been defined as: 6</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>√ ( )</head><p>Where r A , r B , and r X are the ionic radii of the A, B, and X components of the perovskite lattice. t = 1 would correspond to a perfectly packed structure, and it can be varied only in a restricted range. For most perovskites it has been stated to be between 0.8 and 0.9. <ref type="bibr" target="#b5">6</ref> This then sets limits on the feasibility of particular A cation replacements, based on their ionic radius, whilst keeping the same B and X components in the lattice. </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">X-ray diffraction spectra for</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Pseudocubic lattice parameter calculation</head><p>Because the tetragonal phase is transitioned to from the cubic phase by a slight rotation of the adjacent PbX 6 octahedra, whilst maintaining corner-sharing, as shown in Fig. <ref type="figure" target="#fig_1">S2</ref>, we can define the tetragonal phase by a pseudocubic phase, where the (100) spacing in the pseudocubic system replaces the (110) tetragonal spacing, as previously described in the litreature. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> The pseudocubic lattice parameters are then determined from lattice parameters a and c by: √ ; For a cubic lattice, a* and c* should be identical, so for the most accurate representation, we averaged between a* and c* determined in this way to get a single pseudocubic lattice parameter. </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Tauc plot bandgap calculation</head><p>Bandgap was determined by plotting (αhν) 2 against energy in eV, known as a Tauc plot. <ref type="bibr" target="#b8">9</ref> This assumes the compounds have a direct bandgap. The estimated bandgap is determined from the extrapolation of the linear region to the energy-axis intercept. Absorption coefficient α was determined from absorption spectra collected with an integrating sphere. An example absorption spectrum and Tauc plot are shown below.     </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FAPbI y Br 3</head><label>3</label><figDesc>Fig. S1: X-ray diffraction spectra for the whole range of FAPbI y Br 3-y formed, on fluorine-doped tin oxide-coated glass substrates. Peaks labelled with a * are assigned to the fluorine-doped tin oxide substrate.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. S2 :</head><label>S2</label><figDesc>Fig. S2: Cubic (left) and tetragonal (right) lattices formed by the FAPbI y Br 3-y perovskites. The unit cell is shown in black. The pseudocubic lattice in the tetragonal configuration is shown in blue. Red = A cation, yellow = halide, grey tetrahedra are centred on the metal cation.</figDesc><graphic coords="7,292.90,267.47,192.60,208.79" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. S3 :Fig. S3 :7Fig. S4 :Fig. S5 :</head><label>S3S3S4S5</label><figDesc>Fig. S3: top, absorbance spectrum of a FAPbI y Br 3-y perovskite (where y=0.3). bottom, Tauc plot assuming direct bandgap, showing determination of estimated bandgap from intercept.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. S6 :</head><label>S6</label><figDesc>Fig. S6: Histogram representation of the solar cell characteristics for the same batch of optimised devices.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Fig. S7: Thermal degradation of MAPbI3 and FAPbI3, when bare spin-coated films of each perovskite are heated in air at 150 o C for the times indicated.The yellow colour that the MAPbI 3 degrades to is lead iodide (verified by XRD, not shown).</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. S8 :</head><label>S8</label><figDesc>Fig. S8: Films of MAPbI 3 (left)and FAPbI 3 (right) upon to a close to 100% relative humidity atmosphere for ~15 minutes at room temperature. The atmosphere was created by pouring water onto a tissue in a sealed glass container with the films. Degradation is evident at an approximately equal rate in both films.</figDesc><graphic coords="12,196.20,507.54,202.88,109.30" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Statistics for whole batch of optimised FAPbI 3 solar cells</head><label></label><figDesc></figDesc><table><row><cell cols="3">Electronic Supplementary Material (ESI) for Energy &amp; Environmental Science</cell><cell></cell><cell></cell></row><row><cell cols="2">This journal is © The Royal Society of Chemistry 2014</cell><cell></cell><cell></cell><cell></cell></row><row><cell>8. No. cells</cell><cell>J sc (mAcm -2 )</cell><cell>V oc (V)</cell><cell>FF</cell><cell>PCE (%)</cell></row><row><cell>24</cell><cell>18.8±3.3</cell><cell>0.85±0.08</cell><cell>0.60±0.09</cell><cell>9.7±2.6</cell></row></table></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table ST1 :</head><label>ST1</label><figDesc>Device statistics from a batch of 24 individual devices prepared using the optimised fabrication procedure, extracted from current-voltage characteristics measured under 100mWcm -2 AM1.5 illumination. Errors are calculated from the standard deviation in the batch.</figDesc><table /></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_0"><p>Electronic Supplementary Material (ESI) for Energy &amp; Environmental ScienceThis journal is © The Royal Society of Chemistry 2014</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>O magnitude faster than the homogeneous nucleation due to the lowering of the nucleation free energy barrier <ref type="bibr" target="#b15">16</ref> . On the other hand, PMMA slows down the perovskite crystal growth by forming an intermediate adduct with PbI 2 to allow the randomly formed nuclei to adjust their orientation to minimize the total Gibbs free energy and grow in the thermodynamically preferred orientation <ref type="bibr" target="#b16">17</ref> . The cooperation of these two effects results in smooth perovskite films with fewer defects and larger oriented grains, enabling us to fabricate perovskite solar cells with a PCE over 21%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Polymer-templated nucleation and crystal growth</head><p>Although PMMA has been widely used as a moisture protection barrier on top of the back contact of PSCs or mixed with carbon nanotubes to form the hole collection layer <ref type="bibr" target="#b17">18</ref> , it has so far not been employed to affect the formation of the perovskite itself during solution processing. We produce the mixed cation perovskite films in a single step from a solution of formamidinium iodide (FAI), PbI 2 , methylammonium bromide (MABr) and PbBr 2 in a mixed solvent of dimethyl formamide (DMF), dimethyl sulfoxide (DMSO) and N -methyl-2-pyrrolidone (NMP) <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b18">19</ref> . During the spin-coating of the perovskite solution, we introduce PMMA in a chlorobenzene/toluene mixture to template crystal formation and growth of the perovskite. The PMMA serves as a support to induce nucleation of small perovskite crystals and directs the ensuing growth of these crystals. By using this technique for film deposition we fabricate perovskite solar cells with the structure Au/ Spiro-OMeTAD[2,2,7,7-tetrakis(N,N -di-p-methoxyphenyl-amine) 9,9-spirobifluorene]/perovskite/mesoporous TiO 2 /compact TiO 2 / fluorine-doped tin oxide (FTO), the cross-sectional scanning electron microscopy (SEM) image of which is shown in Fig. <ref type="figure" target="#fig_0">1a</ref>. Employing this solar cell configuration, we achieve the best PCE of 21.6% with a PMMA concentration C PMMA = 0.6 mg ml -1 . The photovoltaic metrics of the device are as follows: short- circuit current density (J SC ) = 23.7 mA cm -2 , open-circuit voltage (V OC ) = 1.14 V, and fill factor (FF) = 0.78 (Fig. <ref type="figure" target="#fig_0">1b</ref>). One of the devices was sent for certification to Newport Corporation Technology and Application Center PV Lab, an accredited PV testing laboratory, confirming a PCE of 21.02% (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>). The commonly observed hysteresis <ref type="bibr" target="#b19">20</ref> is virtually negligible in our devices, as confirmed by J-V curves shown in Fig. <ref type="figure" target="#fig_0">1b</ref>. A histogram of two batches of cells (Supplementary Fig. <ref type="figure" target="#fig_1">2</ref> and Table <ref type="table">1</ref>) indicates excellent reproducibility with an average PCE of 21.0%. Preliminary stability investigations show that the unsealed devices containing PMMA are stable, showing only a 3.3% decay in PCE during exposure to ambient air for two months in the dark (Supplementary Fig. <ref type="figure" target="#fig_2">3</ref> and Tables <ref type="table">2</ref> and<ref type="table">3</ref>). The photovoltaic metrics of the PSCs fabricated from the PTNG method varying C PMMA are summarized in Fig. <ref type="figure" target="#fig_0">1c</ref>. Upon increasing the PMMA concentrations (C PMMA , mg ml -1 ) in mixed chlorobenzene and toluene (volume ratio of chlorobenzene and toluene is 9:1) solution, the PCE first augments and subsequently decreases with a peak at C PMMA = 0.6. Upon increasing the C PMMA from 0 to 0.6 mg ml -1 , the V oc rises from 1.10 V to 1.14 V, and the FF from 0.74 to 0.78. Figure <ref type="figure" target="#fig_1">2</ref> shows the SEM images of perovskite films deposited on m-TiO 2 /bi-TiO 2 /FTO substrate by varying C PMMA . As illustrated in Fig. <ref type="figure" target="#fig_1">2a</ref>, the morphology of the pre-perovskite intermediates <ref type="bibr" target="#b20">21</ref> present before annealing changes from a mixture of randomly distributed nanoparticles into homogeneous nanorods. Figure <ref type="figure" target="#fig_1">2b</ref> and<ref type="figure">c</ref> show the perovskite film after annealing, indicating that the grain size of the perovskite film produced by the PTNG method increases with C PMMA and most of the grain boundaries become perpendicular to the substrate, benefiting a reduction in the surface area of the grain boundaries. Hence, the PMMA is expected to uniformly trigger heterogeneous nucleation over the perovskite precursor film, improving the grain size and facilitating the perovskite to grow in a preferred direction, with reflection of the facet with (111) indices being dominant because of the low symmetry of the trigonal perovskite (p3m1) phase, as indicated in the X-ray diffraction (XRD) pattern in Fig. <ref type="figure" target="#fig_2">3a</ref>. Whereas numerous grain boundaries exist in cross-sectional SEM of the reference film, no obvious boundary exists in the PTNG-treated film. On the other hand, for C PMMA &gt; 0.6 mg ml -1 , new species appeared on the surface of the perovskite grains, which we attribute to PMMA particles, as the brighter signal indicates charge accumulation resulting from poor conductivity. This phenomenon accounts for the deterioration of the PV metrics when C PMMA exceeds 0.6 mg ml -1 PMMA because the excess of PMMA will impair charge carrier collection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material characterization</head><p>To further examine the crystal structure, we conducted thin-layer XRD measurements for perovskite films deposited on mp-TiO 2 /bl-TiO 2 /FTO substrates (Fig. <ref type="figure" target="#fig_2">3a</ref>). The peak at 12.5 • arises from the (001) lattice planes of hexagonal (2H polytype) PbI 2 . The excess PbI 2 is believed to passivate surface defects, increasing the solar cell performance <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b21">22</ref> . All the samples show the same trigonal perovskite phase with the dominant (111) lattice reflection. We speculate the (111) plane to exhibit the smallest surface energy because the majority of grains exhibit this orientation to minimize the total Gibbs free energy of the system. With increasing C PMMA , the (111)-oriented grains grew faster by consuming neighbouring nonoriented crystals, either by regular grain growth or grain attachment, as evidenced by the increased ratio between the (111) and (123) peak at 13.9 • and 31.5 • in the presence of PMMA. By taking the full-width at half-maximum (FWHM) of the (111) reflection, we calculate the crystallite size using Scherrer's equation. Their dimension increases from 41 to 55, 70, 94 and 112 nm on increasing C PMMA from 0 to 4 mg ml -1 . We attribute the larger crystal sizes to the templating effect of PMMA on the crystal growth. The carbonyl groups in PMMA form an intermediate adduct with PbI 2 , as revealed by the Fourier transform infrared spectroscopy (FTIR) spectra in Fig. <ref type="figure" target="#fig_2">3b</ref>. The stretching vibration of C=O bond in pure PMMA appears at 1,735 cm -1 , while it shifts to 1,723 cm -1 upon interaction with PbI 2 .</p><p>The shift of the C=O vibration in PMMA to lower wavenumber upon interaction with PbI 2 is indicative of the formation of an intermediate PMMA-PbI 2 adduct, since it is a consequence of a weakened C=O bond strength caused by interaction with the Lewis acid PbI 2 . The formation of such an adduct 7 is expected to retard the crystal growth and improve the crystallinity of the perovskite film.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Time-resolved photoluminescence decay</head><p>To analyse the dynamics of recombination, we performed time-resolved photoluminescence (TRPL) decay measurements (Supplementary Figs <ref type="figure">4</ref> and<ref type="figure">5</ref>). The PL decays for perovskite films with C PMMA = 0 and 0.6 mg ml -1 deposited on a m-TiO 2 /c-TiO 2 / FTO substrate are shown in Fig. <ref type="figure" target="#fig_2">3c</ref>, revealing a much faster PL decay for the reference than the PMMA-treated film. The PL decay curves were fitted to a bi-exponential rate law:</p><formula xml:id="formula_0">Y = A 1 exp(-t/τ 1 ) + A 2 exp(-t/τ 2 ) + y 0 (1)</formula><p>where A 1 and A 2 are the relative amplitudes and τ 1 and τ 2 are the lifetimes for the fast and slow recombination, respectively <ref type="bibr" target="#b22">23</ref> . The decay is attributed mainly to trap-assisted recombination at defects. The film with the PMMA treatment exhibits fast and slow phase lifetimes of τ 1 = 23.9 ns (fraction A 1 = 0.37) and τ 2 = 259.3 ns (fraction A 2 = 0.63), respectively. In contrast, the sample without the PMMA treatment gives τ 1 = 18.7 ns (fraction A 1 = 0.66) and τ 2 = 123.6 ns (fraction A 2 = 0.34), respectively. This indicates a lower defect concentration and hence superior electronic quality for the PMMA-containing perovskite polycrystalline film, consistent with the higher V oc of the corresponding PSC <ref type="bibr" target="#b12">13</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>X-ray photoelectron spectroscopy</head><p>The X-ray photoelectron spectroscopy (XPS) in Fig. <ref type="figure" target="#fig_2">3d</ref> shows Pb 4f spectra. There are two main peaks Pb 4f 7/2 and Pb 4f5/2 at 138.0 and 142.8 eV, respectively. We attribute the two small peaks located at 136.4 and 141.3 eV to the presence of metallic Pb (ref. 24). The presence of a substantial amount of atomic Pb is an indication of the existence of iodide vacancies in the perovskite lattice of the control sample. The metallic lead species in the film are likely to act as non-radiative recombination centres which impair solar cell operation. Thus, elimination of the metallic lead content is critical to realize perovskite films of better electronic quality <ref type="bibr" target="#b22">23</ref> . Interestingly, the atomic Pb peak is greatly reduced in the PMMA-treated films, probably due to a lower level of iodide vacancies in the crystal lattice of the PMMA-treated films. A lower level of Pb defects can reduce the non-radiative recombination and increase the PL lifetime, in line with the TRPL results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In conclusion, we introduce a method for preparing perovskite films of high electronic quality and implement it for the fabrication of PSC with an excellent performance and certified PCE attaining 21%. Future development of the method will enable further performance gains.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Solar cell preparation.</head><p>A 30 nm TiO 2 blocking layer was deposited on the pre-cleaned FTO (NSG) by spray pyrolysis using O 2 as the carrying gas at 450 • C from a precursor solution of 0.6 ml titanium diisopropoxide and 0.4 ml bis(acetylacetonate) in 7 ml anhydrous isopropanol. A 150 nm mesoporous TiO 2 layer was coated on the substrate by spin-coating at a speed of 4,500 r.p.m. for 10 s with a ramp of 3,000 r.p.m. s -1 , from a diluted 30 nm particle paste (Dyesol) in ethanol (the weight ratio of TiO 2 (Dyesol paste) and ethanol is 1:6), then the substrates was sintered at 500 • C for 20 min. The perovskite film was deposited by spin-coating onto the TiO 2 substrate. The [(FAI) 0.81 (PbI 2 ) 0.85 (MAPbBr 3 ) 0.15 ] precursor solution was prepared in a glovebox from 1.35M Pb 2+ (PbI 2 and PbBr 2 ) in a mixed solvent of DMF, NMP and DMSO (where the molar ratio of DMF/DMSO is 5:1, and the molar ratio of Pb 2+ /[(DMSO) 0.8 (NMP) 0.2 ] is 1:1). The spin-coating procedure was done in a dry air flow in a glove box at a spin-coating speed of 6,500 r.p.m. for 30 s. At 15 s before the last spin-coating step, PMMA solution with different concentrations from the mixed solvent of chlorobenzene and toluene (volume ratio of chlorobenzene and toluene is 9:1) was pipetted onto the substrate. Thereafter, the substrate was put onto a hotplate for 1 h at 100 • C. After cooling down to room temperature, the solution with the hole-transporting material spiro-OMeTAD was deposited on top by spin-coating. The spin-coating procedure was done in a dry air flow in a glove box at a spin-coating speed of 3,000 r.p.m. for 30 s. The spiro-OMeTAD solutions were prepared dissolving the spiro-OMeTAD in chlorobenzene at a concentration of 60 mM, with the addition of 30 mM bis(trifluoromethanesulfonyl)imide from a stock solution in acetonitrile, 200 mM of tert-butylpyridine. Finally, 80 nm of gold was deposited by thermal evaporation using a shadow mask to pattern the electrodes.</p><p>Characterization. Current-voltage characteristics were recorded by applying an external potential bias to the cell while recording the generated photocurrent with a digital sourcemeter (Keithley Model 2400). The light source was a 450-W xenon lamp (Oriel) equipped with a Schott K113 Tempax sunlight filter (Praezisions Glas and Optik GmbH) to match the emission spectrum of the lamp to the</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>CFigure 1 |</head><label>1</label><figDesc>Figure 1 | Device structure and performance. a, A coloured high-resolution cross-section SEM image of a complete solar cell fabricated by the PTNG method, where a smooth and compact perovskite capping layer fully covers the mesoporous TiO 2 layer (mp-TiO 2 ) infiltrated with perovskite. FTO, fluorine-doped tin oxide; bl-TiO 2 , TiO 2 compact layer. b, J-V curves of the champion PSC prepared by the PTNG method measured in both reverse and forward directions. c, Photovoltaic metrics of devices plotted as a function of PMMA concentrations (C PMMA , mg ml -1 ) in mixed chlorobenzene and toluene (volume ratio of chlorobenzene and toluene is 9:1) solution, the data points with the same colour correspond to the same PMMA concentration.</figDesc><graphic coords="10,99.41,254.36,183.20,120.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 |</head><label>2</label><figDesc>Figure 2 | Scanning electron microscopy images. Top (a,b) and cross-sectional (c) SEM of perovskite films deposited by the PTNG method with di erent concentrations (mg ml -1 ) of PMMA. a, Perovskite film before annealing. b,c, Perovskite films after annealing. The same scale bar and label applies to all images in a column and the numbers represent the PMMA concentration.</figDesc><graphic coords="11,244.30,397.04,106.84,85.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 |</head><label>3</label><figDesc>Figure 3 | Material characterization of perovskite films. a, XRD patterns of perovskite film using di erent concentrations of PMMA solution. b, FTIR spectra of PbI 2 • PMMA prepared by mixing PMMA with PbI 2 in a molar ratio of 1:1, and the pristine PMMA films. The arrows indicate the stretching vibration peak of C=O in the two films. c, Time-resolved photoluminescence measurements of perovskite films, the red lines are obtained by fitting the data using a bi-exponential rate law. d, X-ray photoelectron spectroscopy of perovskite films. The numbers in the legends of a,c and d give the PMMA concentration in mg ml -1 .</figDesc><graphic coords="12,331.20,223.53,155.51,95.38" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,148.85,155.00,283.44,236.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,148.85,474.44,283.44,236.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,148.85,168.68,283.44,236.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,148.85,485.48,283.44,236.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>SEPTEMBER 2016 | ARTICLE NUMBER: 16142 | DOI: 10.1038/NENERGY.2016.142 Polymer-templated nucleation and crystal growth of perovskite films for solar cells with e ciency greater than 21% Dongqin Bi 1,2 , Chenyi Yi 1 , Jingshan Luo 1 , Jean-David Décoppet 1 , Fei Zhang 1 , Shaik Mohammed Zakeeruddin</head><label></label><figDesc></figDesc><table><row><cell></cell><cell>PUBLISHED: 19</cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>1.11</cell><cell>23.4</cell><cell>0.74</cell><cell>19.6</cell></row><row><cell>1</cell><cell>1.11</cell><cell>23.3</cell><cell>0.74</cell><cell>19.3</cell></row><row><cell>2</cell><cell>1.11</cell><cell>23.2</cell><cell>0.73</cell><cell>19.1</cell></row><row><cell>3</cell><cell>1.10</cell><cell>22.9</cell><cell>0.74</cell><cell>18.9</cell></row><row><cell>4</cell><cell>1.11</cell><cell>22.7</cell><cell>0.72</cell><cell>18.2</cell></row><row><cell>5</cell><cell>1.10</cell><cell>22.8</cell><cell>0.71</cell><cell>18.0</cell></row><row><cell>6</cell><cell>1.10</cell><cell>22.1</cell><cell>0.71</cell><cell>17.5</cell></row><row><cell>7</cell><cell>1.12</cell><cell>21.7</cell><cell>0.71</cell><cell>17.8</cell></row><row><cell>8</cell><cell>1.10</cell><cell>21.5</cell><cell>0.70</cell><cell>16.9</cell></row><row><cell></cell><cell></cell><cell>23.6</cell><cell>0.77</cell><cell>21.0</cell></row><row><cell>8</cell><cell>1.13</cell><cell>23.7</cell><cell>0.74</cell><cell>20.4</cell></row><row><cell>9</cell><cell>1.13</cell><cell>22.7</cell><cell>0.78</cell><cell>20.6</cell></row><row><cell>10</cell><cell>1.12</cell><cell>23.7</cell><cell>0.77</cell><cell>21.0</cell></row><row><cell>11</cell><cell>1.14</cell><cell>23.7</cell><cell>0.77</cell><cell>21.4</cell></row><row><cell>12</cell><cell>1.13</cell><cell>23.4</cell><cell>0.76</cell><cell>20.6</cell></row><row><cell>13</cell><cell>1.14</cell><cell>23.4</cell><cell>0.78</cell><cell>21.3</cell></row><row><cell>14</cell><cell>1.11</cell><cell>23.6</cell><cell>0.77</cell><cell>20.8</cell></row><row><cell>15</cell><cell>1.13</cell><cell>23.7</cell><cell>0.78</cell><cell>21.4</cell></row><row><cell>16</cell><cell>1.12</cell><cell>23.4</cell><cell>0.77</cell><cell>20.9</cell></row><row><cell>17 Weeks</cell><cell>1.12 Voc(V)</cell><cell>23.5 Jsc(mA/cm 2 )</cell><cell>0.78 FF</cell><cell>21.2 PCE (%)</cell></row><row><cell>18 0</cell><cell>1.13 1.13</cell><cell>23.1 23.6</cell><cell>0.78 0.78</cell><cell>21.2 21.1</cell></row><row><cell>19 1</cell><cell>1.12 1.13</cell><cell>23.2 23.7</cell><cell>0.78 0.77</cell><cell>20.8 20.7</cell></row><row><cell>20 2</cell><cell>1.13 1.13</cell><cell>23.3 23.7</cell><cell>0.79 0.77</cell><cell>21.4 21.1</cell></row><row><cell>21 3</cell><cell>1.14 1.13</cell><cell>23.7 23.4</cell><cell>0.78 0.78</cell><cell>21.6 21.1</cell></row><row><cell>22 4</cell><cell>1.13 1.13</cell><cell>23.1 23.2</cell><cell>0.77 0.78</cell><cell>20.7 20.9</cell></row><row><cell>23 5</cell><cell>1.13 1.14</cell><cell>23.4 23.0</cell><cell>0.77 0.79</cell><cell>21.0 21.2</cell></row><row><cell>24 6</cell><cell>1.14 1.14</cell><cell>23.1 23.2</cell><cell>0.78 0.77</cell><cell>21.2 20.8</cell></row><row><cell>25 7</cell><cell>1.13 1.14</cell><cell>23.2 22.6</cell><cell>0.78 0.77</cell><cell>21.2 20.4</cell></row><row><cell>26 8</cell><cell>1.13 1.15</cell><cell>23.6 22.6</cell><cell>0.77 0.76</cell><cell>21.2 20.4</cell></row><row><cell>27</cell><cell>1.13</cell><cell>23.5</cell><cell>0.77</cell><cell>21.1</cell></row><row><cell>28</cell><cell>1.14</cell><cell>23</cell><cell>0.77</cell><cell>20.7</cell></row><row><cell>29</cell><cell>1.13</cell><cell>23.4</cell><cell>0.77</cell><cell>20.9</cell></row><row><cell>Average</cell><cell>1.13</cell><cell>23.4</cell><cell>0.77</cell><cell>21.0</cell></row></table><note><p>Supplementary Tab.3. Photovoltaic parameters measured during the aging of the unsealed devices using PMMA template perovskite films.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc><ref type="bibr" target="#b0">1</ref> </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc><ref type="bibr" target="#b0">1</ref> </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>, Anders Hagfeldt 2 and Michael Grätzel 1 * The past several years have witnessed the rapid emergence of a class of solar cells based on mixed organic-inorganic halide perovskites. Today's state-of-the-art perovskite solar cells (PSCs) employ various methods to enhance nucleation and improve the smoothness of the perovskite films formed via solution processing. However, the lack of precise control over the crystallization process creates a risk of forming unwanted defects, for example, pinholes and grain boundaries. Here, we introduce an approach to prepare perovskite films of high electronic quality by using poly(methyl methacrylate) (PMMA) as a template to control nucleation and crystal growth. We obtain shiny smooth perovskite films of excellent electronic quality, as manifested by a remarkably long photoluminescence lifetime. We realize stable PSCs with reproducibility showing a power conversion e ciency (PCE) of up to 21.6% and a certified PCE of 21.02% under standard AM 1.5G reporting conditions.</head><label></label><figDesc></figDesc><table /></figure>
 		</body>
 		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to thank <rs type="person">P. Mettraux</rs> of the Molecular and <rs type="institution">Hybrid Materials Characterization Center, EPFL</rs> for help with XPS measurements. F.Z. thanks the <rs type="funder">China Scholarship Council</rs> for funding. M.G. and S.M.Z. thank the <rs type="funder">King Abdulaziz City for Science and Technology (KACST)</rs> for financial support. D.B., M.G. and S.M.Z. are grateful for financial support from the <rs type="funder">Swiss National Science Foundation (SNSF)</rs>, the <rs type="funder">SNSF</rs> <rs type="grantNumber">NRP 70</rs> '<rs type="programName">Energy Turnaround'</rs> , <rs type="funder">CCEM-CH</rs> in the 9th call proposal 906: CONNECT PV, as well as from <rs type="funder">SNF-NanoTera (SYNERGY)</rs> and the <rs type="funder">Swiss Federal Office of Energy (SYNERGY)</rs>, and the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation programme</rs> under grant agreement No <rs type="grantNumber">687008</rs> (GOTSolar). The information and views set out in this article are those of the author(s) and do not necessarily reflect the official opinion of the <rs type="funder">European Union</rs>. Neither the <rs type="funder">European Union</rs> institutions and bodies nor any person acting on their behalf may be held responsible for the use that which may be made of the information contained herein.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_dtHfZmS">
+					<idno type="grant-number">NRP 70</idno>
+					<orgName type="program" subtype="full">Energy Turnaround&apos;</orgName>
+				</org>
+				<org type="funding" xml:id="_fhcz7Pu">
+					<idno type="grant-number">687008</idno>
+					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ARTICLES</head><p>AM1.5G standard. Before each measurement, the exact light intensity was determined using a calibrated Si reference diode equipped with an infrared cutoff filter (KG-3, Schott). A mask of 0.1051 cm 2 was applied for measurement. X-ray diffraction (XRD) spectra were recorded on an X'Pert MPD PRO (PANalytical) equipped with a ceramic tube providing Ni-filtered (Cu Kα = 1.54060 Å) radiation and a RTMS X'Celerator (PANalytical). The measurements were done in the Bragg-Brentano geometry from 2θ = 8 to 88 • . The samples were mounted without further modification and the automatic divergence slit (10 mm) and beam mask (10 mm) were adjusted to the dimension of the films. A step size of 0.008 • was chosen for an acquisition time of 270.57 s deg -1 . A baseline correction was applied to all X-ray powder diffractograms to compensate for the broad feature arising from the FTO glass and anatase substrate.</p><p>Scanning electron microscope (SEM) images were recorded using a high-resolution scanning electron microscope (ZEISS Merlin).</p><p>X-ray photoelectron spectroscopy (XPS) measurements were conducted on a PHI VersaProbe II XPS system equipped with a small spot X-ray beam, automated charge compensation, monatomic and cluster ion guns (Ar+, C60, Ar cluster), heating/cooling stage and angle-resolved XPS.</p><p>Photoluminescence (PL) spectra were recorded with a Fluorolog-Horiba fluorometer. Time-resolved photoluminescence (TRPL) experiments were performed by exciting the perovskite samples deposited on mesoporous TiO 2 /compact TiO 2 /FTO at 420 nm. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information is available for this paper. Reprints and permissions information is available at www.nature.com/reprints. Correspondence and requests for materials should be addressed to M.G.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing financial interests.</p></div>			</div>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Perovskite-based solar cells</title>
 		<author>
-			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Teuscher</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Miyasaka</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Murakami</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+			<persName><forename type="first">G</forename><surname>Hodes</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">338</biblScope>
-			<biblScope unit="page">643</biblScope>
-			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="page" from="317" to="318" />
+			<date type="published" when="2013">2013</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Lead iodide perovskite sensitized all-solid-state submicron thin film mesoscopic solar cell with efficiency exceeding 9%</title>
 		<author>
-			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Snaith</surname></persName>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Energy Environ. Sci</title>
+		<title level="j">Sci. Rep</title>
 		<imprint>
-			<date type="published" when="2012-05">2012, 5, 6513</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">591</biblScope>
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b2">
 	<analytic>
-		<title/>
+		<title level="a" type="main">High-efficiency solution-processed perovskite solar cells with millimeter-scale grains</title>
 		<author>
-			<persName><forename type="first">K</forename><surname>Vandewal</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><surname>Goris</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">I</forename><surname>Haeldermans</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Nesládek</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Haenen</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><surname>Wagner</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Manca</surname></persName>
+			<persName><forename type="first">W</forename><surname>Nie</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Thin Solid Films</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">516</biblScope>
-			<biblScope unit="page" from="7135" to="7138" />
-			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="522" to="525" />
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b3">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Hydrochloric acid accelerated formation of planar CH 3 NH 3 PbI 3 perovskite with high humidity tolerance</title>
 		<author>
-			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">A</forename><surname>Ruseckas</surname></persName>
+			<persName><forename type="first">T</forename><surname>Zhang</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">I</forename><forename type="middle">D W</forename><surname>Samuel</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Adv. Mater</title>
+		<title level="j">J. Mater. Chem. A</title>
 		<imprint>
-			<biblScope unit="volume">20</biblScope>
-			<biblScope unit="page" from="3516" to="3520" />
-			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="19674" to="19678" />
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b4">
-	<monogr>
+	<analytic>
+		<title level="a" type="main">Formamidinium lead trihalide: a broadly tunable perovskite for efficient planar heterojunction solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Lakowicz</surname></persName>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Eperon</surname></persName>
 		</author>
-		<title level="m">Principles of Flurescence Spectroscopy</title>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<publisher>Spinger London Ltd</publisher>
-			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="982" to="988" />
+			<date type="published" when="2014">2014</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b5">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Lead iodide thin film crystallization control for high-performance and stable solution-processed perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Mitzi</surname></persName>
+			<persName><forename type="first">L</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W F</forename><surname>Leung</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Progress in Inorganic Chemistry</title>
+		<title level="j">ACS Appl. Mater. Interfaces</title>
 		<imprint>
-			<biblScope unit="volume">48</biblScope>
-			<date type="published" when="1999">1999</date>
-			<publisher>John Wiley &amp; Sons, Inc</publisher>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="14614" to="14619" />
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b6">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Lewis acid-base adduct approach for high efficiency perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Proffit</surname></persName>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Jang</surname></persName>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
 		</author>
 		<author>
-			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Nelson</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">X</forename><forename type="middle">Q</forename><surname>Pan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Rzchowski</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Eom</surname></persName>
+			<persName><forename type="first">N.-G</forename><surname>Park</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
+		<title level="j">Acc. Chem. Res</title>
 		<imprint>
-			<biblScope unit="page">111912</biblScope>
-			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="311" to="319" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b7">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Additive enhanced crystallization of solution-processed perovskite for highly efficient planar-heterojunction solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Noh</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Im</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Heo</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Mandal</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">Il</forename><surname>Seok</surname></persName>
+			<persName><forename type="first">P.-W</forename><surname>Liang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Nano Lett</title>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="1764" to="1769" />
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3748" to="3754" />
+			<date type="published" when="2014">2014</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b8">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Gas-assisted preparation of lead iodide perovskite films consisting of a monolayer of single crystalline grains for high efficiency planar solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Tauc</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Grigorovici</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Vancu</surname></persName>
+			<persName><forename type="first">F</forename><surname>Huang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Status Solidi</title>
+		<title level="j">Nano Energy</title>
 		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="627" to="637" />
-			<date type="published" when="1966">1966</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="10" to="18" />
+			<date type="published" when="2014">2014</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b9">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Solvent engineering for high-performance inorganic-organic hybrid perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Malliakas</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Inorg. Chem</title>
+		<title level="j">Nat. Mater</title>
 		<imprint>
-			<biblScope unit="issue">2</biblScope>
-			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="897" to="903" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Crystallization of methyl ammonium lead halide perovskites: implications for photovoltaic applications</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tidhar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="13249" to="13256" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Non-wetting surface-driven high-aspect-ratio crystalline grain growth for efficient hybrid perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7747</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Efficient luminescent solar cells based on tailored mixed-cation perovskites</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">1501170</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Solar cell efficiency tables (version 47)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Emery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hishikawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Warta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Dunlop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Photovolt</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="3" to="11" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Inkjet printing of single-crystal films</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Minemawari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">475</biblScope>
+			<biblScope unit="page" from="364" to="367" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Onset of heterogeneous crystal nucleation in colloidal suspensions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cacciuto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Auer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Frenkel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">428</biblScope>
+			<biblScope unit="page" from="404" to="406" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Suppression of crystal nucleation in polydisperse colloids due to increase of the surface free energy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Auer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Frenkel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">413</biblScope>
+			<biblScope unit="page" from="711" to="713" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Carbon nanotube/polymer composites as a highly stable hole collection layer in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Habisreutinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano. Lett</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="5561" to="5568" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">High performance of planar perovskite solar cells produced from PbI 2 (DMSO) and PbI 2 (NMP) complexes by intramolecular exchange</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater. Interfaces</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1500768</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Origin and elimination of photocurrent hysteresis by fullerene passivation in CH 3 NH 3 PbI 3 planar heterojunction solar cells</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">5784</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Chemical pathways connecting lead(II) iodide and perovskite via polymeric plumbate(II) fiber</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="15907" to="15914" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A controllable fabrication of grain boundary PbI 2 nanoplates passivated lead halide perovskites for high performance solar cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Taiyang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Energy</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="50" to="56" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Overcoming the electroluminescence efficiency limitations of perovskite light-emitting diodes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="1222" to="1225" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Electronic structure of TiO 2 /CH 3 NH 3 PbI 3 perovskite solar cell interfaces</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lindblad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Lett</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="648" to="653" />
+			<date type="published" when="2014">2014</date>
 		</imprint>
 	</monogr>
 </biblStruct>

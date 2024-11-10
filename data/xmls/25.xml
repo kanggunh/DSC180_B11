@@ -6,7 +6,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title level="a" type="main">Dynamical Evolution of the 2D/3D Interface: A Hidden Driver behind Perovskite Solar Cell Instability</title>
+				<title level="a" type="main">Thermal degradation of formamidinium based lead halide perovskites into sym-triazine and hydrogen cyanide observed by coupled thermogravimetry -mass spectrometry analysis</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
@@ -16,175 +16,70 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 				<biblStruct>
 					<analytic>
 						<author>
-							<persName><forename type="first">Albertus</forename><forename type="middle">A</forename><surname>Sutanto</surname></persName>
+							<persName><forename type="first">Emilio</forename><forename type="middle">J</forename><surname>Juarez-Perez</surname></persName>
+							<email>ejjuarezperez@unizar.es</email>
 							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
-								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne (EPFL)</orgName>
+								<orgName type="laboratory">Energy Materials and Surface Sciences Unit (EMSSU)</orgName>
+								<orgName type="institution">Okinawa Institute of Science and Technology Graduate University (OIST)</orgName>
 								<address>
-									<addrLine>Rue de l&apos;Industrie 17</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Valais Wallis Sion</settlement>
-									<country key="CH">Switzerland</country>
+									<addrLine>Onna-son</addrLine>
+									<postCode>1919-1 904-0495</postCode>
+									<settlement>Tancha Okinawa</settlement>
+									<country key="JP">Japan</country>
 								</address>
 							</affiliation>
-						</author>
-						<author>
-							<persName><forename type="first">Nikita</forename><surname>Drigo</surname></persName>
-							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
-								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne (EPFL)</orgName>
-								<address>
-									<addrLine>Rue de l&apos;Industrie 17</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Valais Wallis Sion</settlement>
-									<country key="CH">Switzerland</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><forename type="first">Valentin</forename><forename type="middle">I E</forename><surname>Queloz</surname></persName>
-							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
-								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne (EPFL)</orgName>
-								<address>
-									<addrLine>Rue de l&apos;Industrie 17</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Valais Wallis Sion</settlement>
-									<country key="CH">Switzerland</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><forename type="first">Inés</forename><forename type="middle">Garcia</forename><surname>Benito</surname></persName>
-							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
-								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne (EPFL)</orgName>
-								<address>
-									<addrLine>Rue de l&apos;Industrie 17</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Valais Wallis Sion</settlement>
-									<country key="CH">Switzerland</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><forename type="first">Ahmad</forename><forename type="middle">R</forename><surname>Kirmani</surname></persName>
-						</author>
-						<author>
-							<persName><forename type="first">Lee</forename><forename type="middle">J</forename><surname>Richter</surname></persName>
 							<affiliation key="aff1">
-								<orgName type="department">Materials Science and Engineering Division</orgName>
-								<orgName type="institution">National Institute of Standards and Technology (NIST)</orgName>
+								<orgName type="department">Institute of Nanoscience of Aragon (INA)</orgName>
+								<orgName type="laboratory">ARAID Foundation</orgName>
+								<orgName type="institution">University of Zaragoza</orgName>
 								<address>
-									<postCode>20899</postCode>
-									<settlement>Gaithersburg</settlement>
-									<region>MD</region>
-									<country key="US">USA</country>
+									<postCode>50018</postCode>
+									<settlement>Zaragoza</settlement>
+									<country key="ES">Spain</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Pascal</forename><forename type="middle">A</forename><surname>Schouwink</surname></persName>
-							<affiliation key="aff3">
-								<orgName type="department">Institut des Sciences et Ingénierie Chimiques</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
-								<address>
-									<addrLine>Valais Wallis</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Sion</settlement>
-									<country key="CH">Switzerland</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<persName><forename type="first">Kyung</forename><forename type="middle">Taek</forename><surname>Cho</surname></persName>
-						</author>
-						<author>
-							<persName><forename type="first">Sanghyun</forename><surname>Paek</surname></persName>
+							<persName><forename type="first">Luis</forename><forename type="middle">K</forename><surname>Ono</surname></persName>
 							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
-								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne (EPFL)</orgName>
+								<orgName type="laboratory">Energy Materials and Surface Sciences Unit (EMSSU)</orgName>
+								<orgName type="institution">Okinawa Institute of Science and Technology Graduate University (OIST)</orgName>
 								<address>
-									<addrLine>Rue de l&apos;Industrie 17</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Valais Wallis Sion</settlement>
-									<country key="CH">Switzerland</country>
+									<addrLine>Onna-son</addrLine>
+									<postCode>1919-1 904-0495</postCode>
+									<settlement>Tancha Okinawa</settlement>
+									<country key="JP">Japan</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
-							<persName><forename type="first">Mohammad</forename><forename type="middle">Khaja</forename><surname>Nazeeruddin</surname></persName>
-							<email>mdkhaja.nazeeruddin@epfl.ch</email>
+							<persName><forename type="first">Yabing</forename><surname>Qi</surname></persName>
+							<email>yabing.qi@oist.jp</email>
 							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
-								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne (EPFL)</orgName>
+								<orgName type="laboratory">Energy Materials and Surface Sciences Unit (EMSSU)</orgName>
+								<orgName type="institution">Okinawa Institute of Science and Technology Graduate University (OIST)</orgName>
 								<address>
-									<addrLine>Rue de l&apos;Industrie 17</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Valais Wallis Sion</settlement>
-									<country key="CH">Switzerland</country>
+									<addrLine>Onna-son</addrLine>
+									<postCode>1919-1 904-0495</postCode>
+									<settlement>Tancha Okinawa</settlement>
+									<country key="JP">Japan</country>
 								</address>
 							</affiliation>
 						</author>
-						<author>
-							<persName><forename type="first">Giulia</forename><surname>Grancini</surname></persName>
-							<email>giulia.grancini@unipv.it</email>
-							<affiliation key="aff0">
-								<orgName type="department" key="dep1">Group for Molecular Engineering of Functional Materials</orgName>
-								<orgName type="department" key="dep2">Institute of Chemical Sciences and Engineering</orgName>
-								<orgName type="institution">École Polytechnique Fédérale de Lausanne (EPFL)</orgName>
-								<address>
-									<addrLine>Rue de l&apos;Industrie 17</addrLine>
-									<postCode>CH-1951</postCode>
-									<settlement>Valais Wallis Sion</settlement>
-									<country key="CH">Switzerland</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<affiliation key="aff2">
-								<orgName type="department">Guest Researcher @ Materials Science and Engineering Division</orgName>
-								<orgName type="institution">National Institute of Standards and Technology (NIST)</orgName>
-								<address>
-									<postCode>20899</postCode>
-									<settlement>Gaithersburg</settlement>
-									<region>MD</region>
-									<country key="US">USA</country>
-								</address>
-							</affiliation>
-						</author>
-						<author>
-							<affiliation key="aff4">
-								<orgName type="department">Dipartimento Di Chimica Fisica</orgName>
-								<orgName type="institution">University of Pavia</orgName>
-								<address>
-									<addrLine>Via T. Taramelli 14</addrLine>
-									<postCode>27100</postCode>
-									<settlement>Pavia</settlement>
-									<country key="IT">Italy</country>
-								</address>
-							</affiliation>
-						</author>
-						<title level="a" type="main">Dynamical Evolution of the 2D/3D Interface: A Hidden Driver behind Perovskite Solar Cell Instability</title>
+						<title level="a" type="main">Thermal degradation of formamidinium based lead halide perovskites into sym-triazine and hydrogen cyanide observed by coupled thermogravimetry -mass spectrometry analysis</title>
 					</analytic>
 					<monogr>
 						<imprint>
 							<date/>
 						</imprint>
 					</monogr>
-					<idno type="MD5">155F9ACA2CB98BA7C30E222B4C559C13</idno>
+					<idno type="MD5">803C0F84099B60C2975351857D23BB43</idno>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:42+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -196,38 +91,83 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of thiophene-based cations</head><p>A desired concentrated aqueous solution of HI (1.1 eq) was added dropwise to a stirred 1.0 mol/L ethanol solution of the corresponding thiophenealkylamine (1.0 eq) at 0°C. The mixture was allowed to gradually reach room temperature and then it was poured into an excess of diethyl ether (Et 2 O). The formed precipitate was collected and washed thoroughly with Et 2 O.</p><p>The salts were recrystallized from EtOH-Et 2 O mixtures, providing with crystalline solids (yields ≈70 %).</p><p>Preparation of 2D/3D perovskite films and device fabrication FTO-coated glass (Nippon sheet glass)<ref type="foot" target="#foot_0">foot_0</ref> was chemically etched using zinc powder and HCl solution, followed by cleaning using Hellmanex, water, acetone, and 2-propanol. A 30 nm thick compact TiO 2 layer as electron transporting layer was deposited by spray pyrolysis using a titanium diisopropoxide bis(acetylacetonate) solution (Sigma-Aldrich) diluted in 2-propanol (1:15 v/v) at 450 °C. On top of the compact layer, a 100 nm thick mesoporous layer of TiO 2 was deposited by spin coating TiO 2 paste (GreatCellSolar, 30NR-D) diluted in ethanol (1:8 w/v) at 5000 rpm for 20 s followed by heating at 125 °C for 10 min and sintering at 500 °C for 20 min. A thin layer of passivating tin oxide of ≈20 nm was spin-coated by using tin (IV) chloride (Acros) solution (12 µL diluted in 988 µL water) at 3000 rpm for 30 s, followed by annealing at 100 °C for 10 min and 190 °C for 1 h. </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Film Characterization</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>UV-VIS Absorption</head><p>The absorption spectra of the perovskite thin films were recorded with using an ultraviolet, visible, near-infrared spectrophotometer (PerkinElmer Lambda 950S).</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photoluminescence</head><p>Photoluminescence spectra of the perovskite thin films were measured and recorded using</p><p>Fluorolog3-22 spectrofluorometer. The spectra were recorded upon excitation at 450 nm. For the 2D/3D films, the emissions were measured from both front side (2D perovskite side) and back side (3D perovskite side) of the film.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>X-ray Diffraction (XRD)</head><p>XRD measurements were performed at room temperature with Bruker D8 Advance diffractometer and non-monochromated Cu radiation. For the 2D-3D films, the XRD patterns were obtained using grazing incident diffraction (GID) geometry with Bruker D8 Discover diffractometer and non-monochromated Cu radiation at the incident angle of 2.0°. In situ Xray diffraction was performed at 50°C in ambient atmosphere and using a custom-made hightemperature cell (temperature stability +/-1 K), in Bragg Brentano geometry, with a Bruker D8 Discover diffractometer and non-monochromated Cu radiation. The data acquisition time for the entire pattern between 2 and 16° 2θ was approx. 15 minutes, in order to allow for comparison from PL experiments.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scanning Electron Microscopy (SEM)</head><p>Cross-section and top surface SEM images were recorded by in-lens detector of FEI Teneo scanning electron microscope at high tension of 3 kV and 5 kV.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grazing incidence wide angle X-ray scattering (GIWAXS) measurements</head><p>GIWAXS measurements were carried out in reflection geometry at the CMS beamline of the National Synchrotron Light Source II (NSLS II), a U.S. Department of Energy (DOE) office of the Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory. Samples were measured at a detector distance of 0.153 m using X-ray wavelength of 1.24 Å, at 0.16° angle of incidence with respect to the substrate plane. Scattering intensity was detected by a PILATUS 300K detector. Nika<ref type="foot" target="#foot_1">foot_1</ref> software package was used to sector average the 2D GIWAXS images. Data plotting was done in Igor Pro (Wavemetrics, Inc., Lake Oswego, OR, USA).</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device characterization</head><p>The current density-voltage (J-V) curves were measured under 1 sun illumination (AM 1.5G) by xenon lamp solar simulator (450 W, Oriel Sol3A, AAA class). The J-V measurements were carried out under ambient condition and room temperature. The light intensity was calibrated to 1 sun by using a Si reference equipped with an IR-cutoff (KG5) filter. An external voltage bias was applied and the current responses were measured at the same time using a digital source meter (Keithley 2400). An active area of 0.16 cm 2 was determined by a metal mask with aperture of 0.16 cm 2 . The J-V curves were scanned with the rate of 50 mV s -1 without any preconditioning, such as light soaking or pre-biasing for a long time. For the light intensity dependent measurement, the J-V characteristics were obtained using a VeraSol LED solar simulator (Newport) under various light intensity. External quantum efficiency (EQE) measurement was carried out by using IQE200B (Oriel).           </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure S1 .</head><label>S1</label><figDesc>Figure S1. XRD patterns of pure 2D perovskite films with n=1 employing 2-TMAI, 3-TMAI and 2-TEAI cations.</figDesc><graphic coords="6,169.94,85.80,255.12,365.54" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure S2 .</head><label>S2</label><figDesc>Figure S2. XRD patterns of quasi-2D perovskite films with n=2 employing 2-TMAI, 3-TMAI and 2-TEAI cations using MA as small cation.</figDesc><graphic coords="7,169.94,72.00,255.12,365.54" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure S3 .</head><label>S3</label><figDesc>Figure S3. Scanning electron microscopy images of the top view (left) of the perovskite film and cross-section (right) of the 3D control device.</figDesc><graphic coords="8,14.70,53.68,204.05,147.62" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure S5 .</head><label>S5</label><figDesc>Figure S5. Hysteresis measurement between reverse scan (RS) and forward scan (FS) of 2D/3D PSCs employing (a) 2-TMAI, (b) 3-TMAI, (c) 2-TEAI, and (d) 3D control measured at their peak performance time.</figDesc><graphic coords="11,81.77,243.65,232.59,177.06" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure S6 .</head><label>S6</label><figDesc>Figure S6. External quantum efficiency (EQE) of 2D/3D PSCs based on 2-TMAI, 3-TMAI, 2-TEAI, and 3D control measured at their peak performance time.</figDesc><graphic coords="12,113.25,97.80,368.50,282.01" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure S7 .</head><label>S7</label><figDesc>Figure S7. Open-circuit voltage (V oc ) vs light intensity plot of 2D/3D PSC employing 2-TMAI, 3-TMAI, 2-TEAI, and 3D control on semi natural logarithmic scale.</figDesc><graphic coords="13,127.42,72.00,340.16,260.32" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure S8 .Figure S9 .Figure S10 .</head><label>S8S9S10</label><figDesc>Figure S8. Short-circuit current density (J sc ) vs light intensity plot of 2D/3D PSC employing 2-TMAI, 3-TMAI, 2-TEAI, and 3D control on double logarithmic scale.</figDesc><graphic coords="14,127.42,72.00,340.16,260.32" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure S11 .</head><label>S11</label><figDesc>Figure S11. Photoluminescence spectra of quasi-2D perovskite films with n=2 employing (a) 2-TMAI, (b) 3-TMAI, and (c) 2-TEAI using MA as small cation exciting at 450 nm.</figDesc><graphic coords="17,179.43,258.84,244.66,187.41" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure S12 .</head><label>S12</label><figDesc>Figure S12. PL spectra of 2D/3D perovskite employing n-BAI and PEAI as the large organic cations upon aging in dark and dry environment (RH &lt;10%).</figDesc><graphic coords="18,59.45,62.52,341.68,239.70" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure S13 .Figure S16 .</head><label>S13S16</label><figDesc>Figure S13. PL spectra of 2D/3D perovskite employing n-BAI and PEAI as the large organic cations upon heating at 50°C.</figDesc><graphic coords="18,301.85,384.81,169.75,242.86" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="22,99.49,72.00,395.97,453.96" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>The prepared substrates were treated with</figDesc><table><row><cell cols="10">PbI 2 (TCI), and PbBr 2 (TCI) in DMF and DMSO (0.78:0.22 v/v). For the 2D perovskite n=1</cell></row><row><cell cols="10">(R 2 PbI 4 , R is the corresponding thiophene alkylammonium cation), the perovskite precursor</cell></row><row><cell cols="10">solution was prepared by dissolving thiophene alkylammonium cation and PbI 2 with the molar</cell></row><row><cell cols="10">ratio of 2:1 in mixed solvent of DMF and DMSO (0.78:0.22 v/v). For the quasi 2D perovskite</cell></row><row><cell cols="10">n=2 (R 2 MAPb 2 I 7 ), the perovskite precursor solution was prepared by dissolving thiophene</cell></row><row><cell cols="10">alkylammonium cation, methylammonium iodide (MAI, GreatCellSolar), and PbI 2 with the</cell></row><row><cell cols="10">molar ratio of 2:1:2 in mixed solvent of DMF and DMSO (0.78:0.22 v/v). The prepared</cell></row><row><cell cols="10">perovskite precursor was then spin-coated on the prepared at 2000 rpm for 12 s and 5000 rpm</cell></row><row><cell>UV-ozone</cell><cell>for</cell><cell>15</cell><cell>min</cell><cell>before</cell><cell>perovskite</cell><cell>deposition.</cell><cell>A</cell><cell>1.3</cell><cell>mol/L</cell></row><row><cell cols="10">[(FAPbI 3 ) 0.87 (MAPbBr 3 ) 0.13 ] 0.92 (CsPbI 3 ) 0.08 perovskite solution with excess PbI 2 (PbI 2 :FAI =</cell></row><row><cell cols="10">1.05:1) was prepared by mixing FAI (GreatCellSolar), MABr (GreatCellSolar), CsI (ABCR),</cell></row></table><note><p>for 30 s. Chlorobenzene was added as an anti-solvent at 15 s before the end of spin coating process. The films were subsequently annealed at 100 °C for 60 min. After cooling down to room temperature, 0.06 mol/L of thiophene alkyl ammonium iodide cations in 2-propanol was spin-coated dynamically by adding the solution during spinning at 4000 rpm for 30 s, followed by annealing at 100 °C for 6 min. Spiro OMeTAD was used as the hole-transporting materials (HTM). The HTM layer was prepared by dissolving 78.2 mg spiro-OMeTAD (Merck) in 1 mL chlorobenzene doped with 31.28 µL of 4-tert-butylpyridine (Sigma-Aldrich), 18.57 µL of Libis (trifluoromethanesulphonyl) imide (Aldrich) from the stock solution (196 mg in 379 µL acetonitrile), 13.69 µL of FK 209 Co(III) TFSI (GreatCellSolar) from the stock solution (99 mg in 263 µL acetonitrile). The doped spiro-OMeTAD solution was then deposited by spincoating at 4000 rpm for 30 s. Finally, a 70 nm-thick gold counter electrode was thermally evaporated on top of HTM layer.</p></note></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table S1 .</head><label>S1</label><figDesc>Optimization of the 2D layer thickness on the 3D PSCs by varying 2-TMAI concentration showed over 15 devices fabricated in the same batch.</figDesc><table><row><cell>Concentration</cell><cell>Voc (V)</cell><cell>Jsc (mA cm -2 )</cell><cell>FF</cell><cell>PCE (%)</cell></row><row><cell>0.05 M</cell><cell>1.07 ± 0.02</cell><cell>23.8 ± 0.3</cell><cell>0.77 ± 0.01</cell><cell>19.6 ± 0.4</cell></row><row><cell>0.06 M</cell><cell>1.11 ± 0.03</cell><cell>23.7 ± 0.2</cell><cell>0.76 ± 0.01</cell><cell>19.8 ± 0.2</cell></row><row><cell>0.07 M</cell><cell>1.07 ± 0.01</cell><cell>22.8 ± 0.3</cell><cell>0.70 ± 0.02</cell><cell>17.0 ± 0.2</cell></row></table></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table S2 .</head><label>S2</label><figDesc>Statistics of the photovoltaics parameters of 3D control and 2D/3D PSCs based on 2-TMAI, 3-TMAI, and 2-TEAI over 86 devices measured at their peak performance time.</figDesc><table><row><cell></cell><cell>Voc (V)</cell><cell>Jsc (mA cm -2 )</cell><cell>FF</cell><cell>PCE (%)</cell></row><row><cell>2-TMAI</cell><cell>1.09 ± 0.02</cell><cell>23.8 ± 0.3</cell><cell>0.75 ± 0.01</cell><cell>19.3 ± 0.4</cell></row><row><cell>3-TMAI</cell><cell>1.13 ± 0.01</cell><cell>23.4 ± 0.1</cell><cell>0.76 ± 0.01</cell><cell>20.0 ± 0.5</cell></row><row><cell>2-TEAI</cell><cell>1.11 ± 0.00</cell><cell>23.2 ± 0.2</cell><cell>0.70 ± 0.01</cell><cell>18.1 ± 0.5</cell></row><row><cell>3D</cell><cell>1.09 ± 0.02</cell><cell>23.8 ± 0.3</cell><cell>0.78 ± 0.01</cell><cell>20.3 ± 0.5</cell></row></table></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Certain commercial equipment, instruments, or materials are identified in this paper in order to specify the experimental procedure adequately. Such identification is not intended to imply recommendation or endorsement by the National Institute of Standards and Technology, nor is it intended to imply that the materials or equipment identified are necessarily the best available for the purpose.</p></note>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>J. Ilavsky, Nika: software for two-dimensional data reduction. J. Appl. Crystallogr. 45,</p></note>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>324-328 (2012).</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Detailed calculations for estimation of maximum release achievable per meter-square of FA based perovskite based solar cell and hydrogen cyanide instantaneous concentration observed during low temperature heating tests and.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Maximum release achievable per meter-square of FA based perovskite solar cell</head><p>The weight of one thin-film of 1 m 2 of surface and 500 nm thickness of FAPbI 3 or FAPbBr 3 is</p><formula xml:id="formula_0">𝑊 𝐹𝐴𝑃𝑏𝑋 3 /𝑚 2 = 𝑉 𝑚 2 •𝜌 𝐹𝐴𝑃𝑏𝑋 3</formula><p>Where is the weight of perovskite contained in the thin-film of 1 m 2 of surface and 500 The maximum HCN release achievable per meter-square of FA based perovskite solar cell is,</p><formula xml:id="formula_1">𝑊 𝐻𝐶𝑁/𝑚 2 = 𝑊 𝐹𝐴𝑃𝑏𝑋 3 /𝑚 2 •(% 𝐶𝐻𝑁) 𝐹𝐴𝑃𝑏𝑋3 •𝑀 𝑤 𝐻𝐶𝑁 /𝑀 𝑤 𝐹𝐴</formula><p>The maximum observed hydrogen cyanide instantaneous partial pressure during low temperature heating tests was P HCN = 1.36 10 -7 torr at 85 ºC, see Figure <ref type="figure" target="#fig_4">S6</ref>. The equivalent HCN concentration in mg/m 3 is obtained as,       </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure S2 .</head><label>S2</label><figDesc>Figure S2. Tandem TG-DTA/MS coupled experiments for FAac (formamidinium acetate). Top panel shows a one-step type mass loss TG pattern (green line). Bottom panel shows the MS traces simultaneously recorded (1-100 amu) during the experiments. There is a concurrent process of sublimation of FAac obscuring clear observation of released products during degradation.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure S3 .</head><label>S3</label><figDesc>Figure S3. Full MS spectra (1-200 amu) for the tandem TG-DTA/MS coupled experiments shown in Figure 1 for a) FAPbI 3 and b) FAPbBr 3 .</figDesc><graphic coords="5,56.70,78.67,481.90,450.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure S4 .</head><label>S4</label><figDesc>Figure S4. Tandem TG-DTA/MS coupled experiments for FAPbBr 3 at 3 different heating rates, 5 ºC/min (left), 10 ºC/min (center) and 20 ºC/min (right). Top panels show the archetypal two-step type mass loss TG patterns (green line) for FAPbBr 3 . Bottom panels show MS traces simultaneously recorded (1-100 amu) during the experiments. Gray dash lines indicate the initial temperature (time) of the first detection of the released gases during the high-temperature thermal degradation.</figDesc><graphic coords="6,56.70,56.70,481.90,244.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure S5 .</head><label>S5</label><figDesc>Figure S5. Graphical comparisons of the theoretical fittings (solid lines) and experimental data (symbols) for TG curves during the first mass loss step of MAPbBr 3 , FAPbBr 3 , MAPbI 3 , FAPbI 3 and the unique mass loss step of precursors FAI, FABr and FAac, and all inorganic perovskite CsPbI 3 .</figDesc><graphic coords="7,56.70,56.70,458.61,662.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure S6 .</head><label>S6</label><figDesc>Figure S6. Raw m/z ratio traces (non-calibrated) recorded for NH 3 (17 amu), NH 4 + (18 amu), HCN (27 amu), N 2 + (28 amu), formamidine HCN 2 H 3 (44 amu) and sym-triazine (54 amu) fragment.</figDesc><graphic coords="8,56.70,79.26,394.29,448.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure S7 .</head><label>S7</label><figDesc>Figure S7. a) Mass spectrometry profiles of the empty 6-ways cross chamber recorded during illumination and heating-in-the-dark pulsed experiments. The sample holder temperature is recorded during light pulses and heating on/off intervals on the empty sample holder. b) Time dependent m/z traces of selected relevant amu registered during the thermal test of the chamber under light or dark conditions.</figDesc><graphic coords="9,56.70,56.70,481.90,385.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure S8 .</head><label>S8</label><figDesc>Figure S8. Fragmentation patterns m/z peaks retrieved from the NIST MS library data (http://webbook.nist.gov/chemistry/) for a) ammonia, b) hydrogen cyanide, c) sym-triazine and d) hydrogen bromide.</figDesc><graphic coords="10,56.70,56.70,481.90,329.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,56.70,83.15,283.45,428.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,56.70,56.70,312.85,488.35" type="bitmap" /></figure>
 		</body>
 		<back>
 			<div type="annex">
 <div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
 			<div type="references">
 
-				<listBibl/>
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Stoumpos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Malliakas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Kanatzidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inorg. Chem</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="9019" to="9038" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Govinda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Kore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Swain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Guru Row</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sarma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Physical Chemistry C</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="13758" to="13766" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
 			</div>
 		</back>
 	</text>

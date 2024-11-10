@@ -7,677 +7,1902 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
+				<funder>
+					<orgName type="full">HUST</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">foundation of State Key Laboratory of Article https://doi</orgName>
+				</funder>
+				<funder ref="#_dUCt2w7">
+					<orgName type="full">WNLO (HUST)</orgName>
+				</funder>
+				<funder ref="#_4n8fMEC #_vv4e7w5">
+					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_3ZwtbQ2">
+					<orgName type="full">Science and Technology Department of Hubei Province</orgName>
+				</funder>
+				<funder ref="#_VA7NA9X">
+					<orgName type="full">Foundation of State Key Laboratory of Coal Conversion</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Center for Nanoscale Characterization and Devices</orgName>
+					<orgName type="abbreviated">CNCD</orgName>
+				</funder>
+				<funder ref="#_6nPGEfm">
+					<orgName type="full">Innovation Project of Optics Valley Laboratory</orgName>
+				</funder>
+				<funder ref="#_xk8sPNu">
+					<orgName type="full">Textile Materials and Advanced Processing Technologies</orgName>
+				</funder>
+				<funder ref="#_cNDYMwk">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
-				<availability status="unknown"><licence/></availability>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-02-09">9 February 2023</date>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
 						<author>
 							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Michael Grätzel Center for Mesoscopic Solar Cells</orgName>
+								<orgName type="department" key="dep2">Wuhan National Laboratory for Optoelectronics</orgName>
+								<orgName type="institution">Huazhong University of Science and Technology</orgName>
 								<address>
-									<addrLine>6 43 6 5 64 3 2 3 3 3 3 65 16 #2 5 3 16 1# 12 1661/ 3 2 3 6 3 165 STRU PVWU !3 5 3 2 3 05/ 1 5 53 6 X2 41 6 43 6 5646615 2 5 3 6% /3 X5 / 513 6 43 642 1/#645 3 4 5 3 2 3 YH 3 1612 564 1#5 / 1 3 64 1/13 6 #2 5 3 3 6 H 3 5 3 51Z3 2 2 4H // 1 3 6-/12 5 3 416[ 5 5 2 64 6 3 162/ 1/ 3 51/ 1 3 6X 3 2 5 64 \3 3 65 3 2 3 Y 3 161 43 5 / 5 44 1/2 5 114H 4661/ 3 2 564#3 1/ 3 2 5 %]3 2 43 6 164653 6</addrLine>
-									<postBox>H /5 3 5164653</postBox>
-									<postCode>012 2 13 453 6711489 11412 2 13 4503 / 3 6612 6 3 1623 6615</postCode>
+									<country>Wuhan, China</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
 							<affiliation key="aff1">
+								<orgName type="department">Department of Electrical and Computer Engineering</orgName>
+								<orgName type="institution">University of Toronto</orgName>
 								<address>
-									<postCode>613 12 13</postCode>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
 							<affiliation key="aff2">
+								<orgName type="laboratory">State Key Laboratory of Advanced Technologies for Materials Synthesis and Processing</orgName>
+								<orgName type="institution">Wuhan University of Technology</orgName>
 								<address>
-									<addrLine>3 2 5 //2 3 3 161 5 245 3 6/ 3 63 /2 5 1 3 3</addrLine>
-									<postCode>16143</postCode>
+									<settlement>Wuhan</settlement>
+									<country key="CN">China</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
 							<affiliation key="aff3">
+								<orgName type="department">Department of Materials Science and Engineering</orgName>
+								<orgName type="institution">University of Toronto</orgName>
 								<address>
-									<addrLine>12 2 13 453 52 43 6 1/ 1 5 53 6 3 3 161 6 3 16243 5 / 5 45 5 #5 ^#2 3 2 3 6 5 #2 3 /2 #2 5 3 165 642 H 2 3 #2 5 3 165 %!5 5 13 4/5 H 3 1#3 23 65 3 3 516 3 3 6 11#63 5 3 64 5 643 611 2 / 15 5 3 664 _ 2/ / 3 161</addrLine>
-									<postCode>1145</postCode>
+									<settlement>Toronto</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
 							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Physics</orgName>
+								<orgName type="department" key="dep2">Center for Optoelectronics Engineering Research</orgName>
+								<orgName type="institution">Yunnan University</orgName>
 								<address>
-									<addrLine>564 1 42 1/#6 112 2 13 4H 5 45 3 5 116 3 16 3 6 54 3 6 11443 H 5 3 1603 3 6 #65 13 6 5 3 62</addrLine>
-									<postCode>1242 01234567894263</postCode>
+									<settlement>Kunming</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Vacuum Interconnected Nanotech Workstation (Nano-X)</orgName>
+								<orgName type="institution" key="instit2">Suzhou Institute of Nano-Tech and Nano-Bionics</orgName>
+								<orgName type="institution" key="instit3">Chinese Academy of Sciences</orgName>
+								<address>
+									<settlement>Suzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Xiangyang Demonstration Zone)</orgName>
+								<orgName type="laboratory">Hubei Longzhong Laboratory</orgName>
+								<orgName type="institution">Wuhan University of Technology</orgName>
+								<address>
+									<settlement>Xiangyang</settlement>
+									<region>Hubei China</region>
 								</address>
 							</affiliation>
 						</author>
 					</analytic>
 					<monogr>
 						<imprint>
-							<date/>
+							<date type="published" when="2023-02-09">9 February 2023</date>
 						</imprint>
 					</monogr>
-					<idno type="MD5">EA9E1F276F59FAE1012D44CD99934B77</idno>
+					<idno type="MD5">7A3DC8F27B63BE09FBB7150A982052F9</idno>
+					<idno type="DOI">10.1038/s41560-023-01205-y</idno>
+					<note type="submission">Received: 20 June 2022 Accepted: 16 January 2023</note>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-03T19:23+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
 		</encodingDesc>
 		<profileDesc>
-			<textClass>
-				<keywords>
-					<term>, . &quot; -, -0 &amp; &quot; # . , #&quot; 4 ) -&quot; ( 5 , */-6 # 7 +. &amp; ( . 8&quot; &amp; &quot; &amp; &amp; &amp; # &quot; , &quot;19:</term>
-					<term>98 ( 9:</term>
-					<term>&lt;8 = &gt; 9:</term>
-					<term>&lt;?# (=&gt; 9:</term>
-					<term>@1 =1 9:</term>
-					<term>@-% &quot; &quot; # &amp; # &quot; &quot; &quot; )&quot;, 6. 9:</term>
-					<term>9A (&quot;9:</term>
-					<term>9-B&apos; &amp;&apos; &quot; &amp; &amp;</term>
-				</keywords>
-			</textClass>
-			<abstract/>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>As shown in Fig. <ref type="figure">1c</ref>, the pristine PbBr2 film showed a characteristic diffraction peak at 18.48°, corresponding to the lattice plane of (020). After dipping the film in the FAI solution, this peak completely disappeared, and a new peak at 13.84° corresponding to the (001) plane of the 3D perovskite emerged. When PEG, PS and PMMA were coated onto the PbBr2 film, the transition from PbBr2 to 3D perovskite still proceeded, as evidenced by the emergence of (001) peaks with comparable intensities to those of the pristine PbBr2 film. Notably, when the CLP was deposited on the PbBr2, the film maintained the (020) peak of PbBr2 after dipping in the FAI solution, and the (001) peak corresponding to 3D perovskite was significantly weaker. The peak intensity and integral area are presented in Supplementary Table <ref type="table">2</ref>. When PbBr2 films were dipped in the 4F-PEAI solution, similar results were observed. Pristine PbBr2 reacted with 4F-PEAI, and formed 4F-PEA2Pb(IxBr1-x)4, showing a characteristic diffraction peak at 5.48°. When PEG, PS, and PMMA were used to cover the PbBr2 film, the transition from PbBr2 to 2D perovskite was not prevented. However, for PbBr2 films covered with the CLP, the intensity of the (100) peak of 2D perovskite 4F-PEA2Pb(IxBr1-x)4 was significantly reduced. The peak intensity and integral area are presented in Supplementary Table <ref type="table">3</ref>. These results revealed that the CLP layer can effectively inhibit the intercalation of FA + and 4F-PEA + into the inorganic template of PbBr2. Supplementary Note 2: pEDMA and the CLP were employed to prevent the reaction between PbBr2 films and FAI at an elevated temperature of 100 °C (Supplementary Fig. <ref type="figure">6</ref>). The FAI solution was spin-coated on PbBr2/pEDMA and PbBr2/CLP films, and annealed at 100 °C for 10 to 300 min. After only 30 min, XRD patterns of PbBr2/pEDMA/FAI films showed a distinct peak corresponding to 3D perovskite. On the contrary, the diffraction peak of 3D perovskite in PbBr2/CLP/FAI films remained at a much weaker intensity even after 300 min of thermal annealing. This indicates that the CLP is more effective at inhibiting ion diffusion than pEDMA under thermal stress.</p><p>To investigate the stabilization effects of EDMA monomers and pEDMA in the 3D/2D perovskite heterostructures, we aged 3D/EDMA/2D and 3D/pEDMA/2D films at 100 °C for 120 min, and compared the evolution of PL spectra. As shown in Fig. <ref type="figure">2d</ref>, EDMA and pEDMA only offer partial stabilization the 3D/2D perovskite heterostructures under thermal stress. After thermal ageing, the PL emission intensity of 2D perovskite 4F-PEA2PbI4 in both the 3D/EDMA/2D and 3D/pEDMA/2D films reduced, and PL emission of the quais-2D perovskite 4F-PEA2FAPb2I7 emerged. Thus, we conclude that the high degree of crosslinking and the network structure of the POSS-EDMA-based CLP play crucial roles in stabilizing the 3D/2D perovskite heterostructures. Supplementary Note 3: It is challenging to directly measure the thickness of the CLP layer that was prepared using a concentration of 3 mg mL -1 . Instead, we prepared CLP layers with concentrations of 10, 15 and 20 mg mL -1 , and directly measured the thickness of the CLP layers using a profilometer (Bruker, Dektak). As shown in Supplementary Figure <ref type="figure">8a</ref>, as the concentration increases from 10 to 20 mg mL -1 , the thickness of the as-prepared CLP layer increases from ~14 nm to ~40 nm. Using polynomial fitting to simulate the layer thicknesses, we estimate the thickness of the CLP layer for the concentration of 3 mg mL -1 to be 2~3 nm.</p><p>Additionally, we conducted XPS depth profiling, as shown in Supplementary Figure <ref type="figure">8b</ref>. We used the signals of oxygen (O 1s) to track the existence of the CLP. After etching for only 30 seconds, the signals of oxygen disappeared. The etching rate of the argon gun towards the reference material (NPB, the molecular structure is shown in Supplementary Figure <ref type="figure">8c</ref>) was calibrated to be 0.5~0.6 Å s -1 , and thus the thickness of the CLP layer should be below 1.8 nm. Supplementary Note 4: Previously, we have incorporated 3F-PEAI for surface treatment of 3D perovskite in p-i-n inverted PSCs [5]  . Herein, for n-i-p PSCs, the principle for selecting the organic ligand and tuning band alignment is entirely different. In p-i-n PSCs, the 2D layer on the surface of the 3D perovskite should be suitable for electron transfer and can block holes. However, this requirement is not easily met by regular 2D perovskite modification strategies. The 2D perovskite layer usually has a conduction band minimum (CBM) that is much higher than that of the 3D perovskite, which results in an electron-blocking effect. Thus, using a 2D perovskite layer on 3D perovskite in a p-i-n device is likely to reduce the efficiency of PSCs.</p><p>Using ultraviolet photoelectron spectroscopy (UPS) and absorption spectroscopy, the band alignment of low dimensional perovskite films of differing quantum well widths (n = 1 -4) was estimated. It was found that quantum confinement upshifted the CBM, which induced electron blocking in p-i-n PSCs. In order to achieve efficient electron transfer, it is necessary to increase the n values of the low dimensional perovskites in order to minimize CBM offset. Using transient absorption (TA) spectra to evaluate the n values of the low-dimensional perovskites, it was revealed that the ligand of 3F-PEA produced low-dimensional perovskite containing majority n = Supplementary Figure <ref type="figure">9</ref> | XPS spectra of 3D perovskite (FAPbI3)0.95(MAPbBr3)0.05 (a) and 2D perovskite 4F-PEA2PbI4 (b). The peaks are fitted with Gaussian function.</p></div>
+			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="table">72 2 3 1356953  8 32 3 50 9 9 67 17 8 37 4993256355317898 :537 36 3638 95 712 990 5;</ref><ref type="table">5 &lt;36 7 7942 98 3 572 96301= 358 974 5597 7 37 7 5232 0 3 58 32 4 6 5  4 937 8 0 &gt; 52 932 8 37 ?233538 789@ A12 990 572 37 B 62 98 3 57  C98D B36 8 2 69687 8 2 68 2 33 8 938 32014 92 58 32 5 7 =30957 E  12 990 68 6959537 3948 39 36 32 9 378 32 54 92 634 928 37 37 8 619 36 37  8 97 3 4 3 7 7 96 8 3 58 97 2 38 37 5&lt;3973 F9 0 38 13G G12 990 572 392 3  7 2 4 633 68 38 5 2 98 3</ref> <p>-. /0123 45 678 5 9:;&lt;: =&gt; 5 6?@A7;&lt;5 6B5 C5 BD@EF&gt; ;8 75 6G : 8 @H5 E 5 I7BHDHHE 7:@88 =7FE @6@&gt;@5 &gt; JK@8 7&gt;5 68 7&gt; &lt; @97LM=7HDHHE 7 B5 @N78 7&gt;5 :FE ;8 8 7B@A@5 6: 88 5 N7LOB@F8 7BK5 8 =F7&gt; N5 : : 5 ;6&lt; &gt; ;NP@6A78@E LQ RSTUV LW;FX&gt; 5 A=8ON7&gt; 5 9@6 W=7N5 9@EY;95 78 XL 3Z 3Z[1\] 2. ^-. _1. à OAA&gt; 7A@8 5 ;65 68 ;bH&gt; 5 E E @&gt;: 8 &gt; D98 D&gt; 7:5 :@9;NN;69;6: 7cD7697;&lt;=7@8 5 6AC@&gt; 5 ;D:8 XF7:;&lt;&lt; ;;B F&gt; ;8 75 6: d7: F795 @E E X8 =7K=7XF&gt; ;8 75 6:Q e5 9;E @578@E LRSTTfg ;67:hi7II76A@RSTRV fHD8@E : ; : ;XF&gt; ;8 75 6:Q P@6A78@E LRSTTfM@6A78@E LRSTRV@6BF7@F&gt; ;8 75 6:Q iD65 @E ;78@E LRSTjV LM=7 &gt; 7: DE 8 5 6AF&gt; ;8 75 6bH&gt; 5 E :=@C7F;8 768 5 @E@FFE 5 9@8 5 ;6:@:8 =5 9?767&gt; : fA7E E 5 6A@A768 : f@6B: 8 @H5 E 5 I7&gt; : ;&lt;7NDE : 5 ;6:@6B&lt; ;@N:Q 4&gt;;7: G e5 k H;7&gt;78@E LRSTRV LOF@&gt; 8 5 9DE @&gt;&lt; 7@8 D&gt; 7;&lt;8 =7bH&gt; 5 E E @&gt;: 8 &gt; D98 D&gt; 7 5 :8 =79@F@95 8 X8 ;A767&gt; @8 7@: F@97G bE E 5 6A678 K;&gt; ?@8E ;KC;E DN7&lt; &gt; @98 5 ;6: fK=5 9=5 :@&lt; D698 5 ;6@E 9=@&gt; @98 7&gt; 5 : 8 5 9N;&gt; 78 &gt; @B5 8 5 ;6@E E X@: : ;95 @8 7BK5 8 =&lt; ;;BF;E X: @99=@&gt; 5 B7:8 =@6K5 8 =&lt; ;;BF&gt; ;8 75 6: L l7697f8 =79&gt; 7@8 5 ;6;&lt;@678 K;&gt; ?;&lt;F&gt; ;8 75 6bH&gt; 5 E :N@XH7@67&lt; &lt; 798 5 C7: 8 &gt; @8 7AX&lt; ;&gt;5 6=5 H5 8 5 6A 7NDE : 5 ;69&gt; 7@N5 6AH7=@C5 ;&gt;8 =&gt; ;DA=&gt;=7;E ;A5 9@EN;B5 b9@8 5 ;6;&lt;8 =7@cD7;D:9;68 5 6D;D:F=@: 7 ;&gt;&lt; ;&gt;9;68 &gt; ;E E 5 6A&lt; ;@N: 8 @H5 E 5 8 XHX&lt; ;&gt; N5 6A@: 8 7&gt; 5 9H@&gt; &gt; 5 7&gt;@&gt; ;D6BA@:HDHHE 7: L m7F76B5 6A;6F&gt; ;8 75 69;69768 &gt; @8 5 ;6@6B8 =7&gt; N@E9;6B5 8 5 ;6: fC@&gt; 5 ;D:8 XF7:;&lt;@AA&gt; 7A@8 7N;&gt; G F=;E ;AXN@X@&gt; 5 : 7BD&gt; 5 6A8 =7=7@8 5 6A;&lt;@AE ;HDE @&gt;F&gt; ;8 75 6: ;E D8 5 ;6n: F=7&gt; 5 9@EF@&gt; 8 5 9E 7: fo7p5 HE 7 : 8 &gt; @6B: f&gt; 5 A5 BbH&gt; 5 E : f@6B&lt; &gt; @98 @E9E D: 8 7&gt; :Q e5 9;E @5hmD&gt; @6BRSTUV Lq&gt; ;8 75 6bH&gt; 5 E :K5 8 =E 76A8 =: &gt; @6A5 6A&lt; &gt; ;N8 76:;&lt;6@6;N78 7&gt; :8 ;8 76:;&lt;N5 9&gt; ;N78 7&gt; :@&gt; 7A767&gt; @8 7BK=76@: ;E D8 5 ;6;&lt;@FD&gt; 7 AE ;HDE @&gt;F&gt; ;8 75 6Q rG E @98 ;AE ;HDE 5 6V;&gt;N5 p8 D&gt; 7Q K=7XF&gt; ;8 75 65 : ;E @8 7V5 :=7@8 7B@8sSJtS u W&lt; ;&gt;: 7CG 7&gt; @E=;D&gt; :D6B7&gt;: 8 &gt; ;6A@95 B5 99;6B5 8 5 ;6:Q FlvRVQ e5 9;E @578@E LRSTTV LM=7&gt;@8 7;&lt;&lt; ;&gt; N@8 5 ;6 ;&lt;bH&gt; 5 E :@6B8 =75 &gt;B7C7E ;F5 6AN;&gt; F=;E ;AX5 :: 76: 5 8 5 C7E X@&lt; &lt; 798 7BHX8 =7F&gt; ;97: : 5 6A8 7NF7&gt; @8 D&gt; 7 Q w;C7B@X78@E LRSTRV@6B: F795 b9: ;E D8 5 ;69;6B5 8 5 ;6: d6;8 @HE XFlf5 ;65 9: 8 &gt; 76A8 =f@6B9@E 95 DN 5 ;69;69768 &gt; @8 5 ;6Q w;C7B@X78@E LRSTSfRSTTV L w;6Af8 =5 6bH&gt; 5 E :F;: : 7: :: ;N7;&lt;8 =7: 8 &gt; D98 D&gt; @E9=@&gt; @98 7&gt; 5 : 8 5 9:;&lt;8 =7@NXE ;5 BbH&gt; 5 E :5 NFE 5 9@8 7B 5 6C@&gt; 5 ;D:=DN@6@NXE ;5 B;A765 9B5 : 7@: 7: LOxi B@8 @: DFF;&gt; 8 7BHX8 =7;&gt; 78 5 9@E@6@E X: 5 :Q OB@N95 ? 78@E LRSTSV: =;K8 =@88 =7bH&gt; 5 E :=@C7@NDE 8 5 : 8 &gt; @6B7B=7E 5 9@E: =@F7K5 8 =@8 K5 : 8 7B&gt;5 HH;6G E 5 ?7 : 8 &gt; D98 D&gt; 7Ly68 =7N;E 79DE @&gt;: 9@E 7f8 =7X@&gt; 79=@&gt; @98 7&gt; 5 I7BHX@9;&gt; 79&gt; ;: : G rG : =778: 8 &gt; D98 D&gt; 75 6 K=5 9=9;68 5 6D;D:rG : =778 :@&gt; 7&lt; ;&gt; N7BK5 8 =rG : 8 &gt; @6B:: 8 @9?7BC5 @=XB&gt; ;A76H;6B:5 68 =7B5 &gt; 798 5 ;6 F7&gt; F76B5 9DE @&gt;8 ;8 =7E ;6A@p5 :;&lt;8 =7bH&gt; 5 E :Q OB@N95 ?hi7II76A@RSTRV LMXF5 9@E E XfRJzF&gt; ;8 ;bE G @N768 :;&lt;RJ{6NB5 @N78 7&gt;@&gt; 7@: : ;95 @8 7BE @8 7&gt; @E E X;&gt;8 K5 : 8 7B8 ;A78 =7&gt;8 ;&lt; ;&gt; ND6H&gt; @69=7BbH&gt; 5 E : : 7C7&gt; @EN5 9&gt; ;N78 7&gt; :5 6E 76A8 =L-. /012|5 E E D: 8 &gt; @8 7:8 =7N79=@65 : 8 5 9: 8 7F:5 6C;E C7B5 6@NXE ;5 BbHG &gt; 5 E&lt; ;&gt; N@8 5 ;6LM=75 65 8 5 @E: 8 @A75 6C;E C7:&lt; ;&gt; N@8 5 ;6;&lt;;E 5 A;N7&gt; :&lt; &gt; ;NQ F@&gt; 8 5 @E E XVD6&lt; ;E B7BF&gt; ;8 75 6 }}} } 012 34 565 <ref type="table">789 84 4  12 34 565   8 6   4 369   79 3 34 861  8 9 6ÿ 9</ref>  </p><formula xml:id="formula_0">( )% #3 -&amp;+#"&amp;$ 2##),2% &amp;( )#0-3 ,*% "#6&amp;$ $ ( J#6&amp;3 % ( +/ #% 3 &amp;+=( )',-T;,3 #$ +#)%)&amp;),6&amp;3 % ( +/ #$B M $ &amp;#%&amp;/ 4CDEEF 4!"# 3 #$ ;/ % ( )'0&amp;% &amp;63 ,J( 0##J( 0#)+#-,3% "#/ ,)': 3 &amp;)'#)#*&amp;% ( +,3 0#3 ( )',-&amp;0$ ,3 2#0123 ( / $ 4 _` `abc deabf ghijjki lmbdn ic h o,,063 ,% #( )$&amp;3 #"( '"/ .#--#+% ( J#&amp;$+,/ / ,( 0: $ % &amp;2( / ( A( )'&amp;'#)% $ 4!"( $( $&amp;+,)$ #I;#)+#,-% "#( 3&amp;2( / ( % . % ,63 ,% #+%#*;/ $ ( ,)03 ,6/ #% $&amp;'&amp;( )$ %T,++;/ &amp;% ( ,),8( )'% ,&amp;+,*2( )&amp;% ( ,),-#/ #+% 3 ,$ % &amp;% ( +&amp;)0$ % #3 ( + $ % &amp;2( / ( A&amp;% ( ,)*#+"&amp;)( $ *$B p( +=( )$ ,)CDED&amp;F 4U,8#J#3 7% "( $+,</formula><p>/ / ,( 0&amp;/$ % &amp;2( / ( % .( $% .6( +&amp;/ / ./ ,$ %;)0#3 $ ,/ ;% ( ,)+,)0( % ( ,)$,-"( '"#/ #+% 3 ,/ .% #+,)+#)% 3 &amp;% ( ,),3&amp;%6UJ&amp;/ ;#$)#&amp;3% "#63 ,% #( )q $6V 4r)# -1&lt;7 J QEDD&gt;G JX1 =?0 -/8&lt;9-&lt;7 / 5&gt;--.4 -354 1 -?5;82?4 57 2/ &lt;1 -/5;34 51 -0 .N357 2/ &lt;::8&lt;4 0 ?-:5.O =F&lt;1 -/ C ef g-F&lt;.TY=7 90 80 7 7QEDE&gt;Hc8&lt;.F-1&lt;7 JQEDQG Jh .&lt;??0 1 0 5.1 5/ 1 &lt;&gt;0 7 0 M0 .F50 7 @ 0 .@ I&lt;1 -4C ei UG -B=7 / 0 5./ H1 8--.8&lt;.:-?; =.:1 0 5.&lt;734 53-4 1 0 -/5;Y&lt;0 7 7 &lt;4 ?@ 1 23-:5.O =F&lt;1 -/8&lt;9-&gt;--.?-B5.@ / 1 4 &lt;1 -?0 .; 5&lt;B/C j40 F54 590 :8-1&lt;7 JQEDQG H8-&lt;1 @ / -1F-7 /C X=.-1&lt;7 JQEDD&lt;HX351 1 0-1&lt;7 JQED[G H ?5=&gt;7 --B=7 / 0 5./C ef g-F&lt;.TY=7 90 80 7 7QEDE:G H&lt;.?.&lt;.53&lt;4 1 0 :7 -/; 5482?4 5385&gt;0 :.=1 4 &lt;:-=1 0 :&lt;7 -.:&lt;3/ =7 &lt;1 0 5.C Y&lt;4 AB&lt;.TP0 9.-2QEDQG J kl mlnopqro)s &amp; tu *vopwx&amp; t)qro)s &amp; tu *v g-/ -&lt;4 :8&lt;:1 0 90 1 28&lt;/0 .:4 -&lt;/ -?59-44 -:-.12-&lt;4 /0 .1 8--R37 50 1 &lt;1 0 5.5;.&lt;.53&lt;4 1 0 :7 -/&lt;.?B0 :4 53&lt;4 @ 1 0 :7 -/; 541 8-; 54 B=7 &lt;1 0 5.&lt;.?/ 1 &lt;&gt;0 7 0 M&lt;1 0 5.5;; 55?-B=7 / 0 5./&lt;.?; 5&lt;B/C ,0 :A0 ./ 5.QEEy&lt;HQEDE&gt;H z{| } 01 1 5   <ref type="table">38 0 1 4 0 43(  71 1 60 79 1 #!3490 3 1 !451 6 39 6 399 4 36 0040 3833451 5 5 80 1 *30 06 9 0 49 6  6 79 48!76 731 6 39 *31 ! 1 81 8396 731 +8334540 46 1 9 30 0 89 3!9 1 3636 33  1 39486 398348070 30 ,</ref><ref type="table">5 49 8 6 1 !6 3(6 89 1 2338 0 1 40459 3835 646 3680 1 !  9 30 6 9 1 6 346 36451 44 391 !9 31 36 0 6 71 040 46 1 9 4 360 3 1 !9 4*1 30371 0  5 496 9 1 !!39 1 !0 739 1 83!3 6 1 4 "3 336 ,</ref>  <ref type="table">40 0 30 046 738 0 1 4 1 #3!3 1 #36 6 9 1 86 30 $736 39 38 0 1 4  !31 080 36 430 9 1 338 0 1 40 0 6 31 6 779 6 39 1 0 6 1 0 4 1 1 #3371 9 439 6</ref>   <ref type="table">9 3!6 1 4  451 0 39 0 39 4 36 049!3 6 1 4456 7346 1 848070 3@499 46 31 0 30 0 6 30 6 7340 6  1 3 3486 39 39 430 0 1 !439 6 1 409 3736 1 !1 1 6 1 43236 9 36 36 ,</ref><ref type="table">6 730 3450 31 0 338 0 1 46 730 6 3 439 1 !45B 306 41 9 9 3*39 0 1 3!!9 3!6 1 4  459 4 36 05 4 439 46 31 31 6 3!3 6 1 4 "1 #1 0 4C ,</ref><ref type="table">49 49 6 1 4459 46 31  46 39 4 36 01 6 4736 0 36739 46 31 !336 49 # 306 4373361 !39 1 !1 1 6  380 3456 9 1 (9 31 5 49 3369 46 31 0 6 1 1 239 4 36 05 86 1 41 !06 1 *3 399 6 1</ref>   <ref type="table">/4 0 259459 5 60948 8 09 $0$0 9  18 2 079 20!91 052 5 05 4 3 09 8 98 91 45 06 65 3  0 4!8 2!2365 0 8 98 0 9498 098 048 24 5 2 $0$0 9 3  5 20965 0 8 9 7 4 8 09 2 4 065 05 8 9945 948 9 2 5 5  1 05 1 1 8 91 00475 40!965 065 8 945 5 41 05 8 090948 8 09 47239</ref>   <ref type="table">5 8 94 28 5 08 4 9 05 365 6 8 09 5 3 6 9) 8 8 0901 21 5 5  65 065 8 012 !2365 0 8 9 8 09 0148 1 1 5 9 099 5 8 092 20!9 "0  3 21 5 9 8 098 9 20 28 28 2 305 5 4!8 2 5 4298 65 065  8 !8 2 01 0! 9425 4 28 2 /28 78 8 948 1 1 5 905 75 40!96 5 9  494 265 6 8 0901 21 5 4 5 8 7 015 8 9 8 929473 21 75 8 8 0901  98 92009048 5 8 7 8 090108 45 06 !8 28 9 35 4 8 09 2 4 $0   2 8 98 2901 8 09 5 5 8 98 9798 9 272)8 0501040 08 4 3  45 8 9 8 99448 8 098 8 5 48 989 :;</ref><ref type="table">&lt;=&gt;25 5 1 5 05 9065 8 )</ref> ?@@A B@CD BE FCAD G HI Bÿ @BI KCAD G HI BL MI I BEÿ @BI  <ref type="table">83 90 1 8999 3566 5535 5 30 9 489 450 1 21 2 6 5 1 539 936 5 53  956 50 5 90 2 9911 98 :290 ;</ref><ref type="table">5 0&lt; 5 90= &gt;9579 6 291 853  90 9 40 2 1 96 50 1 234 1 9 3993915 5 30 1 21 2 5 9%6 5530 40 1 90  3591 81 ? 5 0 59 0 1 98 51 5 50 90 1 21 2 891 9 599 1 4</ref>   <ref type="table">89239840 5 5 53 1 50 9 9 11 56 5530 1 1 533 90 1 57 1 8 1 8982  0 1 5 1 90 1 1 1</ref> &amp;<ref type="table">1 9 0561 89 9</ref>  </p><formula xml:id="formula_1">!"#$ % #$ &amp; !'#( %&amp; ))*') ) *( "+ '! "')%( ( )&amp;!*( )$ ,#* !"#$ ()&amp;+$ ) # %(!%*+) "( !'- '.!$ *#(/!*#," .#( #0#% !)$( / !%#)(*#+)( )%)&amp;)++)( # "'.!$ 1#*/!'$ )/) #' #( ! .#( $ &amp; !'#)&amp;#/ ( )%*$ )+ # (2 3 '4 %( )%56678 9:')//)%( ! )% ( .!)&amp;!, !"#$( $ '- $ #')/+)( #*)&amp;!% %%#$+$ ) # % !"#$!%*!%) #$+) "( !''.!$ *# !"#$ 9 !"#$ (/!"! ( ),# +$ #+!$ #*; . ;)+$ ) # %(2 &lt;'./# =#! 956&gt;&gt;8)$ ;)+) "( !''.!$ *#(2 ?)#! 956&gt;68)$; . ( /! -/) #' #( $ &amp; !' !% (2 '@ #/#% (56&gt;58 9A.#+) #% !,#%#B)&amp; .#/ !"#$ % #$ &amp; !'# (!$ #*'#* #%*#%'" );!$ *#/ ( )%C)'' ! )%D .! ( E .#( #%( F# %%#$ !"#$)&amp;+$ ) # %2 )$ )% '( $ &amp; !' !% 8 (')F#$ #*; .)%#)$/)$ # !"#$ ()&amp;( #$ '( !, = %1, )+) "/#$ 9 !"#$ %1 /!"! ( )#%.!%'# .#&amp; %' )%! ")&amp; +)( )/#(2 @.%#! 956&gt;G8!%*( +$ !"-*$ #*#/ ( )%( 2 &lt;#$ &amp; #$ #! 956&gt;G8 9H$ .#$!*F!% !1#()&amp;/ !"#$ #'.%) )1"!$ # .# $+$ ) #' )%!1! %( .# )I *! )%)&amp;#/ ( B#* + *(!%*!, " )!&amp; &amp; #'*# F#$ ")&amp;#%'!+( ! #*( +#' #(*$ %1* 1#( )% ,"')% $ ) %1 .#+#$ /#!, "!%**# !'./#%)&amp;/ !"#$')! %1(2 '@ #/#% (56&gt;6E56&gt;58 9 A.#( #0#% !&amp; !,$ '! )%)&amp;! .$ ##-!"#$( $ &amp; !' !% J +$ ) # %J +) "( !''.!$ *#( "( #/ ( ( - $ ! #* %K LM9N!'.( !1# (*$ F#%,"# #' $ )( ! '! $ !' )%)&amp;)++)( # "'.!$ 1#* %1$ #* - #% ( E; .#I'#( (/! #$ !$ #/)F#*&amp; $ )/ .#!0#)(+.!( #,"'#% $ &amp; 1! )%E;!( . %1E)$,) . 2 '@ #/#% (56&gt;58 9O % .##I!/+ #( .);% %K LME.)/)1#% =! )%)&amp;) P;! #$P!% )% ' ( $ &amp; !' !%+$ )*'#( .#+$ /!$ "QJ R #/ ( )%9:*( )$ + )%)&amp;!'! )% '+$ ) # %2 #9 19 E !' )&amp; #$ - $ %8 #!*( )!( #')%*!$ "#/ ( )%.!F %1!, !"#$( $ ' $ #9A.# !( ( !1#E %F) F %1*#+)( )% )&amp;!%!% )% '+) "( !''.!$ *#)&amp;)++)( #%#'.!$ 1# ) .#+$ ) # %2 #9 19 E+#' %E'!$ $ !1##%!%8 E +$ )*'#(! #$ !$ "#/ ( )%; .! $ + #-!"#$ #*( $ ' $ #9A.#( $ ' $ ! % #1$ ")&amp; .## #'- $ )( ! '! "*#+)( #*/ !"#$/!",#( ,( #0#% "#%.!%'#*,"')F! #%'$ )( ( -%4 %1)&amp; .# !*( )$ ,#*( +#' #( 9H)$ %( !%'#E .#( !, ")&amp;!+$ ) # %J +#' %, !"#$#/ ( )%'!%,# /+$ )F#*," ST U ÿ Wÿ XYZ [\ ]^_ `^_</formula><formula xml:id="formula_2">K LM H!,$ '! )%)&amp;!%) -%-;! #$#/ ( )%; .! .$ ##-!"#$ % #$ &amp; !' !( $ ' $ #&amp; ) ); %1 .#( #0#% ! !*( )$ + )%)&amp;!%!% )% '( $ &amp; !' !% E'! )% '+$ ) # %E!%*!% )% '+) "( !''.!$ *#9</formula></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>$ % &amp;'#$( )% "#*#+"&amp;)( $ *,-&amp;*./ ,( 0123 ( /-,3 *&amp;% ( ,)45)-,/ 0#063 ,% #( )$ 7$ ",3 %6,/ .6#6% ( 0#-3 &amp;'*#)% $ 7,3 2,% "&amp;$ $ ,+( &amp;% #( )% ,,/ ( ',*#3 $8( % "9: $ "##%*,/ #+;/ &amp;3,3 0#3 ( )'&lt;% "#,/ ( ',*#3 $2#+,*#/ ( )=#0% ,'#% "#3( )% , % &amp;6#: / ( =#63 ,% ,1/ &amp;*#)% $ 78"( +"% "#)&amp;$ $ #*2/ #( )% ,*&amp;% ;3 #123 ( / $ 4&gt;0&amp;6% #08( % "6#3 *( $ $ ( ,)-3 ,*&gt;0&amp;*+( =? @#AA#)'&amp;B CDECF 4G,6.3 ( '"%&gt;*#3 ( +&amp;)G"#*( +&amp;/H,+( #% .4 *,/ #+;/ #$,3-3 ,*6#6% ( 0#-3 &amp;'*#)% $63 ,0;+#02.".03 ,/ .$ ( $,-63 ,% #( )*,),*#3 $ 4H;2$ #I;#)% / .7 % "#,/ ( ',*#3 $2#+,*#/ ( )=#0% ,'#% "#3( )% ,/ ( )#&amp;3 7% &amp;6#: / ( =#$ % 3 ;+% ;3 #$+&amp;/ / #063 ,% ,1/ &amp;*#)% $ 7&amp;)0 % "#$ #% "#)2#+,*#'3 &amp;0;&amp;/ / .&amp;$ $ ,+( &amp;% #0( )% ,*&amp;% ;3 #123 ( / $( )J,/ J( )'&amp;+,*6/ #K$ #/ -: &amp;$ $ #*2/ . *#+"&amp;)( $ *% "&amp;%&amp;$.#%3 #*&amp;( )$% ,2#-;/ / .;)0#3 $ % ,,0B &gt;0&amp;*+( =?@#AA#)'&amp;CDECF 4!"#63 ,% #( ) 123 ( / $&amp;3 #+"&amp;3 &amp;+% #3 ( $ % ( +&amp;/ / .3( '( 0$ % 3 ;+% ;3 #$ 70#*,)$ % 3 &amp;% ( )'&amp;3&amp;)'#,-*,3 6",/ ,'( +&amp;/$ ( ')&amp;% ;3 #$ ( )+/ ;0( )'2#)0( )'&amp;)0% 8( $ % ( )'8( % "J&amp;3 ( &amp;2/ #6#3 ( ,0( +( % ( #$BL ,)#$?@#AA#)'&amp;CDECF 78( % "+,*: 6/ #K7+,)+#)% 3 &amp;% ( ,): 0#6#)0#)%6"&amp;$ #2#"&amp;J( ,30;#% ,% "#( 3"( '"&amp;$ 6#+%3 &amp;% ( ,&amp;)06,/ .#/ #+% 3 ,/ .% # +"&amp;3 &amp;+% #3 4 M )J#$ % ( '&amp;% ,3 $"&amp;J#3 #6,3 % #0,)% "#$ ;3 -&amp;+#3 "#,/ ,'( +&amp;/2#"&amp;J( ,3,-N: / &amp;+% ,'/ ,2;/ ( )123 ( / $&amp;%,( / O 8&amp;% #3&amp;)0&amp;( 3 O8&amp;% #3( )% #3 -&amp;+#$BL ;)'#%&amp;/ 4CDED&lt;PQ ;"$#%&amp;/ 4CDEC7CDERF 4S&amp;$ #0,)$ "#&amp;33 "#,/ ,'. *#&amp;$ ;3 #*#)% $( )0( +&amp;% ( )'&amp;"( '"/ .#/ &amp;$ % ( +( )% #3 -&amp;+#8( % "$ ,/ ( 0: / ( =#2#"&amp;J( ,3&amp;%EOED R : $% ( *#$ +&amp;/ #$ 7( % ( $( )-#3 3 #0BL ;)'#%&amp;/ 4CDEDF% "&amp;%&amp;0$ ,3 2#0N: / &amp;+% ,'/ ,2;/ ( )123 ( / $"&amp;J#% "#+&amp;6&amp;+( % .% ,$ % &amp;2( / ( A#T;( 0 ( )% #3 -&amp;+#$*,3 ##-1+( #)% / .% "&amp;)% "#)&amp;% ( J#63 ,% #( )4!"#"( '"#$ %( )% #3 -&amp;+( &amp;/*,0;/ (&amp;3 #,2$ #3 J#0 -,3/ ,)'123 ( / $&amp;%6UJ&amp;/ ;#$+/ ,$ #% ,% "#( $ ,#/ #+% 3 ( +6,( )%B 6V FB 6UWOXF 4 Y$ ",8$+"&amp;)'#$ ( )$ % ,3 &amp;'#&amp;)0/ ,$ $*,0;/ (B Z [ &amp;)0Z [ [ F&amp;$% "#6U ,-% "#$ ;26"&amp;$ #2#/ ,8&amp;)&amp;0$ ,3 2#0/ &amp;.#3,-N: / &amp;+% ,'/ ,2;/ ( )123 ( / $B *#0( &amp;)+,)% ,;3/ #)'% "\C4 W]*F8&amp;$'3 &amp;0;&amp;/ / .3 &amp;( $ #0-3 ,*C% ,EEB PQ ;"$ #%&amp;/ 4CDECF 4!"#6U+"&amp;)'#-3 ,*C% ,X+&amp;;$ #$&amp;)^D: -,/ 0( )+3 #&amp;$ #( )Z [ &amp;$% "#)&amp;% ;3 #,-% "#123 ( / O 123 ( /( )% #3 &amp;+% ( ,)$&amp;%% "#( )% #3 -&amp;+#+"&amp;)'#$-3 ,*)#%3 #6;/ $ ( J#% ,)#%&amp;% % 3 &amp;+% ( J#4@( +3 ,3 "#,/ ,'( +&amp;/ &amp;)0*( +3 ,$ % 3 ;+% ;3 &amp;/( )-,3 *&amp;% ( ,),)% "#$ #$ &amp;*#63 ,% #( )123 ( // &amp;.#3 $&amp;%% "#,( / O8&amp;% #3</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>CO G KEDN JDKOO JDFP FLQFGRS P KEM FLP FTCP U AVTO U P NKWN FO TDWKMM JDFU P XYKM DO U AM DO G KEDZ [\ []YM ^VTO U P N _U FAU EN M O DALM J[\ []`KMHIab \cDP KM U dDdKP CDNFGN M FO KLDeFWCP CNf g KAWP FN N eFWCP CNf g g Z ]Ih_a[ i jbKO DHP FM M DWKLKU AN MKWN FO HM U FAM U eDFdDOKk[S JFTN DO dKM U FAKPHDO U FW\lJD N EJDeKM U EWU KLO KeNU P P CN M O KM DM JDAKM CO DFGM JDVTO U PU AM DO KEM U FANKMHIaZ O DHCP N U FAb _HImZ KM M O KEM U FAb _KAW HI]]Z O DHCP N U FAb \nWKHM DWYU M JHDO eU N N U FAG O Feco CJNDMKP \Z a[]ab \jFHQO U LJMneDO U EKAjJDeU EKPpFEU DM Q\ YKQM FU eHO FdDHO FM DU AN FP CTU P U M QKAWN M KTU P U hU ALKTU P U M QCAWDOM JDN DCAG KdFO KTP DEFAWU M U FAN q KAWWCO U ALdKO U FCNHO FEDN N U ALFHDO KM U FANN CEJKNJDKM U AL_G O DDhU AL_FOWO QU ALqU NM FeFWU G QM JD eFP DECP KON M O CEM CO DTQEFdKP DAM P QKM M KEJU ALKJQWO FHJU P U EHFP QeDOZ HFP QN KEEJKO U WDb \lJDDN N DAM U KP EFAEDHMCAWDO P QU ALM JU NN M O KM DLQU NM FWDN U LAKAKeHJU HJU P U EEFAr CLKM DM JKMEKAKEMKNKEFHFP QeDO N M KTU P U hU ALKLDAM \lJKMU N _M JDEFAr CLKM DU NEFAN U WDO DWM FTDN M O FALP QKAEJFO DWM FM JDFU P XYKM DO U AM DO G KEDdU KM JDHO FM DU As NJQWO FHJFTU EODLU FAN _YU M JM JDAFAKWN FO TU ALHFP QN KEEJKO U WDODLU FA DtM DAWU ALKYKQG O Fe M JDU AM DO G KEDM FHO FdU WDDAJKAEDWN M DO U EN M KTU P U hKM U FAZ uU EvU AN FAa[[wb \ lJDTKN U EHO U AEU HP DU NU P P CN M O KM DWU A9: ;&lt;=&gt;xTQM JDM JDFO DM U EKPWDAN U M QHO FVP DNEKP ECP KM DWG O Fe HFP QeDOKWN FO HM U FAM JDFO QG FOKEFeTU AKM U FAFGKHO FM DU AS P U vDHFP QeDOZ ][[N DLeDAM N bKAWK HFP QN KEEJKO U WDS P U vDHFP QeDOZ ]_ [[[N DLeDAM N bU AM JDdU EU AU M QFGKHP KADU AM DO G KEDZ yM M DP KU DDMKP \ a[[wb \lJDHO FM DU AS P U vDHFP QeDOKWN FO TNN M O FALP QM FLU dDKM JU AP KQDOFGJU LJN DLeDAMWDAN U M Q_ YJDO DKNM JDHFP QN KEEJKO U WDEJKU ADtM DAWNKYKQG O FeM JDU AM DO G KEDKNKM JU EvP KQDOFGP FYN DLeDAM WDAN U M Q\lJDM JDFO QN JFYNM JKM _YJDAM JDO DU NKN M O FALKN N FEU KM U dDU AM DO KEM U FATDM YDDAM JDM YF TU FHFP QeDO NU AdFP dU ALFADN HDEU VEODLU FAFGM JDHFP QN KEEJKO U WDZ U \ D\ _KEFdKP DAMEFAr CLKM Db _M JD N DEFAWKO QP KQDOFGHFP QN KEEJKO U WDEFAG DO NDAJKAEDWEFP P FU WKPN M KTU P U M QFAM JDHO FM DU AHO U eKO Q P KQDOTQeDKANFGKP FALS O KALDN M DO U EO DHCP N U FAZ uU EvU AN FAa[[wb \ytHDO U eDAM KPdDO U VEKM U FAFGM JD U eHFO M KAEDFGM JU NN M DO U EN M KTU P U hKM U FAU AHO DdDAM U ALBFEECP KM U FAJKNTDDAWDeFAN M O KM DWODEDAM P Q U AKN M CWQFGeFWDPDeCP N U FAN QN M DeNN M KTU P U hDWTQEFAr CLKM DNTKN DWFAFP U LFN KEEJKO U WDNYU M J dKO U KTP DeFP DECP KON U hDNZ uDP KJKU r DDMKP \a[]zb \ @ AM DO DN MU AM JDCN DFGKN U eHP DWO QS JDKMM O DKM eDAMG FOHO DHKO U ALG CAEM U FAKPHO FM DU AX HFP QN KEEJKO U WDEFAr CLKM DNdU KM JD`KU P P KO WO DKEM U FAEFAM U ACDNM FKM M O KEMN M DKWU P QLO FYU ALKM M DAM U FA G O FeO DN DKO EJDO NZ uU EvU AN FAa[[{_ydKANDMKP \a[]z_WD|P U dDU O KDMKP \a[]}b \jKN DU ANJKdDTDDA EFAr CLKM DWYU M JeKP M FWDtM O U AZ |s cDLKA~`CP dU JU P Pa[][K_OU LFO FdU EJDMKP \a[]a_`357 2B-4C DEE/-FB-.1 / G&lt;.? &lt;357 2/ &lt;::8&lt;4 0 ?-@ 7 0 A-357 2B-4C DH EEE/ -FB-.1 / G; 54&lt;B5?-70 .I80 :8&lt;/ B&lt;7 7; 4 &lt;:1 0 5.5;1 8-357 2/ &lt;::8&lt;4 0 ?-357 2B-40 /&lt;/ / 5:0 &lt;1 -?I0 1 81 8-34 51 -0 .JK57 2B-4/ -FB-.1957 =B-; 4 &lt;:1 0 5.0 /37 51 1 -?&lt;F&lt;0 ./ 11 8-?0 / 1 &lt;.:-; 4 5B 1 8-/ =4 ; &lt;:-JL8-/ :8-B&lt;1 0 :?0 &lt;F4 &lt;B0 7 7 =/ 1 4 &lt;1 -/1 8-:8&lt;.F-; 4 5B&lt;34 51 -0 .@ / 1 &lt;&gt;0 7 0 M-?50 7?4 537 -10 .1 55.-/ 1 &lt;&gt;0 7 0 M-?&gt;2&lt;34 51 -0 .N357 2/ &lt;::8&lt;4 0 ?-:5.O =F&lt;1 -HI8-4 -1 8-5=1 -4357 2/ &lt;::8&lt;4 0 ?-:8&lt;0 ./&lt;4 -/ 85I.0 .F4 --.J P0 9.-2QEDQG&lt;.??-R1 4 &lt;.C S0 7 7 -4TP54 -.M-.QEDEG JU8-234 51 -0 ./8&lt;9-&gt;--.:5.O =F&lt;1 -?I0 1 8 ?-R1 4 &lt;.C V=-1&lt;7 JQEDE&gt;WX=.-1&lt;7 JQEDD&lt;WP-/ B-/TY:Z7 -B-.1 /QEDQWX351 1 0-1&lt;7 JQED[HQED\G H 3-:1 0 .C V=-1&lt;7 JQEDQG H&lt;.?:54 .6&gt;-4F=BC ]&lt;?&lt;9-1&lt;7 JQEDQG JX5234 51 -0 ./8&lt;9-&gt;--.:5.O =F&lt;1 -? I0 1 8?-R1 4 &lt;.C V=-1&lt;7 JQEDE&lt;G H; -.=F4 --AF=BC ^&lt;/ 4 &lt;.-1&lt;7 JQED[G HB&lt;7 1 5?-R1 4 0 .H&lt;.?F=B&lt;:&lt;:0 &lt; C V=--1&lt;7 JQED[G J,42@ 8-&lt;1:5.O =F&lt;1 -/8&lt;9-&lt;7 / 5&gt;--.34 -3&lt;4 -?; 4 5B-FF@ I80 1</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head></head><label></label><figDesc>! " &gt;= &gt;V! @' &gt;9; F1539F4 061 T)Z6 64 ,89F4805 1 8426 61 51 45 2 66 6 H 8W&gt;= &gt;L ?D &gt;14; 4FJ53RJ 7 41+)X 1.[)\648:)+ 3[89F98 4 21 01 5 26 5 1 21 G264 6 5723 1 48)O 1</figDesc></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>]]]_``a_b cd ef d ]g ĥ cijkh b b h f lgf `mh h l n no</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>3, while 2F-PEA and 4F-PEA produced low dimensional perovskite containing majority n = 2. Therefore, we selected 3F-PEA as the target ligand to conduct further optimization in p-i-n inverted PSCs. Herein, for n-i-p PSCs in this work, the band alignment requirements for the 2D perovskite layer are the opposite. In n-i-p devices, the 2D perovskite should have a CBM that is as high as possible to block electrons. Thus, we selected the ligand of 4F-PEA which produces the smallest n values when preparing low dimensional perovskites. Supplementary Figure <ref type="figure">2</ref> | Photo of a CLP film on a glass substrate. a, The CLP thin film was deposited on the glass substrate by spin coating the CLP precursor solution (30 mg mL -1 in tetrahydrofuran) at 200 rpm for 30 seconds. b, The CLP thin film was separated from the glass substrate by a tweezer. Supplementary Figure <ref type="figure">6</ref> | TGA of polymerized EDMA (pEDMA) with x mol% POSS. Comparison of the device performance obtained by 3D, 3D/2D, 3D/CLP and 3D/CLP/2D perovskite heterostructures. The standard error is represented in boxplots, for which the box extends from the 25 th to the 75 th percentiles, the empty squared dot depicts the average value, the short dash lines depict the minima and maxima. For each structure, sixteen cells were fabricated at the same condition.      Two-dimensional (2D) and quasi-2D modifications of three-dimensional (3D) perovskite active layers have contributed to advances in the performance of perovskite solar cells (PSCs). However, the ionic diffusion between the surface 2D and bulk 3D perovskites leads to the degradation of the 3D/2D p er ov sk ite h et er os tr uc tures and limits the long-term stability of PSCs. Here we incorporate a cross-linked polymer (CLP) on the top of a 3D perovskite layer and then deposit a 2D perovskite layer via a vapour-assisted two-step process to form a 3D/CLP/2D perovskite heterostructure. P ho to lu mi nescence spectra and thickness-profiled elemental analysis indicate that the CLP stabilizes the heterostructure by inhibiting the diffusion of cations (formamidinium, FA + and 4 -f u or op henyl et hy la mm onium, 4F-PEA + ) between the 2D and 3D perovskites. For devices based on carbon electrodes, we report small-area devices with an efficiency of 21.2% and mini-modules with an efficiency of 19.6%. Devices retain 90% of initial performance after 4,390 hours operation under maximum power point tracking and one-sun illumination at elevated temperatures.</p><p>Organic-inorganic hybrid perovskite solar cells (PSCs) have recently undergone a rapid rise in certified power-conversion efficiencies (PCEs) to exceed 25% for sub-1 cm 2 PSCs 1-4 and 20% for perovskite solar modules (PSMs) <ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref> . Many of the best PSCs employ two-dimensional (2D) or quasi-2D modified (three-dimensional) 3D perovskite (3D/2D perovskite) heterostructures, which provide defect passivation <ref type="bibr">[8]</ref><ref type="bibr">[9]</ref><ref type="bibr">[10]</ref> and favourable band alignment <ref type="bibr">[11]</ref><ref type="bibr">[12]</ref><ref type="bibr">[13]</ref> and thus can improve open-circuit voltage (V OC ) and fill factor (FF) <ref type="bibr">[14]</ref><ref type="bibr">[15]</ref><ref type="bibr">[16]</ref> . These 3D/2D perovskite heterostructures are Article <ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> inspiration from rechargeable batteries or fuel cells, where ion diffusion is inhibited by inserting separation materials (such as POSS-and EDMA-based polymers) as proton exchange membranes <ref type="bibr" target="#b75">[40]</ref><ref type="bibr" target="#b76">[41]</ref><ref type="bibr" target="#b77">[42]</ref><ref type="bibr" target="#b78">[43]</ref> . POSS consists of a rigid, cubic Si-O-Si cage-type core with eight ethylene groups that can bridge the linear EDMA chains in various directions via olefin polymerization. Approximately 3 mol% POSS dispersed in EDMA provides abundant cross-linking points and leads to the formation of a polymer film with highly cross-linked networks <ref type="bibr" target="#b79">[44]</ref><ref type="bibr" target="#b80">[45]</ref><ref type="bibr" target="#b81">[46]</ref> . When the self-polymerization was carried out on a glass substrate, a uniform and free-standing transparent CLP film was obtained (Supplementary Fig. <ref type="figure">2</ref>). The self-polymerization reaction was confirmed by Fourier transform infrared spectroscopy (FTIR) (Supplementary Fig. <ref type="figure" target="#fig_8">3</ref>). Moreover, the CLP film was found to be insoluble in polar solvents such as H 2 O, isopropanol (IPA) and dimethylformamide (DMF) (Supplementary Fig. <ref type="figure">4</ref> and Supplementary Video 1).</p><p>Pristine PbBr 2 films are transparent and colourless. However, PbBr 2 films dipped in FAI or 4F-PEAI solutions rapidly turn brown or yellow. X-ray diffraction (XRD) measurements verified the formation of 3D FAPb(I x Br 1-x ) 3 (brown) and 2D 4F-PEA 2 Pb(I x Br 1-x ) 4 (yellow) <ref type="bibr" target="#b82">[47]</ref><ref type="bibr" target="#b83">[48]</ref><ref type="bibr" target="#b84">[49]</ref> , as shown in Fig. <ref type="figure" target="#fig_5">1c,</ref><ref type="figure">d</ref>. For PbBr 2 films covered by PEG, PS, PMMA and EDMA monomers, similar phenomena were observed. This indicates that these small molecules and linear polymers are not ideal candidates for inhibiting the diffusion of FA + and 4F-PEA + cations. On the contrary, the PbBr 2 / pEDMA and PbBr 2 /CLP films maintained their original colour after dipping in FAI or 4F-PEAI solution. The XRD patterns show the PbBr 2 films were not fully transformed into 3D FAPb(I x Br 1-x ) 3 or 2D 4F-PEA 2 Pb(I x B r 1-x ) 4 , which indicates that the cross-linked pEDMA and CLP layer can effectively inhibit the diffusion of FA + and 4F-PEA + cations. Meanwhile, the formation of a small 2D diffraction peak in the PbBr 2 /pEDMA and PbBr 2 /CLP films indicates a small amount of FA + and 4F-PEA + can still pass through the CLP layer to form 3D or 2D perovskites (Fig. <ref type="figure" target="#fig_5">1c,</ref><ref type="figure">d</ref> and Supplementary Note 1). Our further studies show that the CLP layer is more effective at inhibiting ion diffusion and has better stability under thermal stress due to the incorporation of POSS (Supplementary Figs. <ref type="figure">5</ref> and<ref type="figure">6</ref> and Supplementary Note 2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stabilization effect of CLP on perovskite heterostructures</head><p>To fabricate the conventional 3D/2D perovskite heterostructure, we deposit a (FAPbI 3 ) 0.95 (MAPbBr 3 ) 0.05 (formamidinium, FA; methylammonium, MA) 3D perovskite layer on a SnO 2 -coated ITO glass substrate and then post-treat the surface with a solution of 4-fluorophenylethylammonium iodide (4F-PEAI) in IPA solvent (Fig. <ref type="figure">2a</ref>) <ref type="bibr">8,</ref><ref type="bibr">17,</ref><ref type="bibr" target="#b85">50</ref> . XRD patterns in Fig. <ref type="figure">2b</ref> show a characteristic diffraction peak at 5.2°, which indicates the formation of 2D 4F-PEA 2 PbI 4 ((4F-PEA) <ref type="bibr">17,</ref><ref type="bibr" target="#b84">49</ref> . After thermal ageing at 100 °C for 120 min, the 2D 4F-PEA 2 PbI 4 diffraction peak in the 3D/2D heterostructure disappears. Additionally, the photoluminescence (PL) spectra show that the emission peaks of 3D (FAPbI 3 ) 0.95 (MAPbBr 3 ) 0.05 and 2D 4F-PEA 2 PbI 4 are located at 800 nm and 511 nm respectively for the 3D/2D perovskite heterostructure (Fig. <ref type="figure">2c</ref>). After thermal ageing, the emission peak of 4F-PEA 2 PbI 4 for the 3D/2D heterostructure also completely disappears. These results are indicative of the instability of the 3D/2D perovskite heterostructure, which is attributed to ion diffusion between the surface 2D and bulk 3D perovskites <ref type="bibr">21,</ref><ref type="bibr">22</ref> .</p><formula xml:id="formula_0">2 FA n-1 Pb n I 3n+1 , n = 1)</formula><p>To fabricate the 3D/CLP/2D perovskite heterostructure, we first deposited a 3D perovskite layer. The CLP layer is formed by spin coating a POSS and EDMA mixed solution in chlorobenzene and ethyl acetate mixed solvent on the above 3D perovskite and annealing at 100 °C for 10 min (Supplementary Fig. <ref type="figure">7</ref>). These low-polarity solvents are compatible with 3D perovskites and thus do not induce degradation of the 3D perovskite. The thickness of the CLP layer is estimated to be &lt;3 nm (Supplementary Fig. <ref type="figure">8</ref> and Supplementary Note 3). The 2D perovskite layer was deposited by a vapour-assisted two-step process <ref type="bibr" target="#b86">[51]</ref><ref type="bibr" target="#b87">[52]</ref><ref type="bibr" target="#b88">[53]</ref> . Lead iodide (PbI 2 ) was first evaporated on the CLP layer and commonly prepared by spin coating an organic cation salt solution on top of 3D perovskites and in situ formation of thin low-dimensional perovskites (such as 2D and quasi-2D) on the surface <ref type="bibr">[17]</ref><ref type="bibr">[18]</ref><ref type="bibr">[19]</ref><ref type="bibr">[20]</ref> . The ion diffusion between the surface 2D and bulk 3D perovskites (for example, cations in the 3D perovskite layer move towards the 2D layer) is known to contribute to the degradation of 3D/2D perovskite heterostructures under bias, illumination and heat <ref type="bibr">13,</ref><ref type="bibr">21,</ref><ref type="bibr">22</ref> . Currently, the long-term operational stability of these highly efficient PSCs is limited to &lt;2,000 hours at room temperature, and ~500 hours at elevated temperatures (≥60 °C) under maximum power point (MPP) tracking and continuous illumination (Supplementary Table <ref type="table" target="#tab_0">1</ref>).</p><p>For ion diffusion within the perovskite absorbing layer, mitigation strategies have been sought after via halide compositional tuning <ref type="bibr">[23]</ref><ref type="bibr">[24]</ref><ref type="bibr">[25]</ref> , the incorporation of large organic cations <ref type="bibr">[26]</ref><ref type="bibr">[27]</ref><ref type="bibr">[28]</ref><ref type="bibr">[29]</ref> and the introduction of ionic additives <ref type="bibr">[30]</ref><ref type="bibr">[31]</ref><ref type="bibr">[32]</ref><ref type="bibr">[33]</ref><ref type="bibr">[34]</ref> . For ion diffusion across interfaces and the stacked layers within PSCs, the construction of interlayers has been proven effective <ref type="bibr">[35]</ref><ref type="bibr" target="#b71">[36]</ref><ref type="bibr" target="#b72">[37]</ref><ref type="bibr" target="#b73">[38]</ref><ref type="bibr" target="#b74">[39]</ref> . In particular, Bi et al. chose tri-s-triazine-based graphitic carbon nitride nanosheets to form an iodide diffusion barrier layer in p-i-n PSCs <ref type="bibr">35</ref> . Wang et al. deposited a chlorinated graphene oxide layer between the perovskite and hole transporting layer (HTL) in n-i-p PSCs to prevent the iodide ions in the perovskite layer from diffusing into the HTL <ref type="bibr" target="#b71">36</ref> . However, inhibiting ion diffusion between the 3D and 2D perovskites and stabilizing the 3D/2D perovskite heterostructures remains an ongoing challenge <ref type="bibr">13,</ref><ref type="bibr">21,</ref><ref type="bibr">22</ref> .</p><p>To construct a stable 3D/2D perovskite heterostructure, we propose to introduce an interlayer between the 3D and 2D perovskite layers. The interlayer needs to effectively inhibit ion diffusion and, meanwhile, not hinder charge transport between the 3D and 2D perovskite layers. For the deposition of the interlayer and 2D perovskite layer, the technique and process need to be operated without degrading or damaging the underlying layers. Comparing small molecules versus regular polymers as the interlayer, we found that a highly cross-linked polymer (CLP) was more effective at inhibiting ion diffusion and stabilizing the 3D/2D perovskite heterostructure. We selected a polymer prepared by self-polymerization of ethylene dimethacrylate (EDMA) and polyhedral oligomeric silsesquioxane (POSS) under moderate conditions (≤100 °C) and processed the polymer layer from a solution that does not degrade the 3D perovskite. For simplicity, CLP represents the POSS-EDMA-based polymer below. At the same time, we developed a vapour-assisted two-step deposition process to form the 2D perovskite layer on the 3D perovskite/CLP bilayer, which prevented the destruction of the underlying 3D perovskite during the deposition of the 2D perovskite. We fabricated carbon-electrode-based PSCs using the 3D/ CLP/2D perovskite heterostructure with an efficiency of 21.2% (aperture area of 0.16 cm 2 ), and demonstrate a carbon-electrode-based PSM with a certified efficiency of 18.2% (aperture area of 17.1 cm 2 ). The cell achieved a T 90 (the time taken for device efficiency to reduce to 90% of its initial value) of 4,390 hours under one-sun illumination and MPP tracking at 60 °C, showing superior stability compared with the PSCs based on conventional 3D/2D perovskite heterostructures at elevated temperatures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Selection of CLP</head><p>The molecular structures of EDMA, POSS, CLP and preparation process of the 3D/CLP/2D perovskite heterostructure are presented in Fig. <ref type="figure" target="#fig_5">1a</ref>. For the design and selection of CLP, it should inhibit the diffusion of FA + and 4F-PEA + cations between the 3D and 2D perovskite layers and stabilize the 3D/2D perovskite heterostructure. Some organic materials including small molecules and polymers were screened based on an experiment studying the reactions of lead bromide (PbBr 2 )/organic films with formamidinium iodide (FAI) or 4-fluorophenylethylammonium iodide (4F-PEAI) (Fig. <ref type="figure" target="#fig_5">1b</ref>). These organic materials include a small molecular EDMA monomer; three linear polymers of polyethylene glycol (PEG), polystyrene (PS) and polymethyl methacrylate (PMMA) (Supplementary Fig. <ref type="figure" target="#fig_5">1</ref>) and two cross-linked polymers of EDMA (pEDMA) and the CLP. We decided to investigate pEDMA and the CLP by taking Article <ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> then a 4-fluorophenylethylammonium iodide (4F-PEAI) <ref type="bibr">17,</ref><ref type="bibr" target="#b85">50</ref> solution (15 mmol in IPA) was spun on the above 3D/CLP/PbI 2 stacked film and annealed at 100 °C for 10 min (Supplementary Note 4 details the selection of 4F-PEAI).</p><p>XRD spectra in Fig. <ref type="figure">2b</ref> show a stronger characteristic diffraction peak at 5.2° for the 3D/CLP/2D perovskite heterostructure than the 3D/2D perovskite heterostructure, which indicates the formation of a thicker 2D perovskite layer <ref type="bibr" target="#b84">49,</ref><ref type="bibr" target="#b85">50</ref> . The cross-sectional SEM images show a ~500 nm 3D perovskite layer and a ~10 nm low-dimensional perovskite layer for the 3D/2D heterostructure and a ~500 nm 3D perovskite layer, a several nanometre CLP layer and a thicker ~30 nm 2D perovskite layer for the 3D/CLP/2D heterostructure (Fig. <ref type="figure">2a</ref>). The XRD spectrum of the aged 3D/CLP/2D perovskite heterostructure shows that the characteristic diffraction peak at 5.2° remains relatively unchanged. A similar effect is observed for the PL spectra, where the PL emission peaks for the aged 3D/CLP/2D perovskite heterostructure retain their initial positions and intensities (Fig. <ref type="figure">2c</ref>). A thick 2D perovskite layer was directly prepared on a 3D perovskite without the CLP layer by the same vapour-assisted two-step process as in the 3D/CLP/2D perovskite heterostructure. Notably, the red-shift PL peak position of the 2D perovskite in the 3D/thick 2D (vapour-deposited) heterostructure compared with the normal solution-processed 3D/2D heterostructure is attributed to the difference in thickness and quantum confinement effect <ref type="bibr" target="#b85">50,</ref><ref type="bibr" target="#b89">54</ref> . The intensity of the PL emission peak of 4F-PEA 2 PbI 4 largely decreases, and a new peak corresponding to 4F-PEA 2 FAPb 2 I 7 (n = 2) appears after thermal ageing of the 3D/thick 2D heterostructure <ref type="bibr">21,</ref><ref type="bibr">22</ref> . This indicates that the 3D/thick 2D heterostructure shows better stabi lity than normal solution-processed 3D/2D heterostructure; however, its stability remains inferior to that of the 3D/CLP/2D perovskite hetero structure. The PL spectra of the heterostructure using EDMA as the interlayer showed similar behaviour with that of the 3D/thick 2D heterostructure (Fig. <ref type="figure">2d</ref>). pEDMA as the interlayer resulted in suppression of the formation of the peak for 4F-PEA 2 FAPb 2 I 7 ; however, the intensity of the PL emission peak of 4F-PEA 2 PbI 4 still decreased. These results indicate that the CLP layer plays the dominant role of stabilizing the 3D/2D perovskite heterostructure under thermal stress.</p><p>To correlate the degradation of the 2D perovskite to ion diffusion, we employed atomic force microscopy-based infrared spectroscopy (AFM-IR) measurements to investigate the surface properties of the perovskite heterostructures. Imaging results were recorded at 1,712 cm -1 , which corresponds to the symmetric C = NH 2 + bending of FA + . As shown in Fig. <ref type="figure">2e</ref>, initially, the 3D/2D perovskite heterostructure showed distinct signals of FA + cations, while there were low signals of FA + cations in the initial 3D/CLP/2D perovskite heterostructure. This indicated that the 2D perovskite layer in the 3D/CLP/2D perovskite heterostructure achieved more complete and uniform coverage on the Article <ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> 3D perovskite layer than that in the 3D/2D perovskite heterostructure.</p><p>After the perovskite heterostructures are aged at 100 °C for 120 min, the FA + signals largely increase on the surface of the 3D/2D perovskite heterostructure, which indicates the upward diffusion of FA + ions and the phase transformation from the 2D perovskite of 4F-PEA 2 PbI 4 into 3D perovskite during thermal stress. On the contrary, the 3D/CLP/2D perovskite heterostructure shows an almost unchanged FA + signal, which verifies the limited ion diffusion between the 3D and 2D perovskites and the enhanced stability of the 3D/CLP/2D heterostructure. X-ray photoelectron spectroscopy (XPS) spectra show that the characteristic peaks of N in FA + for the 3D perovskite layer and 4F-PEA + for the 2D perovskite layer are at 400.8 eV and at 402.0 eV, respectively (Supplementary Fig. <ref type="figure">9</ref>). XPS depth profiling in Fig. <ref type="figure">2f</ref> shows that the characteristic peak of F in 4F-PEA + can be detected only on the top surface for ~45 s. For the 3D/CLP/2D perovskite heterostructure, 4F-PEA + can be detected on the film surface for ~120 s, which is also indicative of the thicker 2D layer in the 3D/CLP/2D perovskite heterostructure. Meanwhile, the downward diffusion of 4F-PEA + ions in the 3D/2D perovskite heterostructure is observed after thermal ageing, which is inhibited by the CLP layer in the 3D/CLP/2D heterostructure. Furthermore, we conducted ultrafast transient absorption (TA) spectroscopy measurements of 3D/2D and 3D/CLP/2D perovskite heterostructures as shown in Fig. <ref type="figure">2g</ref>  <ref type="bibr" target="#b90">55,</ref><ref type="bibr" target="#b91">56</ref> . Both initial perovskite heterostructures show the characteristic peaks at 773 nm from 3D perovskite, and at 515 nm from 2D perovskite 4F-PEA 2 PbI 4 (n = 1) <ref type="bibr" target="#b91">56</ref> . Additionally, small n = 2 2D perovskite peaks are also observed for the two heterostructures. This indicates that a small amount of FA + diffuses into the 2D perovskite through the CLP layer to form n = 2 perovskites. After ageing at 100 °C for 120 min, the characteristic peak from 4F-PEA 2 PbI 4 (n = 1) for the 3D/2D heterostructure almost completely vanished, while the peak for the 3D/CLP/2D heterostructure remained unchanged. Thus, we conclude that the CLP layer not only largely inhibits the ion (including both FA + and 4F-PEA + ) diffusion between the stacked perovskite layers but also effectively stabilize the phase states of the 3D and 2D perovskites under thermal stress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Charge carrier dynamics and device performance</head><p>To investigate the carrier dynamics within the 3D/CLP/2D perovskite heterostructure and with perovskite/HTL stacks, we conducted time-resolved photoluminescence (TRPL) measurements. On glass  substrates, the 3D/2D perovskite heterostructure and the 3D/CLP film show longer average carrier lifetimes (τ avg ) (315 ns and 341 ns) than the pristine 3D perovskite (248 ns) (Fig. <ref type="figure" target="#fig_8">3a</ref> and Supplementary Table <ref type="table">4</ref>). The τ avg of the 3D/CLP/2D perovskite heterostructure further increases to 423 ns. This is indicative of synergistic passivation from the CLP and 2D perovskite. When a 2,2′,7,7′-tetrakis (N,N-di-p-methoxyphenyl-amine)-9,9′-spirobifluorene (spiro-OMeTAD) layer was deposited on top of the samples, the 3D perovskite, 3D/2D, 3D/CLP and 3D/CLP/2D perovskite heterostructures show similar τ avg and τ 1 (Fig. <ref type="figure" target="#fig_8">3b</ref>). This indicates efficient charge extraction from the perovskites to the HTL can still be achieved after incorporating the CLP layer in the perovskite heterostructure. Consistent results were also obtained for the steady-state PL spectra (Supplementary Fig. <ref type="figure" target="#fig_5">10</ref>). Space charge-limited current spectra <ref type="bibr" target="#b92">[57]</ref><ref type="bibr" target="#b93">[58]</ref><ref type="bibr" target="#b94">[59]</ref> of the perovskite heterostructures show that the 3D/2D and 3D/CLP/2D perovskite heterostructures generate current densityvoltage (J-V) curves with similar shapes and comparable current values (Supplementary Figs. <ref type="figure" target="#fig_5">11</ref> and<ref type="figure" target="#fig_5">12</ref>) for both electron-only and hole-only devices. By fitting the linear regions, the electron and hole mobilities of the 3D/CLP/2D heterostructure are similar compared with that of the 3D perovskite or 3D/2D heterostructure. Thus, the CLP layer has not hindered the transport of either the electrons or the holes within the heterostructures. We conducted ultraviolet photoelectron spectroscopy (UPS) and ultraviolet-visible absorption spectroscopy (UV-vis) measurements to estimate the energy levels of the perovskite heterostructures (Supplementary Fig. <ref type="figure" target="#fig_8">13</ref>). Compared with the 3D perovskite (FAPbI 3 ) 0.95 (MA   </p><formula xml:id="formula_1">V OC (V) J SC (mA cm -2 ) FF PCE (%)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head><p><ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> </p><p>PbBr 3 ) 0.05 , the incorporation of the CLP on the 3D perovskite leads to negligible change of the bandgap (1.55 eV), conduction band minimum and valence band maximum (Fig. <ref type="figure" target="#fig_8">3c</ref>). The 2D perovskite 4F-PEA 2 PbI 4 possesses a much larger bandgap of 2.36 eV and forms type-I band alignment with the 3D perovskite <ref type="bibr" target="#b95">60</ref> . The close valence band maximum position of the 3D and 2D perovskites do not hinder the transport of holes from the 3D perovskite layer to the HTL <ref type="bibr">10,</ref><ref type="bibr">11</ref> , while the higher conduction band minimum of the 2D perovskite than the 3D perovskite acts as an electron-blocking layer, effectively preventing the recombination of electrons in the perovskite and holes in the HTL for the 3D/2D and 3D/CLP/2D heterostructures <ref type="bibr">10,</ref><ref type="bibr">13</ref> . This favourable band alignment contributes to the enhanced V OC of as-fabricated cells, and the selection of 4F-PEAI is discussed in Supplementary Note 4.</p><p>To avoid the instability issues associated with metal electrodes <ref type="bibr" target="#b71">36,</ref><ref type="bibr" target="#b96">61,</ref><ref type="bibr" target="#b97">62</ref> , we prepared carbon electrodes based on the screen-printing technique (Supplementary Fig. <ref type="figure" target="#fig_5">14</ref>) to fabricate PSCs with a device architecture of ITO/SnO 2 /3D/CLP/2D/spiro-OMeTAD/ carbon. We optimized the concentration of the CLP solution and found that the CLP layer prepared with a concentration of 3 mg ml -1 delivered the optimal cell efficiency (Fig. <ref type="figure" target="#fig_8">3d</ref>). We fabricated cells using 3D perovskite, 3D/2D, 3D/CLP and 3D/CLP/2D heterostructures as the light-absorbing layers, and the distribution of efficiencies is presented in Fig. <ref type="figure" target="#fig_8">3e</ref>, Supplementary Table <ref type="table">5</ref> and Supplementary Fig. <ref type="figure" target="#fig_5">15</ref>. The cells based on 3D perovskite achieve an average efficiency of 18.83%. The average efficiencies of devices based on 3D/2D and 3D/CLP heterostructures are improved to 19.81% and 19.91%, respectively. The cells based on the 3D/CLP/2D heterostructure deliver an average efficiency of 20.29%. The efficiency improvement mainly results from the enhanced V OC , which is attributed to the synergistic passivation effect of the CLP and 2D perovskite. Figure <ref type="figure" target="#fig_8">3f</ref> shows the representative J-V curves of the cells. For the champion 3D/CLP/2D cell, we achieve a high efficiency of 21.2% with a V OC of 1.13 V, a current density (J SC ) of 24.00 mA cm -2 and a FF of 0.78 for carbon-electrode-based PSCs (Supplementary Table <ref type="table">6</ref>). The steady-state power output (SPO) efficiency of the cell reaches ~20.87% (Supplementary Fig. <ref type="figure" target="#fig_1">16</ref>). The external quantum efficiency spectrum of the 3D/CLP/2D PSC shows an integrated short-circuit current density of 23.34 mA cm -2 (Fig. <ref type="figure" target="#fig_8">3g</ref>), which is in agreement with the J-V scanning result. We further fabricated a PSM with six sub-cells in series, as shown in Fig. <ref type="figure" target="#fig_8">3h</ref> and Supplementary Fig. <ref type="figure" target="#fig_5">17</ref>. The champion PSM based on the 3D/CLP/2D perovskite heterostructure with a carbon electrode and an aperture area of 17.1 cm 2 achieves a PCE of 19.6% with V OC of 6.73 V, short-circuit current of 66.2 mA and FF of 0.751. Furthermore, it exhibits SPO efficiency of 19.1% under a bias voltage of 5.5 V for 100 s (Fig. <ref type="figure" target="#fig_8">3i</ref>). Meanwhile, the PSM achieves a certified efficiency of 19.3% and SPO of 18.2% (Supplementary Fig. <ref type="figure" target="#fig_5">18</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device stability</head><p>To study operational stability, we monitored the cell performance under MPP tracking conditions and continuous one-sun illumination at 60 °C (Supplementary Fig. <ref type="figure" target="#fig_5">19</ref>). The estimated T 90 lifetime of the 3D/2D PSC is 560 h. The PSC based on the 3D/CLP/2D perovskite heterostructure maintains ~92% of the initial efficiency after 1,000 hours under continuous illumination. According to time-of-flight secondary-ion mass spectrometry (TOF-SIMS) of these 1,000 h-aged cells, the diffusion of iodide ions from the perovskite layer to the spiro-OMeTAD layer is effectively suppressed in the 3D/CLP/2D PSC (Supplementary Fig. <ref type="figure">20</ref>). Combined with the XPS depth profiling (Supplementary Fig. <ref type="figure" target="#fig_5">21</ref>), we find that the CLP layer and 2D perovskite synergistically contribute to the suppressed diffusion of iodide.</p><p>To eliminate the negative effect of spiro-OMeTAD on the cell stability and verify the stability of the perovskite heterostructures, we carry out four repairing cycles of the cell by re-depositing the spiro-OMeTAD layer. The cell maintains ~90% of the initial efficiency after 5,000 h continuous operation (Fig. <ref type="figure">4a</ref>). The cell performance recovery indicates that the 3D/CLP/2D perovskite heterostructure is highly stable against light and heat stress. Furthermore, a more stable poly(3-hexylthiophene)-spiro-OMeTAD (P3HT-spiro-OMeTAD) (3:1 w/w) mixed HTL is adopted to replace the unstable spiro-OMeTAD <ref type="bibr">12</ref> . The initial efficiencies of as-fabricated PSCs slightly reduce to 18.6% based on 3D/CLP/2D perovskite heterostructure and 18.0% based on 3D/2D perovskite heterostructure (Supplementary Fig. <ref type="figure">22</ref>). For the long-term operational stability, the efficiency of the 3D/2D PSC decays a 0 500 1,000 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head><p><ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> to ~90% of the initial value after 672 h of continuous operation, while the 3D/CLP/2D PSC maintains 90% of its initial efficiency after continuous operation for 4,390 h at 60 °C (Fig. <ref type="figure">4b</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In summary, we successfully suppress the ion diffusion between surface 2D and bulk 3D perovskites by introducing a highly cross-linked network polymer. A highly stable 3D/CLP/2D perovskite heterostructure is constructed and combined with a carbon electrode to fabricate PSCs with an efficiency of 21.2% and mini-PSMs with an efficiency of 19.6% (certified stabilized efficiency of 18.2%). After 4,390 hours of continuous operation under MPP tracking and one-sun illumination, the device retains 90% of its initial performance. Other materials were purchased from Aladdin and all the materials were used as received unless otherwise specified.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of the additive in carbon paste</head><p>1.0 g of DMSA (5.5 mmol), 0.99 g of ethylene dimethacrylate (EDMA) (5 mmol), 79.1 mg of octavinyloctasilasesquioxane (POSS) (0.125 mmol) and 38 mg of 2,2-dimethoxy-2-phenylacetophenone (2 wt% of reactants) were well dispersed in the tetrahydrofuran (THF) (20 ml) in a quartz flask. The mixture was irradiated using a 365 nm UV lamp (25 W) for 2 h at room temperature. After the reaction was complete, n-hexane was added to obtain a solid crude product. The obtained product was dissolved in THF and precipitated in excess hexane again. Then, the solid was washed with deionized water and further dried under vacuum. Finally, 1.57 g of white additive powder was obtained.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparation of the carbon electrode</head><p>Six g graphite, 2 g carbon black powder, 1.76 g of above additive powder and 0.8 g polyacrylate were mixed in the 2-butoxyethanol/pentyl acetate/ethyl acetate (volume ratio of 5:3:2) mixed solvents and kept ball milling for 12 h to obtain the carbon paste. The pre-prepared carbon paste was coated onto a carbon cloth via a screen-printing process to obtain the carbon film. The carbon paste/carbon cloth-based electrode was peeled off and then soaked in ethanol while sonicating for 10 min to remove the residual solvent. Finally, the carbon electrode was taken out and dried at room temperature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fabrication of perovskite solar cells and mini-modules</head><p>ITO glass was patterned by laser etching (Universal Laser Systems, VLS2.30) with a femtosecond laser. Then the glass substrates were cleaned by sequential ultrasonication in a detergent solution, deionized water and anhydrous ethanol. The SnO 2 dispersion was spin coated on the substrates at 4,000 r.p.m. for 30 s and then annealed at 150 °C for 30 min. After that, a 1.4 M (FAPbI 3 ) 0.95 (MAPbBr 3 ) 0.05 perovskite precursor solution containing of 0.5 M MACl was prepared in DMF/DMSO/ GBL (v/v = 2:1:2). The perovskite precursor solution was spin coated on SnO 2 at 1,000 r.p.m. for 10 s and 5,000 r.p.m. for 20 s. The wet film was then immediately put into a sealed sample chamber connected to a home-built vacuum-pumping system and immediately exposed to low pressure (20 Pa) for 10 s. Subsequently, the perovskite film was put on a hotplate and annealed at 120 °C for 40 min to obtain the pristine 3D perovskite film. Next, 15 mM 4F-PEAI/IPA solution was spun on the above 3D perovskite at 4,000 r.p.m. for 30 s to prepare 3D/2D perovskite heterostructure. For the 3D/CLP/2D perovskite film, 3 mg EDMA, POSS (3 mol% of EDMA) and 2,2′-Azobis(2-methylpropionitrile) initiator (2 wt% of EDMA) were first dissolved in 1 ml of chlorobenzene and ethyl acetate mixed solution (v:v = 1:1) to prepare the CLP solution, and then spun on the above 3D perovskite at 4,000 r.p.m. for 30 s and annealed at 100 °C for 10 min. Then a 30 nm-thick layer of PbI 2 was evaporated at a rate of 0.3 Å s -1 onto the 3D/CLP bilayer film in a vacuum chamber. Subsequently, the same concentration of 4F-PEAI/ IPA solution was spun on the above 3D/CLP/PbI 2 film at 4,000 r.p.m. for 30 s and annealed at 100 °C for 10 min to prepare the 3D/CLP/2D perovskite heterostructure. After cooling down to room temperature, a HTL (73 mg ml -1 spiro-OMeTAD in chlorobenzene with 9.36 mg Li-TFSI salt in acetonitrile and 30 μl 4-tert-butylpyridine) was deposited on the perovskite film by spin coating at 3,000 r.p.m. for 30 s. For the stability test, the P3HT-spiro-OMeTAD mixed HTL (54.75 mg P3HT and 18.25 mg spiro-OMeTAD with 4.68 mg Li-TFSI in acetonitrile and 15 μl 4-tert-butylpyridine) was deposited with the same spin-coating process. Finally, the pre-prepared carbon electrode was pressed onto the HTL under a pressure of 0.3 MPa at 60 °C for 15 s via a pneumatic hot press to complete the whole devices fabrication. For fabricating carbon-based modules, laser scribing was performed twice, before and after perovskite film deposition, to form P1 and P2 with 1,064 nm wavelength to complete the series interconnection between sub-cells in the module. Meanwhile, mechanical scribing was performed on the carbon electrode to obtain sub-electrode units insulated from each other before assembly. Finally, the electrode was pressed onto the HTL with the same process of small-area devices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Repairing of PSCs by re-depositing the HTL</head><p>The degraded PSCs were first disassembled to obtain the free-standing carbon electrode and perovskite/spiro-OMeTAD semi-cell. The spiro-OMeTAD on the semi-cell was washed out with chlorobenzene, followed by the deposition of the new spiro-OMeTAD HTL. Finally, the above disassembled carbon electrode was reassembled on the semi-cell to complete the repair of degraded PSCs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization</head><p>The cross-sectional morphology of perovskite film was investigated by a field-emission scanning electron microscopy (FE-SEM, Hitachi SU8010). The TRPL spectra were measured by a HORIBA Jobin-Yvon Fluorolog-III fluorimeter. The steady-state PL spectra were measured with a 405 nm wavelength excitation source and the PL emission was collected using an optical fibre coupled with an Ocean Optics spectrometer ('Flame') calibrated by the manufacturer. UV-vis absorption of perovskite films was measured by UV-vis spectrometer (lambda 750 S, PerkinElmer). Thermogravimetric analysis was carried out using a TA Instruments TGA 2050 thermogravimetric analyser. The XRD patterns were collected from X-ray diffractometer (D8 Advance). AFM-IR experiments were carried out using a commercial AFM-IR set-up (NanoIR3s, Bruker) that consists of an AFM microscope operating in contact mode and a Quantum Cascade Laser or QCL laser (MIRcat, Daylight Solutions Inc.) that was tunable from 2,350 cm -1 to ≈870 cm -1 (from 4.25 μm to 11.49 μm). The J-V curves were measured using a solar simulator (Oriel 94023 A, 300 W) with a source meter (Keithley 2400) under 100 mW cm -2 illumination (AM 1.5 G) with a scan rate of</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Supplementary Figure 8 |Supplementary Figure 10 |Supplementary Figure 13 |Supplementary Figure 15 |</head><label>8101315</label><figDesc>Estimation of the thickness of the CLP layer. a, The dependence of CLP layer thickness on solution concentration. The thicknesses of CLP layers prepared with the concentrations of 10, 15 and 20 mg mL -1 are directly measured using a profilometer. Each average (symbol) and standard deviation (error bar) was calculated from the thickness values measured at 3 positions. The thickness of the CLP layer prepared with a concentration of 3 mg mL -1 was estimated by fitting the results with a polynomial function. b, XPS in-depth profiling of 3D/CLP films. The signal for oxygen (O 1s) was used to track the CLP layer. c, Molecular structure of NPB, which was used as the reference for the Argon gun etching process. (a) The steady-state PL spectra of 3D perovskite, 3D/2D, 3D/CLP and 3D/CLP/2D heterostructures on glass substrates. (b) The steady-state PL spectra of 3D/Spiro-OMeTAD, 3D/2D/Spiro-OMeTAD, 3D/CLP/Spiro-OMeTAD and 3D/CLP/2D/Spiro-OMeTAD. Energy level analysis of 3D/CLP/2D perovskite heterostructures. (a, b) UPS spectra corresponding to the secondary electron onset region and the valence band maximums (VBMs) of 3D ((FAPbI3)0.95(MAPbBr3)0.05), 3D/CLP, and 2D (4F-PEA2PbI4) perovskite films. (c, d) Tauc plot of (FAPbI3)0.95(MAPbBr3)0.05 and 4F-PEA2PbI4 showing determination of optical band gap from the intercept. The statistics of photovoltaic performance parameters.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Supplementary Figure 16 |</head><label>16</label><figDesc>Device performance of 3D/CLP/2D PSCs. J-V curves measured at reverse and forward scan (a) and the stabilized output and calculated PCE of the device at a fixed bias (b).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>FS 2 Supplementary Figure 21 |</head><label>221</label><figDesc>Steady-state power output efficiency 20.87%Stabilized current density 22.20 mA cm -Analysis of the iodide diffusion in 3D/2D/Spiro-OMeTAD and 3D/CLP/2D/Spiro-OMeTAD stacked layer. XPS depth profiling of oxygen (O 1s) of 3D/2D/Spiro-OMeTAD (a) and 3D/CLP/2D/Spiro-OMeTAD (c). The detection of oxygen corresponds to the Spiro-OMeTAD layer. XPS depth profiling of iodide (I 3d) of 3D/2D/Spiro-OMeTAD (b) and 3D/CLP/2D/Spiro-OMeTAD (d). The detection of iodide corresponds to the perovskite layer, and iodide that diffuses from the perovskite layer to the Spiro-OMeTAD layer.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Note: Mesoscopic TiO2: m-TiO2; Mesoscopic ZrO2: m-ZrO2; Mesoscopic Carbon: m-C; Copper phthalocyanine: CuPc; Trifluoromethanesulfonic acid vapor doping of carbon nanotube: TFMS-CNT; single titanium (Ti) adatoms anchored on reduced graphene oxide: Ti-rGO; defective multi-walled carbon nanotube: D-MWCNT; poly[(4,4'bis(2butyloctoxycarbonyl-[2,2'-bithiophene]-5,5-diyl)-alt-(2,2'bithiophene-5,5'-diyl)]: PDCBT; Tantalum doped tungsten oxide: Ta-WOX. nature energy Article https://doi.org/10.1038/s41560-023-01205-y Stabilization of 3D/2D perovskite heterostructures via inhibition of ion diffusion by cross-linked polymers for solar cells with improved performance Long Luo 1,8 , Haipeng Zeng 1,8 , Zaiwei Wang 2,8 , Min Li 1 , Shuai You 1 , Bin Chen 2 , Aidan Maxwell 2 , Qinyou An 3 , Lianmeng Cui 3 , Deying Luo 4 , Juntao Hu 5 , Shangzhi Li 1 , Xueqing Cai 1 , Weixi Li 1 , Lin Li 1 , Rui Guo 1 , Rong Huang 6 , Wenxi Liang 1 , Zheng-Hong Lu 4,5 , Liqiang Mai 3,7 , Yaoguang Rong 1,3 , Edward H. Sargent 2 &amp; Xiong Li 1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Preparation of the 3D/CLP/2D perovskite heterostructure and selection of CLP. a, Schematic of the device structure, the deposition of the 2D perovskite layer and the molecular structures and synthesis process of POSS, EDMA and the CLP. b, Schematic for investigating the effectiveness of different polymers at inhibiting ion diffusion. The polymer layer is deposited by spin coating PEG, PS, PMMA and CLP solutions (10 mg ml -1 ) at 1,000 r.p.m. for 20 s. Then the films are dipped either in a FAI solution (20 mg ml -1 in IPA) or a</figDesc><graphic coords="40,91.02,267.37,166.60,114.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head></head><label></label><figDesc>/Spiro-OMeTAD 3D/CLP/2D/Spiro-OMeTAD Time (ns) Normalized PL intensity (a.u.) Normalized PL intensity (a.u.) τ avg = 23 ns τ avg = 27 ns τ avg = 30 ns τ avg = 25 ns</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Charge carrier dynamics and device performance. a, TRPL spectra of 3D perovskite, 3D/2D, 3D/CLP and 3D/CLP/2D perovskite heterostructures on glass substrates. b, TRPL spectra of 3D perovskite, 3D/2D, 3D/CLP and 3D/CLP/2D perovskite heterostructures on spiro-OMeTAD. The measured spectra are fitted by bi-exponential decay function. c, Energy diagram of 3D perovskite, 3D/ CLP, 2D perovskite and spiro-OMeTAD. d, Dependence of cell efficiency on the concentration of the CLP solution.Each average (symbol) and standard deviation (error bar) was calculated from 16 cells prepared at the same conditions. e, Distribution of efficiencies obtained by cells using 3D, 3D/2D, 3D/CLP and 3D/ CLP/2D perovskite heterostructures. The standard error is represented in box plots, for which the box extends from the 25th to the 75th percentiles; the empty squared dot depicts the average value; and the short dashed lines depict the minima and maxima. For each structure, 16 cells were fabricated at the same condition. f, Representative J-V curves of PSCs fabricated using 3D perovskite, 3D/2D, 3D/CLP and 3D/CLP/2D perovskite heterostructures as the lightabsorbing layer. g, External quantum efficiency spectrum and corresponding integrated current density of the champion cell based on the 3D/CLP/2D perovskite heterostructure. h, J-V curves of the champion PSM based on the 3D/ CLP/2D perovskite heterostructure. The inset shows a photograph of the PSM. i, The steady-state output and calculated PCE of the PSM at a fixed bias.</figDesc><graphic coords="42,255.67,369.90,76.08,67.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,105.75,72.00,400.35,143.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,135.75,82.35,340.15,232.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="10,93.43,72.00,425.15,476.91" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,107.25,72.00,396.82,179.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,79.93,72.00,452.14,195.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="16,79.25,72.00,453.35,112.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="17,79.25,72.00,453.37,116.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="18,107.57,81.20,396.83,321.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,72.00,72.00,463.99,258.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="23,72.05,72.05,467.93,325.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="24,164.25,72.00,283.43,207.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="25,72.00,72.00,468.00,173.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 | Summary of reported operating stability of PSCs.</head><label>1</label><figDesc>The perovskite layer is treated with bulky organics, and the back contact is either metal (Au, Ag and Cu) or carbon. (Ref[1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19] </figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Supplementary Table 2 | Peak intensity and integral area obtained from the (001) peak of 3D perovskite and the (020) peak of PbBr2 for different samples.</head><label></label><figDesc>).</figDesc><table><row><cell>Perovskite passivation Samples</cell><cell cols="9">Electrode Peak intensity/ PCE/% (Aperture area/cm 2 ) (001)3D Peak area/ (001)3D Lifetime (MPP) Peak intensity/ T (°C) (020)PbBr2</cell><cell>Journal/Year Peak area/ (020)PbBr2</cell></row><row><cell>CLP/4F-PEAI</cell><cell></cell><cell>Carbon</cell><cell></cell><cell cols="2">21.17 (0.16)</cell><cell></cell><cell cols="3">T90 = 4392 hrs</cell><cell>60 °C</cell><cell>This work</cell></row><row><cell>CLP/4F-PEAI PbBr2/CLP + FAI</cell><cell></cell><cell>Carbon</cell><cell>2980</cell><cell cols="2">18.2 (17.1)</cell><cell cols="2">860.9</cell><cell>-</cell><cell>-4720</cell><cell>This work 1284.1</cell></row><row><cell>MeO-PEAI (ST)</cell><cell></cell><cell>Au</cell><cell></cell><cell cols="2">25.8 (0.096)</cell><cell></cell><cell cols="3">T90 = ~ 500 hrs</cell><cell>-</cell><cell>Nature (2021, Ref. 1)</cell></row><row><cell cols="2">FAHCOO (BT) /OAI (ST) PbBr2/pEDMA + FAI</cell><cell>Au</cell><cell>3160</cell><cell cols="2">25.6 (0.08)</cell><cell cols="2">1957.2</cell><cell cols="2">T85 = 450 hrs</cell><cell>35 5750</cell><cell>Nature (2021, Ref. 2) 2027.8</cell></row><row><cell>DMePDAI2 (ST)</cell><cell></cell><cell>Au</cell><cell></cell><cell cols="2">24.7 (0.12)</cell><cell></cell><cell cols="3">T90 = 1000 hrs</cell><cell>~ 40</cell><cell>Science (2021, Ref. 3)</cell></row><row><cell>OLAI (ST) PbBr2/PMMA + FAI</cell><cell></cell><cell>Ag</cell><cell>12780</cell><cell cols="2">24.3 (0.07)</cell><cell cols="2">3340.5</cell><cell cols="2">T95 = 500 hrs</cell><cell>-</cell><cell>~ 40</cell><cell>Science (2022, Ref. 4) -</cell></row><row><cell>3F-PEAI/MAI (ST) 3F-PEAI/MAI (ST) PbBr2/PS + FAI</cell><cell></cell><cell>Ag Ag</cell><cell>12540</cell><cell cols="2">23.3 (0.05) 23.3 (0.05)</cell><cell cols="2">3396.1</cell><cell cols="2">1000 hrs -no degradation T92 = 500 hrs</cell><cell>-</cell><cell>RT 65</cell><cell>Nat. Photon. (2022, Ref. 5) (2022, Ref. 5) Nat. Photon. -</cell></row><row><cell>choline chloride (ST) i-BABr (ST) PbBr2/PEG + FAI</cell><cell></cell><cell>Au Au</cell><cell>13140</cell><cell cols="2">23.1 (0.16) 20.42 (17.1)</cell><cell cols="4">T90 = 500 hrs T82 = 500 hrs 2900.3</cell><cell>-</cell><cell>RT RT</cell><cell>Science (2020, Ref. 6) (2021, Ref. 7) Science -</cell></row><row><cell>BA2PbI4 (ST) PbBr2/EDMA + FAI</cell><cell></cell><cell>Au</cell><cell>16761</cell><cell cols="2">24.35 (0.094)</cell><cell cols="4">T98 = 1620 hrs 4631.1</cell><cell>-</cell><cell>-</cell><cell>Nat. Energy (2021, Ref. 8) -</cell></row><row><cell>EAI/MAI (ST)</cell><cell></cell><cell>Au</cell><cell></cell><cell cols="2">16.6 (22.4)</cell><cell></cell><cell cols="3">T90 = 1570 hrs</cell><cell>40</cell><cell>Nat. Energy (2020, Ref. 9)</cell></row><row><cell>OATsO (ST) Pristine PbBr2 + FAI</cell><cell></cell><cell>Au</cell><cell>17360</cell><cell cols="2">24 (0.13)</cell><cell cols="2">3683.9</cell><cell cols="2">800 hrs -no degradation</cell><cell>-</cell><cell>40</cell><cell>Nature (2022, Ref. 10) -</cell></row><row><cell>iPAmHCl (BT)</cell><cell></cell><cell>Au</cell><cell></cell><cell cols="2">23.9 (0.16)</cell><cell></cell><cell></cell><cell cols="2">2000 hrs -no degradation</cell><cell>RT</cell><cell>Nat. Energy (2021, Ref. 11)</cell></row><row><cell>-PbBr2</cell><cell></cell><cell>Au</cell><cell>-</cell><cell cols="2">24.04 (0.08)</cell><cell>-</cell><cell cols="3">T95 = ~ 2000 hrs</cell><cell>RT 7940</cell><cell>(2021, Ref. 12) Science 1858</cell></row><row><cell>-</cell><cell></cell><cell>rGO/ Au</cell><cell></cell><cell cols="2">20.4 (0.16)</cell><cell></cell><cell cols="3">T95 = 1000 hrs</cell><cell>60</cell><cell>Science (2019, Ref. 13)</cell></row><row><cell>-</cell><cell></cell><cell>Ag</cell><cell></cell><cell cols="2">22.02 (0.13)</cell><cell></cell><cell cols="3">T92 = 1000 hrs</cell><cell>85</cell><cell>Nat. Nanotechnol. (2020, Ref. 14)</cell></row><row><cell>PbPyA2/TMS (ST)</cell><cell></cell><cell>Cu</cell><cell></cell><cell cols="2">24.3 (0.09)</cell><cell></cell><cell cols="3">T90 = 1000 hrs</cell><cell>55</cell><cell>Science (2022, Ref. 15)</cell></row><row><cell>lead sulfate (ST)</cell><cell></cell><cell>Cu</cell><cell></cell><cell cols="2">21.1 (-)</cell><cell></cell><cell cols="3">T97 = 1200 hrs</cell><cell>65</cell><cell>Science (2019, Ref. 16)</cell></row><row><cell>-</cell><cell></cell><cell>Cu</cell><cell></cell><cell cols="2">20.1 (17.9)</cell><cell></cell><cell></cell><cell cols="2">550 hrs -no degradation</cell><cell>60</cell><cell>Science (2021, Ref. 17)</cell></row><row><cell>-</cell><cell cols="2">Ti1-rGO/FTO</cell><cell></cell><cell cols="2">20.6 (0.09)</cell><cell></cell><cell cols="3">T95 = 1300 hrs</cell><cell>60</cell><cell>Nat. energy (2021, Ref. 18)</cell></row><row><cell>-</cell><cell cols="2">Au/MgF2</cell><cell></cell><cell cols="2">20.9 (0.113)</cell><cell></cell><cell></cell><cell cols="2">1400 hrs -no degradation</cell><cell>60~65</cell><cell>Nat. Energy (2021, Ref. 19)</cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="10">4-methoxy-phenethylammonium iodide: MeO-PEAI; octylammonium iodide: OAI; Octylammonium tosylate: OATsO; N, N-</cell></row><row><cell cols="10">dimethyl-1,3-propane diammonium diiodide: DMePDAI2; Oleylammonium iodide: OLAI; isobutylamine bromide: i-BABr. 3-</cell></row><row><cell cols="10">iodopropyl trimethoxysilane [Si (OCH3)3(CH2)3I]: I-SAM; Polyethylenimine: PEIE; poly[2,2ʹʹʹʹ-bis[[(2-butyloctyl)oxy]carbonyl]</cell></row><row><cell cols="5">[2,2ʹ:5ʹ,2ʹʹ:5ʹʹ,2ʹʹʹ-quaterthiophene]-5,5ʹʹʹ-diyl]):</cell><cell>PDCBT;</cell><cell cols="3">BCF-doped</cell><cell>poly(triarylamine):</cell><cell>PTAA-BCF;</cell><cell>4-fluoro-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>29</cell></row></table><note><p>phenethylammonium iodide: 4F-PEAI; 3-fluoro-phenethylammonium: 3F-PEAI; pyrene-based ethylammonium iodide: PREAI; isopropylammonium chloride: iPAmHCl; n-hexyl trimethyl ammonium bromide: HTABr; ethylenediaminetetraacetic acid dipotassium salt: EDTAK; ethylammonium iodide: EAI; aminovaleric acid iodide: AVAI; 5-ammoniumvaleric acid iodide: 5-AVAI; 1-butyl-3-methylimidazolium tetrafluoroborate: BMIMBF4; Pyridine-2-carboxylic lead: PbPyA2; Hexamethyldisilathiane: TMS; Maximum power point tracking: MPPT; Surface treatment: ST; Bulk treatment: BT; Room temperature: RT.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Supplementary Table 3 | Peak intensity and integral area obtained from the (100) peak of 2D perovskite and (020) peak of PbBr2 for different samples.</head><label></label><figDesc></figDesc><table><row><cell>Samples</cell><cell>Peak intensity/ (100)2D</cell><cell>Peak area/ (100)2D</cell><cell>Peak intensity/ (020)PbBr2</cell><cell>Peak area/ (020)PbBr2</cell></row><row><cell>PbBr2/CLP + 4F-PEAI</cell><cell>12130</cell><cell>1701.2</cell><cell>5190</cell><cell>1246.5</cell></row><row><cell>PbBr2/pEDMA + 4F-PEAI</cell><cell>13132</cell><cell>2995.94</cell><cell>5334</cell><cell>1414.3</cell></row><row><cell>PbBr2/PMMA + 4F-PEAI</cell><cell>69936</cell><cell>10773.73</cell><cell>-</cell><cell>-</cell></row><row><cell>PbBr2/PS + 4F-PEAI</cell><cell>45850</cell><cell>8193.18</cell><cell>-</cell><cell>-</cell></row><row><cell>PbBr2/PEG + 4F-PEAI</cell><cell>37900</cell><cell>6635.57</cell><cell>-</cell><cell>-</cell></row><row><cell>PbBr2/EDMA + 4F-PEAI</cell><cell>111407</cell><cell>22590.81</cell><cell>-</cell><cell>-</cell></row><row><cell>Pristine PbBr2 + 4F-PEAI</cell><cell>156555</cell><cell>26662.17</cell><cell>-</cell><cell>-</cell></row><row><cell>PbBr2</cell><cell>-</cell><cell>-</cell><cell>10600</cell><cell>2635.4</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>30 Supplementary Table 4 | The fitted parameters from TRPL of various perovskite samples.</head><label></label><figDesc></figDesc><table><row><cell>Samples</cell><cell>A1</cell><cell>τ1</cell><cell>A2</cell><cell>τ2</cell><cell>τavg (ns)</cell></row><row><cell>Pristine 3D</cell><cell>0.569</cell><cell>91</cell><cell>0.431</cell><cell>455</cell><cell>248</cell></row><row><cell>3D/2D</cell><cell>0.527</cell><cell>84</cell><cell>0.473</cell><cell>574</cell><cell>315</cell></row><row><cell>3D/CLP</cell><cell>0.562</cell><cell>134</cell><cell>0.438</cell><cell>607</cell><cell>341</cell></row><row><cell>3D/CLP/2D</cell><cell>0.491</cell><cell>89</cell><cell>0.509</cell><cell>825</cell><cell>424</cell></row><row><cell>Pristine 3D/ Spiro-OMeTAD</cell><cell>0.645</cell><cell>5.6</cell><cell>0.355</cell><cell>55</cell><cell>23</cell></row><row><cell>3D/2D/Spiro-OMeTAD</cell><cell>0.639</cell><cell>7.7</cell><cell>0.361</cell><cell>68</cell><cell>30</cell></row><row><cell>3D/CLP/ Spiro-OMeTAD</cell><cell>0.643</cell><cell>6.1</cell><cell>0.357</cell><cell>59</cell><cell>25</cell></row><row><cell>3D/CLP/2D /Spiro-OMeTAD</cell><cell>0.641</cell><cell>6.7</cell><cell>0.359</cell><cell>62</cell><cell>27</cell></row><row><cell cols="5">Note: The measured PL decay kinetics are fitted by bi-exponential decay function as follow</cell><cell></cell></row><row><cell cols="2">𝐹(𝑡) = 𝐴 1 exp(-𝑡 𝜏 1 ⁄ ) + 𝐴 2 exp(-𝑡 𝜏 2 ) ⁄</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">The average lifetime: τ 𝑎𝑣𝑔 = (𝐴 1  *  𝜏 1 + 𝐴 2  *  τ 2 ) (𝐴 1 + 𝐴 2 ) ⁄</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Supplementary Table 5 | The photovoltaic parameters of PSCs fabricated with 3D, 3D/2D, 3D/CLP, and 3D/CLP/2D perovskite heterostructures. Active layer VOC (V) JSC (mA cm -2 ) FF PCE (%)</head><label></label><figDesc></figDesc><table><row><cell>3D</cell><cell>1.05 ± 0.02</cell><cell>23.82 ± 0.35</cell><cell>0.75 ± 0.02</cell><cell>18.83 ± 0.69</cell></row><row><cell>3D/2D</cell><cell>1.08 ± 0.03</cell><cell>23.93 ± 0.19</cell><cell>0.76 ± 0.02</cell><cell>19.81 ± 0.54</cell></row><row><cell>3D/CLP</cell><cell>1.09 ± 0.02</cell><cell>23.83 ± 0.23</cell><cell>0.76 ± 0.02</cell><cell>19.91 ± 0.63</cell></row><row><cell>3D/CLP/2D</cell><cell>1.10 ± 0.02</cell><cell>23.78 ± 0.30</cell><cell>0.77 ± 0.01</cell><cell>20.29 ± 0.63</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Supplementary Table 6 | Summary of reported performance for state-of-the-art PSCs using carbon electrodes. (Ref 18,20-35 ) Device structure Area/ cm 2 VOC (V) JSC (mA cm -2 ) FF PCE (%) Journal/ Year ITO/SnO2/Perovskite/CLP/2D/Spiro-OMeTAD/Carbon 0.16 1.13 24 0.78 21.2 This work ITO/SnO2/Perovskite/CLP/2D/Spiro-OMeTAD/Carbon 17.1 6.73 3.87 0.75 19.6 This work</head><label></label><figDesc></figDesc><table><row><cell>FTO/c-TiO2/(m-TiO2/m-ZrO2/m-C)/Perovskite</cell><cell>0.07</cell><cell>0.858</cell><cell>22.8</cell><cell>0.66</cell><cell>12.8</cell><cell>Science (2014, Ref. 20)</cell></row><row><cell>FTO/c-TiO2/(m-TiO2/m-ZrO2/m-C)/Perovskite</cell><cell>0.8</cell><cell>0.94</cell><cell>23.8</cell><cell>0.66</cell><cell>14.89</cell><cell>Joule (2020, Ref. 21)</cell></row><row><cell>FTO/m-TiO2/Perovskite/CuPc/Carbon</cell><cell>0.09</cell><cell>1.05</cell><cell>20.8</cell><cell>0.74</cell><cell>16.1</cell><cell>Nano Energy (2016, Ref. 22)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Adv. Energy</cell></row><row><cell>FTO/c-TiO2/(m-TiO2/m-ZrO2/m-C)/Perovskite</cell><cell>0.108</cell><cell>1.023</cell><cell>22.25</cell><cell>0.767</cell><cell>17.47</cell><cell>Mater.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(2021, Ref. 23)</cell></row><row><cell>ITO/SnO2/perovskite/spiro-OMeTAD/TFMS-CNT</cell><cell>0.1</cell><cell>1.01</cell><cell>24.21</cell><cell>0.72</cell><cell>17.5</cell><cell>Nano Lett. (2019, Ref. 24)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Adv. Energy</cell></row><row><cell>FTO/c-TiO2/(m-TiO2/m-ZrO2/m-C)/Perovskite</cell><cell>0.1018</cell><cell>0.956</cell><cell>24.26</cell><cell>0.762</cell><cell>17.68</cell><cell>Mater.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(2022. Ref. 25)</cell></row><row><cell>ITO/PTAA/Perovskite/C60/SnO2/Carbon</cell><cell>0.06</cell><cell>1.04</cell><cell>22.6</cell><cell>0.769</cell><cell>18.1</cell><cell>Nat. Energy (2020, Ref. 26)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Adv. Energy</cell></row><row><cell>FTO/c-TiO2/m-TiO2/Perovskite/2D/Carbon</cell><cell>0.1</cell><cell>1.03</cell><cell>24.3</cell><cell>0.739</cell><cell>18.5</cell><cell>Mater.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(2022, Ref. 27)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Angew. Chem. Int.</cell></row><row><cell>ITO/APTES/C60/Perovskite/Carbon</cell><cell>0.08</cell><cell>1.12</cell><cell>22.72</cell><cell>0.73</cell><cell>18.64</cell><cell>Ed.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(2021, Ref. 28)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Energy Environ.</cell></row><row><cell>FTO/SnO2/Perovskite/Spiro-OMeTAD/Graphene/FTO</cell><cell>0.09</cell><cell>1.05</cell><cell>22.78</cell><cell>0.78</cell><cell>18.65</cell><cell>Sci.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(2019, Ref. 29)</cell></row><row><cell>FTO/c-TiO2/m-TiO2/Perovskite/Spiro-OMeTAD/Carbon</cell><cell>0.1</cell><cell>1.08</cell><cell>23.33</cell><cell>0.762</cell><cell>19.2</cell><cell>Adv. Funct. Mater. (2018, Ref. 30)</cell></row><row><cell>FTO/c-TiO2/m-TiO2/Perovskite/Spiro-OMeTAD/Ti-rGO/FTO</cell><cell>0.09</cell><cell>1.059</cell><cell>26.0</cell><cell>0.785</cell><cell>21.6</cell><cell>Nat. Energy (2021, Ref. 18)</cell></row><row><cell>FTO/SnO2/perovskite/D-MWCNT:Spiro-OMeTAD/Graphene/FTO</cell><cell>0.049</cell><cell>1.08</cell><cell>25.9</cell><cell>0.78</cell><cell>22.07</cell><cell>Adv. Funct. Mater. (2022, Ref. 31)</cell></row><row><cell>FTO/c-TiO2/(m-TiO2/m-ZrO2/m-C)/Perovskite</cell><cell>70</cell><cell>9.63</cell><cell>2.95</cell><cell>0.629</cell><cell>10.75</cell><cell>Energy Environ. Sci.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(2016, Ref. 32)</cell></row><row><cell>FTO/c-TiO2/(m-TiO2/m-ZrO2/m-C)/Perovskite</cell><cell>50</cell><cell>7.05</cell><cell>2.247</cell><cell>0.704</cell><cell>11.2</cell><cell>Nat. Commun. (2017, Ref. 33)</cell></row><row><cell>FTO/c-TiO2/(m-TiO2/m-ZrO2/m-C)/Perovskite</cell><cell>60.87</cell><cell>8.50</cell><cell>2.50</cell><cell>0.61</cell><cell>12.87</cell><cell>Nano Energy (2020, Ref. 34)</cell></row><row><cell>ITO/SnO2/Perovskite/PDCBT/Ta-WOX/Carbon</cell><cell>4</cell><cell>4.2</cell><cell>5.3</cell><cell>0.69</cell><cell>15.3</cell><cell>Adv. Energy Mater.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(2021, Ref. 35)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head></head><label></label><figDesc>The operational stability of PSCs using spiro-OMeTAD as the HTL under continuous illumination in N 2 at 60 °C. The cells are repaired by re-depositing the spiro-OMeTAD after every 1,000 hours of continuous illumination. b, The operational stability of PSCs using a mixed P3HT-spiro-OMeTAD HTL under continuous illumination in N 2 at 60 °C. The initial PCEs of the cells based on 3D/2D and 3D/CLP/2D perovskite heterostructures are 18.1% and 18.6%, respectively. The bias at the MPP was calculated and applied automatically.</figDesc><table><row><cell></cell><cell>20</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>16</cell><cell>Repaired</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PCE (%)</cell><cell>8 12</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>4</cell><cell>(3D/CLP/2D)/spiro-OMeTAD</cell><cell></cell><cell></cell><cell cols="4">MPP tracking under one-sun illumination at 60 °C</cell></row><row><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>1,500</cell><cell>2,000</cell><cell>2,500</cell><cell>3,000</cell><cell>3,500</cell><cell>4,000</cell><cell>4,500</cell><cell>5,000</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Time (h)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>b</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Normalized PCE</cell><cell>0.4 0.6 0.8</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>T 90</cell></row><row><cell></cell><cell>0.2</cell><cell>(3D/2D)/P3HT-spiro-OMeTAD (3D/CLP/2D)/P3HT-spiro-OMeTAD</cell><cell></cell><cell></cell><cell cols="4">MPP tracking under one-sun illumination at 60 °C</cell></row><row><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0</cell><cell>1,000</cell><cell>2,000</cell><cell></cell><cell>3,000</cell><cell></cell><cell>4,000</cell><cell>5,000</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Time (h)</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Fig. 4 | Long-term stability test. a,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
 		</body>
 		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was financially supported by <rs type="funder">National Key Research and Development Program of China</rs> (<rs type="grantNumber">2020YFA0715000</rs>, L.M.; <rs type="grantNumber">2022YFB4200305</rs>, X.L. and Y.R.); <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">21875081</rs>, X.L.; 22279039, X.L.; 52172200, Y.R. and 52127816, L.M.); the <rs type="programName">Chinese National 1000-Talent-Plan programme</rs> (X.L.); the <rs type="funder">Science and Technology Department of Hubei Province</rs> (<rs type="grantNumber">2021CFB315</rs>, Y.R.); the <rs type="funder">Innovation Project of Optics Valley Laboratory</rs> <rs type="grantNumber">OVL2021BG008</rs> (X.L.); the foundation of State Key Laboratory of Article <ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> </p><p>New <rs type="funder">Textile Materials and Advanced Processing Technologies</rs> (grant number <rs type="grantNumber">FZ2021011</rs>, X.L.), the <rs type="funder">Foundation of State Key Laboratory of Coal Conversion</rs> (grant number <rs type="grantNumber">J18-19-913</rs>, X.L.). We thank the Analytical and <rs type="person">Testing Center</rs> from <rs type="funder">HUST</rs> and the <rs type="funder">Center for Nanoscale Characterization and Devices (CNCD)</rs> from <rs type="funder">WNLO (HUST)</rs> for the facility support of sample measurements. We would like to thank <rs type="institution">Suzhou Institute of Nano-Tech and Nano-Bionics</rs> for performing TOF-SIMS. Z.W. acknowledges the <rs type="programName">Banting Postdoctoral Fellowships Program of Canada</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_4n8fMEC">
+					<idno type="grant-number">2020YFA0715000</idno>
+				</org>
+				<org type="funding" xml:id="_vv4e7w5">
+					<idno type="grant-number">2022YFB4200305</idno>
+				</org>
+				<org type="funding" xml:id="_cNDYMwk">
+					<idno type="grant-number">21875081</idno>
+					<orgName type="program" subtype="full">Chinese National 1000-Talent-Plan programme</orgName>
+				</org>
+				<org type="funding" xml:id="_3ZwtbQ2">
+					<idno type="grant-number">2021CFB315</idno>
+				</org>
+				<org type="funding" xml:id="_6nPGEfm">
+					<idno type="grant-number">OVL2021BG008</idno>
+				</org>
+				<org type="funding" xml:id="_xk8sPNu">
+					<idno type="grant-number">FZ2021011</idno>
+				</org>
+				<org type="funding" xml:id="_VA7NA9X">
+					<idno type="grant-number">J18-19-913</idno>
+				</org>
+				<org type="funding" xml:id="_dUCt2w7">
+					<orgName type="program" subtype="full">Banting Postdoctoral Fellowships Program of Canada</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>All the data supporting the findings of this study are available within this article and its Supplementary Information. Any additional information can be obtained from corresponding authors upon request. Source data are provided with this paper.</p></div>
+			</div>
+
 			<div type="annex">
-<div xmlns="http://www.tei-c.org/ns/1.0"><p>0123014356789347281 1 76 1 7 1 1 7 1 76 ! " " ! # $%&amp;'() *+ ,-.% # / ! / -0 1*234*+% 5*67 6869 0123014356789347265 77 : 1 1 1 ;1 &lt; 1 7&lt; = 6 1 7 &gt;*&amp;/ # *?! ! $+4(# / *967 @8A 0123567893472B6 1 7 1 1 77 &amp;C D(/ -E&amp;CF D(G0H67 69A8I 0123J6K327L391 7M3N7J62: 1 61 7 : 1 1 : : 1 ;</p><p>:76: 1 71 8: 1 7O 6 : : 6 71 7 1 1 7 ?! ! $P0 % *Q 3C *IA7 8A 01R 03274M3N783LNS341 70R 351 TU71 : 71 7=: <ref type="table">1 7  1 6 1 7 1 1 77 1 7;</ref><ref type="table">77 1 &lt; 1 7: 1 7 6 1 7 1</ref> : V1 ?! ! $W.$(! / ! " " *H7 66@8II 0143T2 <ref type="table">7 9R 27 1 7 1 :1 1 1 77: 6 1 7;</ref><ref type="table">: 1 7&lt; 1 1 1 :1 :  =1 1 7 1 7 81 7:</ref> V ?! ! $W.$(! / ! " " *I7 I8 0143L7X3R <ref type="table">1N34N352X3 X67 1 7: : 1 ;</ref><ref type="table">T1 1 7</ref> : 6 ; 1 : 1 7 =1 7&lt; 3 1 &lt;7: 1 ?! ! $W.$(! / ! " " *7 I8H 01 6X3S72&lt;K5: 1 777: 1 81 1 7 1 1 ; 1 &lt; 1 7&lt; = 6 1 7 &gt;*+4(# / *?! ! $ -0 1*H7 @@@@89@ 01 6X3S72&lt;K6B6 1 ; 1 7: : 1 ; : 1 777: 1 71 7Y67; : 1 77&lt; 7 1 77Z 6 1 [ 1 7: &gt;*+4(# / *?! ! $ -0 1*H7 H668I6 01 6X3S72&lt;K68 1 : 1 81 1 7 1 1 ; 6 1 7 &gt;*+4(# / *?! ! $ -0 1*H7 I86 0 &lt; 2 23\1 &lt; T TS3B :1 7 &lt; 5 S3U &lt; \1 R 3] 77&lt; 2 BR 9 T1 6 6 7 1 : : 1 ; =&lt; ; 1 6 =1 1 1 76 1 : 6 1 7 &gt;*^0 _C '(0&amp;C '$*67 HIA8AI 05T356R 3\TU3U75`351 7KB; ; ; 1 67 : 7; 67 1 7 1 ;=: 1 777[ 1 a# ! 1D/ (! 1!" 0 / '" 0 %7 A@8@@ 05T3N7J03\TU3U75`320b351 7KS671 7 : : 1 ;c&lt; 6 1 777[ 1 =1 :K3d2722 Q 3C *eD# (.&gt;*7 IA8A9 05T3N7J03\TU3U75`351 7Kc&lt; 0 6 1 777[ 1 7; ; ; &lt; : <ref type="table">6 7[ 1 ;</ref><ref type="table">1 71 7 1 3[ 1 ;</ref><ref type="table">1 77 1 : : 1 ;</ref><ref type="table">[ 1 1 : 1 7</ref> ?! ! $W.$(! / ! " " *A7 6869 06L3T6 f53\ U038TR N3T 7T\U39UR B; ; ;:K 7 1 1 ;</p><p>Y71 81 1 76 1 7 1 1 ! " " ! # $%&amp;'() *aa# ! # 3C 0 () D/ 0 %97 @689 T1 U3T1 7U2 1 : ;: 1 71 1 7 '((*g5# 3* ! " " ! # $Q 3C 0 () D/ 0&amp;/ # *I7 8 @ T1 23Lf3N1 R 6h 7 1 1 71 7 ; 1 7=1 :: 1 1 &lt; 1 7&lt; = 6 1 71 ; ; 7:K 6 ! " " ! # $%&amp;'() *aa# ! # 3C 0 () D/ 0 %A7 H@8AI T443T2 7 9R X 1 1 7;; 67 1 71 &lt; 6 1 7;:: 1 : 1 7&lt; 1 :1 : ?! ! $W.$(! / ! " " *A7 @89 T443T2 7 9R T1 [ 1 7;6 1 7: : 1 1 7;:: 1 &lt; 7: 1 7&lt; ; : ?! ! $W.$(! / ! " " *7 8H T ; 1U3\7T3S1 7U39O 835O i i TX 1 77; &lt; 1 7;81 1 76 1 7 1 1 76 ! " " ! # $%&amp;'() *+,-.% # / ! / -0 1*234*+% 5*6H7 I8 T 7`301 749T1 &lt; 7O 6 8 &lt; 1 ; 777: 6 1 7;</p><p>:1 76 6 1 1 7 ?! ! $?'3/ C *7 H8A T j6U03N7R \\ ;6 k NZ lZ Nm6 1 7: : =1 71 7</p><p>; 1 [=1 1 6&gt;*^0 _C '(0&amp;C '$*67 HI8A T T3S1 7U35O i i T39O 83\7T8 : 1 777: 6 1 7: : 1 ; 6 81 1 76 1 7 1 1 j61 7 76 ! " " ! # $%&amp;'() *+,-.% # / ! / -0 1*234*+% 5* 67 6A8I T2 7 9R 9 1 7;77&lt; <ref type="table">1 7 1 7 7 1 1 1 1 ;</ref><ref type="table">1</ref>   <ref type="table">08 1G 8@20 1 43 6 7 13 47 1G 6 6 43 86453 8 68</ref>  </p></div>			</div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary References</head><p>Article <ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> 100 mV s -1 for solar cells and 500 mV s -1 for modules. The small-area PSCs and large-area PSMs are measured using masks with an area of 0.16 cm 2 and 17.1 cm 2 , respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FTIR measurement</head><p>The polymer monomers were first polymerized on the perovskite surface, and then the sample was cleaned with DMF solution and dried under vacuum to remove the perovskite material. The IR spectra were recorded with a VERTEX 70 Infrared Fourier transform microscope (Bruker Co.).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>XPS measurement</head><p>XPS measurements were performed with a PHI VersaProbe II scanning XPS microprobe using a monochromatic Al Kα X-ray of 24.8 W power with a beam size of 100 μm. All peaks were calibrated using C 1s peak at 284.8 eV to correct charge shift of binding energies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PES measurement</head><p>The PES measurements were performed on the Thermofisher ESCALAB Xi + system. For reference, the XPS/UPS spectra energy positions were calibrated using a standard Au sample at BE of Au 4f 7/2 = 84.0 eV and EF = 0 eV. The gas cluster ion beam sputtering parameters were set as 2,000 sizes at 4 keV mode with a 5 mm sputtering spot. XPS measurements were carried out using monochromated Al Kα source (hν = 1,486.6 eV, where h is the Planck's constant and ν is the photon frequency) with a pass energy of 20 eV. UPS measurements were performed using a He UV lamp (hν = 21.2 eV) with a pass energy of 1 eV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TOF-SIMS measurements</head><p>Compositional depth profiling of perovskite films was carried out using a TOF-SIMS 5 system from IONTOF, operated in the spectral mode and using a 30 keV Bi 3+ primary ion beam with an ion current of 0.8 pA. For depth profiling, a 1 keV Cs + sputter beam with a current of 28 nA was used to remove material layer by layer in interlaced mode, from a raster area of 300 μm × 300 μm. Mass spectrometry was performed on an area of 80 μm × 80 μm in the centre of the sputter crater.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TA measurements</head><p>Femtosecond laser pulses of 800 nm fundamental beam (5 kHz repetition rate, 35 fs pulse width) were produced using a Ti: Sapphire regenerative amplifier (Legend Duo, Coherent Inc.). Part of the fundamental beam was used to pump an optical parametric amplifier (TOPAS-Prime, Light Conversion) to serve as a narrow-band pump, while the other part was focused on a sapphire crystal to generate a white light supercontinuum probe (420-780 nm window with various optical filters). The pump wavelength was 400 nm under pump power of 3 μJ cm -2 . Both the pump and probe pulses were directed into a commercial TA spectrometer (Helios, Ultrafast Systems). Delaying the probe pulse relative to the pump pulse provides a time window of up to 8 ns. The instrument response function was determined to be ∼200 fs by a routine cross-correlation procedure. All TA spectra were chirp corrected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stability test</head><p>For the stability tests of 3D/2D perovskite heterostructure, all samples were aged at 100 °C for 120 min under nitrogen atmosphere. The operational stability tests were carried out at the MPP for the encapsulated cells under one-sun illumination (100 mW cm -2 ). The cells were tested in a chamber with an ambient atmosphere temperature of ~60 °C. The bias at the MPP was calculated and applied automatically. The cells were encapsulated in a N 2 -filled glovebox. A hot melt film was attached around the active area of the cells, and a glass slide was employed as the back sheet. Then the sample (cell/hot melt film/glass slide) was heated at 100 °C under a vacuum condition (&lt;100 Pa) for 15 min by a commercial laminating system.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref>.</p><p>Correspondence and requests for materials should be addressed to Liqiang Mai, Yaoguang Rong, Edward H. Sargent or Xiong Li.</p><p>Peer review information Nature Energy thanks Michael McGehee and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.</p><p>Reprints and permissions information is available at www.nature.com/reprints. Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</p><p>© The Author(s), under exclusive licence to Springer Nature Limited</p></div>			</div>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Perovskite solar cells with atomically coherent interlayers on SnO2 electrodes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Min</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">8 986 663 6 &amp;98 98</title>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">9</biblScope>
-			<biblScope unit="page" from="1224" to="01278" />
+			<biblScope unit="volume">598</biblScope>
+			<biblScope unit="page" from="444" to="450" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
-	<monogr>
-		<title/>
+	<analytic>
+		<title level="a" type="main">Pseudo-halide anion engineering for α-FAPbI3 perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">! !&gt;0</forename></persName>
+			<persName><forename type="first">J</forename><surname>Jeong</surname></persName>
 		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="volume">592</biblScope>
+			<biblScope unit="page" from="381" to="385" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
-	<note>&lt; 0&lt;?9@3 743 25 23 217713 25 4! 3 21!4 5 3 7 4 5 2 5 1!5 418&quot;75 45 3 4 &quot;45 43 74! 174! 3 7$! ! 44! AB B CDECFB G B H H I 9JK 9LJMN9 &lt;123 8O O 7O + 0P! 18&quot; 83O &gt;4*=3 Q&gt;3 4 ! 45R0466471=9S745 173 71! 3 15 41 3 7 1 3 3 21!171! 3 1 3 2 5 243 25 23 14 TUV ITUWB V X G YIJK</note>
 </biblStruct>
 
 <biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Metastable Dion-Jacobson 2D structure enables efficientand stable perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">[</forename><surname>Zug</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Bh X G \h X ]</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Lm</surname></persName>
-		</author>
-		<idno>&lt;123 8O 0466471=99Q5 43 7$5 3 ! 5 1! 45 3 245 42 3 4</idno>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="71" to="76" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
-	<note>&lt;8 150&gt;3 283 7 7?9^1 45 + 3 7+ 3 ! + 3 7+ &quot;1 45! 3 ! 44! 3 7 13 ! 3 64! 45 3 21771 + 5 1!4! 3 $45 7AB B C_B H H B C] aA\WCU[X WV UH ]B bAB F[\H UV B W4?&gt;3 283 7 7=03 ! ! 45 M, @15 3 4ScK=2@4 &lt;8 15005 5 1d&lt; 43 4? c4&quot;(9,?721 ! 1 3 7 e173 3 7! 3 ! 44! 3 7 3 7 3 773 73 25 412 5 427! AB B CDECFB G B H H I,K f9MfL</note>
 </biblStruct>
 
 <biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Damp heat-stable perovskite solar cells with tailored-dimensionality 2D/3D heterojunctions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Azmi</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">&lt;</forename></persName>
-		</author>
-		<author>
-			<persName><forename type="first">+</forename></persName>
-		</author>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="73" to="77" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
 	</monogr>
-	<note>18818O &lt;! + (18818P9P72 3 71!4&quot;3 4M42 3 727; 1 45 415 427 5 ! ! 4013 ! ! 15 5 412 3 7hIAB B ClWmIK J9MJk</note>
 </biblStruct>
 
 <biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Quantum-size-tuned heterostructures enable efficient and stable inverted perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">B</forename><surname>Cdecfb G B H H I</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Mn</surname></persName>
-		</author>
+		<title level="j">Nat. Photon</title>
 		<imprint>
-			<biblScope unit="volume">45</biblScope>
-			<biblScope unit="page" from="45" to="48" />
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="352" to="358" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
-	<note>&lt;13 5 4?c724@3 2 1Qo4! ! 1&gt;9^5 3 78! 3 73 7 44e1 3 7 4! 1 3 2! 4 l\FIpYE. IhIl fK 99 &lt;13 5 4?^7 &quot;15 7= 4 3&gt;(44g&gt;@&amp;&lt;=41! 99&lt;3 24! 1 3 2543 43 73 ! 4 5 3 77! 145 jB b VZUV V X FNK LJMN d1 41?c51! 24 8Q&lt;@5 3 g@&gt;17c&gt; 17&gt;41! 9S73. Pd 5 3 7qUWm[\F9LK 9N9Mk9</note>
 </biblStruct>
 
 <biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Vapor-assisted deposition of highly efficient, stable black-phase FAPbI3 perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">$</forename></persName>
-		</author>
-		<author>
-			<persName><forename type="first">$</forename></persName>
-		</author>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page">8985</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
 	</monogr>
-	<note>5 64I J 451 1 5J 6262 64$7 8 )5 7 )5&amp;8 2 568 5468 &apos;576442 7 468 &apos;57%</note>
 </biblStruct>
 
 <biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Lead halide-templated crystallization of methylamine-free perovskite for efficient photovoltaic modules</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bu</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">@A= LC3 50 LM 1 / AN&gt; = ;A/ 0 / B1 &gt; 3LA2O&gt; 0 1 P&gt; 6&lt;4&lt;3</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page">54</biblScope>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="1327" to="1332" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
-	<note>M &gt; ?37 / 6Q/ / 2R AB6&gt; 21 &gt; AM 3 LA2S5M 6L= &gt; 5M 1 = L0 3 54 8 2 T&amp;U1 5(568 7 ))GVU(&quot; 2 4&apos;5WXF</note>
 </biblStruct>
 
 <biblStruct xml:id="b7">
 	<analytic>
-		<title level="a" type="main">8\F D`DG\D U 56 8 !57 51 &apos;648 2 &quot;1 &apos;F8 #42 7 8 2 6&amp;8 2 55&apos;2 (57%% 48 5*8 $ 57 567 8 2 6N6&gt; A23 Q/ / 24= 1 8N&gt; = ;A/ 0 8VF DG U 5$6&apos;aT1 5&amp;$1 7 2 ($1 8 2 6% 4 )</title>
-		<idno>Z&lt;26/ = / 0 0 8F D[GV\ U% 45768 62 $-1 7T9+5 5 T 2 (] 565I U1</idno>
+		<title level="a" type="main">Intact 2D/3D halide junction perovskite solar cells via solid-phase in-plane growth</title>
+		<author>
+			<persName><forename type="first">Y.-W</forename><surname>Jang</surname></persName>
+		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J8 !</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">565</biblScope>
-			<biblScope unit="issue">2 652 7 7</biblScope>
-			<biblScope unit="page" from="8" to="9" />
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="63" to="71" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
-	<note>QL6L2L&lt;O1 3 = 53 3 8VEF [VG 2 5768 1 2 6. 9 52 6K$56&amp;5%&quot;55 &apos;5768 57 8 2 ($1 8 2 6642 7 &amp;51 7 8 2 &amp;2 8 % 7 1 2 F 51 8 2 67 2 )8 ($8 % 551 mQ. an 2 o$T 657U+% % (66j7 8 59 DU6% (8 2 61&amp; 6&apos;57%&apos;1 &quot;$1 ) I 8 52 6747 &quot;5482 1 I 2 6I #8 55($1 7 2 62 68 5 % &amp;575*(2 654&quot;7 6&amp; 8 642 8 2 6&amp;2 &amp;$1 42 &amp; 2 7 ( Q/ / 2Z&lt;26/ = / 0 0 8DF \EGE\ 45,1 8 5 6$2 3 56TTj51 2 !X2 1 I 2 6I #8 52 &amp;!5 2 6&apos;5($1 7 2 677 8 &quot;2 1 2 54&quot;&amp;1 1 2 41 ) 8 2 &amp;1 57% (8 5#8 5 I 2 67 1 $&quot;1 5) 8 52 652 64/ 7 MhLM M &gt; 6EF `E\GV</note>
 </biblStruct>
 
 <biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A holistic approach to interface stabilization for efficient perovskite solar modules with over 2,000hour operational stability</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">451 2 52 J0n$p 62 &apos; &amp;2 3 7JJV,4) 8 52 6G )1 7 &amp;&amp; 2 45&amp;63</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="page">52</biblScope>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="596" to="604" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
-	<note>8 57&quot;8 2 6542 8 5T2 1 1 45&amp;8 2 6F 52 5#.61 M 8q&gt; P8Q/ / 24= 1 8S5M 68-6) 57 7 42 F El DE[E \VV</note>
 </biblStruct>
 
 <biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Stability-limiting heterointerfaces of perovskite photovoltaics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">J% % 5&amp;8% &apos;1 &amp;8 2 668 5K&amp;&amp;$1 8 2 6&quot;5 2 $%) 8 52 6I 7 8 &quot;2 1 2 542 1 I 2 6I #8 55($1 7 2 67 cLAB?51 6</title>
-		<editor>EF G</editor>
+		<title level="j">Nature</title>
 		<imprint>
-			<date type="published" when="1926">2 6Ta,2 5 56</date>
-			<biblScope unit="volume">7</biblScope>
-			<biblScope unit="page">55</biblScope>
+			<biblScope unit="volume">605</biblScope>
+			<biblScope unit="page" from="268" to="273" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
-	<note>&amp;1 1 4 2 56&apos;51 8 2 62 64. 57 8 2 &quot;8 7TJ 8 7Ta)5 5j51 1 2 5Jj &apos;-581 D-</note>
 </biblStruct>
 
 <biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Stabilization of formamidinium lead triiodide α-phase with isopropylammonium chloride for perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">B.-W</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m">#2&lt; 19 6=&gt;?5% % 6$9 @ :?* 9 A8% B :CD, CE-F</title>
-		<imprint/>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="419" to="428" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Liquid medium annealing for fabricating durable perovskite solar cells with improved reproducibility</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">@ % Kalm :C</forename></persName>
-		</author>
-		<author>
-			<persName><forename type="first">-D</forename></persName>
-		</author>
-		<idno>6N482 6462GO1 29&quot; 2&quot;6</idno>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="561" to="567" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Perovskite solar cells with CuSCN hole extraction layers yield stabilized efficiencies greater than 20%</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Arora</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<idno>F- 1# 6 0 19\]246 6041968 649 8G9</idno>
-		<title level="m">CC-FF 21R409254519O48 1548G4S1T 9V:WX+@ 9 : 5% % 6YA* Z:C[</title>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="768" to="771" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
 	</monogr>
-	<note>1 9 2 ! 6#9 62 219 1# ^ 9 #6 2;!&quot;6 5% % 6_L6+% 9 % B B :C, .D-T 984H 1H 0 464469/` , [D-</note>
 </biblStruct>
 
 <biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">2D metal-organic framework for stable perovskite solar cells with minimized lead leakage</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">C</forename><surname>+f</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Ff-Dc</surname></persName>
-		</author>
-		<imprint/>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="934" to="940" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Constructing heterojunctions by surface sulfidation for efficient inverted perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">@</forename><surname>+d</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Dd-De</forename></persName>
-		</author>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="434" to="437" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b15">
-	<monogr>
-		<title level="m" type="main">Y% B B % @ 6Q 8&apos; * +&amp; )9 *$9 @ :.FF, E-C</title>
+	<analytic>
+		<title level="a" type="main">Stabilizing halide perovskite surfaces for solar cell operation with wide-bandgap lead oxysalts</title>
 		<author>
-			<persName><forename type="first">V</forename></persName>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
 		</author>
-		<imprint/>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="473" to="478" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
 	</monogr>
-	<note>\9 94&quot;! 2&quot;21 2O4]2 2T V:Y% B B % @ 6Q 8&apos; * +&amp; )9 *$9 @ :.CD, CD-.</note>
 </biblStruct>
 
 <biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Stabilizing perovskite-substrate interfaces for high-performance perovskite modules</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">%</forename></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename></persName>
-		</author>
-		<imprint/>
-		<respStmt>
-			<orgName>CC-C</orgName>
-		</respStmt>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="902" to="907" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b17">
 	<analytic>
-		<title level="a" type="main">6 Y% B B % @ 6M$7+&amp;</title>
+		<title level="a" type="main">Ti1-graphene single-atom material for improved energy level alignment in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
 	</analytic>
 	<monogr>
-		<title level="m">WgALM @ 9 % 9 A* Z:h8X:WM K:C</title>
-		<imprint/>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1154" to="1163" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A bilayer conducting polymer structure for planar perovskite solar cells with over 1,400 hours operational stability at elevated temperatures</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">2 61I493 61 37i4O6 H \4\j 96H 469 [2&quot;&quot; 2^ 699 ! 6 2#6 ! 2&quot;1 36;G 2I ! 6#Y% B B % @ 6g% B LZ</title>
-		<author>
-			<persName><forename type="first">@</forename><surname>+c</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">F-E</forename><surname>\2</surname></persName>
-		</author>
-		<editor>F, D-DD</editor>
-		<imprint/>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="144" to="152" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A hole-conductor-free, fully printable mesoscopic perovskite solar cell with high stability</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mei</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">2674i66#9241968 6O 9 1 1 6 225% % 65789</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">869</biblScope>
-			<biblScope unit="page">64027481</biblScope>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="295" to="298" />
+			<date type="published" when="2014">2014</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Stabilizing perovskite solar cells to IEC61215:2016 standards with over 9,000-h operational tracking</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mei</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m">25% % 6_L6+% 9 % B B :D</title>
-		<imprint/>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="2646" to="2660" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Boosting the efficiency and the stability of low cost perovskite solar cells by using CuPc nanorods as hole transport material and carbon as counter electrode</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">@</forename><surname>+f</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Fc-C</surname></persName>
-		</author>
+		<title level="j">Nano Energy</title>
 		<imprint>
-			<pubPlace>G 6#6 H G2 2 &quot; 6 !,6</pubPlace>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="108" to="116" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
-	<note>2 62 &quot; 2&quot; 6 29 6! U0 9 2 21 -6</note>
 </biblStruct>
 
 <biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Tailoring the dimensionality of hybrid perovskites in mesoporous carbon electrodes for type-II band alignment and enhanced performance of printable hole-conductor-free perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">llm no p qo rs t r 674 4871 5 436 1 1 4 !15</title>
-		<author>
-			<persName><forename type="first">% B B : F</forename></persName>
-		</author>
-		<author>
-			<persName><forename type="first">-</forename></persName>
-		</author>
-		<imprint/>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">2100292</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
-	<note># 4$ 5&quot; 4 $ 5 9 1&quot; 3$ #845 3&quot; 2!449 3 3$ 13 &quot; ! #11!! #1&quot; 3 %&amp; &apos; &apos; &amp; ( )*+,-. /0123* ( 4 &amp; 4 25 6/ 789/0* :/;&lt;= &lt;&gt;? 01234567 67@ 5 43A74 481B9 31 &quot; 15 #5 139 41 &quot; 1 C 3!15 &quot; # 4$ 5!5 9#&quot; 3</note>
 </biblStruct>
 
 <biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Vapor-assisted ex-situ doping of carbon nanotube toward efficient and stable perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">K$ $ 133KK2 5 ! 3 #1&quot; 4 4 &quot; 4313!15 &quot; # 4 &quot; 1 C 3 3 L1&quot; 4549 3 I/%&amp;</title>
-		<idno>#845 349 3 I/+4 ( /D&amp; &amp; )09-( 4 /H= &lt;&gt;J 044567</idno>
-		<imprint/>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="2223" to="2230" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
 	</monogr>
-	<note>M 8N 5 -. E4 5+4 ( /G?&lt;= GJ&lt;&gt;&lt;? 04456748 34@7O81&quot; @71&quot; 1314P7K$ $ 133K #845 349 3 &quot; 1 C4 23Q4 # 12&gt;2 5 ! 3 2345 +&amp; . NREN N 5 -J= &gt;G</note>
 </biblStruct>
 
 <biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Minimizing the voltage loss in hole-conductor-free printable mesoscopic perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Du</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">45 $ 1#4 D&amp; &amp; )X3Y )-&amp; 4 &amp;</title>
-		<idno>&gt;GJ 0 45 6 5 13 1ZV 7#5 43P7 064#13 #1#15 1#&quot; 45 C1</idno>
-		<imprint/>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">2102229</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
 	</monogr>
-	<note>313 !K 5 4 !3 4$[5 5 4 3$ 5 #4 #5 #1! 9 4!5 4!15 4 2 1245 2 12451 5 !&quot; 3SE896,( -?= H?&gt;G</note>
 </biblStruct>
 
 <biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Trapping lead in perovskite solar modules with abundant and low-cost cation-exchange resins</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">#845 3$ 1&quot;#5 2 &quot; 1 %</title>
-		<idno>419G@543 3 &quot; 5 9#&quot; 95 34 449 3</idno>
-		<imprint/>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1003" to="1010" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
 	</monogr>
-	<note>/%&amp;. M 8N 5 -. E4 5+4 ( /&lt;= &lt;G&gt;H</note>
 </biblStruct>
 
 <biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Employing 2D-perovskite as an electron blocking layer in highly efficient (18.5%) perovskite solar cells with printable low temperature carbon electrode</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zouhair</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">*D&amp; &amp; ) +4 ( /f5 4 28&amp; &apos; /GJ=</title>
-		<idno>G&gt;?G 13&quot; 1310]71&quot; A]P7]9310e9 3 &quot; 1 C4 241</idno>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<date type="published" when="1958">4 f-5 8</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">2200837</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
-	<note>4 43 5 2!45 #4!&quot; 3$ 49 3 [ 4 4 D&amp; &amp; )X3. 5 41&quot; 4 # 143[5 4 D&amp; &amp; )X3</note>
 </biblStruct>
 
 <biblStruct xml:id="b27">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Interfacial linkage and carbon encapsulation enable full solution-printed perovskite photovoltaics with prolonged lifespan</title>
 		<author>
-			<persName><forename type="first">' ' /</forename><surname>J= G?</surname></persName>
+			<persName><forename type="first">T</forename><surname>Tian</surname></persName>
 		</author>
-		<idno>&gt;G 15 815A7gPP@7 3KH] 1 &quot; 1 &quot; 213 3&quot; 45 1#&quot; 3$ 8 !5 &quot; 4 3 &quot; 1 C4 49 3 31315</idno>
 	</analytic>
 	<monogr>
-		<title level="j"># 1 1 Q1D&amp; &amp; )</title>
+		<title level="j">Angew. Chem. Int. Ed</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="23735" to="23742" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Efficient stable graphene-based perovskite solar cells with high flexibility in device assembling via modular architecture design</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">45 $ 1# 1#1&quot; 3 D&amp; &amp; )X3)-&amp; 4 &amp; &apos; &apos; /;= &lt;&gt;&lt;H #</title>
-		<imprint/>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="3585" to="3594" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
 	</monogr>
-	<note>/%&amp;. M 8N 5 -. E4 5+4 ( /&lt;= ;G&gt; # &quot; 4376 #18 @7 1 45 ]g ! 245#! &quot; 4$ 543 3445 3$ &quot; 5 9#&quot; 95 4&quot; #3&quot; 5 !5 9#&quot;$ 93#&quot; 31 &quot; 2D&amp; &amp; )+N -,4 N /= GH&gt;</note>
 </biblStruct>
 
 <biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Self-adhesive macroporous carbon electrodes for efficient and stable perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">3$b Ob 9 449 3 = 3W943#4$49 [#1&quot; 3 4Q #4354 41 4$L1&quot; 452#1 4 #43#4%&amp; &apos; &apos; &amp; (</title>
-		<idno>#A75 4345V 7#9#133K5 9</idno>
-		<imprint/>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">1802985</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
 	</monogr>
-	<note>*+,-. /0123* ( 4 &amp; 4 25 6/789/0* :/?= G&gt;</note>
 </biblStruct>
 
 <biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Defective MWCNT enabled dual interface coupling for carbon-based perovskite solar cells with efficiency exceeding 22%</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">/%&amp;</title>
-		<imprint/>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">2204831</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
 	</monogr>
-	<note>@1e7e4 4hG9 3 &quot; 1 C1&quot; 32 1#&quot; $ 45 5 3313!15 &quot; # 493 45 3 Q &quot; 5 4 &quot; 3#3 &quot; 3 D&amp; &amp; )X3. /GG= ?&gt;J 3K7i4AG&quot; 5 9#&quot; 95 113 #4 #1$ 1#&quot; 5 1$ $ 4#&quot; 3&quot; 4 4 &quot; 3$!5 &quot; 4 3 &quot; 1 C4 49 3 %. M 8N 5 -. E4 5+4 ( /&lt;= G?&gt;J</note>
 </biblStruct>
 
 <biblStruct xml:id="b31">
-	<monogr>
-		<title/>
+	<analytic>
+		<title level="a" type="main">A large area (70 cm 2 ) monolithic perovskite solar module with a high efficiency and stability</title>
 		<author>
-			<persName><forename type="first">*</forename><surname>+&amp;</surname></persName>
+			<persName><forename type="first">A</forename><surname>Priyadarshi</surname></persName>
 		</author>
-		<idno>* .&amp;/ 010203</idno>
-		<imprint/>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3687" to="3692" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">One-Year stable perovskite solar cells by 2D/3D interface engineering</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grancini</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m">$ ! 6L(MN.OP +0/ D3</title>
-		<meeting><address><addrLine>B2DC</addrLine></address></meeting>
-		<imprint/>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">15684</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Efficient triple-mesoscopic perovskite solar mini-modules fabricated with slot-die coating</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">&lt; A A &lt; P =t M) *</forename><surname>O++&amp;rsp M&amp;</surname></persName>
-		</author>
-		<author>
-			<persName><surname>+u</surname></persName>
-		</author>
-		<idno>@ *V@ P &amp;1/ BB9291</idno>
-		<imprint/>
+		<title level="j">Nano Energy</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page">104842</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Low temperature processed fully printed efficient planar structure carbon electrode perovskite solar cells and modules</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title/>
-		<author>
-			<persName><forename type="first">&lt; A A &lt; P =t M) *</forename><surname>O++&amp;rsp M&amp;</surname></persName>
-		</author>
-		<author>
-			<persName><surname>+u</surname></persName>
-		</author>
-		<idno>@ *V@ P &amp;1/ B90230</idno>
-		<imprint/>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">2101219</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b35">
-	<monogr>
-		<title/>
+	<analytic>
+		<title level="a" type="main">Perovskite solar cells with atomically coherent interlayers on SnO 2 electrodes</title>
 		<author>
-			<persName><forename type="first">M) &amp;3</forename></persName>
+			<persName><forename type="first">H</forename><surname>Min</surname></persName>
 		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
 		<imprint>
-			<pubPlace>BC2CC</pubPlace>
+			<biblScope unit="volume">598</biblScope>
+			<biblScope unit="page" from="444" to="450" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Pseudo-halide anion engineering for α-FAPbI 3 perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jeong</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">6 22!3 56 8 3 628$4 6 665 $ 34 3 2 ;&lt; &lt; =&gt;?=+&lt; @ &lt; A A</title>
-		<idno>&amp;3/ 320 F612698Q 62 452J82W # 172: 342 24 565</idno>
-		<imprint/>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">592</biblScope>
+			<biblScope unit="page" from="381" to="385" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
-	<note>3 d 2!3 56 / 53 25&quot;5 3 56 26 85 3F 5 $62!3 56F 5 $;&lt; &lt; =&gt;?=+&lt; @ &lt; A A &amp;3/ C1020D</note>
 </biblStruct>
 
 <biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Efficient perovskite solar cells via improved carrier management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Yoo</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<idno>&amp;CD2CC/ 12B</idno>
-		<title level="m">5&quot; 55 6e=f&amp;,&lt; A A &lt; P =T M) * +U (@ *V@ P</title>
-		<imprint/>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">590</biblScope>
+			<biblScope unit="page" from="587" to="593" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b38">
-	<monogr>
+	<analytic>
 		<title/>
-		<author>
-			<persName><forename type="first">@ (s]</forename><surname>Oa () P &lt; Mh</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">* @ -M&lt; A &lt;</forename><surname>Np * ](m=i* A P F* +?v?] ) * .]u &lt; +;&lt; &lt; =t Mn+* =p * M)</surname></persName>
-		</author>
-		<imprint/>
+		<ptr target="https://www.nrel.gov/pv/cell-efficiency.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Best Research-Cell Efficiency Chart</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Renewable Energy Laboratory</orgName>
+		</respStmt>
 	</monogr>
-	<note>M=jO) +(@ * O) P @ (A ] 82 9 8G5 73 2!26 844BC207!8 28kH/W5542</note>
 </biblStruct>
 
 <biblStruct xml:id="b39">
 	<analytic>
-		<title/>
-		<idno>M&lt; A &amp;B/ 99C23</idno>
+		<title level="a" type="main">Lead halide-templated crystallization of methylamine-free perovskite for efficient photovoltaic modules</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bu</surname></persName>
+		</author>
 	</analytic>
 	<monogr>
-		<title level="j">&amp;V@ P &amp;h*</title>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="1327" to="1332" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
-	<note>H80$F2 H80 26 I!3 56 8 3 628$! 5^8 3 3 223 3 3 5 2/ 422&quot; &quot; 25&quot;4$ 54458 6 5685626 566Xm W 5%&amp;iP ] S* +</note>
 </biblStruct>
 
 <biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Stabilizing perovskite-substrate interfaces for high-performance perovskite modules</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">656# 2 $6 42 62 64 2 623 d $ 2!T M) &amp;%&amp;;&lt; &lt; =V@ P &amp;h* @</title>
-		<idno>&amp;V@ P &amp;h* @ -M&lt; A &amp;B/ CC21B ZG8W6Z85 65 8Y6895YK !45</idno>
-		<imprint/>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="902" to="907" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
 	</monogr>
-	<note>22622 4 8 3 $5&quot;5 3 6 22!3 56 %&amp;iP ] S* +. 42$4 5 2 6282242 656# 5656 42 44$ 542! 3 8 3 $5&quot;l 5 2622!3 56 ;&lt; &lt; =&gt;?=+&lt; @ &lt; A A &amp;1/ 312DD</note>
 </biblStruct>
 
 <biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Defect compensation in formamidinium-caesium perovskites for highly efficient solar mini-modules with improved photostability</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">$2 8 19 %9 1&apos; $119 8 &apos; $&lt; 8 1# &apos; )$9 ! &apos; &lt; &lt; 818 $9$ &apos; *+ +</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<date type="published" when="1742-09">9 1742</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="633" to="641" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Ultrahydrophobic 3D/2D fluoroarene bilayer-based water-resistant perovskite solar cells with efficiencies exceeding 22%</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">8 ! &apos; 8 &apos; 1$9 $2$ &apos; 8 %!&quot; %$</title>
-		<imprint/>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">2543</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
 	</monogr>
-	<note>18 12 %19#$$8$8 B2CD/E 0 2*+ + ,FGH I29J4 9=3&amp;99</note>
 </biblStruct>
 
 <biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Atomic-level passivation mechanism of ammonium salts enabling highly efficient perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Alharbi</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">@$ 6 A9 &lt; &apos; %! 8 $9 ! 1 1&apos;&apos; 1$9 &apos; 8 &lt; &apos; 1$9 $2 &apos; &lt; &lt; 818 $9 $ &apos; %&apos; 11 $419 18 $9 )18 12&lt; 8 1# &apos; 8 *+ +</title>
+		<title level="j">Nat. Commun</title>
 		<imprint>
-			<biblScope unit="page" from="0" to="1" />
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">3008</biblScope>
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b44">
 	<analytic>
-		<title level="a" type="main">$ ! &apos; 2 %18$</title>
-		<idno>&gt;16 K 61?6% &apos; 19 14&lt; K 6@ 8 $96 559 8</idno>
+		<title level="a" type="main">Intact 2D/3D halide junction perovskite solar cells via solid-phase in-plane growth</title>
+		<author>
+			<persName><forename type="first">Y.-W</forename><surname>Jang</surname></persName>
+		</author>
 	</analytic>
 	<monogr>
-		<title level="j">FM</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">818</biblScope>
-			<biblScope unit="issue">9 8 $9</biblScope>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="63" to="71" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
-	<note>L. 2NOE P2 F+ 1 1 + E ,Q PR H /S T0 HU0 E 2;4 9:&amp;: &gt;16 K 64 &apos; $6 6518 8 $2$?6?$$&lt;6% 8 46$81&apos; A1%</note>
 </biblStruct>
 
 <biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Stability-limiting heterointerfaces of perovskite photovoltaics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">9 V&lt; %&apos; 122$78 9 1 %8 9 &apos; &apos; $2$) 18 29 &apos; *+ +</title>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="volume">605</biblScope>
+			<biblScope unit="page" from="268" to="273" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
-	<note>4 5&amp; &gt;1%Z?65</note>
 </biblStruct>
 
 <biblStruct xml:id="b46">
 	<analytic>
-		<title level="a" type="main">! 9 2c 359 $ b6$2JJ9dH efG.X E 0 + g FGH IE 0 T1hH 0 GPE iMH XS + /R GHFGT/T0 R H /E jTR E + P+SF+ IO1 H k*+ + , U.X R H IX &apos; 1 %86c4&apos; 1 $ b678 1 #J;F+ 1 1</title>
+		<title level="a" type="main">A holistic approach to interface stabilization for efficient perovskite solar modules with over 2,000-hour operational stability</title>
 		<author>
-			<persName><forename type="first">+</forename></persName>
-		</author>
-		<author>
-			<persName><forename type="first">We + Og.X 2j4 J&amp;5 ; +</forename><surname>M0 R E + Pr +*+ + ; + E</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Xe P*+ +</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Liu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">F+ 1 1 + E ,X a</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="596" to="604" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
-	<note>24&apos; $27 $$ 4A&apos; $ $8 6 9*+ + ,lIM1 X E + PX mf/E P0 E O1 H X nf/T0</note>
 </biblStruct>
 
 <biblStruct xml:id="b47">
 	<analytic>
-		<title level="a" type="main">F+ PR /+ 1 1 E PDR GHpE 0 /+ X R /M0 R M/H+SF+ IO1 H k*+ + ,X A1 #9 2%$6c4@2$12 \ 8 )</title>
+		<title level="a" type="main">Deterministic fabrication of 3D/2D perovskite bilayer stacks for durable and efficient solar cells</title>
 		<author>
-			<persName><forename type="first">R E 0</forename><surname>Htp ; Op</surname></persName>
+			<persName><forename type="first">S</forename><surname>Sidhik</surname></persName>
 		</author>
-		<author>
-			<persName><forename type="first">H /X R</forename><surname>Tp</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">E</forename><surname>Pdtp</surname></persName>
-		</author>
-		<idno>hH 0 GPE iMH X 1\18 6?4A\A 2$2 4A&apos; $ $8 6 6</idno>
 	</analytic>
 	<monogr>
-		<title level="m">A5Q PR /+ ,M0 R E + PR +R GHfG.X E 0 T1FGH IE X R /.+ S*+ +</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="page" from="1425" to="1430" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
-	<note>1\18 6?4A\A @1&apos; 8 9 155fG.X E 0 T1FGH IE X R /</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Stable and low-photovoltage-loss perovskite solar cells by multifunctional passivation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="681" to="689" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Metastable Dion-Jacobson 2D structure enables efficient and stable perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="71" to="76" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Damp heat-stable perovskite solar cells with tailored-dimensionality 2D/3D heterojunctions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Azmi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="73" to="77" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Quantum-size-tuned heterostructures enable efficient and stable inverted perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Photon</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="352" to="358" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Multication perovskite 2D/3D interfaces form via progressive dimensional reduction</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Proppe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">3472</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Suppressed ion migration in reduced-dimensional perovskites improves operating stability</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1521" to="1527" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">An interface stabilized perovskite solar cell with high stabilized efficiency and low voltage loss</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Yoo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2192" to="2199" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<idno type="DOI">10.1038/s41560-023-01205-y</idno>
+		<ptr target="https://doi.org/10.1038/s41560-023-01205-y" />
+		<title level="m">Article</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">In situ analysis reveals the role of 2D perovskite in preventing thermal-induced degradation in 2D/3D perovskite interfaces</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Sutanto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3992" to="3998" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Dynamical evolution of the 2D/3D interface: a hidden driver behind perovskite solar cell instability</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Sutanto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2343" to="2348" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Mobile ions in organohalide perovskites: interplay of electronic structure and dynamics</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mosconi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="182" to="188" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Defect activity in lead halide perovskites</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Motti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">1901183</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Defect activity in metal halide perovskites with wide and narrow bandgap</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="986" to="1002" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Stabilizing the Ag electrode and reducing J-V hysteresis through suppression of iodide migration in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Mater. Interfaces</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="36338" to="36349" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Dimensional tailoring of hybrid perovskites for photovoltaics</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grancini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mater</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="4" to="22" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">2D perovskite stabilized phase-pure formamidinium perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">3021</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Facet orientation tailoring via 2D-seed-induced growth enables highly efficient and stable perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="240" to="257" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Mitigating ion migration in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Chem</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="575" to="588" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Planar perovskite solar cells with long-term stability using ionic liquid additives</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">571</biblScope>
+			<biblScope unit="page" from="245" to="250" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Ion migration in organometal trihalide perovskite and its impact on photovoltaic efficiency and stability</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="286" to="293" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Verification and mitigation of ion migration in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">APL Mater</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">41111</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Cation and anion immobilization through chemical bonding enhancement with fluorides for stable halide perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="408" to="415" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Efficient perovskite solar cell modules with high stability enabled by iodide diffusion barriers</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="2748" to="2760" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Stabilizing heterostructures of soft perovskite semiconductors</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="687" to="691" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">In situ growth of graphene on both sides of a Cu-Ni alloy electrode for perovskite solar cells with improved stability</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="520" to="527" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Organometallic-functionalized interfaces for highly efficient inverted perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="416" to="420" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Stabilizing halide perovskite surfaces for solar cell operation with wide-bandgap lead oxysalts</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="473" to="478" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">The research progress of polyhedral oligomeric silsesquioxane (POSS) applied to electrical energy storage elements</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Funct. Mater. Lett</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1730001</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Organic-inorganic hybrid proton exchange membrane based on polyhedral oligomeric silsesquioxanes and sulfonated polyimides containing benzimidazole</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">263</biblScope>
+			<biblScope unit="page" from="195" to="202" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">In situ implantation of cross-linked functional POSS blocks in Nafion® for high performance direct methanol fuel cells</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Membr. Sci</title>
+		<imprint>
+			<biblScope unit="volume">640</biblScope>
+			<biblScope unit="page">119798</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Dipentaerythritol penta-/hexa-acrylate based-highly cross-linked hybrid monolithic column: Preparation and its applications for ultrahigh efficiency separation of proteins</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Chim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">963</biblScope>
+			<biblScope unit="page" from="143" to="152" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Preparation, T g improvement, and thermal stability enhancement mechanism of soluble poly(methyl methacrylate) nanocomposites by incorporating octavinyl polyhedral oligomeric silsesquioxanes</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Polym. Sci. Pol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="5308" to="5317" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Star-polymer multidentate-cross-linking strategy for superior operational stability of inverted perovskite solar cells at high efficiency</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="5406" to="5415" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Efficient and stable inverted perovskite solar cells with very high fill factors via incorporation of star-shaped polymer</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">633</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Intrinsic phase stability and inherent bandgap of formamidinium lead triiodide perovskite single crystals</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">202212700</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Vapor-assisted deposition of highly efficient, stable black-phase FAPbI 3 perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page">8985</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Structure and optical properties of lead iodide based two-dimensional perovskite compounds containing fluorophenethylamines</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kikuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="599" to="602" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">High-performance perovskite solar cells with enhanced environmental stability based on a (p-FC 6 H 4 C 2 H 4 NH 3 ) 2 [ PbI 4 ] capping layer</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1802595</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Large-area perovskite solar cells with Cs x FA 1-x PbI 3-y Br y thin films deposited by a vapor-solid reaction method</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mater. Chem. A</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="21143" to="21148" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Pb(Br y I 1-y ) 3 perovskite solar cells made by vapor-solid reaction technique</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luo</surname></persName>
+		</author>
+		<idno>19.59% efficiency from Rb 0.04 -Cs 0.14 FA 0.86</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Bull</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="962" to="964" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Sequential vacuum-evaporated perovskite solar cells with more than 24% efficiency</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">7422</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Selective growth of layered perovskites for stable and efficient photovoltaics</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="952" to="959" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Compositional and orientational control in metal halide perovskites of reduced dimensionality</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Quintero-Bermudez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="900" to="907" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Synthetic control over orientational degeneracy of spacer cations enhances solar cell efficiency in two-dimensional perovskites</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1276</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Revealing charge carrier mobility and defect densities in metal halide perovskites via space-charge-limited current measurements</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Le Corre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1087" to="1094" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Space-charge-limited electron and hole currents in hybrid organic-inorganic perovskites</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sajedi Alvar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">4023</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="519" to="522" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Recent progress on heterojunction engineering in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aenm.202201436</idno>
+		<ptr target="https://doi.org/10.1002/aenm.202201436" />
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Not all that glitters is gold: metal-migrationinduced degradation in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Domanski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="6306" to="6314" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Ti 1 -graphene single-atom material for improved energy level alignment in perovskite solar cells</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1154" to="1163" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
 </biblStruct>
 
 				</listBibl>

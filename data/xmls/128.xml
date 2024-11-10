@@ -7,50 +7,159 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
+				<funder ref="#_avwnkDB">
+					<orgName type="full">Fundamental Research Fund for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_ZhXAZff">
+					<orgName type="full">Defense Industrial Technology Development Program</orgName>
+				</funder>
+				<funder ref="#_mtk5aK9 #_drcJPCQ">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_FE9DuaZ">
+					<orgName type="full">Shanghai Pujiang Program</orgName>
+				</funder>
+				<funder ref="#_GTKaqdg #_UkuYUyG">
+					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_s2KGRBs">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_9ZzxE5g">
+					<orgName type="full">Research Fund of the State Key Laboratory of Solidification Processing (NPU)</orgName>
+				</funder>
+				<funder ref="#_bsxTgCu">
+					<orgName type="full">Support Plan for Overseas Students to Return to China for Entrepreneurship and Innovation</orgName>
+				</funder>
+				<funder ref="#_JA9m55e">
+					<orgName type="full">Natural Science Foundation of Chongqing</orgName>
+				</funder>
 			</titleStmt>
 			<publicationStmt>
 				<publisher/>
-				<availability status="unknown"><licence/></availability>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-07-06">6 July 2023</date>
 			</publicationStmt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
 						<author>
-							<persName><forename type="first">J</forename><surname>Livage</surname></persName>
-						</author>
-						<author>
-							<persName><forename type="first">J</forename><surname>Lemerle</surname></persName>
-						</author>
-						<author>
 							<affiliation key="aff0">
-								<orgName type="department">Spectrochimie du SoIide</orgName>
-								<orgName type="institution">Universite Pierre et Marie Curie</orgName>
+								<orgName type="laboratory">Key Laboratory of Optoelectronic Technology &amp; Systems (Ministry of Education)</orgName>
+								<orgName type="institution">Chongqing University</orgName>
 								<address>
-									<addrLine>4 Place Jussieu</addrLine>
-									<postCode>75230</postCode>
-									<settlement>Paris</settlement>
-									<country key="FR">France</country>
+									<settlement>Chongqing</settlement>
+									<country key="CN">China</country>
 								</address>
 							</affiliation>
 						</author>
 						<author>
 							<affiliation key="aff1">
-								<orgName type="institution">University of California -San Diego</orgName>
+								<orgName type="department" key="dep1">Multi-scale Porous Materials Center</orgName>
+								<orgName type="department" key="dep2">Institute of Advanced Interdisciplinary Studies</orgName>
+								<orgName type="institution">Chongqing University</orgName>
+								<address>
+									<settlement>Chongqing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Shanghai Frontiers Science Research Base of Intelligent Optoelectronics and Perception</orgName>
+								<orgName type="department" key="dep2">Institute of Optoelectronics</orgName>
+								<orgName type="department" key="dep3">Department of Materials Science</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Mechanical and Energy Engineering</orgName>
+								<orgName type="institution" key="instit1">SUSTech Energy Institute for Carbon Neutrality</orgName>
+								<orgName type="institution" key="instit2">Southern University of Science and Technology</orgName>
+								<address>
+									<settlement>Shenzhen</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">School of Materials Science and Engineering</orgName>
+								<orgName type="laboratory">State Key Laboratory of Solidification Processing, Center for Nano Energy Materials</orgName>
+								<orgName type="institution">Northwestern Polytechnical University</orgName>
+								<address>
+									<settlement>Xi&apos;an</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Institute of High Energy Physics</orgName>
+								<orgName type="institution">Chinese Academy of Sciences (CAS)</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">School of Physics and Technology</orgName>
+								<orgName type="laboratory">Key Lab of Artificial Micro- and Nano-Structures of Ministry of Education of China</orgName>
+								<orgName type="institution">Wuhan University</orgName>
+								<address>
+									<settlement>Wuhan</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department">Laboratory of Photonics and Interfaces</orgName>
+								<orgName type="institution">École Polytechnique Fédérale de Lausanne</orgName>
+								<address>
+									<settlement>Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Cheng Gong</orgName>
+								<orgName type="institution">Haiyun Li</orgName>
+								<address>
+									<settlement>Cong Zhang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department">Daliang Zhang</orgName>
 							</affiliation>
 						</author>
 					</analytic>
 					<monogr>
 						<imprint>
-							<date/>
+							<date type="published" when="2023-07-06">6 July 2023</date>
 						</imprint>
 					</monogr>
-					<idno type="MD5">BF204ABEFA1B5C81B9EDA1A4EA29AD86</idno>
+					<idno type="MD5">1CAF10A3D2A1CA27E395F57F156414B4</idno>
+					<idno type="DOI">10.1038/s41560-023-01295-8</idno>
+					<note type="submission">Received: 5 October 2022 Accepted: 1 June 2023</note>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-03T18:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -58,1592 +167,1349 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</encodingDesc>
 		<profileDesc>
 			<abstract>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>GENERAL FEATURES OF GELS AND COLLOIDS</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Colloids</head><p>Colloidal solutions or "sols" contain either large molecules or small particles (3), and occupy an intermediate position between true solutions of low-molecular-weight species and coarse dispersions. As a rough guide, colloidal particles can be regarded as having</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>From ToF-SIMS results in Fig. <ref type="figure">1a</ref>, Cl -anions showed similar distribution with CN -from spacer species (AI + ). It was inferred that most Cl -anions have been incorporated into 2D perovskite lattices. However, we cannot exclude that some Cl -anions were located at the grain boundaries of 3D perovskite films and passivated the defects there. Certainly, Cl -</p></div>
 			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="en">
 		<body>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Gels and colloids are very widespread in nature. The familiar dessert jelly, the vitreous humor that fills the interior of the eye, marmalade, clays, india ink, milk, and blood serum are gels or colloids. They are also important intermediates in the manufacture of rubber and plastics, and are used in the laboratory for chromatography and electrophoresis.</p><p>Gels and colloids have been studied for more than a century, and Graham (1861) is usually regarded as the founder of colloid science. Nevertheless, most of the physical chemistry of gels has been developed only during the last 40 years, mainly by Flory at Stanford University <ref type="bibr" target="#b0">(1)</ref>. These studies deal mostly with organic polymers. There is much less work on inorganic compounds (2) and, to our knowledge, this paper is the first attempt to review transition metal oxide gels and colloids. In that field, most of the work has been done by French groups during the last four years. The uniqueness of this work lies in its considering transition metal oxide gels as new materials having specific physical properties. A gel being a form of matter intermediate between liquid and solid, its electrical, optical, or magnetic properties could lead to new applications in the field of materials SCIence.</p><p>The surface/volume ratio of colloidal particles may be quite high so that surface properties will play a decisive role in the stability of colloidal solutions. Because of their small dimensions, colloids are constantly moving in an irregular fashion (Brownian motion). There is then always plenty of opportunity for the particles to collide. During such a collision, the attractive van der Waals forces overcome the thermal energy kT and the particles tend to combine in order to decrease their surface free energy. This leads to a phase separation called flocculation. All colloids spontaneously tend to flocculate, and some repulsive force must prevent them from colliding in order to obtain a stable colloidal solution.</p><p>Thc stability of sols arises chiefly from the electrical charges carried by the particles. Identically charged particles will repel each other, which prevents contact, whereas uncharged particles will collide. The charge of the colloid may arise from the ionization of the surface in a polar medium. Silicate particles, for instance, become negatively charged in water by diffusion of Na + ions toward the solution <ref type="bibr" target="#b4">(5)</ref>. The superficial charge may also arise from the preferential adsorption of dissolved ions. In water, for instance, the charge is due to adsorption of H+ or OH -ions. It may be conveniently modified in magnitude and in sign just by varying the pH. An "isoelectric point" corresponding to the point of zero charge may be defined. It corresponds to the pH below which particles are positively charged and above which they become negatively charged <ref type="bibr" target="#b5">(6)</ref>. Addition of inorganic saits, which effectively screen the charges on colloidal particles, reduces the range of the electrical repulsive forces, so that the attraction predominates and coagulation follows.</p><p>Another stability factor comes from solvation, i.e. adsorption o f solvent molecules at the surface of the colloid. The particle is then more or less surrounded by a protecting layer that can prevent its aggregation with another particle. Such a protecting effect may be reinforced by adding a protective colloid called "surfactant" <ref type="bibr" target="#b6">(7)</ref>. Ferrofluids for instance are commercially obtained by coating small ferrite particles with long chain polar molecules <ref type="bibr" target="#b7">(8)</ref>. At short distances, the repulsion due to steric hindrance of the long chain molecules overcomes the attractive interaction.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gels</head><p>The stability and properties of colloidal solutions are governed mainly by the nature of the interactions between solid particles and the solvent. Colloidal systems may be classified into two main groups: (a) Colloidal dispersions that are thermodynamically unstable. They are irreversible systems in the sense that they are not easily reconstituted after phase separation. (b) Macromolecular solutions that are thermodynamically stable and reversible. They can be easily reconstituted after separation of solute from solvent.</p><p>Sometimes, a large amount of solvent can be immobilized by mechanical entrapment. A gel is thus obtained. This is a quasi-homogeneous solid-like system but rieh in liquid. Such structures are preferentially formed by long or flat particles chemically cross-linked or physically entangled to such an extent that a continuous three-dimensional network is formed. The solvent becomes trapped in this network and a gel is formed. Transition metal oxide gels, for instance, may be obtained with iron hydroxide (flat particles) or vanadium pentoxide (random coils). The polymeric network prevents the liquid from flowing while the liquid prevents the solid from collapsing into a compact mass. Gels may be thixotropic; the bonds between particles being reversibly broken by mechanical action <ref type="bibr" target="#b8">(9)</ref>.</p><p>Gels have to be distinguished from gelatinous precipitates in which water is not included in the solid network. The solvent may be removed from the gcl, giving powders of large surface area that can be used for the sintering of glasses or ceramics at low temperature <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b10">11)</ref>. Dehydration of a gel may sometimes be reversible. An elastic solid called "xerogel" is obtained. Restoring the water (or another solvent} produces again a gel or a colloidal solution. This process, known as the swelling of a xerogel, mostly occurs for macromolecular colloids. It may explain the high solubility of amorphous VzOs in water <ref type="bibr" target="#b11">(12)</ref>.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>LIV AGE &amp; LEMERLE</head></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>PREPARATION OF COLLOIDS</head><p>Colloids are halfway between molecules and solids. They can be obtained either by dispersing the bulk state (grinding, peptization, decomposition) or by agglomerating the molecular state (polymerization). Both physical and chemical processes have been developed to create transition metal oxide gels or colloids. Many specific syntheses are described in the literature, but few general principles have been pointed out. The nature and the properties of the final product are very sensitive to a number of parameters, among which are the solvent, the pH, the temperature, and the presence of foreign ions <ref type="bibr" target="#b1">(2)</ref>.</p><p>Most efforts have tried to control the size and the charge of the colloidal particles. The apparent charge of the system must be as low as possible in order to get species of high molecular weight. The synthesis has then to be performed at a pH close to the isoelectric point. Particle-particle interac tions are thus enhanced, and this enhanced particle association leads to the formation of high polymers. Particle-solvent interactions, on the other hand, are decreased and care must be taken to avoid flocculation. Therefore excess electrolytes must be eliminated or a peptizing agent must be added.</p><p>A survey of published data shows that almost all transition metal oxides, except the VIIB elements, can be obtained as gels or colloids. Transition elements located at the left of column VIIB give, in their highest valence state, hydrated oxides, those located at the right tend to give colloidal metals (zero valence state) or colloidal hydroxides. Iron, cobalt, and nickel give magnetic colloids that can be either hydrated oxides or hydroxides depending on the pH of the medium. Colloidal oxides are usually strongly solvated by water molecules and this tightly bound water must be treated as a part of the particle. It is therefore not always easy to know the exact chemical formula of the colloid. They are sometimes called "hydrous oxides," in a rather general sense including oxides, hydroxides, hydrated oxides, oxyhydroxides, etc <ref type="bibr" target="#b1">(2)</ref>.</p><p>An exhaustive analysis of all the syntheses described in the literature would be tedious. We instead focus our discussion on some especially important classes of transition metal oxide gels and colloids.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>M onodispersed Colloids</head><p>Matijevic and co-workers <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b12">13)</ref> extensively studied the way of making monodispersed metal hydrous oxides of uniform size and shape. They showed that the appearance of the colloid was preceded by the formation of dissolved metal complexes, which include, as ligands, hydroxide ions, and possibly other anions present in the solution. These complexes act as precursors to nucleation and therefore affect the particle growth.</p><p>Forced hydrolysis of metal salt under carefully controlled conditions allowed Matijevic et al to prepare a great variety of colloidal transition metal oxides (Cr, AI, Th, Fe, Cu, Ti). They showed that metal ions known for their tendency to polymerize on heating or ageing (such as Al or Cr) give amorphous particles, whereas metal ions that hydrolyse to well-defined molecular species yield crystalline solids.</p><p>The nature of the anion may be very important too. Anions that promote polymerization of metal hydroxylated species (e.g. sulfate, phosphate) lead to amorphous particles, whereas anions that give well-defined complexes (e.g. chlorine, nitrate) produce crystalline solids.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Polymeric Gels</head><p>Early transition metals such as vanadium, molybdenum, and tungsten are well known to give condensed species called polyanions ( <ref type="formula">14</ref>), but their molecular weight is not high enough to form gels or colloids. Polymerization can nevertheless be enhanced by decreasing the charge of the polyanion, i.e. by adjusting the pH of the solution around the isoelectric point. This is usually done by water peptization of a mixture obtained by grinding ammonium meta vanadate or tungstate in hydrochloric acid <ref type="bibr" target="#b14">(15)</ref>.</p><p>A very nice method for making sols or gels without any foreign anion was developed recently by J. Lefebvre and colleagues <ref type="bibr" target="#b15">(16)</ref>. In the case of V 205 gels, for instance, decavanadic acid is first prepared by ion exchange in a resin from sodium metavanadate solution. This acid spontaneously polymerizes in water at room temperature according to a self-catalytic condensation process. Water molecules are eliminated between two V-OH groups, giving an oxygen bridge between the two vanadiums <ref type="bibr" target="#b15">(16)</ref>. The pale yellow decavanadic acid solution progressively darkens and becomes more viscous with age. After a few hours a red gel is obtained, made of polymeric species of high molecular weight. An electron micrograph of these gels is shown in Figure <ref type="figure" target="#fig_0">1</ref>. It shows the fibrous texture of the gel made of entangled fibers about 0.5 Jim long and 50--100 A thick <ref type="bibr" target="#b16">(17)</ref><ref type="bibr" target="#b17">(18)</ref><ref type="bibr" target="#b18">(19)</ref>.</p><p>A similar procedure can be followed for making tungsten oxide gels (20). This gel is nevertheless unstable and after a few days a precipitate of crystalline tungsten oxide is formed. The gel can, however, be stabilized by adding some foreign colloidal oxides such as Mo03.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Magnetic Colloids</head><p>Physical methods have also been used in order to obtain transition metal oxide colloids. The best-known example is that of magnetic liquids containing colloidal ferrite particles now manufactured under the name "Ferroftuids" by Ferroftuidics Corporation. Such magnetic colloids can be obtained by grinding ferrite powders with steel balls for several weeks in a kerosene oleic acid mixture <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b20">21)</ref>. The grinding leads to particles whose diameter is about 100 A. The surfactant (oleic acid) is included in order to prevent agglomeration due to van der Waals and magnetic forces <ref type="bibr" target="#b21">(22)</ref>. Such a procedure is, of course, very long and expensive, so other methods have been developed. Colloidal magnetite can also be prepared by chemical precipitation of Fe304 particles fro� a solution of ferric and ferrous salts. The precipitate is then separated to a colloidal state by a solution of oleic acid in a nonpolar liquid <ref type="bibr" target="#b22">(23)</ref>. Very recently, Massart, at the University of Paris, found a new way of making magnetic colloids without any surfactant <ref type="bibr" target="#b23">(24,</ref><ref type="bibr" target="#b24">25)</ref>. In this procedure, an aqueous mixture of ferric and ferrous chloride is added to ammonia. A gelatinous precipitate is obtained that can be treated either in an alkaline medium by peptization with tetramethylam monium hydroxide or in an acid medium with perchloric acid. The stabilization of these sols does not need the addition of surfactant as in all previous ferrofluids; instead they are stabilized by the superficial charge of the colloid. This charge is due to the preferential adsorption of H + or OH ions. It can be modified at will, in sign and intensity, by varying the pH below or above the isoelectric point around pH = 7 <ref type="bibr" target="#b24">(25)</ref>. The electronic properties of transition metal oxide gels and colloids are not drastically different from those of the amorphous or crystalline oxides in the solid state. Transition metal ions. may exhibit several valence states so that electron transfer from low to high valence ions can take place. These materials then belong to the well-known family of mixed-valence com pounds <ref type="bibr" target="#b25">(26)</ref>. The electron transfer process between two transition metal ions is usually described by a double well potential energy diagram (Figure <ref type="figure" target="#fig_2">2</ref>). The electron can be thermally transferred from one site to the other with an activation energy Eth = W given by the height of the potential energy barrier separating the two configurations. It can also be optically excited without moving the ions (according to the Franck-Condon principle) with an activation energy E OP! = hv. The optical and thermal activation energies are related by Eopt = 4Eth <ref type="bibr" target="#b26">(27)</ref>. Electron exchange between both ions is only possible if the overlap between the electronic wave functions t/I A and t/lB is different from zero. This electronic interaction removes the degeneracy at the crossing point of the potential energy curves, leading to two energy levels separated by 2J, where J is the transfer integral (Figure <ref type="figure" target="#fig_2">2b</ref>). The thermal activation energy is thus lowered (Elh = W -J) and the two exchange processes are related by i Eopt = Eth + J <ref type="bibr" target="#b26">(27)</ref>.</p><formula xml:id="formula_0">L1V AGE &amp; LEMERLE</formula><p>Mixed-valence compounds will then behave differently, depending on the values of J and W. This leads to the classification suggested by Robin &amp; Day <ref type="bibr" target="#b25">(26)</ref>. No exchange is observed when J = 0, valence states remain localized and the mixed-valence compound behaves as an insulator (class I). Delocalization occurs when J � W (class III) leading to metallic behavior as in the tungsten bronze Nax W03. Electron hopping between localized states is observed when J &lt; W (class II). Because d-d overlap is usually small in transition metal oxide gels, these compounds belong to class II. Electron transfer may be either optically or thermally activated. The optical activation energy is typically about 1 eV, giving a characteristic blue color due to intervalence transfers <ref type="bibr" target="#b27">(28)</ref>. The thermal activation energy is about 0.2 eV, which leads to semiconducting behavior <ref type="bibr" target="#b28">(29)</ref>. Magnetic properties can also be observed when both valence states have an unpaired electron <ref type="bibr" target="#b29">(30)</ref>.</p><formula xml:id="formula_1">--��� �� �-----g</formula></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Semiconducting V205 Gels</head><p>Vanadium pentoxide gels were recently developed in order to make semiconducting coatings <ref type="bibr" target="#b30">(31)</ref><ref type="bibr" target="#b31">(32)</ref><ref type="bibr" target="#b32">(33)</ref>. Such gels, or colloidal solutions, behave like paint. They can easily be deposited onto a glass or polymeric substrate giving layers of large area. The solvent readily evaporates and a rather hard coating results. Its thickness may range between 500 and 10,000 A.</p><p>The V 205 layers deposited from gels exhibit interesting semiconducting properties <ref type="bibr" target="#b33">(34)</ref>. The temperature dependence of their dc conductivity in the temperature range 20-300 K is reported on Figure <ref type="figure" target="#fig_3">3</ref>. It is typical of small polaron conduction in amorphous transition metal oxides and can be ( W )</p><formula xml:id="formula_2">(J = k�R C(1-C) exp(-2aR) exp -kT '</formula><p>where Vo is a phonon frequency related to the Debye temperature () (hyo = k()). R is the average hopping distance between vanadium ions, C is the fraction of V 4 + ions, a is the rate of the wave function decay, and exp( -2rxR) corresponds to tunnelling transfer. A linear plot of In«(JT) versus liT is observed at high temperature (&gt; 150 K) giving an activation energy W = 0.17 eV. According to Schnakenberg <ref type="bibr" target="#b34">(35)</ref>, in this temperature range (T &gt; <ref type="bibr" target="#b11">(12)</ref> the small polaron hopping is activated by an optical multiphonon process and the activation energy is given by W = »), +t�. »), corresponds to the small polaron formation and � to the disorder term introduced by Anderson and leading to the well-known "Anderson localization" in amorphous semiconductors <ref type="bibr" target="#b35">(36)</ref>. As the temperature is lowered, the phonon spectrum freezes out and the observed activation energy continuously decreases. An acoustical phonon-assisted hopping takes place at low temperature (T &lt; ()14), the activation energy is given by W = twd. A linear plot below 48 K yields a disorder term Wd of about 0.1 eV. This experiment, performed at the University of Orsay, was the first direct measurement of � at low temperature. Amorphous transition metal oxides are usually highly resistive and, up to now, conductivity measure ments had never been performed below 77 K <ref type="bibr" target="#b28">(29)</ref>. This points out one of the main interests in semiconducting layers deposited from V 20S gels. They exhibit a surprisingly high conductivity compared to other V 20S com pounds (see Table <ref type="table" target="#tab_0">1</ref>). A value of about 1 Q -1 cm -1 was measured at room temperature, three orders of magnitude greater than for crystalline V 205.</p><p>The reason for such a high conductivity is not yet clearly understood. It presumably arises from the particular nature of the gel where charged ions may be adsorbed at the surface of the oxide. Patents have recently been   granted for using Y20S gels to deposit antistatic coatings on the back of photographic films <ref type="bibr" target="#b36">(37)</ref>. Beside their high conductivity, such coatings appear to be much less sensitive to ambient moisture than the polymeric antistatic coatings previously used in the photographic industry <ref type="bibr" target="#b37">(38)</ref>.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Switching Devices</head><p>Switching and memory effects have been observed in a wide variety of amorphous semiconductors since their discovery by Ovshin s ky in chalco genide glasses <ref type="bibr" target="#b38">(39)</ref>. Several phenomena are actually classified under the loosely defined name of "switching" (40) : negative resistance devices, negative resistance with memory, switching, or switching with memory. They all occur when the voltage V, applied across a thin film, exceeds a threshold value �. For V &lt; �, the film is in the high resistance "OFF" state while for V &gt; � it switches to the low resistance "ON" state. It switches back to the OFF state when the current decreases below a critical value called holding current lh' The resistance ratio between ON and OFF states may exceed six orders of magnitude. Some amorphous semiconductors have been operated 10 14 times under pulse conditions without failure. Great hopes have been placed on switching or memory devices based on amorphous semiconductors, but none has yet led to industrial application. The theoretical description of the switching phenomenon is still the subject of controversy. According to some authors, it should be due to thermal instability <ref type="bibr" target="#b39">(40)</ref>; others suggest a double injection process <ref type="bibr" target="#b40">(41,</ref><ref type="bibr" target="#b41">42)</ref>. Switching has been observed in several transition metal oxide glasses <ref type="bibr" target="#b42">(43,</ref><ref type="bibr" target="#b43">44)</ref>. Y 20S P20 S glasses, for instance, exhibit either threshold or memory switching <ref type="bibr" target="#b44">(45)</ref><ref type="bibr" target="#b45">(46)</ref><ref type="bibr" target="#b46">(47)</ref><ref type="bibr" target="#b47">(48)</ref>.</p><p>Switching devices, based on Y 20S layers deposited from gels, were recently developed <ref type="bibr" target="#b48">(49)</ref>. Figure <ref type="figure" target="#fig_6">4</ref> shows such a device. A layer, about 1 ).lm thick is deposited onto a microscope slide and gold electrodes 100 ).lm apart are vacuum evaporated in a coplanar geometry (Figure <ref type="figure" target="#fig_6">4a</ref>). A 0--400 volts dc voltage is applied through a current-limiting resistor RL (Figure <ref type="figure" target="#fig_6">4b</ref>). The I -V characteristic of the device is drawn on Figure <ref type="figure" target="#fig_6">4c</ref>. The voltage drop Vx across the sample is plotted along the x axis, while the current, given by the voltage drop lj = RJ across a resistor Rs' is plotted along the y axis.</p><p>Switching occurs for a threshold voltage � ranging between 10 and 20 volts, depending on the y4+ content of the sample (0.01 &lt; y4+ IY &lt; 0.04). It decreases when the y4 + fraction increases. Currents up to 50 rnA were passed through the sample without failure. Upon application of a 50-l:Iz ac voltage, a stable characteristic was obtained, even after several days of operation. The threshold voltage decreases when the temperature in creases; switching even disappears above 350 K. A maximum value is obtained around 260 K and a plateau is observed for lower temperatures. </p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Electrochemichromism of WO] Gels</head><p>Photochromic and electrochromic properties of amorphous W03 thin films have been thoroughly studied during the last decade <ref type="bibr" target="#b27">(28)</ref>. The first paper, published by <ref type="bibr">Deb in 1973 (50)</ref>, reported that amorphous W0 3 could exhibit two stable states. One is transparent and highly resistive while the other is deep blue and less resistive. Coloration can be obtained by UV irradiation, application of an electric field, or proton injection from an electrolyte <ref type="bibr" target="#b27">(28)</ref>. The first two processes are rather slow, but the third one appears to be fast and highly reversible. It could have considerable application in the field of digital display devices <ref type="bibr" target="#b50">(51)</ref>. Amorphous W03 thin films are usually obtained by vacuum evapor ation of rf sputtering, but we recently found (Livage, unpublished results) that they could also be deposited from W03 gels or colloidal solutions. Such a procedure would be very cheap and could lead to display devices of large area. W03 gels can be made by polymerization of tungstic acid in water <ref type="bibr" target="#b19">(20)</ref>. A white gel is first obtained that does not appear to be stable. It precipitates within a few hours, giving crystalline hydrated oxides W03• nH20 that do not exhibit photochromic properties. The gel can nevertheless be stabilized by adding foreign ions to the solution of tungstic acid before polymerization. The gel, or colloidal solution, can then be easily deposited on a glass or polymeric substrate, giving transparent layers of amorphous W03.</p><p>Such layers are quite stable and can be kept transparent for months. On the other hand, they turn to a deep blue within a few seconds when irradiated by UV light. The process is not reversible and the blue color remains indefinitely. Such layers could be used for printing information on a film. The coloration process appears to be much faster than for other amorphous W03 thin films that require prolonged exposure of s everal hours to become blue <ref type="bibr" target="#b49">(50)</ref>. The reason for such a difference presumably arises from the fact that W03 gels contain water molecules that take part in the photoreduction process. Furthermore, the coloration characteristics can be modified by using other solvents.</p><p>Reversible display devices based on amorphous W03 thin films have been developed (5 1). Amorphous W03 can be obtained by vacuum evaporation <ref type="bibr" target="#b49">(50)</ref>, sputtering <ref type="bibr" target="#b52">(53)</ref>, or anodic oxidation of tungsten <ref type="bibr" target="#b53">(54)</ref>. It can also be deposited from a W03 gel. These devices behave like an electrochemical cell <ref type="bibr" target="#b51">(52)</ref>. The W03 film is deposited onto a transparent conducting electrode (indium tin oxide). It is then placed in contact with a suitable electrolyte: e.g. an aqueous acid solution (55), LiCI0 4 dissolved in propylene carbonate <ref type="bibr" target="#b55">(56)</ref>, or even a solid-state electrolyte <ref type="bibr" target="#b56">(57)</ref>. The application of a negative potential (&gt;0.7 V) (Figure <ref type="figure" target="#fig_7">5a</ref>) causes the W03 film to turn deep blue within 0.5-1.0 second. The blue state remains after the voltage has been removed but the initial transparent state can be restored by applying a reverse (0.8 V) potential (Figure <ref type="figure" target="#fig_7">5b</ref>). The coloring and bleaching cycles have been repeated more than 106 times without significant degradation <ref type="bibr" target="#b57">(58)</ref>.</p><p>The blue coloration arises from a broad absorption band centered around 900 nm <ref type="bibr" target="#b56">(57)</ref>. This absorption is due to optically• activated intervalcnce transfer of unpaired electrons between W5 + and W6 + ions. ESR experiments performed on colored W03 thin films <ref type="bibr" target="#b52">(53)</ref> show that isolated W5 + ions are formed upon coloration, while they disappear upon bleaching. The most probable process for electrolytic coloration seems to be that of a double injection in which negative charge carriers are electrons while M+ ions (M = H, Li) are the charge compensators <ref type="bibr" target="#b58">(59)</ref>. A blue tungsten bronze would then be formed according to</p><formula xml:id="formula_3">xM+ +xe-+ W03 --t MxW03•</formula><p>The blue W03layers also exhibit semiconducting properties arising from a thermally activated hopping process. Figure <ref type="figure" target="#fig_8">6</ref> shows the temperature dependence of the ESR spectrum recorded on a blue layer deposited from gel. Thc unpaired electrons remain localized on a single tungsten site below 77 K. A hopping process is observed when the temperature increases, leading to a broadening of the W5 + ESR signal. The termal activation energy calculated from the ESR linewidth variation is quite small (Eth -0.05 eV), much smaller than for semiconducting layers deposited fr om V20S gels.</p><p>W03 gels have not yet received much attention but they could lead to interesting new applications in the field of display devices or reversible cathodes for secondary lithium batteries. the Ferrofluidics Corporation under the name of fcrrofluids. This term was first used by Rosenweig and Kaiser to designate a magnetic colloid in which the dispersed phase is a magnetic ferrous material. The more general term "magnetic fluid" is preferred because these fluids may contain magnetic particles other than iron, i.e. cobalt, nickel, gadolinium, or dysprosium <ref type="bibr" target="#b29">(30)</ref>. They can also contain ferrimagnetic particles such as the ferrites of manganese, cobalt, nickel, copper, or magnesium. Ferroftuids are quite different from the magnetic clutch materials developed in the 1940s. These were suspensions of fairly large (about l/lm) particles in oil and proved useful in clutches, brakes, and dash pots, because their viscosities depended upon the applied magnetic field. Ferrofluids are colloidal suspensions of very fine particles (about 100 A). They keep their fluid properties under all applied fields and field gradients and can therefore be defined as Newtonian liquids that retain their fluidity in the presence of an external magnetic field <ref type="bibr" target="#b20">(21)</ref><ref type="bibr" target="#b21">(22)</ref><ref type="bibr" target="#b22">(23)</ref>. A magnetic fluid is actually a two-phase fluid (Figure <ref type="figure" target="#fig_9">7</ref>), but the particles are sufficiently fine so as to remain suspended indefinitely in the liquid. The mechanism that makes this possible is Brownian motion. A unique property of these fluids is that, when the magnetic particles are attracted to a magnet, the carrier fluid moves along with the particles so that the carrier fluid appears to be magnetic (Figure <ref type="figure">8</ref>). The size of the colloidal particles (about 100 A) is somewhat less than the dimensions of a single magnetic domain <ref type="bibr" target="#b60">(61)</ref>. They are then magnetically soft <ref type="bibr" target="#b59">(60)</ref> and do not display any hysteresis loop. They behave as superparamagnets. Their magnetizations can reach high levels at saturation (4nM s -600 gauss), but do not exhibit any remanence at zero field.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>Magnetic Colloids, Ferrofluids</head><p>Magnetic fluids are thoroughly studied all over the world. Two international conferences gathered together hundreds of scientists, and a third will occur in 1983. Numerous applications have been suggested, some of them being already proven. The apparent increase in density of ferrofluids with increasing magnetic field makes it possible to vary their apparent density at will, a property that could be very useful for the selective separation of minerals according to their densities. Among the numerous products in which magnetic fluids can play a role are rotary shaft seals, magnetically entrained lubricants, nonwearing electrical switches, dampers and shock absorbers, and liquid pumps without mechanical devices.</p><p>Since the magnetic properties of ferrofluids depend on the temperature, direct conversion of thermal energy to mechanical energy has also been proposed. The magnetization can be varied thermally so as to alter the Figure <ref type="figure">8</ref> A unique property of the ferrofluid is that when the magnetic particles are attracted to a magnet, the whole carrier fluid moves along so that it appears to be magnetic. (From Serddav, CNRS, France.) pressure in the fluid. Many other applications, such as high-speed magneto graphic line printing or medical uses, can be found in the literature <ref type="bibr" target="#b20">(21)</ref>. The high cost of ferrofluids is still an important impediment to their development. New ways of making them at lower cost must be found. A deeper understanding of the physical chemistry of colloids could probably help solve this problem <ref type="bibr" target="#b24">(25)</ref>.</p><p>The Gel Route to Glasses and Ceramics Highly divided inorganic oxides are increasingly being used as absorbents, fillers, supports, reinforcing agents, pigments, etc. Such oxides can be obtained in a divided state, as porous gels, by chemical precipitation from an aqueous solution. After drying, a xerogel is obtained whose texture (pore volume, surface area) is often much poorer than that of the wet gel: aerogels exhibiting better surface properties can, however, be obtained by evacuat ing the solvent under hypercritical conditions in an autoclave. Those materials have a much higher reactivity than bulk oxides and exhibit interesting catalytic properties <ref type="bibr" target="#b61">(62)</ref>.</p><p>Gels can also be chosen as starting materials for preparing metastable phases. Tetragonal zirconia ZrOz, for instance, cannot be obtained, even by quenching, at temperatures lower than llOO°e. A phase transformation occurs and the stable phase at room temperature is always monoclinic. Amorphous zirconium oxide gels have been obtained by precipitation of zirconium oxychloride with ammonia. These gels crystallize upon heating at 300°C, giving rise to the tetragonal form ofZrOz. This phase of course is metastable and slowly transforms into the monoclinic one when heated above 400°C <ref type="bibr" target="#b62">(63)</ref>. Similar gels, obtained by coprecipitation of ZrOz with another oxide, have been developed in order to make refractory com pounds <ref type="bibr" target="#b63">(64)</ref>.</p><p>This example shows that inorganic gels can be used as starting materials in order to make glasses or ceramics at low temperature, well below the melting point. This method, called the "gel route" by Roy <ref type="bibr" target="#b64">(65)</ref>, has grown continuously in recent years <ref type="bibr" target="#b65">(66,</ref><ref type="bibr" target="#b66">67)</ref>. The preparation of inorganic materials by the gel route may be considered a polycondcnsation reaction requiring that the parent chemical species form, at first, a clean solution <ref type="bibr" target="#b65">(66,</ref><ref type="bibr" target="#b67">68)</ref>. This can usually be achieved, in the case of a multicomponent system, with alcoholic solutions of metal alkoxides M(OR)m which are very suitable for the generation of polymeric chains upon hydrolysis and condensation <ref type="bibr" target="#b68">(69)</ref>.</p><p>The nature and properties of the gel strongly depend on the experimental procedure. Fibers could be drawn from alkoxide solutions in the course of hydrolysis, when water is added in an amount insufficient for the completion of the hydrolysis. Glass fibers of TiOz-SiOz, Alz03-SiOz, or 120 LIV AGE &amp; LEMERLE Zro.rSi02 have been made that way <ref type="bibr" target="#b69">(70)</ref>. On the other hand, homo geneous hydrolysis with an excess of water gives jelly-like masses suitable' for obtaining nonparticulate glasses <ref type="bibr" target="#b70">(71,</ref><ref type="bibr" target="#b71">72)</ref>.</p><p>Preparation of glasses and ceramics from metal-organic compounds via the gel route permits the mixing of constituents at a molecular level. Owing to this intimate mixing and the high surface area of the gels, these materials melt to clear glasses or sinter to dense bodies at temperatures considerably lower than the equivalent compositions prepared by classical methods. Sol gel material preparation processes have been applied in coating technology <ref type="bibr" target="#b72">(73)</ref> or in the preparation of high density nuclear materials <ref type="bibr" target="#b73">(74)</ref>. AZSC refractories <ref type="bibr" target="#b10">(11)</ref> and superionic conducting oxides <ref type="bibr" target="#b74">(75)</ref> have also been recently made by the gel route. Many other examples can be found in the literature showing that the gel route is a very promising way of preparing materials at low temperature.</p></div>
-<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Gels and colloids cover a wide range of inorganic compounds situated between molecules and solids. This particular state of matter is very often encountered in the chemical industry and almost all transition metal oxides can be obtained in the colloidal state <ref type="bibr" target="#b1">(2)</ref>. Nevertheless, a survey of the literature shows that their study is still beginning. Much work has to be done before a deep understanding of the nature and properties of transition metal oxide gels and colloids can be reached. In this section we point out some of the main .features of this special kind of materials.</p><p>First of all, colloidal oxides have a large surface area. They exhibit a much higher reactivity than bulk oxides. This property can, of course, be used for heterogeneous catalysis <ref type="bibr" target="#b61">(62)</ref>. It can also be very important for making inorganic materials at low temperature and therefore at lower cost. The.gel rONte <ref type="bibr" target="#b64">(65)</ref> opens new techniques in• the field of glasses and ceramics. The mechanical and physical properties of the materials prepared by this method appear to compete quite well with those of the materials obtained by melting or sintering.</p><p>Due to their large surface area, colloids interacrstrongly with the solvent molecules. Ionic or electronic exchanges between the solid (colloidal oxide) and the solvent are then enhanced, This property could find interesting applications in all devices where some exchange occurs between a solid and' a liquid (ion exchange resins, ' batteries, electrochemical cells for display devices). Solvation effects play a dominant role in the properties of gels. The' high conductivity of V 205 layer.s deposited from gel presumably arises from such surface' effects. These ll'!-yers, exhibit intercalation properties and recent works show that a wide variety of organic molecules can .be, intercalated in V 20S gels <ref type="bibr" target="#b75">(76)</ref>. Their semiconducting properties might be modified at will according to the nature of the intercalated molecule.</p><p>Another interesting feature of transition metal oxide gels and colloids is that they can lead to liquids having physical properties usually encountered in the solid state. All the known materials that are strongly magnetic, for instance, are solids. The only liquids exhibiting high magnetizations are ferrofluids. These are solutions of magnetic colloidal particles. The solid phase does not occupy more than 10% of the volume, but the whole solution behaves as a magnetic fluid.</p><p>We have tried, in this review article, to point out some of the main properties of the colloidal state that could be applied in the field of materials science. Many others could be found and we hope that new ideas will soon appear in the somewhat forgotten field of transition metal oxide gels and colloids.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Electron micrograph of a V 205 gel showing the fibrous texture of the material.</figDesc><graphic coords="6,51.85,57.59,318.72,211.20" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Downloaded from www.annualreviews.org. University of California -San Diego (ar-226010) IP: 137.110.37.255 On: Sun, 03 Nov 2024 18:17:44 OXIDE GELS 109 APPLICATIONS OF TRANSITION METAL OXIDE GELS AND COLLOIDS Electronic Properties</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Potential energy vs a configurational parameter for an electron hopping between two transition metal ions: (a) without any electronic interaction, J = 0; and (b) with an electronic interaction, J # O.</figDesc><graphic coords="7,53.76,414.72,334.08,112.32" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Temperature dependence of the electrical conductivity of V 205 layers deposited from gel.</figDesc><graphic coords="8,103.68,289.91,203.52,241.92" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Crystalline</head><label></label><figDesc></figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Switching in V 20 5 gel: (a) switching device using a layer of amorphous V;05 deposited fr om gel; (b) electrical circuit used for measurements; and (c) the I = f(V) characteristic.</figDesc><graphic coords="11,71.04,51.83,272.64,313.44" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 5</head><label>5</label><figDesc>Figure 5 Electrochromism of amorphous W03 layers deposited from gel: (a) coloration, (b) bleaching.</figDesc><graphic coords="13,94.08,53.52,201.60,202.08" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>FerromagneticFigure 6</head><label>6</label><figDesc>Figure 6 Electron spin resonance (ESR) spectrum of a blue W03 layer deposited from gel. The recording temperatures are (a) 300 K, (b) 150 K, and (c) 77 K. The low field signal corresponds to Mo 5 + impurities. The high field signal that broadens with temperature corresponds to W 5 + ions.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>•,Figure 7</head><label>7</label><figDesc>Figure 7  This ferrofluid is a two-phase fluid containing small Fe304 particles (diameter � 100 A) dispersed in kerosene. For this electron micrC1graph, the liquid has been replaced by a polymer according to a procedure described in<ref type="bibr" target="#b76">(77)</ref>. (From Serddav, CNRS, France:)</figDesc><graphic coords="15,53.76,303.36,312.96,207.36" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Electrical properties of V 205</figDesc><table /></figure>
-			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>LIVAGE &amp; LEMERLE</p></note>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>anions also played a critical role in modulating the crystallization of 3D perovskites and contributed to improved crystallinity and ameliorated morphology. In fact, it was extensively revealed that Cl - anions can effectively regulate the perovskite crystallization and passivate the defects at grain boundaries (JACS 2014, 136, 13249; Adv. Funct. Mater. 2014, 24, 7102; Joule 2019, 3, 2179; Adv. Mater. 2021, 33, 2007126). Supplementary Fig. <ref type="figure" target="#fig_2">12</ref>. The high-angle annular dark-field (HAADF) and energy-dispersive x-ray spectroscopy elemental map of the cross-sectional STEM image of the target device in Fig. <ref type="figure" target="#fig_2">1d</ref>. Supplementary Fig. <ref type="figure" target="#fig_3">22</ref>. IPCE spectra of the control and target devices. 100-R spectrum of target device is also presented. Supplementary Fig. <ref type="figure" target="#fig_4">23</ref>. Mott-Schottky plots of the control and target devices.      The main bottlenecks limiting the photovoltaic performance and stability of inverted perovskite solar cells (PSCs) are trap-assisted non-radiative recombination losses and photochemical degradation at the interface between perovskite and charge-transport layers. We propose a strategy to manipulate the crystallization o f m et hy la mm on iu m-free perovskite by incorporating a small amount of 2-aminoindan hydrochloride into the precursor inks. This additive also modulates carrier recombination and extraction dynamics at the b ur ied i nt er face v i a t h e formation of a bottom-up two-dimensional/three-dimensional heterojunction. The resultant inverted PSC achieves a power conversion efficiency of 25.12% (certified 24.6%) at laboratory scale (0.09 cm 2 ) and 22.48% at a larger area (1 cm 2 ) with negligible hysteresis. More importantly, the resulting unencapsulated devices show superior operational stability, maintaining &gt;98% of their initial efficiency of &gt;24% after 1,500 hours of continuous maximum power point tracking under simulated AM1.5 illumination. Meanwhile, the encapsulated devices retain &gt;92% of initial performance for 1,200 hours under the damp-heat test (85 °C and 85% relative humidity).</p><p>Inverted (p-i-n) perovskite solar cells (PSCs) have recently drawn intensive attention, owing to their merits of compatibility with different bottom cells for tandem solar cells <ref type="bibr">1,</ref><ref type="bibr">2</ref> , low-temperature processability <ref type="bibr">3,</ref><ref type="bibr">4</ref> and excellent stability <ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref><ref type="bibr">[9]</ref> . Researchers have carried out numerous studies to improve the performance and stability of inverted PSCs, such as compositional engineering <ref type="bibr">10</ref> , additive engineering <ref type="bibr">11,</ref><ref type="bibr">12</ref> , processing methods <ref type="bibr">13</ref> and interface engineering <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref><ref type="bibr">[14]</ref><ref type="bibr">[15]</ref><ref type="bibr">[16]</ref> . Although the efficiency of inverted PSCs has increased substantially over the years <ref type="bibr">12</ref> , methylammonium (MA + ) and bromide (Br -) are usually employed to modulate the crystal growth and stabilize the photoactive black phase of formamidinium lead triiodide (α-FAPbI 3 ) <ref type="bibr">4,</ref><ref type="bibr">12,</ref><ref type="bibr" target="#b33">17,</ref><ref type="bibr" target="#b34">18</ref> . However, since MA + was certified to easily volatilize and escape from the perovskite crystal lattices, large amounts of MA + doping (≥10 mol%) would cause material degradation of α-FAPbI 3 at high temperatures and thus reduce thermal stability of the corresponding PSCs <ref type="bibr" target="#b35">19,</ref><ref type="bibr" target="#b36">20</ref> . In addition, mixed halide (I/Br) perovskites inevitably suffer from phase segregation, which is exacerbated under light illumination and thermal ageing <ref type="bibr" target="#b36">[20]</ref><ref type="bibr" target="#b37">[21]</ref><ref type="bibr" target="#b38">[22]</ref><ref type="bibr" target="#b39">[23]</ref><ref type="bibr" target="#b40">[24]</ref><ref type="bibr" target="#b41">[25]</ref> . In the long run, MA-and Br-free perovskite is highly desirable for the fabrication of long-term</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head><p><ref type="url" target="https://doi.org/10.1038/s41560-023-01295-8">https://doi.org/10.1038/s41560-023-01295-8</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of MA-free perovskite films</head><p>We adopted a stable MA-and Br-free perovskite composition (Cs 0.05 FA 0.95 PbI 3 ) as light absorber to maximize the performance of inverted PSCs. The perovskite film was fabricated through a one-step method. To regulate the crystallization of Cs 0.05 FA 0.95 PbI 3 films, we added a small amount of AICl into the perovskite precursor inks to form a 2D/3D heterojunction at the bottom interface. The chemical structure of AICl is shown in Supplementary Fig. <ref type="figure" target="#fig_2">1</ref>. The perovskite films and the relevant devices made with incorporation of AICl are hereafter denoted as 'target'. To form 2D perovskite at the bottom interface, we designed a large indan aromatic tail with large π-conjugation, which was attached to an ammonium A-site cation (-NH 3</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>+</head><p>). Owing to the large size of the indan aromatic skeleton, the solubility of AICl molecules in DMF/DMSO mixed solvents is very low (Supplementary Fig. <ref type="figure">2</ref>). Meanwhile, the interactions between AI + and PbI 2 are stronger than that of FA + , which leads to easier formation of 2D perovskites than 3D perovskites, as evidenced by <ref type="bibr">1</ref> H NMR spectra (Supplementary Fig. <ref type="figure" target="#fig_4">3</ref>). Considering the low solubility and stronger interaction towards PbI 2 , we infer that an AI-based 2D perovskite ((AI) 2 (FA) n-1 Pb n I 3n-1 Cl 2 ) nucleate could form in the precursor inks. To verify this, we conducted dynamic light scattering measurements to investigate the colloidal properties of the precursor inks. As depicted in Supplementary Fig. <ref type="figure">4</ref>, a large colloid with particle size over 1 µm appeared in the target precursor, which may be the prenucleation cluster caused by AI + . Therefore, we can infer that AI + can preferentially react with PbI 2 to form a 2D perovskite crystallite in the precursor solution. The precrystallized 2D crystallites will sediment at the bottom interface, act as a seed crystal and provide nucleation sites for manipulating the crystallization of 3D perovskite crystals, which contributes to improved film quality (Supplementary Note 1 and Supplementary Fig. <ref type="figure">5</ref>). Therefore, it is speculated that the 2D/3D perovskite heterojunction should be successfully constructed at the bottom interface by incorporating well-designed AICl into the precursor ink.</p><p>In comparison to the control perovskite film, the target film showed an improved morphology with larger sized grain domain (Supplementary Fig. <ref type="figure">6</ref>). As a result of the improved morphology, the carrier mobility was increased from 17 cm 2 V -1 s -1 to 28 cm 2 V -1 s -1 after modification (Supplementary Fig. <ref type="figure">7</ref>). It is worth noting that the charge-carrier mobility could be reduced slightly with increase of excitation intensity, and charge-carrier lifetime was also reduced due to the increase in bimolecular recombination losses <ref type="bibr" target="#b54">[38]</ref><ref type="bibr" target="#b55">[39]</ref><ref type="bibr" target="#b56">[40]</ref><ref type="bibr" target="#b57">[41]</ref> . The photoluminescence and UV-visible absorption spectra show that the band gap and light-harvesting properties of the target perovskite film with the addition of AICl were unchanged (Supplementary Fig. <ref type="figure">8</ref>).</p><p>Next, we investigated the vertical distribution and form of existence of AICl salts in the perovskite films. Time-of-flight secondary-ion mass spectrometry (TOF-SIMS) measurements show that the 2D spacer species (AI + and Cl -) were accumulated at the perovskite/HTL interface in the target sample (Fig. <ref type="figure" target="#fig_2">1a</ref> and Supplementary Fig. <ref type="figure">9</ref>). We performed 2D grazing-incidence wide-angle X-ray scattering (GIWAXS) to further investigate the formation of 2D perovskite at the bottom interface (Fig. <ref type="figure" target="#fig_2">1b</ref>). As expected, the 2D perovskite signal can only be detected with high incidence angle, which indicates that 2D perovskite was mainly formed at the bottom of 3D perovskite films. The target films exhibited diffraction q z peaks at ~0.3 to ~0.4 A -1 , indicating the formation of 2D perovskite crystals. We also investigated the photoluminescence (PL) spectra of the target films by measuring from the front and back direction. As shown in Fig. <ref type="figure" target="#fig_2">1c</ref>, the emission peaks at ~640 nm of 2D perovskites can only be detected from the back side, which demonstrates that the 2D perovskites were only formed at the bottom interface in the target films. These emission peaks were redshifted with respect to the dominant emission peak at ~492 nm of n = 1 2D perovskite ((AI) 2 PbI 2 Cl 2 ) (Supplementary Fig. <ref type="figure" target="#fig_2">10</ref>). From these data we inferred that 2D perovskites (n ≥ 2) were formed at the 3D perovskite GBs at the buried interface, which was further supported by the theoretical calculations (Supplementary Fig. <ref type="figure" target="#fig_2">11</ref> and Supplementary Note 2). operationally stable perovskite solar cells <ref type="bibr" target="#b42">26</ref> . To overcome the above problems, caesium (Cs + ) cations have been widely adopted to prepare more stable mixed cation perovskites Cs x FA 1-x PbI 3 (refs. 27,28). While the doping of a small amount (≤5 mol%) of Cs + has been demonstrated to be an effective strategy for stabilizing the α-FAPbI 3 (refs. 4,29,30), without the incorporation of MA + and Br -, it is still challenging to manipulate the crystallization dynamics of Cs x FA 1-x PbI 3 on a planar substrate, such as the hydrophobic poly(bis(4-phenyl)(2,4,6-trimethylphenyl)amine) (PTAA) films. Therefore, a facile modulation approach for preparing MA + -and Br --free perovskite film should be urgently developed to further enhance the performance of inverted PSCs.</p><p>Interfacial non-radiative recombination poses a serious challenge for the further advancement of the photovoltaic performance of inverted PSCs <ref type="bibr" target="#b47">31</ref> . Recently, great efforts have been made to manipulate the perovskite/electron transport layer (ETL) interface <ref type="bibr">4,</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref> . For example, Zhu and coworkers employed an organometallic compound (FcTc 2 ) to modify the perovskite/C60 interface and achieved an attractive performance due to effective defect passivation and ameliorated interfacial electron transfer <ref type="bibr">8</ref> . In contrast to the perovskite/ETL top interface, the buried perovskite/hole transport layer (HTL) interface receives less attention. Considering most interfacial modulation molecules are easy to dissolve in polar solvents, that is, N,N-dimethylformamide (DMF) and dimethyl sulfoxide (DMSO), while spin-coating perovskite precursor solution, it is much more difficult to modulate the HTL/ perovskite buried interface compared with the top interface. The HTL/ perovskite buried interface contains a high density of deep-level trap states, which is much larger than that within the perovskite film <ref type="bibr" target="#b48">32</ref> . The NiO x /perovskite interface also suffers from poor photostability because of interfacial reactions <ref type="bibr" target="#b49">33,</ref><ref type="bibr" target="#b50">34</ref> . In addition, the energy barrier at the buried interface leads to imperfect interfacial hole extraction and thus low photovoltaic performance <ref type="bibr" target="#b51">35,</ref><ref type="bibr" target="#b52">36</ref> . Consequently, it is urgently needed to minimize non-radiative recombination losses at the HTL/perovskite buried interface and enhance interfacial stability in inverted PSCs by facile interface engineering. Interestingly, Wakamiya and coworkers <ref type="bibr" target="#b53">37</ref> modified the HTL/perovskite buried interface by directly incorporating glycine hydrochloride into the perovskite precursor ink. They revealed that the head group (-NH 3 + ) of GlyH + can bind to the surface of perovskite crystallites, which prefer to sediment at the bottom interface. Finally, the -NH 3 + head was towards the perovskite layer, while the tail group (-COOH) was anchored to HTL, forming an interfacial dipole and thus electric field, which accelerated hole extraction and transfer. This indicates that appropriate ammonium salts would self-assemble at the buried interface when it is introduced into the precursor solution. Since two-dimensional (2D) perovskites have been widely employed to modify grain boundaries (GBs) and the surface of three-dimensional (3D) perovskites <ref type="bibr">6,</ref><ref type="bibr">7</ref> , constructing a bottom-up 2D/3D perovskite heterojunction is highly desirable through incorporating tailored organic ammonium salts into the precursor ink.</p><p>Herein we manipulated the crystallization of MA-free perovskite film (for example, Cs 0.05 FA 0.95 PbI 3 ) and minimized the interfacial non-radiative recombination losses simultaneously by incorporating a small amount of 2-aminoindan hydrochloride (AICl) into the perovskite precursor inks. This strategy enabled high-quality MA-free perovskite films with improved crystallization, fewer trap states and enhanced interfacial hole extraction and transport, which stabilized this important interface and minimized non-radiative recombination losses. The resultant inverted device delivered a PCE of 25.12% (certified 24.6%) at laboratory scale (0.09 cm 2 ) and 22.48% at larger device area (1 cm 2 ) with negligible hysteresis. Moreover, the resulting unencapsulated device demonstrated excellent operational stability by maintaining &gt;98% of its initial efficiency after 1,500 hours of continuous maximum power point (MPP) tracking under simulated AM1.5 illumination. The outstanding damp-heat stability was confirmed for an encapsulated device, which retained &gt;92% of the initial PCE value after 1,200 hours ageing at 85 °C and 85% relative humidity (RH). The cross-section of the target device was characterized by highresolution transmission electron microscopy (HRTEM) and energy dispersive X-ray spectroscopy (EDS; Supplementary Fig. <ref type="figure" target="#fig_2">12</ref>). Cryogenic focused ion beam (cryo-FIB) was used to prepare the TEM specimen without damaging the inherent structures of the perovskite layer <ref type="bibr" target="#b58">42</ref> . As shown in Fig. <ref type="figure" target="#fig_2">1d</ref> and Supplementary Fig. <ref type="figure" target="#fig_4">13</ref>, a thin layer of 2D perovskites ((AI) 2 (FA) n-1 Pb n I 3n-1 Cl 2 ) could be clearly discerned at the GBs of the 3D perovskite layer at the buried interface, which is consistent with the TOF-SIMS, PL and GIWAXS results. Meanwhile, the formation of this unique 2D/3D heterojunction is independent of the types of substrate (Supplementary Fig. <ref type="figure" target="#fig_2">14</ref>). In a word, the addition of a small amount of AICl into the perovskite precursor solution resulted in spontaneous formation of a bottom-up 2D/3D perovskite heterojunction at the buried interface, as illustrated in Fig. <ref type="figure" target="#fig_2">1e</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Investigation of interfacial carrier dynamics</head><p>We next investigated the effect of the bottom-up 2D/3D heterojunction at the buried interface on the charge-carrier transport and recombination in the perovskite layer. The time-resolved photoluminescence (TRPL) spectra of the control and target perovskite films deposited on the glass substrates are shown in Fig. <ref type="figure">2a</ref>. According to previous reports, the rapid decay of the first stage is determined by the initial hole transfer and carrier capture, and the decay of the second stage is only related to non-radiative recombination <ref type="bibr" target="#b59">43,</ref><ref type="bibr" target="#b60">44</ref> . To simulate the TRPL data, we used the kinetic model described in our previous study <ref type="bibr">5</ref> . From the simulations, we find that the carrier lifetime of perovskite films was increased from 762 ns (k 1 = 6.6 × 10 5 s -1 ) to 1,119 ns (k 1 = 4.5 × 10 5 s -1 ) after addition of AICl, indicating reduced defect density in the modified perovskite films. Additionally, the space charge-limited current measurements (Supplementary Fig. <ref type="figure" target="#fig_2">15</ref>) further confirmed the decreased defect density through the addition of the AI + 2D spacer. The reduced defect density should be responsible for increased carrier lifetimes and carrier mobility, which resulted in inhibited trap-assisted non-radiative recombination.</p><p>We then deposited perovskite films on NiO x /glass substrate and used the quenched τ 1 lifetimes to compare charge extraction (Fig. <ref type="figure">2b</ref>). The quenched τ 1 lifetime of the control film was 64.5 ns. After constructing the bottom-up 2D/3D heterojunction at the buried interface, the quenched τ 1 lifetime of the target film was reduced to 29.4 ns, implying considerably improved charge extraction. Fits to the TRPL transients were used to compute the differential lifetime using the model of Krogmeier et al. <ref type="bibr" target="#b61">45</ref> (Supplementary Fig. <ref type="figure" target="#fig_2">16</ref>). The charge-transfer process at early times (~100 ns) led to a faster rise of differential lifetime in the target film than the control film. The occurrence of non-radiative first-order recombination is marked by a transition from an increasing carrier lifetime to a flat period, implying a fundamental end of charge transfer. To quantify how the TRPL lifetime is related to surface carrier extraction, we further investigated these films using transient reflection spectroscopy (TRS), from which carrier diffusivity (D) and surface extraction velocity (SEV) could be extracted <ref type="bibr" target="#b62">[46]</ref><ref type="bibr" target="#b63">[47]</ref><ref type="bibr" target="#b64">[48]</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photovoltaic performance and long-term stability</head><p>Next, we fabricated inverted PSCs with a structure of ITO/NiO x /PTAA/ Al 2 O 3 /Cs 0.05 FA 0.95 PbI 3 /PCBM/BCP/Ag. The optimal concentration of AICl was determined by comparing the device photovoltaic performance (Supplementary Fig. <ref type="figure" target="#fig_2">18</ref>). The relevant devices made from the addition of 1.5 mg ml -1 AICl are hereafter denoted as 'target'. The average PCE value was increased from 21.94 ± 0.70% for the control device to   Ref. <ref type="bibr" target="#b71">55</ref> Ref. <ref type="bibr">4</ref> Ref. <ref type="bibr">8</ref> Ref. <ref type="bibr">12</ref> Ref. <ref type="bibr">7</ref> Ref. <ref type="bibr">4</ref> Ref. <ref type="bibr">16</ref> Ref. <ref type="bibr">15</ref> Ref. <ref type="bibr">14</ref> Ref. <ref type="bibr">6</ref>    <ref type="figure" target="#fig_2">19</ref> and Supplementary Table <ref type="table" target="#tab_1">2</ref>). We attained a PCE of 25.12% for the best-performing target device (J sc of 26.22 mA cm -2 , V oc of 1.165 V and FF of 82.2%), along with negligible hysteresis and a stabilized PCE of 25.05% (Fig. <ref type="figure" target="#fig_4">3b</ref> and Supplementary Fig. <ref type="figure">20</ref>). One of the best-performing devices was validated by an independent solar cell accredited laboratory (National Photovoltaic Product Quality Inspection and Testing Center, China) for certification, where a PCE of 24.60% (with J sc = 25.69 mA cm -2 , V oc = 1.173 V and FF = 81.63%) was confirmed (Supplementary Fig. <ref type="figure" target="#fig_2">21</ref>), which is higher than the values reported for all inverted PSCs based on MA-free perovskite reported to date (Fig. <ref type="figure" target="#fig_4">3c</ref> and Supplementary Table <ref type="table" target="#tab_2">3</ref>). Corresponding external quantum efficiency spectra (Supplementary Fig. <ref type="figure" target="#fig_3">22</ref>) yielded an integrated J sc of 24.88 mA cm -2 for the target device and 23.92 mA cm -2 for the control device, which was just slightly lower than the values obtained from J-V measurements. The addition of AICl thus showed a marked improvement in PCE, which is associated with an enhanced V oc and FF, as well as J sc . The Mott-Schottky plots demonstrated a higher flat-band potential for the target device compared with the control device (Supplementary Fig. <ref type="figure" target="#fig_4">23</ref>), which is directly related to an increase in V oc . Moreover, we found that the target device has a smaller ideality factor (n id ) than the control device (Supplementary Fig. <ref type="figure">24</ref>), indicating the improved interfacial charge transfer/transport and suppressed non-radiative recombination channels, which accounts for the enhanced V oc and FF. The increase in J sc is ascribed to improved interfacial energy band alignment and thus charge extraction due to the formation of stepped band alignment induced by the bottom-up 2D/3D heterojunction at the perovskite/HTL interface <ref type="bibr" target="#b65">49</ref> . The addition of AICl also contributed to the improved uniformity of the large-area perovskite films with less density of defects. As a result, in comparison to the control devices, the large-area target device with aperture area of 1.0 cm 2 showed better performance (Fig. <ref type="figure" target="#fig_4">3d</ref> and Supplementary Fig. <ref type="figure">25</ref>). A champion PCE of 22.48% was obtained for the large-area target device, which is also the highest value among all large-area inverted PSCs reported so far (Supplementary Table <ref type="table" target="#tab_3">4</ref>). Furthermore, AICl additive is universal for various perovskite compositions, as demonstrated by the systematic absolute PCE enhancement of 1.2 to 2.6% for device performance (Supplementary Figs. 26 and 27 and Supplementary Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PCE (%)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Perovskite</head><p>As a comparison, we also predeposited different amounts of AICl salts on the indium tin oxide (ITO)/HTL substrates before 3D perovskite formation (Supplementary Fig. <ref type="figure">28</ref>), which is expected to form bottom-up 2D/3D heterojunctions according to previous reports <ref type="bibr">16,</ref><ref type="bibr" target="#b43">27</ref> . As shown in Supplementary Fig. <ref type="figure">29a</ref>, it is clear that a 2D perovskite layer was formed at the bottom of the 3D perovskite film. However, the fabricated inverted PSCs with the bottom-up 2D/3D perovskite films show poor photovoltaic performance compared to the control device (Supplementary Fig. <ref type="figure">29b</ref>). These results further prove the advantages of our strategy of incorporating the 2D perovskite spacer into precursor inks.</p><p>Finally, we evaluated the stability of the high-efficiency inverted PSCs under accelerated ageing conditions according to the International Summit on Organic Photovoltaic Stability (ISOS) protocols <ref type="bibr" target="#b66">50</ref> . The long-term operational stability of the unencapsulated control and target PSCs was evaluated by MPP tracking under constant simulated AM1.5 illumination (100 mW cm -2 ). Both the target devices maintained over 98% of their initial PCE of &gt;24% after 1,500 hours of continuous tests at 55 ± 5 °C, whereas the control device degraded to 78% of its initial PCE of 21.73% (Fig. <ref type="figure" target="#fig_4">3e</ref>). Additionally, we conducted damp-heat measurements for the encapsulated devices at 85 °C in the 85% relative humidity-controlled chamber. As shown in Fig. <ref type="figure" target="#fig_4">3f</ref>, the target device exhibited a T 90 (the time over which the device efficiency reduces to 90%) of &gt;1,000 hours under the heating stress and thus successfully passed the main point of ISOS qualification for thermally accelerated ageing conditions (ISOS-T-1).</p><p>The enhanced thermal and operational stability can be attributed to a lower concentration of defects and the suppressed ion migration at the HTL/perovskite interface caused by the construction of the bottom-up 2D/3D perovskite heterojunction <ref type="bibr">6,</ref><ref type="bibr">7</ref> . Taken together, these data indicate that inverted PSCs with tailored bottom-up 2D/3D heterojunction at the buried interface exhibited excellent efficiency and stability, and this work takes an important step towards the realization of commercial perovskite-based single-and multiple-junction solar cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials</head><p>All chemicals and solvents were used as received without further purification. The nickel nitrate hexahydrate (Ni(NO 3 ) 2 •6H 2 O, 99.999%), sodium hydroxide (NaOH, 99.9%), DMF (99.8%), DMSO (99.8%), chlorobenzene (CB, 99.8%), isopropanol (IPA, 99.5%) and Al 2 O 3 dispersed solution (20 wt% in IPA) were all purchased from Sigma-Aldrich. Methylammonium bromide (MABr, 99.9%), methylammonium iodide (MAI, 99.9%), formamidium iodide (FAI, 99.9%), caesium iodide (CsI, 99.999%), lead(II) iodide (PbI 2 ultra-dry, 99.999% purity) and lead(II) bromide (PbBr 2 , 99.99%) were purchased from Advanced Election Technology. PTAA (molecular weight distribution: 6,000-15,000) and bathocuproine (BCP) were purchased from Xi'an Polymer Light Technology. 2-Aminoindane hydrochloride (AICl, 98%) was bought from Macklin. NiO x nanoparticles (NPs) were synthesized according to previous work <ref type="bibr" target="#b67">51</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Device fabrication</head><p>ITO-coated glass substrates were etched by laser. The etched ITO glass was ultrasonically cleaned for 15 min using detergent, deionized water (twice) and ethanol (twice), sequentially. ITO-coated glass substrates were treated by ultraviolet ozone (UVO) for 30 min. Then, the 25 mg ml -1 NiO x NP aqueous ink was prepared by dispersing as-prepared NiO x NPs into deionized water and then spin-coating onto ITO glass at 5,000 r.p.m. for 30 s. The NiO x films were annealed at 150 °C for 10 min under ambient conditions. Then, the obtained NiO x films were immediately transferred into a nitrogen-filled glovebox. PTAA solution (1 mg ml -1 ) in CB was spin-coated onto NiO x films at 6,000 r.p.m. for 30 s. After that, Al 2 O 3 dispersion solution (0.4 wt% in IPA) was spin-coated onto PTAA films at 5,000 r.p.m. for 30 s. Perovskite films with different compositions were deposited by the spin-coating method (details presented below). Subsequently, the 23 mg ml -1 of PC 61 BM solution in CB was spin-coated onto the perovskite films at 2,500 r.p.m. for 40 s. Then, 5 mg BCP was added into 1 mL IPA and shaken for 5 min to prepare a supersaturated solution, which was filtered using a PTFE filter before use. Afterwards, the obtained saturated solution was spin-coated on PC 61 BM film at 5,000 r.p.m. for 30 s. Finally, a 100 nm Ag electrode with an active area of 0.11 cm 2 and 1.10 cm 2 was deposited by thermal evaporation for small-area and large-area devices, respectively.</p><p>For FA 0.95 Cs 0.05 PbI 3 perovskite films, 1.4 M perovskite precursor solution was prepared by dissolving 228.4 mg FAI, 18.2 mg CsI and 645.4 mg PbI 2 and AICl (0, 1, 1.5, 2 and 3 mg ml -1 ) in mixed solvents of DMF and DMSO (v/v, 4/1). The perovskite precursor solution was spin-coated on glass/ITO/NiO x /PTAA/Al 2 O 3 substrate at 2,000 r.p.m. for 10 s and then at 4,000 r.p.m. for 40 s. During the second spin-coating step, 150 µl CB was dropped onto the perovskite film at 5 s before the end of the programme. The resultant wet perovskite films were annealed at 100 °C for 30 min.</p><p>For (FA 0.85 MA 0.15 ) 0.95 Cs 0.05 Pb(I 0.85 Br 0.15 ) 3 triple-cation perovskite films, 1.5 M perovskite precursor solution was prepared by mixing CsI, FAI, MABr, PbI 2 , PbBr 2 and AICl (0, 1, 1.5, 2 and 3 mg ml -1 ) in 1 ml mixed solvents of DMF:DMSO (v/v, 5/1), where excess 10 mol% of PbI 2 was added to improve the device performance. A 60 µl perovskite solution was spin-coated onto glass/ITO/NiO x /PTAA/Al 2 O 3 substrate at 5,000 r.p.m. for 30 s. A 250 µl portion of CB was slowly dripped onto the centre of the film at 7 s before the end of spin-coating.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head><p><ref type="url" target="https://doi.org/10.1038/s41560-023-01295-8">https://doi.org/10.1038/s41560-023-01295-8</ref> </p><p>The as-prepared perovskite films were subsequently annealed on a hotplate at 110 °C for 60 min.</p><p>For MAPbI 3 perovskite films, the perovskite precursor solution was prepared by mixing 1.55 M MAI and 1.63 M PbI 2 in 1 ml mixed solvents of DMF:DMSO (5/1, v/v), and stirring for 2 h before use. A 40 µl portion of perovskite solution was spin-coated onto glass/ITO/NiO x /PTAA/Al 2 O 3 substrate at 2,000 r.p.m. for 10 s and at 5,000 r.p.m. for 30 s. A 200 µl portion of CB was rapidly dripped onto the centre of the film at 5 s before the end of spin-coating. The as-prepared perovskite films were subsequently annealed on a hotplate at 100 °C for 60 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of the solar cells</head><p>The current density-voltage (J-V) characteristics of the devices were measured in ambient air (relative humidity was 40-50%) using an AM 1.5G solar simulator equipped with 450 W xenon lamp (Newport-2612A) and a Keithley 2400 SourceMeter. Light intensity was adjusted to AM 1.5G one sun (100 mW cm -2 ) with an NIM calibrated standard Si solar cell. J-V curves were measured in forward scan (from -0.1 to 1.2 V) and reverse scan (from 1.2 to -0.1 V). The active area of cells was defined to be 0.09 cm 2 or 1 cm 2 by a black metal mask. For incident photon-to-current conversion efficiency measurement, a Newport Instruments system (Newport-74125) coupled with a lock-in amplifier and a 300 W xenon lamp was employed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characterization of the device stability</head><p>The operational stability measurement of the unencapsulated devices was conducted under a continuous one-sun illumination (a light-emitting diode (LED) lamp without UV filter) at 55 ± 5 °C at MPP by using a MPP trace system (YH-VMPP-16) in a N 2 -filled glovebox for 1,500 h. According to the ISOS-T-1 standard, the stability measurement of the encapsulated devices was conducted at 85 °C and 85% RH in the constant temperature and humidity test chamber (HS-408L) for 1,200 h. The devices were encapsulated by UV adhesive (LT-U001, Lumtec) and a glass on top. As for J-V characterization, the PSCs were cooled to room temperature and measured by a Newport solar simulator (100 mW cm -2 ; 94023 A Oriel Sol3A, Class AAA) at AM 1.5G (calibrated via a standard silicon cell (Hamamatsu S1133)) and a Keithley 2420 SourceMeter (scan rate was 0.1 V s -1 ) at different time intervals. The devices used for damp-heat stability test were encapsulated. The devices were encapsulated in an N 2 atmosphere via a top glass and edge encapsulation of UV adhesive (LT-U001, Lumtec). The light spectrum of the LED lamp (Kaiyingerdun, 50 W, 5,000 K) and xenon lamp (Newport 94023A Oriel Sol3A, Class AAA) were used for MPP tracking and damp-heat stability tests, respectively (Supplementary Fig. <ref type="figure" target="#fig_4">30</ref>). The top glass on the device was fixed by a tweezer and aligned with the edge of the device. Then, about 200 µl of UV adhesive was applied at the edge gap between the glass and the device. Finally, the UV adhesive was solidified by a UV curing process (XY2008-GHX-1) for 2 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Scanning electron microscopy</head><p>Field-emission scanning electron microscopy ( JEOL JSM-7800F) was employed to characterize the cross-sectional and surface morphology of perovskite films.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>X-ray diffraction and UV-visible measurements</head><p>The X-ray diffraction patterns were acquired using a Panalytical Empyrean diffractometer equipped with CuKα radiation (λ = 1.5406 Å). The UV-visible absorption spectra of perovskite films were measured using a Shimadzu UV3600 spectrophotometer. The change of light absorption during spin-coating of perovskite film was studied using self-made in situ light absorption equipment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mott-Schottky measurements</head><p>Mott-Schottky measurements (1,000 Hz) were carried out on a Chenhua electrochemical workstation (CHI 760E) under dark conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photoluminescence measurements</head><p>The steady-state PL spectra and TRPL spectra were measured using a fluorescence spectrophotometer (FLS1000, Edinburgh Instruments) with the excitation with a 405 nm laser pulsed at a frequency of 1 MHz and 500 KHz, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cryo-focused ion beam specimen preparation and STEM-EDS measurements</head><p>The scanning transmission electron microscopy (STEM) specimen preparations were performed on an FEI Helios 5 dual-beam microscope equipped with a cryogenic system <ref type="bibr" target="#b58">42</ref> . The bulk sample was placed on the cryo-stage and gradually cooled to about -140 °C by supplying liquid N 2 . After curing the organometallic precursor to form a Pt-C protective layer, a prism-shaped specimen was cut and transferred to a TEM grid. The subsequent sectioning was by fine milling and specimen transfer processes. The high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM), EDS mapping and integrated differential phase contrast (iDPC)-STEM measurements were performed on a double Cs-corrected electron microscope (FEI Spectra 300) operated at 300 kV. The convergence semi-angle in the iDPC-STEM was 10.0 mrad. The probe current was about 1 pA. The dwell time was 5 µs per pixel, and the collection angle was 4-15 mrad. EDS analysis was performed using the high-efficient 'Super X' four-detector EDS detector.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TOF-SIMS measurements</head><p>The TOF-SIMS measurements (TOF-SIMS 5, IONTOF) were performed with the pulsed primary ions from an oxygen-ion beam (1 keV) for sputtering and a Bi + pulsed primary ion beam for analysis (25 keV).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GIWAXS measurements</head><p>The GIWAXS data were obtained from BL1W1A of the Beijing Synchrotron Radiation Facility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>UV photoelectron spectroscopy measurements</head><p>UV photoelectron spectra were measured (Thermo Fisher Escalab 250Xi spectrometer) using a monochromatized Al source. The UV photoelectron spectra were calibrated using the work function of Au.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TRS measurements</head><p>TRS measurements were performed by a pump-probe spectrometer (TA-100, Time-Tech Spectra). A Ti:sapphire amplifier (Astrella, Coherent) was used to generate 800 nm light at 1 kHz repetition rate. The fundamental pulse was split into two parts. One part was sent to an optical parametric amplifier (TOPAS, light conversion) for the generation of various pump wavelengths at 1.65 eV, 2.1 eV and 2.6 eV. The pump was chopped at a frequency of 500 Hz and attenuated by neutral density filter wheels. The other part of the fundamental pulse was focused into a sapphire crystal to generate a visible continuum (450-810 nm) that was used as the probe. The probe pulses were delayed in time with respect to the pump pulses using a motorized translation stage mounted with a retroreflecting mirror. The pump and probe were spatially overlapped on the surface of the sample. For transient reflectance measurement, the incident angle for the pump was around 0° and for the probe was around 45°. The initial carrier density was of the order of 10 16 cm -3 .</p><p>For transient reflection kinetics, the measured surface carrier kinetics can be modelled with a diffusion and surface recombination/ transfer model. The carriers are generated with the profile</p><formula xml:id="formula_0">N(x, 0) = N 0 e -αx<label>(1)</label></formula><p>where N 0 is the initial surface carrier density. If the traces are normalized, then N 0 is equal to 1. The values for the absorption coefficient at different pump-photon energies for samples are known. where N(x, t) is the carrier density as a function of depth (x) and time (t), D is the ambipolar diffusion coefficient and τ B is the bulk carrier lifetime. Generally, in perovskite material, τ B is of the order of hundreds of ns, and in the 5,000 ps probe window it can be neglected.</p><p>The boundary condition can be described as follows. For the front surface, surface recombination/transfer will dominate (S F ). For the back surface, surface recombination/transfer happens with S L . For pure perovskites, the back surface and front surface can be assumed to have the same surface recombination velocity. For samples with HTL, the front surface transfer velocity is different from the back, where the back (S L ) takes the value of pure perovskites. L is the thickness of the film.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Time-resolved microwave conductivity measurements</head><p>For time-resolved microwave conductivity measurements, the perovskite film samples were deposited on glass and excited with a fast nanosecond laser pulse (LO-TIS TII Nd:YAG Laser System LS-2145-OPO), which generated a certain amount of carriers within the sample. Subsequently, we probed the samples with a microwave and the reflected microwave intensity was monitored as a function of time following photo-excitation with a microwave analyser (N9915A FieldFox, Keysight). To enhance the sensitivity, we introduced a high-Q microwave cavity, which has a resonance frequency of ~4.3 GHz. The source power of the microwave was set at 1 mW, and the excitation laser wavelength was 530 nm with a pulse length of ~5 ns, repetition rate of 10 Hz and excitation fluence of ~0.3-30 µJ cm -2 , corresponding to a carrier density of 7.5 × 10 15 -7.5 × 10 17 cm -3 .</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2 )Fig. 30 .</head><label>230</label><figDesc>SupplementaryThe light spectra of the LED lamp and Xenon lamp used for MPP tracking and damp-heat stability tests, respectively.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Article https://doi.org/10.1038/s41560-023-01295-8</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Structural characterizations of the bottom-up 2D/3D heterojunction at the buried interface. a, TOF-SIMS profile of ITO/NiO x /PTAA/Al 2 O 3 /perovskite with bottom-up 2D/3D perovskite heterojunction at buried interface (2D spacer species: CN -and Cl -, ammonium salt: CN -). The 2D perovskites are located in the region between the vertical orange dashed lines. b, 2D GIWAXS mappings of the control and target perovskite films with different incidence angles. c, PL spectra of the target perovskite film obtained from different incident directions.</figDesc><graphic coords="32,44.55,305.00,503.28,137.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 2 | 2 -</head><label>22</label><figDesc>Fig. 2 | Charge-carrier dynamics. a,b, TRPL spectra of the control and target perovskite films deposited on a bare glass substrate (a) and glass/NiO x / PTAA/Al 2 O 3 substrate (b). TRPL measurements were conducted with excitation from the glass side and with an emission wavelength of 810 nm. The solid line shows the fitting curves. To simulate the TRPL data, we used a model based on the continuity equation for the carrier concentration n(z, t): ∂n ∂t = D ∂ 2 n ∂z 2k 1 nk 2 n 2k 3 n 3 , where D is the carrier diffusion coefficient,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Device performance and stability. a, PCE histogram of 20 PSCs with (target) and without (control) bottom-up 2D/3D heterojunction at buried interface. The solid line is a Gauss peak fit of the distribution. b, J-V curves obtained in forward and reverse scans of the champion target PSCs. The insets show the relevant photovoltaic parameters. c, Comparison of the photovoltaic performance of the inverted PSC in this work with literature that reported PCEs over 23%(refs. 4,6-8,11,12,14-16,55). More details are shown in Supplementary Table4. d, J-V curve of the best-performing target device with an area of 1 cm 2 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="2,121.35,337.00,352.53,177.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,60.45,61.20,474.40,206.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,157.40,399.85,280.05,225.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="4,59.15,335.50,476.66,216.61" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="6,60.65,61.18,473.50,189.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,56.70,57.45,481.80,196.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,64.20,406.20,466.90,206.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="8,61.13,61.63,473.04,260.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="9,70.90,220.20,453.50,290.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,85.08,335.60,425.08,180.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="12,127.80,335.70,339.70,269.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,68.15,60.40,458.95,370.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,56.72,536.70,481.81,143.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="14,147.65,60.85,299.95,225.67" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,172.31,65.65,252.83,197.99" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,170.00,386.60,255.30,222.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="22,98.90,63.45,396.79,238.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="22,56.70,472.70,481.90,200.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="23,59.15,58.95,476.50,211.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 |</head><label>1</label><figDesc>Summary of the fitting parameters for TR measurements.</figDesc><table><row><cell>Supplementary Sample</cell><cell>D (cm 2 /s)</cell><cell>SEV (cm/s)</cell></row><row><cell>Control</cell><cell>1.88 ± 0.10</cell><cell>3600 ± 500</cell></row><row><cell>Target</cell><cell>1.94 ± 0.11</cell><cell>4100 ± 400</cell></row><row><cell>Supplementary</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 |</head><label>2</label><figDesc>Summary of Photovoltaic parameters of the control and target devices.</figDesc><table><row><cell>Perovskite composition</cell><cell>Device</cell><cell>Voc (V)</cell><cell>Jsc (mA/cm 2 )</cell><cell>FF (%)</cell><cell>PCE (%)</cell><cell>ΔPCEavg. a (%)</cell></row><row><cell></cell><cell>Control</cell><cell cols="4">1.12 ± 0.01 25.36±0.40 77.73±1.88 21.94±0.70</cell><cell>2.64</cell></row><row><cell>Cs0.05FA0.95PbI3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Target</cell><cell>1.16±0.01</cell><cell cols="3">26.23±0.20 81.06±0.89 24.58±0.35</cell><cell></cell></row><row><cell>(FA0.85MA0.15)0.95Cs0.05Pb(I0.8</cell><cell>Control</cell><cell cols="4">1.12±0.02 22.69±0.55 77.53±1.91 19.76±0.39</cell><cell>2.15</cell></row><row><cell>5Br0.15)3</cell><cell>Target</cell><cell>1.15±0.01</cell><cell cols="3">23.41±0.25 81.62±1.28 21.91±0.31</cell><cell></cell></row><row><cell></cell><cell>Control</cell><cell>1.11±0.01</cell><cell cols="3">20.81±0.22 78.67±1.52 18.14±0.46</cell><cell>1.19</cell></row><row><cell>MAPbI3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Target</cell><cell>1.12±0.01</cell><cell cols="3">21.47±0.27 80.14±1.18 19.33±0.34</cell><cell></cell></row><row><cell>Note:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>a ΔPCE = PCEtarget -PCEcontrol Supplementary</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 |</head><label>3</label><figDesc>Comparison of the photovoltaic performance of the inverted PSC in this work with literatures which reported PCEs over 23%.</figDesc><table><row><cell>Device structure</cell></row></table><note><p><p>a PCE extracted from the J-V curve obtained by reverse scan. b Active area of the device is on or below 0.1 cm 2 .</p>Supplementary</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 |</head><label>4</label><figDesc>Comparison of the photovoltaic performance of large-area (1 cm 2 ) inverted PSC in this work with previous reports.</figDesc><table><row><cell>Device structure</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>22.48 This work Supplementary references nature energy</head><label></label><figDesc></figDesc><table><row><cell>Article</cell><cell>https://doi.org/10.1038/s41560-023-01295-8</cell></row><row><cell>2D/3D</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>heterojunction engineering at the buried interface towards high-performance inverted methylammonium-free perovskite solar cells Haiyun Li</head><label></label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>1,9 , Cong Zhang</head><label></label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>1,9 , Cheng Gong</head><label></label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>1,9 , Daliang Zhang</head><label></label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>2,9 , Hong Zhang 3 , Qixin Zhuang 1 , Xuemeng Yu 4 , Shaokuan Gong 4 , Xihan Chen 4 , Jiabao Yang 5 , Xuanhua Li 5 , Ru Li 1 , Jingwei Li 2 , Jinfei Zhou 2 , Hua Yang 6 , Qianqian Lin 7 , Junhao Chu 3 , Michael Grätzel 8 , Jiangzhao Chen 1 &amp; Zhigang Zang 1</head><label></label><figDesc></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head></head><label></label><figDesc>35% for the target device with AICl additive (Fig.3a), mainly due to the increases in open-circuit voltage (V oc ) from 1.122 ± 0.011 to 1.156 ± 0.010 V, short-circuit current density (J sc ) from 25.36 ± 0.40 to 26.23 ± 0.20 mA cm -2 and fill factor (FF) from 77.73 ± 1.88% to 81.06 ± 0.89% (Supplementary Fig.</figDesc><table><row><cell>Article</cell><cell>https://doi.org/10.1038/s41560-023-01295-8</cell></row><row><cell>24.58 ± 0.</cell><cell></cell></row></table><note><p><p><p><p><p><p>c, Comparison of the photovoltaic performance of the inverted PSC in this work with literature that reported PCEs over 23%</p>(refs. 4,6-8,11,12,14-16,55)</p>. More details are shown in Supplementary Table</p>4</p>. d, J-V curve of the best-performing target device with an area of 1 cm 2 .</p>The insets show the relevant photovoltaic parameters. e, PCE of the unencapsulated control and target devices measured at maximum power point under continuous one-sun illumination at 55 ± 5 °C in N 2 atmosphere. The initial PCE of control, target-1 and target-2 devices is 21.73%, 24.42% and 24.11%, respectively. f, Damp-heat stability of the encapsulated control and target devices following the ISOS standards (85 °C and 85% RH). The initial PCE of control and target devices is 22.15 ± 0.13% and 24.32 ± 0.20%. The error bar is the standard deviation of three devices. Data are presented as mean values ± s.e.m.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head></head><label></label><figDesc>The carrier movement obeys the diffusion and surface recombination/transfer equation:</figDesc><table><row><cell>Article</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>https://doi.org/10.1038/s41560-023-01295-8</cell></row><row><cell>∂N(x, t) ∂t</cell><cell cols="3">= D</cell><cell cols="3">∂ 2 N(x, t) ∂x 2</cell><cell>-</cell><cell>N (x, t) τ B</cell><cell>(2)</cell></row><row><cell cols="3">∂N(x, t) ∂t</cell><cell cols="2">| x=0 =</cell><cell cols="2">S F D</cell><cell>N (0, t)</cell><cell>(3)</cell></row><row><cell cols="2">∂N(x, t) ∂t</cell><cell cols="4">| x=L = -</cell><cell>S L D</cell><cell>N (L, t)</cell><cell>(4)</cell></row></table></figure>
 		</body>
 		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements Z.Z. acknowledges funding from the <rs type="funder">Defense Industrial Technology Development Program</rs> (<rs type="grantNumber">JCKY2017110C0654</rs>), <rs type="funder">Fundamental Research Fund for the Central Universities</rs> (<rs type="grantNumber">2022CDJQY-010</rs>) and <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">11974063</rs> and <rs type="grantNumber">61904023</rs>). <rs type="person">J. Chen</rs> acknowledges funding from <rs type="funder">Support Plan for Overseas Students to Return to China for Entrepreneurship and Innovation</rs> (grant no. <rs type="grantNumber">cx2020003</rs>), the <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (grant no. <rs type="grantNumber">2020CDJ-LHZZ-074</rs>) and <rs type="funder">Natural Science Foundation of Chongqing</rs> (grant no. <rs type="grantNumber">cstc2020jcyj-msxmX0629</rs>). H.Z. acknowledges the funding from <rs type="funder">Shanghai Pujiang Program</rs> (<rs type="grantNumber">22PJ1401200</rs>). M.G. acknowledges funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020</rs> research and innovation programme <rs type="grantName">GRAPHENE Flagship Core 3</rs> grant agreement no. <rs type="grantNumber">881603</rs>. X.L. acknowledges the <rs type="funder">Research Fund of the State Key Laboratory of Solidification Processing (NPU)</rs> (grant no. <rs type="grantNumber">2021-QZ-02</rs>) and the <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (<rs type="grantNumber">3102019JC005</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ZhXAZff">
+					<idno type="grant-number">JCKY2017110C0654</idno>
+				</org>
+				<org type="funding" xml:id="_avwnkDB">
+					<idno type="grant-number">2022CDJQY-010</idno>
+				</org>
+				<org type="funding" xml:id="_mtk5aK9">
+					<idno type="grant-number">11974063</idno>
+				</org>
+				<org type="funding" xml:id="_drcJPCQ">
+					<idno type="grant-number">61904023</idno>
+				</org>
+				<org type="funding" xml:id="_bsxTgCu">
+					<idno type="grant-number">cx2020003</idno>
+				</org>
+				<org type="funding" xml:id="_GTKaqdg">
+					<idno type="grant-number">2020CDJ-LHZZ-074</idno>
+				</org>
+				<org type="funding" xml:id="_JA9m55e">
+					<idno type="grant-number">cstc2020jcyj-msxmX0629</idno>
+				</org>
+				<org type="funding" xml:id="_FE9DuaZ">
+					<idno type="grant-number">22PJ1401200</idno>
+				</org>
+				<org type="funding" xml:id="_s2KGRBs">
+					<idno type="grant-number">881603</idno>
+					<orgName type="grant-name">GRAPHENE Flagship Core 3</orgName>
+					<orgName type="program" subtype="full">Horizon 2020</orgName>
+				</org>
+				<org type="funding" xml:id="_9ZzxE5g">
+					<idno type="grant-number">2021-QZ-02</idno>
+				</org>
+				<org type="funding" xml:id="_UkuYUyG">
+					<idno type="grant-number">3102019JC005</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>All data generated or analysed during this study are included in the published article and its Supplementary Information and Source Data files. The data that support the plots within this paper and other findings of this study are available from the corresponding authors upon reasonable request. Source data are provided with this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Article</head><p><ref type="url" target="https://doi.org/10.1038/s41560-023-01295-8">https://doi.org/10.1038/s41560-023-01295-8</ref> </p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In order to understand the influence of 2D perovskite crystallites on crystallization of 3D perovskites, we performed an in situ analysis of the film formation during the spin-coating process using ultraviolet visible (UV-vis) absorption spectra. The spectra in Supplementary Figure <ref type="figure">5</ref> exhibit the change in absorption intensity from a solution state (&lt;50 s) to an intermediate state (90 s) throughout the spin-coating process. In the solution state, there is negligible nucleation. After the antisolvent is dripped into the perovskite solution (~50 s), the absorption intensity begins to increase, which indicates the formation of perovskite crystallites. From the in-situ absorption results, it is clear that the target sample shows slower crystallization than the control samples, which contributes to the enlarged grain size (Supplementary Figure <ref type="figure">7</ref>). Supplementary Fig. <ref type="figure">5</ref>   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Computational methods</head><p>We used the open source code cp2k <ref type="bibr" target="#b68">52</ref> to perform the density functional theory-based geometry optimization, Multiwfn was used to assist with the input file generation <ref type="bibr" target="#b69">53</ref> and the PBE-D3 functional was used with double-zeta basis sets (DZVP-MOLOPT) and Goedecker-Teter-Hutter pseudopotentials <ref type="bibr" target="#b70">54</ref> with an energy cutoff of 400 Ry. Local minimum-energy geometry was obtained until the total force was less than 4.5 × 10 -4 Ry. As a large enough simulation box was used, a single gamma point was chosen for all the calculations.</p><p>The formation of the 2D perovskite was divided into three stages, namely: (1) formation of (FA) n-1 Pb n I 3n-1 perovskite flakes by dissolved PbI 2 and FAI at the surface; (2) formation of ligand-assisted 2D perovskite L 2 (FA) n-1 Pb n I 3n-1 (it should be noted that the ligand we used here was C 9 H 11 N•HCl; however, it is widely accepted that the Cl atom will not be incorporated into the crystal lattice but helps the perovskite crystallization in the intermediate compound, thus the C 9 H 11 N•HI iodine salt was used for calculation instead); (3) bulk 2D perovskite formation by way of stacking in the z direction via the van der Waals interactions. The formation energy of the three stages is illustrated in Supplementary Fig. <ref type="figure">8a</ref> and is defined as:</p><p>The formation energy of each stage was calculated to investigate the 2D perovskite formation, and given that stage 3 should be the same for different numbers of layer n, we ignored it. Supplementary Fig. <ref type="figure">8b</ref> shows the formation energy for different numbers of layer n, and it was found that the formation energy of n = 2, 3, 4 and 5 was negative and decreases monotonically, which indicates that the energy is favourable to form the FA n-1 Pb n I 3n-1 perovskite flakes. In contrast, the formation energy of n = 1 is positive, which means that it is difficult to form due to the non-favourable positive energy value. Therefore, in our case, the low-dimensional perovskites are easier to form for n ≥ 2 compared to n = 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>H.L., J. Chen and Z.Z. conceived the project. H.L., C.Z., C.G. and Q.Z. prepared the samples and devices, and performed all other measurement except for TEM, TRS, GIWAXS and time-resolved microwave conductivity measurements. D.Z., J.L. and J.Z. performed TEM measurements. X.Y., S.G. and X.C. conducted TRS measurements. H.Y. carried out GIWAXS measurements. Q.L. performed time-resolved microwave conductivity measurements. H.Z. and J. Chen wrote the first draft of the manuscript. H.L. and R.L. certified the efficiency of the PSCs. J.Y. and X.L. conducted the long-term operational stability measurements. M.G. was involved in the data analysis and wrote the final version of the manuscript. H.Z., X.L., M.G., J. Chen and Z.Z. supervised this project. All authors analysed the data and contributed to the discussions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41560-023-01295-8">https://doi.org/10.1038/s41560-023-01295-8</ref>.</p><p>Correspondence and requests for materials should be addressed to Hong Zhang, Xuanhua Li, Michael Grätzel, Jiangzhao Chen or Zhigang Zang.</p><p>Peer review information Nature Energy thanks Eline Hutter, Atsushi Wakamiya, Christian Wolff and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.</p><p>Reprints and permissions information is available at www.nature.com/reprints. Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</p></div>			</div>
 			<div type="references">
 
 				<listBibl>
 
 <biblStruct xml:id="b0">
-	<monogr>
-		<title level="m" type="main">Principles of Polymer Chemistry</title>
+	<analytic>
+		<title level="a" type="main">Regulating surface termination for efficient inverted perovskite solar cells with greater than 23% efficiency</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Flory</surname></persName>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
 		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<date type="published" when="1953">1953</date>
-			<publisher>Cornell Univ. Press</publisher>
-			<biblScope unit="page">672</biblScope>
-			<pubPlace>New York</pubPlace>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="20134" to="20142" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b1">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Managing grains and interfaces via ligand anchoring enables 22.3%-efficiency inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">E</forename><surname>Matijevic</surname></persName>
+			<persName><forename type="first">X</forename><surname>Zheng</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Ace. Chern. Res</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">14</biblScope>
-			<biblScope unit="page" from="22" to="29" />
-			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="131" to="140" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b2">
-	<monogr>
-		<title level="m" type="main">Principles of Colloid and Surface Chemistry</title>
+	<analytic>
+		<title level="a" type="main">Toward broad spectral response inverted perovskite solar cells: insulating quantum-cutting perovskite nanophosphors and multifunctional ternary organic bulk-heterojunction</title>
 		<author>
-			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hiemenz</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
 		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<date type="published" when="1977">1977</date>
-			<publisher>Marcel Dekker</publisher>
-			<biblScope unit="volume">516</biblScope>
-			<pubPlace>New York</pubPlace>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">2200005</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">23.7% Efficient inverted perovskite solar cells by dual interfacial modification</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Degani</surname></persName>
+		</author>
+	</analytic>
 	<monogr>
-		<title level="m" type="main">Colloid Chemistry: Oxford: Pergamon</title>
-		<author>
-			<persName><forename type="first">B</forename><surname>Jirgensons</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Straumanis</surname></persName>
-		</author>
+		<title level="j">Science Advances</title>
 		<imprint>
-			<date type="published" when="1962">1962</date>
-			<biblScope unit="page">498</biblScope>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">7930</biblScope>
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b4">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Quantum-size-tuned heterostructures enable efficient and stable inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">G</forename><surname>Lagaly</surname></persName>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Adv. Colloid Interface Sci</title>
+		<title level="j">Nat. Photonics</title>
 		<imprint>
-			<biblScope unit="volume">11</biblScope>
-			<biblScope unit="page" from="105" to="148" />
-			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="352" to="358" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b5">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Stabilizing perovskite-substrate interfaces for high-performance perovskite modules</title>
 		<author>
-			<persName><forename type="first">E</forename><surname>Matijevic</surname></persName>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Prog. Colloid Polym. Sci</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">61</biblScope>
-			<biblScope unit="page" from="24" to="35" />
-			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="902" to="907" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b6">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Damp heat-stable perovskite solar cells with tailored-dimensionality 2D/3D heterojunctions</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Laible</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Hamann</surname></persName>
+			<persName><forename type="first">R</forename><surname>Azmi</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Adv. Colloid Interface Sci</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="65" to="99" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="73" to="77" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b7">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Constructing heterojunctions by surface sulfidation for efficient inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Popell</surname></persName>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">US Patent</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="page">572</biblScope>
-			<date type="published" when="1965">1965</date>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="434" to="437" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b8">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Organometallic-functionalized interfaces for highly efficient inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">F</forename><surname>Julinsburger</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Pirquet</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Trans. Faraday Soc</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="445" to="452" />
-			<date type="published" when="1936">1936</date>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="416" to="420" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b9">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Surface reaction for efficient and stable inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Yoldas</surname></persName>
+			<persName><forename type="first">Q</forename><surname>Jiang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Mater. Sci</title>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">10</biblScope>
-			<biblScope unit="page" from="1856" to="1860" />
-			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">611</biblScope>
+			<biblScope unit="page" from="278" to="283" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b10">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Stabilizing Perovskite precursor by synergy of functional groups for NiO x-based inverted solar cells with 23.5% efficiency</title>
 		<author>
-			<persName><forename type="first">V</forename><surname>Gottardi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Guglielmi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Tiziani</surname></persName>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Non-Cryst. Solids</title>
+		<title level="j">Angew. Chem. Int. Ed</title>
 		<imprint>
-			<biblScope unit="volume">43</biblScope>
-			<biblScope unit="page" from="105" to="114" />
-			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">202206914</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b11">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Improving contact and passivation of buried interface for high-efficiency and large-area inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Leroy</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Michaud</surname></persName>
+			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Mater. Res. Bull</title>
+		<title level="j">Adv. Funct. Mater</title>
 		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="1117" to="1124" />
-			<date type="published" when="1978">1978</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">2109968</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b12">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Samarium-doped nickel oxide for superior inverted perovskite solar cells: insight into doping effect for electronic applications</title>
 		<author>
-			<persName><forename type="first">E</forename><surname>Matijevic</surname></persName>
+			<persName><forename type="first">H</forename><surname>Bao</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Pure Appl. Chem</title>
+		<title level="j">Adv. Funct. Mater</title>
 		<imprint>
-			<biblScope unit="volume">50</biblScope>
-			<biblScope unit="page" from="1193" to="1210" />
-			<date type="published" when="1978">1978</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">2102452</biblScope>
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b13">
-	<monogr>
+	<analytic>
+		<title level="a" type="main">Multiply charged conjugated polyelectrolytes as a multifunctional interlayer for efficient and scalable perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Kepert</surname></persName>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Jung</surname></persName>
 		</author>
-		<title level="m">Early Transition Metals</title>
-		<meeting><address><addrLine>London</addrLine></address></meeting>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<publisher>Academic</publisher>
-			<date type="published" when="1972">1972</date>
-			<biblScope unit="page">500</biblScope>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">2002333</biblScope>
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b14">
 	<analytic>
-		<title/>
+		<title level="a" type="main">A chemically inert bismuth interlayer enhances long-term stability of inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">W</forename><surname>Biltz</surname></persName>
+			<persName><forename type="first">S</forename><surname>Wu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Berichte</title>
+		<title level="j">Nat. Commun</title>
 		<imprint>
-			<biblScope unit="volume">37</biblScope>
-			<biblScope unit="page" from="1098" to="2007" />
-			<date type="published" when="1904">1904</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1161</biblScope>
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b15">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Inhibiting metal-inward diffusion-induced degradation through strong chemical coordination toward stable and efficient inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Lemerle</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><surname>Nejem</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Lefebvre</surname></persName>
+			<persName><forename type="first">J</forename><surname>Yang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Inorg. Nucl. Chem</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<biblScope unit="volume">42</biblScope>
-			<biblScope unit="page" from="17" to="20" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2154" to="2163" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
+	<note>References</note>
 </biblStruct>
 
 <biblStruct xml:id="b16">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Monolithic perovskite/silicon tandem solar cell with &gt;29% efficiency by enhanced hole extraction</title>
 		<author>
-			<persName><forename type="first">W</forename><surname>Heller</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><surname>Wojtowicz</surname></persName>
+			<persName><forename type="first">A</forename><surname>Al-Ashouri</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
 		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">109</biblScope>
-			<biblScope unit="page" from="274" to="278" />
-			<date type="published" when="1949">1949</date>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="1300" to="1309" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b17">
 	<analytic>
-		<title level="a" type="main">Donnet, 1. B. 1953</title>
+		<title level="a" type="main">Improving the stability of inverted perovskite solar cells towards commercialization</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Chim. Phys</title>
+		<title level="j">Commun. Mater</title>
 		<imprint>
-			<biblScope unit="volume">50</biblScope>
-			<biblScope unit="page" from="291" to="376" />
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">65</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b18">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Toward all room-temperature, solution-processed, high-performance planar perovskite solar cells: a new scheme of pyridine-promoted perovskite formation</title>
 		<author>
-			<persName><forename type="first">S</forename><surname>Music</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Ljubesic</surname></persName>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Colloid Polym. Sci</title>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<biblScope unit="volume">258</biblScope>
-			<biblScope unit="page" from="194" to="195" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1604695</biblScope>
+			<date type="published" when="2017">2017</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b19">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Constructing heterojunctions by surface sulfidation for efficient inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Lemerle</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Lefebvre</surname></persName>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Can. J. Chem</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">55</biblScope>
-			<biblScope unit="page" from="3758" to="3762" />
-			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="434" to="437" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b20">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Efficient and stable inverted perovskite solar cells with very high fill factors via incorporation of star-shaped polymer</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Charles</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Popplewell</surname></persName>
+			<persName><forename type="first">Q</forename><surname>Cao</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Ferromagnetic Materials</title>
+		<title level="j">Sci. Adv</title>
 		<imprint>
-			<biblScope unit="volume">2</biblScope>
-			<biblScope unit="issue">8</biblScope>
-			<biblScope unit="page" from="510" to="559" />
-			<date type="published" when="1980">1980</date>
-			<publisher>North Holland</publisher>
-			<pubPlace>Amsterdam</pubPlace>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">633</biblScope>
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b21">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Quantum-size-tuned heterostructures enable efficient and stable inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Shliomis</surname></persName>
+			<persName><forename type="first">H</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Sov. Phys. Usp</title>
+		<title level="j">Nat. Photonics</title>
 		<imprint>
-			<biblScope unit="volume">17</biblScope>
-			<biblScope unit="page" from="153" to="169" />
-			<date type="published" when="1974">1974</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="352" to="358" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b22">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Damp heat-stable perovskite solar cells with tailored-dimensionality 2D/3D heterojunctions</title>
 		<author>
-			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Elmore</surname></persName>
+			<persName><forename type="first">R</forename><surname>Azmi</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">54</biblScope>
-			<biblScope unit="page" from="309" to="310" />
-			<date type="published" when="1938">1938</date>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="73" to="77" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b23">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Organometallic-functionalized interfaces for highly efficient inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Massart</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">CR Acad. Sci. Paris</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">291</biblScope>
-			<biblScope unit="page" from="1" to="3" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="416" to="420" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b24">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Robust hole transport material with interface anchors enhances the efficiency and stability of inverted formamidinium-cesium perovskite solar cells with a certified efficiency of 22</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Massart</surname></persName>
+			<persName><forename type="first">R</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">IEEE Trans. Magn</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<biblScope unit="volume">17</biblScope>
-			<biblScope unit="page" from="1247" to="1248" />
-			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="2567" to="2580" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b25">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Vertical recrystallization for highly efficient and stable formamidinium-based inverted-structure perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Robin</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><surname>Day</surname></persName>
+			<persName><forename type="first">F</forename><surname>Xie</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Adv. Inorg. Chem. Radiochem</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
 			<biblScope unit="volume">10</biblScope>
-			<biblScope unit="page" from="247" to="403" />
-			<date type="published" when="1967">1967</date>
+			<biblScope unit="page" from="1942" to="1949" />
+			<date type="published" when="2017">2017</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b26">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Managing grains and interfaces via ligand anchoring enables 22.3%-efficiency inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Austin</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Mott</surname></persName>
+			<persName><forename type="first">X</forename><surname>Zheng</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Adv. Phys</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">18</biblScope>
-			<biblScope unit="page" from="41" to="102" />
-			<date type="published" when="1969">1969</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="131" to="140" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b27">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Surface reaction for efficient and stable inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Colton</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Guzman</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Rabalais</surname></persName>
+			<persName><forename type="first">Q</forename><surname>Jiang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Ace. Chem. Res</title>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">11</biblScope>
-			<biblScope unit="page" from="170" to="176" />
-			<date type="published" when="1978">1978</date>
+			<biblScope unit="volume">611</biblScope>
+			<biblScope unit="page" from="278" to="283" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b28">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Perovskite solar cells with 18.21% efficiency and area over 1 cm 2 fabricated by heterojunction engineering</title>
 		<author>
-			<persName><forename type="first">L</forename><surname>Murawski</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Chung</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Mackenzie</surname></persName>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Non-Cryst. Solids</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="91" to="104" />
-			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">16148</biblScope>
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b29">
-	<analytic>
-		<title/>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Rosensweig</surname></persName>
-		</author>
-	</analytic>
 	<monogr>
-		<title level="j">Adv. Electron. Electron Phys</title>
-		<imprint>
-			<biblScope unit="volume">48</biblScope>
-			<biblScope unit="page" from="103" to="199" />
-			<date type="published" when="1979">1979</date>
-		</imprint>
+		<idno type="DOI">10.1038/s41560-023-01295-8</idno>
+		<ptr target="https://doi.org/10.1038/s41560-023-01295-8" />
+		<title level="m">Article</title>
+		<imprint/>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b30">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Regulating surface termination for efficient inverted perovskite solar cells with greater than 23% efficiency</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Michaud</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Leroy</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Mater. Res. Bull</title>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<biblScope unit="volume">11</biblScope>
-			<biblScope unit="page" from="1425" to="1432" />
-			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="20134" to="20142" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b31">
 	<analytic>
-		<title/>
+		<title level="a" type="main">23.7% efficient inverted perovskite solar cells by dual interfacial modification</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Leroy</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Michaud</surname></persName>
+			<persName><forename type="first">M</forename><surname>Degani</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Mater. Res. Bull</title>
+		<title level="j">Sci. Adv</title>
 		<imprint>
-			<biblScope unit="volume">13</biblScope>
-			<biblScope unit="page" from="1117" to="1124" />
-			<date type="published" when="1978">1978</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">7930</biblScope>
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b32">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Stabilizing perovskite-substrate interfaces for high-performance perovskite modules</title>
 		<author>
-			<persName><forename type="first">P</forename><surname>Aldebert</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Baffier</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Mater. Res. Bull</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">16</biblScope>
-			<biblScope unit="page" from="669" to="676" />
-			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="902" to="907" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b33">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Compositional engineering of perovskite materials for high-performance solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Bullot</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Gallais</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Gauthier</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Jeon</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
-		<editor>
-			<persName><forename type="first">Lemerle</forename><surname>Livage</surname></persName>
-		</editor>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">36</biblScope>
-			<biblScope unit="page" from="986" to="122" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">517</biblScope>
+			<biblScope unit="page" from="476" to="480" />
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b34">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Efficient perovskite solar cells via improved carrier management</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Schnakenberg</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Yoo</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Status Solidi</title>
+		<title level="j">Nature</title>
 		<imprint>
-			<biblScope unit="volume">284</biblScope>
-			<biblScope unit="page" from="623" to="633" />
-			<date type="published" when="1968">1968</date>
+			<biblScope unit="volume">590</biblScope>
+			<biblScope unit="page" from="587" to="593" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b35">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Thermal degradation of CH 3 NH 3 PbI 3 perovskite into NH 3 and CH 3 I gases observed by coupled thermogravimetrymass spectrometry analysis</title>
 		<author>
-			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Anderson</surname></persName>
+			<persName><forename type="first">P</forename><surname>Juarez</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<biblScope unit="volume">109</biblScope>
-			<biblScope unit="page" from="1492" to="1505" />
-			<date type="published" when="1958">1958</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3406" to="3410" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b36">
-	<monogr>
+	<analytic>
+		<title level="a" type="main">Halide segregation versus interfacial recombination in bromide-rich wide-gap perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">Kodak</forename><surname>Patm</surname></persName>
+			<persName><forename type="first">F</forename><surname>Peña-Camargo</surname></persName>
 		</author>
-		<idno>BF 2429252</idno>
-		<title level="m">French Patents BR 2318</title>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Energy Lett</title>
 		<imprint>
-			<date type="published" when="1977">1977. 1979</date>
-			<biblScope unit="volume">442</biblScope>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2728" to="2736" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b37">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Suppressing the phase segregation with potassium for highly efficient and photostable inverted wide-band gap halide perovskite solar cells</title>
 		<author>
-			<persName><surname>Livage</surname></persName>
+			<persName><forename type="first">J</forename><surname>Liang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Recherche</title>
+		<title level="j">ACS Appl. Mater. Interfaces</title>
 		<imprint>
-			<biblScope unit="volume">1</biblScope>
-			<biblScope unit="page" from="374" to="375" />
-			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="48458" to="48466" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b38">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Mixed halide perovskite solar cells. Consequence of iodide treatment on phase segregation recovery</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Ovshinsky</surname></persName>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Balakrishna</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Rev. Lett</title>
+		<title level="j">ACS Energy Lett</title>
 		<imprint>
-			<biblScope unit="volume">21</biblScope>
-			<biblScope unit="page" from="1450" to="1453" />
-			<date type="published" when="1968">1968</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="2267" to="2272" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b39">
-	<monogr>
-		<title level="m" type="main">Amorphous and Liquid Semiconductors</title>
+	<analytic>
+		<title level="a" type="main">Local observation of phase segregation in mixed-halide perovskite</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Fritzsche</surname></persName>
+			<persName><forename type="first">X</forename><surname>Tang</surname></persName>
 		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
 		<imprint>
-			<date type="published" when="1974">1974</date>
-			<publisher>Plenum</publisher>
-			<biblScope unit="volume">8</biblScope>
-			<biblScope unit="page" from="313" to="359" />
-			<pubPlace>New York</pubPlace>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2172" to="2178" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b40">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Electronic traps and phase segregation in lead mixed-halide perovskite</title>
 		<author>
-			<persName><forename type="first">D</forename><surname>Alder</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Henisch</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Mott</surname></persName>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Knight</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Rev. Mod. Phys</title>
+		<title level="j">ACS Energy Lett</title>
 		<imprint>
-			<biblScope unit="volume">50</biblScope>
-			<biblScope unit="page" from="209" to="220" />
-			<date type="published" when="1978">1978</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="2019">2019</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b41">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Light-induced anion phase segregation in mixed halide perovskites</title>
 		<author>
-			<persName><forename type="first">D</forename><surname>Adler</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Shur</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Silver</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Ovshinsky</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Brennan</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Appl. Phys</title>
+		<title level="j">ACS Energy Lett</title>
 		<imprint>
-			<biblScope unit="volume">51</biblScope>
-			<biblScope unit="page" from="3289" to="3309" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="204" to="213" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b42">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Methylammonium-free, high-performance, and stable perovskite solar cells on a planar architecture</title>
 		<author>
-			<persName><forename type="first">G</forename><surname>Dearnaley</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Stoneham</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Morgan</surname></persName>
+			<persName><forename type="first">S.-H</forename><surname>Turren-Cruz</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Rep. Prog. Phys</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">33</biblScope>
-			<biblScope unit="page" from="1129" to="1191" />
-			<date type="published" when="1970">1970</date>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="449" to="453" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b43">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Formamidinium and cesium hybridization for photo-and moisture-stable perovskite solar cell</title>
 		<author>
-			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Drake</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Scanlan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Engel</surname></persName>
+			<persName><forename type="first">J.-W</forename><surname>Lee</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Status Solidi</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">32</biblScope>
-			<biblScope unit="page" from="193" to="208" />
-			<date type="published" when="1969">1969</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">1501310</biblScope>
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b44">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Entropic stabilization of mixed A-cation ABX 3 metal halide perovskites for high performance perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Higgins</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Lewis</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Lowe</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Rone</surname></persName>
+			<persName><forename type="first">C</forename><surname>Yi</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Non-Cryst. Solids</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<biblScope unit="volume">18</biblScope>
-			<biblScope unit="page" from="77" to="93" />
-			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="656" to="662" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b45">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Interfacial defect passivation and stress release via multi-active-site ligand anchoring enables efficient and stable methylammonium-free perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Mansingh</surname></persName>
+			<persName><forename type="first">B</forename><surname>Liu</surname></persName>
 		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Vaid</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tandon</surname></persName>
-		</author>
-		<idno>KI-3</idno>
 	</analytic>
 	<monogr>
-		<title level="j">Phys. Status Solidi</title>
+		<title level="j">ACS Energy Lett</title>
 		<imprint>
-			<biblScope unit="volume">38</biblScope>
-			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="2526" to="2538" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b46">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Impact of strain relaxation on performance of α-formamidinium lead iodide perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Higgins</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Temple</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Lewis</surname></persName>
+			<persName><forename type="first">G</forename><surname>Kim</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Non-Cryst. Solids</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">23</biblScope>
-			<biblScope unit="page" from="187" to="215" />
-			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="108" to="112" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b47">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Materials and methods for interface engineering toward stable and efficient perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">E</forename><surname>Gattef</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Y</forename><surname>Dimitriev</surname></persName>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Philos. Mag. B</title>
+		<title level="j">ACS Energy Lett</title>
 		<imprint>
-			<biblScope unit="volume">43</biblScope>
-			<biblScope unit="page" from="333" to="343" />
-			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="2742" to="2786" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b48">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Resolving spatial and energetic distributions of trap states in metal halide perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Bullot</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
+			<persName><forename type="first">Z</forename><surname>Ni</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">French Patent</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">81</biblScope>
-			<biblScope unit="page">13665</biblScope>
-			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="1352" to="1358" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b49">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Overcoming redox reactions at perovskite-nickel oxide interfaces to boost voltages in perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Deb</surname></persName>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Boyd</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Philos. Mag</title>
+		<title level="j">Joule</title>
 		<imprint>
-			<biblScope unit="volume">27</biblScope>
-			<biblScope unit="page" from="801" to="822" />
-			<date type="published" when="1973">1973</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1759" to="1775" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b50">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Elimination of interfacial lattice mismatch and detrimental reaction by self-assembled layer dual-passivation for efficient and stable inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Chang</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Gilbert</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Sun</surname></persName>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Electrochem. Soc</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">122</biblScope>
-			<biblScope unit="page" from="955" to="962" />
-			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">2103674</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b51">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Critical role of removing impurities in nickel oxide on high-efficiency and long-term stability of inverted perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Hersh</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Kramer</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Mcgee</surname></persName>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
+		<title level="j">Angew. Chem. Int. Ed</title>
 		<imprint>
-			<biblScope unit="volume">27</biblScope>
-			<biblScope unit="page" from="646" to="648" />
-			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">202116534</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b52">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Molecule-doped nickel oxide: verified charge transfer and planar inverted mixed cation perovskite solar cell</title>
 		<author>
-			<persName><forename type="first">P</forename><surname>Gerard</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Deneuville</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Courths</surname></persName>
+			<persName><forename type="first">W</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Thin Solid Films</title>
+		<title level="j">Adv. Mater</title>
 		<imprint>
-			<biblScope unit="volume">71</biblScope>
-			<biblScope unit="page" from="221" to="236" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">1800515</biblScope>
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b53">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Optimized carrier extraction at interfaces for 23.6% efficient tin-lead perovskite solar cells</title>
 		<author>
-			<persName><forename type="first">B</forename><surname>Reichman</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bard</surname></persName>
+			<persName><forename type="first">S</forename><surname>Hu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Electrochem. Soc</title>
+		<title level="j">Energy Environ. Sci</title>
 		<imprint>
-			<biblScope unit="volume">126</biblScope>
-			<biblScope unit="page" from="583" to="591" />
-			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2096" to="2107" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b54">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Predicting solar cell performance from terahertz and microwave spectroscopy</title>
 		<author>
-			<persName><forename type="first">T</forename><surname>Nishimura</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Taira</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Kurita</surname></persName>
+			<persName><forename type="first">H</forename><surname>Hempel</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">36</biblScope>
-			<biblScope unit="page" from="585" to="587" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">2102776</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b55">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Quantifying charge-carrier mobilities and recombination rates in metal halide perovskites from timeresolved microwave photoconductivity measurements</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Mohapatra</surname></persName>
+			<persName><forename type="first">T</forename><surname>Savenije</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Electrochem. Soc</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">125</biblScope>
-			<biblScope unit="page" from="284" to="288" />
-			<date type="published" when="1978">1978</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1903788</biblScope>
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b56">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Charge transfer from methylammonium lead iodide perovskite to organic transport materials: efficiencies, transfer rates, and interfacial recombination</title>
 		<author>
-			<persName><forename type="first">A</forename><surname>Deneuville</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><surname>Gerard</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Billat</surname></persName>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Hutter</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Thin Solid Films</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">70</biblScope>
-			<biblScope unit="page" from="203" to="223" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1602349</biblScope>
+			<date type="published" when="2017">2017</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b57">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Recombination at high carrier density in methylammonium lead iodide studied using time-resolved microwave conductivity</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Hurditch</surname></persName>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Labram</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Electrocomponent Sci. Technol</title>
+		<title level="j">J. Appl. Phys</title>
 		<imprint>
-			<biblScope unit="volume">3</biblScope>
-			<biblScope unit="page" from="247" to="251" />
-			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page">65501</biblScope>
+			<date type="published" when="2017">2017</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b58">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Cryogenic focused ion beam enables atomicresolution imaging of local structures in highly sensitive bulk crystals and devices</title>
 		<author>
-			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>' Faughnan</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Crandall</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lampert</surname></persName>
+			<persName><forename type="first">J</forename><surname>Zhou</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Appl. Phys. Lett</title>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<biblScope unit="volume">27</biblScope>
-			<biblScope unit="page" from="275" to="277" />
-			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="3182" to="3191" />
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b59">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Photoluminescence-based characterization of halide perovskites for photovoltaics</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Khalafella</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Reimers</surname></persName>
+			<persName><forename type="first">T</forename><surname>Kirchartz</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Trans. Soc. Min. Eng. AIME</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">254</biblScope>
-			<biblScope unit="page" from="3" to="8" />
-			<date type="published" when="1973">1973</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1904134</biblScope>
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b60">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Analysis of photocarrier dynamics at interfaces in perovskite solar cells by time-resolved photoluminescence</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Kaiser</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><surname>Miskoiczy</surname></persName>
+			<persName><forename type="first">A</forename><forename type="middle">A B</forename><surname>Baloch</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Appl. Phys</title>
+		<title level="j">J. Phys. Chem. C</title>
 		<imprint>
-			<biblScope unit="volume">41</biblScope>
-			<biblScope unit="page" from="1064" to="1072" />
-			<date type="published" when="1970">1970</date>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="26805" to="26815" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b61">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Quantitative analysis of the transient photoluminescence of CH 3 NH 3 PbI 3 /PC 61 BM heterojunctions by numerical simulations</title>
 		<author>
-			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Teichner</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Nicolaon</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Vicarini</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Gardes</surname></persName>
+			<persName><forename type="first">B</forename><surname>Krogmeier</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Adv. Colloid Interface Sci</title>
+		<title level="j">Sustain. Energy Fuels</title>
 		<imprint>
-			<biblScope unit="volume">5</biblScope>
-			<biblScope unit="page" from="245" to="273" />
-			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1027" to="1034" />
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b62">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Reconfiguring the band-edge states of photovoltaic perovskites by conjugated organic cations</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Livage</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">K</forename><surname>Doi</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">C</forename><surname>Mazieres</surname></persName>
+			<persName><forename type="first">J</forename><surname>Xue</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Am. Ceram. Soc</title>
+		<title level="j">Science</title>
 		<imprint>
-			<biblScope unit="volume">51</biblScope>
-			<biblScope unit="page" from="349" to="353" />
-			<date type="published" when="1968">1968</date>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="636" to="640" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b63">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Hot-carrier cooling and photoinduced refractive index changes in organic-inorganic lead halide perovskites</title>
 		<author>
-			<persName><forename type="first">J</forename><surname>Stocker</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">R</forename><surname>Collongues</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Price</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">CR Acad. Sci. Fr</title>
+		<title level="j">Nat. Commun</title>
 		<imprint>
-			<biblScope unit="volume">245</biblScope>
-			<biblScope unit="page" from="431" to="433" />
-			<date type="published" when="1957">1957</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">8420</biblScope>
+			<date type="published" when="2015">2015</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b64">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Tuning spin-polarized lifetime in two-dimensional metal-halide perovskite through exciton binding energy</title>
 		<author>
-			<persName><forename type="first">R</forename><surname>Roy</surname></persName>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Am. Ceram. Soc</title>
+		<title level="j">J. Am. Chem. Soc</title>
 		<imprint>
-			<biblScope unit="volume">52</biblScope>
-			<biblScope unit="page" from="344" to="345" />
-			<date type="published" when="1969">1969</date>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="19438" to="19445" />
+			<date type="published" when="2021">2021</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b65">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Simultaneous improvement of photovoltaic performance and stability by in situ formation of 2D perovskite at (FAPbI 3 ) 0.88 (CsPbBr 3 ) 0.12 /CuSCN interface</title>
 		<author>
-			<persName><forename type="first">H</forename><surname>Dislich</surname></persName>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Angew. Chern. Int. Ed. Engl</title>
+		<title level="j">Adv. Energy Mater</title>
 		<imprint>
-			<biblScope unit="volume">10</biblScope>
-			<biblScope unit="page" from="363" to="434" />
-			<date type="published" when="1971">1971</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1702714</biblScope>
+			<date type="published" when="2018">2018</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b66">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures</title>
 		<author>
-			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Johnson</surname></persName>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Khenkin</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">Ceram. Bull</title>
+		<title level="j">Nat. Energy</title>
 		<imprint>
-			<biblScope unit="volume">60</biblScope>
-			<biblScope unit="page" from="221" to="224" />
-			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="35" to="49" />
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b67">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Pinhole-free and surface-nanostructured NiO x film by room-temperature solution process for high-performance flexible perovskite solar cells with good stability and reproducibility</title>
 		<author>
-			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Yoldas</surname></persName>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Mater. Sci</title>
+		<title level="j">ACS Nano</title>
 		<imprint>
-			<biblScope unit="volume">12</biblScope>
-			<biblScope unit="page" from="1203" to="1208" />
-			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1503" to="1511" />
+			<date type="published" when="2016">2016</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b68">
 	<analytic>
-		<title/>
+		<title level="a" type="main">CP2K: an electronic structure and molecular dynamics software package-quickstep: efficient and accurate electronic structure calculations</title>
 		<author>
-			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Yoldas</surname></persName>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Kuhne</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Mater. Sci</title>
+		<title level="j">J. Chem. Phys</title>
 		<imprint>
-			<biblScope unit="volume">14</biblScope>
-			<biblScope unit="page" from="1843" to="1849" />
-			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page">194103</biblScope>
+			<date type="published" when="2020">2020</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b69">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Multiwfn: a multifunctional wavefunction analyzer</title>
 		<author>
-			<persName><forename type="first">K</forename><surname>Kamiya</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Sakka</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">Y</forename><surname>Tatemichi</surname></persName>
+			<persName><forename type="first">T</forename><surname>Lu</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Mater. Sci</title>
+		<title level="j">J. Comput. Chem</title>
 		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="1765" to="1771" />
-			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="580" to="592" />
+			<date type="published" when="2012">2012</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b70">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Gaussian basis sets for accurate calculations on molecular systems in gas and condensed phases</title>
 		<author>
-			<persName><forename type="first">M</forename><surname>Yamane</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Aso</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Okano</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">T</forename><surname>Sakaino</surname></persName>
+			<persName><forename type="first">J</forename><surname>Vandevondele</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Mater. Sci</title>
+		<title level="j">J. Chem. Phys</title>
 		<imprint>
-			<biblScope unit="volume">14</biblScope>
-			<biblScope unit="page" from="607" to="611" />
-			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">114105</biblScope>
+			<date type="published" when="2007">2007</date>
 		</imprint>
 	</monogr>
 </biblStruct>
 
 <biblStruct xml:id="b71">
 	<analytic>
-		<title/>
+		<title level="a" type="main">Stabilizing perovskite precursor by synergy of functional groups for NiO x -based inverted solar cells with 23.5% efficiency</title>
 		<author>
-			<persName><forename type="first">K</forename><surname>Kamiya</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">S</forename><surname>Sakka</surname></persName>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
 		</author>
 	</analytic>
 	<monogr>
-		<title level="j">J. Mater. Sci. Lett</title>
+		<title level="j">Angew. Chem. Int. Ed</title>
 		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="2937" to="2939" />
-			<date type="published" when="1980">1980</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b72">
-	<analytic>
-		<title/>
-		<author>
-			<persName><forename type="first">H</forename><surname>Schroeder</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Opt. Acta</title>
-		<imprint>
-			<biblScope unit="volume">9</biblScope>
-			<biblScope unit="page" from="249" to="254" />
-			<date type="published" when="1962">1962</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b73">
-	<analytic>
-		<title/>
-		<author>
-			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Wymer</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Coobs</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Proc. Br. Ceram. Soc</title>
-		<imprint>
-			<biblScope unit="volume">7</biblScope>
-			<biblScope unit="page" from="61" to="69" />
-			<date type="published" when="1967">1967</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b74">
-	<analytic>
-		<title/>
-		<author>
-			<persName><forename type="first">P</forename><surname>Lenfant</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">D</forename><surname>Plas</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">M</forename><surname>Ruffo</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">P</forename><surname>Colomban</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Boilot</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Mater. Res. Bull</title>
-		<imprint>
-			<biblScope unit="volume">15</biblScope>
-			<biblScope unit="page" from="1817" to="1827" />
-			<date type="published" when="1980">1980</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b75">
-	<analytic>
-		<title/>
-		<author>
-			<persName><forename type="first">P</forename><surname>Aldebert</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Baffier</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">N</forename><surname>Gharbi</surname></persName>
-		</author>
-		<author>
-			<persName><surname>Livage</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">Mater. Res. Bull</title>
-		<imprint>
-			<biblScope unit="volume">1</biblScope>
-			<biblScope unit="page" from="949" to="955" />
-			<date type="published" when="1981">1981</date>
-		</imprint>
-	</monogr>
-</biblStruct>
-
-<biblStruct xml:id="b76">
-	<analytic>
-		<title/>
-		<author>
-			<persName><forename type="first">L</forename><surname>Liebert</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">A</forename><surname>Martinet</surname></persName>
-		</author>
-		<author>
-			<persName><forename type="first">L</forename><surname>Strzelecki</surname></persName>
-		</author>
-	</analytic>
-	<monogr>
-		<title level="j">J. Colloid Interface Sci</title>
-		<imprint>
-			<biblScope unit="volume">41</biblScope>
-			<biblScope unit="page" from="391" to="393" />
-			<date type="published" when="1972">1972</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">202206914</biblScope>
+			<date type="published" when="2022">2022</date>
 		</imprint>
 	</monogr>
 </biblStruct>

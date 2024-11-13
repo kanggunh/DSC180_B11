@@ -7,20 +7,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Stable and Efficient 3D-2D Perovskite-Perovskite Planar Heterojunction Solar Cell without Organic Hole Transport Layer</title>
-				<funder ref="#_pmXufHp">
-					<orgName type="full">National Science Foundation of China</orgName>
+				<funder ref="#_bcvtxX6 #_pP4vMXk">
+					<orgName type="full">unknown</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Innovation and Technology Commission, Hong Kong SAR Government</orgName>
 				</funder>
-				<funder ref="#_HXRHAXd #_pzHZXaD">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_WhvqeWu #_QyarBTH">
+				<funder ref="#_tKhG7rC #_jaFpuzh">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_d8zywSr">
+				<funder ref="#_sTDZBHb">
 					<orgName type="full">CUHK Group Research Scheme</orgName>
+				</funder>
+				<funder ref="#_PPMstc6">
+					<orgName type="full">National Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -242,7 +242,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -287,22 +287,22 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>X. L. thanks the beam time and technical supports provided by <rs type="institution">23A SWAXS beamline at NSRRC, Hsinchu</rs>. The work is in part supported by research grants Council of <rs type="person">Hong Kong</rs>, particularly via grant nos. <rs type="grantNumber">AoE/P-03/08</rs>, <rs type="grantNumber">T23-407/13-N, 14207515</rs>, and <rs type="grantNumber">14204616</rs>, the <rs type="funder">CUHK Group Research Scheme</rs>, and ITS/088/17 by the <rs type="funder">Innovation and Technology Commission, Hong Kong SAR Government</rs>. J.B.X. would like to thank the <rs type="funder">National Science Foundation of China</rs> for support, particularly via grant no. <rs type="grantNumber">61229401</rs>. W.X. would like to thank the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">11574119</rs> and <rs type="grantNumber">61674070</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_HXRHAXd">
+				<org type="funding" xml:id="_bcvtxX6">
 					<idno type="grant-number">AoE/P-03/08</idno>
 				</org>
-				<org type="funding" xml:id="_pzHZXaD">
+				<org type="funding" xml:id="_pP4vMXk">
 					<idno type="grant-number">T23-407/13-N, 14207515</idno>
 				</org>
-				<org type="funding" xml:id="_d8zywSr">
+				<org type="funding" xml:id="_sTDZBHb">
 					<idno type="grant-number">14204616</idno>
 				</org>
-				<org type="funding" xml:id="_pmXufHp">
+				<org type="funding" xml:id="_PPMstc6">
 					<idno type="grant-number">61229401</idno>
 				</org>
-				<org type="funding" xml:id="_WhvqeWu">
+				<org type="funding" xml:id="_tKhG7rC">
 					<idno type="grant-number">11574119</idno>
 				</org>
-				<org type="funding" xml:id="_QyarBTH">
+				<org type="funding" xml:id="_jaFpuzh">
 					<idno type="grant-number">61674070</idno>
 				</org>
 			</listOrg>

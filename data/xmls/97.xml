@@ -10,7 +10,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 				<funder>
 					<orgName type="full">KAUST</orgName>
 				</funder>
-				<funder ref="#_m2Jf4yr">
+				<funder ref="#_RhJGQyW">
 					<orgName type="full">Office of Sponsored Research</orgName>
 					<orgName type="abbreviated">OSR</orgName>
 				</funder>
@@ -1747,7 +1747,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -1814,7 +1814,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>We acknowledge the use of <rs type="institution" subtype="infrastructure">KAUST Core Lab and KAUST Solar Center</rs> facilities. This work was supported by <rs type="funder">KAUST</rs> and the <rs type="funder">Office of Sponsored Research (OSR)</rs> under award no. <rs type="grantNumber">OSR-2017-CRG-3380</rs>. F.G. is a Wallenberg Academy Fellow.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_m2Jf4yr">
+				<org type="funding" xml:id="_RhJGQyW">
 					<idno type="grant-number">OSR-2017-CRG-3380</idno>
 				</org>
 			</listOrg>

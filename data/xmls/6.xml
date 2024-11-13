@@ -8,27 +8,27 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main">Ligand-Stabilized Reduced-Dimensionality Perovskites Supporting Information</title>
 				<funder>
-					<orgName type="full">Natural Sciences and Engineering Research Council</orgName>
-					<orgName type="abbreviated">NSERC</orgName>
+					<orgName type="full">Ontario Research Fund Research Excellence Program</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">National Research Foundation of Korea Grant</orgName>
-				</funder>
-				<funder ref="#_UZN3mnS">
-					<orgName type="full">Award</orgName>
+				<funder ref="#_2Cy2M8Q">
+					<orgName type="full">unknown</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">King Abdullah University of Science and Technology</orgName>
 					<orgName type="abbreviated">KAUST</orgName>
 				</funder>
-				<funder ref="#_rGNVDRx">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_rYeJKHT">
+					<orgName type="full">Korean Government</orgName>
+				</funder>
+				<funder ref="#_2tBSn4q">
+					<orgName type="full">Award</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Ontario Research Fund Research Excellence Program</orgName>
+					<orgName type="full">Natural Sciences and Engineering Research Council</orgName>
+					<orgName type="abbreviated">NSERC</orgName>
 				</funder>
-				<funder ref="#_muEFQyN">
-					<orgName type="full">Korean Government</orgName>
+				<funder>
+					<orgName type="full">National Research Foundation of Korea Grant</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -276,7 +276,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -323,13 +323,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>■ ACKNOWLEDGMENTS This publication is based in part on work supported by <rs type="funder">Award</rs> <rs type="grantNumber">KUS-11-009-21</rs>, made by <rs type="funder">King Abdullah University of Science and Technology (KAUST)</rs>, by the <rs type="funder">Ontario Research Fund Research Excellence Program</rs>, and by the <rs type="funder">Natural Sciences and Engineering Research Council (NSERC) of Canada</rs>. L.N.Q. and D.H.K. acknowledge financial support by <rs type="funder">National Research Foundation of Korea Grant</rs>, funded by the <rs type="funder">Korean Government</rs> (<rs type="grantNumber">2014R1A2A1A09005656</rs>; <rs type="grantNumber">2015M1A2A-2058365</rs>). The authors thank <rs type="person">Dr. X. Lan</rs> for assistance in SEM image acquisition; <rs type="person">M. Adachi</rs>, <rs type="person">B. Sutherland</rs>, <rs type="person">F. Fan</rs>, <rs type="person">J. Xu</rs>, and <rs type="person">A. Janmohamed</rs> for fruitful discussions; and <rs type="person">R. Wolowiec</rs> and <rs type="person">D. Kopilovic</rs> for their assistance during the course of study.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_UZN3mnS">
+				<org type="funding" xml:id="_2tBSn4q">
 					<idno type="grant-number">KUS-11-009-21</idno>
 				</org>
-				<org type="funding" xml:id="_muEFQyN">
+				<org type="funding" xml:id="_rYeJKHT">
 					<idno type="grant-number">2014R1A2A1A09005656</idno>
 				</org>
-				<org type="funding" xml:id="_rGNVDRx">
+				<org type="funding" xml:id="_2Cy2M8Q">
 					<idno type="grant-number">2015M1A2A-2058365</idno>
 				</org>
 			</listOrg>

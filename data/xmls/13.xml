@@ -8,44 +8,44 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main">High-Performance Flexible All-Perovskite Tandem Solar Cells with Reduced V OC -Deficit in Wide-Bandgap Subcell</title>
 				<funder>
-					<orgName type="full">Ministry of Education of P. R. China. S.O</orgName>
-				</funder>
-				<funder ref="#_sDsQHk9">
-					<orgName type="full">German Federal Ministry for Education and Research</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">Strategic Focus Area Advanced Manufacturing</orgName>
 				</funder>
-				<funder ref="#_zU3yqwH">
-					<orgName type="full">Natural Science Foundation of Jiangsu Province</orgName>
-				</funder>
-				<funder ref="#_97bNjc5">
-					<orgName type="full">National Key Research and Development Program of China</orgName>
-				</funder>
-				<funder ref="#_PJxfUWu">
-					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
-				</funder>
-				<funder ref="#_qaNvNHg #_c56BY4E">
+				<funder ref="#_KgFYstc #_hxDk8U9">
 					<orgName type="full">Federal Ministry for Economic Affairs and Energy</orgName>
 				</funder>
-				<funder ref="#_jBQWgst">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_TK74ESJ #_tK5b4rZ">
-					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</orgName>
-				</funder>
-				<funder ref="#_bCYmyAv #_JTHp9AU">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_BYhC5px">
-					<orgName type="full">Engineering Featured Team Fund of Sichuan University</orgName>
-				</funder>
-				<funder ref="#_cBQNQSK">
-					<orgName type="full">European Union</orgName>
+				<funder>
+					<orgName type="full">Ministry of Education of P. R. China. S.O</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">China Scholarship Council</orgName>
 					<orgName type="abbreviated">CSC</orgName>
+				</funder>
+				<funder ref="#_j7VyS4d #_2qVPKsd">
+					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</orgName>
+				</funder>
+				<funder ref="#_fPtESPx">
+					<orgName type="full">German Federal Ministry for Education and Research</orgName>
+				</funder>
+				<funder ref="#_RbkVKUx #_6BQj4zT">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_y9Y6BAH">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_YC6S6Wy">
+					<orgName type="full">Engineering Featured Team Fund of Sichuan University</orgName>
+				</funder>
+				<funder ref="#_k7uBbX9">
+					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_zNWvcFd">
+					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_YMGyMSw">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_cmGjJg2">
+					<orgName type="full">Natural Science Foundation of Jiangsu Province</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -464,7 +464,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -541,46 +541,46 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was supported by funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation program</rs> under Grant Agreement No. <rs type="grantNumber">850937</rs>, the <rs type="funder">Strategic Focus Area Advanced Manufacturing</rs> under the project AMYS-Advancing manufacturability of hybrid organicinorganic semiconductors for large-area optoelectronics, and Empa internal call 2021 (TexTandem). The work was financially supported by the <rs type="funder">National Key Research and Development Program of China</rs> (No. <rs type="grantNumber">2019YFE0120000</rs>), <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (Nos. <rs type="grantNumber">YJ2021157</rs> and <rs type="grantNumber">YJ201955</rs>), <rs type="funder">Engineering Featured Team Fund of Sichuan University</rs> (No. <rs type="grantNumber">2020SCUNG102</rs>). The authors acknowledge HyPerCells (a joint graduate school of the <rs type="institution">University of Potsdam</rs> and the <rs type="institution">Helmholtz-Zentrum Berlin</rs>) and the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</rs>) -Project Nos. <rs type="grantNumber">423749265</rs> and <rs type="grantNumber">424709669 -SPP 2196</rs> (SURPRISE and HIPSTER) for funding. They also acknowledge financial support by the <rs type="funder">Federal Ministry for Economic Affairs and Energy</rs> within the framework of the <rs type="programName">7th Energy Research Programme</rs> (<rs type="grantNumber">P3T-HOPE, 03EE1017C</rs>). H.L. thanks the funding of <rs type="funder">China Scholarship Council (CSC)</rs> from the <rs type="funder">Ministry of Education of P. R. China. S.O</rs>. acknowledges funding by the <rs type="funder">German Federal Ministry for Education and Research</rs> (<rs type="grantNumber">MUJUPO 2</rs> , Grant <rs type="grantNumber">OL 462/4-2</rs>). M.S. acknowledges the <rs type="programName">Heisenberg program</rs> from the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</rs>) for funding-Project No. <rs type="grantNumber">498155101</rs>. C. W. thanks the funding of <rs type="funder">National Natural Science Foundation of China</rs> (No. <rs type="grantNumber">62005188</rs>), <rs type="funder">Natural Science Foundation of Jiangsu Province</rs> (No. <rs type="grantNumber">BK20190825</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_cBQNQSK">
+				<org type="funding" xml:id="_y9Y6BAH">
 					<idno type="grant-number">850937</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
 				</org>
-				<org type="funding" xml:id="_97bNjc5">
+				<org type="funding" xml:id="_k7uBbX9">
 					<idno type="grant-number">2019YFE0120000</idno>
 				</org>
-				<org type="funding" xml:id="_PJxfUWu">
+				<org type="funding" xml:id="_zNWvcFd">
 					<idno type="grant-number">YJ2021157</idno>
 				</org>
-				<org type="funding" xml:id="_BYhC5px">
+				<org type="funding" xml:id="_YC6S6Wy">
 					<idno type="grant-number">YJ201955</idno>
 				</org>
-				<org type="funding" xml:id="_TK74ESJ">
+				<org type="funding" xml:id="_j7VyS4d">
 					<idno type="grant-number">2020SCUNG102</idno>
 				</org>
-				<org type="funding" xml:id="_bCYmyAv">
+				<org type="funding" xml:id="_RbkVKUx">
 					<idno type="grant-number">423749265</idno>
 				</org>
-				<org type="funding" xml:id="_qaNvNHg">
+				<org type="funding" xml:id="_KgFYstc">
 					<idno type="grant-number">424709669 -SPP 2196</idno>
 					<orgName type="program" subtype="full">7th Energy Research Programme</orgName>
 				</org>
-				<org type="funding" xml:id="_c56BY4E">
+				<org type="funding" xml:id="_hxDk8U9">
 					<idno type="grant-number">P3T-HOPE, 03EE1017C</idno>
 				</org>
-				<org type="funding" xml:id="_sDsQHk9">
+				<org type="funding" xml:id="_fPtESPx">
 					<idno type="grant-number">MUJUPO 2</idno>
 				</org>
-				<org type="funding" xml:id="_tK5b4rZ">
+				<org type="funding" xml:id="_2qVPKsd">
 					<idno type="grant-number">OL 462/4-2</idno>
 					<orgName type="program" subtype="full">Heisenberg program</orgName>
 				</org>
-				<org type="funding" xml:id="_jBQWgst">
+				<org type="funding" xml:id="_YMGyMSw">
 					<idno type="grant-number">498155101</idno>
 				</org>
-				<org type="funding" xml:id="_zU3yqwH">
+				<org type="funding" xml:id="_cmGjJg2">
 					<idno type="grant-number">62005188</idno>
 				</org>
-				<org type="funding" xml:id="_JTHp9AU">
+				<org type="funding" xml:id="_6BQj4zT">
 					<idno type="grant-number">BK20190825</idno>
 				</org>
 			</listOrg>

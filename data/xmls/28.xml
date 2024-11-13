@@ -7,50 +7,50 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_s3rWJ2h">
-					<orgName type="full">Flemish government through longterm structural funding Methusalem</orgName>
-				</funder>
-				<funder ref="#_TeBHgmc #_gc4nEqT">
-					<orgName type="full">European Union</orgName>
-				</funder>
-				<funder ref="#_WwVSwae #_VPf6E4h">
-					<orgName type="full">Belgian Federal Science Policy Office</orgName>
-				</funder>
 				<funder>
 					<orgName type="full">VSC (Flemish Supercomputer Center)</orgName>
 				</funder>
-				<funder ref="#_U4mZ7qB">
-					<orgName type="full">Hercules foundation</orgName>
-				</funder>
-				<funder ref="#_mg6v9xq #_tP83r9P #_mDdb9EC #_BTgRXAf #_RbArpQw #_Zzc2V54 #_FhZVKvS">
+				<funder ref="#_ZmbFPcg #_AGEU5Fh #_yMrMq7r #_4GYZgZM #_bn76bY6 #_Jmapd73 #_GHH7EhC">
 					<orgName type="full">Research foundation-Flanders postdoctoral fellowship</orgName>
 				</funder>
-				<funder ref="#_bmsc9XM #_TjHXzmr #_NvwBdh7 #_G93eHFm">
-					<orgName type="full">European Research Council</orgName>
+				<funder ref="#_D8dAVkV #_ndZneGm">
+					<orgName type="full">European Union</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">Research Foundation -Flanders (FWO)</orgName>
-				</funder>
-				<funder ref="#_nHZAzmK #_Gxc9HQ6">
+				<funder ref="#_swqcCd6 #_cQwXBhz">
 					<orgName type="full">SB-FWO</orgName>
 				</funder>
-				<funder ref="#_m3tWdXd">
-					<orgName type="full">Flemish government</orgName>
-				</funder>
-				<funder ref="#_eZSxUyE #_sH8mqTz #_Rfbfe8H #_w9ZnCw5 #_A3G6Z5b #_mrgePup #_FkQ7FNr #_afMcmXq">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_DePDB35">
+				<funder ref="#_nRcbJN6">
 					<orgName type="full">Hercules Foundation</orgName>
 				</funder>
-				<funder ref="#_XFbS6jm #_vGmmVEJ #_epRZh4t">
-					<orgName type="full">Research Foundation-Flanders (FWO</orgName>
+				<funder ref="#_pfAqN7R">
+					<orgName type="full">Flemish government</orgName>
+				</funder>
+				<funder ref="#_CgXYxDX">
+					<orgName type="full">Flemish government through longterm structural funding Methusalem</orgName>
+				</funder>
+				<funder ref="#_JnZY3A4 #_buvw255 #_aVEsm7Y #_ABMh8qz #_aKbSGXB #_6Zk3FZS #_TrQXYuh #_WnhgRUh">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_ww7a8DF #_Es2EYeV #_857seGA #_s9cbczf">
+					<orgName type="full">European Research Council</orgName>
+				</funder>
+				<funder ref="#_mJcFAmy #_qp8y3WN">
+					<orgName type="full">KU Leuven Research Fund</orgName>
+				</funder>
+				<funder ref="#_gzHUVCC #_sgGkhN8">
+					<orgName type="full">Belgian Federal Science Policy Office</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">FWO</orgName>
 				</funder>
-				<funder ref="#_JkzhmMK #_SJCgVBp">
-					<orgName type="full">KU Leuven Research Fund</orgName>
+				<funder>
+					<orgName type="full">Research Foundation -Flanders (FWO)</orgName>
+				</funder>
+				<funder ref="#_jANPFEq #_4RsRvcb #_XJsbdqc">
+					<orgName type="full">Research Foundation-Flanders (FWO</orgName>
+				</funder>
+				<funder ref="#_68nWVGW">
+					<orgName type="full">Hercules foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -215,7 +215,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -281,113 +281,113 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>Funding: The authors acknowledge financial support from the <rs type="funder">Research Foundation-Flanders (FWO</rs>, Grant Nos. G.<rs type="grantNumber">0B39. 15</rs> and <rs type="grantNumber">G098319N</rs>), the <rs type="funder">Research foundation-Flanders postdoctoral fellowship</rs> to J.A.S, C.M, H.Y, K.P.F.J, E.D, <rs type="person">K.L,</rs> and <rs type="person">S.M.J.R</rs> (grant numbers <rs type="grantNumber">12Y7218N</rs>, <rs type="grantNumber">12J1716N</rs>, <rs type="grantNumber">12R8718N</rs>, <rs type="grantNumber">12C2817N</rs>, <rs type="grantNumber">12O3719N</rs>, <rs type="grantNumber">12O0117N</rs> and <rs type="grantNumber">12T3519N</rs>, respectively), the <rs type="funder">SB-FWO</rs> fellowship to T.B (<rs type="grantNumber">1SC1319</rs>), the <rs type="funder">KU Leuven Research Fund</rs> (<rs type="grantNumber">C14/15/053</rs>), the <rs type="funder">Flemish government</rs> through long term structural funding Methusalem (<rs type="grantNumber">CASAS2</rs>, <rs type="grantNumber">Meth/15/04</rs>), the <rs type="funder">Hercules foundation</rs> (<rs type="grantNumber">HER/11/14</rs>), and the <rs type="funder">Belgian Federal Science Policy Office</rs> (<rs type="grantNumber">IAP-VII/05</rs>). The research leading to these results has received funding from the <rs type="funder">European Research Council</rs> under the European Union's <rs type="programName">Seventh Framework Programme</rs> (FP/2007-2013)/<rs type="grantName">ERC Grant Agreement</rs> (Grant No. <rs type="grantNumber">307523</rs> LIGHT). E.S is grateful for the GIWAXS experimental time provided by the <rs type="institution" subtype="infrastructure">NCD-SWEET beamline at ALBA synchrotron</rs>. T.B and V.V.S acknowledge the funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation program</rs> (consolidator <rs type="funder">ERC</rs> grant agreement No <rs type="grantNumber">647755 -DYNPOR (2015-2020</rs>)). V.V.S acknowledges the <rs type="institution">Research Board of Ghent University (BOF)</rs>. The computational resources and services used were provided by <rs type="institution">Ghent University</rs> (<rs type="projectName">Stevin Supercomputer Infrastructure</rs>) and the <rs type="funder">VSC (Flemish Supercomputer Center)</rs>, funded by the <rs type="funder">Research Foundation -Flanders (FWO)</rs>. Author contributions: J.A.S conceived the science, coordinated the research and wrote the manuscript, under the ACKNOWLEDGMENTS Funding: The authors acknowledge financial support from the <rs type="funder">Research Foundation-Flanders (FWO</rs>, grant nos. <rs type="grantNumber">G.0B39.15</rs> and <rs type="grantNumber">G098319N</rs>); FWO postdoctoral fellowships to J.A.S, C.M, H.Y, K.P.F.J, E.D, <rs type="person">K.L,</rs> and <rs type="person">S.M.J.R</rs> (grant nos. <rs type="grantNumber">12Y7218N</rs>, <rs type="grantNumber">12J1716N</rs>, <rs type="grantNumber">12R8718N</rs>, <rs type="grantNumber">12C2817N</rs>, <rs type="grantNumber">12O3719N</rs>, <rs type="grantNumber">12O0117N</rs>, and <rs type="grantNumber">12T3519N</rs>, respectively); and an <rs type="funder">SB-FWO</rs> fellowship to T.B. (grant no. <rs type="grantNumber">1SC1319</rs>); the <rs type="funder">KU Leuven Research Fund</rs> (<rs type="grantNumber">C14/15/053</rs>); the <rs type="funder">Flemish government through longterm structural funding Methusalem</rs> (<rs type="grantNumber">CASAS2</rs>, <rs type="grantNumber">Meth/15/04</rs>); the <rs type="funder">Hercules Foundation</rs> (<rs type="grantNumber">HER/11/14</rs>); and the <rs type="funder">Belgian Federal Science Policy Office</rs> (<rs type="grantNumber">IAP-VII/05</rs>). The research leading to these results has received funding from the <rs type="funder">European Research Council</rs> under the European Union's <rs type="programName">Seventh Framework Programme</rs> (FP/2007-2013)/ <rs type="grantName">ERC Grant</rs> Agreement (grant no. <rs type="grantNumber">307523</rs> LIGHT). E.S. is grateful for the GIWAXS experimental time provided by the <rs type="institution" subtype="infrastructure">NCD-SWEET beamline at ALBA synchrotron</rs>. T.B. and V.V.S. acknowledge funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation program</rs> (consolidator <rs type="funder">ERC</rs> grant agreement no. <rs type="grantNumber">647755 -DYNPOR, 2015-2020</rs>). V.V.S. acknowledges the <rs type="institution">Research Board of Ghent University (BOF)</rs>. The computational resources and services used were provided by <rs type="institution">Ghent University</rs> (<rs type="projectName">Stevin Supercomputer Infrastructure</rs>) and the <rs type="funder">VSC (Flemish Supercomputer Center)</rs>, funded by <rs type="funder">FWO</rs>. Author contributions: J.A.S. conceived the science, coordinated the research, and wrote the manuscript under the supervision of J.H. and <rs type="person">M.B.J.R. I.D.</rs>, V.D., W.V., K.P.F.J., E.S., and <rs type="person">D.C.</rs> assisted with the x-ray scattering experiments and analysis. H.J., H.Y., E.H.S., and E.D. synthesized the materials under investigation, and C.M., Y.-K.W., Y.D., D.M., and Z.L. prepared and characterized the LED devices. T.B. performed the DFT calculations under supervision of S.M.J.R., K.L., and <rs type="person">V.V.S.</rs>, with support from R.F.B. C.N. and B.G. performed the DSC experiments, and M.S. and H.T. assisted in developing the science. All authors have approved the manuscript.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_XFbS6jm">
+				<org type="funding" xml:id="_jANPFEq">
 					<idno type="grant-number">0B39. 15</idno>
 				</org>
-				<org type="funding" xml:id="_vGmmVEJ">
+				<org type="funding" xml:id="_4RsRvcb">
 					<idno type="grant-number">G098319N</idno>
 				</org>
-				<org type="funding" xml:id="_mg6v9xq">
+				<org type="funding" xml:id="_ZmbFPcg">
 					<idno type="grant-number">12Y7218N</idno>
 				</org>
-				<org type="funding" xml:id="_tP83r9P">
+				<org type="funding" xml:id="_AGEU5Fh">
 					<idno type="grant-number">12J1716N</idno>
 				</org>
-				<org type="funding" xml:id="_mDdb9EC">
+				<org type="funding" xml:id="_yMrMq7r">
 					<idno type="grant-number">12R8718N</idno>
 				</org>
-				<org type="funding" xml:id="_BTgRXAf">
+				<org type="funding" xml:id="_4GYZgZM">
 					<idno type="grant-number">12C2817N</idno>
 				</org>
-				<org type="funding" xml:id="_RbArpQw">
+				<org type="funding" xml:id="_bn76bY6">
 					<idno type="grant-number">12O3719N</idno>
 				</org>
-				<org type="funding" xml:id="_Zzc2V54">
+				<org type="funding" xml:id="_Jmapd73">
 					<idno type="grant-number">12O0117N</idno>
 				</org>
-				<org type="funding" xml:id="_FhZVKvS">
+				<org type="funding" xml:id="_GHH7EhC">
 					<idno type="grant-number">12T3519N</idno>
 				</org>
-				<org type="funding" xml:id="_nHZAzmK">
+				<org type="funding" xml:id="_swqcCd6">
 					<idno type="grant-number">1SC1319</idno>
 				</org>
-				<org type="funding" xml:id="_JkzhmMK">
+				<org type="funding" xml:id="_mJcFAmy">
 					<idno type="grant-number">C14/15/053</idno>
 				</org>
-				<org type="funding" xml:id="_m3tWdXd">
+				<org type="funding" xml:id="_pfAqN7R">
 					<idno type="grant-number">CASAS2</idno>
 				</org>
-				<org type="funding" xml:id="_U4mZ7qB">
+				<org type="funding" xml:id="_68nWVGW">
 					<idno type="grant-number">Meth/15/04</idno>
 				</org>
-				<org type="funding" xml:id="_WwVSwae">
+				<org type="funding" xml:id="_gzHUVCC">
 					<idno type="grant-number">HER/11/14</idno>
 				</org>
-				<org type="funding" xml:id="_bmsc9XM">
+				<org type="funding" xml:id="_ww7a8DF">
 					<idno type="grant-number">IAP-VII/05</idno>
 					<orgName type="grant-name">ERC Grant Agreement</orgName>
 					<orgName type="program" subtype="full">Seventh Framework Programme</orgName>
 				</org>
-				<org type="funding" xml:id="_TeBHgmc">
+				<org type="funding" xml:id="_D8dAVkV">
 					<idno type="grant-number">307523</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
 				</org>
-				<org type="funded-project" xml:id="_TjHXzmr">
+				<org type="funded-project" xml:id="_Es2EYeV">
 					<idno type="grant-number">647755 -DYNPOR (2015-2020</idno>
 					<orgName type="project" subtype="full">Stevin Supercomputer Infrastructure</orgName>
 				</org>
-				<org type="funding" xml:id="_epRZh4t">
+				<org type="funding" xml:id="_XJsbdqc">
 					<idno type="grant-number">G.0B39.15</idno>
 				</org>
-				<org type="funding" xml:id="_eZSxUyE">
+				<org type="funding" xml:id="_JnZY3A4">
 					<idno type="grant-number">G098319N</idno>
 				</org>
-				<org type="funding" xml:id="_sH8mqTz">
+				<org type="funding" xml:id="_buvw255">
 					<idno type="grant-number">12Y7218N</idno>
 				</org>
-				<org type="funding" xml:id="_Rfbfe8H">
+				<org type="funding" xml:id="_aVEsm7Y">
 					<idno type="grant-number">12J1716N</idno>
 				</org>
-				<org type="funding" xml:id="_w9ZnCw5">
+				<org type="funding" xml:id="_ABMh8qz">
 					<idno type="grant-number">12R8718N</idno>
 				</org>
-				<org type="funding" xml:id="_A3G6Z5b">
+				<org type="funding" xml:id="_aKbSGXB">
 					<idno type="grant-number">12C2817N</idno>
 				</org>
-				<org type="funding" xml:id="_mrgePup">
+				<org type="funding" xml:id="_6Zk3FZS">
 					<idno type="grant-number">12O3719N</idno>
 				</org>
-				<org type="funding" xml:id="_FkQ7FNr">
+				<org type="funding" xml:id="_TrQXYuh">
 					<idno type="grant-number">12O0117N</idno>
 				</org>
-				<org type="funding" xml:id="_Gxc9HQ6">
+				<org type="funding" xml:id="_cQwXBhz">
 					<idno type="grant-number">12T3519N</idno>
 				</org>
-				<org type="funding" xml:id="_SJCgVBp">
+				<org type="funding" xml:id="_qp8y3WN">
 					<idno type="grant-number">1SC1319</idno>
 				</org>
-				<org type="funding" xml:id="_s3rWJ2h">
+				<org type="funding" xml:id="_CgXYxDX">
 					<idno type="grant-number">C14/15/053</idno>
 				</org>
-				<org type="funding" xml:id="_afMcmXq">
+				<org type="funding" xml:id="_WnhgRUh">
 					<idno type="grant-number">CASAS2</idno>
 				</org>
-				<org type="funding" xml:id="_DePDB35">
+				<org type="funding" xml:id="_nRcbJN6">
 					<idno type="grant-number">Meth/15/04</idno>
 				</org>
-				<org type="funding" xml:id="_VPf6E4h">
+				<org type="funding" xml:id="_sgGkhN8">
 					<idno type="grant-number">HER/11/14</idno>
 				</org>
-				<org type="funding" xml:id="_NvwBdh7">
+				<org type="funding" xml:id="_857seGA">
 					<idno type="grant-number">IAP-VII/05</idno>
 					<orgName type="grant-name">ERC Grant</orgName>
 					<orgName type="program" subtype="full">Seventh Framework Programme</orgName>
 				</org>
-				<org type="funding" xml:id="_gc4nEqT">
+				<org type="funding" xml:id="_ndZneGm">
 					<idno type="grant-number">307523</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
 				</org>
-				<org type="funded-project" xml:id="_G93eHFm">
+				<org type="funded-project" xml:id="_s9cbczf">
 					<idno type="grant-number">647755 -DYNPOR, 2015-2020</idno>
 					<orgName type="project" subtype="full">Stevin Supercomputer Infrastructure</orgName>
 				</org>

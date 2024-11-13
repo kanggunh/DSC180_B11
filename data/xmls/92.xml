@@ -8,17 +8,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main"></title>
 				<funder>
-					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
-					<orgName type="abbreviated">KRICT</orgName>
-				</funder>
-				<funder ref="#_sPBEACq">
-					<orgName type="full">Republic of Korea</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">Korea Institute of Energy Technology Evaluation and Planning</orgName>
 					<orgName type="abbreviated">KETEP</orgName>
 				</funder>
-				<funder ref="#_cyNmMsr #_KDbXwTK">
+				<funder ref="#_nzrVKmu">
+					<orgName type="full">Republic of Korea</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
+					<orgName type="abbreviated">KRICT</orgName>
+				</funder>
+				<funder ref="#_DtskV62 #_mHdyrv7">
 					<orgName type="full">Ministry of Trade Industry &amp; Energy (MOTIE) of the Republic of Korea</orgName>
 				</funder>
 			</titleStmt>
@@ -71,7 +71,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -148,8 +148,8 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Device Structure and Performance of BSO-Based PSCs (A) Device structure and the corresponding cross-sectional SEM image of a BSO-based PSC. (B) J-V curve of top-performing BSO-based PSC measured in Newport. The inset shows the stabilized PCE for top-performing BSO-based PSC. (C) Histogram for PCEs of BSO and TiO 2 : Li-based PSCs processed at 10% RH.</figDesc><graphic coords="43,58.56,103.64,485.50,127.39" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Process Stability of BSO-and TiO 2 -Based PSCs (A) Evolution of average photovoltaic parameters with standard deviation, power conversion efficiency (PCE), short circuit current (J SC ), fill factor (FF), and open circuit voltage (V OC ), over 24 h at 40% RH. We compare the behavior of mp-BSO-and Li-doped mp-TiO 2 -based PSCs that are nonencapsulated. The errror bars indicate standard deviation of the PCEs measured from 16 devices for each condition. (B) Impedance spectra of Li-doped TiO 2 -and BSO-based PSCs fabricated and aged at 10% RH and 40% RH. (C) Dark J-V curves of Li-doped TiO 2 -and BSO-based PSCs fabricated and aged at 10% RH and 40% RH. Inset shows log(abs(J)) versus V curves. (D) Transient photocurrent decay curves for mp-BSO and Li doped mp-TiO 2 -based PSCs aged at 40% RH.</figDesc><graphic coords="44,64.35,103.63,305.50,335.34" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Surface Characteristic of Pure TiO 2 and Li-Doped TiO 2 (A) XPS spectra of Li-doped TiO 2 and BSO films at 10% and 40% RH. (B) FTIR spectra of TiO 2 and Li-doped TiO 2 film at 10% and 40% RH. (C and D) HR-TEM images of Li-doped TiO 2 nanoparticle at (C) 10% RH and (D) 40% RH.</figDesc><graphic coords="46,58.56,103.64,317.28,279.78" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>Figure 4</head><label>4</label><figDesc>Figure4shows a schematic illustration of electron transport in typical bilayered devices employing mp-TiO 2 and mp-BSO as an ETL. As mentioned above, moisture in the air can induce Li x O on the TiO 2 surface by reacting with Li ions, regardless of the humidity level. In a low-humidity environment (Figure4A), even if Li x O is partially or very thinly formed on the TiO 2 surface, it does not have a significant effect on electron transport, thus maintaining excellent device performance. However, a high-humidity condition can promote the formation of Li x O on the TiO 2 surface, which can operate as a barrier layer for electron transport in TiO 2 (Figure4B). Such suppression of electron transport increases the resistance of the TiO 2 ETL, thereby deteriorating the device performance. Even with no additional doping of Li, BSO nanoparticles have intrinsic properties of high electron conductance and good chemical stability against moisture. Therefore, we could realize a highly efficient and stable PSC fabricated under a broad window of humidity (up to $40% RH) by incorporating BSO nanoparticles as an ETL in a typical bilayered architecture comprising an FA-based mixed perovskite and a mesoporous scaffold.</figDesc><graphic coords="47,58.56,103.64,485.50,105.22" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Electron Transport Mechanism of Pure TiO 2 , Li-Doped TiO 2 , and BSO-based PSCs Schematic illustration of electron transport in pure TiO 2 , Li-doped TiO 2 -, and BSO-based ETL.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>Figure 4</head><label>4</label><figDesc>Figure4shows a schematic illustration of electron transport in typical bilayered devices employing mp-TiO 2 and mp-BSO as an ETL. As mentioned above, moisture in the air can induce Li x O on the TiO 2 surface by reacting with Li ions, regardless of the humidity level. In a low-humidity environment (Figure4A), even if Li x O is partially or very thinly formed on the TiO 2 surface, it does not have a significant effect on electron transport, thus maintaining excellent device performance. However, a high-humidity condition can promote the formation of Li x O on the TiO 2 surface, which can operate as a barrier layer for electron transport in TiO 2 (Figure4B). Such suppression of electron transport increases the resistance of the TiO 2 ETL, thereby deteriorating the device performance. Even with no additional doping of Li, BSO nanoparticles have intrinsic properties of high electron conductance and good chemical stability against moisture. Therefore, we could realize a highly efficient and stable PSC fabricated under a broad window of humidity (up to $40% RH) by incorporating BSO nanoparticles as an ETL in a typical bilayered architecture comprising an FA-based mixed perovskite and a mesoporous scaffold.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Electron Transport Mechanism of Pure TiO 2 , Li-Doped TiO 2 , and BSO-based PSCs Schematic illustration of electron transport in pure TiO 2 , Li-doped TiO 2 -, and BSO-based ETL.</figDesc><graphic coords="47,58.56,103.64,485.50,105.22" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>Figure S1 .</head><label>S1</label><figDesc>Figure S1. (a) SEM images for bl-TiO2, bl-TiO2/SnO2, and (b) bl-TiO2/SnO2/mp-BSO and J-V curves for BSO based devices with and without SnO2.</figDesc><graphic coords="53,72.00,85.05,451.30,320.55" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_22"><head>Figure S2 .</head><label>S2</label><figDesc>Figure S2. Certification result of our PSC. Certification of BSO-based PSC tested at an independent and accredited PV testing lab (Newport).</figDesc><graphic coords="55,72.00,130.83,450.75,576.75" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_23"><head>Figure S3 .</head><label>S3</label><figDesc>Figure S3. Hysteresis of BSO based PSC. Reverse and Forward J-V curves of BSO-based PSC tested at an independent and accredited PV testing lab (Newport). Inset shows photovoltaic parameters of mp-BSO based PSC.</figDesc><graphic coords="56,171.90,85.05,251.50,209.74" type="bitmap" /></figure>
@@ -187,13 +187,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>This work was supported by a grant from the <rs type="funder">Korea Research Institute of Chemical Technology (KRICT)</rs>, <rs type="funder">Republic of Korea</rs> (<rs type="grantNumber">KK1802-A01</rs>), the <rs type="funder">Korea Institute of Energy Technology Evaluation and Planning (KETEP)</rs>, and the <rs type="funder">Ministry of Trade Industry &amp; Energy (MOTIE) of the Republic of Korea</rs> (No. <rs type="grantNumber">20163010012470</rs> and <rs type="grantNumber">20183010014470</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_sPBEACq">
+				<org type="funding" xml:id="_nzrVKmu">
 					<idno type="grant-number">KK1802-A01</idno>
 				</org>
-				<org type="funding" xml:id="_cyNmMsr">
+				<org type="funding" xml:id="_DtskV62">
 					<idno type="grant-number">20163010012470</idno>
 				</org>
-				<org type="funding" xml:id="_KDbXwTK">
+				<org type="funding" xml:id="_mHdyrv7">
 					<idno type="grant-number">20183010014470</idno>
 				</org>
 			</listOrg>

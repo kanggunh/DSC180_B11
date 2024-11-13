@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Solar Energy Materials and Solar Cells</title>
-				<funder ref="#_dzPxZGB">
-					<orgName type="full">Zhejiang Provincial Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_zJf2cbg">
+				<funder ref="#_P5Wbnjc">
 					<orgName type="full">Natural Science Foundation of Ningbo City</orgName>
 				</funder>
-				<funder ref="#_BWYSKk4">
+				<funder ref="#_xwhE4aN">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_J8uVJyJ #_gYFxBvC #_5DgyDDb">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_WRDEgFn #_GCJPF5E">
-					<orgName type="full">Key S&amp;T Research Program of Ningbo</orgName>
-				</funder>
-				<funder ref="#_kfhMUnY">
+				<funder ref="#_akU4WYb">
 					<orgName type="full">Major Project and Key S&amp;T Program of Ningbo</orgName>
 				</funder>
-				<funder ref="#_BYURVdA">
+				<funder ref="#_fwrX9dW #_Cv4U96j #_4ahv7pF">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_2AWG2S5 #_RKBUDTk">
+					<orgName type="full">Key S&amp;T Research Program of Ningbo</orgName>
+				</funder>
+				<funder ref="#_VDFKR5d">
 					<orgName type="full">National Key Research and Development of China</orgName>
+				</funder>
+				<funder ref="#_gqz79AM">
+					<orgName type="full">Zhejiang Provincial Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -245,7 +245,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:40+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -282,36 +282,36 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors greatly acknowledge <rs type="person">Zilei Wang</rs> for his help in the preparation of the artwork. This work was supported by the <rs type="funder">National Key Research and Development of China</rs> (Grant No. <rs type="grantNumber">2016YFB0700202</rs>), <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">61574145</rs>, <rs type="grantNumber">51502315</rs>, <rs type="grantNumber">61704176</rs>), <rs type="funder">Zhejiang Provincial Natural Science Foundation of China</rs> (Grant No. <rs type="grantNumber">LR16F040002</rs>), <rs type="funder">Major Project and Key S&amp;T Program of Ningbo</rs> <rs type="grantNumber">2016B10004</rs>), <rs type="funder">Natural Science Foundation of Ningbo City</rs> (<rs type="grantNumber">2017A610020</rs>), <rs type="programName">International S&amp;T Cooperation Program of Ningbo</rs> (<rs type="grantNumber">2015D10021</rs>), the <rs type="funder">Key S&amp;T Research Program of Ningbo</rs> (<rs type="grantNumber">2014B10026</rs>), <rs type="projectName">Open project of Zhejiang Key Laboratory for Advanced Microelectronic Intelligent Systems and Applications</rs> (Grant <rs type="grantNumber">ZJUAMIS1704</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_BYURVdA">
+				<org type="funding" xml:id="_VDFKR5d">
 					<idno type="grant-number">2016YFB0700202</idno>
 				</org>
-				<org type="funding" xml:id="_J8uVJyJ">
+				<org type="funding" xml:id="_fwrX9dW">
 					<idno type="grant-number">61574145</idno>
 				</org>
-				<org type="funding" xml:id="_gYFxBvC">
+				<org type="funding" xml:id="_Cv4U96j">
 					<idno type="grant-number">51502315</idno>
 				</org>
-				<org type="funding" xml:id="_5DgyDDb">
+				<org type="funding" xml:id="_4ahv7pF">
 					<idno type="grant-number">61704176</idno>
 				</org>
-				<org type="funding" xml:id="_dzPxZGB">
+				<org type="funding" xml:id="_gqz79AM">
 					<idno type="grant-number">LR16F040002</idno>
 				</org>
-				<org type="funding" xml:id="_kfhMUnY">
+				<org type="funding" xml:id="_akU4WYb">
 					<idno type="grant-number">2016B10004</idno>
 				</org>
-				<org type="funding" xml:id="_zJf2cbg">
+				<org type="funding" xml:id="_P5Wbnjc">
 					<idno type="grant-number">2017A610020</idno>
 					<orgName type="program" subtype="full">International S&amp;T Cooperation Program of Ningbo</orgName>
 				</org>
-				<org type="funding" xml:id="_WRDEgFn">
+				<org type="funding" xml:id="_2AWG2S5">
 					<idno type="grant-number">2015D10021</idno>
 				</org>
-				<org type="funded-project" xml:id="_GCJPF5E">
+				<org type="funded-project" xml:id="_RKBUDTk">
 					<idno type="grant-number">2014B10026</idno>
 					<orgName type="project" subtype="full">Open project of Zhejiang Key Laboratory for Advanced Microelectronic Intelligent Systems and Applications</orgName>
 				</org>
-				<org type="funding" xml:id="_BWYSKk4">
+				<org type="funding" xml:id="_xwhE4aN">
 					<idno type="grant-number">ZJUAMIS1704</idno>
 				</org>
 			</listOrg>

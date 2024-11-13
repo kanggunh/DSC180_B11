@@ -7,31 +7,31 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Polymer-templated nucleation and crystal growth of perovskite films for solar cells with efficiency greater than 21%</title>
-				<funder ref="#_dtHfZmS">
-					<orgName type="full">SNSF</orgName>
-				</funder>
 				<funder>
 					<orgName type="full">SNF-NanoTera (SYNERGY)</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">CCEM-CH</orgName>
+					<orgName type="full">China Scholarship Council</orgName>
+				</funder>
+				<funder ref="#_t33VsCj">
+					<orgName type="full">European Union</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Swiss Federal Office of Energy (SYNERGY)</orgName>
 				</funder>
-				<funder ref="#_fhcz7Pu">
-					<orgName type="full">European Union</orgName>
+				<funder>
+					<orgName type="full">CCEM-CH</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">King Abdulaziz City for Science and Technology</orgName>
 					<orgName type="abbreviated">KACST</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">China Scholarship Council</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">Swiss National Science Foundation</orgName>
 					<orgName type="abbreviated">SNSF</orgName>
+				</funder>
+				<funder ref="#_WeXB9ZV">
+					<orgName type="full">SNSF</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -263,7 +263,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -300,11 +300,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors would like to thank <rs type="person">P. Mettraux</rs> of the Molecular and <rs type="institution">Hybrid Materials Characterization Center, EPFL</rs> for help with XPS measurements. F.Z. thanks the <rs type="funder">China Scholarship Council</rs> for funding. M.G. and S.M.Z. thank the <rs type="funder">King Abdulaziz City for Science and Technology (KACST)</rs> for financial support. D.B., M.G. and S.M.Z. are grateful for financial support from the <rs type="funder">Swiss National Science Foundation (SNSF)</rs>, the <rs type="funder">SNSF</rs> <rs type="grantNumber">NRP 70</rs> '<rs type="programName">Energy Turnaround'</rs> , <rs type="funder">CCEM-CH</rs> in the 9th call proposal 906: CONNECT PV, as well as from <rs type="funder">SNF-NanoTera (SYNERGY)</rs> and the <rs type="funder">Swiss Federal Office of Energy (SYNERGY)</rs>, and the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation programme</rs> under grant agreement No <rs type="grantNumber">687008</rs> (GOTSolar). The information and views set out in this article are those of the author(s) and do not necessarily reflect the official opinion of the <rs type="funder">European Union</rs>. Neither the <rs type="funder">European Union</rs> institutions and bodies nor any person acting on their behalf may be held responsible for the use that which may be made of the information contained herein.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_dtHfZmS">
+				<org type="funding" xml:id="_WeXB9ZV">
 					<idno type="grant-number">NRP 70</idno>
 					<orgName type="program" subtype="full">Energy Turnaround&apos;</orgName>
 				</org>
-				<org type="funding" xml:id="_fhcz7Pu">
+				<org type="funding" xml:id="_t33VsCj">
 					<idno type="grant-number">687008</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
 				</org>

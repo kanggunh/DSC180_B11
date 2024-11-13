@@ -7,47 +7,47 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Supplementary Materials for Stable perovskite solar cells with efficiency exceeding 24.8% and 0.3-V voltage loss</title>
-				<funder ref="#_Aqcp3Rp">
-					<orgName type="full">Wearable platform Materials Technology Center</orgName>
-				</funder>
-				<funder ref="#_7Nq6XN3 #_jZbyNQm">
+				<funder ref="#_hKkAPkR #_93tgY38">
 					<orgName type="full">Korea Institute of Energy Research</orgName>
 					<orgName type="abbreviated">KIER</orgName>
 				</funder>
+				<funder ref="#_2sz4XZJ">
+					<orgName type="full">Ulsan City</orgName>
+				</funder>
+				<funder ref="#_7qpwy55">
+					<orgName type="full">Korea government (MSIP)</orgName>
+				</funder>
 				<funder>
-					<orgName type="full">Korean Government (MSIT)</orgName>
+					<orgName type="full">NRF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Korea government (MOTIE)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Korea Institute of Energy Technology Evaluation and Planning</orgName>
 					<orgName type="abbreviated">KETEP</orgName>
 				</funder>
-				<funder ref="#_swwQJwZ">
-					<orgName type="full">UNIST (Ulsan National Institute of Science and Technology)</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">NRF</orgName>
-				</funder>
-				<funder ref="#_wvKqbfh">
-					<orgName type="full">Ministry of Science, ICT, and Future Planning</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Korea government (MOTIE)</orgName>
-				</funder>
-				<funder ref="#_JT8unfJ">
-					<orgName type="full">Korea government (MSIP)</orgName>
-				</funder>
-				<funder ref="#_NRXxgYQ">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_uttYzr9 #_FYCtqd6">
+				<funder ref="#_7tfxFZ7 #_89J3jXZ">
 					<orgName type="full">Ministry of Science and ICT as Global Frontier Project</orgName>
+				</funder>
+				<funder ref="#_SWsWTMm">
+					<orgName type="full">Wearable platform Materials Technology Center</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Research Foundation of Korea</orgName>
 					<orgName type="abbreviated">NRF</orgName>
 				</funder>
-				<funder ref="#_mMx8h2A">
-					<orgName type="full">Ulsan City</orgName>
+				<funder ref="#_3zFBypD">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Korean Government (MSIT)</orgName>
+				</funder>
+				<funder ref="#_AQkpwPd">
+					<orgName type="full">UNIST (Ulsan National Institute of Science and Technology)</orgName>
+				</funder>
+				<funder ref="#_nN2BBJP">
+					<orgName type="full">Ministry of Science, ICT, and Future Planning</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -166,7 +166,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -231,34 +231,34 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Funding: This work was supported by the <rs type="funder">National Research Foundation of Korea (NRF)</rs> grant funded by the <rs type="funder">Korea government (MSIP)</rs> (<rs type="grantNumber">2018R1A2A1A05077194</rs> and <rs type="grantNumber">2014R1A5A1009799</rs>); <rs type="institution">Center for Advanced Soft-Electronics</rs> funded by the <rs type="funder">Ministry of Science and ICT as Global Frontier Project</rs> (<rs type="grantNumber">2012M3A6A5055225</rs>); <rs type="funder">Wearable platform Materials Technology Center</rs> (<rs type="grantNumber">2016R1A5A1009926</rs>) funded by the <rs type="funder">Korean Government (MSIT)</rs>; the <rs type="funder">NRF</rs> funded by the <rs type="funder">Ministry of Science, ICT, and Future Planning</rs> (<rs type="grantNumber">2020M1A2A2080746</rs>); <rs type="funder">Korea Institute of Energy Technology Evaluation and Planning (KETEP)</rs> grant funded by the <rs type="funder">Korea government (MOTIE)</rs> [20193091010460, Development of Super Solar cells for overcoming the theoretical limit of silicon solar cell efficiency (&gt;30%)]; the Research Project Funded by <rs type="funder">Ulsan City</rs> (<rs type="grantNumber">1.200042</rs>) of <rs type="funder">UNIST (Ulsan National Institute of Science and Technology)</rs>; the <rs type="programName">Development Program</rs> of the <rs type="funder">Korea Institute of Energy Research (KIER)</rs> (<rs type="grantNumber">C0-2401</rs> and <rs type="grantNumber">C0-2402</rs>); and computational resource from <rs type="grantNumber">KISTI-HPC (KSC-2019-CRE-0056</rs>). Author contributions: C.Y., D.S.K., and S.K.K. conceptualized and supervised the project. J.-H.B. advised on the research. M.J. synthesized and characterized the HTM materials. I.W.C. fabricated and characterized the perovskite films and solar cells and did the stability test. E.M.G. and J.L. performed the molecular simulations. Y.C. performed CV and contact-angle measurements. M.K. performed the SCLC and XRD measurements. B.L. performed the EL-EQE measurements. S.J. conducted the UV and differential scanning calorimetry measurements. Y.J. and H.W.C. carried out PL and TRPL measurements. C.Y. and M.J. wrote the manuscript and all authors reviewed the manuscript. Competing interests: The authors declare no competing interests. Data and materials availability: All data are available in the manuscript or the supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_JT8unfJ">
+				<org type="funding" xml:id="_7qpwy55">
 					<idno type="grant-number">2018R1A2A1A05077194</idno>
 				</org>
-				<org type="funding" xml:id="_uttYzr9">
+				<org type="funding" xml:id="_7tfxFZ7">
 					<idno type="grant-number">2014R1A5A1009799</idno>
 				</org>
-				<org type="funding" xml:id="_FYCtqd6">
+				<org type="funding" xml:id="_89J3jXZ">
 					<idno type="grant-number">2012M3A6A5055225</idno>
 				</org>
-				<org type="funding" xml:id="_Aqcp3Rp">
+				<org type="funding" xml:id="_SWsWTMm">
 					<idno type="grant-number">2016R1A5A1009926</idno>
 				</org>
-				<org type="funding" xml:id="_wvKqbfh">
+				<org type="funding" xml:id="_nN2BBJP">
 					<idno type="grant-number">2020M1A2A2080746</idno>
 				</org>
-				<org type="funding" xml:id="_mMx8h2A">
+				<org type="funding" xml:id="_2sz4XZJ">
 					<idno type="grant-number">1.200042</idno>
 				</org>
-				<org type="funding" xml:id="_swwQJwZ">
+				<org type="funding" xml:id="_AQkpwPd">
 					<orgName type="program" subtype="full">Development Program</orgName>
 				</org>
-				<org type="funding" xml:id="_7Nq6XN3">
+				<org type="funding" xml:id="_hKkAPkR">
 					<idno type="grant-number">C0-2401</idno>
 				</org>
-				<org type="funding" xml:id="_jZbyNQm">
+				<org type="funding" xml:id="_93tgY38">
 					<idno type="grant-number">C0-2402</idno>
 				</org>
-				<org type="funding" xml:id="_NRXxgYQ">
+				<org type="funding" xml:id="_3zFBypD">
 					<idno type="grant-number">KISTI-HPC (KSC-2019-CRE-0056</idno>
 				</org>
 			</listOrg>

@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Cation and anion immobilization through chemical bonding enhancement with fluorides for stable halide perovskite solar cells</title>
-				<funder ref="#_Gx9T39E">
-					<orgName type="full">FOM</orgName>
-				</funder>
-				<funder ref="#_57qTTVR">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_sp68t93 #_b6PGj8t">
-					<orgName type="full">National Key Research and Development Program of China</orgName>
-				</funder>
-				<funder ref="#_H5FUjes #_rcRmVYt">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_NYv2Rqh">
+				<funder ref="#_e7zdzAx">
 					<orgName type="full">Natural Science Foundation of Beijing, China</orgName>
 				</funder>
-				<funder ref="#_KzdR78B">
+				<funder ref="#_yn4zfTt #_mQXqcKn">
+					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_rmuucaE">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_7EeHWZV">
 					<orgName type="full">Computational Sciences for Energy Research tenure track programme of Shell</orgName>
+				</funder>
+				<funder ref="#_E7fbyGV #_DVGejGx">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_mzcepSb">
+					<orgName type="full">FOM</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -840,7 +840,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:55+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -910,30 +910,30 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>acknowledgements This work is supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51722201</rs>; <rs type="grantNumber">51672008; 91733301</rs>), <rs type="funder">National Key Research and Development Program of China</rs> grant no. <rs type="grantNumber">2017YFA0206701</rs>, the <rs type="funder">Natural Science Foundation of Beijing, China</rs> (grant no. <rs type="grantNumber">4182026</rs>), the <rs type="programName">Young Talent Thousand Program</rs>, <rs type="funder">National Key Research and Development Program of China</rs> grant no. <rs type="grantNumber">2016YFB0700700</rs>, the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51673025</rs>) and Beijing <rs type="projectName">Municipal Science and Technology Project</rs> no. <rs type="grantNumber">Z181100005118002</rs>. S.T. acknowledges funding from the <rs type="funder">Computational Sciences for Energy Research tenure track programme of Shell</rs>, <rs type="institution">NWO</rs> and <rs type="funder">FOM</rs> (project no. <rs type="grantNumber">15CST04-2</rs>). The authors would like to thank <rs type="person">W. Zou</rs> and <rs type="person">J. Wang</rs> (<rs type="affiliation">Nanjing Tech University</rs>) for the PLQE measurement during the revision process, and <rs type="person">Z. Dai</rs> for providing the dynamic light scattering measurement.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_H5FUjes">
+				<org type="funding" xml:id="_E7fbyGV">
 					<idno type="grant-number">51722201</idno>
 				</org>
-				<org type="funding" xml:id="_sp68t93">
+				<org type="funding" xml:id="_yn4zfTt">
 					<idno type="grant-number">51672008; 91733301</idno>
 				</org>
-				<org type="funding" xml:id="_NYv2Rqh">
+				<org type="funding" xml:id="_e7zdzAx">
 					<idno type="grant-number">2017YFA0206701</idno>
 				</org>
-				<org type="funding" xml:id="_b6PGj8t">
+				<org type="funding" xml:id="_mQXqcKn">
 					<idno type="grant-number">4182026</idno>
 					<orgName type="program" subtype="full">Young Talent Thousand Program</orgName>
 				</org>
-				<org type="funding" xml:id="_rcRmVYt">
+				<org type="funding" xml:id="_DVGejGx">
 					<idno type="grant-number">2016YFB0700700</idno>
 				</org>
-				<org type="funded-project" xml:id="_57qTTVR">
+				<org type="funded-project" xml:id="_rmuucaE">
 					<idno type="grant-number">51673025</idno>
 					<orgName type="project" subtype="full">Municipal Science and Technology Project</orgName>
 				</org>
-				<org type="funding" xml:id="_KzdR78B">
+				<org type="funding" xml:id="_7EeHWZV">
 					<idno type="grant-number">Z181100005118002</idno>
 				</org>
-				<org type="funding" xml:id="_Gx9T39E">
+				<org type="funding" xml:id="_mzcepSb">
 					<idno type="grant-number">15CST04-2</idno>
 				</org>
 			</listOrg>

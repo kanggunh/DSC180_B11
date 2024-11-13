@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Spatial Atmospheric Pressure Atomic Layer Deposition of Tin Oxide as an Impermeable Electron Extraction Layer for Perovskite Solar Cells with Enhanced Thermal Stability</title>
-				<funder ref="#_hz8ukAj">
+				<funder ref="#_eeW6YvT #_AfESRfk">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_PJpHszZ">
 					<orgName type="full">European Research Council</orgName>
 					<orgName type="abbreviated">ERC</orgName>
 				</funder>
-				<funder ref="#_GwqGTeB">
+				<funder ref="#_XyJzkvc">
 					<orgName type="full">German Federal Ministry for Education and Research (Grants No</orgName>
 				</funder>
-				<funder ref="#_qMBh4GV #_ytH2MzP">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_turRESH">
+				<funder ref="#_WyBTCby">
 					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG)</orgName>
 				</funder>
 			</titleStmt>
@@ -152,7 +152,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -201,20 +201,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>We acknowledge the <rs type="funder">German Federal Ministry for Education and Research (Grants No</rs>. <rs type="grantNumber">03EK3529E</rs>, <rs type="grantNumber">13N13819</rs>, and <rs type="grantNumber">13N12889</rs>) and the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG)</rs> (Grants: <rs type="grantNumber">RI1551/4-2</rs>) for financial support. P.G. acknowledges funding from the <rs type="funder">European Research Council (ERC)</rs> under the European Union's <rs type="programName">Horizon 2020 research and innovation programme</rs> (grant agreement No. <rs type="grantNumber">637367</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_GwqGTeB">
+				<org type="funding" xml:id="_XyJzkvc">
 					<idno type="grant-number">03EK3529E</idno>
 				</org>
-				<org type="funding" xml:id="_qMBh4GV">
+				<org type="funding" xml:id="_eeW6YvT">
 					<idno type="grant-number">13N13819</idno>
 				</org>
-				<org type="funding" xml:id="_turRESH">
+				<org type="funding" xml:id="_WyBTCby">
 					<idno type="grant-number">13N12889</idno>
 				</org>
-				<org type="funding" xml:id="_hz8ukAj">
+				<org type="funding" xml:id="_PJpHszZ">
 					<idno type="grant-number">RI1551/4-2</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
 				</org>
-				<org type="funding" xml:id="_ytH2MzP">
+				<org type="funding" xml:id="_AfESRfk">
 					<idno type="grant-number">637367</idno>
 				</org>
 			</listOrg>

@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Visualization and suppression of interfacial recombination for high-efficiency large-area pin perovskite solar cells</title>
-				<funder ref="#_g3snupg">
-					<orgName type="full">German Federal Ministry of Education and Research (BMBF)</orgName>
-				</funder>
-				<funder ref="#_yH5EAda">
+				<funder ref="#_vGz9f9T">
 					<orgName type="full">Australian Government</orgName>
 				</funder>
-				<funder ref="#_gCMaV8V">
+				<funder ref="#_mCCGb5t">
 					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_yCeXfz6">
-					<orgName type="full">Australian Research Council</orgName>
-				</funder>
-				<funder ref="#_aqHVHRB">
-					<orgName type="full">Welsh European Funding Office</orgName>
-				</funder>
-				<funder ref="#_njKh9qv">
-					<orgName type="full">German Federal Ministry for Economic Affairs and Energy (BMWi)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Australian Renewable Energy Agency (ARENA) Australian Centre for Advanced Photovoltaics</orgName>
+				</funder>
+				<funder ref="#_ZQyCmSj">
+					<orgName type="full">German Federal Ministry of Education and Research (BMBF)</orgName>
+				</funder>
+				<funder ref="#_JqfkWwt">
+					<orgName type="full">German Federal Ministry for Economic Affairs and Energy (BMWi)</orgName>
+				</funder>
+				<funder ref="#_cu27CMs">
+					<orgName type="full">Welsh European Funding Office</orgName>
+				</funder>
+				<funder ref="#_x3C5X4N">
+					<orgName type="full">Australian Research Council</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -310,7 +310,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -356,8 +356,8 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 2 |</head><label>2</label><figDesc>Fig.2| Optimization of electrode design. a, Experimental J-V curves of 1 cm 2 cells comprising a PTAA/perovskite/C 60 stack with different electrode aspect ratios. Reducing the active area width from 8 mm (aspect ratio 0.64) to 4 mm (aspect ratio 0.16) while keeping the active area the same improved the fill factor by approximately 9%, as indicated by the arrow. b, Simulated solar cell efficiencies using a combination of optical simulations of the obtainable short-circuit current, and the Shockley equation with a finite ITO series resistance depending on its thickness and the device aspect ratio. An internal cell resistance of 1.5 Ω cm 2 (for a 1 cm 2 cell) and an ideality factor of approximately 1.5 were assumed, as previously determined<ref type="bibr" target="#b9">9</ref> . The two circled points correspond to the two devices from a.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4 |</head><label>4</label><figDesc>Fig. 4 | Visualization of non-radiative interfacial recombination through absolute photoluminescence imaging. a,b, Quasi-Fermi level splitting maps (1 cm 2 ) (a) and corresponding energy histograms (b) on perovskite-only, perovskite/C 60 , PTAA/perovskite and PTAA/perovskite/C 60 films on glass.The neat perovskite absorber allows a QFLS (and thus potential V OC ) of approximately 1.208 eV (at 300 K), which is consistent with the transient photoluminescence decay (Fig.3) but significantly below the QFLS in the radiative limit (1.345 eV), as indicated by the arrow. Addition of only one transport layer (either PTAA or C 60 ) induces additional non-radiative recombination pathways, which lower the QFLS to approximately 1.125-1.135 eV. The pin junction with both transport layers adjacent to the perovskite absorber still has an average QFLS of approximately 1.121 eV. The arrow shows that interfacial recombination dominates the non-radiative recombination losses in the stack. The films were excited at 450 nm with a 1 Sun equivalent intensity and the histograms were recorded on 5 mm × 5 mm squares in the middle of the films without edge effects (PL quenching) due to the encapsulation glue, as visible in samples 1, 3 and 4.</figDesc><graphic coords="23,113.90,498.22,369.26,122.42" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>NATURe eNeRgy | VOL 3 |</head><label>3</label><figDesc>OCTOBER 2018 | 847-854 | www.nature.com/natureenergy Articles Nature eNergy included (PFN-P2 and LiF) fabricated from a CsPbI 0.05 [(FAPbI 3 )</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | Suppression of interfacial recombination through interlayers. a,b, QFLS map (1 × 1 cm) (a) and QFLS histogram (b) of a PTAA/PFN-P2/perovskite film on glass, demonstrating a comparatively high average QFLS of approximately 1.19 eV. This represents a significant enhancement of approximately 65 meV compared to the QFLS of the PTAA/perovskite film and approaches the QFLS potential of the neat perovskite within 20 mV. d,e, QFLS map (1 × 1 cm 2 ) (d) and QFLS histogram (e) of a perovskite/LiF/C 60 film on glass, demonstrating the reduced interfacial recombination loss at the n-contact. Importantly, the average QFLS of the perovskite/LiF/C 60 stack (1.169 eV) and the pin device stack (1.173 eV) are both almost identical to the V OC of our optimized cells (1.16-1.17 V). The histograms were recorded on a 5 mm × 5 mm square in the middle of the films, without edge effects (PL quenching) due to the encapsulation glue. c,f, TRPL transients highlighting the significant prolongation of the carrier lifetime when either PFN-P2 (c) or LiF (f) is added as an interlayer.</figDesc><graphic coords="25,119.82,450.63,155.06,135.14" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Fig. 6 |</head><label>6</label><figDesc>Fig. 6 | 20% efficient pin-type perovskite cells with 1 cm 2 active area. a, Photograph of a fabricated 1 cm 2 cell with a rectangular active electrode area.b, 1 cm 2 perovskite cells reaching 20% PCE were achieved using a combination of PFN-P2 and LiF interlayers (J SC = 21.7 mA cm -2 , fill factor = 78.6%, V OC = 1.17 V) as measured with an aperture mask (1.018 cm 2 ) at 25 °C. The inset shows the stabilized power output at 20.1%.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | Suppression of interfacial recombination through interlayers. a,b, QFLS map (1 × 1 cm) (a) and QFLS histogram (b) of a PTAA/PFN-P2/perovskite film on glass, demonstrating a comparatively high average QFLS of approximately 1.19 eV. This represents a significant enhancement of approximately 65 meV compared to the QFLS of the PTAA/perovskite film and approaches the QFLS potential of the neat perovskite within 20 mV. d,e, QFLS map (1 × 1 cm 2 ) (d) and QFLS histogram (e) of a perovskite/LiF/C 60 film on glass, demonstrating the reduced interfacial recombination loss at the n-contact. Importantly, the average QFLS of the perovskite/LiF/C 60 stack (1.169 eV) and the pin device stack (1.173 eV) are both almost identical to the V OC of our optimized cells (1.16-1.17 V). The histograms were recorded on a 5 mm × 5 mm square in the middle of the films, without edge effects (PL quenching) due to the encapsulation glue. c,f, TRPL transients highlighting the significant prolongation of the carrier lifetime when either PFN-P2 (c) or LiF (f) is added as an interlayer.</figDesc><graphic coords="25,55.73,208.51,118.70,100.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Fig. 6 |</head><label>6</label><figDesc>Fig. 6 | 20% efficient pin-type perovskite cells with 1 cm 2 active area. a, Photograph of a fabricated 1 cm 2 cell with a rectangular active electrode area.b, 1 cm 2 perovskite cells reaching 20% PCE were achieved using a combination of PFN-P2 and LiF interlayers (J SC = 21.7 mA cm -2 , fill factor = 78.6%, V OC = 1.17 V) as measured with an aperture mask (1.018 cm 2 ) at 25 °C. The inset shows the stabilized power output at 20.1%.</figDesc><graphic coords="25,119.82,450.63,155.06,135.14" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="3,70.90,383.59,453.60,380.95" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,162.65,70.90,269.60,208.50" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,127.40,418.54,340.13,258.50" type="bitmap" /></figure>
@@ -386,25 +386,25 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>We thank <rs type="person">P. Caprioglio</rs> for SEM measurements, <rs type="person">L. Fiedler</rs> for laboratory assistance and <rs type="person">F. Jaiser</rs>, <rs type="person">F. Dornack</rs> and <rs type="person">A. Pucher</rs> for providing measurement and laboratory equipment. P.M. is a <rs type="grantName">Sêr Cymru Research Chair</rs> funded by the <rs type="funder">Welsh European Funding Office</rs> (<rs type="programName">Sêr Cymru II Program</rs>) and is formerly an <rs type="funder">Australian Research Council</rs> <rs type="grantName">Discovery Outstanding Researcher Award Fellow</rs>. P.L.B is an <rs type="grantName">Australian Research Council Laureate Fellow</rs> (<rs type="grantNumber">FL160100067</rs>). S.Z is partly funded by a <rs type="grantName">Chinese Scholarship Council studentship</rs> and the <rs type="funder">Australian Government</rs> through the <rs type="funder">Australian Renewable Energy Agency (ARENA) Australian Centre for Advanced Photovoltaics</rs>. Responsibility for the views, information or advice expressed herein is not accepted by the <rs type="funder">Australian Government</rs>. We thank <rs type="person">M. Harvey</rs> and <rs type="person">Brisbane Materials Technology Pty Ltd</rs> for the provision of their proprietary anti-reflection coating formulation. J.A.M. acknowledges <rs type="person">A. Redinger</rs> for fruitful discussions. S.A. acknowledges funding from the <rs type="funder">German Federal Ministry of Education and Research (BMBF)</rs>, within the project '<rs type="projectName">Materialforschung für die Energiewende</rs>' (grant no. <rs type="grantNumber">03SF0540</rs>), and the <rs type="funder">German Federal Ministry for Economic Affairs and Energy (BMWi)</rs> through the <rs type="programName">'PersiST'</rs> project (grant no. <rs type="grantNumber">0324037C</rs>). Support by the joint University Potsdam-HZB graduate school 'hypercells' is acknowledged.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_aqHVHRB">
+				<org type="funding" xml:id="_cu27CMs">
 					<orgName type="grant-name">Sêr Cymru Research Chair</orgName>
 					<orgName type="program" subtype="full">Sêr Cymru II Program</orgName>
 				</org>
-				<org type="funding" xml:id="_yCeXfz6">
+				<org type="funding" xml:id="_x3C5X4N">
 					<orgName type="grant-name">Discovery Outstanding Researcher Award Fellow</orgName>
 				</org>
-				<org type="funding" xml:id="_gCMaV8V">
+				<org type="funding" xml:id="_mCCGb5t">
 					<idno type="grant-number">FL160100067</idno>
 					<orgName type="grant-name">Australian Research Council Laureate Fellow</orgName>
 				</org>
-				<org type="funding" xml:id="_yH5EAda">
+				<org type="funding" xml:id="_vGz9f9T">
 					<orgName type="grant-name">Chinese Scholarship Council studentship</orgName>
 				</org>
-				<org type="funded-project" xml:id="_g3snupg">
+				<org type="funded-project" xml:id="_ZQyCmSj">
 					<idno type="grant-number">03SF0540</idno>
 					<orgName type="project" subtype="full">Materialforschung für die Energiewende</orgName>
 				</org>
-				<org type="funding" xml:id="_njKh9qv">
+				<org type="funding" xml:id="_JqfkWwt">
 					<idno type="grant-number">0324037C</idno>
 					<orgName type="program" subtype="full">&apos;PersiST&apos;</orgName>
 				</org>

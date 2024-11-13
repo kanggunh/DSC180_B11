@@ -7,30 +7,30 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Accelerated aging of all-inorganic, interface-stabilized perovskite solar cells</title>
-				<funder ref="#_gbCm2r7">
-					<orgName type="full">U.S. DOE Office of Science Facilities</orgName>
-				</funder>
-				<funder ref="#_Jq8BdZC">
+				<funder ref="#_cjDs9vz">
 					<orgName type="full">Julis Romo Rabinowitz Graduate</orgName>
 				</funder>
-				<funder ref="#_xWtuTZn">
-					<orgName type="full">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</orgName>
+				<funder ref="#_k5FDrGf">
+					<orgName type="full">U.S. DOE Office of Science Facilities</orgName>
 				</funder>
-				<funder ref="#_8pQp6pC">
-					<orgName type="full">US DOE Office of Science Facilities</orgName>
+				<funder>
+					<orgName type="full">American Association for the Advancement of Science</orgName>
+				</funder>
+				<funder ref="#_DQbga3W #_MNyS7sU">
+					<orgName type="full">National Science Foundation</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Princeton Center for Complex Materials</orgName>
 					<orgName type="abbreviated">PCCM</orgName>
 				</funder>
+				<funder ref="#_MtSBDrf">
+					<orgName type="full">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</orgName>
+				</funder>
+				<funder ref="#_SzHwmzD">
+					<orgName type="full">US DOE Office of Science Facilities</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">Arnold and Mabel Beckman Foundation</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">American Association for the Advancement of Science</orgName>
-				</funder>
-				<funder ref="#_2YqKBs3 #_pBxANzA">
-					<orgName type="full">National Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -187,7 +187,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -237,25 +237,25 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>The authors thank <rs type="person">Dr. E. Tsai</rs>'s and <rs type="person">Dr. R. Li</rs>'s from <rs type="affiliation">Brookhaven National Laboratory</rs> for their assistance with X-ray scattering measurements. Funding: X-ray scattering measurements were conducted at the <rs type="institution">Center for Functional Nanomaterials (CFN)</rs> and the <rs type="projectName">Complex Materials Scattering (CMS) beamline of the National Synchrotron Light Source II (NSLS-II</rs>), which both are <rs type="funder">U.S. DOE Office of Science Facilities</rs>, at <rs type="institution">Brookhaven National Laboratory</rs> under Contract No. <rs type="grantNumber">DE-SC0012704</rs>. The authors acknowledge the use of Princeton's Imaging and <rs type="person">Analysis Center</rs>, which is partially supported through the <rs type="funder">Princeton Center for Complex Materials (PCCM)</rs>, a <rs type="funder">National Science Foundation</rs> (<rs type="programName">NSF)-MRSEC program</rs> (<rs type="grantNumber">DMR-2011750</rs>). Y.-L.L. acknowledges support from the <rs type="funder">National Science Foundation</rs>, under grants <rs type="grantNumber">DMR-1627453</rs> and <rs type="grantNumber">CMMI-1824674</rs>. F.G. acknowledges the <rs type="funder">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</rs> (Faculty Grant <rs type="grantNumber">SFO-Mat-LiU No. 2009-00971</rs>). T.R.L. thanks the <rs type="funder">Julis Romo Rabinowitz Graduate</rs> Fellowship for funding. Q.C.B. thanks the <rs type="funder">Arnold and Mabel Beckman Foundation</rs> for supporting this work. Author contributions: Y.-L.L. directed and supervised the project. X.Z. conceived the idea, initialized the project, and contributed to films and devices fabrication and characterization. T.R.L. and Q.C.B. contributed to accelerated stability studies. T.J.L. and F.G. contributed to temperaturedependent conductivity studies. R.H. contributed to XRD refinements. G.C. and N.Y. contributed to device stack imaging. All authors contributed to discussions and to finalizing the manuscript. Competing interests: None declared. Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper or the Supplementary Materials. License information: Copyright © 2022 the authors, some rights reserved; exclusive licensee <rs type="funder">American Association for the Advancement of Science</rs>. No claim to original US government works. <ref type="url" target="https://www.science.org/about/science-licenses-journal-">https://www.science.org/about/science-licenses-journal-</ref>article-reuse.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_8pQp6pC">
+				<org type="funded-project" xml:id="_SzHwmzD">
 					<idno type="grant-number">DE-SC0012704</idno>
 					<orgName type="project" subtype="full">Complex Materials Scattering (CMS) beamline of the National Synchrotron Light Source II (NSLS-II</orgName>
 				</org>
-				<org type="funded-project" xml:id="_gbCm2r7">
+				<org type="funded-project" xml:id="_k5FDrGf">
 					<idno type="grant-number">DE-SC0012704</idno>
 					<orgName type="project" subtype="full">Complex Materials Scattering (CMS) beamline of the National Synchrotron Light Source II (NSLS-II</orgName>
 				</org>
-				<org type="funding" xml:id="_2YqKBs3">
+				<org type="funding" xml:id="_DQbga3W">
 					<idno type="grant-number">DMR-2011750</idno>
 					<orgName type="program" subtype="full">NSF)-MRSEC program</orgName>
 				</org>
-				<org type="funding" xml:id="_pBxANzA">
+				<org type="funding" xml:id="_MNyS7sU">
 					<idno type="grant-number">DMR-1627453</idno>
 				</org>
-				<org type="funding" xml:id="_xWtuTZn">
+				<org type="funding" xml:id="_MtSBDrf">
 					<idno type="grant-number">CMMI-1824674</idno>
 				</org>
-				<org type="funding" xml:id="_Jq8BdZC">
+				<org type="funding" xml:id="_cjDs9vz">
 					<idno type="grant-number">SFO-Mat-LiU No. 2009-00971</idno>
 				</org>
 			</listOrg>

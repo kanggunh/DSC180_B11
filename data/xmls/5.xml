@@ -7,34 +7,34 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Front-contact passivation through 2D/3D perovskite heterojunctions enables efficient bifacial perovskite/silicon tandem solar cells Tuning the dimensionality of 2D perovskites via structural isomers of butylammonium (BA) cation yields improved interfacial passivation and enhanced hole extraction, resulting in remarkably enhanced perofmance of bifacial perovskite/silicon tandem solar cells</title>
-				<funder ref="#_RweV8Xq">
-					<orgName type="full">King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research</orgName>
-					<orgName type="abbreviated">OSR</orgName>
+				<funder ref="#_74uhv5F #_FkwTKx7">
+					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_JcDGhUh">
+				<funder>
+					<orgName type="full">Canada Foundation for Innovation</orgName>
+				</funder>
+				<funder ref="#_J8TCtSN">
+					<orgName type="full">Agence Nationale de la Recherche</orgName>
+					<orgName type="abbreviated">ANR</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">the government of Saskatchewan, Western Economic Diversification Canada</orgName>
+				</funder>
+				<funder ref="#_BNersv5">
 					<orgName type="full">NSERC</orgName>
 				</funder>
-				<funder ref="#_jz3X6vA">
+				<funder ref="#_BRb2vYx">
 					<orgName type="full">US Department of the Navy, Office of Naval</orgName>
+				</funder>
+				<funder ref="#_cxMYmFu">
+					<orgName type="full">King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research</orgName>
+					<orgName type="abbreviated">OSR</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Canadian Institutes of Health Research</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">the government of Saskatchewan, Western Economic Diversification Canada</orgName>
-				</funder>
-				<funder ref="#_gadahth #_KCVKHSK">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">University of Saskatchewan</orgName>
-				</funder>
-				<funder ref="#_rQZQNRz">
-					<orgName type="full">Agence Nationale de la Recherche</orgName>
-					<orgName type="abbreviated">ANR</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Canada Foundation for Innovation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -363,7 +363,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -408,23 +408,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>This work was supported by the <rs type="funder">King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research (OSR)</rs> under award nos. <rs type="grantNumber">OSR-CARF/CCF-3079</rs>, <rs type="grantNumber">OSR-CRG2019-4093</rs>, <rs type="grantNumber">OSR-CRG2020-4350</rs>, IED OSR-2019-4208, IED OSR-2019-4580, and <rs type="grantNumber">REI/1/4833-01-01</rs>. E.U. thanks <rs type="person">Alessandro Genovese</rs> from <rs type="affiliation">KAUST Imaging and Characterization Core Lab</rs> for the TEM images. S.T., B.C., and E.H.S. thank the <rs type="institution">CLS</rs> for its support. GIWAXS patterns were collected at the <rs type="institution" subtype="infrastructure">BXDS Beamline</rs> at the <rs type="institution" subtype="infrastructure">CLS</rs> with the assistance of <rs type="person">Dr. Adam Leontowich</rs> and <rs type="person">Dr. Chang-Yong Kim</rs>. The CLS is funded by <rs type="funder">NSERC</rs>, the <rs type="funder">Canadian Institutes of Health Research</rs>, the <rs type="funder">Canada Foundation for Innovation</rs>, <rs type="funder">the government of Saskatchewan, Western Economic Diversification Canada</rs>, and the <rs type="funder">University of Saskatchewan</rs>. This research was made possible by the <rs type="funder">US Department of the Navy, Office of Naval</rs> <rs type="grantName">Research Grant</rs> (<rs type="grantNumber">N00014-20-1-2572</rs>). P.S. thanks the <rs type="funder">French Agence Nationale de la Recherche</rs> for funding under the contract number <rs type="grantNumber">ANR-17-MPGA-0012</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_RweV8Xq">
+				<org type="funding" xml:id="_cxMYmFu">
 					<idno type="grant-number">OSR-CARF/CCF-3079</idno>
 				</org>
-				<org type="funding" xml:id="_gadahth">
+				<org type="funding" xml:id="_74uhv5F">
 					<idno type="grant-number">OSR-CRG2019-4093</idno>
 				</org>
-				<org type="funding" xml:id="_KCVKHSK">
+				<org type="funding" xml:id="_FkwTKx7">
 					<idno type="grant-number">OSR-CRG2020-4350</idno>
 				</org>
-				<org type="funding" xml:id="_JcDGhUh">
+				<org type="funding" xml:id="_BNersv5">
 					<idno type="grant-number">REI/1/4833-01-01</idno>
 				</org>
-				<org type="funding" xml:id="_jz3X6vA">
+				<org type="funding" xml:id="_BRb2vYx">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 					<orgName type="grant-name">Research Grant</orgName>
 				</org>
-				<org type="funding" xml:id="_rQZQNRz">
+				<org type="funding" xml:id="_J8TCtSN">
 					<idno type="grant-number">ANR-17-MPGA-0012</idno>
 				</org>
 			</listOrg>

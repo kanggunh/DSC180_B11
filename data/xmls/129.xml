@@ -7,32 +7,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_nKywcss">
-					<orgName type="full">Green Tech Fund</orgName>
+				<funder ref="#_pnVjpDP">
+					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_pcBqpqQ">
-					<orgName type="full">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</orgName>
+				<funder ref="#_re95Sd8 #_CnKhDSQ">
+					<orgName type="full">Environment and Ecology Bureau of Hong Kong</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">UPS</orgName>
 				</funder>
-				<funder ref="#_DaR8EB2 #_WsN3tYf">
-					<orgName type="full">City University of Hong Kong</orgName>
-				</funder>
-				<funder ref="#_H9RXNH2">
-					<orgName type="full">Research Grants Council of Hong Kong</orgName>
-				</funder>
-				<funder ref="#_ZSvFrXk #_uvhCxHt">
-					<orgName type="full">Environment and Ecology Bureau of Hong Kong</orgName>
-				</funder>
-				<funder ref="#_aqZsfEd">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_ckJh829">
+				<funder ref="#_D6QXSP5">
 					<orgName type="full">APRC</orgName>
 				</funder>
-				<funder ref="#_4FsXH4h">
+				<funder ref="#_QhqGZz4">
+					<orgName type="full">Research Grants Council of Hong Kong</orgName>
+				</funder>
+				<funder ref="#_DZHmX4N">
+					<orgName type="full">Green Tech Fund</orgName>
+				</funder>
+				<funder ref="#_8hDwxHk #_UvxHSnV">
+					<orgName type="full">City University of Hong Kong</orgName>
+				</funder>
+				<funder ref="#_y4uJ7QV">
 					<orgName type="full">Innovation and Technology Commission of Hong Kong</orgName>
+				</funder>
+				<funder ref="#_AvXa5vt">
+					<orgName type="full">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -104,7 +104,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -229,39 +229,39 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The work has been supported by the <rs type="grantName">Lee Shau-Kee Chair Professor</rs> (<rs type="projectName">Materials Science</rs>) (A.K.-Y.J.); the support from the <rs type="funder">APRC</rs> Grant of the <rs type="funder">City University of Hong Kong</rs> (<rs type="grantNumber">9380086</rs>, <rs type="grantNumber">9610508</rs>) (A.K.-Y.J.); the <rs type="grantName">TCFS Grant</rs> (<rs type="grantNumber">GHP/018/20SZ</rs>) (A.K.-Y.J.) and <rs type="grantName">MRP Grant</rs> (<rs type="grantNumber">MRP/040/21X</rs>) (A.K.-Y.J.) from the <rs type="funder">Innovation and Technology Commission of Hong Kong</rs>; the <rs type="funder">Green Tech Fund</rs> (<rs type="grantNumber">202020164</rs>) (A.K.-Y.J.) from the <rs type="funder">Environment and Ecology Bureau of Hong Kong</rs>; the <rs type="grantName">GRF grant</rs> (<rs type="grantNumber">11307621</rs>, <rs type="grantNumber">11316422</rs>) (A.K.-Y.J.); from the <rs type="funder">Research Grants Council of Hong Kong</rs>, <rs type="projectName">Guangdong Major Project of Basic and Applied Basic Research</rs> (<rs type="grantNumber">2019B030302007</rs>) (A.K.-Y.J.); and the <rs type="funder">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</rs> (<rs type="grantNumber">2019B121205002</rs>) (A.K.-Y.J.). We thank <rs type="person">S. You</rs> for the technical support of single-crystal analysis and <rs type="person">W. K. Wong</rs> for XPS measurements. A.K.-Y.J. thanks <rs type="person">C. S. Lee</rs> for support with the <rs type="funder">UPS</rs> test.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_ckJh829">
+				<org type="funded-project" xml:id="_D6QXSP5">
 					<orgName type="grant-name">Lee Shau-Kee Chair Professor</orgName>
 					<orgName type="project" subtype="full">Materials Science</orgName>
 				</org>
-				<org type="funding" xml:id="_DaR8EB2">
+				<org type="funding" xml:id="_8hDwxHk">
 					<idno type="grant-number">9380086</idno>
 				</org>
-				<org type="funding" xml:id="_WsN3tYf">
+				<org type="funding" xml:id="_UvxHSnV">
 					<idno type="grant-number">9610508</idno>
 					<orgName type="grant-name">TCFS Grant</orgName>
 				</org>
-				<org type="funding" xml:id="_aqZsfEd">
+				<org type="funding" xml:id="_pnVjpDP">
 					<idno type="grant-number">GHP/018/20SZ</idno>
 					<orgName type="grant-name">MRP Grant</orgName>
 				</org>
-				<org type="funding" xml:id="_4FsXH4h">
+				<org type="funding" xml:id="_y4uJ7QV">
 					<idno type="grant-number">MRP/040/21X</idno>
 				</org>
-				<org type="funding" xml:id="_nKywcss">
+				<org type="funding" xml:id="_DZHmX4N">
 					<idno type="grant-number">202020164</idno>
 				</org>
-				<org type="funding" xml:id="_ZSvFrXk">
+				<org type="funding" xml:id="_re95Sd8">
 					<idno type="grant-number">11307621</idno>
 					<orgName type="grant-name">GRF grant</orgName>
 				</org>
-				<org type="funding" xml:id="_uvhCxHt">
+				<org type="funding" xml:id="_CnKhDSQ">
 					<idno type="grant-number">11316422</idno>
 				</org>
-				<org type="funded-project" xml:id="_H9RXNH2">
+				<org type="funded-project" xml:id="_QhqGZz4">
 					<idno type="grant-number">2019B030302007</idno>
 					<orgName type="project" subtype="full">Guangdong Major Project of Basic and Applied Basic Research</orgName>
 				</org>
-				<org type="funding" xml:id="_pcBqpqQ">
+				<org type="funding" xml:id="_AvXa5vt">
 					<idno type="grant-number">2019B121205002</idno>
 				</org>
 			</listOrg>

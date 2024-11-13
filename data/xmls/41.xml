@@ -7,42 +7,42 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Tuning Structural Isomers of Phenylenediammonium to Afford Efficient and Stable Perovskite Solar Cells and Modules</title>
-				<funder ref="#_V7MAkMx">
-					<orgName type="full">European Union</orgName>
-				</funder>
-				<funder ref="#_j6EdG4G">
-					<orgName type="full">National Key Research and Development Program of China</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">VALAIS ENERGY DEMONSTRATORS FUND</orgName>
-				</funder>
-				<funder ref="#_J6sJbhg #_BY4nScx #_ZMV9Vbz #_EKmpjsK">
+				<funder ref="#_2HqjpKV #_JFRN724 #_UuArGWu #_hdcHz4B">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_9kUJYP5">
-					<orgName type="full">Higher Education Discipline Innovation Project</orgName>
-				</funder>
-				<funder ref="#_mdrfnkp">
+				<funder ref="#_qdyu3Jb">
 					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
 				</funder>
-				<funder ref="#_Hk3xVnd">
-					<orgName type="full">Università degli Studi di Perugia</orgName>
-				</funder>
-				<funder ref="#_rhf4M5t #_ycrKmp3">
+				<funder ref="#_hY4CbN8 #_quUjwse">
 					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_W44Vm8m">
-					<orgName type="full">Ph</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">China Scholarship Council</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">MJJ Foundation. F.D.A. thanks the Ministero dell&apos;Istruzione dell&apos;Università e della Ricerca</orgName>
 					<orgName type="abbreviated">MIUR</orgName>
 				</funder>
-				<funder ref="#_zNh7sXJ">
+				<funder>
+					<orgName type="full">VALAIS ENERGY DEMONSTRATORS FUND</orgName>
+				</funder>
+				<funder ref="#_htxmYWS">
+					<orgName type="full">Higher Education Discipline Innovation Project</orgName>
+				</funder>
+				<funder ref="#_BGCSenP">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_kYdj9ca">
+					<orgName type="full">Università degli Studi di Perugia</orgName>
+				</funder>
+				<funder ref="#_BQnKwxx">
 					<orgName type="full">Research Council of Lithuania</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">China Scholarship Council</orgName>
+				</funder>
+				<funder ref="#_trRcd2V">
+					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_kTyjq4H">
+					<orgName type="full">Ph</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -135,7 +135,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -211,44 +211,44 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements S.D. gratefully acknowledges support from the <rs type="funder">National Key Research and Development Program of China</rs> (No. <rs type="grantNumber">2020YFB1506400</rs>). M.K.N. gratefully acknowledges fundings from the <rs type="funder">VALAIS ENERGY DEMONSTRATORS FUND</rs> and the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 Research and Innovation programme</rs> (No. <rs type="grantNumber">763977</rs>). Y.D. and S.D. acknowledge sponsorship from the <rs type="funder">National Natural Science Foundation of China</rs> (Nos. <rs type="grantNumber">U1705256</rs>, <rs type="grantNumber">51702096</rs>, <rs type="grantNumber">61904053</rs>, <rs type="grantNumber">51572080</rs>, and <rs type="grantNumber">51961165106</rs>). S.D. acknowledges financial support from the <rs type="funder">Higher Education Discipline Innovation Project</rs> (No. <rs type="grantNumber">B16016</rs>) and the <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (Nos. <rs type="grantNumber">2019MS026</rs> and <rs type="grantNumber">2019MS027</rs>). Y.Y. and C.L. acknowledge support from the <rs type="funder">Ph</rs>.D. scholarship from <rs type="funder">China Scholarship Council</rs> (Grant Nos. 201906730051 and 201906730050). K.R. acknowledges funding from the <rs type="funder">Research Council of Lithuania</rs> via grant No. <rs type="grantNumber">S-MIP-20-20</rs> and the funding received from the <rs type="funder">MJJ Foundation. F.D.A. thanks the Ministero dell'Istruzione dell'Università e della Ricerca (MIUR)</rs> and <rs type="funder">Università degli Studi di Perugia</rs> for financial support through the program "<rs type="programName">Dipartimenti di Eccellenza 2018-2022</rs>" (Grant AMIS). E.M. and F.D.A. received funding from <rs type="programName">PON «R&amp;I» 2014-2020: Progetti di Ricerca Industriale e Sviluppo Sperimentale nelle 12 aree di Specializzazione</rs> individuate dal PNR 2015-2020.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_j6EdG4G">
+				<org type="funding" xml:id="_trRcd2V">
 					<idno type="grant-number">2020YFB1506400</idno>
 				</org>
-				<org type="funding" xml:id="_V7MAkMx">
+				<org type="funding" xml:id="_BGCSenP">
 					<idno type="grant-number">763977</idno>
 					<orgName type="program" subtype="full">Horizon 2020 Research and Innovation programme</orgName>
 				</org>
-				<org type="funding" xml:id="_J6sJbhg">
+				<org type="funding" xml:id="_2HqjpKV">
 					<idno type="grant-number">U1705256</idno>
 				</org>
-				<org type="funding" xml:id="_BY4nScx">
+				<org type="funding" xml:id="_JFRN724">
 					<idno type="grant-number">51702096</idno>
 				</org>
-				<org type="funding" xml:id="_ZMV9Vbz">
+				<org type="funding" xml:id="_UuArGWu">
 					<idno type="grant-number">61904053</idno>
 				</org>
-				<org type="funding" xml:id="_EKmpjsK">
+				<org type="funding" xml:id="_hdcHz4B">
 					<idno type="grant-number">51572080</idno>
 				</org>
-				<org type="funding" xml:id="_9kUJYP5">
+				<org type="funding" xml:id="_htxmYWS">
 					<idno type="grant-number">51961165106</idno>
 				</org>
-				<org type="funding" xml:id="_mdrfnkp">
+				<org type="funding" xml:id="_qdyu3Jb">
 					<idno type="grant-number">B16016</idno>
 				</org>
-				<org type="funding" xml:id="_rhf4M5t">
+				<org type="funding" xml:id="_hY4CbN8">
 					<idno type="grant-number">2019MS026</idno>
 				</org>
-				<org type="funding" xml:id="_W44Vm8m">
+				<org type="funding" xml:id="_kTyjq4H">
 					<idno type="grant-number">2019MS027</idno>
 				</org>
-				<org type="funding" xml:id="_zNh7sXJ">
+				<org type="funding" xml:id="_BQnKwxx">
 					<idno type="grant-number">S-MIP-20-20</idno>
 				</org>
-				<org type="funding" xml:id="_Hk3xVnd">
+				<org type="funding" xml:id="_kYdj9ca">
 					<orgName type="program" subtype="full">Dipartimenti di Eccellenza 2018-2022</orgName>
 				</org>
-				<org type="funding" xml:id="_ycrKmp3">
+				<org type="funding" xml:id="_quUjwse">
 					<orgName type="program" subtype="full">PON «R&amp;I» 2014-2020: Progetti di Ricerca Industriale e Sviluppo Sperimentale nelle 12 aree di Specializzazione</orgName>
 				</org>
 			</listOrg>

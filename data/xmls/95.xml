@@ -7,18 +7,18 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Optimal Interfacial Engineering with Different Length of Alkylammonium Halide for Efficient and Stable Perovskite Solar Cells</title>
+				<funder ref="#_27D3DQ3 #_PtUuNmM">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_YNNrNRQ">
+					<orgName type="full">Ulsan city</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">National Research Foundation of Korea</orgName>
 					<orgName type="abbreviated">NRF</orgName>
 				</funder>
-				<funder ref="#_9XxYyWC #_uAjsJUw">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_jy2agGq">
+				<funder ref="#_DVjexfm">
 					<orgName type="full">Korea government (MSIT)</orgName>
-				</funder>
-				<funder ref="#_p9KBdVM">
-					<orgName type="full">Ulsan city</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -100,7 +100,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -148,16 +148,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements H.K. and S.-U.L. contributed equally to this work. This work was supported by the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Korea government (MSIT)</rs> (<rs type="grantNumber">2012M3A6A7054861</rs>, <rs type="grantNumber">NRF-2015M1A2A2056542</rs>, <rs type="grantNumber">2018R1A3B1052820</rs>). This work was also financially supported by <rs type="funder">Ulsan city</rs> (<rs type="grantNumber">1.190028.01</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_jy2agGq">
+				<org type="funding" xml:id="_DVjexfm">
 					<idno type="grant-number">2012M3A6A7054861</idno>
 				</org>
-				<org type="funding" xml:id="_9XxYyWC">
+				<org type="funding" xml:id="_27D3DQ3">
 					<idno type="grant-number">NRF-2015M1A2A2056542</idno>
 				</org>
-				<org type="funding" xml:id="_p9KBdVM">
+				<org type="funding" xml:id="_YNNrNRQ">
 					<idno type="grant-number">2018R1A3B1052820</idno>
 				</org>
-				<org type="funding" xml:id="_uAjsJUw">
+				<org type="funding" xml:id="_PtUuNmM">
 					<idno type="grant-number">1.190028.01</idno>
 				</org>
 			</listOrg>

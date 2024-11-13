@@ -7,39 +7,39 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_6PegSv4">
+				<funder ref="#_dSWGdNw">
+					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
+				</funder>
+				<funder ref="#_GwepyJa">
 					<orgName type="full">European Union</orgName>
 				</funder>
-				<funder ref="#_PymMrGH">
-					<orgName type="full">Swiss National Supercomputing Centre (CSCS)</orgName>
+				<funder ref="#_5JTC8Wx #_RGfsJAq #_UZTjxG5 #_dGFz5eR">
+					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">King Abdulaziz City for Science and Technology</orgName>
-					<orgName type="abbreviated">KACST</orgName>
-				</funder>
-				<funder ref="#_qjPcdfa #_YCN8xhP #_ZhXMeHm">
+				<funder ref="#_RqfsKaY #_jCWQUWw #_dt9VrpK">
 					<orgName type="full">Swiss National Science Foundation</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">NCCR MUST</orgName>
-				</funder>
-				<funder ref="#_UKmDb6V #_94YPVej #_FSJhD7K #_aAmhuXD">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_8QXtND2 #_Jz9xB5y">
+					<orgName type="full">Korea Institute of Energy Research</orgName>
+					<orgName type="abbreviated">KIER</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Technology Development Program to Solve Climate Changes of the National Research Foundation</orgName>
 					<orgName type="abbreviated">NRF</orgName>
 				</funder>
-				<funder ref="#_GNsUp6r #_ZvqxtPc">
-					<orgName type="full">Korea Institute of Energy Research</orgName>
-					<orgName type="abbreviated">KIER</orgName>
+				<funder>
+					<orgName type="full">King Abdulaziz City for Science and Technology</orgName>
+					<orgName type="abbreviated">KACST</orgName>
 				</funder>
-				<funder ref="#_ngYKpjX">
-					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
+				<funder>
+					<orgName type="full">NCCR MUST</orgName>
 				</funder>
-				<funder ref="#_qKa4TWS">
+				<funder ref="#_mySNGrt">
 					<orgName type="full">Ulsan National Institute of Science &amp; Technology</orgName>
 					<orgName type="abbreviated">UNIST</orgName>
+				</funder>
+				<funder ref="#_2TxRTWm">
+					<orgName type="full">Swiss National Supercomputing Centre (CSCS)</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -1189,7 +1189,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -1242,45 +1242,45 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements We thank <rs type="person">W. R. Tress</rs> for discussions, and the staff at beamlines <rs type="grantNumber">BL17B1</rs>, <rs type="grantNumber">BL14B1</rs>, <rs type="grantNumber">BL11B</rs>, <rs type="grantNumber">BL08U</rs> and <rs type="grantNumber">BL01B1</rs> of the <rs type="institution">SSRF</rs> for providing the beamline, and the <rs type="funder">Swiss National Supercomputing Centre (CSCS)</rs> and <rs type="institution">EPFL computing center (SCITAS)</rs> for their support. This research was supported by the <rs type="funder">Technology Development Program to Solve Climate Changes of the National Research Foundation (NRF)</rs> funded by the <rs type="funder">Ministry of Science, ICT &amp; Future Planning</rs> (<rs type="grantNumber">2020M1A2A2080746</rs>). This work was also supported by 'The Research Project Funded by <rs type="institution">U-K Brand'</rs> (<rs type="grantNumber">1.200030.01</rs>) of <rs type="funder">Ulsan National Institute of Science &amp; Technology (UNIST)</rs>. D.S.K. acknowledges the <rs type="programName">Development Program</rs> of the <rs type="funder">Korea Institute of Energy Research (KIER)</rs> (<rs type="grantNumber">C0-2401</rs> and <rs type="grantNumber">C0-2402</rs>). L.E. acknowledges support from the <rs type="funder">Swiss National Science Foundation</rs>, grant number <rs type="grantNumber">200020_178860</rs>. U.R. acknowledges funding from the <rs type="funder">Swiss National Science Foundation</rs> via individual grant number <rs type="grantNumber">200020_185092</rs> and the <rs type="funder">NCCR MUST</rs>. A.H. acknowledges the <rs type="funder">Swiss National Science Foundation</rs>, project '<rs type="projectName">Fundamental studies of dye-sensitized and perovskite solar cells</rs>', project number <rs type="grantNumber">200020_185041</rs>. M.G. acknowledges financial support from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation programme</rs> under grant agreement number <rs type="grantNumber">881603</rs>, and the <rs type="funder">King Abdulaziz City for Science and Technology (KACST)</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_UKmDb6V">
+				<org type="funding" xml:id="_5JTC8Wx">
 					<idno type="grant-number">BL17B1</idno>
 				</org>
-				<org type="funding" xml:id="_94YPVej">
+				<org type="funding" xml:id="_RGfsJAq">
 					<idno type="grant-number">BL14B1</idno>
 				</org>
-				<org type="funding" xml:id="_FSJhD7K">
+				<org type="funding" xml:id="_UZTjxG5">
 					<idno type="grant-number">BL11B</idno>
 				</org>
-				<org type="funding" xml:id="_aAmhuXD">
+				<org type="funding" xml:id="_dGFz5eR">
 					<idno type="grant-number">BL08U</idno>
 				</org>
-				<org type="funding" xml:id="_PymMrGH">
+				<org type="funding" xml:id="_2TxRTWm">
 					<idno type="grant-number">BL01B1</idno>
 				</org>
-				<org type="funding" xml:id="_ngYKpjX">
+				<org type="funding" xml:id="_dSWGdNw">
 					<idno type="grant-number">2020M1A2A2080746</idno>
 				</org>
-				<org type="funding" xml:id="_qKa4TWS">
+				<org type="funding" xml:id="_mySNGrt">
 					<idno type="grant-number">1.200030.01</idno>
 					<orgName type="program" subtype="full">Development Program</orgName>
 				</org>
-				<org type="funding" xml:id="_GNsUp6r">
+				<org type="funding" xml:id="_8QXtND2">
 					<idno type="grant-number">C0-2401</idno>
 				</org>
-				<org type="funding" xml:id="_ZvqxtPc">
+				<org type="funding" xml:id="_Jz9xB5y">
 					<idno type="grant-number">C0-2402</idno>
 				</org>
-				<org type="funding" xml:id="_qjPcdfa">
+				<org type="funding" xml:id="_RqfsKaY">
 					<idno type="grant-number">200020_178860</idno>
 				</org>
-				<org type="funding" xml:id="_YCN8xhP">
+				<org type="funding" xml:id="_jCWQUWw">
 					<idno type="grant-number">200020_185092</idno>
 				</org>
-				<org type="funded-project" xml:id="_ZhXMeHm">
+				<org type="funded-project" xml:id="_dt9VrpK">
 					<idno type="grant-number">200020_185041</idno>
 					<orgName type="project" subtype="full">Fundamental studies of dye-sensitized and perovskite solar cells</orgName>
 				</org>
-				<org type="funding" xml:id="_6PegSv4">
+				<org type="funding" xml:id="_GwepyJa">
 					<idno type="grant-number">881603</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
 				</org>

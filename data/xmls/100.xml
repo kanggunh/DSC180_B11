@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Gradient Energy Alignment Engineering for Planar Perovskite Solar Cells with Efficiency Over 23%</title>
-				<funder ref="#_Kq8Ad29">
+				<funder ref="#_SgCG2jx">
 					<orgName type="full">Overseas Expertise Introduction Project for Discipline Innovation of Higher Education of China</orgName>
 				</funder>
-				<funder ref="#_wUPrgHV">
+				<funder ref="#_ZdcxzM8">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_5JxcmzP">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_xaaT6xK">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_Hk3sAfK">
+					<orgName type="full">Tianjin Science and Technology Project</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
 				</funder>
-				<funder ref="#_GHQJjMx">
-					<orgName type="full">Tianjin Science and Technology Project</orgName>
-				</funder>
-				<funder ref="#_57fYBSd">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_Fcspcqr">
+				<funder ref="#_AQ9csfd">
 					<orgName type="full">Nankai University</orgName>
-				</funder>
-				<funder ref="#_XhWn2vX">
-					<orgName type="full">unknown</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -183,7 +183,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -249,22 +249,22 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors gratefully acknowledge the supports from <rs type="funder">National Key Research and Development Program of China</rs> (Grant No. <rs type="grantNumber">2018YFB1500103</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (Grant No. <rs type="grantNumber">61674084</rs>), the <rs type="funder">Overseas Expertise Introduction Project for Discipline Innovation of Higher Education of China</rs> (Grant No. <rs type="grantNumber">B16027</rs>), <rs type="funder">Tianjin Science and Technology Project</rs> (Grant No. <rs type="grantNumber">18ZXJMTG00220</rs>), and the <rs type="funder">Fundamental Research Funds for the Central Universities</rs>, <rs type="funder">Nankai University</rs> (Grant Nos. <rs type="grantNumber">63191736</rs> and <rs type="grantNumber">ZB19500204</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_wUPrgHV">
+				<org type="funding" xml:id="_5JxcmzP">
 					<idno type="grant-number">2018YFB1500103</idno>
 				</org>
-				<org type="funding" xml:id="_57fYBSd">
+				<org type="funding" xml:id="_xaaT6xK">
 					<idno type="grant-number">61674084</idno>
 				</org>
-				<org type="funding" xml:id="_Kq8Ad29">
+				<org type="funding" xml:id="_SgCG2jx">
 					<idno type="grant-number">B16027</idno>
 				</org>
-				<org type="funding" xml:id="_GHQJjMx">
+				<org type="funding" xml:id="_Hk3sAfK">
 					<idno type="grant-number">18ZXJMTG00220</idno>
 				</org>
-				<org type="funding" xml:id="_Fcspcqr">
+				<org type="funding" xml:id="_AQ9csfd">
 					<idno type="grant-number">63191736</idno>
 				</org>
-				<org type="funding" xml:id="_XhWn2vX">
+				<org type="funding" xml:id="_ZdcxzM8">
 					<idno type="grant-number">ZB19500204</idno>
 				</org>
 			</listOrg>

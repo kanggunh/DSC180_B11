@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Constructing heterojunctions by surface sulfidation for efficient inverted perovskite solar cells</title>
-				<funder ref="#_DmhYQrg">
+				<funder ref="#_tuHaFmQ">
 					<orgName type="full">Chinese Academy of Sciences</orgName>
 					<orgName type="abbreviated">CAS</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">Key Research Program of Frontier Sciences</orgName>
 				</funder>
-				<funder ref="#_g9cNpD8 #_KNT9RB3 #_sYdRvW2 #_YeJztra">
+				<funder>
+					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_pHmEjRt #_b8jbXvB #_Deu9vfB #_w4svMyn">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
@@ -135,7 +135,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -185,19 +185,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Funding: This work was supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51903242</rs>, <rs type="grantNumber">52173161</rs>, <rs type="grantNumber">61974150</rs>, and <rs type="grantNumber">62104070</rs>), the <rs type="funder">Key Research Program of Frontier Sciences</rs>, the <rs type="funder">Chinese Academy of Sciences (CAS)</rs> (<rs type="grantNumber">QYZDB-SSW-JSC047</rs>), and the <rs type="funder">Fundamental Research Funds for the Central Universities</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_g9cNpD8">
+				<org type="funding" xml:id="_pHmEjRt">
 					<idno type="grant-number">51903242</idno>
 				</org>
-				<org type="funding" xml:id="_KNT9RB3">
+				<org type="funding" xml:id="_b8jbXvB">
 					<idno type="grant-number">52173161</idno>
 				</org>
-				<org type="funding" xml:id="_sYdRvW2">
+				<org type="funding" xml:id="_Deu9vfB">
 					<idno type="grant-number">61974150</idno>
 				</org>
-				<org type="funding" xml:id="_YeJztra">
+				<org type="funding" xml:id="_w4svMyn">
 					<idno type="grant-number">62104070</idno>
 				</org>
-				<org type="funding" xml:id="_DmhYQrg">
+				<org type="funding" xml:id="_tuHaFmQ">
 					<idno type="grant-number">QYZDB-SSW-JSC047</idno>
 				</org>
 			</listOrg>

@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Metastable Dion-Jacobson 2D structure enables efficient and stable perovskite solar cells</title>
-				<funder ref="#_UXJXKPK">
+				<funder ref="#_SB7kTjy">
 					<orgName type="full">Center for Hybrid Organic-Inorganic Semiconductors for Energy</orgName>
 					<orgName type="abbreviated">CHOISE</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Office of Basic Energy Sciences, Office of Science within the US Department of Energy</orgName>
 				</funder>
-				<funder ref="#_mVf4mfT">
+				<funder ref="#_yzQzDvG">
 					<orgName type="full">US Department of Energy</orgName>
 				</funder>
 			</titleStmt>
@@ -440,7 +440,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -517,10 +517,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>Funding: The work was partially supported by the <rs type="funder">US Department of Energy</rs> under contract <rs type="grantNumber">DE-AC36-08GO28308</rs> with <rs type="institution">Alliance for Sustainable Energy</rs>, the manager and operator of the <rs type="institution">National Renewable Energy Laboratory</rs>. The authors acknowledge the support on 2D structure design, first-principle calculations, synthesis of PDAI 2 and DMePDAI 2 , single-crystal synthesis and analysis, and optoelectronic characterizations (such as TRPL and TRMC) from the <rs type="funder">Center for Hybrid Organic-Inorganic Semiconductors for Energy (CHOISE)</rs>, an <rs type="grantName">Energy Frontier Research Center</rs> funded by the <rs type="funder">Office of Basic Energy Sciences, Office of Science within the US Department of Energy</rs>. The authors also</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_mVf4mfT">
+				<org type="funding" xml:id="_yzQzDvG">
 					<idno type="grant-number">DE-AC36-08GO28308</idno>
 				</org>
-				<org type="funding" xml:id="_UXJXKPK">
+				<org type="funding" xml:id="_SB7kTjy">
 					<orgName type="grant-name">Energy Frontier Research Center</orgName>
 				</org>
 			</listOrg>

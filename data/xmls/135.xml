@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Stabilized hole-selective layer for high-performance inverted p-i-n perovskite solar cells</title>
-				<funder ref="#_bwewvck">
-					<orgName type="full">Research Grants Council of Hong Kong, Green Tech Fund</orgName>
-				</funder>
-				<funder ref="#_ghRVKsw #_FCDbFcY #_mTbAZa8">
-					<orgName type="full">Innovation and Technology Fund</orgName>
-				</funder>
-				<funder ref="#_BX7g94v">
+				<funder ref="#_7bmhZmE">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_bw5dFjx">
+				<funder ref="#_YXEwGcF">
 					<orgName type="full">Science Technology and Innovation</orgName>
+				</funder>
+				<funder ref="#_6w5zRZE">
+					<orgName type="full">Research Grants Council of Hong Kong, Green Tech Fund</orgName>
+				</funder>
+				<funder ref="#_YHe7Uny #_4czXHnP #_vMnb58a">
+					<orgName type="full">Innovation and Technology Fund</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -209,7 +209,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -292,23 +292,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Funding: This work was supported by the <rs type="funder">Innovation and Technology Fund</rs> (<rs type="grantNumber">GHP/100/20SZ</rs>, <rs type="grantNumber">GHP/102/20GD</rs>, <rs type="grantNumber">MRP/040/ 21X</rs>), the <rs type="grantName">ECS grant</rs> (<rs type="grantNumber">21301319</rs>) and GRF grant (<rs type="grantNumber">11306521</rs>) from the <rs type="funder">Research Grants Council of Hong Kong, Green Tech Fund</rs> (<rs type="grantNumber">GTF202020164</rs>), the <rs type="funder">Science Technology and Innovation</rs></p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_ghRVKsw">
+				<org type="funding" xml:id="_YHe7Uny">
 					<idno type="grant-number">GHP/100/20SZ</idno>
 				</org>
-				<org type="funding" xml:id="_FCDbFcY">
+				<org type="funding" xml:id="_4czXHnP">
 					<idno type="grant-number">GHP/102/20GD</idno>
 				</org>
-				<org type="funding" xml:id="_mTbAZa8">
+				<org type="funding" xml:id="_vMnb58a">
 					<idno type="grant-number">MRP/040/ 21X</idno>
 					<orgName type="grant-name">ECS grant</orgName>
 				</org>
-				<org type="funding" xml:id="_BX7g94v">
+				<org type="funding" xml:id="_7bmhZmE">
 					<idno type="grant-number">21301319</idno>
 				</org>
-				<org type="funding" xml:id="_bwewvck">
+				<org type="funding" xml:id="_6w5zRZE">
 					<idno type="grant-number">11306521</idno>
 				</org>
-				<org type="funding" xml:id="_bw5dFjx">
+				<org type="funding" xml:id="_YXEwGcF">
 					<idno type="grant-number">GTF202020164</idno>
 				</org>
 			</listOrg>

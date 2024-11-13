@@ -7,13 +7,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">23.7% Efficient inverted perovskite solar cells by dual interfacial modification</title>
-				<funder ref="#_CQ6RU2d #_ZVNhNwt">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_sWasPZH">
+				<funder ref="#_rS6bvkh">
 					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG)</orgName>
 				</funder>
-				<funder ref="#_wvXD5w2 #_9yMRHkV #_dvZSfhE">
+				<funder ref="#_wwh3DZU #_8VQTmVF">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_jC5FH63 #_QheJH4s #_H8zNptG">
 					<orgName type="full">European Research Council</orgName>
 					<orgName type="abbreviated">ERC</orgName>
 				</funder>
@@ -182,7 +182,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -208,8 +208,8 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div xmlns="http://www.tei-c.org/ns/1.0"><head>VOC (V) JSC (mA/cm</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .of 9 Fig. 2 .</head><label>192</label><figDesc>Fig. 1. Chemical structure of PEAI cations and schematics of the fabrication procedure and device architecture used in this work. (A) Chemical structure of PEAI, Cl-PEAI, and F-PEAI. (B) Schematic presentation of the fabrication procedure of the perovskite active layer. (C) Solar cell device structures with the different combinations of passivated interfaces. Downloaded from https://www.science.org at University of California San Diego on November 07, 2024</figDesc><graphic coords="2,45.00,60.00,504.00,382.06" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Photovoltaic performance, crystalline structure, photoluminescence, and compositional depth profiling of perovskite layers made by PEAI cations containing antisolvent. (A) V OC , (B) J SC , (C) FF, and (D) PCE of photovoltaic devices where the perovskite was deposited by antisolvent containing PEAI, Cl-PEAI, and F-PEAI. (E) X-ray diffractograms and (F) Photoluminescence (PL) spectra measured on reference perovskite films and perovskite films deposited by antisolvent containing PEAI, Cl-PEAI, and F-PEAI. (G) Cl 2p and (H) F 1s spectra collected upon etching the perovskite layers for up to 30 s using an argon cluster ion source. Downloaded from https://www.science.org at University of California San Diego on November 07, 2024</figDesc><graphic coords="5,36.83,60.00,520.34,219.19" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Photovoltaic performance, photo-and electroluminescence, and stability of dual modified ionic liquid containing solar cells. (A) V OC , (B) J SC , (C) FF, and (D) PCE of photovoltaic devices in which both interfaces were modified by PEAI, Cl-PEAI, and F-PEAI. (E) J-V characteristics of champion reference and F-PEAI-modified device. (F) PL and (G) electroluminescence measured on reference and dual modified solar cells. (H) Evolution of the PCE of the reference and dual modified solar cells over 2100 min under continuous illumination in N 2 . Downloaded from https://www.science.org at University of California San Diego on November 07, 2024</figDesc><graphic coords="6,36.83,60.00,520.34,218.26" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. S11 .</head><label>S11</label><figDesc>Fig. S11. Photovoltaic performance of dual modified photovoltaic devices. (a) VOC (b) JSC (c) FF and (d) PCE of photovoltaic devices where the both the HTL and ETL interfaces are modified by PEAI, Cl-PEAI and F-PEAI.</figDesc><graphic coords="19,80.95,72.00,433.40,339.60" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. S12 .</head><label>S12</label><figDesc>Fig. S12. Solubility tests of PEAI-cations in the antisolvent. The amount of antisolvent required to dissolve 10 mg of each PEAI-cation.</figDesc><graphic coords="19,148.93,472.54,297.45,223.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. S11 .</head><label>S11</label><figDesc>Fig. S11. Photovoltaic performance of dual modified photovoltaic devices. (a) VOC (b) JSC (c) FF and (d) PCE of photovoltaic devices where the both the HTL and ETL interfaces are modified by PEAI, Cl-PEAI and F-PEAI.</figDesc><graphic coords="19,148.93,472.54,297.45,223.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. S12 .</head><label>S12</label><figDesc>Fig. S12. Solubility tests of PEAI-cations in the antisolvent. The amount of antisolvent required to dissolve 10 mg of each PEAI-cation.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. S13 .</head><label>S13</label><figDesc>Fig. S13. J-V-L measurements of dual modified solar cells. Current density-luminescence (J-V-L) characteristics of ETL+HTL modified solar cells.</figDesc><graphic coords="20,72.00,72.00,412.90,315.95" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. S14 .</head><label>S14</label><figDesc>Fig. S14. Light intensity dependence and photocurrent decay of reference and Cl-PEAI devices. Light intensity dependence of (a) VOC and (b) JSC of reference and Cl-PEAI modified devices. (c) Photocurrent decay of reference and Cl-PEAI modified devices.</figDesc><graphic coords="20,72.00,456.54,451.30,114.15" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. S15 .</head><label>S15</label><figDesc>Fig. S15. Stability characterisation of reference and dual modified solar cells. Performance evolution of (a) VOC (b) JSC (c) FF and (d) PCE of ionic liquid containing photovoltaic devices where both the HTL and ETL interfaces were modified by PEAI, Cl-PEAI and F-PEAI.</figDesc><graphic coords="21,72.00,72.00,481.90,370.20" type="bitmap" /></figure>
@@ -235,23 +235,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgments</head><p>Funding: This project has received funding from the <rs type="funder">European Research Council (ERC)</rs> under the European Union's <rs type="programName">Horizon 2020 research and innovation program</rs> (<rs type="funder">ERC</rs> grant agreement no. <rs type="grantNumber">714067</rs>, ENERGYMAPS) and the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG)</rs> within the framework of <rs type="projectName">SPP</rs> 2196, project <rs type="projectName">PERFECT</rs> <rs type="projectName">PVs</rs> (project no. <rs type="grantNumber">424216076</rs>). G.G. acknowledges the "<rs type="projectName">HY-NANO</rs>" project that has received funding from the <rs type="funder">European Research Council (ERC)</rs></p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_wvXD5w2">
+				<org type="funding" xml:id="_jC5FH63">
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
 				</org>
-				<org type="funding" xml:id="_9yMRHkV">
+				<org type="funding" xml:id="_QheJH4s">
 					<idno type="grant-number">714067</idno>
 				</org>
-				<org type="funded-project" xml:id="_sWasPZH">
+				<org type="funded-project" xml:id="_rS6bvkh">
 					<orgName type="project" subtype="full">SPP</orgName>
 				</org>
-				<org type="funded-project" xml:id="_CQ6RU2d">
+				<org type="funded-project" xml:id="_wwh3DZU">
 					<orgName type="project" subtype="full">PERFECT</orgName>
 				</org>
-				<org type="funded-project" xml:id="_ZVNhNwt">
+				<org type="funded-project" xml:id="_8VQTmVF">
 					<idno type="grant-number">424216076</idno>
 					<orgName type="project" subtype="full">PVs</orgName>
 				</org>
-				<org type="funded-project" xml:id="_dvZSfhE">
+				<org type="funded-project" xml:id="_H8zNptG">
 					<orgName type="project" subtype="full">HY-NANO</orgName>
 				</org>
 			</listOrg>

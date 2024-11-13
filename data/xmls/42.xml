@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Passivation Mechanism Exploiting Surface Dipoles Affords High-Performance Perovskite Solar Cells</title>
-				<funder ref="#_2QdguYW #_9FDkY4t #_yRqXgBZ #_pDzUsYD">
+				<funder ref="#_JfmHPgQ #_vpmHmjg #_pR5wkxB #_M6ScA4W">
 					<orgName type="full">unknown</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Swiss National Science Foundation</orgName>
+					<orgName type="full">Ministry of Science, Research and Technology of Iran</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Ministry of Science, Research and Technology of Iran</orgName>
+					<orgName type="full">Swiss National Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -114,7 +114,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -141,9 +141,9 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. (a) Difference in the surface morphology of films. SEM images from the surface of control and 5 mg of SPG-based films. (b) Schematic illustration of the SPG-based device.</figDesc><graphic coords="2,363.86,420.21,161.24,146.38" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. (a-d) Average photovoltaic parameters of the devices containing the 5 mg SPG-treated (34 devices) and control films (31 devices). See TableS1for the values with standard deviations for the photovoltaic performance parameters derived from I-V curves. (e) EQE measurements for the SPG-based and control devices. (f) I-V curves of champion SPG cell versus control device and evolution of the champion cell's efficiency over time. (g) Stability evolution of the perovskite solar cells. Unencapsulated devices were kept under 1 sun illumination and 52 °C under a nitrogen atmosphere.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. (a) KPFM images of the control (top) and SPG-based film (bottom) with their corresponding AFM topology images. (b) Potential profiles along the indicated line. (c) Schematic illustration of the Az arrangement on the perovskite lattice.</figDesc><graphic coords="4,65.14,69.17,230.63,159.59" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. UPS data of the (a) control film and the (b) SPG-based film. (c) Schematic energy-level diagrams of control and SPG-based films. (d) Schematic illustration of band bending due to the dipoles on the surface of perovskite.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. TRPL decay profile of the SPG-based versus control films.</figDesc><graphic coords="4,325.53,237.20,237.83,131.75" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Interlinked AzPbI 3 chains are responsible for conductivity in this layer. I atoms are purple, and N atoms from Az are shown in blue.The AzPbI 3 structure was made according to Riccardo et al.<ref type="bibr" target="#b27">27</ref> </figDesc><graphic coords="4,66.95,290.21,227.00,372.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. UPS data of the (a) control film and the (b) SPG-based film. (c) Schematic energy-level diagrams of control and SPG-based films. (d) Schematic illustration of band bending due to the dipoles on the surface of perovskite.</figDesc><graphic coords="4,66.95,290.21,227.00,372.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. TRPL decay profile of the SPG-based versus control films.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Interlinked AzPbI 3 chains are responsible for conductivity in this layer. I atoms are purple, and N atoms from Az are shown in blue.The AzPbI 3 structure was made according to Riccardo et al.<ref type="bibr" target="#b27">27</ref> </figDesc><graphic coords="4,325.53,237.20,237.83,131.75" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head></head><label></label><figDesc>, and Table S1 (PDF) ■ AUTHOR INFORMATION Corresponding Authors Paul J. Dyson -Institute of Chemical Sciences and Engineering, Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne CH-1015, Switzerland; orcid.org/0000-0003-3117-3249; Email: paul.dyson@epfl.ch Anders Hagfeldt -Institute of Chemical Sciences and Engineering, Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne CH-1015, Switzerland; orcid.org/0000-0001-6725-8856; Email: anders.hagfeldt@epfl.chS1A passivation mechanism exploiting surface dipoles affords highperformance perovskite solar cells</figDesc></figure>
 			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>https://dx.doi.org/10.1021/jacs.0c01704 J. Am. Chem. Soc. 2020, 142, 11428-11433 Downloaded via UNIV OF CALIFORNIA SAN DIEGO on November 8, 2024 at 06:40:34 (UTC).See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.</p></note>
 			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>https://dx.doi.org/10.1021/jacs.0c01704 J. Am. Chem. Soc. 2020, 142, 11428-11433</p></note>
@@ -154,16 +154,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Authors <rs type="institution">Fatemeh Ansari -Institute of Chemical Sciences and Engineering</rs>, <rs type="institution">Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne CH-1015, Switzerland</rs>; <rs type="affiliation">Institute of Nano Science and Nano Technology, University of Kashan, Kashan, Islamic Republic of Iran Erfan Shirzadi -Institute of Chemical Sciences and Engineering, Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne CH-1015, Switzerland Masoud Salavati-Niasari -Institute of Nano Science and Nano Technology, University of Kashan, Kashan, Islamic Republic of Iran</rs>; orcid.org/<rs type="grantNumber">0000-0002-7356-7249</rs> <rs type="institution">Thomas LaGrange -Interdisciplinary Centre for Electron Microscopy, E ́cole Polytechnique Fedeŕale de Lausanne, Lausanne CH-1015, Switzerland Kazuteru Nonomura -Institute of Chemical Sciences and Engineering</rs>, <rs type="institution">Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne CH-1015, Switzerland Jun-Ho Yum -Institute of Chemical Sciences and Engineering</rs>, <rs type="institution">Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne CH-1015, Switzerland Kevin Sivula -Institute of Chemical Sciences and Engineering</rs>, <rs type="institution">Swiss Federal Institute of Technology Lausanne (EPFL)</rs>, Lausanne CH-1015, Switzerland; orcid.org/<rs type="grantNumber">0000-0002-8458-0270</rs> Shaik M. <rs type="institution">Zakeeruddin -Institute of Chemical Sciences and Engineering</rs>, <rs type="institution">Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne CH-1015, Switzerland Mohammad Khaja Nazeeruddin -Institute of Chemical Sciences and Engineering</rs>, <rs type="institution">Swiss Federal Institute of Technology Lausanne (EPFL)</rs>, Lausanne CH-1015, Switzerland; orcid.org/<rs type="grantNumber">0000-0001-5955-4786</rs> <rs type="institution">Michael Graẗzel -Institute of Chemical Sciences and Engineering</rs>, <rs type="institution">Swiss Federal Institute of Technology Lausanne (EPFL)</rs>, Lausanne CH-1015, Switzerland; orcid.org/<rs type="grantNumber">0000-0002-0068-0195</rs> Complete contact information is available at: <ref type="url" target="https://pubs.acs.org/10.1021/jacs.0c01704">https://pubs.acs.org/10.1021/jacs.0c01704</ref> </p><p>We thank the <rs type="institution">EPFL</rs> and the <rs type="funder">Swiss National Science Foundation</rs> for financial support. We also acknowledge the <rs type="funder">Ministry of Science, Research and Technology of Iran</rs>. We are grateful to <rs type="person">Wenhua Bi</rs> for helping with the XRD and GIWAXS analysis and <rs type="person">Dr. Jovana Milic</rs> for valuable inputs. We also thank <rs type="person">Mr. Antoine Van Muyden</rs> for assistance with graphics.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_2QdguYW">
+				<org type="funding" xml:id="_JfmHPgQ">
 					<idno type="grant-number">0000-0002-7356-7249</idno>
 				</org>
-				<org type="funding" xml:id="_9FDkY4t">
+				<org type="funding" xml:id="_vpmHmjg">
 					<idno type="grant-number">0000-0002-8458-0270</idno>
 				</org>
-				<org type="funding" xml:id="_yRqXgBZ">
+				<org type="funding" xml:id="_pR5wkxB">
 					<idno type="grant-number">0000-0001-5955-4786</idno>
 				</org>
-				<org type="funding" xml:id="_pDzUsYD">
+				<org type="funding" xml:id="_M6ScA4W">
 					<idno type="grant-number">0000-0002-0068-0195</idno>
 				</org>
 			</listOrg>

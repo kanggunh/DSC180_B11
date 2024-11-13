@@ -7,10 +7,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">In Situ Observation of Vapor-Assisted 2D-3D Heterostructure Formation for Stable and Efficient Perovskite Solar Cells</title>
-				<funder ref="#_EZVwaHY #_TWtjtAP">
+				<funder ref="#_ZP7Jqp3 #_w6xbMRs">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_tV7ABka #_jxnKxGQ #_BCcXK3Y">
+				<funder ref="#_VwyTPuM #_NS8TrWs #_kqBxzdq">
 					<orgName type="full">Science and Technology Commission of Shanghai Municipality</orgName>
 				</funder>
 			</titleStmt>
@@ -106,7 +106,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:54+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -154,19 +154,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>This work was financially supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">U1632265</rs>, <rs type="grantNumber">51802194</rs>) and the <rs type="funder">Science and Technology Commission of Shanghai Municipality</rs> (<rs type="grantNumber">14JC1493300</rs>, <rs type="grantNumber">17YF1412000</rs> and <rs type="grantNumber">19ZR1476900</rs>). We thank all the team members at BL14B1 of SSRF.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_EZVwaHY">
+				<org type="funding" xml:id="_ZP7Jqp3">
 					<idno type="grant-number">U1632265</idno>
 				</org>
-				<org type="funding" xml:id="_TWtjtAP">
+				<org type="funding" xml:id="_w6xbMRs">
 					<idno type="grant-number">51802194</idno>
 				</org>
-				<org type="funding" xml:id="_tV7ABka">
+				<org type="funding" xml:id="_VwyTPuM">
 					<idno type="grant-number">14JC1493300</idno>
 				</org>
-				<org type="funding" xml:id="_jxnKxGQ">
+				<org type="funding" xml:id="_NS8TrWs">
 					<idno type="grant-number">17YF1412000</idno>
 				</org>
-				<org type="funding" xml:id="_BCcXK3Y">
+				<org type="funding" xml:id="_kqBxzdq">
 					<idno type="grant-number">19ZR1476900</idno>
 				</org>
 			</listOrg>

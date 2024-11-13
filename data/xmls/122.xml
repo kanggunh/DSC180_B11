@@ -7,21 +7,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Inactive (PbI 2 ) 2 RbCl stabilizes perovskite films for efficient solar cells</title>
-				<funder ref="#_XgvHEYx #_kmJaXXM #_yNaKKxc">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
+				<funder ref="#_Vbhxg5s">
+					<orgName type="full">Innovation-Driven Project of Central South University</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">Shanghai Synchrotron Radiation Facility</orgName>
-					<orgName type="abbreviated">SSRF</orgName>
+				<funder ref="#_TpkehGW #_36XnbF5 #_vMTHKwA">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Shanghai Institute of Applied Physics, Chinese Academy of Sciences</orgName>
 				</funder>
-				<funder ref="#_jxRg9us">
-					<orgName type="full">Innovation-Driven Project of Central South University</orgName>
-				</funder>
-				<funder ref="#_qaxxnDZ">
+				<funder ref="#_6NzNPa4">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Shanghai Synchrotron Radiation Facility</orgName>
+					<orgName type="abbreviated">SSRF</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -272,7 +272,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -325,19 +325,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>We thank <rs type="person">Y. Yang</rs> from the <rs type="funder">Shanghai Synchrotron Radiation Facility (SSRF)</rs>, the <rs type="funder">Shanghai Institute of Applied Physics, Chinese Academy of Sciences</rs> for GIWAXIS measurements; we also thank <rs type="person">W. Ke</rs> from <rs type="affiliation">Wuhan University</rs> for discussions regarding the PbI 2 complex, and <rs type="person">Z. Chu</rs> from the <rs type="affiliation">Institute of Semiconductors, Chinese Academy of Sciences</rs>, for helping with the electroluminescence measurements. Funding: J.Y. was supported by <rs type="funder">National Key Research and Development Program of China</rs> (<rs type="grantNumber">2020YFB1506400</rs>) and <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">61925405</rs>, <rs type="grantNumber">61634001</rs>). H.D. was supported by <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">61922077</rs>) and Y.Y. was supported by <rs type="funder">Innovation-Driven Project of Central South University</rs> (<rs type="grantNumber">2020CX006</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_qaxxnDZ">
+				<org type="funding" xml:id="_6NzNPa4">
 					<idno type="grant-number">2020YFB1506400</idno>
 				</org>
-				<org type="funding" xml:id="_XgvHEYx">
+				<org type="funding" xml:id="_TpkehGW">
 					<idno type="grant-number">61925405</idno>
 				</org>
-				<org type="funding" xml:id="_kmJaXXM">
+				<org type="funding" xml:id="_36XnbF5">
 					<idno type="grant-number">61634001</idno>
 				</org>
-				<org type="funding" xml:id="_yNaKKxc">
+				<org type="funding" xml:id="_vMTHKwA">
 					<idno type="grant-number">61922077</idno>
 				</org>
-				<org type="funding" xml:id="_jxRg9us">
+				<org type="funding" xml:id="_Vbhxg5s">
 					<idno type="grant-number">2020CX006</idno>
 				</org>
 			</listOrg>

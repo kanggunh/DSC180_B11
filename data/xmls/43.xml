@@ -7,29 +7,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Chemical Polishing of Perovskite Surface Enhances Photovoltaic Performances</title>
-				<funder ref="#_7jhAhtY #_nxr8yq8">
-					<orgName type="full">Thomas P. Russell -Materials Sciences Division</orgName>
+				<funder ref="#_DCwGN8F #_729Rk52 #_mAYDTCg #_AKrWGvV">
+					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_DAxSPTp">
+				<funder ref="#_8PQPTVk">
 					<orgName type="full">Beijing Natural Science Foundation</orgName>
 				</funder>
-				<funder ref="#_nZVng9h #_zT6rvGt #_u9YxpNe #_jWvG7AQ">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_w26b5Kp">
+					<orgName type="full">China Postdoctoral Science Foundation</orgName>
+				</funder>
+				<funder ref="#_FSmgmCU #_9xH9brD">
+					<orgName type="full">National Key R&amp;D Program of China</orgName>
+				</funder>
+				<funder ref="#_fkjE42Z #_YDgTBCe">
+					<orgName type="full">Thomas P. Russell -Materials Sciences Division</orgName>
+				</funder>
+				<funder ref="#_5JuugRq #_QhwpJUp">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">American Chemical Society Qihuang Gong -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter</orgName>
 				</funder>
-				<funder ref="#_nJBCz8G #_xZDWvny">
-					<orgName type="full">National Key R&amp;D Program of China</orgName>
-				</funder>
-				<funder ref="#_GfA88JX #_nj7tgMZ">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_vsfQ4zn">
+				<funder ref="#_cBSf8Mq">
 					<orgName type="full">R&amp;D Fruit Fund</orgName>
-				</funder>
-				<funder ref="#_7AKyeVV">
-					<orgName type="full">China Postdoctoral Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -380,7 +380,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -437,43 +437,43 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Lichen <rs type="institution">Zhao -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter, Peking University</rs>, Beijing 100871, China; orcid.org/0000-0003-2537-6963 <rs type="institution">Qiuyang Li -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter</rs>, <rs type="affiliation">Peking University, Beijing 100871, China Cheng-Hung Hou -Research Center for Applied Sciences, Academia Sinica, Taipei</rs> <rs type="grantNumber">11529</rs>, Taiwan; orcid.org/<rs type="grantNumber">0000-0002-5150-7106</rs> <rs type="institution">Shunde Li -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter</rs>, <rs type="affiliation">Peking University, Beijing 100871, China Xiaoyu Yang -State Key Laboratory for Artificial Microstructure</rs> and <rs type="institution">Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter, Peking University</rs>, Beijing 100871, China; orcid.org/<rs type="grantNumber">0000-0001-5840-4057</rs> Jiang Wu -<rs type="affiliation">Peking University Yangtze Delta Institute of Optoelectronics, Nantong, Jiangsu 226010, China Siyang Zhang -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter, Peking University, Beijing 100871, China Qin Hu -School of Microelectronics, University of Science and Technology of China, Hefei, Anhui 230026, China</rs>; orcid.org/0000-0003-3089-1070 <rs type="institution">Yanju Wang -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter</rs>, <rs type="affiliation">Peking University, Beijing 100871, China Yuzhuo Zhang -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter, Peking University, Beijing 100871, China Yufeng Jiang -Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States Shuang Jia -International Center for Quantum Materials, School of Physics, Peking University, Beijing 100871, China Jing-Jong Shyue -Research Center for Applied Sciences, Academia Sinica, Taipei</rs> <rs type="grantNumber">11529</rs>, Taiwan; orcid.org/<rs type="grantNumber">0000-0002-8508-659X</rs> <rs type="funder">Thomas P. Russell -Materials Sciences Division</rs>, <rs type="affiliation">Lawrence Berkeley National Laboratory, Berkeley, California 94720, United States</rs>; <rs type="person">Polymer Science</rs> and <rs type="affiliation">Engineering Department, University of Massachusetts, Amherst, Massachusetts 01003, United States</rs>; orcid.org/<rs type="grantNumber">0000-0001-6384-5826</rs> Journal of the <rs type="funder">American Chemical Society Qihuang Gong -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter</rs>, <rs type="affiliation">Peking University, Beijing 100871, China; Peking University Yangtze Delta Institute of Optoelectronics, Nantong, Jiangsu 226010, China; Collaborative Innovation Center of Extreme Optics, Shanxi University, Taiyuan, Shanxi 030006, China Xiaoyong Hu -State Key Laboratory for Artificial Microstructure and Mesoscopic Physics, School of Physics, Frontiers Science Center for Nano-optoelectronics &amp; Collaborative Innovation Center of Quantum Matter, Peking University, Beijing 100871, China; Peking University Yangtze Delta Institute of Optoelectronics, Nantong, Jiangsu 226010, China; Collaborative Innovation Center of Extreme Optics, Shanxi University, Taiyuan, Shanxi 030006</rs>, <rs type="person">China Complete</rs> contact information is available at: <ref type="url" target="https://pubs.acs.org/10.1021/jacs.1c10842">https://pubs.acs.org/10.1021/jacs.1c10842</ref> ■ ACKNOWLEDGMENTS This work was financially supported by <rs type="funder">Beijing Natural Science Foundation</rs> (<rs type="grantNumber">JQ21005</rs>), the <rs type="funder">National Key R&amp;D Program of China</rs> (<rs type="grantNumber">2021YFB3800100</rs>, <rs type="grantNumber">2021YFB3800101</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">91733301</rs> and <rs type="grantNumber">21905111</rs>), the <rs type="funder">China Postdoctoral Science Foundation</rs> (<rs type="grantNumber">2020M670036</rs>) and the <rs type="funder">R&amp;D Fruit Fund</rs> (<rs type="grantNumber">20210001</rs>). We acknowledge the GIWAXD measurements at beamline 7.3.3 of <rs type="affiliation">Advanced Light Source</rs>, <rs type="institution">Lawrence Berkeley National Laboratory (LBNL)</rs>. We also acknowledge <rs type="person">Dr. Yan Guan</rs> from <rs type="affiliation">Analytical Instrumentation Center, College of Chemistry and Molecular Engineering, Peking University</rs> for her kind assistance with confocal PL measurements.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_nZVng9h">
+				<org type="funding" xml:id="_DCwGN8F">
 					<idno type="grant-number">11529</idno>
 				</org>
-				<org type="funding" xml:id="_zT6rvGt">
+				<org type="funding" xml:id="_729Rk52">
 					<idno type="grant-number">0000-0002-5150-7106</idno>
 				</org>
-				<org type="funding" xml:id="_u9YxpNe">
+				<org type="funding" xml:id="_mAYDTCg">
 					<idno type="grant-number">0000-0001-5840-4057</idno>
 				</org>
-				<org type="funding" xml:id="_jWvG7AQ">
+				<org type="funding" xml:id="_AKrWGvV">
 					<idno type="grant-number">11529</idno>
 				</org>
-				<org type="funding" xml:id="_7jhAhtY">
+				<org type="funding" xml:id="_fkjE42Z">
 					<idno type="grant-number">0000-0002-8508-659X</idno>
 				</org>
-				<org type="funding" xml:id="_nxr8yq8">
+				<org type="funding" xml:id="_YDgTBCe">
 					<idno type="grant-number">0000-0001-6384-5826</idno>
 				</org>
-				<org type="funding" xml:id="_DAxSPTp">
+				<org type="funding" xml:id="_8PQPTVk">
 					<idno type="grant-number">JQ21005</idno>
 				</org>
-				<org type="funding" xml:id="_nJBCz8G">
+				<org type="funding" xml:id="_FSmgmCU">
 					<idno type="grant-number">2021YFB3800100</idno>
 				</org>
-				<org type="funding" xml:id="_xZDWvny">
+				<org type="funding" xml:id="_9xH9brD">
 					<idno type="grant-number">2021YFB3800101</idno>
 				</org>
-				<org type="funding" xml:id="_GfA88JX">
+				<org type="funding" xml:id="_5JuugRq">
 					<idno type="grant-number">91733301</idno>
 				</org>
-				<org type="funding" xml:id="_nj7tgMZ">
+				<org type="funding" xml:id="_QhwpJUp">
 					<idno type="grant-number">21905111</idno>
 				</org>
-				<org type="funding" xml:id="_7AKyeVV">
+				<org type="funding" xml:id="_w26b5Kp">
 					<idno type="grant-number">2020M670036</idno>
 				</org>
-				<org type="funding" xml:id="_vsfQ4zn">
+				<org type="funding" xml:id="_cBSf8Mq">
 					<idno type="grant-number">20210001</idno>
 				</org>
 			</listOrg>

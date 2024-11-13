@@ -7,20 +7,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Solar Cells Reporting Summary</title>
-				<funder ref="#_9HXYy9z">
+				<funder ref="#_4B7zPJC #_hCVxsHG">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_cmgDSDK">
 					<orgName type="full">Research Grant Council of Hong Kong (General Research Fund</orgName>
 				</funder>
-				<funder ref="#_u53yPPS #_jbtJG8y #_xdB3gJV">
+				<funder ref="#_wcS9FhY #_aHQYTZr #_hzNW5MC">
 					<orgName type="full">Hong Kong Polytechnic University</orgName>
 				</funder>
-				<funder ref="#_8FFsjTa">
+				<funder ref="#_4rPSpfb">
 					<orgName type="full">National High Technology Research and Development Program</orgName>
 				</funder>
-				<funder ref="#_DBPeKSy">
+				<funder ref="#_kfg7agM">
 					<orgName type="full">Natural Science Foundation of Hubei Province</orgName>
-				</funder>
-				<funder ref="#_VH3832r #_zpxVzCC">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -318,7 +318,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -401,29 +401,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>JCYJ20200109105003940) and the funding provided by the <rs type="funder">Hong Kong Polytechnic University</rs> (Project Code: <rs type="grantNumber">1-ZE29</rs>, <rs type="grantNumber">1-BBAS</rs> and the <rs type="grantName">Sir Sze-yuen Chung Endowed Professorship Fund</rs> (<rs type="grantNumber">8-8480</rs>)). G.F. acknowledges support of the <rs type="funder">National High Technology Research and Development Program</rs> (No. <rs type="grantNumber">2015AA050601</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (No. <rs type="grantNumber">11674252</rs> and <rs type="grantNumber">62074117</rs>) and the <rs type="funder">Natural Science Foundation of Hubei Province</rs> (No. <rs type="grantNumber">2019AAA020</rs>). X.L. and M.Q. acknowledge financial support from the <rs type="funder">Research Grant Council of Hong Kong (General Research Fund</rs> No. <rs type="grantNumber">14314216</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_u53yPPS">
+				<org type="funding" xml:id="_wcS9FhY">
 					<idno type="grant-number">1-ZE29</idno>
 				</org>
-				<org type="funding" xml:id="_jbtJG8y">
+				<org type="funding" xml:id="_aHQYTZr">
 					<idno type="grant-number">1-BBAS</idno>
 					<orgName type="grant-name">Sir Sze-yuen Chung Endowed Professorship Fund</orgName>
 				</org>
-				<org type="funding" xml:id="_xdB3gJV">
+				<org type="funding" xml:id="_hzNW5MC">
 					<idno type="grant-number">8-8480</idno>
 				</org>
-				<org type="funding" xml:id="_8FFsjTa">
+				<org type="funding" xml:id="_4rPSpfb">
 					<idno type="grant-number">2015AA050601</idno>
 				</org>
-				<org type="funding" xml:id="_VH3832r">
+				<org type="funding" xml:id="_4B7zPJC">
 					<idno type="grant-number">11674252</idno>
 				</org>
-				<org type="funding" xml:id="_zpxVzCC">
+				<org type="funding" xml:id="_hCVxsHG">
 					<idno type="grant-number">62074117</idno>
 				</org>
-				<org type="funding" xml:id="_DBPeKSy">
+				<org type="funding" xml:id="_kfg7agM">
 					<idno type="grant-number">2019AAA020</idno>
 				</org>
-				<org type="funding" xml:id="_9HXYy9z">
+				<org type="funding" xml:id="_cmgDSDK">
 					<idno type="grant-number">14314216</idno>
 				</org>
 			</listOrg>

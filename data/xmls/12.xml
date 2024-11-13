@@ -7,31 +7,31 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Record Open-Circuit Voltage Wide-Bandgap Perovskite Solar Cells Utilizing 2D/3D Perovskite Heterostructure</title>
-				<funder>
-					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG)</orgName>
-				</funder>
-				<funder ref="#_hYVJAr8">
-					<orgName type="full">German Federal Ministry for Research and Education (BMBF)</orgName>
-				</funder>
-				<funder ref="#_jSQQffz">
-					<orgName type="full">PeroSol</orgName>
+				<funder ref="#_sVk8RwX">
+					<orgName type="full">European Union</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Science and Technology of Nanostructures</orgName>
 					<orgName type="abbreviated">STN</orgName>
 				</funder>
-				<funder ref="#_6EvRhGS">
-					<orgName type="full">Initiating and Networking funding of the Helmholtz Association (HYIG of U.W.P.</orgName>
-				</funder>
-				<funder ref="#_CzRpE5k">
-					<orgName type="full">European Union</orgName>
-				</funder>
-				<funder ref="#_R2RWh7A">
-					<orgName type="full">INST</orgName>
-				</funder>
-				<funder ref="#_PkhRJNR">
+				<funder ref="#_qXcHczD">
 					<orgName type="full">Helmholtz Energy Materials Foundry</orgName>
 					<orgName type="abbreviated">HEMF</orgName>
+				</funder>
+				<funder ref="#_WWzbJrN">
+					<orgName type="full">INST</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG)</orgName>
+				</funder>
+				<funder ref="#_BF4yHmY">
+					<orgName type="full">Initiating and Networking funding of the Helmholtz Association (HYIG of U.W.P.</orgName>
+				</funder>
+				<funder ref="#_YRuUYYb">
+					<orgName type="full">PeroSol</orgName>
+				</funder>
+				<funder ref="#_SxgQcEn">
+					<orgName type="full">German Federal Ministry for Research and Education (BMBF)</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -179,7 +179,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -239,25 +239,25 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors are grateful to the great spirit of the <rs type="institution">Taskforce Perovskite Photovoltaics at KIT</rs> and the scientific discussions with <rs type="person">Ihteaz M. Hossain</rs>, <rs type="person">Amjad Farooq</rs>, <rs type="person">Fabian Schackmar</rs>, and <rs type="person">Helge Eggers. Marc C. Weidman</rs>, and <rs type="person">Christoph Sürgers</rs> were very enlightening. The authors thank <rs type="person">Emilio Gutiérrez-Partida</rs> for EQE measurements and <rs type="person">Simon Geisert</rs> for AFM measurements. The financial support by the <rs type="funder">German Federal Ministry for Research and Education (BMBF)</rs> through the projects <rs type="projectName">PRINTPERO</rs> (<rs type="grantNumber">03SF0557A</rs>) and <rs type="funder">PeroSol</rs> (<rs type="grantNumber">03SF0483</rs>), the <rs type="funder">Initiating and Networking funding of the Helmholtz Association (HYIG of U.W.P.</rs> (<rs type="grantNumber">VH-NG-1148</rs>); <rs type="programName">Recruitment Initiative</rs> of B.S.R.; the <rs type="funder">Helmholtz Energy Materials Foundry (HEMF)</rs>; <rs type="projectName">PEROSEED</rs> (<rs type="grantNumber">ZT-0024</rs>); the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon2020 Programme</rs> (ACTPHAST); and the <rs type="funder">Science and Technology of Nanostructures (STN)</rs> and <rs type="person">From Matter</rs> to Materials and Life (MML) research programs) as well as the <rs type="institution">Karlsruhe School of Optics &amp; Photonics (KSOP)</rs> is gratefully acknowledged. D.H. and L.W. thank the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG)</rs> for funding the <rs type="institution">MFE lab instrumentation</rs> in project GZ: <rs type="funder">INST</rs> <rs type="grantNumber">121384/64-1 FUGG</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_hYVJAr8">
+				<org type="funded-project" xml:id="_SxgQcEn">
 					<idno type="grant-number">03SF0557A</idno>
 					<orgName type="project" subtype="full">PRINTPERO</orgName>
 				</org>
-				<org type="funding" xml:id="_jSQQffz">
+				<org type="funding" xml:id="_YRuUYYb">
 					<idno type="grant-number">03SF0483</idno>
 				</org>
-				<org type="funding" xml:id="_6EvRhGS">
+				<org type="funding" xml:id="_BF4yHmY">
 					<idno type="grant-number">VH-NG-1148</idno>
 					<orgName type="program" subtype="full">Recruitment Initiative</orgName>
 				</org>
-				<org type="funded-project" xml:id="_PkhRJNR">
+				<org type="funded-project" xml:id="_qXcHczD">
 					<idno type="grant-number">ZT-0024</idno>
 					<orgName type="project" subtype="full">PEROSEED</orgName>
 				</org>
-				<org type="funding" xml:id="_CzRpE5k">
+				<org type="funding" xml:id="_sVk8RwX">
 					<orgName type="program" subtype="full">Horizon2020 Programme</orgName>
 				</org>
-				<org type="funding" xml:id="_R2RWh7A">
+				<org type="funding" xml:id="_WWzbJrN">
 					<idno type="grant-number">121384/64-1 FUGG</idno>
 				</org>
 			</listOrg>

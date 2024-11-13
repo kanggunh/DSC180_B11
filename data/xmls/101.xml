@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Side-Chain Engineering on Dopant-Free Hole-Transporting Polymers toward Highly Efficient Perovskite Solar Cells (20.19%)</title>
-				<funder>
-					<orgName type="full">Peacock Team</orgName>
-				</funder>
-				<funder ref="#_vm63p8U #_Hxx8Gbz">
-					<orgName type="full">Ministry of Science and Technology of the People&apos;s Republic of China</orgName>
-				</funder>
-				<funder ref="#_fNwqxxs #_Yup9npK">
-					<orgName type="full">Shenzhen Science and Technology Innovation Committee</orgName>
-				</funder>
-				<funder ref="#_a4ezCNA">
+				<funder ref="#_uHEWPe9">
 					<orgName type="full">Shenzhen Development and Reform Committee</orgName>
+				</funder>
+				<funder ref="#_Zx8bAfe #_2gMv8Hj">
+					<orgName type="full">Ministry of Science and Technology of the People&apos;s Republic of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Key Research and Development Project</orgName>
 				</funder>
 				<funder>
+					<orgName type="full">Peacock Team</orgName>
+				</funder>
+				<funder>
 					<orgName type="full">Shenzhen Engineering R&amp;D Center for Flexible Solar Cells</orgName>
+				</funder>
+				<funder ref="#_xZSC3Zv #_T4nqCsJ">
+					<orgName type="full">Shenzhen Science and Technology Innovation Committee</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -170,7 +170,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -247,19 +247,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements L.Z.Z. and C.L. contributed equally to this work. This work was supported by the <rs type="funder">National Key Research and Development Project</rs> funding from the <rs type="funder">Ministry of Science and Technology of the People's Republic of China</rs> (Grant Nos. <rs type="grantNumber">2016YFA0202400</rs> and <rs type="grantNumber">2016YFA0202404</rs>), the <rs type="funder">Peacock Team</rs> Project funding from <rs type="funder">Shenzhen Science and Technology Innovation Committee</rs> (Grant No. <rs type="grantNumber">KQTD2015033110182370</rs>), the <rs type="funder">Shenzhen Engineering R&amp;D Center for Flexible Solar Cells</rs> project funding from <rs type="funder">Shenzhen Development and Reform Committee</rs> (Grant No. <rs type="grantNumber">2019-126</rs>), and the Fundamental Research Project funding from <rs type="funder">Shenzhen Science and Technology Innovation Committee</rs> (Grant No. <rs type="grantNumber">JCYJ20180302174321291</rs>). The authors would like to appreciate the help from <rs type="person">Prof. Xugang Guo</rs> and <rs type="person">Shengbin Shi</rs> for GPC measurement.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_vm63p8U">
+				<org type="funding" xml:id="_Zx8bAfe">
 					<idno type="grant-number">2016YFA0202400</idno>
 				</org>
-				<org type="funding" xml:id="_Hxx8Gbz">
+				<org type="funding" xml:id="_2gMv8Hj">
 					<idno type="grant-number">2016YFA0202404</idno>
 				</org>
-				<org type="funding" xml:id="_fNwqxxs">
+				<org type="funding" xml:id="_xZSC3Zv">
 					<idno type="grant-number">KQTD2015033110182370</idno>
 				</org>
-				<org type="funding" xml:id="_a4ezCNA">
+				<org type="funding" xml:id="_uHEWPe9">
 					<idno type="grant-number">2019-126</idno>
 				</org>
-				<org type="funding" xml:id="_Yup9npK">
+				<org type="funding" xml:id="_T4nqCsJ">
 					<idno type="grant-number">JCYJ20180302174321291</idno>
 				</org>
 			</listOrg>

@@ -7,11 +7,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">The Passivated Emitter and Rear Cell (PERC): From conception to mass production</title>
+				<funder ref="#_rS4BBpr">
+					<orgName type="full">Australian Renewable Energy Agency (ARENA)</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">Australian Government</orgName>
-				</funder>
-				<funder ref="#_hcG9wH3">
-					<orgName type="full">Australian Renewable Energy Agency (ARENA)</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -53,7 +53,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -97,7 +97,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgement</head><p>The <rs type="institution">Australian Centre for Advanced Photovoltaics</rs> is supported by the <rs type="funder">Australian Government</rs> through the <rs type="funder">Australian Renewable Energy Agency (ARENA)</rs> (<rs type="grantNumber">SRI-001</rs>). Responsibility for the views, information or advice expressed herein is not accepted by the <rs type="funder">Australian Government</rs>. The author thanks the many colleagues who contributed to PERC cell development within his group, notably <rs type="person">Aihua Wang</rs>, <rs type="person">Andrew Blakers</rs>, <rs type="person">Jianhua Zhao</rs> and <rs type="person">Stuart Wenham</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_hcG9wH3">
+				<org type="funding" xml:id="_rS4BBpr">
 					<idno type="grant-number">SRI-001</idno>
 				</org>
 			</listOrg>

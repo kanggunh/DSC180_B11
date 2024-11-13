@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Inhibition of defect-induced α-to-δ phase transition for efficient and stable formamidinium perovskite solar cells</title>
-				<funder ref="#_6SAN9fZ">
-					<orgName type="full">Shenzhen Fundamental Research Program</orgName>
-				</funder>
-				<funder ref="#_QN6jvwq">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_vmehDWa">
-					<orgName type="full">Guangdong Basic and Applied Basic Research Foundation</orgName>
-				</funder>
-				<funder ref="#_fU4jQrC">
-					<orgName type="full">Sun Yat-sen University</orgName>
-				</funder>
-				<funder ref="#_KSedNU3">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
 				<funder>
 					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_6evYDbR">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_AKrmRdj">
+					<orgName type="full">Guangdong Basic and Applied Basic Research Foundation</orgName>
+				</funder>
+				<funder ref="#_hece9Gc">
+					<orgName type="full">Shenzhen Fundamental Research Program</orgName>
+				</funder>
+				<funder ref="#_gAmgkkS">
+					<orgName type="full">Sun Yat-sen University</orgName>
+				</funder>
+				<funder ref="#_ueJXxVG">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -317,7 +317,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -390,19 +390,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors would like to thank <rs type="funder">Shenzhen Fundamental Research Program</rs> (Grant No. <rs type="grantNumber">JCYJ20200109142425294</rs>, P.G), the <rs type="funder">National Natural Science Foundation of China</rs> (Grant No.<rs type="grantNumber">22005354</rs>, J.X.), and <rs type="funder">Guangdong Basic and Applied Basic Research Foundation</rs> (Grant No. <rs type="grantNumber">2019A1515110905</rs>, J.X.) for financial support. <rs type="funder">Fundamental Research Funds for the Central Universities</rs>, <rs type="funder">Sun Yat-sen University</rs> (Grant Nos. <rs type="grantNumber">22qntd0205</rs> and <rs type="grantNumber">23qnpy04</rs>, J.X. and S.Z.). We also acknowledge the use of computing resources from the Tianhe-2 Supercomputer.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_6SAN9fZ">
+				<org type="funding" xml:id="_hece9Gc">
 					<idno type="grant-number">JCYJ20200109142425294</idno>
 				</org>
-				<org type="funding" xml:id="_KSedNU3">
+				<org type="funding" xml:id="_ueJXxVG">
 					<idno type="grant-number">22005354</idno>
 				</org>
-				<org type="funding" xml:id="_vmehDWa">
+				<org type="funding" xml:id="_AKrmRdj">
 					<idno type="grant-number">2019A1515110905</idno>
 				</org>
-				<org type="funding" xml:id="_fU4jQrC">
+				<org type="funding" xml:id="_gAmgkkS">
 					<idno type="grant-number">22qntd0205</idno>
 				</org>
-				<org type="funding" xml:id="_QN6jvwq">
+				<org type="funding" xml:id="_6evYDbR">
 					<idno type="grant-number">23qnpy04</idno>
 				</org>
 			</listOrg>

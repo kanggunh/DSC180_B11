@@ -7,20 +7,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Strain engineering in perovskite solar cells and its impacts on carrier dynamics</title>
-				<funder ref="#_8G4B8B7 #_q4k3axd">
-					<orgName type="full">NSFC</orgName>
-				</funder>
-				<funder ref="#_ZqQGHpN #_CQyfzhV">
-					<orgName type="full">National Key Research and Development Program of China</orgName>
-				</funder>
-				<funder ref="#_kX8MqDJ">
-					<orgName type="full">Project of State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology</orgName>
-				</funder>
-				<funder ref="#_eHyw3Ww #_D75ejbj">
+				<funder ref="#_qewXbbY #_u9danuj">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_kDTu3Ah #_hZNJ4xr">
+				<funder ref="#_ngg2dUW #_egEqfF6">
+					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_aDwYXmz #_nRHteNX">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_r9AtzAY #_hGS49YD">
+					<orgName type="full">NSFC</orgName>
+				</funder>
+				<funder ref="#_U4Xc33J">
+					<orgName type="full">Project of State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Program for JLU Science and Technology Innovative Research Team</orgName>
@@ -341,7 +341,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -372,32 +372,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>We acknowledge funding support from <rs type="funder">National Key Research and Development Program of China</rs> Grant No. <rs type="grantNumber">2016YFB0700700</rs>, <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51673025</rs> and <rs type="grantNumber">51672008</rs>), and the <rs type="programName">Young Talent Thousand Program</rs>. L.Z. acknowledges the support of the <rs type="funder">NSFC</rs> (Grant <rs type="grantNumber">61722403</rs> and <rs type="grantNumber">11674121</rs>), <rs type="funder">National Key Research and Development Program of China</rs> (Grant <rs type="grantNumber">2016YFB0201204</rs>), and <rs type="funder">Program for JLU Science and Technology Innovative Research Team</rs>. P.C. acknowledges the support of the <rs type="funder">Project of State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology</rs> under Grant <rs type="grantNumber">ZDKT18-01</rs>. Calculations were performed in part at <rs type="institution">High Performance Computing Center of Jilin University</rs>. S.Y. and B.H.</p><p>appreciate <rs type="institution">Shenzhen Peacock Plan</rs> (<rs type="grantNumber">KQTD2016053015544057</rs>) and <rs type="person">Nanshan Pilot Plan</rs> (<rs type="grantNumber">LHTD20170001</rs>). We appreciate the insightful technical discussion and experimental support with <rs type="person">Mr. Gang Tang</rs> and <rs type="person">Mr. Yizhou Zhao</rs>. We would like to thank <rs type="person">Enli Technology</rs> for providing the depth-dependent PL measurement and EQE measurement.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_ZqQGHpN">
+				<org type="funding" xml:id="_ngg2dUW">
 					<idno type="grant-number">2016YFB0700700</idno>
 				</org>
-				<org type="funding" xml:id="_kDTu3Ah">
+				<org type="funding" xml:id="_aDwYXmz">
 					<idno type="grant-number">51673025</idno>
 				</org>
-				<org type="funding" xml:id="_hZNJ4xr">
+				<org type="funding" xml:id="_nRHteNX">
 					<idno type="grant-number">51672008</idno>
 					<orgName type="program" subtype="full">Young Talent Thousand Program</orgName>
 				</org>
-				<org type="funding" xml:id="_8G4B8B7">
+				<org type="funding" xml:id="_r9AtzAY">
 					<idno type="grant-number">61722403</idno>
 				</org>
-				<org type="funding" xml:id="_q4k3axd">
+				<org type="funding" xml:id="_hGS49YD">
 					<idno type="grant-number">11674121</idno>
 				</org>
-				<org type="funding" xml:id="_CQyfzhV">
+				<org type="funding" xml:id="_egEqfF6">
 					<idno type="grant-number">2016YFB0201204</idno>
 				</org>
-				<org type="funding" xml:id="_kX8MqDJ">
+				<org type="funding" xml:id="_U4Xc33J">
 					<idno type="grant-number">ZDKT18-01</idno>
 				</org>
-				<org type="funding" xml:id="_eHyw3Ww">
+				<org type="funding" xml:id="_qewXbbY">
 					<idno type="grant-number">KQTD2016053015544057</idno>
 				</org>
-				<org type="funding" xml:id="_D75ejbj">
+				<org type="funding" xml:id="_u9danuj">
 					<idno type="grant-number">LHTD20170001</idno>
 				</org>
 			</listOrg>

@@ -7,39 +7,39 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Perovskite Thin Film and Device Fabrication. For the preparation of FA-based (FAPbI 3 ) x (MAPbBr 3 ) 1-x perovskite (x equals to 0.94 in the precursor) thin film, the PbI 2 solution was prepared by dissolving 1.4 mM PbI 2 into 1 mL DMF/DMSO mixed solvent (v/v 94/6). The FAI/MABr/MACl solution was prepared by dissolving 70 mg FAI, 3 mg MABr and 11 mg MACl into 1 mL IPA. The solutions should be stirred overnight before use. the PbI 2 solution was spin-coated at 1500 rpm for 30 s and annealed at 70 °C for 1 min. And then, the FAI/MABr/MACl solution was spin-coated on the substrate at 1800 rpm for 30 s, followed by pre-annealing inside the N 2 glove box at 90 °C for 1 min and annealing outside the glove box at 150 °C for 10 min with 40% humidity. For the preparation of all-inorganic CsPbI 2 Br perovskite thin film, the precursor solution was prepared by dissolving 0.5 mM PbI 2 , 0.5 mM PbBr 2 and 1 mM CsI in 250 µL DMSO and 750 µL DMF. The perovskite solution was spin-coated on the preheated substrate (70 °C) at 2000 rpm for 35 s, to which 0.1 mL of IPA was dropped after 15 s. The spin -coated film was heat-treated at 65 °C for 1 min, followed by 260 °C for 10 min. To prepare perovskite thin films with the conjugated organic ammoniums, 5 mM PRA/IPA:CB, PRMA/IPA:CB or PREA/IPA:CB solution was drop casted at 4000 rpm on the as-fabricated perovskite thin film noted above. The volume ratio of IPA and CB is 1:1. The film was annealed at 100 °C for 3 min. Perovskite solar cells were fabricated with the following device structure: indium tin oxide (ITO)/SnO 2 /(FAPbI 3 ) x (MAPbBr 3 ) 1-x /Spiro-OMeTAD/Ag or Au. The ITO glass was pre-cleaned in an ultrasonic bath of acetone and isopropanol and treated in ultraviolet-ozone for 20 min. A thin layer (ca. 30 nm) of SnO 2 was spin-coated twice onto the ITO glass and baked at 180 °C for 60 min. SnO 2 solution was diluted in water (2 mg mL -1 ) before spin-coating. After cooling to room temperature, the glass/ITO/SnO 2 substrates were transferred into a nitrogen glove box, followed by the deposition of the perovskite layer as noted above. For CsFAMAPbI 3 -based perovskite devices, the PbI 2 solution was prepared by dissolving 1.4 mM PbI 2 and 0.07mM CsI into 1 mL DMF/DMSO mixed solvent (v/v 94/6). The FAI/MACl solution was prepared by dissolving 80 mg FAI and 12 mg MACl into 1 mL IPA. The Spiro-OMeTAD solution [60mg Spiro-OMeTAD in 700 µL CB with 25.5 µL t-BP, 15.5 µL Li-TFSI (520 mg/mL in ACN) and 12.5 µL FK209 (375 mg/mL in ACN)], or PTAA solution for stability test [40 mg/mL; in CB with 10% TPFB] was spun onto the perovskite film as a hole conductor. The devices were completed by evaporating 100 nm gold or silver in a vacuum chamber (base pressure, 5 × 10 -4 Pa)</title>
+				<funder ref="#_vrwyEPM">
+					<orgName type="full">Solar Energy Technologies Office</orgName>
+				</funder>
+				<funder ref="#_cGTcguh">
+					<orgName type="full">University of Toledo</orgName>
+				</funder>
+				<funder ref="#_xFrbsZV">
+					<orgName type="full">ANSTO</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Australian Synchrotron</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">Priority Academic Program Development of Jiangsu Higher Education Institutions</orgName>
+				</funder>
+				<funder ref="#_mAszS9C">
+					<orgName type="full">Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">U.S. Department of Energy&apos;s (DOE) Office of Energy Efficiency and Renewable Energy</orgName>
 					<orgName type="abbreviated">EERE</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Collaborative Innovation Center of Suzhou Nano Science and Technology</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">Manager and Operator of the National Renewable Energy</orgName>
-				</funder>
-				<funder ref="#_HxPtfTk">
-					<orgName type="full">University of Toledo</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Australian Synchrotron</orgName>
-				</funder>
-				<funder ref="#_bAH2m89">
-					<orgName type="full">Solar Energy Technologies Office</orgName>
-				</funder>
-				<funder ref="#_6RRk8WY">
-					<orgName type="full">ANSTO</orgName>
-				</funder>
-				<funder ref="#_6WCMdAc">
-					<orgName type="full">Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Energy Research Scientific Computing Center</orgName>
 				</funder>
-				<funder ref="#_T9Y29a4">
+				<funder ref="#_RyNWbZC">
 					<orgName type="full">DOE Office of Basic Sciences,</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Collaborative Innovation Center of Suzhou Nano Science and Technology</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -153,7 +153,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:31+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:55+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -231,19 +231,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>Funding: This material is based on work supported by the <rs type="funder">U.S. Department of Energy's (DOE) Office of Energy Efficiency and Renewable Energy (EERE)</rs> under <rs type="funder">Solar Energy Technologies Office</rs> award <rs type="grantNumber">DE-EE0008751</rs>. Work performed at the <rs type="affiliation">National Renewable Energy Laboratory</rs> and <rs type="funder">University of Toledo</rs> was supported as part of the <rs type="institution">Center for Hybrid Organic Inorganic Semiconductors for Energy (CHOISE)</rs>, an <rs type="grantName">Energy Frontier Research Center</rs> funded by the <rs type="funder">DOE Office of Basic Sciences,</rs> under contract <rs type="grantNumber">DE-AC36-08GO28308</rs>, with <rs type="institution">Alliance for Sustainable Energy, LLC</rs>, the <rs type="funder">Manager and Operator of the National Renewable Energy</rs></p><p>Laboratory. The views expressed in the article do not necessarily represent the views of the DOE or the U.S. government. All theoretical works were performed on <rs type="institution">National Renewable Energy Laboratory</rs>'s Eagle Computing System and <rs type="funder">National Energy Research Scientific Computing Center</rs>. The work at the <rs type="institution">Yangzhou University</rs> was financially supported by the <rs type="funder">Priority Academic Program Development of Jiangsu Higher Education Institutions</rs>. Z.-K.W. acknowledges the <rs type="funder">Natural Science Foundation of China</rs> (<rs type="grantNumber">91733301</rs>). This project was also supported by the <rs type="funder">Collaborative Innovation Center of Suzhou Nano Science and Technology</rs>. Part of the GIWAXS measurement was performed in beamline 7.3.3 at the <rs type="institution" subtype="infrastructure">Advanced Light Source</rs>, <rs type="institution">Lawrence Berkeley National Laboratory</rs>. The <rs type="funder">Australian Synchrotron</rs>, part of <rs type="funder">ANSTO</rs>, is also acknowledged for the GIWAXS characterizations. Author contributions: J.X. and R.W. conceived the idea, designed and conducted the experiments, and prepared the manuscript under the supervision of Y.Yang. X.C. designed and carried out the spectroscopy investigations and assisted with manuscript preparation under the supervision of M.C.B. <rs type="person">Y.Zhai</rs> assisted with the spectroscopy measurement. C.Y. performed the DFT calculations under the supervision of Y.Yan. X.J., R.L., and J.X. designed and synthesized the materials. J.X., R.W., and D.M. synthesized and analyzed the single crystals. K.-L.W. assisted with the characterization of single crystals under the supervision of Z.-K.W. T.H., S.T., and <rs type="person">Y.Zhao</rs> assisted with the thin-film characterizations. C.Z., W.H., and R.W. performed the GIWAXS measurement. K.Z. contributed helpful discussion during the project. All authors discussed the results and commented on the manuscript. Competing interests: The authors declare no competing interests. Data and materials availability: All data are available in the main text or the supplementary materials. Crystallographic parameters for the structure of PREA 2 PbI 4 are archived at the <rs type="affiliation">Cambridge Crystallographic Data Centre</rs> (www.ccdc.cam.ac.uk/) under reference number <rs type="grantNumber">CCDC 2045757</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_bAH2m89">
+				<org type="funding" xml:id="_vrwyEPM">
 					<idno type="grant-number">DE-EE0008751</idno>
 				</org>
-				<org type="funding" xml:id="_HxPtfTk">
+				<org type="funding" xml:id="_cGTcguh">
 					<orgName type="grant-name">Energy Frontier Research Center</orgName>
 				</org>
-				<org type="funding" xml:id="_T9Y29a4">
+				<org type="funding" xml:id="_RyNWbZC">
 					<idno type="grant-number">DE-AC36-08GO28308</idno>
 				</org>
-				<org type="funding" xml:id="_6WCMdAc">
+				<org type="funding" xml:id="_mAszS9C">
 					<idno type="grant-number">91733301</idno>
 				</org>
-				<org type="funding" xml:id="_6RRk8WY">
+				<org type="funding" xml:id="_xFrbsZV">
 					<idno type="grant-number">CCDC 2045757</idno>
 				</org>
 			</listOrg>

@@ -8,25 +8,25 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main">Centimetre-scale perovskite solar cells with fill factors above 86 per cent</title>
 				<funder>
-					<orgName type="full">Open Fund of the State Key Laboratory of Optoelectronic Materials and Technologies (Sun Yat-sen University</orgName>
-				</funder>
-				<funder ref="#_psVszF5 #_BXkb2Gn">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_7Rz3mMV">
-					<orgName type="full">Australian National Fabrication Facility</orgName>
-				</funder>
-				<funder ref="#_zV7t3ee">
-					<orgName type="full">Australian Research Council</orgName>
+					<orgName type="full">Australian Centre for Advanced Photovoltaics</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Australian Centre for Advanced Photovoltaics</orgName>
+					<orgName type="full">Open Fund of the State Key Laboratory of Optoelectronic Materials and Technologies (Sun Yat-sen University</orgName>
+				</funder>
+				<funder ref="#_9WfBZca">
+					<orgName type="full">Australian Research Council</orgName>
+				</funder>
+				<funder ref="#_a7DwY6z">
+					<orgName type="full">Australian National Fabrication Facility</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Australian Renewable Energy Agency</orgName>
 				</funder>
-				<funder ref="#_a2DyYhw">
+				<funder ref="#_e7b5tpQ">
 					<orgName type="full">Australian Government</orgName>
+				</funder>
+				<funder ref="#_Gp97h2N #_sEKQbUC">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -424,7 +424,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -480,20 +480,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements This work was supported by the <rs type="funder">Australian Government</rs> through the <rs type="funder">Australian Renewable Energy Agency</rs> and the <rs type="funder">Australian Research Council</rs>. Responsibility for the views, information or advice expressed herein is not accepted by the <rs type="funder">Australian Government</rs>. J.P. acknowledges the financial support of a <rs type="grantName">Postdoc Fellowship</rs> from the <rs type="funder">Australian Centre for Advanced Photovoltaics</rs>. T.P.W. is the recipient of an <rs type="funder">Australian Research Council</rs> <rs type="grantName">Future Fellowship</rs> (project number <rs type="grantNumber">FT180100302</rs>) funded by the <rs type="funder">Australian Government</rs>. T.P.W. also acknowledges the support of the <rs type="funder">Open Fund of the State Key Laboratory of Optoelectronic Materials and Technologies (Sun Yat-sen University</rs>). D.Z. acknowledges funding from the <rs type="funder">National Natural Science Foundation of China</rs> (grant numbers <rs type="grantNumber">11574403</rs> and <rs type="grantNumber">11974431</rs>). The work was partly conducted at the ACT node of the <rs type="funder">Australian National Fabrication Facility</rs>, and the <rs type="institution" subtype="infrastructure">ANU node of the Australian Microscopy and Microanalysis Facility</rs>. We thank <rs type="person">S. Surve</rs> and <rs type="person">S. Zhao</rs> for experimental assistance. Article Extended Data Fig. 2 | XPS element analysis. The atomic ratio of O to Ti and N to Ti for TiO x N y thin films annealed at different temperatures. Extended Data Fig. 3 | TEM characterisation. a, TiO x N y without annealing ('<rs type="projectName">As-deposited</rs>'). b, TiO x N y annealed at 300 o C. c, TiO x N y annealed at 400 o C. d, TiO x N y annealed at 500 o C.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_a2DyYhw">
+				<org type="funding" xml:id="_e7b5tpQ">
 					<orgName type="grant-name">Postdoc Fellowship</orgName>
 				</org>
-				<org type="funding" xml:id="_zV7t3ee">
+				<org type="funding" xml:id="_9WfBZca">
 					<idno type="grant-number">FT180100302</idno>
 					<orgName type="grant-name">Future Fellowship</orgName>
 				</org>
-				<org type="funding" xml:id="_psVszF5">
+				<org type="funding" xml:id="_Gp97h2N">
 					<idno type="grant-number">11574403</idno>
 				</org>
-				<org type="funding" xml:id="_BXkb2Gn">
+				<org type="funding" xml:id="_sEKQbUC">
 					<idno type="grant-number">11974431</idno>
 				</org>
-				<org type="funded-project" xml:id="_7Rz3mMV">
+				<org type="funded-project" xml:id="_a7DwY6z">
 					<orgName type="project" subtype="full">As-deposited</orgName>
 				</org>
 			</listOrg>

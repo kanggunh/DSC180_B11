@@ -7,35 +7,35 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
+				<funder ref="#_Yt4cxZx">
+					<orgName type="full">Ministry of Science and Technology of China</orgName>
+				</funder>
+				<funder ref="#_qdZkkVU">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_f8pAS43">
+					<orgName type="full">Innovation Project of Optics Valley Laboratory</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">Energy Materials</orgName>
 				</funder>
-				<funder ref="#_BtvtGTd">
+				<funder ref="#_g4DQRtm">
+					<orgName type="full">Natural Science Foundation of Hubei Province</orgName>
+				</funder>
+				<funder ref="#_deB3Yne">
 					<orgName type="full">CAST</orgName>
 				</funder>
-				<funder ref="#_HWT9dWY">
+				<funder ref="#_XwBssqV">
+					<orgName type="full">Self-determined and Innovative Research Funds of HUST</orgName>
+				</funder>
+				<funder ref="#_xqJ2YKW">
 					<orgName type="full">Russian Science Foundation</orgName>
 				</funder>
-				<funder ref="#_vSgnrcY">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_9qJk8ec #_Vd2xrAK #_ndmKFjM">
+				<funder ref="#_9TYZSCH #_dNrsuCH #_S83fv7k">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Key Research and Development Project</orgName>
-				</funder>
-				<funder ref="#_T5kUpfP">
-					<orgName type="full">Self-determined and Innovative Research Funds of HUST</orgName>
-				</funder>
-				<funder ref="#_yH3VVyg">
-					<orgName type="full">Innovation Project of Optics Valley Laboratory</orgName>
-				</funder>
-				<funder ref="#_haHN9Gw">
-					<orgName type="full">Ministry of Science and Technology of China</orgName>
-				</funder>
-				<funder ref="#_mHvc9nb">
-					<orgName type="full">Natural Science Foundation of Hubei Province</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -58,7 +58,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:31+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:55+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -139,35 +139,35 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was financially supported by the <rs type="funder">National Key Research and Development Project</rs> funding from the <rs type="funder">Ministry of Science and Technology of China</rs> (grant no. <rs type="grantNumber">2021YFB3800104</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">52002140</rs> and <rs type="grantNumber">U20A20252</rs>), <rs type="programName">Young Elite Scientists Sponsorship Program</rs> by <rs type="funder">CAST</rs>, the <rs type="funder">Self-determined and Innovative Research Funds of HUST</rs> (<rs type="grantNumber">2020kfyXJJS008</rs>), the <rs type="funder">Natural Science Foundation of Hubei Province</rs> (<rs type="grantNumber">2022CFA093</rs>) and the <rs type="funder">Innovation Project of Optics Valley Laboratory</rs> (grant no. <rs type="grantNumber">OVL2021BG008</rs>). Y.Q. acknowledges the support from the <rs type="funder">Energy Materials</rs> and <rs type="institution">Surface Sciences Unit of the Okinawa Institute of Science and Technology Graduate University</rs>. P.A.T. acknowledges the support from <rs type="funder">Russian Science Foundation</rs> (project no. <rs type="grantNumber">19-73-30020P</rs>). L.H. acknowledges the support from the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">11834011</rs>, <rs type="grantNumber">12074245</rs> and <rs type="grantNumber">U21A20171</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_haHN9Gw">
+				<org type="funding" xml:id="_Yt4cxZx">
 					<idno type="grant-number">2021YFB3800104</idno>
 				</org>
-				<org type="funding" xml:id="_9qJk8ec">
+				<org type="funding" xml:id="_9TYZSCH">
 					<idno type="grant-number">52002140</idno>
 				</org>
-				<org type="funding" xml:id="_BtvtGTd">
+				<org type="funding" xml:id="_deB3Yne">
 					<idno type="grant-number">U20A20252</idno>
 					<orgName type="program" subtype="full">Young Elite Scientists Sponsorship Program</orgName>
 				</org>
-				<org type="funding" xml:id="_T5kUpfP">
+				<org type="funding" xml:id="_XwBssqV">
 					<idno type="grant-number">2020kfyXJJS008</idno>
 				</org>
-				<org type="funding" xml:id="_mHvc9nb">
+				<org type="funding" xml:id="_g4DQRtm">
 					<idno type="grant-number">2022CFA093</idno>
 				</org>
-				<org type="funding" xml:id="_yH3VVyg">
+				<org type="funding" xml:id="_f8pAS43">
 					<idno type="grant-number">OVL2021BG008</idno>
 				</org>
-				<org type="funding" xml:id="_HWT9dWY">
+				<org type="funding" xml:id="_xqJ2YKW">
 					<idno type="grant-number">19-73-30020P</idno>
 				</org>
-				<org type="funding" xml:id="_Vd2xrAK">
+				<org type="funding" xml:id="_dNrsuCH">
 					<idno type="grant-number">11834011</idno>
 				</org>
-				<org type="funding" xml:id="_ndmKFjM">
+				<org type="funding" xml:id="_S83fv7k">
 					<idno type="grant-number">12074245</idno>
 				</org>
-				<org type="funding" xml:id="_vSgnrcY">
+				<org type="funding" xml:id="_qdZkkVU">
 					<idno type="grant-number">U21A20171</idno>
 				</org>
 			</listOrg>

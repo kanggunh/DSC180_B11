@@ -7,38 +7,38 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Understanding Performance Limiting Interfacial Recombination in pin Perovskite Solar Cells</title>
-				<funder ref="#_ANzg7HB">
-					<orgName type="full">Alexander von Humboldt Foundation</orgName>
+				<funder ref="#_GTn5B9k">
+					<orgName type="full">European Research Council</orgName>
 				</funder>
-				<funder ref="#_K3UGK8N">
-					<orgName type="full">Federal Ministry for Economic Affairs and Energy</orgName>
-				</funder>
-				<funder ref="#_EBDzjKc">
-					<orgName type="full">EPSRC</orgName>
-				</funder>
-				<funder ref="#_pE9Hre2">
-					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</orgName>
-				</funder>
-				<funder ref="#_fvmTccR #_rDB2JpQ">
+				<funder ref="#_stENASr #_EkPQZFa">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_TUtPCUw">
+				<funder ref="#_e956te4">
+					<orgName type="full">Welsh Government</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">European Regional Development Fund</orgName>
+				</funder>
+				<funder ref="#_hRUFY6k">
+					<orgName type="full">EPSRC</orgName>
+				</funder>
+				<funder ref="#_Hc73JDM">
+					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</orgName>
+				</funder>
+				<funder ref="#_dk9EhMv">
 					<orgName type="full">German Academic Foreign Service (DAAD)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Engineering and Physical Sciences Research Council</orgName>
 				</funder>
-				<funder ref="#_9yxcrtk">
+				<funder ref="#_5SNqNwN">
+					<orgName type="full">Federal Ministry for Economic Affairs and Energy</orgName>
+				</funder>
+				<funder ref="#_5ekKmXb">
 					<orgName type="full">Royal Society and Tata Group</orgName>
 				</funder>
-				<funder ref="#_DrjupZn">
-					<orgName type="full">European Research Council</orgName>
-				</funder>
-				<funder ref="#_w2MHEEv">
-					<orgName type="full">Welsh Government</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">European Regional Development Fund</orgName>
+				<funder ref="#_WkmAxxW">
+					<orgName type="full">Alexander von Humboldt Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -275,7 +275,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -338,41 +338,41 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors acknowledge funding from the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</rs>) within the <rs type="programName">SPP 2196</rs> (<rs type="grantNumber">SURPRISE 423749265</rs> and <rs type="grantNumber">HIPSTER 424709669</rs>) as well as through the <rs type="grantName">SFB 951</rs> (<rs type="projectName">HIOS</rs>, project number <rs type="grantNumber">182087777</rs>). The authors further acknowledge financial support by the <rs type="funder">Federal Ministry for Economic Affairs and Energy</rs> within the framework of the <rs type="programName">7th Energy Research Programme</rs> (<rs type="grantNumber">P3T-HOPE, 03EE1017C</rs>) and HyPerCells (a joint graduate school of the Potsdam University and the HZB). F.L. acknowledges financial support from the <rs type="funder">Alexander von Humboldt Foundation</rs> via the <rs type="programName">Feodor Lynen program</rs>. S.K. is grateful for a postdoctoral fellowship (<rs type="grantNumber">91793256</rs>) from the <rs type="funder">German Academic Foreign Service (DAAD)</rs>. A.A. acknowledges support from the <rs type="funder">Welsh Government</rs><rs type="grantName">'s Sêr Cymru II Rising Star and Capacity Builder Accelerator Programs</rs> through the <rs type="funder">European Regional Development Fund</rs>, Welsh European Funding Office, and <rs type="institution">Swansea University Strategic Initiative in Sustainable Advanced Materials</rs>. S.D.S. acknowledges the <rs type="funder">Royal Society and Tata Group</rs> (<rs type="grantNumber">UF150033</rs>). The work has received funding from the <rs type="funder">European Research Council</rs> under the European Union's <rs type="programName">Horizon 2020</rs> research and innovation programme (HYPERION -grant agreement no. <rs type="grantNumber">756962</rs>). The authors acknowledge the <rs type="funder">Engineering and Physical Sciences Research Council</rs> (<rs type="funder">EPSRC</rs>, <rs type="grantNumber">EP/R023980/1</rs>) for funding. K.F. acknowledges a <rs type="grantName">George and Lilian Schiff Studentship, Winton Studentship</rs>, an <rs type="grantName">EPSRC studentship, Cambridge Trust Scholarship</rs>, and <rs type="person">Robert Gardiner Scholarship. Open</rs> access funding enabled and organized by <rs type="person">Projekt DEAL</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_pE9Hre2">
+				<org type="funding" xml:id="_Hc73JDM">
 					<idno type="grant-number">SURPRISE 423749265</idno>
 					<orgName type="program" subtype="full">SPP 2196</orgName>
 				</org>
-				<org type="funded-project" xml:id="_fvmTccR">
+				<org type="funded-project" xml:id="_stENASr">
 					<idno type="grant-number">HIPSTER 424709669</idno>
 					<orgName type="grant-name">SFB 951</orgName>
 					<orgName type="project" subtype="full">HIOS</orgName>
 				</org>
-				<org type="funding" xml:id="_K3UGK8N">
+				<org type="funding" xml:id="_5SNqNwN">
 					<idno type="grant-number">182087777</idno>
 					<orgName type="program" subtype="full">7th Energy Research Programme</orgName>
 				</org>
-				<org type="funding" xml:id="_ANzg7HB">
+				<org type="funding" xml:id="_WkmAxxW">
 					<idno type="grant-number">P3T-HOPE, 03EE1017C</idno>
 					<orgName type="program" subtype="full">Feodor Lynen program</orgName>
 				</org>
-				<org type="funding" xml:id="_TUtPCUw">
+				<org type="funding" xml:id="_dk9EhMv">
 					<idno type="grant-number">91793256</idno>
 				</org>
-				<org type="funding" xml:id="_w2MHEEv">
+				<org type="funding" xml:id="_e956te4">
 					<orgName type="grant-name">&apos;s Sêr Cymru II Rising Star and Capacity Builder Accelerator Programs</orgName>
 				</org>
-				<org type="funding" xml:id="_9yxcrtk">
+				<org type="funding" xml:id="_5ekKmXb">
 					<idno type="grant-number">UF150033</idno>
 				</org>
-				<org type="funding" xml:id="_DrjupZn">
+				<org type="funding" xml:id="_GTn5B9k">
 					<idno type="grant-number">756962</idno>
 					<orgName type="program" subtype="full">Horizon 2020</orgName>
 				</org>
-				<org type="funding" xml:id="_EBDzjKc">
+				<org type="funding" xml:id="_hRUFY6k">
 					<idno type="grant-number">EP/R023980/1</idno>
 					<orgName type="grant-name">George and Lilian Schiff Studentship, Winton Studentship</orgName>
 				</org>
-				<org type="funding" xml:id="_rDB2JpQ">
+				<org type="funding" xml:id="_EkPQZFa">
 					<orgName type="grant-name">EPSRC studentship, Cambridge Trust Scholarship</orgName>
 				</org>
 			</listOrg>

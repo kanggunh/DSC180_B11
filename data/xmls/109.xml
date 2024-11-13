@@ -7,25 +7,25 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Conformal quantum dot-SnO 2 layers as electron transporters for efficient perovskite solar cells</title>
-				<funder ref="#_7vBPUKp #_mRCybeZ #_2nwkVNR">
-					<orgName type="full">Korea Institute of Energy Research</orgName>
-					<orgName type="abbreviated">KIER</orgName>
+				<funder ref="#_5JHqCNk">
+					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">NRF</orgName>
 				</funder>
-				<funder ref="#_T6zdArQ">
-					<orgName type="full">National Research Foundation of Korea</orgName>
-					<orgName type="abbreviated">NRF</orgName>
-				</funder>
-				<funder ref="#_2mJg7CN #_Z9SM6ra">
-					<orgName type="full">Ministry of Science, ICT, and Future Planning</orgName>
-				</funder>
-				<funder ref="#_GnFU2sA #_bCY6Jn9">
+				<funder ref="#_9qmKaP6 #_NjQk5uq">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_xcywy6n #_t6Jwn3z">
+				<funder ref="#_DrrsU5U #_SJJ4uQ7">
 					<orgName type="full">Ministry of Education</orgName>
+				</funder>
+				<funder ref="#_VMPfMC5 #_rnGcJRw">
+					<orgName type="full">Ministry of Science, ICT, and Future Planning</orgName>
+				</funder>
+				<funder ref="#_FbNkGTh #_7ybzhba #_mCk4KJt">
+					<orgName type="full">Korea Institute of Energy Research</orgName>
+					<orgName type="abbreviated">KIER</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -533,7 +533,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -606,38 +606,38 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS We thank <rs type="person">B. I. Carlsen</rs>, <rs type="person">O. Ouellette</rs>, and <rs type="person">M. Wei</rs> for discussions. We thank <rs type="person">S. Song</rs> for the help of optical simulations. Funding: This work was support by <rs type="programName">Development Program</rs> of the <rs type="funder">Korea Institute of Energy Research (KIER)</rs> (<rs type="grantNumber">C1-2401</rs> and <rs type="grantNumber">C1-2402</rs>); <rs type="programName">Basic Science Research Program</rs> through the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Education</rs> (<rs type="grantNumber">NRF-2020R1A6A1A03038697</rs>); and the <rs type="funder">NRF</rs> funded by the <rs type="funder">Ministry of Science, ICT, and Future Planning</rs> (<rs type="grantNumber">2020M1A2A2080746</rs> and <rs type="grantNumber">2020M1A2A208075011</rs>). M.G. ACKNOWLEDGMENTS We thank <rs type="person">B. I. Carlsen</rs>, <rs type="person">O. Ouellette</rs>, and <rs type="person">M. Wei</rs> for discussions. We thank <rs type="person">S. Song</rs> for the help of optical simulations. Funding: This work was support by <rs type="programName">Development Program</rs> of the <rs type="funder">Korea Institute of Energy Research (KIER)</rs> (<rs type="grantNumber">C1-2401</rs> and <rs type="grantNumber">C1-2402</rs>); <rs type="programName">Basic Science Research Program</rs> through the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Education</rs> (<rs type="grantNumber">NRF-2020R1A6A1A03038697</rs>); and the <rs type="funder">NRF</rs> funded by the <rs type="funder">Ministry of Science, ICT, and Future Planning</rs> (<rs type="grantNumber">2020M1A2A2080746</rs> and <rs type="grantNumber">2020M1A2A208075011</rs>). M.G.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_7vBPUKp">
+				<org type="funding" xml:id="_FbNkGTh">
 					<idno type="grant-number">C1-2401</idno>
 					<orgName type="program" subtype="full">Development Program</orgName>
 				</org>
-				<org type="funding" xml:id="_mRCybeZ">
+				<org type="funding" xml:id="_7ybzhba">
 					<idno type="grant-number">C1-2402</idno>
 					<orgName type="program" subtype="full">Basic Science Research Program</orgName>
 				</org>
-				<org type="funding" xml:id="_xcywy6n">
+				<org type="funding" xml:id="_DrrsU5U">
 					<idno type="grant-number">NRF-2020R1A6A1A03038697</idno>
 				</org>
-				<org type="funding" xml:id="_2mJg7CN">
+				<org type="funding" xml:id="_VMPfMC5">
 					<idno type="grant-number">2020M1A2A2080746</idno>
 				</org>
-				<org type="funding" xml:id="_2nwkVNR">
+				<org type="funding" xml:id="_mCk4KJt">
 					<idno type="grant-number">2020M1A2A208075011</idno>
 					<orgName type="program" subtype="full">Development Program</orgName>
 				</org>
-				<org type="funding" xml:id="_GnFU2sA">
+				<org type="funding" xml:id="_9qmKaP6">
 					<idno type="grant-number">C1-2401</idno>
 				</org>
-				<org type="funding" xml:id="_T6zdArQ">
+				<org type="funding" xml:id="_5JHqCNk">
 					<idno type="grant-number">C1-2402</idno>
 					<orgName type="program" subtype="full">Basic Science Research Program</orgName>
 				</org>
-				<org type="funding" xml:id="_t6Jwn3z">
+				<org type="funding" xml:id="_SJJ4uQ7">
 					<idno type="grant-number">NRF-2020R1A6A1A03038697</idno>
 				</org>
-				<org type="funding" xml:id="_Z9SM6ra">
+				<org type="funding" xml:id="_rnGcJRw">
 					<idno type="grant-number">2020M1A2A2080746</idno>
 				</org>
-				<org type="funding" xml:id="_bCY6Jn9">
+				<org type="funding" xml:id="_NjQk5uq">
 					<idno type="grant-number">2020M1A2A208075011</idno>
 				</org>
 			</listOrg>

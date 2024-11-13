@@ -7,53 +7,53 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Regulating surface potential maximizes voltage in all-perovskite tandems</title>
-				<funder ref="#_4B6MRTE">
-					<orgName type="full">Canada</orgName>
+				<funder>
+					<orgName type="full">Ontario Research Fund-Research Excellence Round 7)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Operational Energy Capability Improvement Fund of the Department of Defense</orgName>
 				</funder>
+				<funder ref="#_ekvZht4">
+					<orgName type="full">King Abdullah University of Science and Technology</orgName>
+				</funder>
 				<funder>
-					<orgName type="full">NSERC</orgName>
+					<orgName type="full">US Department of Energy&apos;s Office of Energy Efficiency and Renewable Energy</orgName>
+				</funder>
+				<funder ref="#_XeDXuX2">
+					<orgName type="full">Ontario Research Fund Research Excellence programme</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Renewable Energy Laboratory</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Canadian Institutes of Health Research, CFI</orgName>
-				</funder>
-				<funder ref="#_TpebgEY">
-					<orgName type="full">Ontario Research Fund Research Excellence programme</orgName>
-				</funder>
-				<funder ref="#_GdQAXfc #_PpMQb7M">
-					<orgName type="full">US Department of the Navy, Office of Naval Research</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">University of Saskatchewan</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Ministry of Research and Innovation</orgName>
-				</funder>
-				<funder ref="#_udvSF3y">
-					<orgName type="full">Natural Sciences and Engineering Council of Canada</orgName>
+					<orgName type="full">Canadian Institutes of Health Research, CFI</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">US Department of Energy&apos;s Office of Energy Efficiency and Renewable Energy</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Ontario Research Fund-Research Excellence Round 7)</orgName>
+					<orgName type="full">NSERC</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Western Economic Diversification Canada</orgName>
 				</funder>
-				<funder ref="#_BEQXtcp">
-					<orgName type="full">US Department of Energy</orgName>
-				</funder>
-				<funder ref="#_RrjHRKE">
+				<funder ref="#_pHXBGtg">
 					<orgName type="full">Solar Energy Technologies Office</orgName>
 				</funder>
-				<funder ref="#_UTQcQnr">
-					<orgName type="full">King Abdullah University of Science and Technology</orgName>
+				<funder ref="#_h5SqqzX">
+					<orgName type="full">US Department of Energy</orgName>
+				</funder>
+				<funder ref="#_HWHrmQf #_qhSMpSq">
+					<orgName type="full">US Department of the Navy, Office of Naval Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ministry of Research and Innovation</orgName>
+				</funder>
+				<funder ref="#_RAQCtMZ">
+					<orgName type="full">Natural Sciences and Engineering Council of Canada</orgName>
+				</funder>
+				<funder ref="#_4CVaEds">
+					<orgName type="full">Canada</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -514,7 +514,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -590,28 +590,28 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements We thank <rs type="person">J. Warby</rs> for a useful discussion that contributed to our understanding of perovskite-ETL interfaces, and <rs type="person">T. Song</rs> and <rs type="person">N. Kopidakis</rs> at <rs type="affiliation">NREL</rs> for device certification. Z.W. acknowledges the <rs type="programName">Banting Postdoctoral Fellowships Program</rs> of <rs type="funder">Canada</rs>. GIWAXS patterns were collected at the <rs type="institution">BXDS-WLE Beamline at CLS</rs> with the assistance of <rs type="person">C.-Y. Kim</rs> and <rs type="person">A. Leontowich</rs>. This research was made possible by the <rs type="funder">US Department of the Navy, Office of Naval Research</rs> (grant nos. <rs type="grantNumber">N00014-20-1-2572</rs> and <rs type="grantNumber">N00014-20-1-2725</rs>) and the <rs type="funder">US Department of Energy's Office of Energy Efficiency and Renewable Energy</rs> under <rs type="funder">Solar Energy Technologies Office</rs> Award no. <rs type="grantNumber">DE-EE0008753</rs>. This work was supported in part by the <rs type="funder">Ontario Research Fund Research Excellence programme</rs> (<rs type="grantNumber">ORF7</rs>: <rs type="funder">Ministry of Research and Innovation</rs>, <rs type="funder">Ontario Research Fund-Research Excellence Round 7)</rs>. This work was also supported by the <rs type="funder">King Abdullah University of Science and Technology</rs> under award no. <rs type="grantNumber">OSR-CRG2020-4350</rs>. This work was authored in part by the <rs type="funder">National Renewable Energy Laboratory</rs>, operated by <rs type="institution">Alliance for Sustainable Energy</rs> for the <rs type="funder">US Department of Energy</rs> under contract no. <rs type="grantNumber">DE-AC36-08GO28308</rs>. NREL authors acknowledge support from the <rs type="funder">Operational Energy Capability Improvement Fund of the Department of Defense</rs>. The views expressed in the article do not necessarily represent the views of the Department of Energy or the <rs type="institution">US Government</rs>. CLS is funded by <rs type="funder">NSERC</rs>, the <rs type="funder">Canadian Institutes of Health Research, CFI</rs>, the <rs type="institution">Government of Saskatchewan</rs>, <rs type="funder">Western Economic Diversification Canada</rs> and the <rs type="funder">University of Saskatchewan</rs>. This work was also supported by the <rs type="funder">Natural Sciences and Engineering Council of Canada</rs> and the <rs type="grantName">Vanier Canada Graduate Scholarship</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_4B6MRTE">
+				<org type="funding" xml:id="_4CVaEds">
 					<orgName type="program" subtype="full">Banting Postdoctoral Fellowships Program</orgName>
 				</org>
-				<org type="funding" xml:id="_GdQAXfc">
+				<org type="funding" xml:id="_HWHrmQf">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 				</org>
-				<org type="funding" xml:id="_PpMQb7M">
+				<org type="funding" xml:id="_qhSMpSq">
 					<idno type="grant-number">N00014-20-1-2725</idno>
 				</org>
-				<org type="funding" xml:id="_RrjHRKE">
+				<org type="funding" xml:id="_pHXBGtg">
 					<idno type="grant-number">DE-EE0008753</idno>
 				</org>
-				<org type="funding" xml:id="_TpebgEY">
+				<org type="funding" xml:id="_XeDXuX2">
 					<idno type="grant-number">ORF7</idno>
 				</org>
-				<org type="funding" xml:id="_UTQcQnr">
+				<org type="funding" xml:id="_ekvZht4">
 					<idno type="grant-number">OSR-CRG2020-4350</idno>
 				</org>
-				<org type="funding" xml:id="_BEQXtcp">
+				<org type="funding" xml:id="_h5SqqzX">
 					<idno type="grant-number">DE-AC36-08GO28308</idno>
 				</org>
-				<org type="funding" xml:id="_udvSF3y">
+				<org type="funding" xml:id="_RAQCtMZ">
 					<orgName type="grant-name">Vanier Canada Graduate Scholarship</orgName>
 				</org>
 			</listOrg>

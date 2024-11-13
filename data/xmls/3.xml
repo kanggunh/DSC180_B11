@@ -7,43 +7,43 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Deterministic fabrication of 3D/2D perovskite bilayer stacks for durable and efficient solar cells</title>
-				<funder ref="#_pSGrZjh">
-					<orgName type="full">National Science Foundation</orgName>
-				</funder>
-				<funder ref="#_kdDsMa8">
-					<orgName type="full">US Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory</orgName>
-				</funder>
-				<funder ref="#_Y2yZujr">
-					<orgName type="full">American Association for the Advancement of Science</orgName>
-				</funder>
-				<funder ref="#_WvgFP9u">
-					<orgName type="full">Materials Research Science and Engineering Center</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">GENCI</orgName>
-				</funder>
-				<funder ref="#_kgRZxAJ">
+				<funder ref="#_BeJHV7X">
 					<orgName type="full">European Union</orgName>
 				</funder>
-				<funder ref="#_j84Cvyb">
+				<funder ref="#_WpXRC57">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_nmvvJwV">
+				<funder ref="#_EskyUsm">
 					<orgName type="full">Office of Naval Research</orgName>
 					<orgName type="abbreviated">ONR</orgName>
-				</funder>
-				<funder ref="#_3VqAjdr">
-					<orgName type="full">Institut Universitaire de France</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">UW Molecular Engineering Materials Center</orgName>
 					<orgName type="abbreviated">C</orgName>
 				</funder>
-				<funder ref="#_t8RDmXe">
+				<funder ref="#_QvMW3HC">
+					<orgName type="full">Institut Universitaire de France</orgName>
+				</funder>
+				<funder ref="#_W7dhWYv">
 					<orgName type="full">DOE BES</orgName>
+				</funder>
+				<funder ref="#_WuFFYym">
+					<orgName type="full">National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_qX5hQxp">
+					<orgName type="full">Materials Research Science and Engineering Center</orgName>
+				</funder>
+				<funder ref="#_deRnBsb">
+					<orgName type="full">American Association for the Advancement of Science</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">US National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_Jn545AK">
+					<orgName type="full">US Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">GENCI</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -417,7 +417,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -505,32 +505,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS We thank <rs type="person">M. H. K. Samani</rs> and <rs type="person">A. B. Marciel</rs> for useful discussions on the DLS measurements. Funding: The work at <rs type="institution">Rice University</rs> was supported by the <rs type="programName">DOE-EERE 0008843 program</rs>. J.E. acknowledges the financial support from the <rs type="funder">Institut Universitaire de France</rs> and <rs type="funder">GENCI</rs> national computational resources. The work at <rs type="institution" subtype="infrastructure">ISCR</rs> and <rs type="person">Institut FOTON</rs> was performed with funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation program</rs> under grant agreement <rs type="grantNumber">861985</rs> (<rs type="institution" subtype="infrastructure">Pero CUBE). At Northwestern</rs>, the work was supported by the <rs type="funder">Office of Naval Research (ONR)</rs> under grant <rs type="grantNumber">N00014-20-1-2725</rs>. This research used facilities of the <rs type="institution">Advanced Photon Source</rs>, a <rs type="funder">US Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory</rs> under contract <rs type="grantNumber">DE-AC02-06CH11357</rs>. ToF-SIMS analysis were carried out with support provided by the <rs type="funder">National Science Foundation</rs> <rs type="grantNumber">CBET-1626418</rs>. This work was conducted in part using resources of the <rs type="institution">Shared Equipment Authority at Rice University</rs>. The work at the <rs type="institution">University of Washington by K.H., R.G.</rs>, and D.S.G. is supported by <rs type="funder">DOE BES</rs> under award <rs type="grantNumber">DE-SC0013957</rs>. This research used facilities and instrumentation supported by the <rs type="funder">US National Science Foundation</rs> through the <rs type="funder">UW Molecular Engineering Materials Center (MEM-C)</rs>, a <rs type="funder">Materials Research Science and Engineering Center</rs> (<rs type="grantNumber">DMR-1719797</rs>). Author contributions: A.D.M., S.S., and J.E. conceived the idea, designed the experiments, analyzed the data, and cowrote the manuscript. S.S. and Y.W. studied different solvents. Y.W. performed <rs type="grantNumber">2D</rs>/3D passivation experiments with S.S.; W.L. and J.S. performed GIWAXS measurements, A.J.T. performed PL maps, X.S. performed SEM and AFM imaging, and A.A. helped with solar cell fabrication and characterization. M.D. performed photoluminescence measurements, M.G.K. and M.J. analyzed the solvation chemistry along with synthesis of 2D HaP crystals. C.K. and B.T. helped understand the <rs type="grantNumber">3D/2D</rs> interface with DFT modeling. A.B.P. and P.M.A. performed focused ion beam milling (FIB) and electron microscopy (TEM and STEM). K.H., R.G., and D.S.G. performed SKPM and TRPL measurements, R.A. and M.A.A. performed device modeling and optical simulations. T.T. helped perform TOF-SIMS and analyze data. All authors contributed to the manuscript. Competing interests: Rice University have filed patent for method of fabricating the 3D/PP-2D bilayer stack. Data and materials availability: All data are available in the main text or the supplementary materials. License information: Copyright © 2022 the authors, some rights reserved; exclusive licensee <rs type="funder">American Association for the Advancement of Science</rs>. No claim to original US government works. <ref type="url" target="https://www.science.org/about/sciencelicenses-journal-article-reuse">https://www.science.org/about/sciencelicenses-journal-article-reuse</ref> </p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_3VqAjdr">
+				<org type="funding" xml:id="_QvMW3HC">
 					<orgName type="program" subtype="full">DOE-EERE 0008843 program</orgName>
 				</org>
-				<org type="funding" xml:id="_kgRZxAJ">
+				<org type="funding" xml:id="_BeJHV7X">
 					<idno type="grant-number">861985</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
 				</org>
-				<org type="funding" xml:id="_nmvvJwV">
+				<org type="funding" xml:id="_EskyUsm">
 					<idno type="grant-number">N00014-20-1-2725</idno>
 				</org>
-				<org type="funding" xml:id="_kdDsMa8">
+				<org type="funding" xml:id="_Jn545AK">
 					<idno type="grant-number">DE-AC02-06CH11357</idno>
 				</org>
-				<org type="funding" xml:id="_pSGrZjh">
+				<org type="funding" xml:id="_WuFFYym">
 					<idno type="grant-number">CBET-1626418</idno>
 				</org>
-				<org type="funding" xml:id="_t8RDmXe">
+				<org type="funding" xml:id="_W7dhWYv">
 					<idno type="grant-number">DE-SC0013957</idno>
 				</org>
-				<org type="funding" xml:id="_WvgFP9u">
+				<org type="funding" xml:id="_qX5hQxp">
 					<idno type="grant-number">DMR-1719797</idno>
 				</org>
-				<org type="funding" xml:id="_j84Cvyb">
+				<org type="funding" xml:id="_WpXRC57">
 					<idno type="grant-number">2D</idno>
 				</org>
-				<org type="funding" xml:id="_Y2yZujr">
+				<org type="funding" xml:id="_deRnBsb">
 					<idno type="grant-number">3D/2D</idno>
 				</org>
 			</listOrg>

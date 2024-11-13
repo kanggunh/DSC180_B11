@@ -7,10 +7,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Effect of Annealing Temperature on Film Morphology of Organic-Inorganic Hybrid Pervoskite Solid-State Solar Cells</title>
-				<funder ref="#_FsXJAHB">
+				<funder ref="#_atgVWyC">
 					<orgName type="full">European Research Council</orgName>
 				</funder>
-				<funder ref="#_weg27m3">
+				<funder ref="#_556vjyj">
 					<orgName type="full">European Community&apos;s Seventh Framework Programme</orgName>
 				</funder>
 			</titleStmt>
@@ -95,7 +95,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:54+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -143,11 +143,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors would like to thank <rs type="person">K. Schenk</rs> and <rs type="person">N. Pellet</rs> for the XRD measurements. The authors acknowledge fi nancial support from <rs type="person">Aisin Cosmos R&amp;D Co</rs>., Ltd, Japan, from the <rs type="funder">European Community's Seventh Framework Programme</rs> (FP7/2007-2013) under the <rs type="grantName">"ORION" grant</rs> agreement no. <rs type="grantNumber">NMP-229036</rs> and from the <rs type="funder">European Research Council</rs> <rs type="grantName">Advanced Research Grant</rs> (<rs type="grantNumber">ARG 247404</rs>) under the "Mesolight" project.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_weg27m3">
+				<org type="funding" xml:id="_556vjyj">
 					<idno type="grant-number">NMP-229036</idno>
 					<orgName type="grant-name">&quot;ORION&quot; grant</orgName>
 				</org>
-				<org type="funding" xml:id="_FsXJAHB">
+				<org type="funding" xml:id="_atgVWyC">
 					<idno type="grant-number">ARG 247404</idno>
 					<orgName type="grant-name">Advanced Research Grant</orgName>
 				</org>

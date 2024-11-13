@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">How Stable Is the 2D/3D Interface of Metal Halide Perovskite under Light and Heat?</title>
+				<funder ref="#_auNUg8X">
+					<orgName type="full">unknown</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">ND Energy</orgName>
-				</funder>
-				<funder ref="#_5vDTyHQ #_ydmjuhd">
-					<orgName type="full">U.S. Department of Energy</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Division of Chemical Sciences, Geosciences, and Biosciences, Office of Basic Energy Sciences</orgName>
 				</funder>
-				<funder ref="#_vH9vFHY">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_PvUJzq8 #_8H94vwq">
+					<orgName type="full">U.S. Department of Energy</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Office of Basic Energy Sciences</orgName>
@@ -98,7 +98,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -131,14 +131,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>We acknowledge the <rs type="institution">Division of Materials Sciences and Engineering</rs>, <rs type="funder">Office of Basic Energy Sciences</rs> of the <rs type="funder">U.S. Department of Energy</rs> through <rs type="person">Award DE-SC0014334</rs> for carrying out the cation mobility experiments in perovskite films. J.C. acknowledges fellowship support from the <rs type="grantName">Forgash Fellowship for Solar Energy Research</rs> (<rs type="projectName">ND Energy</rs>). N.H. acknowledges the Slatt Fellowship by <rs type="funder">ND Energy</rs> to conduct summer research. P.V.K. also acknowledges support by the <rs type="funder">Division of Chemical Sciences, Geosciences, and Biosciences, Office of Basic Energy Sciences</rs> of the <rs type="funder">U.S. Department of Energy</rs> (award <rs type="grantNumber">DE-FC02-04ER15533</rs>). This is contribution NDRL No. <rs type="grantNumber">5382</rs> from the <rs type="affiliation">Notre Dame Radiation Laboratory</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_5vDTyHQ">
+				<org type="funded-project" xml:id="_PvUJzq8">
 					<orgName type="grant-name">Forgash Fellowship for Solar Energy Research</orgName>
 					<orgName type="project" subtype="full">ND Energy</orgName>
 				</org>
-				<org type="funding" xml:id="_ydmjuhd">
+				<org type="funding" xml:id="_8H94vwq">
 					<idno type="grant-number">DE-FC02-04ER15533</idno>
 				</org>
-				<org type="funding" xml:id="_vH9vFHY">
+				<org type="funding" xml:id="_auNUg8X">
 					<idno type="grant-number">5382</idno>
 				</org>
 			</listOrg>

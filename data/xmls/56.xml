@@ -7,20 +7,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Universal Current Losses in Perovskite Solar Cells Due to Mobile Ions</title>
-				<funder ref="#_ghBPTW6">
-					<orgName type="full">Federal Ministry for Economic Affairs and Energy</orgName>
-				</funder>
-				<funder ref="#_hDsHsnk">
-					<orgName type="full">Alexander Von Humboldt Foundation</orgName>
-				</funder>
-				<funder ref="#_TvwQbs9">
+				<funder ref="#_FBuRDZA">
 					<orgName type="full">EPSRC</orgName>
 				</funder>
-				<funder ref="#_8CTnuNv">
+				<funder ref="#_bycTezv">
 					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</orgName>
 				</funder>
-				<funder ref="#_2z4QJx9">
+				<funder ref="#_JPN8exQ">
 					<orgName type="full">Helmholtz Association via HI-SCORE</orgName>
+				</funder>
+				<funder ref="#_Sfhc6gr">
+					<orgName type="full">Federal Ministry for Economic Affairs and Energy</orgName>
+				</funder>
+				<funder ref="#_cuByzzY">
+					<orgName type="full">Alexander Von Humboldt Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -134,7 +134,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -215,22 +215,22 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 
 			<listOrg type="funding">
-				<org type="funding" xml:id="_8CTnuNv">
+				<org type="funding" xml:id="_bycTezv">
 					<idno type="grant-number">HIPSTER 424709669</idno>
 					<orgName type="program" subtype="full">SPP 2196</orgName>
 				</org>
-				<org type="funding" xml:id="_ghBPTW6">
+				<org type="funding" xml:id="_Sfhc6gr">
 					<idno type="grant-number">SURPRISE 423749265</idno>
 					<orgName type="program" subtype="full">7th Energy Research Programme</orgName>
 				</org>
-				<org type="funding" xml:id="_TvwQbs9">
+				<org type="funding" xml:id="_FBuRDZA">
 					<idno type="grant-number">P3T-HOPE, 03EE1017C</idno>
 				</org>
-				<org type="funding" xml:id="_hDsHsnk">
+				<org type="funding" xml:id="_cuByzzY">
 					<idno type="grant-number">EP/ S004947/1</idno>
 					<orgName type="program" subtype="full">Feodor Lynen program</orgName>
 				</org>
-				<org type="funded-project" xml:id="_2z4QJx9">
+				<org type="funded-project" xml:id="_JPN8exQ">
 					<orgName type="project" subtype="full">Helmholtz International Research School</orgName>
 				</org>
 			</listOrg>

@@ -8,26 +8,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main">Efficient and stable solution-processed planar perovskite solar cells via contact passivation</title>
 				<funder>
-					<orgName type="full">Natural Sciences and Engineering Research Council of Canada</orgName>
-				</funder>
-				<funder ref="#_59vGYS9">
-					<orgName type="full">IBM Canada Research and Development Center through the Southern Ontario Smart Computing Innovation Platform</orgName>
-					<orgName type="abbreviated">SOSCIP</orgName>
-				</funder>
-				<funder ref="#_9HAhM5Z">
-					<orgName type="full">King Abdullah University of Science and Technology</orgName>
-				</funder>
-				<funder ref="#_2nWV3t6">
-					<orgName type="full">Netherlands Organisation for Scientific Research (NWO)</orgName>
+					<orgName type="full">Ontario Research Fund Research Excellence Program</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Ontario Research Fund</orgName>
+					<orgName type="full">Natural Sciences and Engineering Research Council of Canada</orgName>
+				</funder>
+				<funder ref="#_AQcYnUS">
+					<orgName type="full">Netherlands Organisation for Scientific Research (NWO)</orgName>
+				</funder>
+				<funder ref="#_uPJqKk3">
+					<orgName type="full">IBM Canada Research and Development Center through the Southern Ontario Smart Computing Innovation Platform</orgName>
+					<orgName type="abbreviated">SOSCIP</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">SOSCIP</orgName>
 				</funder>
+				<funder ref="#_kvAeQQC">
+					<orgName type="full">King Abdullah University of Science and Technology</orgName>
+				</funder>
 				<funder>
-					<orgName type="full">Ontario Research Fund Research Excellence Program</orgName>
+					<orgName type="full">Ontario Research Fund</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -315,7 +315,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -370,14 +370,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS This publication is based, in part, on work supported by an award (<rs type="grantNumber">KUS-11-009-21</rs>) from the <rs type="funder">King Abdullah University of Science and Technology</rs>, by the <rs type="funder">Ontario Research Fund Research Excellence Program</rs>, by the <rs type="funder">Ontario Research Fund</rs>, and by the <rs type="funder">Natural Sciences and Engineering Research Council of Canada</rs>. H.T. acknowledges the <rs type="funder">Netherlands Organisation for Scientific Research (NWO)</rs> for a <rs type="grantName">Rubicon grant</rs> (<rs type="grantNumber">680-50-1511</rs>) to support his postdoctoral research at the <rs type="institution">University of Toronto</rs>. The work of A.J. is supported by the <rs type="funder">IBM Canada Research and Development Center through the Southern Ontario Smart Computing Innovation Platform (SOSCIP) postdoctoral fellowship. F.P.G.A</rs>. acknowledges funding from the <rs type="programName">Connaught program</rs>. DFT calculations were performed on the <rs type="institution" subtype="infrastructure">IBM BlueGene Q supercomputer</rs> with support from the <rs type="funder">SOSCIP</rs>. We thank <rs type="person">R. Wolowiec</rs>, <rs type="person">E. Palmiano</rs>, <rs type="person">D. Kopilovic</rs>, and <rs type="person">J. Li</rs> for their help during the course of study. All data are reported in the main text and supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_9HAhM5Z">
+				<org type="funding" xml:id="_kvAeQQC">
 					<idno type="grant-number">KUS-11-009-21</idno>
 				</org>
-				<org type="funding" xml:id="_2nWV3t6">
+				<org type="funding" xml:id="_AQcYnUS">
 					<idno type="grant-number">680-50-1511</idno>
 					<orgName type="grant-name">Rubicon grant</orgName>
 				</org>
-				<org type="funding" xml:id="_59vGYS9">
+				<org type="funding" xml:id="_uPJqKk3">
 					<orgName type="program" subtype="full">Connaught program</orgName>
 				</org>
 			</listOrg>

@@ -7,20 +7,20 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Visualizing Macroscopic Inhomogeneities in Perovskite Solar Cells</title>
-				<funder ref="#_btaAyKC">
-					<orgName type="full">UKRI Global Challenge Research Fund</orgName>
+				<funder ref="#_pGTjVD2">
+					<orgName type="full">EPSRC, UK</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Rhodes Scholarship and the Schmidt Science Fellowship</orgName>
 				</funder>
-				<funder ref="#_DvXkCJq">
+				<funder ref="#_BWfz8vz">
+					<orgName type="full">UKRI Global Challenge Research Fund</orgName>
+				</funder>
+				<funder ref="#_jkjUvmN">
 					<orgName type="full">European Union</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">&quot;Google Noto</orgName>
-				</funder>
-				<funder ref="#_cvvkJn4">
-					<orgName type="full">EPSRC, UK</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -93,7 +93,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -196,13 +196,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>This work was part funded by the <rs type="funder">EPSRC, UK</rs>, under grant number <rs type="grantNumber">EP/S00497/1</rs> and the <rs type="funder">UKRI Global Challenge Research Fund</rs> project <rs type="grantNumber">EP/P032591/1</rs>. A.D. and <rs type="person">R.D.J.O.</rs> to express their gratitude to the Penrose scholarship for very generously funding their studentships. S.M. acknowledges the support of the <rs type="funder">Rhodes Scholarship and the Schmidt Science Fellowship</rs>. The research leading to these results has also received funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation programme MAESTRO</rs> under the <rs type="grantName">Marie Skłodowska-Curie</rs> grant agreement No. <rs type="grantNumber">764787</rs>. The perceptually uniform color maps used in this work were kindly developed under the <rs type="institution">MIT</rs> licence by Fabio Crameri. <ref type="bibr" target="#b54">47</ref> Emoji artwork used in Figure <ref type="figure">5</ref> was taken from the <rs type="funder">"Google Noto</rs> font" suite, <ref type="bibr" target="#b55">48</ref> which is provided as free and open source under the Apache license, version 2.0.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_cvvkJn4">
+				<org type="funding" xml:id="_pGTjVD2">
 					<idno type="grant-number">EP/S00497/1</idno>
 				</org>
-				<org type="funding" xml:id="_btaAyKC">
+				<org type="funding" xml:id="_BWfz8vz">
 					<idno type="grant-number">EP/P032591/1</idno>
 				</org>
-				<org type="funding" xml:id="_DvXkCJq">
+				<org type="funding" xml:id="_jkjUvmN">
 					<idno type="grant-number">764787</idno>
 					<orgName type="grant-name">Marie Skłodowska-Curie</orgName>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme MAESTRO</orgName>

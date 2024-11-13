@@ -8,11 +8,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main">➔ 𝑉 𝑀𝑃𝑃 + 𝑅 𝑠 𝐽 𝑀𝑃𝑃 = 𝑉 0 ➔ 𝑅 𝑠 = (𝑉 0 -𝑉 𝑀𝑃𝑃 ) 𝐽 𝑀𝑃𝑃 ⁄</title>
 				<funder>
-					<orgName type="full">China Scholarship Council</orgName>
-					<orgName type="abbreviated">CSC</orgName>
+					<orgName type="full">National Key</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">National Key</orgName>
+					<orgName type="full">China Scholarship Council</orgName>
+					<orgName type="abbreviated">CSC</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -42,7 +42,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>

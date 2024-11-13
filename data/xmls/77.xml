@@ -8,22 +8,22 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main"></title>
 				<funder>
-					<orgName type="full">Office of Basic Energy Sciences, Office of Science within the US DOE</orgName>
-				</funder>
-				<funder ref="#_TsaKHSu">
-					<orgName type="full">Office of Energy Efficiency and Renewable Energy</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">Solar Energy Technologies</orgName>
 				</funder>
-				<funder ref="#_2WAutv6 #_BV8WE69">
+				<funder>
+					<orgName type="full">U.S. Department of Energy</orgName>
+				</funder>
+				<funder ref="#_NFnYbwc #_puRRPEX">
 					<orgName type="full">US DOE, Office of Energy Efficiency and Renewable Energy</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">US Department of Energy (DOE)</orgName>
 				</funder>
+				<funder ref="#_7guAJnt">
+					<orgName type="full">Office of Energy Efficiency and Renewable Energy</orgName>
+				</funder>
 				<funder>
-					<orgName type="full">U.S. Department of Energy</orgName>
+					<orgName type="full">Office of Basic Energy Sciences, Office of Science within the US DOE</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -106,7 +106,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:55+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -184,14 +184,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was mainly supported by the <rs type="funder">Solar Energy Technologies</rs> office within the <rs type="funder">US Department of Energy (DOE)</rs>, <rs type="funder">Office of Energy Efficiency and Renewable Energy</rs>, under award number <rs type="grantNumber">DE-EE0009520</rs>. The chemical synthesis and related charaterization were supported as part of the <rs type="institution">Center for Hybrid Organic Inorganic Semiconductors for Energy (CHOISE)</rs>, an <rs type="grantName">Energy Frontier Research Center</rs> funded by the <rs type="funder">Office of Basic Energy Sciences, Office of Science within the US DOE</rs>. The <rs type="institution">University of California San Diego (UCSD)</rs> portion of the work was supported mainly by the Solar Energy Technologies office within the <rs type="funder">US DOE, Office of Energy Efficiency and Renewable Energy</rs>, under award number <rs type="grantNumber">DE-EE0009527</rs>. The EBIC work was performed at the <rs type="institution">San Diego Nanotechnology Infrastructure of UCSD</rs>, an National Science Foundation-supported National Nanotechnology Coordinated Infrastructure site (<rs type="grantNumber">ECCS-1542148</rs>). The views expressed herein do not necessarily represent the views of the <rs type="funder">U.S. Department of Energy</rs> or the <rs type="institution">United States Government</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_TsaKHSu">
+				<org type="funding" xml:id="_7guAJnt">
 					<idno type="grant-number">DE-EE0009520</idno>
 					<orgName type="grant-name">Energy Frontier Research Center</orgName>
 				</org>
-				<org type="funding" xml:id="_2WAutv6">
+				<org type="funding" xml:id="_NFnYbwc">
 					<idno type="grant-number">DE-EE0009527</idno>
 				</org>
-				<org type="funding" xml:id="_BV8WE69">
+				<org type="funding" xml:id="_puRRPEX">
 					<idno type="grant-number">ECCS-1542148</idno>
 				</org>
 			</listOrg>

@@ -7,30 +7,30 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Minimizing buried interfacial defects for efficient inverted perovskite solar cells</title>
-				<funder ref="#_sMdUPnq">
-					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</orgName>
-				</funder>
-				<funder ref="#_ThMPeBy">
-					<orgName type="full">American Association for the Advancement of Science</orgName>
-				</funder>
-				<funder ref="#_HpnD5WZ">
-					<orgName type="full">Shanghai Municipal Science and Technology Major Project</orgName>
-				</funder>
-				<funder ref="#_T24Wb8k #_bebqfv6">
+				<funder ref="#_eK9Jwm4 #_MhTYCGH">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_w9ChCuv #_4W4wxNK #_kJmNxH4 #_8UkJnPt">
+				<funder ref="#_SfUKEWs">
+					<orgName type="full">National Key Research Program</orgName>
+				</funder>
+				<funder ref="#_WSXKrFr">
+					<orgName type="full">American Association for the Advancement of Science</orgName>
+				</funder>
+				<funder ref="#_cZGWNyh #_Yv73rmp #_YkvFdSV #_YS3Y7Kz">
 					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_Q9bUtyK">
+					<orgName type="full">Programmer of Introducing Talents of Discipline to Universities</orgName>
+				</funder>
+				<funder ref="#_VPjBby2">
+					<orgName type="full">Shanghai Municipal Science and Technology Major Project</orgName>
+				</funder>
+				<funder ref="#_5qF5gJD">
+					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Research Center of Analysis and Test of East China University of Science and Technology</orgName>
 					<orgName type="abbreviated">ECUST</orgName>
-				</funder>
-				<funder ref="#_yjmhZHP">
-					<orgName type="full">National Key Research Program</orgName>
-				</funder>
-				<funder ref="#_peq25SA">
-					<orgName type="full">Programmer of Introducing Talents of Discipline to Universities</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -413,7 +413,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -510,39 +510,39 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS S.Z. and Y.W. thank the <rs type="funder">Research Center of Analysis and Test of East China University of Science and Technology (ECUST)</rs> and the <rs type="institution">Analytical Instrumentation Center of ShanghaiTech University</rs> for performing various characterizations; <rs type="person">L. Zhou</rs> and <rs type="person">Y. Cui</rs> from <rs type="affiliation">ECUST</rs> for SEM and TEM measurements; <rs type="person">M. Li</rs> from <rs type="person">Shiyanjia Lab</rs> (www.shiyanjia.com) for the XPS analysis; <rs type="person">Y. Wang</rs> from <rs type="affiliation">Shanghai Jiao Tong University</rs> for TOF-SIMS measurement; and <rs type="person">Z. Zou</rs> from <rs type="affiliation">SPST</rs> for GIWAXS characterization. L.Z. thanks the high-performance computing center of <rs type="affiliation">Jilin University Calculations</rs>. M.S. thanks <rs type="person">M. Burgelman</rs> from the <rs type="institution">Department of Electronics and Information Systems (ELIS) of the University of Gent (Belgium)</rs> for providing SCAPS 1D software. Z.N. thanks the staff from the <rs type="institution" subtype="infrastructure">BL17B1 beamline of the National Facility for Protein Science in Shanghai at Shanghai Synchrotron Radiation Facility</rs> for assistance during data collection. Funding: <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">22179037</rs>, <rs type="grantNumber">62125402</rs>, <rs type="grantNumber">U20A20252</rs>, <rs type="grantNumber">92056119</rs>, <rs type="grantNumber">61935016</rs>), <rs type="funder">Shanghai Municipal Science and Technology Major Project</rs> (<rs type="grantNumber">2018SHZDZX03</rs>, <rs type="grantNumber">21JC1401700</rs>), <rs type="programName">Shanghai pilot program for Basic Research</rs> (<rs type="grantNumber">22TQ1400100-1</rs>), <rs type="funder">Programmer of Introducing Talents of Discipline to Universities</rs> (<rs type="grantNumber">B16017</rs>), <rs type="programName">Fundamental Research Funds for the Central Universities, Heisenberg program</rs> from the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG, German Research Foundation</rs>) project number (<rs type="grantNumber">498155101</rs>), and <rs type="funder">National Key Research Program</rs> (<rs type="grantNumber">2021YFA0715502</rs>). Author contributions: Conceptualization: S.Z., <rs type="person">F.Ye</rs>, and Y.W.; Methodology: S.Z., <rs type="person">F.Ye</rs>, X.W., R.C., W.C., M.S., <rs type="person">L.Zhang</rs>, and Y.W.; Investigation: S.Z., <rs type="person">F.Ye</rs>, Y.W., R.C., <rs type="person">X.Jiang</rs>, <rs type="person">Y.Li</rs>, H.Z., <rs type="person">L.Zhan</rs>, <rs type="person">X.Ji</rs>, S.L., M.Y., F.Yu, Y.Z., and R.W.; Visualization: S.Z., X.W., S.L., M.Y., <rs type="person">L.Zhang</rs>, and Y.W.; Funding acquisition: W.C., M.S., <rs type="person">L.Zhang</rs>, H.T., W.-H.Z., Y.W.; Project administration: W.-H.Z. and Y.W.; Supervision: Z.L., Z.N., D.N., <rs type="person">Y.Lin</rs>, L.H., H.T., W.C., M.S., <rs type="person">L.Zhang</rs>, W.-H.Z., and Y.W.; Writingoriginal draft: S.Z., <rs type="person">F.Ye</rs>, X.W., and Y.Z.; Writingreview and editing: S.Z., <rs type="person">F.Ye</rs>, M.S., <rs type="person">L.Zhang</rs>, W.-H.Z., and <rs type="person">Y.W. Competing</rs> interests: ECUST has filed a patent for the MPA-CPA molecule described above and for their use in perovskite solar cells. Data and materials availability: All data are available in the main text or the supplementary materials. License information: Copyright © 2023 the authors, some rights reserved; exclusive licensee <rs type="funder">American Association for the Advancement of Science</rs>. No claim to original US government works. <ref type="url" target="https://www.science.org/about/science-licenses-journal-article-reuse">https:// www.science.org/about/science-licenses-journal-article-reuse</ref> </p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_T24Wb8k">
+				<org type="funding" xml:id="_eK9Jwm4">
 					<idno type="grant-number">22179037</idno>
 				</org>
-				<org type="funding" xml:id="_bebqfv6">
+				<org type="funding" xml:id="_MhTYCGH">
 					<idno type="grant-number">62125402</idno>
 				</org>
-				<org type="funding" xml:id="_w9ChCuv">
+				<org type="funding" xml:id="_cZGWNyh">
 					<idno type="grant-number">U20A20252</idno>
 				</org>
-				<org type="funding" xml:id="_4W4wxNK">
+				<org type="funding" xml:id="_Yv73rmp">
 					<idno type="grant-number">92056119</idno>
 				</org>
-				<org type="funding" xml:id="_HpnD5WZ">
+				<org type="funding" xml:id="_VPjBby2">
 					<idno type="grant-number">61935016</idno>
 				</org>
-				<org type="funding" xml:id="_kJmNxH4">
+				<org type="funding" xml:id="_YkvFdSV">
 					<idno type="grant-number">2018SHZDZX03</idno>
 				</org>
-				<org type="funding" xml:id="_8UkJnPt">
+				<org type="funding" xml:id="_YS3Y7Kz">
 					<idno type="grant-number">21JC1401700</idno>
 					<orgName type="program" subtype="full">Shanghai pilot program for Basic Research</orgName>
 				</org>
-				<org type="funding" xml:id="_peq25SA">
+				<org type="funding" xml:id="_Q9bUtyK">
 					<idno type="grant-number">22TQ1400100-1</idno>
 				</org>
-				<org type="funding" xml:id="_sMdUPnq">
+				<org type="funding" xml:id="_5qF5gJD">
 					<idno type="grant-number">B16017</idno>
 					<orgName type="program" subtype="full">Fundamental Research Funds for the Central Universities, Heisenberg program</orgName>
 				</org>
-				<org type="funding" xml:id="_yjmhZHP">
+				<org type="funding" xml:id="_SfUKEWs">
 					<idno type="grant-number">498155101</idno>
 				</org>
-				<org type="funding" xml:id="_ThMPeBy">
+				<org type="funding" xml:id="_WSXKrFr">
 					<idno type="grant-number">2021YFA0715502</idno>
 				</org>
 			</listOrg>

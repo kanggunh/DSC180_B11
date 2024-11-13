@@ -7,28 +7,28 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Intact 2D/3D halide junction perovskite solar cells via solid-phase in-plane growth</title>
-				<funder ref="#_pxVcBWV">
+				<funder ref="#_FC2hqE4">
 					<orgName type="full">Ministry of Education, Science and Technology, Korea</orgName>
 				</funder>
-				<funder ref="#_vtmrtQ8 #_swsK2wr #_dXMksU7">
+				<funder ref="#_xGAgrKx #_RSNw9MP #_SB5t8eM">
 					<orgName type="full">Korea government (MSIP)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Research Foundation</orgName>
 				</funder>
-				<funder ref="#_vX5qMeC">
-					<orgName type="full">Ministry of Trade, Industry and Energy</orgName>
-				</funder>
 				<funder>
-					<orgName type="full">New and Renewable Energy Core Technology Program of the Korea Institute of Energy Technology Evaluation and Planning</orgName>
-					<orgName type="abbreviated">KETEP</orgName>
+					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Global Frontier R&amp;D Program of the Center for Multiscale Energy Systems</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">National Research Foundation of Korea</orgName>
-					<orgName type="abbreviated">NRF</orgName>
+					<orgName type="full">New and Renewable Energy Core Technology Program of the Korea Institute of Energy Technology Evaluation and Planning</orgName>
+					<orgName type="abbreviated">KETEP</orgName>
+				</funder>
+				<funder ref="#_rJt9BAE">
+					<orgName type="full">Ministry of Trade, Industry and Energy</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -172,7 +172,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:40+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -277,19 +277,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>acknowledgements This work was supported by the <rs type="funder">National Research Foundation of Korea (NRF)</rs> grant funded by the <rs type="funder">Korea government (MSIP)</rs> (grant nos. <rs type="grantNumber">NRF-2020R1A2C3009115</rs>, <rs type="grantNumber">NRF-2017M1A2A2087351</rs> (the <rs type="institution">Technology Development Program to Solve Climate Changes)</rs>; <rs type="grantNumber">NRF-2017R1A4A1015022</rs>) and the <rs type="funder">New and Renewable Energy Core Technology Program of the Korea Institute of Energy Technology Evaluation and Planning (KETEP)</rs> from the <rs type="funder">Ministry of Trade, Industry and Energy</rs> (grant no. <rs type="grantNumber">20183010014470</rs>). This work was also supported by the <rs type="funder">Global Frontier R&amp;D Program of the Center for Multiscale Energy Systems</rs> funded by the <rs type="funder">National Research Foundation</rs> under the <rs type="funder">Ministry of Education, Science and Technology, Korea</rs> (grant no. <rs type="grantNumber">2012M3A6A7054855</rs>). The authors thank <rs type="person">S.-j. Park</rs> (<rs type="person">Korea I.T.S.; XRD</rs> instrumental broadening calculation), <rs type="person">W.-S. Chae</rs> (<rs type="affiliation">Korea Basic Science Institute; TRPL mapping</rs>) for their help during the course of the study.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_vtmrtQ8">
+				<org type="funding" xml:id="_xGAgrKx">
 					<idno type="grant-number">NRF-2020R1A2C3009115</idno>
 				</org>
-				<org type="funding" xml:id="_swsK2wr">
+				<org type="funding" xml:id="_RSNw9MP">
 					<idno type="grant-number">NRF-2017M1A2A2087351</idno>
 				</org>
-				<org type="funding" xml:id="_dXMksU7">
+				<org type="funding" xml:id="_SB5t8eM">
 					<idno type="grant-number">NRF-2017R1A4A1015022</idno>
 				</org>
-				<org type="funding" xml:id="_vX5qMeC">
+				<org type="funding" xml:id="_rJt9BAE">
 					<idno type="grant-number">20183010014470</idno>
 				</org>
-				<org type="funding" xml:id="_pxVcBWV">
+				<org type="funding" xml:id="_FC2hqE4">
 					<idno type="grant-number">2012M3A6A7054855</idno>
 				</org>
 			</listOrg>

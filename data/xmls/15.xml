@@ -7,24 +7,24 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Imaging and Quantifying non-radiative Losses at 23% Efficient Inverted Perovskite Solar Cells Interfaces</title>
-				<funder ref="#_aSD3mkh">
-					<orgName type="full">European Research Council</orgName>
+				<funder ref="#_s7vQPbJ #_T8cm6yR">
+					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_wCJredV">
+				<funder ref="#_AD8pVFu">
 					<orgName type="full">European Union</orgName>
 				</funder>
-				<funder ref="#_bSPu8FT">
+				<funder ref="#_WHpT8QG">
+					<orgName type="full">European Research Council</orgName>
+				</funder>
+				<funder ref="#_ZGdgyVE">
 					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG)</orgName>
 				</funder>
-				<funder ref="#_4KdVCQS">
+				<funder ref="#_Cf5wXTw">
 					<orgName type="full">FARE Ricerca In Italia</orgName>
 				</funder>
-				<funder ref="#_gKJSwBP">
+				<funder ref="#_qPmhZnj">
 					<orgName type="full">Agence Nationale de la Recherche</orgName>
 					<orgName type="abbreviated">ANR</orgName>
-				</funder>
-				<funder ref="#_dUfjRXd #_TM8NSv2">
-					<orgName type="full">unknown</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -216,7 +216,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -269,30 +269,30 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements S.C. thanks funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation programme</rs> under the <rs type="grantName">Marie Skłodowoska-Curie Grant Agreement</rs> <rs type="grantNumber">N845612</rs>. The work has received funding from the <rs type="funder">European Research Council</rs> under the European Union's <rs type="programName">Horizon 2020 research and innovation programme</rs> (<rs type="grantName">HYNANO -Grant</rs> agreement No. <rs type="grantNumber">802862</rs>. G.G. acknowledges the Project EXPRESS that has received funding from the programme <rs type="funder">FARE Ricerca In Italia</rs> (Grant Agreement No. <rs type="grantNumber">R18ENKMTA3</rs>). This work was supported by the <rs type="funder">French government</rs> in the frame or the program of investments for the future (<rs type="programName">Programme d'Investissement d'Avenir</rs> <rs type="grantNumber">ANR-IEED-002-01</rs>). G.G. acknowledges <rs type="person">Edison Spa</rs> for funding and <rs type="person">Dr. Luca Saglietti</rs> for fruitful discussion within the project SMART. The authors thank <rs type="person">Prof. Matteo Alvaro</rs> for scientific discussion on the Raman and PL analysis. Y.V. thanks the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG)</rs> within the framework of <rs type="projectName">SPP</rs> 2196, project <rs type="projectName">PERFECT</rs> <rs type="projectName">PVs</rs> (project #<rs type="grantNumber">424216076</rs>). The authors thank <rs type="person">Dr Jean Rousset</rs> for fruitful discussion.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_wCJredV">
+				<org type="funding" xml:id="_AD8pVFu">
 					<idno type="grant-number">N845612</idno>
 					<orgName type="grant-name">Marie Skłodowoska-Curie Grant Agreement</orgName>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
 				</org>
-				<org type="funding" xml:id="_aSD3mkh">
+				<org type="funding" xml:id="_WHpT8QG">
 					<idno type="grant-number">802862</idno>
 					<orgName type="grant-name">HYNANO -Grant</orgName>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
 				</org>
-				<org type="funding" xml:id="_4KdVCQS">
+				<org type="funding" xml:id="_Cf5wXTw">
 					<idno type="grant-number">R18ENKMTA3</idno>
 				</org>
-				<org type="funding" xml:id="_gKJSwBP">
+				<org type="funding" xml:id="_qPmhZnj">
 					<idno type="grant-number">ANR-IEED-002-01</idno>
 					<orgName type="program" subtype="full">Programme d&apos;Investissement d&apos;Avenir</orgName>
 				</org>
-				<org type="funded-project" xml:id="_bSPu8FT">
+				<org type="funded-project" xml:id="_ZGdgyVE">
 					<orgName type="project" subtype="full">SPP</orgName>
 				</org>
-				<org type="funded-project" xml:id="_dUfjRXd">
+				<org type="funded-project" xml:id="_s7vQPbJ">
 					<orgName type="project" subtype="full">PERFECT</orgName>
 				</org>
-				<org type="funded-project" xml:id="_TM8NSv2">
+				<org type="funded-project" xml:id="_T8cm6yR">
 					<idno type="grant-number">424216076</idno>
 					<orgName type="project" subtype="full">PVs</orgName>
 				</org>

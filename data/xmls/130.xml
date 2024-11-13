@@ -7,38 +7,38 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Oriented nucleation in formamidinium perovskite for photovoltaics</title>
-				<funder ref="#_MTxQcBj">
-					<orgName type="full">National Center for High Performance Computing of Turkey (UHeM)</orgName>
+				<funder ref="#_VDAwjXr">
+					<orgName type="full">Natural Science Foundation of Zhejiang Province of China</orgName>
 				</funder>
-				<funder ref="#_U44an6P">
-					<orgName type="full">US Department of Energy Office of Science User Facility</orgName>
+				<funder ref="#_hXKNx8M">
+					<orgName type="full">Foundation for Innovative Research Groups of the National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_xeSE68h">
+				<funder ref="#_wQu3Csz">
 					<orgName type="full">Office of Science and Office of Basic Energy Article Sciences of the US Department of Energy</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Valais Energy Demonstrators fund</orgName>
 				</funder>
+				<funder ref="#_j7vDVRB">
+					<orgName type="full">US Department of Energy Office of Science User Facility</orgName>
+				</funder>
+				<funder ref="#_Wz5afVC #_SJH2EFx">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_8UsjHCz">
+					<orgName type="full">Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">Westlake University</orgName>
 				</funder>
-				<funder ref="#_ksKBZcG">
-					<orgName type="full">Natural Science Foundation of Zhejiang Province of China</orgName>
+				<funder ref="#_bX84FnU">
+					<orgName type="full">German Research Foundation (DFG)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Instrumentation and Service Center for Physical Sciences</orgName>
 				</funder>
-				<funder ref="#_x6uKtPn #_fWavfHz">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_v5mfJM6">
-					<orgName type="full">Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering</orgName>
-				</funder>
-				<funder ref="#_e8ByrzE">
-					<orgName type="full">German Research Foundation (DFG)</orgName>
-				</funder>
-				<funder ref="#_HjhNfBc">
-					<orgName type="full">Foundation for Innovative Research Groups of the National Natural Science Foundation of China</orgName>
+				<funder ref="#_nrQfRxJ">
+					<orgName type="full">National Center for High Performance Computing of Turkey (UHeM)</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -132,7 +132,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -193,31 +193,31 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements We thank <rs type="person">X. Miao</rs>, <rs type="person">L. Liu</rs>, <rs type="person">T. Zhou</rs> from <rs type="funder">Instrumentation and Service Center for Physical Sciences</rs>, and <rs type="person">X. Lu</rs> and <rs type="person">Z. Chen</rs> from <rs type="affiliation">Instrumentation Service Center for Molecular Sciences, Westlake University</rs> for help with characterizations and <rs type="person">S. Yuan</rs> from <rs type="affiliation">Zhejiang University</rs> for discussions about the crystallization of perovskites. J.Xue. and R.W. acknowledge a grant from the <rs type="funder">Natural Science Foundation of Zhejiang Province of China</rs> (<rs type="grantNumber">LD22E020002</rs>). J.<rs type="person">Xue</rs>. acknowledges grants from the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">62274146</rs>), the <rs type="funder">Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering</rs> (<rs type="grantNumber">2021SZ-FR006</rs>) and the <rs type="funder">Foundation for Innovative Research Groups of the National Natural Science Foundation of China</rs> (<rs type="grantNumber">61721005</rs>). R.W. acknowledges funding from <rs type="funder">Westlake University</rs>. M.K.N. and P.J.D. thank the <rs type="funder">Valais Energy Demonstrators fund</rs>. This work was also supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">62204209</rs>). We used the resources of the Advanced Light Source and the <rs type="funder">US Department of Energy Office of Science User Facility</rs> (contract <rs type="grantNumber">DE-AC02-05CH11231</rs>), beamline <rs type="grantNumber">12.3.2</rs> and the in situ spin coater. Work at the Molecular Foundry was supported by the <rs type="funder">Office of Science and Office of Basic Energy Article Sciences of the US Department of Energy</rs> (contract <rs type="grantNumber">DE-AC02-05CH11231) T.K</rs>. thanks the <rs type="funder">German Research Foundation (DFG)</rs> for funding (<rs type="grantNumber">KO6414</rs>). Computing resources used in this work were provided by the <rs type="funder">National Center for High Performance Computing of Turkey (UHeM)</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_ksKBZcG">
+				<org type="funding" xml:id="_VDAwjXr">
 					<idno type="grant-number">LD22E020002</idno>
 				</org>
-				<org type="funding" xml:id="_x6uKtPn">
+				<org type="funding" xml:id="_Wz5afVC">
 					<idno type="grant-number">62274146</idno>
 				</org>
-				<org type="funding" xml:id="_v5mfJM6">
+				<org type="funding" xml:id="_8UsjHCz">
 					<idno type="grant-number">2021SZ-FR006</idno>
 				</org>
-				<org type="funding" xml:id="_HjhNfBc">
+				<org type="funding" xml:id="_hXKNx8M">
 					<idno type="grant-number">61721005</idno>
 				</org>
-				<org type="funding" xml:id="_fWavfHz">
+				<org type="funding" xml:id="_SJH2EFx">
 					<idno type="grant-number">62204209</idno>
 				</org>
-				<org type="funding" xml:id="_U44an6P">
+				<org type="funding" xml:id="_j7vDVRB">
 					<idno type="grant-number">DE-AC02-05CH11231</idno>
 				</org>
-				<org type="funding" xml:id="_xeSE68h">
+				<org type="funding" xml:id="_wQu3Csz">
 					<idno type="grant-number">12.3.2</idno>
 				</org>
-				<org type="funding" xml:id="_e8ByrzE">
+				<org type="funding" xml:id="_bX84FnU">
 					<idno type="grant-number">DE-AC02-05CH11231) T.K</idno>
 				</org>
-				<org type="funding" xml:id="_MTxQcBj">
+				<org type="funding" xml:id="_nrQfRxJ">
 					<idno type="grant-number">KO6414</idno>
 				</org>
 			</listOrg>

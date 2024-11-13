@@ -7,13 +7,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_dVXnHxJ">
-					<orgName type="full">Beijing Natural Science Foundation</orgName>
-				</funder>
-				<funder ref="#_MPHpgCT">
+				<funder ref="#_X65bqjR">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_NFqAkVs">
+				<funder ref="#_u4mqCQg">
+					<orgName type="full">Beijing Natural Science Foundation</orgName>
+				</funder>
+				<funder ref="#_JKYy8Cp">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
 				</funder>
 			</titleStmt>
@@ -191,7 +191,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:54+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -229,13 +229,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements This work is supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51722201</rs>) (51672008) (91733301), <rs type="funder">Beijing Natural Science Foundation</rs> (<rs type="grantNumber">4182026</rs>), <rs type="funder">National Key Research and Development Program of China</rs> Grant no. <rs type="grantNumber">2017YFA0206701</rs>, and <rs type="programName">Young Talent Thousand Program</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_MPHpgCT">
+				<org type="funding" xml:id="_X65bqjR">
 					<idno type="grant-number">51722201</idno>
 				</org>
-				<org type="funding" xml:id="_dVXnHxJ">
+				<org type="funding" xml:id="_u4mqCQg">
 					<idno type="grant-number">4182026</idno>
 				</org>
-				<org type="funding" xml:id="_NFqAkVs">
+				<org type="funding" xml:id="_JKYy8Cp">
 					<idno type="grant-number">2017YFA0206701</idno>
 					<orgName type="program" subtype="full">Young Talent Thousand Program</orgName>
 				</org>

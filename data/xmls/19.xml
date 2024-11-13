@@ -7,43 +7,43 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Engineering ligand reactivity enables high-temperature operation of stable perovskite solar cells</title>
-				<funder>
-					<orgName type="full">US Department of Energy, Office of Science, Office of Basic Energy Sciences</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">University of Kentucky Information Technology Department and Center for Computational Sciences</orgName>
-					<orgName type="abbreviated">CCS</orgName>
-				</funder>
-				<funder ref="#_dpFrMXp">
-					<orgName type="full">Northwestern</orgName>
-				</funder>
-				<funder ref="#_Bm8KSrd">
-					<orgName type="full">Office of Naval Research</orgName>
-				</funder>
-				<funder ref="#_nnSV4md">
-					<orgName type="full">SHyNE Resource (NSF</orgName>
-				</funder>
-				<funder ref="#_yfk3FQm">
+				<funder ref="#_MsgzWrA">
 					<orgName type="full">US Department of the Navy, Office of Naval Research</orgName>
 				</funder>
-				<funder ref="#_h2e9dyp">
-					<orgName type="full">European Union</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">EPSCoR program</orgName>
+				<funder ref="#_kMRUkA7 #_qMeStHA">
+					<orgName type="full">Ontario Research Fund</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">IIN</orgName>
 				</funder>
-				<funder ref="#_E5NKA6M #_mHhHdyw">
-					<orgName type="full">Ontario Research Fund</orgName>
-				</funder>
-				<funder ref="#_5GyF7Yv">
+				<funder ref="#_qsyYX8a">
 					<orgName type="full">National Science Foundation</orgName>
 					<orgName type="abbreviated">NSF</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">-Ministry of Research and Innovation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Kentucky Information Technology Department and Center for Computational Sciences</orgName>
+					<orgName type="abbreviated">CCS</orgName>
+				</funder>
+				<funder ref="#_sbfpAgU">
+					<orgName type="full">Northwestern</orgName>
+				</funder>
+				<funder ref="#_dvfgBKA">
+					<orgName type="full">Office of Naval Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">US Department of Energy, Office of Science, Office of Basic Energy Sciences</orgName>
+				</funder>
+				<funder ref="#_CeuF3qM">
+					<orgName type="full">SHyNE Resource (NSF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">EPSCoR program</orgName>
+				</funder>
+				<funder ref="#_tbkGQKt">
+					<orgName type="full">European Union</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -452,7 +452,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -530,32 +530,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Funding: This research was made possible by the <rs type="funder">US Department of the Navy, Office of Naval Research</rs> (grant <rs type="grantNumber">N00014-20-1-2572</rs>). This work was supported in part by <rs type="funder">Ontario Research Fund</rs>: <rs type="programName">Research Excellence program</rs> (<rs type="grantNumber">ORF7</rs><rs type="funder">-Ministry of Research and Innovation</rs>, <rs type="funder">Ontario Research Fund</rs>: <rs type="programName">Research Excellence Round 7</rs>). This work was also supported under award <rs type="grantNumber">OSR-CRG2020-4350.2</rs>. S.M.P., H.R.A., and K.R.G. gratefully acknowledge the <rs type="funder">US Department of Energy, Office of Science, Office of Basic Energy Sciences</rs>, and the <rs type="funder">EPSCoR program</rs>, under award DE-SC0018208 for XPS measurements. K.R.R., Z.C., J.T.P., C.M.R., and K.R.G. acknowledge funding from the <rs type="funder">NSF</rs> through Cooperative Agreement 1849213. Supercomputing resources on the <rs type="institution" subtype="infrastructure">Lipscomb High Performance Computing Cluster</rs> were provided by the <rs type="funder">University of Kentucky Information Technology Department and Center for Computational Sciences (CCS)</rs>. M.W. acknowledges funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 Research and Innovation program</rs> under <rs type="grantName">Marie Skłodowska-Curie Grant Agreement 101026353</rs>. T.W. and A.A. acknowledge the support of the <rs type="funder">NSF</rs> under award <rs type="grantNumber">ECCS-1936527</rs>. A.A. acknowledges partial support by the <rs type="funder">Office of Naval Research</rs> under award <rs type="grantNumber">N00014-20-1-2573</rs>. This work made use of the NUFAB and Keck-II facilities of <rs type="institution">Northwestern University</rs>'s <rs type="programName">NUANCE Center</rs>, which has received support from the <rs type="funder">SHyNE Resource (NSF</rs> <rs type="grantNumber">ECCS-2025633</rs>), the <rs type="funder">IIN</rs>, and <rs type="funder">Northwestern</rs>'s <rs type="programName">MRSEC program</rs> (<rs type="grantNumber">NSF DMR-1720139</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_yfk3FQm">
+				<org type="funding" xml:id="_MsgzWrA">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 				</org>
-				<org type="funding" xml:id="_E5NKA6M">
+				<org type="funding" xml:id="_kMRUkA7">
 					<idno type="grant-number">ORF7</idno>
 					<orgName type="program" subtype="full">Research Excellence program</orgName>
 				</org>
-				<org type="funding" xml:id="_mHhHdyw">
+				<org type="funding" xml:id="_qMeStHA">
 					<idno type="grant-number">OSR-CRG2020-4350.2</idno>
 					<orgName type="program" subtype="full">Research Excellence Round 7</orgName>
 				</org>
-				<org type="funding" xml:id="_h2e9dyp">
+				<org type="funding" xml:id="_tbkGQKt">
 					<orgName type="grant-name">Marie Skłodowska-Curie Grant Agreement 101026353</orgName>
 					<orgName type="program" subtype="full">Horizon 2020 Research and Innovation program</orgName>
 				</org>
-				<org type="funding" xml:id="_5GyF7Yv">
+				<org type="funding" xml:id="_qsyYX8a">
 					<idno type="grant-number">ECCS-1936527</idno>
 				</org>
-				<org type="funding" xml:id="_Bm8KSrd">
+				<org type="funding" xml:id="_dvfgBKA">
 					<idno type="grant-number">N00014-20-1-2573</idno>
 					<orgName type="program" subtype="full">NUANCE Center</orgName>
 				</org>
-				<org type="funding" xml:id="_nnSV4md">
+				<org type="funding" xml:id="_CeuF3qM">
 					<idno type="grant-number">ECCS-2025633</idno>
 				</org>
-				<org type="funding" xml:id="_dpFrMXp">
+				<org type="funding" xml:id="_sbfpAgU">
 					<idno type="grant-number">NSF DMR-1720139</idno>
 					<orgName type="program" subtype="full">MRSEC program</orgName>
 				</org>

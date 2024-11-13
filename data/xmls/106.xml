@@ -7,27 +7,27 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
+				<funder ref="#_a9zv6qP">
+					<orgName type="full">Hong Kong Research Grants Council</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">APRC</orgName>
 				</funder>
-				<funder ref="#_JRSpswe">
+				<funder ref="#_Bt7RZV9 #_2kZp6WS #_FmFnE3J">
+					<orgName type="full">City University of Hong Kong</orgName>
+				</funder>
+				<funder ref="#_Tc7ahBV #_wzVrMNk">
+					<orgName type="full">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</orgName>
+				</funder>
+				<funder ref="#_JgYE5mG">
 					<orgName type="full">National Science Foundation</orgName>
 					<orgName type="abbreviated">NSF</orgName>
 				</funder>
-				<funder ref="#_cmy7BMq">
-					<orgName type="full">Hong Kong Research Grants Council</orgName>
-				</funder>
-				<funder ref="#_qh9edQz #_xzrvVdJ #_T4fzYUF">
-					<orgName type="full">City University of Hong Kong</orgName>
-				</funder>
-				<funder ref="#_cuV6NeV">
-					<orgName type="full">ARG</orgName>
-				</funder>
-				<funder ref="#_G3b84Dg #_C9hP5d5">
+				<funder ref="#_m79bRfa #_HmYHM5t">
 					<orgName type="full">Innovation and Technology Support Programme</orgName>
 				</funder>
-				<funder ref="#_FdyN6RP #_TuD47pq">
-					<orgName type="full">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</orgName>
+				<funder ref="#_rhaeaK2">
+					<orgName type="full">ARG</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -81,7 +81,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -158,36 +158,36 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The work was supported by the <rs type="funder">APRC</rs> Grant of the <rs type="funder">City University of Hong Kong</rs> (<rs type="grantNumber">9380086</rs>, <rs type="grantNumber">9610421</rs>), an <rs type="grantName">ECS grant</rs> from the <rs type="funder">Hong Kong Research Grants Council</rs> (<rs type="grantNumber">21301319</rs>) and <rs type="funder">Innovation and Technology Support Programme</rs> (<rs type="grantNumber">ITS/497/18FP</rs>, <rs type="grantNumber">GHP/021/18SZ</rs>), the <rs type="projectName">Guangdong Major Project of Basic and Applied Basic Research</rs> (no. <rs type="grantNumber">2019B030302007</rs>) and <rs type="funder">Guangdong-Hong Kong-Macao Joint Laboratory of Optoelectronic and Magnetic Functional Materials</rs> (no. <rs type="grantNumber">2019B121205002</rs>). TEM work was conducted using the facilities in the <rs type="institution">Irvine Materials Research Institute (IMRI)</rs> at the <rs type="institution">University of California-Irvine</rs> and supported by the <rs type="funder">NSF</rs> under grants (<rs type="grantNumber">CBET-1159240</rs> and <rs type="grantNumber">DMR-1506535</rs>). This work was also supported by an <rs type="funder">ARG</rs> grant (Project <rs type="grantNumber">9667168</rs>) from the <rs type="funder">City University of Hong Kong</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_qh9edQz">
+				<org type="funding" xml:id="_Bt7RZV9">
 					<idno type="grant-number">9380086</idno>
 				</org>
-				<org type="funding" xml:id="_xzrvVdJ">
+				<org type="funding" xml:id="_2kZp6WS">
 					<idno type="grant-number">9610421</idno>
 					<orgName type="grant-name">ECS grant</orgName>
 				</org>
-				<org type="funding" xml:id="_cmy7BMq">
+				<org type="funding" xml:id="_a9zv6qP">
 					<idno type="grant-number">21301319</idno>
 				</org>
-				<org type="funding" xml:id="_G3b84Dg">
+				<org type="funding" xml:id="_m79bRfa">
 					<idno type="grant-number">ITS/497/18FP</idno>
 				</org>
-				<org type="funded-project" xml:id="_C9hP5d5">
+				<org type="funded-project" xml:id="_HmYHM5t">
 					<idno type="grant-number">GHP/021/18SZ</idno>
 					<orgName type="project" subtype="full">Guangdong Major Project of Basic and Applied Basic Research</orgName>
 				</org>
-				<org type="funding" xml:id="_FdyN6RP">
+				<org type="funding" xml:id="_Tc7ahBV">
 					<idno type="grant-number">2019B030302007</idno>
 				</org>
-				<org type="funding" xml:id="_TuD47pq">
+				<org type="funding" xml:id="_wzVrMNk">
 					<idno type="grant-number">2019B121205002</idno>
 				</org>
-				<org type="funding" xml:id="_JRSpswe">
+				<org type="funding" xml:id="_JgYE5mG">
 					<idno type="grant-number">CBET-1159240</idno>
 				</org>
-				<org type="funding" xml:id="_cuV6NeV">
+				<org type="funding" xml:id="_rhaeaK2">
 					<idno type="grant-number">DMR-1506535</idno>
 				</org>
-				<org type="funding" xml:id="_T4fzYUF">
+				<org type="funding" xml:id="_FmFnE3J">
 					<idno type="grant-number">9667168</idno>
 				</org>
 			</listOrg>

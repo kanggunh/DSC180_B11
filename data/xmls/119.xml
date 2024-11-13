@@ -7,16 +7,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Transporting holes stably under iodide invasion in efficient perovskite solar cells</title>
-				<funder ref="#_CrSjdfT #_DXHvt5k">
+				<funder ref="#_quccgcX #_cDSDHmu">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">American Association for the Advancement of Science</orgName>
 				</funder>
-				<funder ref="#_crdTtCW #_xHtpscM">
+				<funder ref="#_UHETRuf #_PEZrzeJ">
 					<orgName type="full">Shanghai Pilot Program for Basic Research-Shanghai Jiao Tong University</orgName>
 				</funder>
-				<funder ref="#_EzquJx4 #_jF9MwRG">
+				<funder ref="#_Dh23zDT #_ZrHyyeq">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
@@ -278,7 +278,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -369,23 +369,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>We acknowledge assistance in measurements from the <rs type="institution">Instrumental Analysis Center of Shanghai Jiao Tong University (China)</rs>. We thank <rs type="person">J. Ding</rs> for assistance with TOF-SIMS measurements, <rs type="person">H. Li</rs> for assistance with AFM and KPFM measurements, <rs type="person">Z. Bao</rs> and <rs type="person">X. Li</rs> for assistance with scanning electron microscopy measurements, <rs type="person">N. Zhang</rs> for assistance with UPS measurements, <rs type="person">R. Wang</rs> for assistance with PL and TRPL measurements, and <rs type="person">X. Ding</rs> for assistance with x-ray photoelectron spectroscopy measurements. We thank <rs type="person">L. Han</rs> for helpful discussions. Funding: This work was funded by the <rs type="funder">National Key Research and Development Program of China</rs> (grant no. <rs type="grantNumber">2018YFB1500104</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">11574199</rs> and <rs type="grantNumber">11911530142</rs>), the <rs type="funder">Shanghai Pilot Program for Basic Research-Shanghai Jiao Tong University</rs>, and the <rs type="programName">Program for Professor of Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher Learning</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_CrSjdfT">
+				<org type="funding" xml:id="_quccgcX">
 					<idno type="grant-number">2018YFB1500104</idno>
 				</org>
-				<org type="funding" xml:id="_EzquJx4">
+				<org type="funding" xml:id="_Dh23zDT">
 					<idno type="grant-number">11574199</idno>
 				</org>
-				<org type="funding" xml:id="_crdTtCW">
+				<org type="funding" xml:id="_UHETRuf">
 					<idno type="grant-number">11911530142</idno>
 					<orgName type="program" subtype="full">Program for Professor of Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher Learning</orgName>
 				</org>
-				<org type="funding" xml:id="_DXHvt5k">
+				<org type="funding" xml:id="_cDSDHmu">
 					<idno type="grant-number">2018YFB1500104</idno>
 				</org>
-				<org type="funding" xml:id="_jF9MwRG">
+				<org type="funding" xml:id="_ZrHyyeq">
 					<idno type="grant-number">11574199</idno>
 				</org>
-				<org type="funding" xml:id="_xHtpscM">
+				<org type="funding" xml:id="_PEZrzeJ">
 					<idno type="grant-number">11911530142</idno>
 					<orgName type="program" subtype="full">Program for Professor of Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher Learning</orgName>
 				</org>

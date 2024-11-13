@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Liquid medium annealing for fabricating durable perovskite solar cells with improved reproducibility</title>
-				<funder ref="#_RSbgEtE">
-					<orgName type="full">Natural Science Foundation of Beijing, China</orgName>
-				</funder>
-				<funder ref="#_s2J2Fed">
-					<orgName type="full">China Postdoctoral Science Foundation</orgName>
-				</funder>
-				<funder ref="#_KnrWhuc #_K49pT2d">
+				<funder ref="#_5Es7MXx #_MuBkfpH">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
 				</funder>
-				<funder ref="#_xHcptwf">
-					<orgName type="full">Tencent Foundation</orgName>
+				<funder ref="#_T3sQd5r #_GUmD7z3 #_pHVw77F">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_a2VvpVM">
+				<funder ref="#_tBvjFW8">
 					<orgName type="full">Beijing Municipal Science and Technology Project</orgName>
 				</funder>
-				<funder ref="#_sZCJgqM #_DNPKYmB #_tAzZtY4">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
+				<funder ref="#_MW8RZs2">
+					<orgName type="full">Natural Science Foundation of Beijing, China</orgName>
+				</funder>
+				<funder ref="#_G9gy2Zx">
+					<orgName type="full">Tencent Foundation</orgName>
+				</funder>
+				<funder ref="#_pMtkTyt">
+					<orgName type="full">China Postdoctoral Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -456,7 +456,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -539,31 +539,31 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>We thank <rs type="person">J. Song</rs> and <rs type="person">Y. Lu</rs> (<rs type="affiliation">Beijing University of Technology</rs>) for discussions about crystal growth dynamics and <rs type="person">W. Zhou</rs> and <rs type="person">Y. Jiang</rs> (<rs type="affiliation">Peking University</rs>) for assistance with fabricating perovskite solar cells. Funding: This work was supported by the <rs type="funder">National Key Research and Development Program of China</rs> (grant nos. <rs type="grantNumber">2020YFB1506400</rs> and <rs type="grantNumber">2017YFA0206701</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">51972004</rs>, <rs type="grantNumber">21975028</rs>, and <rs type="grantNumber">22005035</rs>), the <rs type="funder">Natural Science Foundation of Beijing, China</rs> (grant no. <rs type="grantNumber">JQ19008</rs>), <rs type="funder">Beijing Municipal Science and Technology Project</rs> (<rs type="grantNumber">Z181100005118002</rs>), the <rs type="funder">China Postdoctoral Science Foundation</rs> (grant nos. <rs type="grantNumber">2020TQ0043</rs> and <rs type="grantNumber">2020M680012</rs>), and the <rs type="funder">Tencent Foundation</rs> through the <rs type="programName">XPLORER PRIZE</rs>. Author contributions: <rs type="person">H. Zhou</rs>, Q.C., N.L., X.N., and L.L. conceived the idea. <rs type="person">H. Zhou</rs>, Q.C., N.L., and X.N. designed the experiments. N.L. and X.N. were involved in all experiments. H.W. performed the finite element analysis. X.L. contributed to the scheme design. Z.G. helped with the EL measurements. G.L. performed the transient photocurrent and transient photovoltage measurements. H.C. and J.W. conducted the PLQE measurements. Y.L., X.W., and J.H. performed the SKPM measurements. H.X. performed the XPS measurement. D.S.J. and X.G.X. conducted the peak force infrared measurements. Z.H., X.Z., Y.C., Y.Z. C.Z., <rs type="person">H. Zai</rs>, <rs type="person">Y.B.</rs>, S.M., H.L., and R.F. contributed to the fabrication of high-performance perovskite solar cells. <rs type="person">H. Zhou</rs>, Q.C., N.L., and X.N. wrote and revised the manuscript. All authors were involved in discussions of data analysis and commented on the manuscript. Competing interests: The authors declare no competing interests. Data and materials availability: All data are available in the main text or the supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_KnrWhuc">
+				<org type="funding" xml:id="_5Es7MXx">
 					<idno type="grant-number">2020YFB1506400</idno>
 				</org>
-				<org type="funding" xml:id="_K49pT2d">
+				<org type="funding" xml:id="_MuBkfpH">
 					<idno type="grant-number">2017YFA0206701</idno>
 				</org>
-				<org type="funding" xml:id="_sZCJgqM">
+				<org type="funding" xml:id="_T3sQd5r">
 					<idno type="grant-number">51972004</idno>
 				</org>
-				<org type="funding" xml:id="_DNPKYmB">
+				<org type="funding" xml:id="_GUmD7z3">
 					<idno type="grant-number">21975028</idno>
 				</org>
-				<org type="funding" xml:id="_tAzZtY4">
+				<org type="funding" xml:id="_pHVw77F">
 					<idno type="grant-number">22005035</idno>
 				</org>
-				<org type="funding" xml:id="_RSbgEtE">
+				<org type="funding" xml:id="_MW8RZs2">
 					<idno type="grant-number">JQ19008</idno>
 				</org>
-				<org type="funding" xml:id="_a2VvpVM">
+				<org type="funding" xml:id="_tBvjFW8">
 					<idno type="grant-number">Z181100005118002</idno>
 				</org>
-				<org type="funding" xml:id="_s2J2Fed">
+				<org type="funding" xml:id="_pMtkTyt">
 					<idno type="grant-number">2020TQ0043</idno>
 				</org>
-				<org type="funding" xml:id="_xHcptwf">
+				<org type="funding" xml:id="_G9gy2Zx">
 					<idno type="grant-number">2020M680012</idno>
 					<orgName type="program" subtype="full">XPLORER PRIZE</orgName>
 				</org>

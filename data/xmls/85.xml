@@ -7,30 +7,30 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Efficient, stable and scalable perovskite solar cells using poly(3-hexylthiophene)</title>
-				<funder ref="#_hWBc2w5">
-					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
-					<orgName type="abbreviated">KRICT</orgName>
-				</funder>
-				<funder ref="#_Rt4wcHW">
-					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
-					<orgName type="abbreviated">MSIP</orgName>
+				<funder ref="#_QfRW9RB #_nAJFUSU">
+					<orgName type="full">South Korean government (MSIP)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">NRF</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Ministry of Trade Industry &amp; Energy</orgName>
-				</funder>
-				<funder ref="#_RVsUwQ8 #_khqaRQU">
-					<orgName type="full">South Korean government (MSIP)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Korea Institute of Energy Technology Evaluation and Planning</orgName>
 					<orgName type="abbreviated">KETEP</orgName>
 				</funder>
 				<funder>
+					<orgName type="full">Ministry of Trade Industry &amp; Energy</orgName>
+				</funder>
+				<funder ref="#_yZUQWCw">
+					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
+					<orgName type="abbreviated">KRICT</orgName>
+				</funder>
+				<funder>
 					<orgName type="full">National Research Foundation of Korea</orgName>
 					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+				<funder ref="#_PXVyc2p">
+					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
+					<orgName type="abbreviated">MSIP</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -82,7 +82,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -130,16 +130,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements This work was supported by a grant from the <rs type="funder">Korea Research Institute of Chemical Technology (KRICT)</rs>, <rs type="person">South Korea</rs> (<rs type="grantNumber">KK1802-A01</rs>); the <rs type="funder">Korea Institute of Energy Technology Evaluation and Planning (KETEP)</rs> and the <rs type="funder">Ministry of Trade Industry &amp; Energy</rs> (MOTIE) of South Korea (20163010012470); and by a grant from the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Science, ICT &amp; Future Planning (MSIP) of South Korea</rs> (<rs type="grantNumber">NRF-2016M3A6A7945503</rs>). J.H.N. acknowledges financial support from an <rs type="funder">NRF</rs> grant funded by the <rs type="funder">South Korean government (MSIP)</rs> (<rs type="grantNumber">2017R1A2B2009676</rs>, <rs type="grantNumber">2017R1A4A1015022</rs>).</p><p>Reviewer information Nature thanks <rs type="person">Ardalan Armin</rs> and the other anonymous reviewer(s) for their contribution to the peer review of this work.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_hWBc2w5">
+				<org type="funding" xml:id="_yZUQWCw">
 					<idno type="grant-number">KK1802-A01</idno>
 				</org>
-				<org type="funding" xml:id="_Rt4wcHW">
+				<org type="funding" xml:id="_PXVyc2p">
 					<idno type="grant-number">NRF-2016M3A6A7945503</idno>
 				</org>
-				<org type="funding" xml:id="_RVsUwQ8">
+				<org type="funding" xml:id="_QfRW9RB">
 					<idno type="grant-number">2017R1A2B2009676</idno>
 				</org>
-				<org type="funding" xml:id="_khqaRQU">
+				<org type="funding" xml:id="_nAJFUSU">
 					<idno type="grant-number">2017R1A4A1015022</idno>
 				</org>
 			</listOrg>

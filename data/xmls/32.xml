@@ -7,7 +7,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Unique Properties of Halide Perovskites as Possible Origins of the Superior Solar Cell Performance</title>
-				<funder ref="#_HfVx5nW">
+				<funder ref="#_vwWgy4A">
 					<orgName type="full">Offi ce of Science of the U.S. Department of Energy</orgName>
 				</funder>
 			</titleStmt>
@@ -121,7 +121,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -157,7 +157,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>We thank <rs type="person">Dr. S. J. Pennycook</rs> for his critical reading of the manuscript and <rs type="person">Dr. Liping Yu</rs> for his discussion on the method of maximum effi ciency calculation. This research used the resources of the <rs type="institution">Ohio Supercomputer Center</rs> and the <rs type="institution">National Energy Research Scientifi c Computing Center</rs>, which is supported by the <rs type="funder">Offi ce of Science of the U.S. Department of Energy</rs> under Contract No. <rs type="grantNumber">DE-AC02-05CH11231</rs>. Y.Y. acknowledges the support of the <rs type="programName">Ohio Research Scholar Program</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_HfVx5nW">
+				<org type="funding" xml:id="_vwWgy4A">
 					<idno type="grant-number">DE-AC02-05CH11231</idno>
 					<orgName type="program" subtype="full">Ohio Research Scholar Program</orgName>
 				</org>

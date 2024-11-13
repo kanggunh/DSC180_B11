@@ -7,29 +7,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Homogenizing out-of-plane cation composition in perovskite solar cells</title>
-				<funder ref="#_zEqxxTf">
-					<orgName type="full">Korean Ministry of Science and ICT</orgName>
-				</funder>
-				<funder ref="#_3wNVxC2">
-					<orgName type="full">Beijing Key Laboratory of Novel Thin-Film Solar Cells</orgName>
-				</funder>
-				<funder ref="#_MBYKd4Y">
-					<orgName type="full">National Research Foundation of Korea</orgName>
-				</funder>
-				<funder ref="#_nFSk8ej">
-					<orgName type="full">Director&apos;s Fund of the Hefei Institutes of Physical Science</orgName>
-				</funder>
-				<funder ref="#_nRUzMt6">
-					<orgName type="full">National Key R&amp;D Program of China</orgName>
-				</funder>
-				<funder ref="#_zfZSVV4">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_8Cqc7ay #_YJh6MEC #_shPEnUv #_6bGVSNp #_xPRc3mK #_xgjQMdw">
+				<funder ref="#_mYSUeDY #_rNN5XJv #_ujHbPFp #_2nsSx3W #_yDCWHE8 #_UkFcDFy">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_ZuH3njy">
+				<funder ref="#_trNZSX3">
 					<orgName type="full">Science Funds of Distinguished Young Scholars of Anhui Province</orgName>
+				</funder>
+				<funder ref="#_Mdnt6ew">
+					<orgName type="full">National Key R&amp;D Program of China</orgName>
+				</funder>
+				<funder ref="#_y3N9NMr">
+					<orgName type="full">National Research Foundation of Korea</orgName>
+				</funder>
+				<funder ref="#_9sub5QU">
+					<orgName type="full">Beijing Key Laboratory of Novel Thin-Film Solar Cells</orgName>
+				</funder>
+				<funder ref="#_bjdXc2b">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_yEUEcjT">
+					<orgName type="full">Korean Ministry of Science and ICT</orgName>
+				</funder>
+				<funder ref="#_YAEA8PX">
+					<orgName type="full">Director&apos;s Fund of the Hefei Institutes of Physical Science</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -279,7 +279,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -352,45 +352,45 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was financially supported by the <rs type="funder">National Key R&amp;D Program of China</rs> (grant no. <rs type="grantNumber">2021YFB3800102</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">52272252</rs>, <rs type="grantNumber">U22A20142</rs>, <rs type="grantNumber">52302324</rs> and <rs type="grantNumber">62204108</rs>), the <rs type="funder">Director's Fund of the Hefei Institutes of Physical Science</rs> (grant no. <rs type="grantNumber">YZJJ-GGZX-2022-01</rs>) and the <rs type="funder">Science Funds of Distinguished Young Scholars of Anhui Province</rs> (grant no. <rs type="grantNumber">2108085J34</rs>). We acknowledge use of the beamlines <rs type="grantNumber">BL13SSW</rs>, <rs type="grantNumber">BL14B1</rs>, <rs type="grantNumber">BL17B1</rs> and <rs type="grantNumber">BL10U2</rs> at <rs type="institution">SSRF, China</rs>, for the synchrotron radiation experiments. We thank <rs type="person">S. He</rs>, <rs type="person">Z. Su</rs> and <rs type="person">L. Cheng</rs> from <rs type="affiliation">SSRF</rs> for support with the synchrotron radiation experiments. N.-G.P. acknowledges financial support through grants from the <rs type="funder">National Research Foundation of Korea</rs>, which is funded by the <rs type="funder">Korean Ministry of Science and ICT</rs> under contract <rs type="grantNumber">NRF-2021R1A3B1076723</rs> (<rs type="programName">Research Leader Program</rs>). S.D. acknowledges support from the <rs type="projectName">111</rs> project (<rs type="grantNumber">B16016</rs>) and the <rs type="funder">Beijing Key Laboratory of Novel Thin-Film Solar Cells</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_nRUzMt6">
+				<org type="funding" xml:id="_Mdnt6ew">
 					<idno type="grant-number">2021YFB3800102</idno>
 				</org>
-				<org type="funding" xml:id="_zfZSVV4">
+				<org type="funding" xml:id="_bjdXc2b">
 					<idno type="grant-number">52272252</idno>
 				</org>
-				<org type="funding" xml:id="_8Cqc7ay">
+				<org type="funding" xml:id="_mYSUeDY">
 					<idno type="grant-number">U22A20142</idno>
 				</org>
-				<org type="funding" xml:id="_YJh6MEC">
+				<org type="funding" xml:id="_rNN5XJv">
 					<idno type="grant-number">52302324</idno>
 				</org>
-				<org type="funding" xml:id="_nFSk8ej">
+				<org type="funding" xml:id="_YAEA8PX">
 					<idno type="grant-number">62204108</idno>
 				</org>
-				<org type="funding" xml:id="_ZuH3njy">
+				<org type="funding" xml:id="_trNZSX3">
 					<idno type="grant-number">YZJJ-GGZX-2022-01</idno>
 				</org>
-				<org type="funding" xml:id="_shPEnUv">
+				<org type="funding" xml:id="_ujHbPFp">
 					<idno type="grant-number">2108085J34</idno>
 				</org>
-				<org type="funding" xml:id="_6bGVSNp">
+				<org type="funding" xml:id="_2nsSx3W">
 					<idno type="grant-number">BL13SSW</idno>
 				</org>
-				<org type="funding" xml:id="_xPRc3mK">
+				<org type="funding" xml:id="_yDCWHE8">
 					<idno type="grant-number">BL14B1</idno>
 				</org>
-				<org type="funding" xml:id="_xgjQMdw">
+				<org type="funding" xml:id="_UkFcDFy">
 					<idno type="grant-number">BL17B1</idno>
 				</org>
-				<org type="funding" xml:id="_MBYKd4Y">
+				<org type="funding" xml:id="_y3N9NMr">
 					<idno type="grant-number">BL10U2</idno>
 				</org>
-				<org type="funded-project" xml:id="_zEqxxTf">
+				<org type="funded-project" xml:id="_yEUEcjT">
 					<idno type="grant-number">NRF-2021R1A3B1076723</idno>
 					<orgName type="project" subtype="full">111</orgName>
 					<orgName type="program" subtype="full">Research Leader Program</orgName>
 				</org>
-				<org type="funding" xml:id="_3wNVxC2">
+				<org type="funding" xml:id="_9sub5QU">
 					<idno type="grant-number">B16016</idno>
 				</org>
 			</listOrg>

@@ -7,28 +7,28 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_jk6dStU">
-					<orgName type="full">Office of Naval Research</orgName>
+				<funder ref="#_GjgktHB">
+					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_7xc23VD #_3gJbVTu">
+				<funder ref="#_VhUbfeB #_U8R7tB5">
 					<orgName type="full">National Science Foundation</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Ministero Istruzione dell&apos;Università e della Ricerca</orgName>
 					<orgName type="abbreviated">MIUR</orgName>
 				</funder>
-				<funder ref="#_k6znXzf">
-					<orgName type="full">University of Nebraska-Lincoln</orgName>
-				</funder>
-				<funder ref="#_RnBpM3w">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_fK95qCa">
+				<funder ref="#_mtRkHpr">
 					<orgName type="full">University of Perugia</orgName>
 				</funder>
-				<funder ref="#_byq8be5">
+				<funder ref="#_ASfySC6">
+					<orgName type="full">University of Nebraska-Lincoln</orgName>
+				</funder>
+				<funder ref="#_sH3cmWz">
 					<orgName type="full">Air Force Office of Scientific Research</orgName>
 					<orgName type="abbreviated">AFOSR</orgName>
+				</funder>
+				<funder ref="#_k4FaYfr">
+					<orgName type="full">Office of Naval Research</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -127,7 +127,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -184,26 +184,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Funding: J.H. acknowledges supports from <rs type="funder">Office of Naval Research</rs> under award <rs type="grantNumber">N00014-17-1-2727</rs> and <rs type="funder">Air Force Office of Scientific Research (AFOSR)</rs> (grant <rs type="grantNumber">A9550-16-1-0299</rs>). Y.G. acknowledges supports from <rs type="funder">National Science Foundation</rs> (<rs type="affiliation">NSF</rs>) <rs type="grantNumber">CBET-1437656</rs>. F.D.A. and E.M. acknowledge the <rs type="funder">Ministero Istruzione dell'Università e della Ricerca (MIUR)</rs>, the <rs type="funder">University of Perugia</rs> (grant AMIS), and <rs type="person">ESPResSo Project</rs> (<rs type="programName">Horizon 2020</rs>, grant <rs type="grantNumber">764047</rs>). This work was performed in part at the <rs type="institution" subtype="infrastructure">Analytical Instrumentation Facility (AIF)</rs> at <rs type="institution">North Carolina State University</rs>, which is supported by the state of <rs type="person">North Carolina</rs> and <rs type="funder">NSF</rs> (award <rs type="grantNumber">ECCS-1542015</rs>). Author contributions: J.H. conceived the idea and supervised the research of this work. S.Y. and S.C. fabricated and characterized the perovskite films and solar cells. E.M. and F.D.A. did the theoretical simulation. Y.F. conducted the temperature-dependent conductivity measurement. Y.Z. and X.X. carried out the PL and TRPL characterizations. Z.Y. and J.Z. did the encapsulation and stability tests of perovskite devices. C.W. and Y.G. conducted the XPS tests. J.H., S.Y., and S.C. wrote the manuscript, and all the authors reviewed the manuscript. Competing interests: J.H. and S.Y. are inventors on U.S. patent application (<rs type="grantNumber">62/798</rs>,<rs type="grantNumber">671</rs>) submitted by the <rs type="funder">University of Nebraska-Lincoln</rs> and <rs type="institution">University of North Carolina at Chapel Hill</rs> that covers conversion of halide perovskite surfaces to insoluble, wide-bandgap lead oxysalts for enhanced solar cell stability. Data and materials availability: All data are available in the manuscript or the supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_jk6dStU">
+				<org type="funding" xml:id="_k4FaYfr">
 					<idno type="grant-number">N00014-17-1-2727</idno>
 				</org>
-				<org type="funding" xml:id="_byq8be5">
+				<org type="funding" xml:id="_sH3cmWz">
 					<idno type="grant-number">A9550-16-1-0299</idno>
 				</org>
-				<org type="funding" xml:id="_7xc23VD">
+				<org type="funding" xml:id="_VhUbfeB">
 					<idno type="grant-number">CBET-1437656</idno>
 				</org>
-				<org type="funding" xml:id="_fK95qCa">
+				<org type="funding" xml:id="_mtRkHpr">
 					<idno type="grant-number">764047</idno>
 					<orgName type="program" subtype="full">Horizon 2020</orgName>
 				</org>
-				<org type="funding" xml:id="_3gJbVTu">
+				<org type="funding" xml:id="_U8R7tB5">
 					<idno type="grant-number">ECCS-1542015</idno>
 				</org>
-				<org type="funding" xml:id="_RnBpM3w">
+				<org type="funding" xml:id="_GjgktHB">
 					<idno type="grant-number">62/798</idno>
 				</org>
-				<org type="funding" xml:id="_k6znXzf">
+				<org type="funding" xml:id="_ASfySC6">
 					<idno type="grant-number">671</idno>
 				</org>
 			</listOrg>

@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Suppressed Ion Migration in Reduced-Dimensional Perovskites Improves Operating Stability</title>
-				<funder ref="#_eqMX7pB">
-					<orgName type="full">U.S. Department of the Navy, Office of Naval Research</orgName>
+				<funder ref="#_GAtZrRp">
+					<orgName type="full">NSERC</orgName>
 				</funder>
-				<funder ref="#_EtKGtPu #_X5uS9hg #_c3dZm96">
+				<funder ref="#_eTCXjfW #_HR4W8G5 #_jrDWYzX">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_RNs5V7M">
-					<orgName type="full">NSERC</orgName>
+				<funder ref="#_PfMcnTh">
+					<orgName type="full">U.S. Department of the Navy, Office of Naval Research</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -458,7 +458,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:31+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:55+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -500,21 +500,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>This publication is based on work supported by the <rs type="funder">U.S. Department of the Navy, Office of Naval Research</rs> (<rs type="grantName">Grant Award</rs> No.: <rs type="grantNumber">N00014-17-1-2524</rs>). M.I.S. acknowledges the support of the <rs type="programName">Banting Postdoctoral Fellowship Program</rs>, administered by the <rs type="institution">Government of Canada</rs>. A.H.P. acknowledges support from the <rs type="funder">NSERC</rs> <rs type="programName">Alexander Graham Bell Scholarship program</rs>. The authors thank <rs type="person">Dr. P. M. Brodersen</rs> in the <rs type="institution">Ontario Centre for Characterization of Advanced Materials (OCCAM)</rs> for assistance with materials characterization using TOF-SIMS and XPS.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_EtKGtPu">
+				<org type="funding" xml:id="_eTCXjfW">
 					<idno type="grant-number">0000-0001-7983-913X Yi Hou: 0000-0002-1532-816X Hongwei Han: 0000-0002-5259-7027</idno>
 				</org>
-				<org type="funding" xml:id="_X5uS9hg">
+				<org type="funding" xml:id="_HR4W8G5">
 					<idno type="grant-number">0000-0003-3360-5359</idno>
 				</org>
-				<org type="funding" xml:id="_c3dZm96">
+				<org type="funding" xml:id="_jrDWYzX">
 					<idno type="grant-number">0000-0003-0396-6495</idno>
 				</org>
-				<org type="funding" xml:id="_eqMX7pB">
+				<org type="funding" xml:id="_PfMcnTh">
 					<idno type="grant-number">N00014-17-1-2524</idno>
 					<orgName type="grant-name">Grant Award</orgName>
 					<orgName type="program" subtype="full">Banting Postdoctoral Fellowship Program</orgName>
 				</org>
-				<org type="funding" xml:id="_RNs5V7M">
+				<org type="funding" xml:id="_GAtZrRp">
 					<orgName type="program" subtype="full">Alexander Graham Bell Scholarship program</orgName>
 				</org>
 			</listOrg>

@@ -7,32 +7,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_Ha5U52K #_tZMQy3M">
-					<orgName type="full">Natural Science Foundation of Jiangsu Province</orgName>
-				</funder>
-				<funder ref="#_sfCEbgk">
-					<orgName type="full">Frontiers Science Center for Critical Earth Material Cycling Fund</orgName>
-				</funder>
 				<funder>
 					<orgName type="full">Canada Foundation for Innovation</orgName>
 				</funder>
-				<funder ref="#_nxvbewz #_NS5EHAr">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_TEf8WXy">
-					<orgName type="full">Technology Innovation Fund of Nanjing University, Fundamental Research Funds for the Central Universities</orgName>
-				</funder>
-				<funder ref="#_47ajfHU #_3TwBTum">
+				<funder ref="#_aBWQ6av #_6QBU6qA">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_6MhJc22">
+				<funder ref="#_RpQFVVX">
+					<orgName type="full">Frontiers Science Center for Critical Earth Material Cycling Fund</orgName>
+				</funder>
+				<funder ref="#_qRSS22k #_rtnsP4j">
+					<orgName type="full">Natural Science Foundation of Jiangsu Province</orgName>
+				</funder>
+				<funder ref="#_akehPQk">
+					<orgName type="full">Technology Innovation Fund of Nanjing University, Fundamental Research Funds for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_CzRRY4S #_3ygQK2Z">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_C5nwFR4">
 					<orgName type="full">US Department of the Navy, Office of Naval Research</orgName>
 				</funder>
-				<funder ref="#_vt52VBd">
-					<orgName type="full">Program for Innovative Talents and Entrepreneur in Jiangsu</orgName>
-				</funder>
-				<funder ref="#_TtGYAWs">
+				<funder ref="#_DcZy8TE">
 					<orgName type="full">National Key R&amp;D Program of China</orgName>
+				</funder>
+				<funder ref="#_5BJrTrw">
+					<orgName type="full">Program for Innovative Talents and Entrepreneur in Jiangsu</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -112,7 +112,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -192,37 +192,37 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was financially supported by the <rs type="funder">National Key R&amp;D Program of China</rs> (<rs type="grantNumber">2022YFB4200304</rs>), <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">U21A2076</rs> and <rs type="grantNumber">61974063</rs>), <rs type="funder">Natural Science Foundation of Jiangsu Province</rs> (<rs type="grantNumber">BE2022021</rs>, <rs type="grantNumber">BE2022026</rs>, <rs type="grantNumber">BK20202008</rs>, <rs type="grantNumber">BK20190315</rs>), the <rs type="funder">Technology Innovation Fund of Nanjing University, Fundamental Research Funds for the Central Universities</rs> (<rs type="grantNumber">0213/14380206</rs>; <rs type="grantNumber">0205/14380252</rs>), <rs type="funder">Frontiers Science Center for Critical Earth Material Cycling Fund</rs> (<rs type="grantNumber">DLTD2109</rs>) and <rs type="funder">Program for Innovative Talents and Entrepreneur in Jiangsu</rs>. The work at <rs type="institution">University of Toronto</rs> was supported by the <rs type="funder">US Department of the Navy, Office of Naval Research</rs> (<rs type="grantNumber">N00014-20-1-2572</rs>). J. Xu acknowledges SciNet, which is funded by the <rs type="funder">Canada Foundation for Innovation</rs> under the auspices of <rs type="affiliation">Compute Canada</rs>, for providing the computing resources for DFT simulations.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_TtGYAWs">
+				<org type="funding" xml:id="_DcZy8TE">
 					<idno type="grant-number">2022YFB4200304</idno>
 				</org>
-				<org type="funding" xml:id="_nxvbewz">
+				<org type="funding" xml:id="_CzRRY4S">
 					<idno type="grant-number">U21A2076</idno>
 				</org>
-				<org type="funding" xml:id="_NS5EHAr">
+				<org type="funding" xml:id="_3ygQK2Z">
 					<idno type="grant-number">61974063</idno>
 				</org>
-				<org type="funding" xml:id="_Ha5U52K">
+				<org type="funding" xml:id="_qRSS22k">
 					<idno type="grant-number">BE2022021</idno>
 				</org>
-				<org type="funding" xml:id="_tZMQy3M">
+				<org type="funding" xml:id="_rtnsP4j">
 					<idno type="grant-number">BE2022026</idno>
 				</org>
-				<org type="funding" xml:id="_47ajfHU">
+				<org type="funding" xml:id="_aBWQ6av">
 					<idno type="grant-number">BK20202008</idno>
 				</org>
-				<org type="funding" xml:id="_TEf8WXy">
+				<org type="funding" xml:id="_akehPQk">
 					<idno type="grant-number">BK20190315</idno>
 				</org>
-				<org type="funding" xml:id="_3TwBTum">
+				<org type="funding" xml:id="_6QBU6qA">
 					<idno type="grant-number">0213/14380206</idno>
 				</org>
-				<org type="funding" xml:id="_sfCEbgk">
+				<org type="funding" xml:id="_RpQFVVX">
 					<idno type="grant-number">0205/14380252</idno>
 				</org>
-				<org type="funding" xml:id="_vt52VBd">
+				<org type="funding" xml:id="_5BJrTrw">
 					<idno type="grant-number">DLTD2109</idno>
 				</org>
-				<org type="funding" xml:id="_6MhJc22">
+				<org type="funding" xml:id="_C5nwFR4">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 				</org>
 			</listOrg>

@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Stabilizing Formamidinium Lead Iodide Perovskite by Sulfonyl-Functionalized Phenethylammonium Salt via Crystallization Control and Surface Passivation</title>
-				<funder ref="#_fXNvbm4">
-					<orgName type="full">Science and Technology Commission of Shanghai Municipality</orgName>
-				</funder>
-				<funder ref="#_CXenkZk #_7gBGsWj #_uREkxWT #_qrJuz4Q">
+				<funder ref="#_JZ3neby #_z6fkU7U #_dTQyYh7 #_MhK5Nd2">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_uh69n78">
+				<funder ref="#_cGJHgmZ">
+					<orgName type="full">Science and Technology Commission of Shanghai Municipality</orgName>
+				</funder>
+				<funder ref="#_RjF4yUY #_PG5zSvV">
+					<orgName type="full">China Association of Science and Technology</orgName>
+				</funder>
+				<funder ref="#_nszsxnb">
 					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
 				</funder>
-				<funder ref="#_8T44ABS">
+				<funder ref="#_8BeAb8N">
 					<orgName type="full">Shanghai Municipal Science and Technology Major Project</orgName>
 				</funder>
-				<funder ref="#_pqSbKxh">
+				<funder ref="#_vmp2fDp">
 					<orgName type="full">Program of Introducing Talents of Discipline to Universities</orgName>
-				</funder>
-				<funder ref="#_BQNd5NN #_9Sz5KQr">
-					<orgName type="full">China Association of Science and Technology</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -114,7 +114,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -156,34 +156,34 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was financially supported by the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">21822504</rs>, <rs type="grantNumber">21706070</rs>, <rs type="grantNumber">21788102</rs>, and <rs type="grantNumber">21421004</rs>), <rs type="funder">Shanghai Municipal Science and Technology Major Project</rs> (grant no. <rs type="grantNumber">2018SHZDZX03</rs>), <rs type="funder">Program of Introducing Talents of Discipline to Universities</rs> (grant no. <rs type="grantNumber">B16017</rs>), <rs type="person">Eastern Scholar</rs> (grant no. <rs type="grantNumber">TP2016018</rs>), <rs type="funder">Science and Technology Commission of Shanghai Municipality</rs> (grant no. <rs type="grantNumber">17ZR1407400</rs>), <rs type="funder">China Association of Science and Technology</rs> (grant no. <rs type="grantNumber">2017QNRC001</rs>), and <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (grant no. <rs type="grantNumber">WJ1714007</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_CXenkZk">
+				<org type="funding" xml:id="_JZ3neby">
 					<idno type="grant-number">21822504</idno>
 				</org>
-				<org type="funding" xml:id="_7gBGsWj">
+				<org type="funding" xml:id="_z6fkU7U">
 					<idno type="grant-number">21706070</idno>
 				</org>
-				<org type="funding" xml:id="_uREkxWT">
+				<org type="funding" xml:id="_dTQyYh7">
 					<idno type="grant-number">21788102</idno>
 				</org>
-				<org type="funding" xml:id="_qrJuz4Q">
+				<org type="funding" xml:id="_MhK5Nd2">
 					<idno type="grant-number">21421004</idno>
 				</org>
-				<org type="funding" xml:id="_8T44ABS">
+				<org type="funding" xml:id="_8BeAb8N">
 					<idno type="grant-number">2018SHZDZX03</idno>
 				</org>
-				<org type="funding" xml:id="_pqSbKxh">
+				<org type="funding" xml:id="_vmp2fDp">
 					<idno type="grant-number">B16017</idno>
 				</org>
-				<org type="funding" xml:id="_fXNvbm4">
+				<org type="funding" xml:id="_cGJHgmZ">
 					<idno type="grant-number">TP2016018</idno>
 				</org>
-				<org type="funding" xml:id="_BQNd5NN">
+				<org type="funding" xml:id="_RjF4yUY">
 					<idno type="grant-number">17ZR1407400</idno>
 				</org>
-				<org type="funding" xml:id="_9Sz5KQr">
+				<org type="funding" xml:id="_PG5zSvV">
 					<idno type="grant-number">2017QNRC001</idno>
 				</org>
-				<org type="funding" xml:id="_uh69n78">
+				<org type="funding" xml:id="_nszsxnb">
 					<idno type="grant-number">WJ1714007</idno>
 				</org>
 			</listOrg>

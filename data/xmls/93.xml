@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">A Thermodynamically Favored Crystal Orientation in Mixed Formamidinium/Methylammonium Perovskite for Efficient Solar Cells</title>
-				<funder ref="#_x4ErCGj">
-					<orgName type="full">Beijing Natural Science Foundation</orgName>
+				<funder ref="#_EWaY8G8 #_Gyg6HXh #_FD6WxdJ">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_u65up5v">
+				<funder ref="#_P6YzQ2r">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
 				</funder>
-				<funder ref="#_fhyRYgm #_VJbgqWh #_dKw3HdH">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
+				<funder ref="#_U5ctd63">
+					<orgName type="full">Beijing Natural Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -150,7 +150,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:40+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -213,19 +213,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>Z.X., Z.L., and N.L. contributed equally to this work. The authors acknowledge funding support from the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51722201</rs>, <rs type="grantNumber">51672008</rs>, and <rs type="grantNumber">91733301</rs>), <rs type="funder">National Key Research and Development Program of China</rs> Grant No. <rs type="grantNumber">2017YFA0206701</rs>, <rs type="funder">Beijing Natural Science Foundation</rs> (<rs type="grantNumber">4182026</rs>), and <rs type="programName">Young Talent Thousand Program</rs>. The authors thank beamline BL14B1 at <rs type="institution" subtype="infrastructure">Shanghai Synchrotron Radiation Facility (SSRF)</rs> for providing the beam Time. The authors appreciate <rs type="institution">Enli Technology Co. Ltd.</rs> for their help regarding PV efficiency and EQE measurement. The authors also thank <rs type="person">Qingying Zhang</rs> for providing guidance for wonderful figure graphing.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_fhyRYgm">
+				<org type="funding" xml:id="_EWaY8G8">
 					<idno type="grant-number">51722201</idno>
 				</org>
-				<org type="funding" xml:id="_VJbgqWh">
+				<org type="funding" xml:id="_Gyg6HXh">
 					<idno type="grant-number">51672008</idno>
 				</org>
-				<org type="funding" xml:id="_dKw3HdH">
+				<org type="funding" xml:id="_FD6WxdJ">
 					<idno type="grant-number">91733301</idno>
 				</org>
-				<org type="funding" xml:id="_u65up5v">
+				<org type="funding" xml:id="_P6YzQ2r">
 					<idno type="grant-number">2017YFA0206701</idno>
 				</org>
-				<org type="funding" xml:id="_x4ErCGj">
+				<org type="funding" xml:id="_U5ctd63">
 					<idno type="grant-number">4182026</idno>
 					<orgName type="program" subtype="full">Young Talent Thousand Program</orgName>
 				</org>

@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_xB5G5Jc #_MfaDpVy">
-					<orgName type="full">National Key Research and Development Program of China</orgName>
-				</funder>
-				<funder ref="#_7Ff6H9m #_mAtQPR5">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_tmV9qsD">
-					<orgName type="full">Beijing Municipal Science and Technology Project</orgName>
-				</funder>
-				<funder ref="#_8UBUJ6Z">
-					<orgName type="full">MOST of China</orgName>
-				</funder>
-				<funder ref="#_VdegnFU">
-					<orgName type="full">UPS</orgName>
-				</funder>
-				<funder ref="#_SdgucMg #_7U2nRGF #_SmKEtHS #_6eaYzYy #_JKAKVhB #_yqbZg4a #_qyqCTUg">
+				<funder ref="#_YCAkUT6 #_qTuNJUn #_JF8tnUb #_4wSRdtH #_8z7A3HS #_Q2Ye5qr #_CNp2a3d">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_zuXhKaR">
+				<funder ref="#_pkXVu5S #_dw2Q8xV">
+					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_nbTNVTC">
 					<orgName type="full">Beijing Natural Science Foundation</orgName>
+				</funder>
+				<funder ref="#_DAGZry2">
+					<orgName type="full">Beijing Municipal Science and Technology Project</orgName>
+				</funder>
+				<funder ref="#_QhkSa3s">
+					<orgName type="full">UPS</orgName>
+				</funder>
+				<funder ref="#_GavWxDM">
+					<orgName type="full">MOST of China</orgName>
+				</funder>
+				<funder ref="#_pEvTaA8 #_N3VFzfF">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -104,7 +104,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:40+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -157,50 +157,50 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>The manuscript was improved by the insightful reviews of anonymous reviewers. We thank <rs type="person">Y. Yang</rs> (<rs type="affiliation">University of California, Los Angeles</rs>), <rs type="person">Y. Li</rs> (<rs type="affiliation">Beijing Institute of Technology</rs>), <rs type="person">H. Xie</rs> (<rs type="affiliation">Central South University</rs>), <rs type="person">Q. Bao</rs> (<rs type="affiliation">East China Normal University</rs>), and <rs type="person">J. Xiao</rs> (<rs type="affiliation">Beijing Institute of Technology</rs>) for insightful data analysis and valuable discussion. We also thank the third certification institutions <rs type="institution">National Institute of Metrology (China) and Newport Technology and Application Center PV Lab (USA)</rs> for authentication tests; beamline <rs type="grantNumber">BL14B1</rs> (<rs type="institution" subtype="infrastructure">Shanghai Synchrotron Radiation Facility, SSRF)</rs> for providing beam time and help during the experiments; and <rs type="institution">Enli technology Co., Ltd.</rs> for help with PV efficiency and EQE measurement. Funding: This work was supported by <rs type="funder">National Natural Science Foundation of China</rs> (nos. <rs type="grantNumber">91733301</rs>, <rs type="grantNumber">51672008</rs>, <rs type="grantNumber">51722201</rs>, <rs type="grantNumber">21425101</rs>, <rs type="grantNumber">21331001</rs>, and <rs type="grantNumber">21621061</rs>), <rs type="funder">MOST of China</rs> (<rs type="grantNumber">2014CB643800</rs>), <rs type="funder">National Key Research and Development Program of China</rs> (grant nos. <rs type="grantNumber">2017YFA0206701</rs> and <rs type="grantNumber">2017YFA0205101</rs>), <rs type="funder">Beijing Natural Science Foundation</rs> (<rs type="grantNumber">4182026</rs>), <rs type="funder">National Key Research and Development Program of China</rs> (grant no. <rs type="grantNumber">2016YFB0700700</rs>), <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51673025</rs>), <rs type="funder">Beijing Municipal Science and Technology Project</rs> (no. <rs type="grantNumber">Z181100005118002</rs>), and <rs type="programName">Young Talent Thousand Program</rs>. Author contributions: L.W. and H.Z. conceived the idea and designed the project. H.Z., C.-H.Y., and <rs type="person">L.-D.S.</rs> directed and supervised the research. L.W. fabricated and characterized devices. Y.H., Y.C., L.L., Z.X., and N.L. also contributed to device fabrication. L.W. performed the SEM, PL, <rs type="funder">UPS</rs>, UV-vis, XPS, and XRD measurements. GIWAXS was performed and analyzed by G.Z., supported by <rs type="grantNumber">BL14B1</rs> beamline of SSRF. B.D. and Z.L. performed EPR. M.S. and B.H. carried out DFT calculation. L.W. drafted the manuscript; Q.C. and H.Z. revised and finalized the manuscript. Competing interests: The authors have no competing interests. Data and materials availability: All data are available in the main text or the supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_7Ff6H9m">
+				<org type="funding" xml:id="_pEvTaA8">
 					<idno type="grant-number">BL14B1</idno>
 				</org>
-				<org type="funding" xml:id="_SdgucMg">
+				<org type="funding" xml:id="_YCAkUT6">
 					<idno type="grant-number">91733301</idno>
 				</org>
-				<org type="funding" xml:id="_7U2nRGF">
+				<org type="funding" xml:id="_qTuNJUn">
 					<idno type="grant-number">51672008</idno>
 				</org>
-				<org type="funding" xml:id="_SmKEtHS">
+				<org type="funding" xml:id="_JF8tnUb">
 					<idno type="grant-number">51722201</idno>
 				</org>
-				<org type="funding" xml:id="_6eaYzYy">
+				<org type="funding" xml:id="_4wSRdtH">
 					<idno type="grant-number">21425101</idno>
 				</org>
-				<org type="funding" xml:id="_JKAKVhB">
+				<org type="funding" xml:id="_8z7A3HS">
 					<idno type="grant-number">21331001</idno>
 				</org>
-				<org type="funding" xml:id="_8UBUJ6Z">
+				<org type="funding" xml:id="_GavWxDM">
 					<idno type="grant-number">21621061</idno>
 				</org>
-				<org type="funding" xml:id="_xB5G5Jc">
+				<org type="funding" xml:id="_pkXVu5S">
 					<idno type="grant-number">2014CB643800</idno>
 				</org>
-				<org type="funding" xml:id="_yqbZg4a">
+				<org type="funding" xml:id="_Q2Ye5qr">
 					<idno type="grant-number">2017YFA0206701</idno>
 				</org>
-				<org type="funding" xml:id="_zuXhKaR">
+				<org type="funding" xml:id="_nbTNVTC">
 					<idno type="grant-number">2017YFA0205101</idno>
 				</org>
-				<org type="funding" xml:id="_MfaDpVy">
+				<org type="funding" xml:id="_dw2Q8xV">
 					<idno type="grant-number">4182026</idno>
 				</org>
-				<org type="funding" xml:id="_mAtQPR5">
+				<org type="funding" xml:id="_N3VFzfF">
 					<idno type="grant-number">2016YFB0700700</idno>
 				</org>
-				<org type="funding" xml:id="_tmV9qsD">
+				<org type="funding" xml:id="_DAGZry2">
 					<idno type="grant-number">51673025</idno>
 				</org>
-				<org type="funding" xml:id="_VdegnFU">
+				<org type="funding" xml:id="_QhkSa3s">
 					<idno type="grant-number">Z181100005118002</idno>
 					<orgName type="program" subtype="full">Young Talent Thousand Program</orgName>
 				</org>
-				<org type="funding" xml:id="_qyqCTUg">
+				<org type="funding" xml:id="_CNp2a3d">
 					<idno type="grant-number">BL14B1</idno>
 				</org>
 			</listOrg>

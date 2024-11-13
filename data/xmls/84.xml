@@ -7,30 +7,30 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_uRFufDQ">
+				<funder>
+					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+				<funder ref="#_pfBeuCy">
 					<orgName type="full">Republic of Korea</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">Korea Institute of Energy Technology Evaluation and Planning</orgName>
-					<orgName type="abbreviated">KETEP</orgName>
+				<funder ref="#_NEccgcS">
+					<orgName type="full">Ministry of Trade Industry &amp; Energy (MOTIE) of the Republic of Korea</orgName>
 				</funder>
-				<funder ref="#_emXvhke">
+				<funder ref="#_qmQ8gpW">
 					<orgName type="full">Ministry of Education</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
 					<orgName type="abbreviated">KRICT</orgName>
 				</funder>
-				<funder ref="#_2CwnUmw">
+				<funder>
+					<orgName type="full">Korea Institute of Energy Technology Evaluation and Planning</orgName>
+					<orgName type="abbreviated">KETEP</orgName>
+				</funder>
+				<funder ref="#_Sa4Xbuc">
 					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
 					<orgName type="abbreviated">MSIP</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">National Research Foundation of Korea</orgName>
-					<orgName type="abbreviated">NRF</orgName>
-				</funder>
-				<funder ref="#_CzkzX7K">
-					<orgName type="full">Ministry of Trade Industry &amp; Energy (MOTIE) of the Republic of Korea</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -63,7 +63,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -128,17 +128,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was supported by a grant from the <rs type="funder">Korea Research Institute of Chemical Technology (KRICT)</rs>, <rs type="funder">Republic of Korea</rs> (<rs type="grantNumber">KK1802-A01</rs>), the <rs type="funder">Korea Institute of Energy Technology Evaluation and Planning (KETEP)</rs> and the <rs type="funder">Ministry of Trade Industry &amp; Energy (MOTIE) of the Republic of Korea</rs> (No. <rs type="grantNumber">20163010012470</rs>), and by a grant from the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Science, ICT &amp; Future Planning (MSIP) of Korea</rs> (<rs type="grantNumber">NRF-2016M3A6A7945503</rs>). This research was also supported by the <rs type="programName">Basic Science Research Program</rs> through the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Education</rs> (<rs type="grantNumber">NRF-2015R1A6A3A04058164</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_uRFufDQ">
+				<org type="funding" xml:id="_pfBeuCy">
 					<idno type="grant-number">KK1802-A01</idno>
 				</org>
-				<org type="funding" xml:id="_CzkzX7K">
+				<org type="funding" xml:id="_NEccgcS">
 					<idno type="grant-number">20163010012470</idno>
 				</org>
-				<org type="funding" xml:id="_2CwnUmw">
+				<org type="funding" xml:id="_Sa4Xbuc">
 					<idno type="grant-number">NRF-2016M3A6A7945503</idno>
 					<orgName type="program" subtype="full">Basic Science Research Program</orgName>
 				</org>
-				<org type="funding" xml:id="_emXvhke">
+				<org type="funding" xml:id="_qmQ8gpW">
 					<idno type="grant-number">NRF-2015R1A6A3A04058164</idno>
 				</org>
 			</listOrg>

@@ -7,43 +7,43 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Highly efficient p-i-n perovskite solar cells that endure temperature variations</title>
-				<funder ref="#_YbaYPv5">
+				<funder>
+					<orgName type="full">HyPerCells</orgName>
+				</funder>
+				<funder ref="#_8Swvd7w">
+					<orgName type="full">Israel Ministry of Energy</orgName>
+				</funder>
+				<funder ref="#_tCWN8gY">
 					<orgName type="full">European Research Council</orgName>
 					<orgName type="abbreviated">ERC</orgName>
 				</funder>
-				<funder ref="#_3EBCKNw">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_5QQYfSf">
-					<orgName type="full">German Research Foundation (DFG)</orgName>
-				</funder>
-				<funder ref="#_8wEKs4B">
-					<orgName type="full">Israel Ministry of Energy</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">European Commission supports SOLAR-ERA</orgName>
-				</funder>
-				<funder ref="#_RjcCtkN">
-					<orgName type="full">ProperPhotoMile</orgName>
-				</funder>
-				<funder ref="#_tY8w5Ms #_Fp7BkJU">
-					<orgName type="full">German Bundestag</orgName>
-				</funder>
-				<funder ref="#_wDxvyeD">
+				<funder ref="#_pNeajyR">
 					<orgName type="full">Spanish Ministry of Science and Education and the AEI</orgName>
 				</funder>
-				<funder ref="#_FUPcuZW">
-					<orgName type="full">Federal Ministry for Economic Affairs and Energy</orgName>
+				<funder ref="#_fr7RMnR">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_wK9uaTp">
-					<orgName type="full">NET</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">HyPerCells</orgName>
+				<funder ref="#_6EGqzVq">
+					<orgName type="full">ProperPhotoMile</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Chinese Scholarship Council</orgName>
 					<orgName type="abbreviated">CSC</orgName>
+				</funder>
+				<funder ref="#_NtkYqJ7">
+					<orgName type="full">Federal Ministry for Economic Affairs and Energy</orgName>
+				</funder>
+				<funder ref="#_UNXRUhc">
+					<orgName type="full">NET</orgName>
+				</funder>
+				<funder ref="#_B9fFxfp">
+					<orgName type="full">German Research Foundation (DFG)</orgName>
+				</funder>
+				<funder ref="#_eDpYWPX #_D26xrS3">
+					<orgName type="full">German Bundestag</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">European Commission supports SOLAR-ERA</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -484,7 +484,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -566,36 +566,36 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>The authors acknowledge the support of all the technicians at <rs type="institution">Helmholtz-Zentrum Berlin (HZB)</rs>. The authors thank beamline BL14B1 at the <rs type="institution" subtype="infrastructure">Shanghai Synchrotron Radiation Facility (SSRF)</rs> for providing the beam time. G.L., L.C., and M.H.A. thank the support from <rs type="funder">HyPerCells</rs> graduate school at HZB. R.Z. was supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">22103022</rs>). G.L. thanks the <rs type="funder">Chinese Scholarship Council (CSC)</rs> for its financial support (201906150131). M.S. and W.Z. thank the <rs type="funder">German Research Foundation (DFG)</rs> for funding (<rs type="grantNumber">SPP2196</rs>, <rs type="grantNumber">431314977/ GRK 2642</rs>). M.S. acknowledges funding by <rs type="funder">ProperPhotoMile</rs>. Project ProperPhotoMile is supported under the umbrella of SOLAR-ERA.NET Cofund 2 by the <rs type="funder">Spanish Ministry of Science and Education and the AEI</rs> under the project <rs type="grantNumber">PCI2020-112185</rs> and <rs type="projectName">CDTI</rs> project number <rs type="grantNumber">IDI-20210171</rs>; the <rs type="funder">Federal Ministry for Economic Affairs and Energy</rs> based on a decision by the <rs type="funder">German Bundestag</rs> project number <rs type="grantNumber">FKZ 03EE1070B</rs> and <rs type="grantNumber">FKZ 03EE1070A</rs> and the <rs type="funder">Israel Ministry of Energy</rs> with project number <rs type="grantNumber">220-11-031</rs>. The <rs type="funder">European Commission supports SOLAR-ERA</rs>.<rs type="funder">NET</rs> within the <rs type="programName">EU Framework Programme for Research and Innovation HORIZON 2020 (Cofund ERA-NET Action</rs>, <rs type="grantNumber">786483</rs>). This work has received funding from the <rs type="funder">European Research Council (ERC)</rs> under the European Union's <rs type="programName">Horizon 2020 research and innovation programme</rs> (grant agreement <rs type="grantNumber">804519</rs>). Author contributions: G.L., L.W., <rs type="person">M.L.</rs>, and A.A. conceived the idea. G.L. and M.L. designed the experiments. G.L., Z.S., L.W., S.T., M.H.M., Z.Z., F.Y., and M.L. fabricated and characterized perovskite films and devices. Z.S. and C.W. conducted the GIWAXS measurements. G.L., D.H., L.W., W.Z., R.Z., F.Y., <rs type="person">Y.J.</rs>, and M.L. performed the device performance measurements. G.L., Z.S., L.C., L.W., M.L., and A.A. participated in the data analysis and result discussions. G.L. composed the manuscript. D.H., M.H.M., J.D., S.T., W.Z., J.J.J.-R., M.M.B., G.N., B.N., M.L., and A.A. contributed to suggestions for</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_3EBCKNw">
+				<org type="funding" xml:id="_fr7RMnR">
 					<idno type="grant-number">22103022</idno>
 				</org>
-				<org type="funding" xml:id="_5QQYfSf">
+				<org type="funding" xml:id="_B9fFxfp">
 					<idno type="grant-number">SPP2196</idno>
 				</org>
-				<org type="funding" xml:id="_RjcCtkN">
+				<org type="funding" xml:id="_6EGqzVq">
 					<idno type="grant-number">431314977/ GRK 2642</idno>
 				</org>
-				<org type="funded-project" xml:id="_wDxvyeD">
+				<org type="funded-project" xml:id="_pNeajyR">
 					<idno type="grant-number">PCI2020-112185</idno>
 					<orgName type="project" subtype="full">CDTI</orgName>
 				</org>
-				<org type="funding" xml:id="_FUPcuZW">
+				<org type="funding" xml:id="_NtkYqJ7">
 					<idno type="grant-number">IDI-20210171</idno>
 				</org>
-				<org type="funding" xml:id="_tY8w5Ms">
+				<org type="funding" xml:id="_eDpYWPX">
 					<idno type="grant-number">FKZ 03EE1070B</idno>
 				</org>
-				<org type="funding" xml:id="_Fp7BkJU">
+				<org type="funding" xml:id="_D26xrS3">
 					<idno type="grant-number">FKZ 03EE1070A</idno>
 				</org>
-				<org type="funding" xml:id="_8wEKs4B">
+				<org type="funding" xml:id="_8Swvd7w">
 					<idno type="grant-number">220-11-031</idno>
 				</org>
-				<org type="funding" xml:id="_wK9uaTp">
+				<org type="funding" xml:id="_UNXRUhc">
 					<idno type="grant-number">786483</idno>
 					<orgName type="program" subtype="full">EU Framework Programme for Research and Innovation HORIZON 2020 (Cofund ERA-NET Action</orgName>
 				</org>
-				<org type="funding" xml:id="_YbaYPv5">
+				<org type="funding" xml:id="_tCWN8gY">
 					<idno type="grant-number">804519</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
 				</org>

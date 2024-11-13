@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Ammonia for Post Healing of Formamidinium-based Perovskite Films</title>
+				<funder ref="#_BU755Th">
+					<orgName type="full">Shandong Energy Institute</orgName>
+				</funder>
+				<funder ref="#_UXM2Uba #_F38UYvr">
+					<orgName type="full">Natural Science Foundation of Shandong Province</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">Funding of Young Taishan Scholars</orgName>
 				</funder>
-				<funder ref="#_ubvH2Kw">
-					<orgName type="full">Shandong Energy Institute</orgName>
-				</funder>
-				<funder ref="#_As3fX3T #_vXfHzjX">
-					<orgName type="full">Natural Science Foundation of Shandong Province</orgName>
-				</funder>
-				<funder ref="#_cFEeycw">
+				<funder ref="#_UdnYST8">
 					<orgName type="full">Youth Innovation Promotion Association CAS</orgName>
-				</funder>
-				<funder ref="#_ArR48HA">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Qingdao Key Lab of Solar Energy Utilization &amp; Energy Storage Technology</orgName>
+				</funder>
+				<funder ref="#_KDA9aJA">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -531,7 +531,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -646,19 +646,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p> Acknowledgements S.P.P. acknowledges funding from the Youth Innovation Promotion Association CAS (Y201944), Funding of Young Taishan Scholars (tsqn201812110), Natural Science Foundation of Shandong Province (ZR2020KB001), and funding from Shandong Energy Institute (SEI I202129), X.W. thanks the Natural Science Foundation of Shandong Province (ZR2020KB001). Z.P.S. thanks the National Natural Science Foundation of China (51902324). We thank Suzhou GCL Nano Co. Ltd. for the fabrication of large-sized perovskite films and the Qingdao Key Lab of Solar Energy Utilization &amp; Energy Storage Technology.The authors accidentally reference in this sentence the works related to FA degradation <ref type="bibr" target="#b29">(30)</ref><ref type="bibr" target="#b30">(31)</ref><ref type="bibr" target="#b31">(32)</ref><ref type="bibr" target="#b32">(33)</ref> whereas the pertinent works would be general review articles providing an overview of the use of NMR in halide perovskite studies, for example: <ref type="url" target="https://www.nature.com/articles/s41570-021-00309-x">https://www.nature.com/articles/s41570-021-00309-x</ref> Acknowledgements S.P.P. acknowledges funding from the <rs type="funder">Youth Innovation Promotion Association CAS</rs> (<rs type="grantNumber">Y201944</rs>), <rs type="funder">Funding of Young Taishan Scholars</rs> (tsqn201812110), <rs type="funder">Natural Science Foundation of Shandong Province</rs> (<rs type="grantNumber">ZR2020KB001</rs>), and funding from <rs type="funder">Shandong Energy Institute</rs> (<rs type="grantNumber">SEI I202129</rs>), X.W. thanks the <rs type="funder">Natural Science Foundation of Shandong Province</rs> (<rs type="grantNumber">ZR2020KB001</rs>). Z.P.S. thanks the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51902324</rs>). We thank <rs type="person">Suzhou GCL Nano Co. Ltd</rs>. for the fabrication of large-sized perovskite films and the <rs type="funder">Qingdao Key Lab of Solar Energy Utilization &amp; Energy Storage Technology</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_cFEeycw">
+				<org type="funding" xml:id="_UdnYST8">
 					<idno type="grant-number">Y201944</idno>
 				</org>
-				<org type="funding" xml:id="_As3fX3T">
+				<org type="funding" xml:id="_UXM2Uba">
 					<idno type="grant-number">ZR2020KB001</idno>
 				</org>
-				<org type="funding" xml:id="_ubvH2Kw">
+				<org type="funding" xml:id="_BU755Th">
 					<idno type="grant-number">SEI I202129</idno>
 				</org>
-				<org type="funding" xml:id="_vXfHzjX">
+				<org type="funding" xml:id="_F38UYvr">
 					<idno type="grant-number">ZR2020KB001</idno>
 				</org>
-				<org type="funding" xml:id="_ArR48HA">
+				<org type="funding" xml:id="_KDA9aJA">
 					<idno type="grant-number">51902324</idno>
 				</org>
 			</listOrg>

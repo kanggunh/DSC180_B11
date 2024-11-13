@@ -7,10 +7,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">An Interlayer with Strong Pb-Cl Bond Delivers Ultraviolet-Filter-Free, Efficient, and Photostable Perovskite Solar Cells</title>
-				<funder ref="#_hqbT88z">
+				<funder ref="#_xnw2rnY">
 					<orgName type="full">Zhejiang Province Science and Technology Plan</orgName>
 				</funder>
-				<funder ref="#_KjnEUJS">
+				<funder ref="#_GZYqzsm">
 					<orgName type="full">National Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
@@ -204,7 +204,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:31+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:55+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -255,10 +255,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>This work was financially supported by the <rs type="funder">National Science Foundation of China</rs> (No. <rs type="grantNumber">61721005</rs>) and <rs type="funder">Zhejiang Province Science and Technology Plan</rs> (No. <rs type="grantNumber">2018C01047</rs>). We acknowledge <rs type="person">Professor Peng Wang</rs> of the <rs type="institution">Zhejiang University</rs> for EQE measurements.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_KjnEUJS">
+				<org type="funding" xml:id="_GZYqzsm">
 					<idno type="grant-number">61721005</idno>
 				</org>
-				<org type="funding" xml:id="_hqbT88z">
+				<org type="funding" xml:id="_xnw2rnY">
 					<idno type="grant-number">2018C01047</idno>
 				</org>
 			</listOrg>

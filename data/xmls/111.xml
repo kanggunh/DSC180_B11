@@ -7,22 +7,22 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Stabilization of formamidinium lead triiodide α-phase with isopropylammonium chloride for perovskite solar cells</title>
-				<funder ref="#_7MerR4R">
+				<funder ref="#_jGCkyQA">
 					<orgName type="full">Creative-Challenge Research Program</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">POSTECH</orgName>
-				</funder>
-				<funder ref="#_WQJsdH9">
+				<funder ref="#_Dax422b">
 					<orgName type="full">National Research Foundation of Korea</orgName>
 					<orgName type="abbreviated">NRF</orgName>
 				</funder>
-				<funder ref="#_46BCftS">
+				<funder ref="#_ENCcf9k">
 					<orgName type="full">MSIT</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
 					<orgName type="abbreviated">MSIP</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">POSTECH</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -284,7 +284,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -349,14 +349,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was supported by the <rs type="programName">Basic Science Research Program</rs> (<rs type="grantNumber">NRF-2018R1A3B1052820</rs>) through the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Science, ICT &amp; Future Planning (MSIP)</rs>. B.-w.P. acknowledges financial support from the <rs type="funder">Creative-Challenge Research Program</rs> (<rs type="grantNumber">NRF-2020R1I1A1A01063868</rs>). T.J.S. acknowledges financial support under CAP-18-05-KAERI. This work was also supported by a brand project (<rs type="grantNumber">1.210037.01</rs>) of <rs type="institution">UNIST</rs>. Experiments at the PLS-II 6D and 10A2 beamlines were supported in part by <rs type="funder">MSIT</rs> and <rs type="funder">POSTECH</rs>. We thank <rs type="person">S. Y. Lee</rs>, <rs type="person">J. H. Park</rs>, <rs type="person">I. Choi</rs>, <rs type="person">G. A. Lee</rs>, <rs type="person">J. H. Lee</rs>, <rs type="person">H. J. Mun</rs>, <rs type="person">D. H. Lee</rs> and <rs type="person">S.-P. Han</rs> of <rs type="affiliation">UCRF</rs> for their support in powder XRD, FIB sampling, HR-TEM, FESEM, GI-WAXD, ToF-SIMS and NMR analyses.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_WQJsdH9">
+				<org type="funding" xml:id="_Dax422b">
 					<idno type="grant-number">NRF-2018R1A3B1052820</idno>
 					<orgName type="program" subtype="full">Basic Science Research Program</orgName>
 				</org>
-				<org type="funding" xml:id="_7MerR4R">
+				<org type="funding" xml:id="_jGCkyQA">
 					<idno type="grant-number">NRF-2020R1I1A1A01063868</idno>
 				</org>
-				<org type="funding" xml:id="_46BCftS">
+				<org type="funding" xml:id="_ENCcf9k">
 					<idno type="grant-number">1.210037.01</idno>
 				</org>
 			</listOrg>

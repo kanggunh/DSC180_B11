@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Suppressed Halide Ion Migration in 2D Lead Halide Perovskites</title>
-				<funder ref="#_9Pa9hcz">
-					<orgName type="full">U.S. Department of Energy</orgName>
+				<funder ref="#_VwZUgtG">
+					<orgName type="full">unknown</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Division of Chemical Sciences, Geosciences, and Biosciences, Office of Basic Energy Sciences</orgName>
 				</funder>
-				<funder ref="#_HtbSbdd">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_zYsR4Sf">
+					<orgName type="full">U.S. Department of Energy</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -108,7 +108,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:54+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -144,10 +144,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>The research described herein is supported by the <rs type="funder">Division of Chemical Sciences, Geosciences, and Biosciences, Office of Basic Energy Sciences</rs> of the <rs type="funder">U.S. Department of Energy</rs>, through award <rs type="grantNumber">DE-FC02-04ER15533</rs>. This is contribution number NDRL No. <rs type="grantNumber">5277</rs> from the <rs type="affiliation">Notre Dame Radiation Laboratory</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_9Pa9hcz">
+				<org type="funding" xml:id="_zYsR4Sf">
 					<idno type="grant-number">DE-FC02-04ER15533</idno>
 				</org>
-				<org type="funding" xml:id="_HtbSbdd">
+				<org type="funding" xml:id="_VwZUgtG">
 					<idno type="grant-number">5277</idno>
 				</org>
 			</listOrg>

@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Anion-π interactions suppress phase impurities in FAPbI 3 solar cells</title>
-				<funder ref="#_f93fBVG">
+				<funder ref="#_WPHT7Pm #_CgJASN6 #_q7MsDAC">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_g6mwNKA">
 					<orgName type="full">Tencent Foundation</orgName>
 				</funder>
-				<funder ref="#_gEHarXm">
+				<funder ref="#_DeBTWXK">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
-				</funder>
-				<funder ref="#_yAksb2J #_SN8Xydx #_trZvhHZ">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -250,7 +250,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -304,19 +304,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements This work was supported by the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">52125206</rs>, <rs type="grantNumber">51972004</rs> and <rs type="grantNumber">52202241</rs>), the <rs type="funder">National Key Research and Development Program of China</rs> (grant no. <rs type="grantNumber">2020YFB1506400</rs>) and the <rs type="funder">Tencent Foundation</rs> through the <rs type="grantName">Xplorer Prize</rs>. We would like to thank the staff at beamlines <rs type="institution">BL14B1</rs> and <rs type="grantNumber">BL11B</rs> at the <rs type="institution" subtype="infrastructure">Shanghai Synchrotron Radiation Facility (SSRF)</rs> for their help with GIWAXS and EXAFS characterizations, and <rs type="person">H. Zhengguan</rs> (<rs type="affiliation">SSRF</rs>) for designing the in situ GIWAXS measurement. We acknowledge <rs type="person">Y. Chen</rs> (<rs type="affiliation">Peking University</rs>) for the discussion on DFT calculations, <rs type="person">Y. Jiang</rs> (<rs type="affiliation">Peking University</rs>) for the assistance in designing C-V measurement and <rs type="person">C. Zhu</rs> (<rs type="affiliation">Beijing Institute of Technology</rs>) for the assistance with the material structure analysis. We acknowledge support from <rs type="person">T. Yang</rs> (<rs type="affiliation">Jiangnan University</rs>) for the help with the GIWAXS test and <rs type="person">L. Xiong</rs> and <rs type="person">Z. Yan</rs> (<rs type="affiliation">Jiangnan University</rs>) for the help with the QCM-D test.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_yAksb2J">
+				<org type="funding" xml:id="_WPHT7Pm">
 					<idno type="grant-number">52125206</idno>
 				</org>
-				<org type="funding" xml:id="_SN8Xydx">
+				<org type="funding" xml:id="_CgJASN6">
 					<idno type="grant-number">51972004</idno>
 				</org>
-				<org type="funding" xml:id="_trZvhHZ">
+				<org type="funding" xml:id="_q7MsDAC">
 					<idno type="grant-number">52202241</idno>
 				</org>
-				<org type="funding" xml:id="_gEHarXm">
+				<org type="funding" xml:id="_DeBTWXK">
 					<idno type="grant-number">2020YFB1506400</idno>
 				</org>
-				<org type="funding" xml:id="_f93fBVG">
+				<org type="funding" xml:id="_g6mwNKA">
 					<idno type="grant-number">BL11B</idno>
 					<orgName type="grant-name">Xplorer Prize</orgName>
 				</org>

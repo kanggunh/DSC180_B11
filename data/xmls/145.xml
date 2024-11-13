@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">General Nondestructive Passivation by 4-Fluoroaniline for Perovskite Solar Cells with Improved Performance and Stability</title>
-				<funder ref="#_dne2Bj2">
-					<orgName type="full">PetroChina Innovation Foundation</orgName>
-				</funder>
-				<funder ref="#_mbhpFcy">
-					<orgName type="full">Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_bVpQGgW">
-					<orgName type="full">Research Grants Council of Hong Kong</orgName>
-				</funder>
-				<funder ref="#_66QZEZ3 #_rvmysUz #_TTajbch #_xW5tQvU">
+				<funder ref="#_7m5RrUW #_Hyn5kxn #_uVhbPxv #_GgcKujz">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_jdJYQy6">
-					<orgName type="full">Qingdao independent innovation program</orgName>
-				</funder>
-				<funder ref="#_6C4CC2t">
+				<funder ref="#_cZJDxXv">
 					<orgName type="full">CUHK Group Research Scheme</orgName>
 				</funder>
-				<funder ref="#_jg4tE7D">
+				<funder ref="#_MXB35BT">
+					<orgName type="full">Qingdao independent innovation program</orgName>
+				</funder>
+				<funder ref="#_NsvDNhd">
+					<orgName type="full">Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_mJT8szK">
+					<orgName type="full">Research Grants Council of Hong Kong</orgName>
+				</funder>
+				<funder ref="#_2WeVe9Y">
 					<orgName type="full">Natural Science Foundation of Shandong Province</orgName>
+				</funder>
+				<funder ref="#_Hgt8P3V">
+					<orgName type="full">PetroChina Innovation Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -179,7 +179,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:40+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -213,8 +213,8 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div xmlns="http://www.tei-c.org/ns/1.0"><head>Kinds of PSCs</head><p>V oc [V]</p><p>J sc [mA cm <ref type="bibr">-2</ref>  The extinction and UV-vis absorption spectra of samples were measured on a Hitachi U-3501 UV-vis-NIR spectrophotometer. FTIR was tested by Bruker Tensor 27 at RT. Pristine and FAL-vapor-passivated Cs 0.05 (MA 0.17 FA 0.83 ) 0.95 Pb(I 0.83 Br 0.17 ) 3 perovskite films were tested in air, respectively.</p><p>Incident photon-to-current conversion efficiencies (IPCEs), Mott-Schottky plot, and impedance spectra were measured on photocurrent spectra system of CIMPS (CIMPS-PCS) with tunable light source (TLS03).       </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Nondestructive passivation of molecular dipole on perovskite. a) Passivation molecule of 4-fluoroaniline (FAL) and its unique electron-density distribution in the lowest unoccupied molecular orbitals (LUMOs) and HOMOs, and molecular dipole moment, in comparison to 4-fluorobenzylamine (FBA), aniline (AL), and benzylamine (BA), and light blue, gray, black, and dark blue balls respond to fluorine, hydrogen, carbon, and nitrogen atoms, respectively. b) Schematic illustration of the expected perovskite solar cell with ultrathin passivation layer, and c) nondestructive passivation process by vapor post-treatment.</figDesc><graphic coords="3,119.06,70.87,360.00,158.58" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Destructiveness comparison with other molecules. a) Optical images for drop-casted perovskite thin films with pure solutions of FAL, AL, FBA, and BA. b) SEM images, c) XRD patterns, and d) PL spectra for perovskite thin films before and after post-treatment by FAL, AL, FBA, and BA vapors, respectively.</figDesc><graphic coords="4,48.78,70.85,239.94,204.12" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Characteristics of FAL vapor post-treating passivation. a) UV-vis absorption spectra, b) XRD patterns, and c,d) SEM images of perovskite before and after passivation for 40 s at 100 °C. e) FTIR patterns of perovskite before and after passivation for 40 s, 10 min at 100 °C.</figDesc><graphic coords="4,56.22,428.80,480.06,263.34" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure</head><label></label><figDesc>Figure3c,dgives the scanning electron microscopy (SEM) images of the pristine and passivated perovskites with slight incorporation of Pb(SCN) 2 that could help to produce large grain for observation of microstructure.<ref type="bibr" target="#b55">[20]</ref> Through comparison, we observed the boundary passivation indeed greatly healed the surface and increased the compactness afterward. In addition, atomic force microscope (AFM) image of passivated film shows smaller roughness difference, which is consistent with the SEM images (FigureS6, Supporting Information). The root-mean-square (RMS) roughness of pristine and FAL passivated perovskite films is 26.6 and 28.2 nm, respectively. The pristine cracks and pinholes can be recovered by the expansion after the incorporation of FAL molecules and thus the surface/interface vacancies are fully passivated. The anchorage of FAL can be demonstrated by the infrared spectroscopy. Figure3ereveals the following spectral features and peak positions for the FAL passivation. Aromatic CC stretching at 1736 cm -1 and aromatic CN stretching at 1689 cm -1 , and CF peak at 1262 cm -1 greatly increase, illustrating that the increasing amount of FAL molecules were gradually deposited on the surface.[21]  This passivation yielded a compact shielding layer to resist water penetration in the final perovskite thin film. The Fourier transform infrared (FTIR) results suggest there is chemical adsorption in the HVACP.In order to ascertain the improving optoelectronic properties, we first employ global PL to characterize the film quality (Figure4a). In this part, the perovskite is deposited on the nonconductive glasses and covered with poly(methyl methacrylate) (PMMA) for encapsulation to facilitate the measurement. PL displays 10 nm narrow full width at half maximum (FWHM) after FAL treatment, which indicates the reduction of surface/interface defects in combination with the nondestructive process.</figDesc></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Enhanced optoelectronic properties after FAL passivation. a) PL spectra of perovskite before and after passivation for 40 s. b,c) Confocal fluorescence microscopy images of perovskite before and after passivation for 40 s. d,e) FLIM of perovskite before and after passivation for 40 s. f) TRPL of perovskite before and after passivation for 40 s, respectively.</figDesc><graphic coords="5,58.55,436.57,480.06,246.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure</head><label></label><figDesc>Figure3c,dgives the scanning electron microscopy (SEM) images of the pristine and passivated perovskites with slight incorporation of Pb(SCN) 2 that could help to produce large grain for observation of microstructure.<ref type="bibr" target="#b55">[20]</ref> Through comparison, we observed the boundary passivation indeed greatly healed the surface and increased the compactness afterward. In addition, atomic force microscope (AFM) image of passivated film shows smaller roughness difference, which is consistent with the SEM images (FigureS6, Supporting Information). The root-mean-square (RMS) roughness of pristine and FAL passivated perovskite films is 26.6 and 28.2 nm, respectively. The pristine cracks and pinholes can be recovered by the expansion after the incorporation of FAL molecules and thus the surface/interface vacancies are fully passivated. The anchorage of FAL can be demonstrated by the infrared spectroscopy. Figure3ereveals the following spectral features and peak positions for the FAL passivation. Aromatic CC stretching at 1736 cm -1 and aromatic CN stretching at 1689 cm -1 , and CF peak at 1262 cm -1 greatly increase, illustrating that the increasing amount of FAL molecules were gradually deposited on the surface.[21]  This passivation yielded a compact shielding layer to resist water penetration in the final perovskite thin film. The Fourier transform infrared (FTIR) results suggest there is chemical adsorption in the HVACP.In order to ascertain the improving optoelectronic properties, we first employ global PL to characterize the film quality (Figure4a). In this part, the perovskite is deposited on the nonconductive glasses and covered with poly(methyl methacrylate) (PMMA) for encapsulation to facilitate the measurement. PL displays 10 nm narrow full width at half maximum (FWHM) after FAL treatment, which indicates the reduction of surface/interface defects in combination with the nondestructive process.</figDesc><graphic coords="5,58.55,436.57,480.06,246.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Enhanced optoelectronic properties after FAL passivation. a) PL spectra of perovskite before and after passivation for 40 s. b,c) Confocal fluorescence microscopy images of perovskite before and after passivation for 40 s. d,e) FLIM of perovskite before and after passivation for 40 s. f) TRPL of perovskite before and after passivation for 40 s, respectively.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Device performance of PSCs. a) SEM image of PSC cross section, the scale bar is 1 µm. b) The typical device of PSCs without and with FAL vapor passivation for 40 s, and box chart of c) PCE, d) J sc , e) FF, and f) V oc of PSCs without and with FAL vapor treatment for 40 s in reversed scan mode.</figDesc><graphic coords="6,55.73,70.38,480.06,246.24" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. Dipole alignment of FAL-passivated perovskite films. KPFM images of perovskite film a) before and after FAL passivation using b) HVACP and c) solution process. Schematic illustrations of d) dipole alignment using HVACP and e) dipole offset owing to random distribution via solution process. f) Nyquist plot impedance spectroscopies for the pristine and FAL-passivated PSCs by HVACP measured at a bias of 0.8 V under simulated AM1.5 illumination and (inset) the equivalent circuit used for fitting.</figDesc><graphic coords="7,58.04,70.82,480.06,252.54" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. FAL improved the moisture and photostability. a) XRD patterns of perovskite thin films with and without FAL vapor deposition for 40 s exposed at 85 RH% humidity to the same samples for 66 h. b) J-V performance of pristine and FAL-passivated PSCs before and after humidity exposure for 66 h at 85 RH%. c) Photostability of unsealed PSCs under 1 sun illumination at room temperature in nitrogen.</figDesc><graphic coords="7,235.15,425.87,311.94,237.42" type="bitmap" /></figure>
@@ -237,34 +237,34 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements S.H.Z. and J.S.X. contributed equally to this work. This work was in part supported by <rs type="funder">Research Grants Council of Hong Kong</rs>, particularly, via Grant Nos. <rs type="grantNumber">AoE/P-03/08</rs>, <rs type="grantNumber">N_CUHK405/12</rs>, <rs type="grantNumber">T23-407/13-N, AoE/P-02/12</rs>, <rs type="grantNumber">14207515</rs>, <rs type="grantNumber">14204616</rs>, <rs type="grantNumber">C6013-16E</rs> and <rs type="funder">CUHK Group Research Scheme</rs>. The authors acknowledge <rs type="funder">Natural Science Foundation of China</rs> (<rs type="grantNumber">21776315</rs>), <rs type="funder">PetroChina Innovation Foundation</rs> (<rs type="grantNumber">2017D-5007-0402</rs>), <rs type="funder">Natural Science Foundation of Shandong Province</rs> (<rs type="grantNumber">ZR2016BL12</rs>), and <rs type="funder">Qingdao independent innovation program</rs> (<rs type="grantNumber">16-5-1-88-jch</rs>) for kind support.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_bVpQGgW">
+				<org type="funding" xml:id="_mJT8szK">
 					<idno type="grant-number">AoE/P-03/08</idno>
 				</org>
-				<org type="funding" xml:id="_66QZEZ3">
+				<org type="funding" xml:id="_7m5RrUW">
 					<idno type="grant-number">N_CUHK405/12</idno>
 				</org>
-				<org type="funding" xml:id="_rvmysUz">
+				<org type="funding" xml:id="_Hyn5kxn">
 					<idno type="grant-number">T23-407/13-N, AoE/P-02/12</idno>
 				</org>
-				<org type="funding" xml:id="_TTajbch">
+				<org type="funding" xml:id="_uVhbPxv">
 					<idno type="grant-number">14207515</idno>
 				</org>
-				<org type="funding" xml:id="_xW5tQvU">
+				<org type="funding" xml:id="_GgcKujz">
 					<idno type="grant-number">14204616</idno>
 				</org>
-				<org type="funding" xml:id="_6C4CC2t">
+				<org type="funding" xml:id="_cZJDxXv">
 					<idno type="grant-number">C6013-16E</idno>
 				</org>
-				<org type="funding" xml:id="_mbhpFcy">
+				<org type="funding" xml:id="_NsvDNhd">
 					<idno type="grant-number">21776315</idno>
 				</org>
-				<org type="funding" xml:id="_dne2Bj2">
+				<org type="funding" xml:id="_Hgt8P3V">
 					<idno type="grant-number">2017D-5007-0402</idno>
 				</org>
-				<org type="funding" xml:id="_jg4tE7D">
+				<org type="funding" xml:id="_2WeVe9Y">
 					<idno type="grant-number">ZR2016BL12</idno>
 				</org>
-				<org type="funding" xml:id="_jdJYQy6">
+				<org type="funding" xml:id="_MXB35BT">
 					<idno type="grant-number">16-5-1-88-jch</idno>
 				</org>
 			</listOrg>

@@ -7,29 +7,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Reducing nonradiative recombination in perovskite solar cells with a porous insulator contact</title>
-				<funder ref="#_pKwHkqW">
+				<funder>
+					<orgName type="full">American Association for the Advancement of Science</orgName>
+				</funder>
+				<funder ref="#_Q6r6kcv">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_RbFykPj">
+					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_GbEsX79">
 					<orgName type="full">Institute of Energy, Hefei Comprehensive National Science Center</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">XPLORER PRIZE</orgName>
 				</funder>
-				<funder ref="#_ZUNDqQU">
-					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
-				</funder>
-				<funder ref="#_baMJKXU">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_frtWzbF">
-					<orgName type="full">National Key R&amp;D Program of China</orgName>
-				</funder>
-				<funder ref="#_wV3nkhF">
-					<orgName type="full">Tencent Foundation</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">American Association for the Advancement of Science</orgName>
-				</funder>
 				<funder>
 					<orgName type="full">University of Science and Technology of China</orgName>
+				</funder>
+				<funder ref="#_j6H5hWT">
+					<orgName type="full">Tencent Foundation</orgName>
+				</funder>
+				<funder ref="#_tvxQD7a">
+					<orgName type="full">National Key R&amp;D Program of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -237,7 +237,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -300,19 +300,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>We thank <rs type="person">Z. Su</rs>, <rs type="person">X. Gao</rs>, and <rs type="person">T. Yang</rs> for supporting GIWAXS measurements and the <rs type="institution" subtype="infrastructure">Shanghai Synchrotron Radiation Facility (SSRF) for use of the BL14B1 beamline</rs> (project No.<rs type="grantNumber">2020-SSRF-PT-014606</rs>). Funding: This work was supported by the <rs type="funder">National Natural Science Foundation of China</rs> (grant <rs type="grantNumber">52172246</rs>); the <rs type="funder">National Key R&amp;D Program of China</rs> (grant <rs type="grantNumber">2021YFF0501900</rs>); the <rs type="funder">Institute of Energy, Hefei Comprehensive National Science Center</rs> (grant <rs type="grantNumber">21KZS212</rs>); the <rs type="funder">Tencent Foundation</rs> through an <rs type="funder">XPLORER PRIZE</rs> to J.X.; and <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (grant <rs type="grantNumber">WK2060140026</rs>). Author contributions: <rs type="person">Jixian Xu</rs> conceived and directed this project. M.D.M., W.P., and <rs type="person">Jixian Xu</rs> reviewed the experiment, analyzed the data, and wrote the manuscript. All authors discussed the results and commented on the manuscript. W.P. fabricated and characterized the devices. K.M. helped to fabricate and characterize the devices. F.C. developed the numerical model of devices. Z.Z., <rs type="person">Jiahang Xu</rs>, and Z.X. supported the device fabrication. H.M. and T.L. helped to conduct the stability test. K.M. and S.Y. helped to conduct the V oc loss and FF loss characterization. X.F. contributed to the SEM characterization. T.L. helped to conduct the x-ray diffraction characterization. Competing interests: M.D.M. is an adviser to <rs type="person">Swift Solar</rs>. <rs type="funder">University of Science and Technology of China</rs> has filed patents that cover the insulator contact and device presented in this work. The authors declare no competing interests. Data and materials availability: All data are available in the main manuscript or the supplementary materials. License information: Copyright © 2023 the authors, some rights reserved; exclusive licensee <rs type="funder">American Association for the Advancement of Science</rs>. No claim to original US government works. <ref type="url" target="https://www.science.org/about/science-licenses-journal-article-reuse">https://www.science.org/ about/science-licenses-journal-article-reuse</ref> </p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_baMJKXU">
+				<org type="funding" xml:id="_Q6r6kcv">
 					<idno type="grant-number">2020-SSRF-PT-014606</idno>
 				</org>
-				<org type="funding" xml:id="_frtWzbF">
+				<org type="funding" xml:id="_tvxQD7a">
 					<idno type="grant-number">52172246</idno>
 				</org>
-				<org type="funding" xml:id="_pKwHkqW">
+				<org type="funding" xml:id="_GbEsX79">
 					<idno type="grant-number">2021YFF0501900</idno>
 				</org>
-				<org type="funding" xml:id="_wV3nkhF">
+				<org type="funding" xml:id="_j6H5hWT">
 					<idno type="grant-number">21KZS212</idno>
 				</org>
-				<org type="funding" xml:id="_ZUNDqQU">
+				<org type="funding" xml:id="_RbFykPj">
 					<idno type="grant-number">WK2060140026</idno>
 				</org>
 			</listOrg>

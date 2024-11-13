@@ -7,13 +7,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Methylammonium Chloride Induces Intermediate Phase Stabilization for Efficient Perovskite Solar Cells</title>
+				<funder ref="#_AHxWs28">
+					<orgName type="full">National Research Foundation of South Korea</orgName>
+				</funder>
 				<funder>
 					<orgName type="full">UNIST-HPC</orgName>
 				</funder>
-				<funder ref="#_C2e6Xeq">
-					<orgName type="full">National Research Foundation of South Korea</orgName>
-				</funder>
-				<funder ref="#_Aw6h7YU #_GpXCJkA">
+				<funder ref="#_h8NVpBH #_AZZjerm">
 					<orgName type="full">Korea Institute of Energy Research</orgName>
 					<orgName type="abbreviated">KIER</orgName>
 				</funder>
@@ -263,7 +263,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -399,14 +399,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>This work was support by the <rs type="programName">Development Program</rs> of the <rs type="funder">Korea Institute of Energy Research (KIER)</rs> (<rs type="grantNumber">B9-2411</rs> and <rs type="grantNumber">B9-2415</rs>), South Korea. S.K.K. acknowledges the financial support from the <rs type="funder">National Research Foundation of South Korea</rs> (<rs type="grantNumber">NRF-2014R1A5A1009799</rs>) and computational resources from <rs type="funder">UNIST-HPC</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_Aw6h7YU">
+				<org type="funding" xml:id="_h8NVpBH">
 					<idno type="grant-number">B9-2411</idno>
 					<orgName type="program" subtype="full">Development Program</orgName>
 				</org>
-				<org type="funding" xml:id="_GpXCJkA">
+				<org type="funding" xml:id="_AZZjerm">
 					<idno type="grant-number">B9-2415</idno>
 				</org>
-				<org type="funding" xml:id="_C2e6Xeq">
+				<org type="funding" xml:id="_AHxWs28">
 					<idno type="grant-number">NRF-2014R1A5A1009799</idno>
 				</org>
 			</listOrg>

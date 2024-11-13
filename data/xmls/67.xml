@@ -7,7 +7,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">nature reviews materials</title>
-				<funder ref="#_4c3P3Gm">
+				<funder ref="#_bNkhgsE">
 					<orgName type="full">Saudi Aramco</orgName>
 				</funder>
 			</titleStmt>
@@ -275,7 +275,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:31+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:55+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -358,7 +358,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements H.Z., S.T., M.N.L., S.M., B.C., E.H.S. and O.M.B. acknowledge funding support from <rs type="funder">Saudi Aramco</rs>. S.T. was supported by the <rs type="grantName">Hatch Graduate scholarship</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_4c3P3Gm">
+				<org type="funding" xml:id="_bNkhgsE">
 					<orgName type="grant-name">Hatch Graduate scholarship</orgName>
 				</org>
 			</listOrg>

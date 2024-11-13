@@ -7,16 +7,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Perovskite solar cells with atomically coherent interlayers on SnO 2 electrodes</title>
-				<funder ref="#_PSryV7b">
-					<orgName type="full">National Research Foundation of Korea</orgName>
-					<orgName type="abbreviated">NRF</orgName>
+				<funder ref="#_YGuSGjn">
+					<orgName type="full">Defense Challengeable Future Technology Program of the Agency for Defense Development, Republic of Korea</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
 					<orgName type="abbreviated">MSIP</orgName>
 				</funder>
-				<funder ref="#_rpsBVNk">
-					<orgName type="full">Defense Challengeable Future Technology Program of the Agency for Defense Development, Republic of Korea</orgName>
+				<funder ref="#_2j9KhmN">
+					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -301,7 +301,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -364,11 +364,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was supported by the <rs type="programName">Basic Science Research Program</rs> (<rs type="grantNumber">NRF-2018R1A3B1052820</rs>) through the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Science, ICT &amp; Future Planning (MSIP)</rs>. This work was also supported by the <rs type="funder">Defense Challengeable Future Technology Program of the Agency for Defense Development, Republic of Korea</rs>, a brand project (<rs type="grantNumber">1.200030.01</rs>) of <rs type="institution">UNIST</rs>, and Alchemist Project (2019309101046). We thank <rs type="affiliation">UCRF</rs> (<rs type="affiliation">UNIST central research facilities</rs>) for use of equipment and the beamline staff at <rs type="institution">Pohang Accelerator Laboratory</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_PSryV7b">
+				<org type="funding" xml:id="_2j9KhmN">
 					<idno type="grant-number">NRF-2018R1A3B1052820</idno>
 					<orgName type="program" subtype="full">Basic Science Research Program</orgName>
 				</org>
-				<org type="funding" xml:id="_rpsBVNk">
+				<org type="funding" xml:id="_YGuSGjn">
 					<idno type="grant-number">1.200030.01</idno>
 				</org>
 			</listOrg>

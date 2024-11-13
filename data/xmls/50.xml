@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Synthetic Control over Quantum Well Width Distribution and Carrier Migration in Low-Dimensional Perovskite Photovoltaics</title>
-				<funder>
-					<orgName type="full">Ontario Research Fund Research Excellence Program</orgName>
-				</funder>
-				<funder ref="#_VUaxzQZ">
-					<orgName type="full">Office of Naval Research</orgName>
-					<orgName type="abbreviated">ONR</orgName>
+				<funder ref="#_2K9Dqdn">
+					<orgName type="full">Natural Sciences and Engineering Research Council</orgName>
+					<orgName type="abbreviated">NSERC</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Ontario Graduate Scholarship</orgName>
 					<orgName type="abbreviated">OGS</orgName>
 				</funder>
-				<funder ref="#_MqsDNfS">
+				<funder ref="#_Met2Rhk">
 					<orgName type="full">The Netherlands Organization for Scientific Research (NWO)</orgName>
 				</funder>
-				<funder ref="#_4pGGsMS">
-					<orgName type="full">Natural Sciences and Engineering Research Council</orgName>
-					<orgName type="abbreviated">NSERC</orgName>
+				<funder ref="#_R6cxWpm">
+					<orgName type="full">Office of Naval Research</orgName>
+					<orgName type="abbreviated">ONR</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Ontario Research Fund Research Excellence Program</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -148,7 +148,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:40+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -194,13 +194,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>This publication is based in part on work supported by an award (<rs type="grantNumber">N00014-17-1-2524</rs>) from the <rs type="funder">Office of Naval Research (ONR)</rs>, by the <rs type="funder">Ontario Research Fund Research Excellence Program</rs>, and by the <rs type="funder">Natural Sciences and Engineering Research Council (NSERC) of Canada</rs> (Discovery Grant <rs type="grantNumber">2016-06090</rs>). A.H.P. acknowledges support from the <rs type="funder">Ontario Graduate Scholarship (OGS) program</rs>. H.T. acknowledges <rs type="funder">The Netherlands Organization for Scientific Research (NWO)</rs> for a <rs type="grantName">Rubicon grant</rs> (<rs type="grantNumber">680-50-1511</rs>) in support of his postdoctoral research at the <rs type="institution">University of Toronto</rs>. We thank <rs type="person">Mike Toney</rs> and <rs type="person">Aryeh Gold-Parker</rs> at the <rs type="institution" subtype="infrastructure">Stanford Synchrotron Radiation Lightsource</rs> and <rs type="person">U-Ser Jeong</rs> at the <rs type="affiliation">National Synchrotron Radiation Research Center</rs> for assistance with GIWAXS measurements.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_VUaxzQZ">
+				<org type="funding" xml:id="_R6cxWpm">
 					<idno type="grant-number">N00014-17-1-2524</idno>
 				</org>
-				<org type="funding" xml:id="_4pGGsMS">
+				<org type="funding" xml:id="_2K9Dqdn">
 					<idno type="grant-number">2016-06090</idno>
 				</org>
-				<org type="funding" xml:id="_MqsDNfS">
+				<org type="funding" xml:id="_Met2Rhk">
 					<idno type="grant-number">680-50-1511</idno>
 					<orgName type="grant-name">Rubicon grant</orgName>
 				</org>

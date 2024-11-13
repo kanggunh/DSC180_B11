@@ -7,32 +7,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_bMaHbDP #_VcWGkKW">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
+				<funder ref="#_XYtGMhE">
+					<orgName type="full">SHyNE Resource (NSF</orgName>
 				</funder>
-				<funder ref="#_TuH9xJA">
-					<orgName type="full">Northwestern</orgName>
+				<funder ref="#_WpWzrTD">
+					<orgName type="full">US Department of the Navy, Office of Naval</orgName>
 				</funder>
-				<funder ref="#_GthQB89">
-					<orgName type="full">Ontario Research Fund-Research Excellence Round 7)</orgName>
-				</funder>
-				<funder ref="#_3etNg8U">
+				<funder ref="#_4MYZ5Te">
 					<orgName type="full">National Science Foundation</orgName>
 				</funder>
-				<funder ref="#_6fUF6R4 #_zydx4hZ">
+				<funder ref="#_vHhanvR">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_r6vPtUE #_PAw36Uf">
 					<orgName type="full">Office of Naval Research</orgName>
+				</funder>
+				<funder ref="#_dZwExXw">
+					<orgName type="full">Ontario Research Fund-Research Excellence Round 7)</orgName>
+				</funder>
+				<funder ref="#_SZFsaas">
+					<orgName type="full">Northwestern</orgName>
+				</funder>
+				<funder ref="#_ZwuTY2b #_c5gzSbz">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">IIN</orgName>
-				</funder>
-				<funder ref="#_BGnzJgT">
-					<orgName type="full">SHyNE Resource (NSF</orgName>
-				</funder>
-				<funder ref="#_vhvtW4T">
-					<orgName type="full">European Union</orgName>
-				</funder>
-				<funder ref="#_sEmH4UN">
-					<orgName type="full">US Department of the Navy, Office of Naval</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Ontario Research Fund-Research Excellence programme (ORF7-Ministry of Research and Innovation</orgName>
@@ -745,7 +745,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -815,39 +815,39 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This research was made possible by the <rs type="funder">US Department of the Navy, Office of Naval</rs> <rs type="grantName">Research Grant</rs> (<rs type="grantNumber">N00014-20-1-2572</rs></p><p>). This work was supported in part by <rs type="funder">Ontario Research Fund-Research Excellence programme (ORF7-Ministry of Research and Innovation</rs>, <rs type="funder">Ontario Research Fund-Research Excellence Round 7)</rs>. This work was also supported under award number <rs type="grantNumber">OSR-CRG2020-4350.2</rs>. M.W. acknowledges funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 Research and Innovation programme</rs> under the <rs type="grantName">Marie Skłodowska-Curie</rs> grant agreement no. <rs type="grantNumber">101026353</rs>. T.H., H.R.A. and K.R.G. gratefully acknowledge funding from the <rs type="funder">National Science Foundation</rs> under award no. <rs type="grantNumber">DMR-2102257</rs>. L.X. acknowledges support by <rs type="funder">National Natural Science Foundation of China</rs> (no. <rs type="grantNumber">61935016</rs>, <rs type="grantNumber">52173153</rs>) and the <rs type="institution">Electron Microscopy Laboratory of Peking University</rs> for the use of electron microscopes. M.G.K. acknowledges support by the <rs type="funder">Office of Naval Research</rs> under award number <rs type="grantNumber">N00014-20-1-2725</rs>. A.A. acknowledges support by the <rs type="funder">Office of Naval Research</rs> under award number <rs type="grantNumber">N00014-20-1-2573</rs>. P.S. acknowledges the support of the <rs type="grantName">Vanier Canada Graduate Scholarship</rs>. This work made use of the NUFAB and Keck-II facilities of <rs type="institution">Northwestern University</rs>'s <rs type="programName">NUANCE Center</rs>, which has received support from the <rs type="funder">SHyNE Resource (NSF</rs> <rs type="grantNumber">ECCS-2025633</rs>), the <rs type="funder">IIN</rs> and <rs type="funder">Northwestern</rs>'s <rs type="programName">MRSEC programme</rs> (<rs type="grantNumber">NSF DMR-1720139</rs>). We thank <rs type="person">D. Kopilovic</rs> for providing the LED spectrum and <rs type="person">J. Gao</rs> for assisting with the SEM measurements.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_sEmH4UN">
+				<org type="funding" xml:id="_WpWzrTD">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 					<orgName type="grant-name">Research Grant</orgName>
 				</org>
-				<org type="funding" xml:id="_GthQB89">
+				<org type="funding" xml:id="_dZwExXw">
 					<idno type="grant-number">OSR-CRG2020-4350.2</idno>
 				</org>
-				<org type="funding" xml:id="_vhvtW4T">
+				<org type="funding" xml:id="_vHhanvR">
 					<idno type="grant-number">101026353</idno>
 					<orgName type="grant-name">Marie Skłodowska-Curie</orgName>
 					<orgName type="program" subtype="full">Horizon 2020 Research and Innovation programme</orgName>
 				</org>
-				<org type="funding" xml:id="_3etNg8U">
+				<org type="funding" xml:id="_4MYZ5Te">
 					<idno type="grant-number">DMR-2102257</idno>
 				</org>
-				<org type="funding" xml:id="_bMaHbDP">
+				<org type="funding" xml:id="_ZwuTY2b">
 					<idno type="grant-number">61935016</idno>
 				</org>
-				<org type="funding" xml:id="_VcWGkKW">
+				<org type="funding" xml:id="_c5gzSbz">
 					<idno type="grant-number">52173153</idno>
 				</org>
-				<org type="funding" xml:id="_6fUF6R4">
+				<org type="funding" xml:id="_r6vPtUE">
 					<idno type="grant-number">N00014-20-1-2725</idno>
 				</org>
-				<org type="funding" xml:id="_zydx4hZ">
+				<org type="funding" xml:id="_PAw36Uf">
 					<idno type="grant-number">N00014-20-1-2573</idno>
 					<orgName type="grant-name">Vanier Canada Graduate Scholarship</orgName>
 					<orgName type="program" subtype="full">NUANCE Center</orgName>
 				</org>
-				<org type="funding" xml:id="_BGnzJgT">
+				<org type="funding" xml:id="_XYtGMhE">
 					<idno type="grant-number">ECCS-2025633</idno>
 				</org>
-				<org type="funding" xml:id="_TuH9xJA">
+				<org type="funding" xml:id="_SZFsaas">
 					<idno type="grant-number">NSF DMR-1720139</idno>
 					<orgName type="program" subtype="full">MRSEC programme</orgName>
 				</org>

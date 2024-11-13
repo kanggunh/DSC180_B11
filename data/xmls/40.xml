@@ -7,12 +7,12 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Damp heat-stable perovskite solar cells with tailored-dimensionality 2D/3D heterojunctions</title>
-				<funder ref="#_2kRhS4d">
+				<funder ref="#_xkbvtja #_zh4Xqzk #_3pt4UbX #_MnwaTjw">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_dQwyZMG">
 					<orgName type="full">King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research</orgName>
 					<orgName type="abbreviated">OSR</orgName>
-				</funder>
-				<funder ref="#_afhcrW8 #_M9TCf6R #_GHX2BpM #_Jkmf298">
-					<orgName type="full">unknown</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -311,7 +311,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -351,19 +351,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>We acknowledge the use of <rs type="institution">KAUST Solar Center and Core Lab</rs> facilities and the support from its staff. We thank <rs type="person">A. Prasetio</rs> for help in preparing the figures with Adobe Illustrator, and <rs type="person">W. Yan</rs> for assistance with contact angle measurement. Funding: Supported by the <rs type="funder">King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research (OSR)</rs> under awards <rs type="grantNumber">OSR-CARF/CCF-3079</rs>, <rs type="grantNumber">OSR-CRG2019-4093</rs>, <rs type="grantNumber">OSR-CRG2020-4350</rs>, <rs type="grantNumber">IED OSR-2019-4208</rs>, <rs type="grantNumber">IED OSR-2019-4580</rs>, and</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_2kRhS4d">
+				<org type="funding" xml:id="_dQwyZMG">
 					<idno type="grant-number">OSR-CARF/CCF-3079</idno>
 				</org>
-				<org type="funding" xml:id="_afhcrW8">
+				<org type="funding" xml:id="_xkbvtja">
 					<idno type="grant-number">OSR-CRG2019-4093</idno>
 				</org>
-				<org type="funding" xml:id="_M9TCf6R">
+				<org type="funding" xml:id="_zh4Xqzk">
 					<idno type="grant-number">OSR-CRG2020-4350</idno>
 				</org>
-				<org type="funding" xml:id="_GHX2BpM">
+				<org type="funding" xml:id="_3pt4UbX">
 					<idno type="grant-number">IED OSR-2019-4208</idno>
 				</org>
-				<org type="funding" xml:id="_Jkmf298">
+				<org type="funding" xml:id="_MnwaTjw">
 					<idno type="grant-number">IED OSR-2019-4580</idno>
 				</org>
 			</listOrg>

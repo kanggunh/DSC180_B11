@@ -7,29 +7,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Organometallic-functionalized interfaces for highly efficient inverted perovskite solar cells</title>
-				<funder>
-					<orgName type="full">Royal Society Wolfson Research Merit</orgName>
-				</funder>
-				<funder ref="#_sHMAWAW">
-					<orgName type="full">Natural Science Foundation of Guangdong Province</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Imperial College London and City University of Hong Kong</orgName>
-				</funder>
-				<funder ref="#_3MKQesp">
+				<funder ref="#_f8cKpmf">
 					<orgName type="full">Research Grants Council of Hong Kong</orgName>
 				</funder>
-				<funder ref="#_E75ujHY">
+				<funder ref="#_s84SP29">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_fUtPAKj">
 					<orgName type="full">Innovation and Technology Fund</orgName>
 				</funder>
-				<funder ref="#_MFK6QWJ">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_TxqxyMu">
+					<orgName type="full">Natural Science Foundation of Guangdong Province</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Imperial College London Frankland Chair Endowment</orgName>
 				</funder>
-				<funder ref="#_QZAgbZZ">
+				<funder ref="#_FwhC7mg">
 					<orgName type="full">New Faculty Start-up Grant of the City University of Hong Kong</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Imperial College London and City University of Hong Kong</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Royal Society Wolfson Research Merit</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -179,7 +179,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -251,21 +251,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Z.Z. thanks <rs type="person">A. K.-Y. Jen</rs> and <rs type="person">C. S. Lee</rs> for help and support. Funding: This work was supported by the <rs type="funder">New Faculty Start-up Grant of the City University of Hong Kong</rs> (<rs type="grantNumber">9610421</rs>); the <rs type="funder">Innovation and Technology Fund</rs> (<rs type="grantNumber">ITS/095/20</rs>); the <rs type="grantName">ECS grant</rs> (<rs type="grantNumber">21301319</rs>) and a <rs type="grantName">GRF grant</rs> (<rs type="grantNumber">11306521</rs>) from the <rs type="funder">Research Grants Council of Hong Kong</rs>; the <rs type="funder">Natural Science Foundation of Guangdong Province</rs> (<rs type="grantNumber">2019A1515010761</rs>); and the <rs type="funder">Imperial College London Frankland Chair Endowment</rs>. N.J.L. is grateful for a <rs type="funder">Royal Society Wolfson Research Merit</rs> award. Author contributions: Z.L., B.L., and X.W. contributed equally to this work. Z.Z. conceived the ideas and designed the project with N.J.L. Z.Z. and N.J.L. directed and supervised the research. Z.L. fabricated the devices, conducted the characterization, and analyzed the data. B.L. and X.W. also contributed to the characterization and data analyses. N.J.L. and S.A.S. designed and synthesized the materials. S.Z. conducted the DFT calculations. D.G. conducted the stability tests. Z.L., B.L., X.W., N.J.L., and Z.Z. drafted and finalized the manuscript. All the authors revised the manuscript. Competing interests: A patent application based on this work has been submitted by <rs type="funder">Imperial College London and City University of Hong Kong</rs>, led by N.J.L. and Z.Z. The authors declare no other competing interests. Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper or the supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_QZAgbZZ">
+				<org type="funding" xml:id="_FwhC7mg">
 					<idno type="grant-number">9610421</idno>
 				</org>
-				<org type="funding" xml:id="_E75ujHY">
+				<org type="funding" xml:id="_fUtPAKj">
 					<idno type="grant-number">ITS/095/20</idno>
 					<orgName type="grant-name">ECS grant</orgName>
 				</org>
-				<org type="funding" xml:id="_MFK6QWJ">
+				<org type="funding" xml:id="_s84SP29">
 					<idno type="grant-number">21301319</idno>
 					<orgName type="grant-name">GRF grant</orgName>
 				</org>
-				<org type="funding" xml:id="_3MKQesp">
+				<org type="funding" xml:id="_f8cKpmf">
 					<idno type="grant-number">11306521</idno>
 				</org>
-				<org type="funding" xml:id="_sHMAWAW">
+				<org type="funding" xml:id="_TxqxyMu">
 					<idno type="grant-number">2019A1515010761</idno>
 				</org>
 			</listOrg>

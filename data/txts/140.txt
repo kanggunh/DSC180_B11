@@ -1,4 +1,7 @@
-Anion-π interactions suppress phase impurities in FAPbI 3 solar cells/nSpringer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law./nSupplementary Video 1. IPA evaporation rate test. One milliliter of IPA was added dropwise to a watch glass, and after 938 s, IPA volatilized 20% of its initial mass. Videos are played with 15x acceleration. 
+Paper #: 140
+Anion-π interactions suppress phase impurities in FAPbI 3 solar cells
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Supplementary Video 1. IPA evaporation rate test. One milliliter of IPA was added dropwise to a watch glass, and after 938 s, IPA volatilized 20% of its initial mass. Videos are played with 15x acceleration. 
  Supplementary Video 2. HFB evaporation rate test. One milliliter of HFB was added dropwise to a watch glass (the watch glass specification was the same as that used in Supplementary Video 1), and after 334 s, the HFB had volatilized 20% of its initial mass. This shows that the volatilization rate of HFB is higher than that of IPA under the same conditions. Videos are played with 15x acceleration. Cell Efficiency (%)   
  FhG-ISE LG NREL 
  Varian 

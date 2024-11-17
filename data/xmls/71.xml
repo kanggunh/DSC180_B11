@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Suppressed Ion Migration in Low-Dimensional Perovskites</title>
-				<funder ref="#_6tjvvtd #_9AeC32y">
+				<funder ref="#_FtC3MWp #_ADR8Z7E">
 					<orgName type="full">Office of Naval Research</orgName>
-				</funder>
-				<funder ref="#_nfTTdST">
-					<orgName type="full">National Science Foundation</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">China Scholarship Council</orgName>
+				</funder>
+				<funder ref="#_893Z2wx">
+					<orgName type="full">National Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -130,7 +130,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -155,13 +155,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>This work was supported by the <rs type="funder">Office of Naval Research</rs> (<rs type="grantNumber">N00014-17-1-2163</rs> and <rs type="grantNumber">N00014-15-1-2713</rs>) and <rs type="funder">National Science Foundation</rs> (<rs type="grantNumber">DMR-1505535</rs>). Y.L. thanks the support from <rs type="funder">China Scholarship Council</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_6tjvvtd">
+				<org type="funding" xml:id="_FtC3MWp">
 					<idno type="grant-number">N00014-17-1-2163</idno>
 				</org>
-				<org type="funding" xml:id="_9AeC32y">
+				<org type="funding" xml:id="_ADR8Z7E">
 					<idno type="grant-number">N00014-15-1-2713</idno>
 				</org>
-				<org type="funding" xml:id="_nfTTdST">
+				<org type="funding" xml:id="_893Z2wx">
 					<idno type="grant-number">DMR-1505535</idno>
 				</org>
 			</listOrg>

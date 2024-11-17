@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Defect passivation in hybrid perovskite solar cells using quaternary ammonium halide anions and cations</title>
-				<funder ref="#_wEjAaRf">
-					<orgName type="full">Air Force Office of Scientific Research</orgName>
-					<orgName type="abbreviated">AFOSR</orgName>
-				</funder>
-				<funder ref="#_haey7hK">
+				<funder ref="#_Ahhs4WW">
 					<orgName type="full">Nebraska Materials Research Science and Engineering Center</orgName>
 					<orgName type="abbreviated">MRSEC</orgName>
 				</funder>
-				<funder ref="#_jDvrVar">
+				<funder ref="#_gnTdvFx">
 					<orgName type="full">National Science Foundation</orgName>
 					<orgName type="abbreviated">NSF</orgName>
+				</funder>
+				<funder ref="#_zTSUYrT">
+					<orgName type="full">Air Force Office of Scientific Research</orgName>
+					<orgName type="abbreviated">AFOSR</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -82,7 +82,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -133,13 +133,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was supported in part by the <rs type="funder">Air Force Office of Scientific Research (AFOSR)</rs> (Grant No. <rs type="grantNumber">A9550-16-1-0299</rs>) and the <rs type="funder">National Science Foundation (NSF)</rs> through the <rs type="funder">Nebraska Materials Research Science and Engineering Center (MRSEC)</rs> (Grant No. <rs type="grantNumber">DMR-1420645</rs>), and by the <rs type="funder">NSF</rs> Grant <rs type="grantNumber">OIA-1538893</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_wEjAaRf">
+				<org type="funding" xml:id="_zTSUYrT">
 					<idno type="grant-number">A9550-16-1-0299</idno>
 				</org>
-				<org type="funding" xml:id="_haey7hK">
+				<org type="funding" xml:id="_Ahhs4WW">
 					<idno type="grant-number">DMR-1420645</idno>
 				</org>
-				<org type="funding" xml:id="_jDvrVar">
+				<org type="funding" xml:id="_gnTdvFx">
 					<idno type="grant-number">OIA-1538893</idno>
 				</org>
 			</listOrg>

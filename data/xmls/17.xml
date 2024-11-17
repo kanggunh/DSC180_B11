@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Perovskite Quantum Wells Formation Mechanism for Stable Efficient Perovskite Photovoltaics-A Real-Time Phase-Transition Study</title>
-				<funder ref="#_UtmqDrt #_uesZCbk">
+				<funder ref="#_kdBmtVy #_TSmtmVE">
+					<orgName type="full">The Hong Kong Polytechnic University</orgName>
+				</funder>
+				<funder ref="#_5c8RubC">
+					<orgName type="full">Research Grants Council of Hong Kong (GRF</orgName>
+				</funder>
+				<funder ref="#_9QajRzx #_cS8eB2r">
 					<orgName type="full">Shenzhen Science and Technology Innovation Commission</orgName>
 				</funder>
-				<funder ref="#_kGWzZVY">
+				<funder ref="#_3V8a3FG">
 					<orgName type="full">CRF</orgName>
+				</funder>
+				<funder ref="#_dcy2ArS #_Yuxync4">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Shenzhen Polytechnic</orgName>
 				</funder>
-				<funder ref="#_sTg8kvr">
-					<orgName type="full">Research Grants Council of Hong Kong (GRF</orgName>
-				</funder>
-				<funder ref="#_cZtnBPz #_CyXECzr">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_9ACcZJN">
+				<funder ref="#_V5qCKzV">
 					<orgName type="full">Research Grants Council of Hong Kong (General Research Fund</orgName>
-				</funder>
-				<funder ref="#_KQ39suJ #_yUrwGra">
-					<orgName type="full">The Hong Kong Polytechnic University</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -336,7 +336,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -391,32 +391,32 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was financially supported by the <rs type="funder">Research Grants Council of Hong Kong (GRF</rs> grant <rs type="grantNumber">15246816</rs> and <rs type="funder">CRF</rs> grant <rs type="grantNumber">C5037-18G</rs>), <rs type="funder">The Hong Kong Polytechnic University</rs> (Project Code: <rs type="grantNumber">1-ZE29</rs>, <rs type="grantNumber">1-BBAS</rs>, and <rs type="grantName">Sir Sze-yuen Chung Endowed Professorship</rs>), and <rs type="funder">Shenzhen Science and Technology Innovation Commission</rs> (Project No. <rs type="grantNumber">JCYJ20170413154602102</rs>; <rs type="grantNumber">JCYJ20200109105003940</rs>). The financial support from the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">62004129</rs>; <rs type="grantNumber">21875144</rs>) and <rs type="funder">Shenzhen Polytechnic</rs> is gratefully acknowledged. X.L. thanks <rs type="funder">Research Grants Council of Hong Kong (General Research Fund</rs> No. <rs type="grantNumber">14314216</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_sTg8kvr">
+				<org type="funding" xml:id="_5c8RubC">
 					<idno type="grant-number">15246816</idno>
 				</org>
-				<org type="funding" xml:id="_kGWzZVY">
+				<org type="funding" xml:id="_3V8a3FG">
 					<idno type="grant-number">C5037-18G</idno>
 				</org>
-				<org type="funding" xml:id="_KQ39suJ">
+				<org type="funding" xml:id="_kdBmtVy">
 					<idno type="grant-number">1-ZE29</idno>
 				</org>
-				<org type="funding" xml:id="_yUrwGra">
+				<org type="funding" xml:id="_TSmtmVE">
 					<idno type="grant-number">1-BBAS</idno>
 					<orgName type="grant-name">Sir Sze-yuen Chung Endowed Professorship</orgName>
 				</org>
-				<org type="funding" xml:id="_UtmqDrt">
+				<org type="funding" xml:id="_9QajRzx">
 					<idno type="grant-number">JCYJ20170413154602102</idno>
 				</org>
-				<org type="funding" xml:id="_uesZCbk">
+				<org type="funding" xml:id="_cS8eB2r">
 					<idno type="grant-number">JCYJ20200109105003940</idno>
 				</org>
-				<org type="funding" xml:id="_cZtnBPz">
+				<org type="funding" xml:id="_dcy2ArS">
 					<idno type="grant-number">62004129</idno>
 				</org>
-				<org type="funding" xml:id="_CyXECzr">
+				<org type="funding" xml:id="_Yuxync4">
 					<idno type="grant-number">21875144</idno>
 				</org>
-				<org type="funding" xml:id="_9ACcZJN">
+				<org type="funding" xml:id="_V5qCKzV">
 					<idno type="grant-number">14314216</idno>
 				</org>
 			</listOrg>

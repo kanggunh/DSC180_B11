@@ -7,23 +7,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Planar p-n homojunction perovskite solar cells with efficiency exceeding 21.3%</title>
-				<funder ref="#_ue8pRNN">
+				<funder ref="#_xF7HE8T">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_PuCgTS7">
 					<orgName type="full">Natural Science Foundation of Beijing Municipality</orgName>
 				</funder>
-				<funder ref="#_Z4r3EuS">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_CjK8TtF">
+				<funder ref="#_X3YBQE9">
 					<orgName type="full">Beijing Municipal Science and Technology Project</orgName>
 				</funder>
-				<funder ref="#_zd9cU5x">
+				<funder ref="#_XyAfGHj">
 					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
 				</funder>
-				<funder ref="#_4FP58Yu">
+				<funder ref="#_KeYzXUg">
 					<orgName type="full">China Scholarship Council</orgName>
 				</funder>
-				<funder ref="#_YmtHGVX">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_8sB3mYg">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -482,7 +482,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -587,24 +587,24 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>acknowledgements This work is supported partially by the <rs type="funder">National Natural Science Foundation of China</rs> (grant no. <rs type="grantNumber">51772096</rs>), the <rs type="funder">Natural Science Foundation of Beijing Municipality</rs> (<rs type="grantNumber">L172036</rs>), <rs type="programName">Joint Funds of the Equipment Pre-Research and Ministry of Education</rs> (<rs type="grantNumber">6141A020225</rs>), the <rs type="programName">Par-Eu Scholars Program, the Science and Technology Beijing 100 Leading Talent Training Project</rs>, the <rs type="funder">Beijing Municipal Science and Technology Project</rs> (<rs type="grantNumber">Z161100002616039</rs>), the <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (<rs type="grantNumber">2016JQ01</rs> and <rs type="grantNumber">2017ZZD02</rs>) and the <rs type="institution">NCEPU `Double First-Class</rs>' <rs type="programName">Graduate Talent Cultivation Program</rs>. We thank <rs type="person">Z. Cheng</rs>, <rs type="person">R. Xu</rs> and <rs type="person">Z. Liu</rs> for KPFM measurements and analysis, and <rs type="person">X. Han</rs> and <rs type="person">Z. Li</rs> for high-resolution TEM measurements. P.C. acknowledges the scholarship from the <rs type="funder">China Scholarship Council</rs> and thanks <rs type="person">G. Cao</rs> for fruitful discussions.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_Z4r3EuS">
+				<org type="funding" xml:id="_8sB3mYg">
 					<idno type="grant-number">51772096</idno>
 				</org>
-				<org type="funding" xml:id="_ue8pRNN">
+				<org type="funding" xml:id="_PuCgTS7">
 					<idno type="grant-number">L172036</idno>
 					<orgName type="program" subtype="full">Joint Funds of the Equipment Pre-Research and Ministry of Education</orgName>
 				</org>
-				<org type="funding" xml:id="_CjK8TtF">
+				<org type="funding" xml:id="_X3YBQE9">
 					<idno type="grant-number">6141A020225</idno>
 					<orgName type="program" subtype="full">Par-Eu Scholars Program, the Science and Technology Beijing 100 Leading Talent Training Project</orgName>
 				</org>
-				<org type="funding" xml:id="_zd9cU5x">
+				<org type="funding" xml:id="_XyAfGHj">
 					<idno type="grant-number">Z161100002616039</idno>
 				</org>
-				<org type="funding" xml:id="_YmtHGVX">
+				<org type="funding" xml:id="_xF7HE8T">
 					<idno type="grant-number">2016JQ01</idno>
 				</org>
-				<org type="funding" xml:id="_4FP58Yu">
+				<org type="funding" xml:id="_KeYzXUg">
 					<idno type="grant-number">2017ZZD02</idno>
 					<orgName type="program" subtype="full">Graduate Talent Cultivation Program</orgName>
 				</org>

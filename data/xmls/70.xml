@@ -7,27 +7,27 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Not All That Glitters Is Gold: Metal-Migration-Induced Degradation in Perovskite Solar Cells</title>
-				<funder ref="#_qMCWFmt">
-					<orgName type="full">University of Bern</orgName>
+				<funder ref="#_bey4WQw">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_EcjVRNc #_bMHS5rX">
+					<orgName type="full">unknown</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">King Abdulaziz City for Science and Technology</orgName>
 					<orgName type="abbreviated">KACST</orgName>
 				</funder>
-				<funder ref="#_XMUuxEg">
-					<orgName type="full">European Union</orgName>
-				</funder>
-				<funder ref="#_chbjCRW #_cxG3QfX">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_bujAgyt">
-					<orgName type="full">SNSF</orgName>
+				<funder ref="#_DYxE5Cf">
+					<orgName type="full">Swiss Federal Office of Energy (SYNERGY)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">CCEM-CH</orgName>
 				</funder>
-				<funder ref="#_gZJGd4c">
-					<orgName type="full">Swiss Federal Office of Energy (SYNERGY)</orgName>
+				<funder ref="#_aUTmDfX">
+					<orgName type="full">University of Bern</orgName>
+				</funder>
+				<funder ref="#_p25Vghu">
+					<orgName type="full">SNSF</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -267,7 +267,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:31+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -329,26 +329,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p><rs type="person">Dr. Shaik M. Zakeeruddin</rs> is gratefully acknowledged for his help in handling and administration of funding. We thank <rs type="person">S. Coudret</rs> for performing ICP MS analysis. <rs type="person">Dr. L. Bernard</rs> is gratefully acknowledged for the first contact and discussions. We thank <rs type="person">T. Matsui</rs> for providing devices for optimization studies. K.D. thanks the <rs type="institution">SNF</rs> for funding within the framework of <rs type="projectName">Umbrella</rs> project (Grant Agreement Nos. <rs type="grantNumber">407040-153952</rs> and <rs type="grantNumber">407040-153990</rs>). N.M. would like to thank the <rs type="programName">BNF program</rs> of the <rs type="funder">University of Bern</rs> and <rs type="person">Prof. Dr. Hans J. Hug</rs> for his Empa affiliation. HR-SEM images were taken at the <rs type="institution">Centre for Electron Microscopy (CIME)</rs> at <rs type="institution">EPFL</rs>. A.A. has received funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Seventh Framework Programme</rs> for research, technological development, and demonstration under Grant Agreement No. <rs type="grantNumber">291771</rs>. M.S. acknowledges support from the <rs type="grantName">cofunded Marie Skłodowska Curie fellowship</rs>, <rs type="grantNumber">H2020</rs> Grant Agreement No. <rs type="grantNumber">665667</rs>. M.G. thanks the <rs type="institution">SNSF-NanoTera (SYNERGY)</rs> and <rs type="funder">Swiss Federal Office of Energy (SYNERGY)</rs>, <rs type="funder">CCEM-CH</rs>, in the ninth call proposal 906: CONNECT PV, the <rs type="funder">SNSF</rs> <rs type="grantNumber">NRP70</rs> "<rs type="programName">Energy Turnaround</rs>", and the <rs type="funder">King Abdulaziz City for Science and Technology (KACST)</rs> for financial support.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_chbjCRW">
+				<org type="funded-project" xml:id="_EcjVRNc">
 					<idno type="grant-number">407040-153952</idno>
 					<orgName type="project" subtype="full">Umbrella</orgName>
 				</org>
-				<org type="funding" xml:id="_qMCWFmt">
+				<org type="funding" xml:id="_aUTmDfX">
 					<idno type="grant-number">407040-153990</idno>
 					<orgName type="program" subtype="full">BNF program</orgName>
 				</org>
-				<org type="funding" xml:id="_XMUuxEg">
+				<org type="funding" xml:id="_bey4WQw">
 					<idno type="grant-number">291771</idno>
 					<orgName type="grant-name">cofunded Marie Skłodowska Curie fellowship</orgName>
 					<orgName type="program" subtype="full">Seventh Framework Programme</orgName>
 				</org>
-				<org type="funding" xml:id="_cxG3QfX">
+				<org type="funding" xml:id="_bMHS5rX">
 					<idno type="grant-number">H2020</idno>
 				</org>
-				<org type="funding" xml:id="_gZJGd4c">
+				<org type="funding" xml:id="_DYxE5Cf">
 					<idno type="grant-number">665667</idno>
 				</org>
-				<org type="funding" xml:id="_bujAgyt">
+				<org type="funding" xml:id="_p25Vghu">
 					<idno type="grant-number">NRP70</idno>
 					<orgName type="program" subtype="full">Energy Turnaround</orgName>
 				</org>

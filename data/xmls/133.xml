@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_psZdTfR">
-					<orgName type="full">King Abdullah University of Science and Technology Office of Sponsored Research</orgName>
-				</funder>
-				<funder ref="#_rYSMftW">
+				<funder ref="#_dfkYFTP">
 					<orgName type="full">US Department of the Navy, Office of Naval</orgName>
 				</funder>
-				<funder ref="#_gZBxcsc">
+				<funder ref="#_NQG9eqQ">
 					<orgName type="full">Canada Foundation for Innovation</orgName>
+				</funder>
+				<funder ref="#_qXU3wyT">
+					<orgName type="full">King Abdullah University of Science and Technology Office of Sponsored Research</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -43,7 +43,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -143,14 +143,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This research was made possible by <rs type="funder">King Abdullah University of Science and Technology Office of Sponsored Research</rs> under award no. <rs type="grantNumber">OSR-2020-CRG9-4350.2</rs> and by the <rs type="funder">US Department of the Navy, Office of Naval</rs> <rs type="grantName">Research Grant</rs> (<rs type="grantNumber">N00014-20-1-2572</rs> (E.H.S.) and <rs type="grantNumber">N00014-20-1-2725 (M.G.K.)</rs>). SciNet is funded by the <rs type="funder">Canada Foundation for Innovation</rs> under the auspices of <rs type="institution" subtype="infrastructure">Compute Canada</rs>. We thank <rs type="person">W. Zhou</rs> for his contribution in independently verifying the impact of the ST treatment on PSC performance, under the supervision of <rs type="person">Z. Ning</rs> from <rs type="affiliation">Shanghai Tech University</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_psZdTfR">
+				<org type="funding" xml:id="_qXU3wyT">
 					<idno type="grant-number">OSR-2020-CRG9-4350.2</idno>
 				</org>
-				<org type="funding" xml:id="_rYSMftW">
+				<org type="funding" xml:id="_dfkYFTP">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 					<orgName type="grant-name">Research Grant</orgName>
 				</org>
-				<org type="funding" xml:id="_gZBxcsc">
+				<org type="funding" xml:id="_NQG9eqQ">
 					<idno type="grant-number">N00014-20-1-2725 (M.G.K.)</idno>
 				</org>
 			</listOrg>

@@ -7,50 +7,50 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Efficient perovskite solar cells via improved carrier management</title>
-				<funder ref="#_DJTpT5A">
-					<orgName type="full">National Aeronautics and Space Administration</orgName>
-					<orgName type="abbreviated">NASA</orgName>
+				<funder ref="#_kqyAMB6 #_EEnFkPu">
+					<orgName type="full">Korean government (MSIT)</orgName>
 				</funder>
-				<funder ref="#_VU56jxU">
-					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
-					<orgName type="abbreviated">MSIP</orgName>
-				</funder>
-				<funder ref="#_ygVveZJ">
+				<funder ref="#_afGTwJW">
 					<orgName type="full">Institute for Soldier Nanotechnology</orgName>
 					<orgName type="abbreviated">ISN</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Eni SpA</orgName>
-				</funder>
-				<funder ref="#_neRZSNv #_JWE5Xn8">
-					<orgName type="full">Korean government (MSIT)</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">NST</orgName>
-				</funder>
-				<funder>
 					<orgName type="full">Tata Trusts</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Agency for Science Technology and Research, Singapore</orgName>
+				</funder>
+				<funder ref="#_7fntTTt">
+					<orgName type="full">Ministry of Trade Industry &amp; Energy (MOTIE) of South Korea</orgName>
+				</funder>
+				<funder ref="#_jabfg2t">
+					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
+					<orgName type="abbreviated">KRICT</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Korea Institute of Energy Technology Evaluation and Planning</orgName>
+					<orgName type="abbreviated">KETEP</orgName>
+				</funder>
+				<funder ref="#_6NWrzTC">
+					<orgName type="full">National Aeronautics and Space Administration</orgName>
+					<orgName type="abbreviated">NASA</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Research Council of Science &amp; Technology</orgName>
 					<orgName type="abbreviated">NST</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Agency for Science Technology and Research, Singapore</orgName>
-				</funder>
-				<funder ref="#_gDzaWSp">
-					<orgName type="full">Ministry of Trade Industry &amp; Energy (MOTIE) of South Korea</orgName>
-				</funder>
-				<funder ref="#_q4kHbcU">
-					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="full">Eni SpA</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Korea Institute of Energy Technology Evaluation and Planning</orgName>
-					<orgName type="abbreviated">KETEP</orgName>
+					<orgName type="full">NST</orgName>
 				</funder>
-				<funder ref="#_JWK9Hu9">
-					<orgName type="full">Korea Research Institute of Chemical Technology</orgName>
-					<orgName type="abbreviated">KRICT</orgName>
+				<funder ref="#_FVdhH9f">
+					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
+					<orgName type="abbreviated">MSIP</orgName>
+				</funder>
+				<funder ref="#_afw4rcf">
+					<orgName type="full">National Research Foundation of Korea</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -394,7 +394,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -468,28 +468,28 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements J.J.Y. was funded by the <rs type="funder">Institute for Soldier Nanotechnology (ISN)</rs> grant <rs type="grantNumber">W911NF-13-D-0001</rs> and the <rs type="funder">National Aeronautics and Space Administration (NASA)</rs> grant <rs type="grantNumber">NNX16AM70H</rs>. Y.L. and M.G.B. were funded by <rs type="funder">Eni SpA</rs> through the <rs type="institution">MIT Energy Initiative</rs>. M.R.C. was funded by the <rs type="funder">Agency for Science Technology and Research, Singapore</rs>. V.B. was funded by <rs type="funder">Tata Trusts</rs>. T.G.P. and F.R. were funded by the <rs type="funder">National Research Foundation of Korea</rs> (<rs type="grantNumber">NRF-2019R1A2C3003504</rs>) and a <rs type="funder">National Research Council of Science &amp; Technology (NST)</rs> grant from the <rs type="funder">Korean government (MSIT)</rs> (grant number <rs type="grantNumber">CAP-18-05-KAERI</rs>). G.S., S.S.S., C.S.M., N.J.J. and J.S. were supported by a grant from the <rs type="funder">Korea Research Institute of Chemical Technology (KRICT)</rs>, <rs type="person">South Korea</rs> (<rs type="grantNumber">KS2022-10</rs>); the <rs type="funder">Korea Institute of Energy Technology Evaluation and Planning (KETEP)</rs> and the <rs type="funder">Ministry of Trade Industry &amp; Energy (MOTIE) of South Korea</rs> (grant number <rs type="grantNumber">20183010014470</rs>); by a grant from the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Science, ICT &amp; Future Planning (MSIP) of South Korea</rs> (<rs type="grantNumber">NRF-2016M3A6A7945503</rs></p><p>) and by a grant from the <rs type="funder">NST</rs> from the <rs type="funder">Korean government (MSIT)</rs> (grant number <rs type="grantNumber">CAP-18-05-KAERI</rs>). We thank <rs type="person">S.-M. Bang</rs>, <rs type="person">G. Kim</rs>, <rs type="person">K. Kim</rs>, <rs type="person">J. Kim</rs> and <rs type="person">J. Park</rs> for discussions and assistance with the experiments. We thank <rs type="institution">KARA (KAIST Analysis center for Research Advancement)</rs> for their assistance with X-ray photoelectron spectroscopy and ultraviolet photoelectron spectroscopy measurements and analysis.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_ygVveZJ">
+				<org type="funding" xml:id="_afGTwJW">
 					<idno type="grant-number">W911NF-13-D-0001</idno>
 				</org>
-				<org type="funding" xml:id="_DJTpT5A">
+				<org type="funding" xml:id="_6NWrzTC">
 					<idno type="grant-number">NNX16AM70H</idno>
 				</org>
-				<org type="funding" xml:id="_q4kHbcU">
+				<org type="funding" xml:id="_afw4rcf">
 					<idno type="grant-number">NRF-2019R1A2C3003504</idno>
 				</org>
-				<org type="funding" xml:id="_neRZSNv">
+				<org type="funding" xml:id="_kqyAMB6">
 					<idno type="grant-number">CAP-18-05-KAERI</idno>
 				</org>
-				<org type="funding" xml:id="_JWK9Hu9">
+				<org type="funding" xml:id="_jabfg2t">
 					<idno type="grant-number">KS2022-10</idno>
 				</org>
-				<org type="funding" xml:id="_gDzaWSp">
+				<org type="funding" xml:id="_7fntTTt">
 					<idno type="grant-number">20183010014470</idno>
 				</org>
-				<org type="funding" xml:id="_VU56jxU">
+				<org type="funding" xml:id="_FVdhH9f">
 					<idno type="grant-number">NRF-2016M3A6A7945503</idno>
 				</org>
-				<org type="funding" xml:id="_JWE5Xn8">
+				<org type="funding" xml:id="_EEnFkPu">
 					<idno type="grant-number">CAP-18-05-KAERI</idno>
 				</org>
 			</listOrg>

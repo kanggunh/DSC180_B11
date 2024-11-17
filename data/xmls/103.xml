@@ -7,18 +7,18 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_5gTJhEQ">
-					<orgName type="full">Ulsan National Institute of Science and Technology</orgName>
-				</funder>
-				<funder ref="#_5QhyZUe #_6mVr6AR">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_8smdpGV">
+				<funder ref="#_FVqzVVc">
 					<orgName type="full">Korean government</orgName>
+				</funder>
+				<funder ref="#_7VuVxdV #_xkqK2fN">
+					<orgName type="full">unknown</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Research Foundation of Korea</orgName>
 					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+				<funder ref="#_FghCyMr">
+					<orgName type="full">Ulsan National Institute of Science and Technology</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -61,7 +61,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -88,8 +88,8 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. S6 .</head><label>S6</label><figDesc>Fig. S6. Structure relaxation for the control Electronic band structures of FAPbI3, FA0.926(VFA)0.037MDA0.037PbI3, and (c) FA0.963MDA0.037PbI3(Cli)0.037.</figDesc><graphic coords="8,72.00,478.21,451.30,188.95" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. S7 .</head><label>S7</label><figDesc>Fig. S7. Variation in JSC, VOC, and FF for different x values of FAPbI3:xMDACl2 (x = 0, 1.9, 3.8, and 5.7 mol%) and control.</figDesc><graphic coords="9,72.25,108.19,157.32,120.25" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. S8 .</head><label>S8</label><figDesc>Fig. S8. Power conversion efficiency (PCE) change in FTO/bl-TiO2/mp-TiO2/Perovskite:MDACl2 (0, 3.7 mol%)/Spiro-OMeTAD/Au (unencapsulated) measured over time stored under ambient conditions (RH 20-30%, 25 °C) in a dark and X-ray diffraction (XRD) patterns of resulting layers after 2500 h of operation time.</figDesc><graphic coords="9,110.11,461.71,214.03,150.43" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. S9 .</head><label>S9</label><figDesc>Fig. S9. Certified results from accredited photovoltaic certification laboratory (Newport, USA) for device shown in Figure 2B.</figDesc><graphic coords="11,72.00,107.94,451.30,287.85" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. S10 .</head><label>S10</label><figDesc>Fig. S10. Certified results from accredited photovoltaic certification laboratory (Newport, USA) for a second device.</figDesc><graphic coords="11,72.00,442.82,451.30,287.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. S9 .</head><label>S9</label><figDesc>Fig. S9. Certified results from accredited photovoltaic certification laboratory (Newport, USA) for device shown in Figure 2B.</figDesc><graphic coords="11,72.00,442.82,451.30,287.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. S10 .</head><label>S10</label><figDesc>Fig. S10. Certified results from accredited photovoltaic certification laboratory (Newport, USA) for a second device.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. S11 .</head><label>S11</label><figDesc>Fig. S11. Comparison of dark current-voltage curves of electron-only devices among representative control, target, and pure FAPbI3 devices.</figDesc><graphic coords="12,135.80,92.11,340.92,260.54" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. S12 .</head><label>S12</label><figDesc>Fig. S12. J-V curves of control and target fabricated with CuPC as hole-transporting material instead of Spiro-OMeTAD.</figDesc><graphic coords="12,123.21,423.39,376.17,287.54" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Fig. S1 .</head><label>S1</label><figDesc>Fig. S1. Comparison of ultraviolet-visible (UV-vis) spectra of FAPbI3 deposited with and without MACl additive.</figDesc><graphic coords="23,72.00,182.84,451.30,345.30" type="bitmap" /></figure>
@@ -122,16 +122,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Funding: This work was supported by the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Korean government</rs> (<rs type="grantNumber">MSIT 2018R1A3B1052820</rs>, <rs type="grantNumber">2012M3A6A7054861</rs>, and <rs type="grantNumber">2015M1A2A2056542</rs>) and by the <rs type="institution">U-K Brand research</rs> fund (1.190004.01). Author contributions: S.I.S. designed and supervised the research. H.M. fabricated and characterized the perovskite films and devices. M.K., K.C., and J.H.L. performed the theoretical simulations. S.-U.L. performed the space-chargelimited current measurements. H.K. and G.K. conducted XRD and FT-IR measurements. H.M. and G.K. performed the encapsulation and stability tests of perovskite devices. S.I.S. and H.M. wrote the draft of the manuscript and all authors discussed the results and contributed to the revisions of the manuscript. Competing interests: H.M and S.I.S. are inventors on a patent application (<rs type="grantNumber">KR 10-2019-0081424</rs>) submitted by the <rs type="funder">Ulsan National Institute of Science and Technology</rs> that covers the MDACl2-stabilized a-FAPbI 3 . Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the text or the supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_8smdpGV">
+				<org type="funding" xml:id="_FVqzVVc">
 					<idno type="grant-number">MSIT 2018R1A3B1052820</idno>
 				</org>
-				<org type="funding" xml:id="_5QhyZUe">
+				<org type="funding" xml:id="_7VuVxdV">
 					<idno type="grant-number">2012M3A6A7054861</idno>
 				</org>
-				<org type="funding" xml:id="_6mVr6AR">
+				<org type="funding" xml:id="_xkqK2fN">
 					<idno type="grant-number">2015M1A2A2056542</idno>
 				</org>
-				<org type="funding" xml:id="_5gTJhEQ">
+				<org type="funding" xml:id="_FghCyMr">
 					<idno type="grant-number">KR 10-2019-0081424</idno>
 				</org>
 			</listOrg>

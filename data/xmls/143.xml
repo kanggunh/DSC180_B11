@@ -7,11 +7,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Supporting Information CuSCN as hole transport material with 3D/2D perovskite solar cells</title>
-				<funder ref="#_KxeKKkc">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_Pjvkr8Y">
+				<funder ref="#_THBm8cR">
 					<orgName type="full">Qatar National Research Fund</orgName>
+				</funder>
+				<funder ref="#_upfznAK">
+					<orgName type="full">unknown</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -204,7 +204,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:38+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -259,11 +259,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>We thank <rs type="person">Mohammed I. Helal</rs> for SEM imaging from Core laboratories in QEERI and <rs type="person">Valentin I. E. Queloz</rs> for the discussion on PL data. We also thank <rs type="grantName">QEERI-EPFL collaboration</rs> for the support. A.M. thanks the <rs type="funder">Qatar National Research Fund</rs> (a member of <rs type="affiliation">Qatar Foundation</rs>) for NPRP Grant No. <rs type="grantNumber">8-086-1-017</rs>. We also acknowledge funding from Grant No. <rs type="grantNumber">CTI 25590</rs>.1 <rs type="institution">PFNM-NM, Solaronix, Aubonne, Switzerland</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_Pjvkr8Y">
+				<org type="funding" xml:id="_THBm8cR">
 					<idno type="grant-number">8-086-1-017</idno>
 					<orgName type="grant-name">QEERI-EPFL collaboration</orgName>
 				</org>
-				<org type="funding" xml:id="_KxeKKkc">
+				<org type="funding" xml:id="_upfznAK">
 					<idno type="grant-number">CTI 25590</idno>
 				</org>
 			</listOrg>

@@ -7,11 +7,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Ionic transport in hybrid lead iodide perovskite solar cells</title>
-				<funder ref="#_tj2mm2S #_TAyDTSR">
-					<orgName type="full">EPSRC</orgName>
-				</funder>
-				<funder ref="#_9z2MTGr #_xrs3rhA">
+				<funder ref="#_zthcbV9 #_8VctkXv">
 					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_uXBeGyF #_KJCwFPZ">
+					<orgName type="full">EPSRC</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -111,7 +111,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -147,17 +147,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>We gratefully acknowledge support from the <rs type="funder">EPSRC</rs> for the <rs type="grantName">Energy Materials Programme grant</rs> (<rs type="grantNumber">EP/K016288</rs>), <rs type="person">Archer HPC</rs> facilities through the <rs type="institution">Materials Chemistry Consortium</rs> (<rs type="grantNumber">EP/L000202</rs>), research grant <rs type="grantNumber">EP/M014797/1</rs> and P.R.F.B.'s fellowship (<rs type="grantNumber">EP/J002305/1</rs>). We thank <rs type="person">C.H. Law</rs> for his assistance with device preparation, and <rs type="person">P. Cameron</rs>, <rs type="person">C.A.J. Fisher</rs>, <rs type="person">L.M. Peter</rs> and <rs type="person">M.T. Weller</rs> for useful discussions.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_tj2mm2S">
+				<org type="funding" xml:id="_uXBeGyF">
 					<idno type="grant-number">EP/K016288</idno>
 					<orgName type="grant-name">Energy Materials Programme grant</orgName>
 				</org>
-				<org type="funding" xml:id="_TAyDTSR">
+				<org type="funding" xml:id="_KJCwFPZ">
 					<idno type="grant-number">EP/L000202</idno>
 				</org>
-				<org type="funding" xml:id="_9z2MTGr">
+				<org type="funding" xml:id="_zthcbV9">
 					<idno type="grant-number">EP/M014797/1</idno>
 				</org>
-				<org type="funding" xml:id="_xrs3rhA">
+				<org type="funding" xml:id="_8VctkXv">
 					<idno type="grant-number">EP/J002305/1</idno>
 				</org>
 			</listOrg>

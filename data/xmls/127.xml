@@ -7,24 +7,24 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder>
-					<orgName type="full">UPS</orgName>
+				<funder ref="#_62Qvn8U">
+					<orgName type="full">National Research Foundation</orgName>
+					<orgName type="abbreviated">NRF</orgName>
+				</funder>
+				<funder ref="#_Wm46ka9 #_PTPx4Dc #_acCWmJK">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_mpwV3fX">
+					<orgName type="full">Simulation (FACTS)</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National Supercomputing Centre, Singapore</orgName>
 				</funder>
-				<funder ref="#_ExyBFHu">
+				<funder ref="#_bgvJ3d6">
 					<orgName type="full">Ministry of Singapore</orgName>
 				</funder>
-				<funder ref="#_jThrstc #_GQ536hY #_9vnqAm3">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_7Ztquam">
-					<orgName type="full">Simulation (FACTS)</orgName>
-				</funder>
-				<funder ref="#_P8bNFGp">
-					<orgName type="full">National Research Foundation</orgName>
-					<orgName type="abbreviated">NRF</orgName>
+				<funder>
+					<orgName type="full">UPS</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -98,7 +98,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -187,23 +187,23 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work is supported by the <rs type="funder">Ministry of Singapore</rs> under its AcRF Tier 1 (Project <rs type="grantNumber">RG6/21</rs> (<rs type="grantNumber">2021-T1-001-072</rs>) to Y.M.L.) and Tier 2 grants (<rs type="grantNumber">MOE2019-T2-1-006</rs> to T.C.S., <rs type="grantNumber">MOE2019-T2-1-085</rs> to Y.M.L. and <rs type="grantNumber">MOE-T2EP50120-0004</rs> to T.C.S.), and the <rs type="funder">National Research Foundation (NRF)</rs> <rs type="grantName">Singapore under its NRF Investigatorship</rs> (<rs type="grantNumber">NRF-NRFI2018-04</rs> to T.C.S.). We thank the Facility for Analysis, Characterisation, Testing and <rs type="funder">Simulation (FACTS)</rs> (<rs type="affiliation">Nanyang Technological University, Singapore</rs>) for allowing us to use their electron microscopy, <rs type="funder">UPS</rs> instrument and X-ray facilities. We also thank the <rs type="institution">Solar Energy Research Institute of Singapore (SERIS)</rs> for PV authentication tests. We would like to thank <rs type="person">Professor J. Bisquert</rs> (<rs type="affiliation">Universitat Jaume I</rs>) for the discussion on Mott-Schottky analysis. The computational work for this article was fully performed on resources of the <rs type="funder">National Supercomputing Centre, Singapore</rs> (<ref type="url" target="https://www.nscc.sg">https://www.nscc.sg</ref>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_ExyBFHu">
+				<org type="funding" xml:id="_bgvJ3d6">
 					<idno type="grant-number">RG6/21</idno>
 				</org>
-				<org type="funding" xml:id="_jThrstc">
+				<org type="funding" xml:id="_Wm46ka9">
 					<idno type="grant-number">2021-T1-001-072</idno>
 				</org>
-				<org type="funding" xml:id="_GQ536hY">
+				<org type="funding" xml:id="_PTPx4Dc">
 					<idno type="grant-number">MOE2019-T2-1-006</idno>
 				</org>
-				<org type="funding" xml:id="_9vnqAm3">
+				<org type="funding" xml:id="_acCWmJK">
 					<idno type="grant-number">MOE2019-T2-1-085</idno>
 				</org>
-				<org type="funding" xml:id="_P8bNFGp">
+				<org type="funding" xml:id="_62Qvn8U">
 					<idno type="grant-number">MOE-T2EP50120-0004</idno>
 					<orgName type="grant-name">Singapore under its NRF Investigatorship</orgName>
 				</org>
-				<org type="funding" xml:id="_7Ztquam">
+				<org type="funding" xml:id="_mpwV3fX">
 					<idno type="grant-number">NRF-NRFI2018-04</idno>
 				</org>
 			</listOrg>

@@ -10,16 +10,45 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 				<funder>
 					<orgName type="full">Canadian Light Source</orgName>
 				</funder>
-				<funder ref="#_BrAnJgm">
-					<orgName type="full">King Abdullah University of Science and Technology</orgName>
-					<orgName type="abbreviated">KAUST</orgName>
+				<funder>
+					<orgName type="full">University of Saskatchewan</orgName>
+				</funder>
+				<funder ref="#_jygKB4D">
+					<orgName type="full">Office of Naval Research</orgName>
+					<orgName type="abbreviated">ONR</orgName>
+				</funder>
+				<funder ref="#_JasKzub #_Sn42DkE">
+					<orgName type="full">Army Research Office</orgName>
+				</funder>
+				<funder ref="#_6gXTcyj">
+					<orgName type="full">National Science Foundation (NSF) Materials Research Science and Engineering Center</orgName>
+					<orgName type="abbreviated">MRSEC</orgName>
+				</funder>
+				<funder ref="#_443GFk8">
+					<orgName type="full">Sherman Fairchild Foundation, Inc.</orgName>
+				</funder>
+				<funder ref="#_r6AQ2h6">
+					<orgName type="full">US Department of Commerce, National Institute of Standards and Technology</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Center for Hierarchical Materials Design (CHiMaD)</orgName>
+				</funder>
+				<funder ref="#_GF7unrN">
+					<orgName type="full">SHyNE Resource (NSF</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Canada Foundation for Innovation</orgName>
 					<orgName type="abbreviated">CFI</orgName>
 				</funder>
-				<funder ref="#_et62FyA">
-					<orgName type="full">Sherman Fairchild Foundation, Inc.</orgName>
+				<funder ref="#_dKCVHSQ">
+					<orgName type="full">International Institute of Nanotechnology, Northwestern University</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Canadian Institutes of Health Research</orgName>
+					<orgName type="abbreviated">CIHR</orgName>
+				</funder>
+				<funder ref="#_GscwjmJ">
+					<orgName type="full">ONR</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Natural Sciences and Engineering Research Council</orgName>
@@ -29,44 +58,15 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 					<orgName type="full">National Research Council</orgName>
 					<orgName type="abbreviated">NRC</orgName>
 				</funder>
-				<funder ref="#_Wbf5WJQ">
-					<orgName type="full">Office of Naval Research</orgName>
-					<orgName type="abbreviated">ONR</orgName>
-				</funder>
-				<funder ref="#_F3mw3ws">
-					<orgName type="full">US Department of Commerce, National Institute of Standards and Technology</orgName>
+				<funder>
+					<orgName type="full">American Association for the Advancement of Science</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Government of Saskatchewan</orgName>
 				</funder>
-				<funder ref="#_76Mhydf">
-					<orgName type="full">International Institute of Nanotechnology, Northwestern University</orgName>
-				</funder>
-				<funder ref="#_rMMz2vD">
-					<orgName type="full">National Science Foundation (NSF) Materials Research Science and Engineering Center</orgName>
-					<orgName type="abbreviated">MRSEC</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Canadian Institutes of Health Research</orgName>
-					<orgName type="abbreviated">CIHR</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">University of Saskatchewan</orgName>
-				</funder>
-				<funder ref="#_ysueC8K #_RKcTgQc">
-					<orgName type="full">Army Research Office</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Center for Hierarchical Materials Design (CHiMaD)</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">American Association for the Advancement of Science</orgName>
-				</funder>
-				<funder ref="#_zKhqwmt">
-					<orgName type="full">ONR</orgName>
-				</funder>
-				<funder ref="#_FudXsYr">
-					<orgName type="full">SHyNE Resource (NSF</orgName>
+				<funder ref="#_7aPt45p">
+					<orgName type="full">King Abdullah University of Science and Technology</orgName>
+					<orgName type="abbreviated">KAUST</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -429,7 +429,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:34+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:58+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -475,10 +475,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_18"><head>Fig. S14 .</head><label>S14</label><figDesc>Fig. S14. The dark diode characteristics of the PSCs. The recombination parameter J0 quantifies the current density under thermal equilibrium(39). Hence, we extracted J0 from linear fits to semi-log current-voltage plots measured in the dark, following the diode equation J = J0 [exp(qV/nkT)-1], where J is the current density, q is the electronic charge, V is the voltage, n is the ideality factor, k is the Boltzmann constant, and T is the temperature. DMDP devices consistently show a smaller J0 compared to control devices, which is indicative of a smaller recombination current density in DMDP devices.</figDesc><graphic coords="18,171.27,469.99,269.43,227.60" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_19"><head>Fig. S15 .</head><label>S15</label><figDesc>Fig. S15. The steady-state output of the best-performance DMDP-based PSC.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_20"><head>Fig. S16 .</head><label>S16</label><figDesc>Fig. S16. Certification of stabilized PV performance of the DMDP-based p-i-n device measured by NREL PV Performance Group. The certification was conducted using the Asymptotic Pmax Scan protocol, where the stabilized asymptotic scans were measured by holding the cell at a set of voltage points in the region of Vmax. The criterion for stabilization was when the current change per minute was less than 0.1%, the cell was biased to next voltage.</figDesc><graphic coords="20,107.25,73.50,397.82,512.15" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>Fig. S17 .</head><label>S17</label><figDesc>Fig. S17. Device performance of the 1.5 cm 2 DMDP-based PSC.</figDesc><graphic coords="21,131.70,72.00,348.60,278.28" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_22"><head>Fig. S18 .</head><label>S18</label><figDesc>Fig. S18. (A, B) PL intensity maps and statistical distribution of the control (A) and DMDPbased (B) perovskite films.</figDesc><graphic coords="21,72.00,364.10,467.95,286.75" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_23"><head>Fig. S19 .</head><label>S19</label><figDesc>Fig. S19. Thermal stability of six encapsulated PSCs annealed at 85˚C in nitrogen.</figDesc><graphic coords="22,181.50,72.00,249.00,198.90" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_24"><head>Fig. S20 .</head><label>S20</label><figDesc>Fig. S20. Operating stability of two additional encapsulated PSCs under constant one sun illumination at 65˚C in air with 50% RH.</figDesc><graphic coords="22,104.25,285.30,403.24,174.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_21"><head>Fig. S17 .</head><label>S17</label><figDesc>Fig. S17. Device performance of the 1.5 cm 2 DMDP-based PSC.</figDesc><graphic coords="21,72.00,364.10,467.95,286.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_22"><head>Fig. S18 .</head><label>S18</label><figDesc>Fig. S18. (A, B) PL intensity maps and statistical distribution of the control (A) and DMDPbased (B) perovskite films.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_23"><head>Fig. S19 .</head><label>S19</label><figDesc>Fig. S19. Thermal stability of six encapsulated PSCs annealed at 85˚C in nitrogen.</figDesc><graphic coords="22,104.25,285.30,403.24,174.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_24"><head>Fig. S20 .</head><label>S20</label><figDesc>Fig. S20. Operating stability of two additional encapsulated PSCs under constant one sun illumination at 65˚C in air with 50% RH.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_25"><head>Fig. S21 .</head><label>S21</label><figDesc>Fig. S21. EQE curves of WBG and NBG subcells within the tandem device.</figDesc><graphic coords="23,149.57,72.00,312.85,249.97" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="19,107.25,73.50,396.80,519.24" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table S1</head><label>S1</label><figDesc>Time-resolved photoluminescence of the perovskite films with different ligand passivation.Table S2Summary of certified photovoltaic parameters of efficient inverted PSCs with quasisteady-state (QSS) PCE over 22% following asymptotic maximum power (AMP) scan or maximum power point (MPP) tracking protocols.</figDesc><table><row><cell>Samples</cell><cell>τ1 (ns)</cell><cell>A1 (cnts)</cell><cell cols="2">τ2 (ns)</cell><cell cols="2">A2 (cnts)</cell><cell>τave (ns)</cell></row><row><cell>Ctrl</cell><cell>24.7</cell><cell>354.3</cell><cell></cell><cell>150.7</cell><cell cols="2">539.2</cell><cell>138.5</cell></row><row><cell>PDAI2</cell><cell>36.6</cell><cell>167.8</cell><cell></cell><cell>172.6</cell><cell cols="2">608.2</cell><cell>165.0</cell></row><row><cell>AAI</cell><cell>11.7</cell><cell>80.1</cell><cell></cell><cell>205.9</cell><cell cols="2">731.5</cell><cell>204.7</cell></row><row><cell>3MTPAI</cell><cell>11.3</cell><cell>130.6</cell><cell></cell><cell>627.5</cell><cell cols="2">600.2</cell><cell>625.1</cell></row><row><cell>DMDP</cell><cell>43.7</cell><cell>259.7</cell><cell></cell><cell>718.8</cell><cell cols="2">470.0</cell><cell>696.9</cell></row><row><cell>Protocol (AMP/ MPP)</cell><cell>QSS PCE (%)</cell><cell cols="2">Fast-scan PCE (%)</cell><cell cols="2">Certification organization</cell><cell>References</cell></row><row><cell>AMP</cell><cell>25.11</cell><cell>25.9</cell><cell></cell><cell>NREL</cell><cell></cell><cell>This work</cell></row><row><cell>AMP</cell><cell>24.09</cell><cell>N.A.</cell><cell></cell><cell>NREL</cell><cell></cell><cell>S. M. Park, Science, 2023 (46)</cell></row><row><cell>AMP</cell><cell>24.05</cell><cell>25.4</cell><cell></cell><cell>NREL</cell><cell></cell><cell>Q. Jiang, Nature, 2022 (10)</cell></row><row><cell>AMP</cell><cell>23.91</cell><cell>N.A.</cell><cell></cell><cell>NREL</cell><cell></cell><cell>H. Chen, Nat. Photonics, 2022 (17)</cell></row><row><cell>AMP</cell><cell>22.62</cell><cell>N.A.</cell><cell></cell><cell>NREL</cell><cell></cell><cell>S. Chen, Sci. Adv., 2021 (47)</cell></row><row><cell>AMP</cell><cell>22.34</cell><cell>N.A.</cell><cell></cell><cell cols="2">Newport</cell><cell>X. Zheng, Nat. Energy, 2020 (48)</cell></row><row><cell>MPP</cell><cell>24.10</cell><cell>24.5</cell><cell></cell><cell>JET</cell><cell></cell><cell>F. Li, Nat. Photonics, 2023 (41)</cell></row><row><cell>MPP</cell><cell>24.71</cell><cell>24.9</cell><cell></cell><cell>NPVM</cell><cell></cell><cell>W. Peng, Science, 2023 (9)</cell></row><row><cell>MPP</cell><cell>24.25</cell><cell>24.5</cell><cell></cell><cell>NPVM</cell><cell></cell><cell>X. Wu, Adv. Mater., 2023 (40)</cell></row></table></figure>
@@ -497,36 +497,36 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Part of the research described in this paper was performed at the <rs type="funder">Canadian Light Source</rs>, a national research facility of the <rs type="institution">University of Saskatchewan</rs>, which is supported by the <rs type="funder">Canada Foundation for Innovation (CFI)</rs>, the <rs type="funder">Natural Sciences and Engineering Research Council (NSERC)</rs>, the <rs type="funder">National Research Council (NRC)</rs>, the <rs type="funder">Canadian Institutes of Health Research (CIHR)</rs>, the <rs type="funder">Government of Saskatchewan</rs>, and the <rs type="funder">University of Saskatchewan</rs>. A.S.R.B. acknowledges support from <rs type="funder">King Abdullah University of Science and Technology (KAUST)</rs> through the <rs type="grantName">Ibn Rushd Postdoctoral Fellowship Award</rs>. Funding: This work was supported under award number <rs type="grantNumber">OSR-CRG2020-4350.2</rs>. E.H.S. acknowledges support from the <rs type="funder">Office of Naval Research (ONR)</rs> grant <rs type="grantNumber">N00014-20-1-2572</rs>). M.G.K. was supported by <rs type="funder">ONR</rs> grant <rs type="grantNumber">N00014-20-1-2725</rs>. C.A.M. was supported by the <rs type="funder">Army Research Office</rs> under grants <rs type="grantNumber">W911NF-23-1-0141</rs> and <rs type="grantNumber">W911NF-23-1-0285</rs> and by the <rs type="funder">Sherman Fairchild Foundation, Inc.</rs> This work made use of the <rs type="institution">SPID, EPIC</rs>, and <rs type="person">Keck-II</rs> facilities of <rs type="institution">Northwestern University</rs>'s <rs type="programName">NUANCE Center</rs>, which has received support from the <rs type="funder">SHyNE Resource (NSF</rs> <rs type="grantNumber">ECCS-2025633</rs>); the <rs type="funder">International Institute of Nanotechnology, Northwestern University</rs>; and <rs type="institution">Northwestern</rs>'s <rs type="programName">MRSEC program</rs> (<rs type="grantNumber">NSF DMR-1720139</rs>). Charge transport characterization was supported by the <rs type="funder">National Science Foundation (NSF) Materials Research Science and Engineering Center (MRSEC) at Northwestern University</rs> under award number <rs type="grantNumber">DMR-1720319</rs>. This work was partially supported by award <rs type="grantNumber">70NANB19H005</rs> from the <rs type="funder">US Department of Commerce, National Institute of Standards and Technology</rs>, as part of the <rs type="funder">Center for Hierarchical Materials Design (CHiMaD)</rs>. Author contributions: Conceptualization: C.L. and Y.Y. DFT calculation: J.X. Device fabrication: C.L., Y.Y., and H.C. Writingoriginal draft: C.L. and Y.Y. Writingreview &amp; editing: A.L. and H.Z. XPS and UPS characterization: A.S.R.B. GIWAXS characterization: L.G. Electrical characterization: S.S.H., V.K.S., and M.C.H. TA measurement: C.H. and L.X.C. Ink spray coating: T.C. and D.S. Supervision on ink spray coating: C.A.M. Supervision: B.C., M.G.K., and <rs type="person">E.H.S. Competing</rs> interests: The authors declare that they have no competing interests. Data and materials availability: All data are available in the main text or the supplementary materials. License information: Copyright © 2023 the authors, some rights reserved; exclusive licensee <rs type="funder">American Association for the Advancement of Science</rs>. No claim to original US government works. <ref type="url" target="https://www.science.org/about/science-licenses-journal-article-reuse">https://www. science.org/about/science-licenses-journal-article-reuse</ref> </p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_BrAnJgm">
+				<org type="funding" xml:id="_7aPt45p">
 					<idno type="grant-number">OSR-CRG2020-4350.2</idno>
 					<orgName type="grant-name">Ibn Rushd Postdoctoral Fellowship Award</orgName>
 				</org>
-				<org type="funding" xml:id="_Wbf5WJQ">
+				<org type="funding" xml:id="_jygKB4D">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 				</org>
-				<org type="funding" xml:id="_zKhqwmt">
+				<org type="funding" xml:id="_GscwjmJ">
 					<idno type="grant-number">N00014-20-1-2725</idno>
 				</org>
-				<org type="funding" xml:id="_ysueC8K">
+				<org type="funding" xml:id="_JasKzub">
 					<idno type="grant-number">W911NF-23-1-0141</idno>
 				</org>
-				<org type="funding" xml:id="_RKcTgQc">
+				<org type="funding" xml:id="_Sn42DkE">
 					<idno type="grant-number">W911NF-23-1-0285</idno>
 				</org>
-				<org type="funding" xml:id="_et62FyA">
+				<org type="funding" xml:id="_443GFk8">
 					<orgName type="program" subtype="full">NUANCE Center</orgName>
 				</org>
-				<org type="funding" xml:id="_FudXsYr">
+				<org type="funding" xml:id="_GF7unrN">
 					<idno type="grant-number">ECCS-2025633</idno>
 				</org>
-				<org type="funding" xml:id="_76Mhydf">
+				<org type="funding" xml:id="_dKCVHSQ">
 					<idno type="grant-number">NSF DMR-1720139</idno>
 					<orgName type="program" subtype="full">MRSEC program</orgName>
 				</org>
-				<org type="funding" xml:id="_rMMz2vD">
+				<org type="funding" xml:id="_6gXTcyj">
 					<idno type="grant-number">DMR-1720319</idno>
 				</org>
-				<org type="funding" xml:id="_F3mw3ws">
+				<org type="funding" xml:id="_r6AQ2h6">
 					<idno type="grant-number">70NANB19H005</idno>
 				</org>
 			</listOrg>

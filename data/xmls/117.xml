@@ -7,33 +7,33 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Ion-modulated radical doping of spiro-OMeTAD for more efficient and stable perovskite solar cells</title>
-				<funder ref="#_BcQPj4G">
-					<orgName type="full">Swiss National Science Foundation</orgName>
-				</funder>
-				<funder ref="#_tKp9kkB">
-					<orgName type="full">European Union</orgName>
-				</funder>
-				<funder ref="#_gEv5W9C">
-					<orgName type="full">American Association for the Advancement of Science</orgName>
-				</funder>
-				<funder ref="#_qcvv3e8">
+				<funder ref="#_rsu65Xj">
 					<orgName type="full">Knut and Alice Wallenberg Foundation</orgName>
 				</funder>
-				<funder ref="#_EHX2zdt">
-					<orgName type="full">Swedish Research Council Vetenskapsrådet</orgName>
+				<funder ref="#_aZTCsYT">
+					<orgName type="full">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</orgName>
 				</funder>
-				<funder ref="#_jXzvgwx">
+				<funder ref="#_eZ6Weuj">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_MNgWgcf">
+				<funder ref="#_bdk6Zbz">
 					<orgName type="full">Advanced Low Carbon Technology Research and Development Program</orgName>
 					<orgName type="abbreviated">ALCA</orgName>
 				</funder>
-				<funder ref="#_KhzAwKA">
-					<orgName type="full">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</orgName>
-				</funder>
-				<funder ref="#_du9CYZa">
+				<funder ref="#_gwubTyt">
 					<orgName type="full">UA College of Science</orgName>
+				</funder>
+				<funder ref="#_cEuXCh8">
+					<orgName type="full">Swedish Research Council Vetenskapsrådet</orgName>
+				</funder>
+				<funder ref="#_uZpSgyP">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_kMfw5rH">
+					<orgName type="full">Swiss National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_XNWvP29">
+					<orgName type="full">American Association for the Advancement of Science</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -439,7 +439,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -537,33 +537,33 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>We thank <rs type="person">C. Bao</rs> for the help with temperature-dependent conductivity measurements; <rs type="person">G. Zheng</rs> for help with the GIWAXS analysis; <rs type="person">Y. Wang</rs> for help with the stability test; <rs type="person">J. C. M. Yu</rs> for help with single-crystal characterization; and <rs type="person">O. Inganäs</rs>, <rs type="person">W. Xu</rs>, <rs type="person">X. Liu</rs>, and <rs type="person">X. Cai</rs> for valuable discussions. Funding: Supported by <rs type="funder">Swedish Research Council Vetenskapsrådet</rs> (grant <rs type="grantNumber">2018-04809</rs>), an <rs type="grantName">ERC Starting Grant</rs> (<rs type="grantNumber">717026</rs>), the <rs type="funder">Knut and Alice Wallenberg Foundation</rs> (Dnr <rs type="grantNumber">KAW 2019.0082</rs>), and the <rs type="funder">Swedish Government Strategic Research Area in Materials Science on Functional Materials at Linköping University</rs> (Faculty Grant <rs type="grantNumber">SFO-Mat-LiU 2009-00971</rs>). F.G. is a Wallenberg Academy Fellow. Work at the <rs type="institution">University of Arizona</rs> was funded by the <rs type="funder">UA College of Science</rs> and the <rs type="institution">Office of Naval Research</rs>, awards <rs type="grantNumber">N00014-20-1-2110</rs> and <rs type="grantNumber">N00014-22-1-2379</rs>. Work at the <rs type="institution">École Polytechnique Fédérale de Lausanne</rs> was funded by <rs type="funder">Swiss National Science Foundation</rs> for financial support with project <rs type="grantNumber">200020_185041</rs> and from the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation program</rs> under grant agreement <rs type="grantNumber">764047</rs>. Work at <rs type="institution">Chiba University</rs> was funded by <rs type="funder">Advanced Low Carbon Technology Research and Development Program (ALCA) of Japan Science and Technology Agency</rs> (grant <rs type="grantNumber">JPMJAL 1404</rs>). Author contributions: F.W. and F.G. conceived and supervised the project. T.Z., Z.H., F.W., and F.G. designed this project. Z.H. contributed to advising and providing chemistry solutions. T.Z., Z.H., and F.W. performed the investigations and analyzed the data. H.-B.K., I.W.C., and D.S.K. made the PSCs based on the meso-TiO 2 . C.W., X.L., and M.F. conducted XPS and UPS measurements and analysis. E.C., V.C., and J.-L.B. conducted the DFT calculations and helped to discuss the doping mechanism. R.K., L.K., and J.B. performed NMR measurements. M.C. performed SEM measurements and helped with NMR interpretations. M.Y. and S.B. contributed to the discussions. Y.P. and W.M.C. performed EPR analysis. B.Y., J.S., and A.H. performed the MPP measurements. K.T. and H.Y. conducted the LEIPS measurements. S.-C.Y. and F.F. contributed to TOF-SIMS measurements. T.Z., F.W., and F.G. wrote the manuscript. All authors discussed the results and reviewed the manuscript. Competing interests: F.G., F.W., T.Z., and Z.H. have filed a patent based on the concept developed in this manuscript. They are also co-founders of the company LinXole AB, which commercializes the materials developed in this manuscript. The other authors declare no competing interests. Data and materials availability: All data are available in the main text or supplementary materials. License information: Copyright © 2022 the authors, some rights reserved; exclusive licensee <rs type="funder">American Association for the Advancement of Science</rs>. No claim to original US government works. www.science.org/ about/science-licenses-journal-article-reuse</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_EHX2zdt">
+				<org type="funding" xml:id="_cEuXCh8">
 					<idno type="grant-number">2018-04809</idno>
 					<orgName type="grant-name">ERC Starting Grant</orgName>
 				</org>
-				<org type="funding" xml:id="_qcvv3e8">
+				<org type="funding" xml:id="_rsu65Xj">
 					<idno type="grant-number">717026</idno>
 				</org>
-				<org type="funding" xml:id="_KhzAwKA">
+				<org type="funding" xml:id="_aZTCsYT">
 					<idno type="grant-number">KAW 2019.0082</idno>
 				</org>
-				<org type="funding" xml:id="_du9CYZa">
+				<org type="funding" xml:id="_gwubTyt">
 					<idno type="grant-number">SFO-Mat-LiU 2009-00971</idno>
 				</org>
-				<org type="funding" xml:id="_jXzvgwx">
+				<org type="funding" xml:id="_eZ6Weuj">
 					<idno type="grant-number">N00014-20-1-2110</idno>
 				</org>
-				<org type="funding" xml:id="_BcQPj4G">
+				<org type="funding" xml:id="_kMfw5rH">
 					<idno type="grant-number">N00014-22-1-2379</idno>
 				</org>
-				<org type="funding" xml:id="_tKp9kkB">
+				<org type="funding" xml:id="_uZpSgyP">
 					<idno type="grant-number">200020_185041</idno>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
 				</org>
-				<org type="funding" xml:id="_MNgWgcf">
+				<org type="funding" xml:id="_bdk6Zbz">
 					<idno type="grant-number">764047</idno>
 				</org>
-				<org type="funding" xml:id="_gEv5W9C">
+				<org type="funding" xml:id="_XNWvP29">
 					<idno type="grant-number">JPMJAL 1404</idno>
 				</org>
 			</listOrg>

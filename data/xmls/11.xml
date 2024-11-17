@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">3D Perovskite Passivation with a Benzotriazole-Based 2D Interlayer for High-Efficiency Solar Cells</title>
-				<funder ref="#_vSmPyy7 #_CEypjUx #_mBZrsup #_JvY8Zf8 #_fj3xqRr #_pYr8G7z">
+				<funder ref="#_Dx7UGQn #_fp8pmzg #_ueFJ4zw #_CJUYf7a #_Djsbn5v #_bW4Jt4b #_yku78k9 #_GP6rkSM">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_63mAktf #_QZcCVBz #_6F5qpRP #_7dNkSk5 #_V8K5NaY #_4gtB8Ta">
 					<orgName type="full">Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</orgName>
 				</funder>
-				<funder ref="#_zEpeXqT #_tUdVMHh">
+				<funder ref="#_NhZYqYG #_PRpzXcV">
 					<orgName type="full">Netherlands Junke Wang -Molecular Materials and Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</orgName>
-				</funder>
-				<funder ref="#_vjUF6TE #_rV76MNj #_JZuTKKE #_JcbXfN2 #_reHwmxg #_ECM3RYM #_xU8Yan8 #_YhAYmDe">
-					<orgName type="full">unknown</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -194,7 +194,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:33+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:57+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -292,55 +292,55 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p><rs type="person">Authors Alessandro Caiazzo -Molecular Materials</rs> and <rs type="funder">Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</rs>, 5600 MB Eindhoven, The Netherlands; orcid.org/<rs type="grantNumber">0000-0001-7613-816X</rs> <rs type="projectName">Arthur Maufort -Institute for Materials Research (IMO-IMOMEC</rs>), <rs type="person">Hybrid Materials Design</rs>, <rs type="affiliation">Hasselt University, B-3500 Hasselt, Belgium</rs>; orcid.org/<rs type="grantNumber">0000-0001-9621-6014</rs> Bas T. van <rs type="person">Gorkom -Molecular Materials</rs> and <rs type="funder">Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</rs>, 5600 MB Eindhoven, The <rs type="institution">Netherlands Willemijn H. M. Remmerswaal -Molecular Materials and Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</rs>, 5600 MB Eindhoven, The <rs type="institution">Netherlands Jordi Ferrer Orri -Cavendish Laboratory, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0HE</rs>, <rs type="institution">United Kingdom</rs>; <rs type="institution">Department of Materials Science and Metallurgy, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0FS</rs>, <rs type="institution">United Kingdom; Department of Chemical Engineering and Biotechnology, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0HE</rs>, <rs type="person">United Kingdom Junyu Li -Molecular Materials</rs> and <rs type="funder">Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</rs>, 5600 MB Eindhoven, The <rs type="funder">Netherlands Junke Wang -Molecular Materials and Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</rs>, 5600 MB Eindhoven, The Netherlands Wouter T. M. van <rs type="institution">Gompel -Institute for Materials Research (IMO-IMOMEC)</rs>, <rs type="person">Hybrid Materials Design</rs>, <rs type="affiliation">Hasselt University, B-3500 Hasselt, Belgium</rs>; orcid.org/<rs type="grantNumber">0000-0002-8173-5206</rs> Kristof Van Hecke -XStruct, <rs type="affiliation">Department of Chemistry, Ghent University, B-9000 Ghent, Belgium</rs>; orcid.org/ <rs type="grantNumber">0000-0002-2455-8856</rs> <rs type="institution">Gunnar Kusch -Department of Materials Science and Metallurgy, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0FS</rs>, <rs type="institution">United Kingdom R. A. Oliver -Department of Materials Science and Metallurgy, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0FS</rs>, <rs type="person">United Kingdom</rs>; orcid.org/<rs type="grantNumber">0000-0003-0029-3993</rs> <rs type="institution">Caterina Ducati -Department of Materials Science and Metallurgy, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0FS</rs>, <rs type="person">United Kingdom</rs>; orcid.org/<rs type="grantNumber">0000-0003-3366-6442</rs> <rs type="projectName">Laurence Lutsen -Institute for Materials Research (IMO-IMOMEC</rs>), <rs type="person">Hybrid Materials Design</rs>, <rs type="affiliation">Hasselt University, B-3500 Hasselt</rs>, <rs type="person">Belgium Martijn M. Wienk -Molecular Materials</rs> and <rs type="funder">Nanosystems and Institute of Complex Molecular Systems Eindhoven University of Technology</rs>, 5600 MB Eindhoven, The <rs type="institution">Netherlands Samuel D. Stranks -Cavendish Laboratory, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0HE</rs>, <rs type="institution">United Kingdom; Department of Chemical Engineering and Biotechnology, University of Cambridge</rs>, Cambridge <rs type="grantNumber">CB3 0HE</rs>, <rs type="person">United Kingdom</rs>; orcid.org/<rs type="grantNumber">0000-0002-8303-7292</rs> <rs type="projectName">Dirk Vanderzande -Institute for Materials Research (IMO-IMOMEC</rs>), <rs type="person">Hybrid Materials Design</rs>, <rs type="affiliation">Hasselt University, B-3500 Hasselt, Belgium</rs>; orcid.org/<rs type="grantNumber">0000-0002-9110-124X</rs> Complete contact information is available at: <ref type="url" target="https://pubs.acs.org/10.1021/acsaem.3c00101">https://pubs.acs.org/10.1021/acsaem.3c00101</ref> </p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_vSmPyy7">
+				<org type="funded-project" xml:id="_63mAktf">
 					<idno type="grant-number">0000-0001-7613-816X</idno>
 					<orgName type="project" subtype="full">Arthur Maufort -Institute for Materials Research (IMO-IMOMEC</orgName>
 				</org>
-				<org type="funding" xml:id="_CEypjUx">
+				<org type="funding" xml:id="_QZcCVBz">
 					<idno type="grant-number">0000-0001-9621-6014</idno>
 				</org>
-				<org type="funding" xml:id="_mBZrsup">
+				<org type="funding" xml:id="_6F5qpRP">
 					<idno type="grant-number">CB3 0HE</idno>
 				</org>
-				<org type="funding" xml:id="_JvY8Zf8">
+				<org type="funding" xml:id="_7dNkSk5">
 					<idno type="grant-number">CB3 0FS</idno>
 				</org>
-				<org type="funding" xml:id="_fj3xqRr">
+				<org type="funding" xml:id="_V8K5NaY">
 					<idno type="grant-number">CB3 0HE</idno>
 				</org>
-				<org type="funding" xml:id="_zEpeXqT">
+				<org type="funding" xml:id="_NhZYqYG">
 					<idno type="grant-number">0000-0002-8173-5206</idno>
 				</org>
-				<org type="funding" xml:id="_tUdVMHh">
+				<org type="funding" xml:id="_PRpzXcV">
 					<idno type="grant-number">0000-0002-2455-8856</idno>
 				</org>
-				<org type="funding" xml:id="_vjUF6TE">
+				<org type="funding" xml:id="_Dx7UGQn">
 					<idno type="grant-number">CB3 0FS</idno>
 				</org>
-				<org type="funding" xml:id="_rV76MNj">
+				<org type="funding" xml:id="_fp8pmzg">
 					<idno type="grant-number">CB3 0FS</idno>
 				</org>
-				<org type="funding" xml:id="_JZuTKKE">
+				<org type="funding" xml:id="_ueFJ4zw">
 					<idno type="grant-number">0000-0003-0029-3993</idno>
 				</org>
-				<org type="funding" xml:id="_JcbXfN2">
+				<org type="funding" xml:id="_CJUYf7a">
 					<idno type="grant-number">CB3 0FS</idno>
 				</org>
-				<org type="funded-project" xml:id="_pYr8G7z">
+				<org type="funded-project" xml:id="_4gtB8Ta">
 					<idno type="grant-number">0000-0003-3366-6442</idno>
 					<orgName type="project" subtype="full">Laurence Lutsen -Institute for Materials Research (IMO-IMOMEC</orgName>
 				</org>
-				<org type="funding" xml:id="_reHwmxg">
+				<org type="funding" xml:id="_Djsbn5v">
 					<idno type="grant-number">CB3 0HE</idno>
 				</org>
-				<org type="funding" xml:id="_ECM3RYM">
+				<org type="funding" xml:id="_bW4Jt4b">
 					<idno type="grant-number">CB3 0HE</idno>
 				</org>
-				<org type="funded-project" xml:id="_xU8Yan8">
+				<org type="funded-project" xml:id="_yku78k9">
 					<idno type="grant-number">0000-0002-8303-7292</idno>
 					<orgName type="project" subtype="full">Dirk Vanderzande -Institute for Materials Research (IMO-IMOMEC</orgName>
 				</org>
-				<org type="funding" xml:id="_YhAYmDe">
+				<org type="funding" xml:id="_GP6rkSM">
 					<idno type="grant-number">0000-0002-9110-124X</idno>
 				</org>
 			</listOrg>

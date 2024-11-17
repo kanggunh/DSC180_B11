@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder>
-					<orgName type="full">Canadian Light Source</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Western Economic Diversification Canada</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Canadian Institutes of Health Research</orgName>
-				</funder>
-				<funder ref="#_SQ7SkFr">
+				<funder ref="#_eETx5jD">
 					<orgName type="full">U.S. Department of the Navy, Office of Naval Research</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">University of Saskatchewan</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">NSERC</orgName>
 				</funder>
 				<funder>
+					<orgName type="full">Canadian Light Source</orgName>
+				</funder>
+				<funder>
 					<orgName type="full">Canada Foundation for Innovation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Western Economic Diversification Canada</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Saskatchewan</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Canadian Institutes of Health Research</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -224,7 +224,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:54+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -260,7 +260,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>This work was supported in part by the <rs type="funder">U.S. Department of the Navy, Office of Naval Research</rs> (<rs type="grantName">Grant Award</rs> No. <rs type="grantNumber">N00014-17-1-2524</rs>). The authors thank the <rs type="funder">Canadian Light Source</rs> (<rs type="affiliation">CLS</rs>) for support in the form of a travel grant. GIWAXS patterns were collected at the <rs type="institution">HXMA Beamline</rs> at the <rs type="institution" subtype="infrastructure">CLS</rs> with the assistance of <rs type="person">Dr. Chang-Yong Kim</rs> and <rs type="person">Dr. Adam Leontowich</rs>. The CLS is funded by <rs type="funder">NSERC</rs>, the <rs type="funder">Canadian Institutes of Health Research</rs>, <rs type="funder">Canada Foundation for Innovation</rs>, the <rs type="institution">Government of Saskatchewan</rs>, <rs type="funder">Western Economic Diversification Canada</rs>, and the <rs type="funder">University of Saskatchewan</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_SQ7SkFr">
+				<org type="funding" xml:id="_eETx5jD">
 					<idno type="grant-number">N00014-17-1-2524</idno>
 					<orgName type="grant-name">Grant Award</orgName>
 				</org>

@@ -7,10 +7,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Working principle of carrier selective poly-Si/c-Si junctions: Is tunnelling the whole story?</title>
-				<funder ref="#_JeGx9Zq">
+				<funder ref="#_Jkrs2EZ">
 					<orgName type="full">German Ministry for Economic Affairs and Energy</orgName>
 				</funder>
-				<funder ref="#_Kkw7BmP">
+				<funder ref="#_YFYVzxj">
 					<orgName type="full">European Union</orgName>
 				</funder>
 			</titleStmt>
@@ -252,7 +252,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -289,12 +289,12 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgments</head><p>We would like to thank <rs type="person">Susanne Mau</rs>, <rs type="person">Bianca Gehring</rs> and <rs type="person">Renate Winter</rs> for their help with sample processing, and <rs type="person">Andrea Lissel</rs> for her help with the TEM sample preparation. We furthermore would like to thank <rs type="person">Nils-Peter Harder</rs> and <rs type="person">Bianca Lim</rs> for valuable discussions at his/her ISFH times. We furthermore would like to thank <rs type="person">Uwe Höhne</rs> and <rs type="person">Jan-Dirk Kähler</rs> from <rs type="institution">Centrotherm</rs> for the LPCVD (low-pressure chemical vapor deposition) poly-Si depositions.</p><p>This work is mainly performed in the framework of the <rs type="projectName">HER-CULES</rs> project. HERCULES receives funding from the <rs type="funder">European Union</rs>'s <rs type="programName">Seventh Program</rs> for research, technological development and demonstration under grant Agreement no. <rs type="grantNumber">608498</rs>. Other parts of the work are funded by the <rs type="funder">German Ministry for Economic Affairs and Energy</rs> under Grants <rs type="grantNumber">0325702</rs> (POLO) and 0325478 (SIMPLIHIGH).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_Kkw7BmP">
+				<org type="funded-project" xml:id="_YFYVzxj">
 					<idno type="grant-number">608498</idno>
 					<orgName type="project" subtype="full">HER-CULES</orgName>
 					<orgName type="program" subtype="full">Seventh Program</orgName>
 				</org>
-				<org type="funding" xml:id="_JeGx9Zq">
+				<org type="funding" xml:id="_Jkrs2EZ">
 					<idno type="grant-number">0325702</idno>
 				</org>
 			</listOrg>

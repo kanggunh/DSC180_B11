@@ -7,36 +7,36 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder>
-					<orgName type="full">HUST</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">foundation of State Key Laboratory of Article https://doi</orgName>
-				</funder>
-				<funder ref="#_dUCt2w7">
-					<orgName type="full">WNLO (HUST)</orgName>
-				</funder>
-				<funder ref="#_4n8fMEC #_vv4e7w5">
-					<orgName type="full">National Key Research and Development Program of China</orgName>
-				</funder>
-				<funder ref="#_3ZwtbQ2">
-					<orgName type="full">Science and Technology Department of Hubei Province</orgName>
-				</funder>
-				<funder ref="#_VA7NA9X">
+				<funder ref="#_BtXNhRA">
 					<orgName type="full">Foundation of State Key Laboratory of Coal Conversion</orgName>
+				</funder>
+				<funder ref="#_6DnBPrc">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Center for Nanoscale Characterization and Devices</orgName>
 					<orgName type="abbreviated">CNCD</orgName>
 				</funder>
-				<funder ref="#_6nPGEfm">
+				<funder ref="#_yjK9ctF">
 					<orgName type="full">Innovation Project of Optics Valley Laboratory</orgName>
 				</funder>
-				<funder ref="#_xk8sPNu">
-					<orgName type="full">Textile Materials and Advanced Processing Technologies</orgName>
+				<funder>
+					<orgName type="full">foundation of State Key Laboratory of Article https://doi</orgName>
 				</funder>
-				<funder ref="#_cNDYMwk">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
+				<funder ref="#_pT2bskC">
+					<orgName type="full">WNLO (HUST)</orgName>
+				</funder>
+				<funder ref="#_4hUXdcN">
+					<orgName type="full">Science and Technology Department of Hubei Province</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">HUST</orgName>
+				</funder>
+				<funder ref="#_WRmv7uM #_DAKjemT">
+					<orgName type="full">National Key Research and Development Program of China</orgName>
+				</funder>
+				<funder ref="#_Jdb3VsE">
+					<orgName type="full">Textile Materials and Advanced Processing Technologies</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -138,7 +138,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:54+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -199,29 +199,29 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was financially supported by <rs type="funder">National Key Research and Development Program of China</rs> (<rs type="grantNumber">2020YFA0715000</rs>, L.M.; <rs type="grantNumber">2022YFB4200305</rs>, X.L. and Y.R.); <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">21875081</rs>, X.L.; 22279039, X.L.; 52172200, Y.R. and 52127816, L.M.); the <rs type="programName">Chinese National 1000-Talent-Plan programme</rs> (X.L.); the <rs type="funder">Science and Technology Department of Hubei Province</rs> (<rs type="grantNumber">2021CFB315</rs>, Y.R.); the <rs type="funder">Innovation Project of Optics Valley Laboratory</rs> <rs type="grantNumber">OVL2021BG008</rs> (X.L.); the foundation of State Key Laboratory of Article <ref type="url" target="https://doi.org/10.1038/s41560-023-01205-y">https://doi.org/10.1038/s41560-023-01205-y</ref> </p><p>New <rs type="funder">Textile Materials and Advanced Processing Technologies</rs> (grant number <rs type="grantNumber">FZ2021011</rs>, X.L.), the <rs type="funder">Foundation of State Key Laboratory of Coal Conversion</rs> (grant number <rs type="grantNumber">J18-19-913</rs>, X.L.). We thank the Analytical and <rs type="person">Testing Center</rs> from <rs type="funder">HUST</rs> and the <rs type="funder">Center for Nanoscale Characterization and Devices (CNCD)</rs> from <rs type="funder">WNLO (HUST)</rs> for the facility support of sample measurements. We would like to thank <rs type="institution">Suzhou Institute of Nano-Tech and Nano-Bionics</rs> for performing TOF-SIMS. Z.W. acknowledges the <rs type="programName">Banting Postdoctoral Fellowships Program of Canada</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_4n8fMEC">
+				<org type="funding" xml:id="_WRmv7uM">
 					<idno type="grant-number">2020YFA0715000</idno>
 				</org>
-				<org type="funding" xml:id="_vv4e7w5">
+				<org type="funding" xml:id="_DAKjemT">
 					<idno type="grant-number">2022YFB4200305</idno>
 				</org>
-				<org type="funding" xml:id="_cNDYMwk">
+				<org type="funding" xml:id="_6DnBPrc">
 					<idno type="grant-number">21875081</idno>
 					<orgName type="program" subtype="full">Chinese National 1000-Talent-Plan programme</orgName>
 				</org>
-				<org type="funding" xml:id="_3ZwtbQ2">
+				<org type="funding" xml:id="_4hUXdcN">
 					<idno type="grant-number">2021CFB315</idno>
 				</org>
-				<org type="funding" xml:id="_6nPGEfm">
+				<org type="funding" xml:id="_yjK9ctF">
 					<idno type="grant-number">OVL2021BG008</idno>
 				</org>
-				<org type="funding" xml:id="_xk8sPNu">
+				<org type="funding" xml:id="_Jdb3VsE">
 					<idno type="grant-number">FZ2021011</idno>
 				</org>
-				<org type="funding" xml:id="_VA7NA9X">
+				<org type="funding" xml:id="_BtXNhRA">
 					<idno type="grant-number">J18-19-913</idno>
 				</org>
-				<org type="funding" xml:id="_dUCt2w7">
+				<org type="funding" xml:id="_pT2bskC">
 					<orgName type="program" subtype="full">Banting Postdoctoral Fellowships Program of Canada</orgName>
 				</org>
 			</listOrg>

@@ -7,35 +7,35 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_rxSkCQT">
-					<orgName type="full">US Department of the Navy, Office of Naval Research</orgName>
+				<funder ref="#_3WGj4jM">
+					<orgName type="full">US Department of Energy, Office of Basic Energy Sciences</orgName>
 				</funder>
-				<funder ref="#_dn649aT #_JVkrX7x">
-					<orgName type="full">Technology Innovation Fund of Nanjing University, Fundamental Research Funds for the Central Universities</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Program A for Outstanding PhD Candidate of Nanjing University</orgName>
+				<funder ref="#_Hnvq7PC #_NXm5u85">
+					<orgName type="full">Natural Science Foundation of Jiangsu Province</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Program for Innovative Talents and Entrepreneur in Jiangsu</orgName>
 				</funder>
-				<funder ref="#_K6Fa6W4 #_AYTN6yz">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_RfTswUx #_6GRRS2Q">
-					<orgName type="full">Natural Science Foundation of Jiangsu Province</orgName>
-				</funder>
-				<funder ref="#_yHvby6D">
-					<orgName type="full">National Key R&amp;D Program of China</orgName>
-				</funder>
-				<funder ref="#_Kc8FhHc">
-					<orgName type="full">US Department of Energy, Office of Basic Energy Sciences</orgName>
-				</funder>
-				<funder ref="#_MKRpbMS">
+				<funder ref="#_8ZfuJ3r">
 					<orgName type="full">Frontiers Science Center for Critical Earth Material Cycling Fund</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Canada Foundation for Innovation</orgName>
+				</funder>
+				<funder ref="#_STfhB3C">
+					<orgName type="full">National Key R&amp;D Program of China</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Program A for Outstanding PhD Candidate of Nanjing University</orgName>
+				</funder>
+				<funder ref="#_8RDuUUs">
+					<orgName type="full">US Department of the Navy, Office of Naval Research</orgName>
+				</funder>
+				<funder ref="#_UWXfexM #_4gJZBqa">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_tdu86dP #_FvCxn66">
+					<orgName type="full">Technology Innovation Fund of Nanjing University, Fundamental Research Funds for the Central Universities</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -548,7 +548,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:30+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:54+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -626,34 +626,34 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements This work was financially supported by the <rs type="funder">National Key R&amp;D Program of China</rs> (grant no. <rs type="grantNumber">2018YFB1500102</rs>), the <rs type="funder">National Natural Science Foundation of China</rs> (grant nos. <rs type="grantNumber">61974063</rs> and <rs type="grantNumber">61921005</rs>), the <rs type="funder">Natural Science Foundation of Jiangsu Province</rs> (grant nos. <rs type="grantNumber">BK20202008</rs> and <rs type="grantNumber">BK20190315</rs>), the <rs type="funder">Technology Innovation Fund of Nanjing University, Fundamental Research Funds for the Central Universities</rs> (grant nos. <rs type="grantNumber">0213/14380206</rs> and <rs type="grantNumber">0205/14380252</rs>), the <rs type="funder">Frontiers Science Center for Critical Earth Material Cycling Fund</rs> (grant no. <rs type="grantNumber">DLTD2109</rs>), the <rs type="funder">Program A for Outstanding PhD Candidate of Nanjing University</rs>, and the <rs type="funder">Program for Innovative Talents and Entrepreneur in Jiangsu</rs>. The work at the <rs type="institution">University of Toronto</rs> was supported by the <rs type="funder">US Department of the Navy, Office of Naval Research</rs> (grant no. <rs type="grantNumber">N00014-20-1-2572</rs>). SciNet is funded by the <rs type="funder">Canada Foundation for Innovation</rs> under the auspices of Compute Canada. K.R.G., S.M.P. and H.R.A. acknowledge the <rs type="funder">US Department of Energy, Office of Basic Energy Sciences</rs> under grant no. <rs type="grantNumber">DE-SC0018208</rs> for supporting the photoelectron spectroscopy measurements.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_yHvby6D">
+				<org type="funding" xml:id="_STfhB3C">
 					<idno type="grant-number">2018YFB1500102</idno>
 				</org>
-				<org type="funding" xml:id="_K6Fa6W4">
+				<org type="funding" xml:id="_UWXfexM">
 					<idno type="grant-number">61974063</idno>
 				</org>
-				<org type="funding" xml:id="_AYTN6yz">
+				<org type="funding" xml:id="_4gJZBqa">
 					<idno type="grant-number">61921005</idno>
 				</org>
-				<org type="funding" xml:id="_RfTswUx">
+				<org type="funding" xml:id="_Hnvq7PC">
 					<idno type="grant-number">BK20202008</idno>
 				</org>
-				<org type="funding" xml:id="_6GRRS2Q">
+				<org type="funding" xml:id="_NXm5u85">
 					<idno type="grant-number">BK20190315</idno>
 				</org>
-				<org type="funding" xml:id="_dn649aT">
+				<org type="funding" xml:id="_tdu86dP">
 					<idno type="grant-number">0213/14380206</idno>
 				</org>
-				<org type="funding" xml:id="_JVkrX7x">
+				<org type="funding" xml:id="_FvCxn66">
 					<idno type="grant-number">0205/14380252</idno>
 				</org>
-				<org type="funding" xml:id="_MKRpbMS">
+				<org type="funding" xml:id="_8ZfuJ3r">
 					<idno type="grant-number">DLTD2109</idno>
 				</org>
-				<org type="funding" xml:id="_rxSkCQT">
+				<org type="funding" xml:id="_8RDuUUs">
 					<idno type="grant-number">N00014-20-1-2572</idno>
 				</org>
-				<org type="funding" xml:id="_Kc8FhHc">
+				<org type="funding" xml:id="_3WGj4jM">
 					<idno type="grant-number">DE-SC0018208</idno>
 				</org>
 			</listOrg>

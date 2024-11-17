@@ -7,35 +7,35 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Revealing the Transient Formation Dynamics and Optoelectronic Properties of 2D Ruddlesden-Popper Phases on 3D Perovskites</title>
-				<funder ref="#_JafHdyD">
-					<orgName type="full">Office of Science, Office of Basic Energy Sciences</orgName>
+				<funder>
+					<orgName type="full">ANP (Brazil&apos;s National Oil</orgName>
 				</funder>
-				<funder ref="#_GC3TfQN">
-					<orgName type="full">U.S. Department of Energy</orgName>
+				<funder ref="#_kzQx7w8">
+					<orgName type="full">unknown</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Shell</orgName>
 				</funder>
-				<funder ref="#_aqNmS5B">
-					<orgName type="full">German Research Foundation (DFG)</orgName>
+				<funder ref="#_JpyA6bH">
+					<orgName type="full">U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering Division</orgName>
+				</funder>
+				<funder ref="#_fP2cc4H #_PEjGUZa #_arMp8GP #_EJtaSPG">
+					<orgName type="full">FAPESP</orgName>
+				</funder>
+				<funder ref="#_fAAEKQD">
+					<orgName type="full">U.S. Department of Energy</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Biofuels Agency)</orgName>
 				</funder>
-				<funder ref="#_m9SVjhA">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_YZQvwtj">
+					<orgName type="full">German Research Foundation (DFG)</orgName>
 				</funder>
-				<funder ref="#_5tv78Vh #_SqgyFXS #_D33zvDu #_PTzVd55">
-					<orgName type="full">FAPESP</orgName>
+				<funder ref="#_fA9FT8Q">
+					<orgName type="full">Office of Science, Office of Basic Energy Sciences</orgName>
 				</funder>
-				<funder ref="#_Gx7DWQs">
-					<orgName type="full">U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering Division</orgName>
-				</funder>
-				<funder ref="#_r5mzzcx">
+				<funder ref="#_gy57Sg2">
 					<orgName type="full">São Paulo Research Foundation (FAPESP)</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">ANP (Brazil&apos;s National Oil</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -119,7 +119,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -166,11 +166,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure S4 .</head><label>S4</label><figDesc>Figure S4. Powder XRD of the PEAI and TMAI RP-phases obtained in the solution-process synthesis. The yellow diffractograms are the experimental data. Even though the color of the materials is red after the synthesis, the majority of the powder is composed by the n = 1 phase in both cases. For PEAI, the ratio n = 1/n = 2 is high, and only minimal amounts of n = 2 phases are present. In the case of TMAI, we see diffraction of the n ≥ 2 phases, and the ratio n = 1/n ≥ 2 is lower than in the case of PEAI. Note that, even in the powder, avoiding preferential orientation of these materials is difficult because of its 2D morphology; therefore, the Bragg reflections in the direction [00l] are very intense in comparison to the other diffractions.</figDesc><graphic coords="18,70.85,411.29,453.60,182.65" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure</head><label></label><figDesc>Figure S5. a) Steady-state PL measurements of the (PEA) 2 PbI 4 and (TMA) 2 PbI 4 materialssynthesized via adapted solution process method.[1]  The inset photos show the materials in their reaction solution under UV light. The integrated PL intensity (I A ) of (PEA) 2 PbI 4 (1.5x105  ) is nearly one order of magnitude higher than I A for (TMA) 2 PbI 4 (1.7x10 4 ) when both are excited with the same power density set to 10 % of the maximum of the LED used (365 nm). Even increasing the LED power to 20%, the (TMA) 2 PbI 4 integrated intensity is much lower than the integrated intensity of (PEA) 2 PbI 4 at 10% power. b) Images of the samples and the measurement setup showing how the PL spectra were measured. The amount of material in both samples was 0.016 mmol (~15 mg each). The dual-band profile of the emission in these pure n = 1 RP-phases is due to strong exciton-phonon coupling in these materials. This emission profile has been thoroughly discussed in recent works.[2][3][4] </figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure S6 .</head><label>S6</label><figDesc>Figure S6. a) Contour plots of in situ PL measured during spin coating and subsequent annealing of samples treated with varied TMAI-concentration (80 mM to 1 mM in IPA). b) Contour plots of in situ PL measured during spin coating and subsequent annealing of samples treated with varied PEAI-concentration (80 mM to 1 mM in IPA).</figDesc><graphic coords="19,70.85,70.85,453.60,541.95" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure S7 .</head><label>S7</label><figDesc>Figure S7. Examples of the Gaussian fit to the PL curves of the PEAI-80 sample. Spectra are taken from the respective timepoints during spin-coating.</figDesc><graphic coords="20,70.85,334.85,453.60,316.30" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure</head><label></label><figDesc>Figure S8. a) Evolution of the FWHM of the PL-peak corresponding to the 3D-pvsk, and b) evolution of the FWHM of the PL-peak corresponding to the n = 1 RP-phase during spincoating and annealing of TMAI-treated 3D-pvsk films. c) and d) show the corresponding plots for PEAI-treated films. Note that not all samples show peaks related to the RP-phases (at all times) and they are consequently missing in some of these panels.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure S7 .</head><label>S7</label><figDesc>Figure S7. Examples of the Gaussian fit to the PL curves of the PEAI-80 sample. Spectra are taken from the respective timepoints during spin-coating.</figDesc><graphic coords="20,102.63,70.85,390.05,220.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure</head><label></label><figDesc>Figure S8. a) Evolution of the FWHM of the PL-peak corresponding to the 3D-pvsk, and b) evolution of the FWHM of the PL-peak corresponding to the n = 1 RP-phase during spincoating and annealing of TMAI-treated 3D-pvsk films. c) and d) show the corresponding plots for PEAI-treated films. Note that not all samples show peaks related to the RP-phases (at all times) and they are consequently missing in some of these panels.</figDesc><graphic coords="20,70.85,334.85,453.60,316.30" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure S9 .</head><label>S9</label><figDesc>Figure S9.Influence of the laser illumination on the PL spectra taken during the annealing. Since the substrate is spinning under the laser during spin-coating, strongly reducing the illumination time for each spot on the illuminated circle, it is safe to assume that the effect of the laser on the PL-spectra is bigger during the annealing. Panel a) shows the evolution of the PL spectra of the TMAI-80 sample during spin coating (left) and measured on a second spot, which has not been illuminated, during the annealing of the same sample right after the annealing (right). Panel b) shows the same for the PEAI-80 sample. In both cases, the steady illumination with the laser does not lead to the appearance or disappearance of any PL peaks but induces a slight degradation of the sample surface. In the case of TMAI, where the salt has been completely converted to RP-phases during spin-coating, the laser accelerates the degradation of the RP-phases and the corresponding re-emerging of the 3D-pvsk-peak. In the case of PEAI, where the salt is not completely converted during the spin-coating, the laser reduces the intensity-increase of the RP-phases during annealing -presumably because part of the RP-phases is degrading under the constant illumination, while there is still salt being converted. It should be kept in mind, though, that lateral inhomogeneities might also influence the intensity of the PL peaks. In summary, we think it is reasonable to neglect the effect of the laser on the phenomena described in the main article.</figDesc><graphic coords="21,97.30,70.85,400.70,343.70" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure S10 .</head><label>S10</label><figDesc>Figure S10. X-ray diffraction patterns of samples treated with TMAI (a) and PEAI (b) taken after dynamic deposition of the respective molecule but before annealing. In the case of TMAI, there is no trace of unreacted salt present, even at the highest concentration, while in case of PEAI, there are traces of unreacted salt present for concentrations &gt; 4 mM. The latter is in good agreement with the evolution of the PL-intensity of the n = 1 peak in Figure 2d.</figDesc><graphic coords="22,70.85,70.85,453.60,189.75" type="bitmap" /></figure>
-<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure S11 .</head><label>S11</label><figDesc>Figure S11. (a) Scanning electron microscopy images and (b) Atomic force microscopy of the pristine perovskite film with PEAI and TMAI dripping. The root means square roughness (S q ) varies from 60 nm, for the control; 48 and 39 nm, for PEAI-10 and -80, respectively; 60 and 61 nm, for TMAI-10 and -80, respectively.</figDesc><graphic coords="22,70.85,352.14,453.60,291.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure S10 .</head><label>S10</label><figDesc>Figure S10. X-ray diffraction patterns of samples treated with TMAI (a) and PEAI (b) taken after dynamic deposition of the respective molecule but before annealing. In the case of TMAI, there is no trace of unreacted salt present, even at the highest concentration, while in case of PEAI, there are traces of unreacted salt present for concentrations &gt; 4 mM. The latter is in good agreement with the evolution of the PL-intensity of the n = 1 peak in Figure 2d.</figDesc><graphic coords="22,70.85,352.14,453.60,291.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure S11 .</head><label>S11</label><figDesc>Figure S11. (a) Scanning electron microscopy images and (b) Atomic force microscopy of the pristine perovskite film with PEAI and TMAI dripping. The root means square roughness (S q ) varies from 60 nm, for the control; 48 and 39 nm, for PEAI-10 and -80, respectively; 60 and 61 nm, for TMAI-10 and -80, respectively.</figDesc></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head>Figure S12 .</head><label>S12</label><figDesc>Figure S12. Boxplots of the PV parameters of the solar cell devices treated with varying concentrations of PEAI or TMAI respectively.</figDesc><graphic coords="23,70.85,70.85,453.60,547.25" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure S13 .</head><label>S13</label><figDesc>Figure S13. Selected images of the solution-process reaction between PbI 2 and the amines, phenylethylamine, and 2-thiophenemethylamine. After 2.40 minutes, the TMAI reaction is a clear yellow solution, while the PEAI reaction is completed and the (PEA) 2 PbI 4 (n = 1) RPphase is formed. The evidence for the reaction completion is the flask under UV light (inset) with the characteristic green emission of this material. This visual experiment shows the equilibrium between all the precursors solubilized and the crystal formation. For PEAI, the equilibrium is highly shifted to crystallization, instead of all dissolved. For TMAI, the equilibrium is slightly shifted for all the precursors dissolved rather than crystallization. This shows that the (PEA) 2 PbI 4 has more negative formation energy compared to (TMA) 2 PbI 4 . For the entire video, see Supporting Video 1.</figDesc><graphic coords="24,70.85,515.84,453.60,149.65" type="bitmap" /></figure>
 <figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head>Figure S14 .</head><label>S14</label><figDesc>Figure S14. Selected images of the solution-process reaction between (PEA) 2 PbI 4 and (TMA) 2 PbI 4 with formamidinium acetate [(FA)OAc]. This experiment shows how readily the (TMA) 2 PbI 4 reacts with FA + cations to form n &gt; 1 RP-phases, characterized by the dark red colors. On the contrary, (PEA) 2 PbI 4 requires heat and time for the reaction to occur. The final product of these reactions is a mixture of RP-phases with different values of n, as we can verify from the XRD of the powders in Figure S4. In the case of PEA, the main product is the</figDesc></figure>
@@ -185,34 +185,34 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements T.K. and R.F.M. contributed equally to this work. T.K. thanks the <rs type="funder">German Research Foundation (DFG)</rs> for funding (Fellowship No. <rs type="grantNumber">KO6414</rs>). R.F.M. acknowledges the support from the <rs type="funder">São Paulo Research Foundation (FAPESP)</rs> (Process No. <rs type="grantNumber">2019/25765-6</rs>). R.S. thanks to <rs type="funder">FAPESP</rs> (Grant Nos. <rs type="grantNumber">2017/12582-5</rs> and <rs type="grantNumber">2021/01357-6</rs>). L.S. thanks <rs type="funder">FAPESP</rs> (Grant No. <rs type="grantNumber">2020/04401-5</rs>). R.F.M., R.S., L.S., P.E.M., and A.F.N. gratefully acknowledge the support from the <rs type="funder">FAPESP</rs> (Grant No. <rs type="grantNumber">2017/11986-5</rs>) and <rs type="funder">Shell</rs> and the strategic importance of the support given by <rs type="funder">ANP (Brazil's National Oil</rs>, <rs type="person">Natural Gas</rs>, and <rs type="funder">Biofuels Agency)</rs> through the R&amp;D levy regulation. M.A. acknowledges support by the <rs type="funder">U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering Division</rs> under Contract No. <rs type="grantNumber">DE-AC02-05-CH11231</rs> (<rs type="grantNumber">D2S2</rs> program <rs type="grantNumber">KCD2S2</rs>). Work at the Molecular Foundry was supported by the <rs type="funder">Office of Science, Office of Basic Energy Sciences</rs>, of the <rs type="funder">U.S. Department of Energy</rs> under Contract No. <rs type="grantNumber">DE-AC02-05CH11231</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_aqNmS5B">
+				<org type="funding" xml:id="_YZQvwtj">
 					<idno type="grant-number">KO6414</idno>
 				</org>
-				<org type="funding" xml:id="_r5mzzcx">
+				<org type="funding" xml:id="_gy57Sg2">
 					<idno type="grant-number">2019/25765-6</idno>
 				</org>
-				<org type="funding" xml:id="_5tv78Vh">
+				<org type="funding" xml:id="_fP2cc4H">
 					<idno type="grant-number">2017/12582-5</idno>
 				</org>
-				<org type="funding" xml:id="_SqgyFXS">
+				<org type="funding" xml:id="_PEjGUZa">
 					<idno type="grant-number">2021/01357-6</idno>
 				</org>
-				<org type="funding" xml:id="_D33zvDu">
+				<org type="funding" xml:id="_arMp8GP">
 					<idno type="grant-number">2020/04401-5</idno>
 				</org>
-				<org type="funding" xml:id="_PTzVd55">
+				<org type="funding" xml:id="_EJtaSPG">
 					<idno type="grant-number">2017/11986-5</idno>
 				</org>
-				<org type="funding" xml:id="_Gx7DWQs">
+				<org type="funding" xml:id="_JpyA6bH">
 					<idno type="grant-number">DE-AC02-05-CH11231</idno>
 				</org>
-				<org type="funding" xml:id="_m9SVjhA">
+				<org type="funding" xml:id="_kzQx7w8">
 					<idno type="grant-number">D2S2</idno>
 				</org>
-				<org type="funding" xml:id="_JafHdyD">
+				<org type="funding" xml:id="_fA9FT8Q">
 					<idno type="grant-number">KCD2S2</idno>
 				</org>
-				<org type="funding" xml:id="_GC3TfQN">
+				<org type="funding" xml:id="_fAAEKQD">
 					<idno type="grant-number">DE-AC02-05CH11231</idno>
 				</org>
 			</listOrg>

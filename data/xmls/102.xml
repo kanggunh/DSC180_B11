@@ -11,7 +11,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 					<orgName type="full">National Research Foundation of Korea</orgName>
 					<orgName type="abbreviated">NRF</orgName>
 				</funder>
-				<funder ref="#_rNbTm4t #_WD3ZmbK #_HJg9d8c #_FAGfzQZ">
+				<funder ref="#_kHjFXRZ #_YUpckjg #_Cz3WPvQ #_hxQm47n">
 					<orgName type="full">Ministry of Science, ICT Future Planning</orgName>
 					<orgName type="abbreviated">MSIP</orgName>
 				</funder>
@@ -478,7 +478,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -536,18 +536,18 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 
 			<listOrg type="funding">
-				<org type="funding" xml:id="_rNbTm4t">
+				<org type="funding" xml:id="_kHjFXRZ">
 					<idno type="grant-number">NRF-2012M3A6A7054861</idno>
 					<orgName type="program" subtype="full">Global Frontier R&amp;D Program on Center for Multiscale Energy System)</orgName>
 				</org>
-				<org type="funding" xml:id="_WD3ZmbK">
+				<org type="funding" xml:id="_YUpckjg">
 					<idno type="grant-number">NRF-2016M3D1A1027663</idno>
 				</org>
-				<org type="funding" xml:id="_HJg9d8c">
+				<org type="funding" xml:id="_Cz3WPvQ">
 					<idno type="grant-number">NRF-2016M3D1A1027664</idno>
 					<orgName type="program" subtype="full">Future Materials Discovery Program</orgName>
 				</org>
-				<org type="funding" xml:id="_FAGfzQZ">
+				<org type="funding" xml:id="_hxQm47n">
 					<idno type="grant-number">NRF-2015M1A2A2053004</idno>
 					<orgName type="program" subtype="full">Climate Change Management Program</orgName>
 				</org>

@@ -7,26 +7,26 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_FdanRCk #_Fy2cB8r">
-					<orgName type="full">APRC Grants of the City University of Hong Kong</orgName>
-				</funder>
-				<funder ref="#_8c9jYYg #_CeybM7k">
+				<funder ref="#_t32ejek #_SBrh49y">
 					<orgName type="full">Innovation and Technology Bureau supported programs</orgName>
 				</funder>
-				<funder ref="#_nshQcsU">
-					<orgName type="full">Teaching Start-Up Grant of the City University of Hong Kong</orgName>
+				<funder ref="#_eN5SEBN #_H8rEzPt">
+					<orgName type="full">APRC Grants of the City University of Hong Kong</orgName>
 				</funder>
-				<funder ref="#_WvT538r">
-					<orgName type="full">Air Force Office of Scientific Research</orgName>
-				</funder>
-				<funder ref="#_hPzNJqZ">
-					<orgName type="full">Natural Science Foundation of Guangdong Province</orgName>
-				</funder>
-				<funder ref="#_mY4RyKj #_qYJbzP4">
+				<funder ref="#_MF2NHyF #_h8majS9">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_vnKyCWH">
+				<funder ref="#_45G4nsd">
+					<orgName type="full">Air Force Office of Scientific Research</orgName>
+				</funder>
+				<funder ref="#_dxg4BbK">
 					<orgName type="full">Research Grants Council of Hong Kong</orgName>
+				</funder>
+				<funder ref="#_ha64D9N">
+					<orgName type="full">Natural Science Foundation of Guangdong Province</orgName>
+				</funder>
+				<funder ref="#_KfhSpTw">
+					<orgName type="full">Teaching Start-Up Grant of the City University of Hong Kong</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -264,7 +264,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:32+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:56+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -334,38 +334,38 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>■ ACKNOWLEDGMENTS</head><p>This work was supported by <rs type="funder">APRC Grants of the City University of Hong Kong</rs> (<rs type="grantNumber">9380086</rs> and <rs type="grantNumber">9610421</rs>), <rs type="funder">Innovation and Technology Bureau supported programs</rs> (<rs type="grantNumber">ITS/497/18FP</rs> and <rs type="grantNumber">GHP/021/18SZ</rs>), the <rs type="projectName">Guangdong-Hong Kong-Macao joint laboratory of optoelectronic and magnetic 6bal materials</rs> (no. <rs type="grantNumber">2019B121205002</rs>), an <rs type="grantName">ECS grant</rs> (<rs type="grantNumber">CityU 21301319</rs>), a <rs type="grantName">Collaborative Research Fund grant</rs> (<rs type="grantNumber">C5037-18G</rs>) from the <rs type="funder">Research Grants Council of Hong Kong</rs>, the <rs type="funder">Natural Science Foundation of Guangdong Province</rs> (<rs type="grantNumber">2019A1515010761</rs>), the <rs type="projectName">Guangdong Major Project of Basic and Applied Basic Research</rs> (no. <rs type="grantNumber">2019B030302007</rs>), the <rs type="funder">Air Force Office of Scientific Research</rs> (<rs type="grantNumber">FA9550-18-1-0046</rs>), and a <rs type="funder">Teaching Start-Up Grant of the City University of Hong Kong</rs> (6000672). Z.Z. and A.J. are grateful for the technical support provided by <rs type="person">Mr. Shekman Yiu</rs> for single-crystal analysis.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_FdanRCk">
+				<org type="funding" xml:id="_eN5SEBN">
 					<idno type="grant-number">9380086</idno>
 				</org>
-				<org type="funding" xml:id="_Fy2cB8r">
+				<org type="funding" xml:id="_H8rEzPt">
 					<idno type="grant-number">9610421</idno>
 				</org>
-				<org type="funding" xml:id="_8c9jYYg">
+				<org type="funding" xml:id="_t32ejek">
 					<idno type="grant-number">ITS/497/18FP</idno>
 				</org>
-				<org type="funded-project" xml:id="_CeybM7k">
+				<org type="funded-project" xml:id="_SBrh49y">
 					<idno type="grant-number">GHP/021/18SZ</idno>
 					<orgName type="project" subtype="full">Guangdong-Hong Kong-Macao joint laboratory of optoelectronic and magnetic 6bal materials</orgName>
 				</org>
-				<org type="funding" xml:id="_mY4RyKj">
+				<org type="funding" xml:id="_MF2NHyF">
 					<idno type="grant-number">2019B121205002</idno>
 					<orgName type="grant-name">ECS grant</orgName>
 				</org>
-				<org type="funding" xml:id="_qYJbzP4">
+				<org type="funding" xml:id="_h8majS9">
 					<idno type="grant-number">CityU 21301319</idno>
 					<orgName type="grant-name">Collaborative Research Fund grant</orgName>
 				</org>
-				<org type="funding" xml:id="_vnKyCWH">
+				<org type="funding" xml:id="_dxg4BbK">
 					<idno type="grant-number">C5037-18G</idno>
 				</org>
-				<org type="funded-project" xml:id="_hPzNJqZ">
+				<org type="funded-project" xml:id="_ha64D9N">
 					<idno type="grant-number">2019A1515010761</idno>
 					<orgName type="project" subtype="full">Guangdong Major Project of Basic and Applied Basic Research</orgName>
 				</org>
-				<org type="funding" xml:id="_WvT538r">
+				<org type="funding" xml:id="_45G4nsd">
 					<idno type="grant-number">2019B030302007</idno>
 				</org>
-				<org type="funding" xml:id="_nshQcsU">
+				<org type="funding" xml:id="_KfhSpTw">
 					<idno type="grant-number">FA9550-18-1-0046</idno>
 				</org>
 			</listOrg>

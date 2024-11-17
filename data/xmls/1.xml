@@ -7,16 +7,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Surface passivation of perovskite film for efficient solar cells</title>
-				<funder ref="#_4sgcJJ7 #_npn8mQc">
+				<funder ref="#_eTJqnu4 #_xZMYqPF">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">National 1000 Young Talents</orgName>
 				</funder>
-				<funder ref="#_ZGuW6cf">
+				<funder ref="#_bVAwzee">
 					<orgName type="full">National Key Research and Development Program of China</orgName>
 				</funder>
-				<funder ref="#_RhFwFZJ #_nzBYg7g">
+				<funder ref="#_98bZGwJ #_RySUgXt">
 					<orgName type="full">Beijing Municipal Science &amp; Technology Commission</orgName>
 				</funder>
 			</titleStmt>
@@ -402,14 +402,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 							<date type="published" when="2017-11">November 2017</date>
 						</imprint>
 					</monogr>
-					<idno type="MD5">D430FEBF207408E85DC95825857A3406</idno>
+					<idno type="MD5">522E6FA98452ABD7B21BD41042E99520</idno>
 					<idno type="DOI">10.1038/s41566-019-0398-2</idno>
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -479,19 +479,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work is supported by the <rs type="funder">National Natural Science Foundation of China</rs> (grant numbers <rs type="grantNumber">61634001</rs> and <rs type="grantNumber">61574133</rs>), the <rs type="funder">National Key Research and Development Program of China</rs> (grant number <rs type="grantNumber">2016YFB0700700</rs>), the <rs type="funder">Beijing Municipal Science &amp; Technology Commission</rs> (grant numbers <rs type="grantNumber">Z181100004718005</rs> and <rs type="grantNumber">Z181100005118002</rs>) and also by the <rs type="funder">National 1000 Young Talents</rs> awards. We thank <rs type="person">Y. S. Liu</rs> from <rs type="affiliation">Nankai University</rs> for helping with the transit photovoltage and photocurrent characterizations, and <rs type="person">C. Y. Zhou</rs> from <rs type="affiliation">Enlitech</rs> for helping with the photoluminescence mapping measurement.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_4sgcJJ7">
+				<org type="funding" xml:id="_eTJqnu4">
 					<idno type="grant-number">61634001</idno>
 				</org>
-				<org type="funding" xml:id="_npn8mQc">
+				<org type="funding" xml:id="_xZMYqPF">
 					<idno type="grant-number">61574133</idno>
 				</org>
-				<org type="funding" xml:id="_ZGuW6cf">
+				<org type="funding" xml:id="_bVAwzee">
 					<idno type="grant-number">2016YFB0700700</idno>
 				</org>
-				<org type="funding" xml:id="_RhFwFZJ">
+				<org type="funding" xml:id="_98bZGwJ">
 					<idno type="grant-number">Z181100004718005</idno>
 				</org>
-				<org type="funding" xml:id="_nzBYg7g">
+				<org type="funding" xml:id="_RySUgXt">
 					<idno type="grant-number">Z181100005118002</idno>
 				</org>
 			</listOrg>

@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_8Gw5gVU #_dfEU5Rm">
-					<orgName type="full">Beijing Natural Science Foundation</orgName>
-				</funder>
-				<funder ref="#_BrYEQ6t #_4r6rHWD #_vSkcUDd">
+				<funder ref="#_SJmRRyq #_HtaAPTa #_mWuKP2D">
 					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
 				</funder>
-				<funder ref="#_k6CGc6v #_mBhbRet">
+				<funder ref="#_xnuhhHJ #_ngje8GX #_V57ZvEq #_szdxHU5">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_pwWqttd #_zzjSP9c">
 					<orgName type="full">Huaneng Group Headquarters Science and Technology Project</orgName>
 				</funder>
-				<funder ref="#_nBN3rUn #_PAPNGSz #_Fv6e3Wn #_9eCgEmy">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
+				<funder ref="#_jkYTSxX #_C2DPG4k">
+					<orgName type="full">Beijing Natural Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -40,7 +40,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -113,38 +113,38 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work is supported partially by <rs type="funder">National Natural Science Foundation of China</rs> (grant numbers <rs type="grantNumber">52232008</rs>, <rs type="grantNumber">51972110</rs>, <rs type="grantNumber">52102245</rs> and <rs type="grantNumber">52072121</rs>), <rs type="funder">Beijing Natural Science Foundation</rs> (<rs type="grantNumber">2222076</rs>, <rs type="grantNumber">2222077</rs>), project of State Key Laboratory of Alternate Electrical Article <ref type="url" target="https://doi.org/10.1038/s41560-023-01358-w">https://doi.org/10.1038/s41560-023-01358-w</ref> </p><p>Power System with Renewable Energy Sources (<rs type="grantNumber">LAPS202114</rs>), <rs type="funder">Huaneng Group Headquarters Science and Technology Project</rs> (<rs type="grantNumber">HNKJ20-H88</rs>), the <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (<rs type="grantNumber">2020MS023</rs>, <rs type="grantNumber">2020MS028</rs>, <rs type="grantNumber">2023MS042</rs>) and the <rs type="institution">NCEPU 'Double First-Class</rs>' and sponsored by <rs type="programName">Beijing Nova Program</rs>. We thank <rs type="person">H. Meng</rs> (<rs type="affiliation">National Institute of Metrology, China</rs>) for assistance with characterizing the performance of the device, <rs type="person">C. Guo</rs> (<rs type="affiliation">Tsinghua University</rs>) and <rs type="person">M. Chen</rs> (<rs type="affiliation">Peking University</rs>) for helping with the spectroscopy measurements. We also thank <rs type="person">M. Wang</rs>, <rs type="person">X. Ding</rs> and <rs type="person">J. Chen</rs> (<rs type="affiliation">North China Electric Power University</rs>) for assisting with DFT calculation and discussion.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_nBN3rUn">
+				<org type="funding" xml:id="_xnuhhHJ">
 					<idno type="grant-number">52232008</idno>
 				</org>
-				<org type="funding" xml:id="_PAPNGSz">
+				<org type="funding" xml:id="_ngje8GX">
 					<idno type="grant-number">51972110</idno>
 				</org>
-				<org type="funding" xml:id="_Fv6e3Wn">
+				<org type="funding" xml:id="_V57ZvEq">
 					<idno type="grant-number">52102245</idno>
 				</org>
-				<org type="funding" xml:id="_9eCgEmy">
+				<org type="funding" xml:id="_szdxHU5">
 					<idno type="grant-number">52072121</idno>
 				</org>
-				<org type="funding" xml:id="_8Gw5gVU">
+				<org type="funding" xml:id="_jkYTSxX">
 					<idno type="grant-number">2222076</idno>
 				</org>
-				<org type="funded-project" xml:id="_dfEU5Rm">
+				<org type="funded-project" xml:id="_C2DPG4k">
 					<idno type="grant-number">2222077</idno>
 					<orgName type="project" subtype="full">of State Key Laboratory of Alternate Electrical Article https://doi</orgName>
 				</org>
-				<org type="funding" xml:id="_k6CGc6v">
+				<org type="funding" xml:id="_pwWqttd">
 					<idno type="grant-number">LAPS202114</idno>
 				</org>
-				<org type="funding" xml:id="_mBhbRet">
+				<org type="funding" xml:id="_zzjSP9c">
 					<idno type="grant-number">HNKJ20-H88</idno>
 				</org>
-				<org type="funding" xml:id="_BrYEQ6t">
+				<org type="funding" xml:id="_SJmRRyq">
 					<idno type="grant-number">2020MS023</idno>
 				</org>
-				<org type="funding" xml:id="_4r6rHWD">
+				<org type="funding" xml:id="_HtaAPTa">
 					<idno type="grant-number">2020MS028</idno>
 				</org>
-				<org type="funding" xml:id="_vSkcUDd">
+				<org type="funding" xml:id="_mWuKP2D">
 					<idno type="grant-number">2023MS042</idno>
 					<orgName type="program" subtype="full">Beijing Nova Program</orgName>
 				</org>

@@ -7,13 +7,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Initializing film homogeneity to retard phase segregation for stable perovskite solar cells</title>
-				<funder ref="#_z5kvBDb">
-					<orgName type="full">National Natural Science Foundation of China</orgName>
-				</funder>
-				<funder ref="#_BDkUGPk #_AXnGdAh #_uhqp4NG #_8VCBKCy #_Jp2hPS3 #_tnrVApf">
+				<funder ref="#_xMFeaQv #_wY4ZzfV #_MhuWPXX #_HWtBsrF #_aV83zSg #_Sufz8fr">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_h6d5kfp">
+				<funder ref="#_npsuE33">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_S6T6QaJ">
 					<orgName type="full">Beijing Municipal Natural Science Foundation</orgName>
 				</funder>
 			</titleStmt>
@@ -501,7 +501,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:36+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:00+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -578,28 +578,28 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>We thank <rs type="person">Y. Zhang</rs>, <rs type="person">N. Li</rs>, <rs type="person">K. Li</rs>, <rs type="person">Y. Wu</rs>, and <rs type="person">H. Liu</rs> (<rs type="affiliation">Peking University</rs>) and <rs type="person">N. Yang</rs>, <rs type="person">S. Ma</rs>, <rs type="person">G. Yuan</rs>, and <rs type="person">Y. Ma</rs> (<rs type="affiliation">Beijing Institute of Technology</rs>) for assistance with device fabrication; <rs type="person">R. Si</rs> (<rs type="affiliation">Sun Yat-sen University</rs>) and <rs type="person">J. Liao</rs> (<rs type="affiliation">Institute of High Energy Physics</rs>) for the assistance in EXAFs analysis; <rs type="person">Z. Liu</rs> (<rs type="affiliation">Northwestern Polytechnical University</rs>) for the discussion on Schelling model; and <rs type="person">Y. Wu</rs> (<rs type="affiliation">Auner Technology Co.</rs>) for assistance with device measurements. Funding: This work was supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">U21A20172</rs>, <rs type="grantNumber">21975028</rs>, <rs type="grantNumber">52172182</rs>, <rs type="grantNumber">22011540377</rs>, <rs type="grantNumber">62125404</rs>, <rs type="grantNumber">U1932201</rs>, and <rs type="grantNumber">11705225</rs>) and <rs type="funder">Beijing Municipal Natural Science Foundation</rs> (<rs type="grantNumber">JQ19008</rs>). Author contribution: Y.B. and Q.C. conceived the idea. X.Z., J.L., and Y.B. prepared the samples and carried out XPS, NMR, and optical spectroscopy characterizations. Y.B. and T.S. carried out the TOF-SIMS characterization. J.L. and H.C. carried out the DLS measurements. Y.B., <rs type="person">Z.He</rs>, Q.C., and W.W. worked on the modification of the Schelling Model code. <rs type="person">Yujing Li</rs>, P.A., J.Z., and <rs type="person">J. Dong</rs> carried out the EXAFS measurement and data analysis. J.L., X.W., C.W., Z.C., <rs type="person">J. Dou</rs>, N.X., and Y.C. carried out the other materials characterizations. M.X., Q.S., and Z.W. carried out the DFT computation. Y.B., <rs type="person">Yiming Li</rs>, and J.S. carried out the characterization of TPC and TPV measurement and data analysis. Y.B., Z.Huang, X.Z., J.L., X.N., C.Z., H.Za., F.P., and Y.S. supported the fabrication and characterization of perovskite solar cells. H.J. and P.C. assisted in the manuscript writing. Y.B., Z.Hu., X.Z., J.L.,</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_z5kvBDb">
+				<org type="funding" xml:id="_npsuE33">
 					<idno type="grant-number">U21A20172</idno>
 				</org>
-				<org type="funding" xml:id="_BDkUGPk">
+				<org type="funding" xml:id="_xMFeaQv">
 					<idno type="grant-number">21975028</idno>
 				</org>
-				<org type="funding" xml:id="_AXnGdAh">
+				<org type="funding" xml:id="_wY4ZzfV">
 					<idno type="grant-number">52172182</idno>
 				</org>
-				<org type="funding" xml:id="_uhqp4NG">
+				<org type="funding" xml:id="_MhuWPXX">
 					<idno type="grant-number">22011540377</idno>
 				</org>
-				<org type="funding" xml:id="_8VCBKCy">
+				<org type="funding" xml:id="_HWtBsrF">
 					<idno type="grant-number">62125404</idno>
 				</org>
-				<org type="funding" xml:id="_Jp2hPS3">
+				<org type="funding" xml:id="_aV83zSg">
 					<idno type="grant-number">U1932201</idno>
 				</org>
-				<org type="funding" xml:id="_h6d5kfp">
+				<org type="funding" xml:id="_S6T6QaJ">
 					<idno type="grant-number">11705225</idno>
 				</org>
-				<org type="funding" xml:id="_tnrVApf">
+				<org type="funding" xml:id="_Sufz8fr">
 					<idno type="grant-number">JQ19008</idno>
 				</org>
 			</listOrg>

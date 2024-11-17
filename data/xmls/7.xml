@@ -7,16 +7,9 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">The 2D Halide Perovskite Rulebook: How the Spacer Influences Everything from the Structure to Optoelectronic Device Efficiency</title>
-				<funder ref="#_faS8RSp">
-					<orgName type="full">Ryan Fellowship</orgName>
-				</funder>
 				<funder>
 					<orgName type="full">National Defense Science and Engineering Graduate</orgName>
 					<orgName type="abbreviated">NDSEG</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Army Research Office</orgName>
-					<orgName type="abbreviated">ARO</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Air Force Research Laboratory</orgName>
@@ -24,6 +17,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 				<funder>
 					<orgName type="full">Office of Naval Research</orgName>
 					<orgName type="abbreviated">ONR</orgName>
+				</funder>
+				<funder ref="#_82krX7t">
+					<orgName type="full">Ryan Fellowship</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Army Research Office</orgName>
+					<orgName type="abbreviated">ARO</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -84,7 +84,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -185,7 +185,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGMENTS</head><p>The authors thank the <rs type="institution">Office of Naval Research</rs> for the grant (<rs type="grantNumber">N00014-20-1-2725</rs>). X.L. acknowledges the financial support from the <rs type="funder">Ryan Fellowship</rs>. J.M.H. was supported in part by a fellowship award through the <rs type="funder">National Defense Science and Engineering Graduate (NDSEG)</rs> Fellowship Program, sponsored by the <rs type="funder">Air Force Research Laboratory</rs> (AFRL), the <rs type="funder">Office of Naval Research (ONR)</rs>, and the <rs type="funder">Army Research Office (ARO)</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_faS8RSp">
+				<org type="funding" xml:id="_82krX7t">
 					<idno type="grant-number">N00014-20-1-2725</idno>
 				</org>
 			</listOrg>

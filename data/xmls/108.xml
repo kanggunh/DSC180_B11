@@ -8,27 +8,27 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 			<titleStmt>
 				<title level="a" type="main">Impact of strain relaxation on performance of -formamidinium lead iodide perovskite solar cells</title>
 				<funder>
+					<orgName type="full">Ulsan National Institute of Science and Technology</orgName>
+				</funder>
+				<funder ref="#_SGbwxSX">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
 					<orgName type="full">Ministry of Science, ICT &amp; Future Planning</orgName>
 					<orgName type="abbreviated">MSIP</orgName>
 				</funder>
-				<funder ref="#_PaFZqbm">
+				<funder ref="#_6ZxjaKK">
 					<orgName type="full">TSC</orgName>
 				</funder>
-				<funder ref="#_75yrhpb">
-					<orgName type="full">Climate Change Program</orgName>
-				</funder>
-				<funder ref="#_XCgtHq3">
-					<orgName type="full">National Research Foundation of Korea</orgName>
-					<orgName type="abbreviated">NRF</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">Ulsan National Institute of Science and Technology</orgName>
-				</funder>
-				<funder ref="#_FYYtFSs">
+				<funder ref="#_Skharfe">
 					<orgName type="full">Defense Challengeable Future Technology Program of the Agency for Defense Development, Republic of Korea</orgName>
 				</funder>
-				<funder ref="#_6frJemt">
-					<orgName type="full">unknown</orgName>
+				<funder ref="#_DFb5gUg">
+					<orgName type="full">Climate Change Program</orgName>
+				</funder>
+				<funder ref="#_UAWprxX">
+					<orgName type="full">National Research Foundation of Korea</orgName>
+					<orgName type="abbreviated">NRF</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -108,7 +108,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:35+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T17:59+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -155,21 +155,21 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>ACKNOWLEDGMENTS Funding: This work was supported by the <rs type="programName">Basic Science Research Program</rs> (<rs type="grantNumber">NRF-2018R1A2A3074921</rs>), the <rs type="funder">Climate Change Program</rs> (<rs type="grantNumber">NRF2015M1A2A2056542</rs>), and the <rs type="programName">Global Frontier Program</rs> (<rs type="grantNumber">2012M3A6A7054861</rs>) through the <rs type="funder">National Research Foundation of Korea (NRF)</rs> funded by the <rs type="funder">Ministry of Science, ICT &amp; Future Planning (MSIP)</rs>. This work was also supported by the <rs type="funder">Defense Challengeable Future Technology Program of the Agency for Defense Development, Republic of Korea</rs>, and by a brand project (<rs type="grantNumber">1.200030.01</rs>) of <rs type="institution">UNIST</rs>. Finally we thank the beamline staff at <rs type="institution">Pohang Accelerator Laboratory</rs> for supporting GIWAXS measurement. Author contributions: S.I.S. designed and supervised the research. G.K. and H.M. fabricated and characterized the perovskite films and devices. K.S.L. measured <rs type="funder">TSC</rs>. D.Y.L. conducted PL and TCSPC measurement. S.M.Y. measured UVvis absorption. G.K. performed the stability tests of perovskite devices. S.I.S., H.M., and G.K. wrote the draft of the manuscript, and all authors contributed to writing the paper. Competing interests: G.K., H.M., and S.I.S. are inventors on a patent application (<rs type="grantNumber">KR 10-2020-0074349</rs>) submitted by the <rs type="funder">Ulsan National Institute of Science and Technology</rs> that covers the MDACl 2 and Cs costabilized a-FAPbI 3 . Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper or the supplementary materials.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_75yrhpb">
+				<org type="funding" xml:id="_DFb5gUg">
 					<idno type="grant-number">NRF-2018R1A2A3074921</idno>
 					<orgName type="program" subtype="full">Basic Science Research Program</orgName>
 				</org>
-				<org type="funding" xml:id="_6frJemt">
+				<org type="funding" xml:id="_SGbwxSX">
 					<idno type="grant-number">NRF2015M1A2A2056542</idno>
 					<orgName type="program" subtype="full">Global Frontier Program</orgName>
 				</org>
-				<org type="funding" xml:id="_XCgtHq3">
+				<org type="funding" xml:id="_UAWprxX">
 					<idno type="grant-number">2012M3A6A7054861</idno>
 				</org>
-				<org type="funding" xml:id="_FYYtFSs">
+				<org type="funding" xml:id="_Skharfe">
 					<idno type="grant-number">1.200030.01</idno>
 				</org>
-				<org type="funding" xml:id="_PaFZqbm">
+				<org type="funding" xml:id="_6ZxjaKK">
 					<idno type="grant-number">KR 10-2020-0074349</idno>
 				</org>
 			</listOrg>

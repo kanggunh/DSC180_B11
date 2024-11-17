@@ -7,14 +7,14 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Enhanced Electron Extraction Using SnO 2 for High-Efficiency Planar-Structure HC(NH 2 ) 2 PbI 3 -based Perovskite Solar Cells</title>
-				<funder ref="#_bysxRAA">
-					<orgName type="full">National 1000 Young Talents awards, National Key Research and Development Program of China</orgName>
+				<funder ref="#_TN2xxfC">
+					<orgName type="full">National Science Foundation (NSF</orgName>
 				</funder>
-				<funder ref="#_8QgUEJA">
+				<funder ref="#_etHU6Fk">
 					<orgName type="full">Beijing Municipal Science &amp; Technology Commission</orgName>
 				</funder>
-				<funder ref="#_nGYQcFc">
-					<orgName type="full">National Science Foundation (NSF</orgName>
+				<funder ref="#_vf6Vv4c">
+					<orgName type="full">National 1000 Young Talents awards, National Key Research and Development Program of China</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -95,7 +95,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:39+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:04+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -150,13 +150,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work is supported by <rs type="funder">National 1000 Young Talents awards, National Key Research and Development Program of China</rs> (Grant No. <rs type="grantNumber">2016YFB0700700</rs>) and <rs type="funder">Beijing Municipal Science &amp; Technology Commission</rs> (Grant No. <rs type="grantNumber">Z151100003515004</rs>), and also by <rs type="funder">National Science Foundation (NSF</rs>, <rs type="grantNumber">61574133</rs>). The authors would like to thank <rs type="person">Yang (Michael) Yang</rs> from <rs type="affiliation">Zhejiang University</rs> for help with transit photocurrent and photovoltage measurements.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_bysxRAA">
+				<org type="funding" xml:id="_vf6Vv4c">
 					<idno type="grant-number">2016YFB0700700</idno>
 				</org>
-				<org type="funding" xml:id="_8QgUEJA">
+				<org type="funding" xml:id="_etHU6Fk">
 					<idno type="grant-number">Z151100003515004</idno>
 				</org>
-				<org type="funding" xml:id="_nGYQcFc">
+				<org type="funding" xml:id="_TN2xxfC">
 					<idno type="grant-number">61574133</idno>
 				</org>
 			</listOrg>

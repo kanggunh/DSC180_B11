@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main"></title>
-				<funder ref="#_B58Bqy7">
-					<orgName type="full">European Unions 7th Framework Programme</orgName>
-				</funder>
-				<funder ref="#_VXgufZC">
+				<funder ref="#_v5XfrM7">
 					<orgName type="full">Deutsche Forschungsgemeinschaft (DFG)</orgName>
 				</funder>
-				<funder ref="#_8X89GgW">
+				<funder ref="#_Hp9aUZr">
+					<orgName type="full">Ministry of Science of the state of NRW</orgName>
+				</funder>
+				<funder ref="#_b7FghG8">
 					<orgName type="full">German Federal Ministry for Education and Research</orgName>
 				</funder>
-				<funder ref="#_5NXwWPG">
-					<orgName type="full">Ministry of Science of the state of NRW</orgName>
+				<funder ref="#_kM8z9Qy">
+					<orgName type="full">European Unions 7th Framework Programme</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -39,7 +39,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2024-11-08T07:37+0000">
+				<application version="0.8.1" ident="GROBID" when="2024-11-13T18:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -115,16 +115,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>We acknowledge the <rs type="funder">German Federal Ministry for Education and Research</rs> (Grant No. <rs type="grantNumber">03EK3529E</rs>) and the <rs type="funder">Deutsche Forschungsgemeinschaft (DFG)</rs> (Grants: <rs type="grantNumber">RI1551/4-2</rs>) for financial support. We acknowledge the <rs type="funder">Ministry of Science of the state of NRW</rs> for funding within the <rs type="programName">PeroBOOST (EFRE)</rs> project. The research leading to these results has received partial funding from the <rs type="funder">European Unions 7th Framework Programme</rs> under Grant Agreement no. <rs type="grantNumber">604148</rs> (MUJULIMA).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_8X89GgW">
+				<org type="funding" xml:id="_b7FghG8">
 					<idno type="grant-number">03EK3529E</idno>
 				</org>
-				<org type="funding" xml:id="_VXgufZC">
+				<org type="funding" xml:id="_v5XfrM7">
 					<idno type="grant-number">RI1551/4-2</idno>
 				</org>
-				<org type="funding" xml:id="_5NXwWPG">
+				<org type="funding" xml:id="_Hp9aUZr">
 					<orgName type="program" subtype="full">PeroBOOST (EFRE)</orgName>
 				</org>
-				<org type="funding" xml:id="_B58Bqy7">
+				<org type="funding" xml:id="_kM8z9Qy">
 					<idno type="grant-number">604148</idno>
 				</org>
 			</listOrg>

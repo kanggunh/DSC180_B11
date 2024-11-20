@@ -1,5 +1,38 @@
 # Perovskite Solar Cells: Literature Mining Project
 
+### File Structure
+```
+DSC180_B11
+└───config
+|   └───data-params.json
+└───data
+│   │   biocs
+|   |   model_results
+|   |   txts
+|   |   xmls
+|   └───list of csv files
+└───notebooks_for_checkpoint
+│   │   .DS_Store
+│   │   1_extract_link_badpaper.py
+│   │   2_Scrapint_texts.ipynb
+│   │   3_TF-IDF_vectorizer_and_models.ipynb.ipynb
+│   │   4_flan_model.ipynb
+│   │   5_sciBERT.ipynb
+│   │   6_model_analysis.ipynb
+│   │   7_database_searcher.ipynb
+│   │   8_xml_generator.ipynb
+|   └───classification_compare.png
+└───work_in_progress
+│   │   Jill's work
+│   │   Nic
+│   │   danielpark
+|   └───kanggun
+.
+.
+.
+└───README.md  
+```
+
 ### Introduction
 This project aims to optimize the discovery of small molecule that improve the stability of perovskite solar cells. By leveraging literature mining, graph-based molecular representations, and machine learning models, we seek to identify patterns that lead to successful molecules and generate deeper insights into perovskite solar cell performance. The current methods rely heavily on Edisonian experimentation, which is inefficient. Our goal is to automate and streamline this discovery process using data-driven techniques, focusing on the vast body of research already conducted in this field.
 

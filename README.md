@@ -100,7 +100,7 @@ All relevant files for evaluation are located in the `notebooks_for_checkpoint` 
 4. **`6_model_analysis.ipynb`**  
    This notebook aggregates the results from all models and compares the Accuracy, Recall, and Balanced Error Rate (BER) metrics for each model. Visualizations illustrate these comparisons, showing Random Forest with the highest Accuracy and BER.
    - **Visualization**:  
-     <img src="notebooks_for_checkpoint\classification_compare.png" alt="Comparing performance metric for ALL classification perfomed " width="400">
+     <img src="images\classification_compare.png" alt="Comparing performance metric for ALL classification perfomed " width="400">
 
 ### Additional Tasks for Data Extraction
 

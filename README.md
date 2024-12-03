@@ -105,16 +105,16 @@ All relevant files for this Quarter 1 Submission is in the `q1_submission_notebo
 
 **`07_scraping_and_conversion.ipynb`**  
    This notebook gets the PDF file of articles and converts them into txt and xml files.  
-   - **Output**: The files are saved in the `data/txts` and `data/xmls` folder respectively.
+   - **Output**: The files are saved in the `data/txts` and `data/xmls` folders respectively.
 
 ### 4: Training and Extracting Data
 **`08_llama_training.ipynb`**  
    This notebook trains a Llama model using the `training_data.csv`.
-   - **Output**: It saves the trained model in `models/llama-3.2-3b-it-Perovskite-PaperExtractor`.
+   - **Output**: It saves the trained model in `models/llama-3.2-3b-it-Perovskite-PaperExtractor` folder.
 
 **`09_finetuned_llama_extraction.ipynb`**  
-   Run the extraction process using the model from `models/llama-3.2-3b-it-Perovskite-PaperExtractor`.
-   - **Output**: The output of the extraction is then saved to `data/finetuned_llama_output.json`  
+   Run the extraction process using the model from `models/llama-3.2-3b-it-Perovskite-PaperExtractor` folder.
+   - **Output**: The output of the extraction is then saved to `data/finetuned_llama_output.json` folder. 
 
 **`10_evaluation.ipynb`**  
    This notebook evaluates the extraction using F1 Score, MacroF1 Score, Precision, and Recall.
@@ -123,7 +123,7 @@ All relevant files for this Quarter 1 Submission is in the `q1_submission_notebo
 
 **`11_scibert_training.ipynb`**  
    This notebook trains a sciBERT model for data extraction.  
-   - **Output**: It saves the trained model in `scibert_psc_ner_model`.
+   - **Output**: It saves the trained model in `data/scibert_psc_ner_model` folder.
 
 **`12_database_searcher.ipynb`**  
    This notebook includes a function that retrieves key variables (e.g., efficiency, condition, PCE) from a given research paper's DOI using the Perovskite Database. It is intended for use in the extraction phase of our project.

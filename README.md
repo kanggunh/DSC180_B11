@@ -3,34 +3,48 @@
 ### File Structure
 ```
 DSC180_B11
-└───config
-|   └───data-params.json
 └───data
-│   │   biocs
-|   |   model_results
-|   |   txts
-|   |   xmls
-|   └───list of csv files
-└───notebooks_for_checkpoint
-│   │   .DS_Store
-│   │   1_extract_link_badpaper.py
-│   │   2_Scrapint_texts.ipynb
-│   │   3_TF-IDF_vectorizer_and_models.ipynb.ipynb
-│   │   4_flan_model.ipynb
-│   │   5_sciBERT.ipynb
-│   │   6_model_analysis.ipynb
-│   │   7_database_searcher.ipynb
-│   │   8_xml_generator.ipynb
-|   └───classification_compare.png
-└───work_in_progress
-│   │   Jill's work
-│   │   Nic
-│   │   danielpark
-|   └───kanggun
-.
-.
-.
-└───README.md  
+│    │   biocs/                                # TeamTat annotations in XML files
+│    │   model_results/                        # Classfication Model performance results
+│    │   txts/                                 # Raw text files of the 150 articles
+│    │   xmls/                                 # XML files of the 150 articles
+│    │   150_research_papers.csv               # Dataset of 150 research papers
+│    │   bioc_parsed.csv                       # Parsed BIOC data
+│    │   good_paper_links.csv                  # Sample Relevant paper links for classification
+│    │   irrelevant_papers.csv                 # Sample Irrelevant papers classification
+│    │   merged_label.csv                      # Combined labeled dataset for classification task
+│    │   model_performance_results.csv         # Performance metrics for models
+│    │   Perovskite_database_content_all_data.csv # Database for perovskite solar cells
+│    │   text_bad_paper.csv                    # Text from irrelevant papers
+│    │   text_good_paper.csv                   # Text from relevant papers
+│    └───training_data.csv                     # Dataset for training the models
+│
+└───images
+│    │   classification_compare.png            # Model comparison visualization
+│    │   pipeline_flowchart.png                # Workflow diagram
+│    └───q2_timeline.png                       # Project timeline visualization
+│
+└───models
+│    │   llama-3.2-3b-it-Perovskite-PaperExtractor/ # Fine-tuned LLaMA model files
+│    └───scibert_psc_ner_model/                # SciBERT model files
+│
+└───q1_submission_notebooks
+│    │   01_extract_link_badpaper.py           # Script for extracting bad paper links
+│    │   02_Scrapint_texts.ipynb               # Notebook for text scraping
+│    │   03_TF-IDF_vectorizer_and_models.ipynb # TF-IDF vectorization and modeling
+│    │   04_flan_model.ipynb                   # FLAN-T5 model implementation
+│    │   05_sciBERT.ipynb                      # SciBERT model implementation
+│    │   06_scraping_and_conversion.ipynb      # Data scraping and format conversion 
+│    │   07_llama_training.ipynb               # LLaMA training notebook
+│    │   08_finetuned_llama_extraction.ipynb   # LLaMA fine-tuned model extraction
+│    │   09_evaluation.ipynb                   # Evaluation of model performance
+│    │   10_scibert_training.ipynb             
+│    └───11_database_searcher.ipynb            
+│
+└───README.md                                  # Documentation for the project
+└───requirements.txt                           # Python dependencies
+└───run.py                                     # Main script for executing the pipeline
+
 ```
 
 ### Introduction
@@ -42,6 +56,9 @@ This project aims to optimize the discovery of small molecule that improve the s
 - Molecular Representation: Use SMILES (Simplified Molecular Input Line Entry System) to represent molecules in a format suitable for machine learning models.
 - Literature Mining: Automate data extraction from published research papers using NLP techniques (e.g., SciBERT, scraping tools).
 - Model Training: Develop a model that predicts the success of small molecules in improving perovskite solar cell stability and efficiency.
+
+<img src="images\pipeline_flowchart.png" alt="pipeline" width="1000">
+
 
 ### Project Timeline
 - Paper collection / filtering: Develop a classification model that, given a research paper link, determines whether the paper is relevant to our study. Relevant papers are then processed for further data mining.

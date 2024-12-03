@@ -68,17 +68,17 @@ All relevant files for this Quarter 1 Submission is in the `q1_submission_notebo
 
 ### 1: Generating a Relevant vs. Irrelevant Research Papers Database for Classification
 
-1. **`01_extract_link_badpaper.py`**  
+**`01_extract_link_badpaper.py`**  
    This script takes two URLs of irrelevant research papers, performs literature mining, and scrapes all references from these papers. These references form a training set representing irrelevant papers.  
    - **Output**: After successful execution, it generates an `irrelevant_papers.csv` file in the `data` folder.
 
-2. **`02_Scrapint_texts.ipynb`**  
+**`02_Scrapint_texts.ipynb`**  
    Ensure that two CSV files, `150_research_papers.csv` and `irrelevant_papers.csv`, are available in the `data` folder. This notebook accesses these research papers via URLs and extracts clean text data.  
    - **Output**: Upon completion, it outputs a `merged_label.csv` file in the `data` folder, which is used for classification testing.
 
 ### 2: Building and Evaluating Classification Models
 
-1. **`03_TF-IDF_vectorizer_and_models.ipynb`**  
+**`03_TF-IDF_vectorizer_and_models.ipynb`**  
    This notebook performs five classification algorithms:
    - Logistic Regression
    - Naive Bayes
@@ -88,41 +88,43 @@ All relevant files for this Quarter 1 Submission is in the `q1_submission_notebo
 
    Each model undergoes hyperparameter tuning to find optimal settings. The results are saved as CSV files in the `data/model_results` folder, and visualizations show the performance before and after tuning.
 
-2. **`04_flan_model.ipynb`**  
+**`04_flan_model.ipynb`**  
    This notebook performs classification using Google’s Fine-tuned Language Net model.  
    - **Output**: The performance results are saved as a CSV file in the `data/model_results` folder.
 
-3. **`05_sciBERT.ipynb`**  
+**`05_sciBERT.ipynb`**  
    This notebook performs classification using the SciBERT model.  
    - **Output**: The performance results are saved as a CSV file in the `data/model_results` folder.
 
-4. **`06_model_analysis.ipynb`**  
+**`06_model_analysis.ipynb`**  
    This notebook aggregates the results from all models and compares the Accuracy, Recall, and Balanced Error Rate (BER) metrics for each model. Visualizations illustrate these comparisons, showing Random Forest with the highest Accuracy and BER.
    - **Visualization**:    
      <img src="images\classification_compare.png" alt="Comparing performance metric for ALL classification perfomed " width="400">
 
 ### 3: Scraping and Converting Research Articles
 
-1. **`07_scraping_and_conversion.ipynb`**  
+**`07_scraping_and_conversion.ipynb`**  
    This notebook gets the PDF file of articles and converts them into txt and xml files.  
    - **Output**: The files are saved in the `data/txts` and `data/xmls` folder respectively.
 
 ### 4: Training and Extracting Data
-1. **`08_llama_training.ipynb`**  
+**`08_llama_training.ipynb`**  
    This notebook trains a Llama model using the `training_data.csv`.
    - **Output**: It saves the trained model in `models/llama-3.2-3b-it-Perovskite-PaperExtractor`.
-2. **`09_finetuned_llama_extraction.ipynb`**  
+
+**`09_finetuned_llama_extraction.ipynb`**  
    Run the extraction process using the model from `models/llama-3.2-3b-it-Perovskite-PaperExtractor`.
-   - **Output**: The output of the extraction is then saved to `data/finetuned_llama_output.json`
-3. **`10_evaluation.ipynb`**  
+   - **Output**: The output of the extraction is then saved to `data/finetuned_llama_output.json`  
+
+**`10_evaluation.ipynb`**  
    This notebook evaluates the extraction using F1 Score, MacroF1 Score, Precision, and Recall.
 
 ### Additional Tools and Notebooks
 
-1. **`11_scibert_training.ipynb`**  
+**`11_scibert_training.ipynb`**  
    This notebook trains a sciBERT model for data extraction.  
    - **Output**: It saves the trained model in `scibert_psc_ner_model`.
 
-3. **`12_database_searcher.ipynb`**  
+**`12_database_searcher.ipynb`**  
    This notebook includes a function that retrieves key variables (e.g., efficiency, condition, PCE) from a given research paper's DOI using the Perovskite Database. It is intended for use in the extraction phase of our project.
 
